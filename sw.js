@@ -2,8 +2,8 @@
 const VERSION = "pegp-1.1.0";   // keep in step with js/version.js
 const SHELL = [
   "./", "index.html", "css/style.css", "manifest.webmanifest",
-  "js/version.js", "js/i18n.js", "js/store.js", "js/srs.js", "js/map.js", "js/cards.js", "js/views.js", "js/app.js",
-  "data/questions.js", "data/lessons.js", "data/greece-map.js",
+  "js/version.js", "js/i18n.js", "js/store.js", "js/srs.js", "js/map.js", "js/cards.js", "js/views.js", "js/words.js", "js/app.js",
+  "data/questions.js", "data/lessons.js", "data/words.js", "data/greece-map.js",
   "icons/icon.svg", "icons/icon-192.png", "icons/icon-512.png"
 ];
 

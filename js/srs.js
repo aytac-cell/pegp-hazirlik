@@ -92,7 +92,7 @@
       else if (!st) fresh.push(q);
     }
     due.sort((a, b) => stateOf(a.id).due - stateOf(b.id).due);
-    const newLimit = opts.extra ? 10 : Math.max(0, Store.setting("newPerDay") - newIntroducedToday());
+    const newLimit = opts.newLimit ?? (opts.extra ? 10 : Math.max(0, Store.setting("newPerDay") - newIntroducedToday()));
     // new cards: interleave subjects so a session isn't 20 geography cards in a row
     const bySubj = {};
     for (const q of fresh) (bySubj[q.subject] || (bySubj[q.subject] = [])).push(q);
@@ -122,12 +122,13 @@
     return { due, newToday, cat };
   }
 
-  function grade(q, g, firstTryOk) {
+  // opts.ownBudget: vocabulary cards don't use up the daily new-question allowance
+  function grade(q, g, firstTryOk, opts = {}) {
     const now = Date.now();
     const before = stateOf(q.id);
     const st = next(before, g, now);
     Store.data.cards[q.id] = st;
-    Store.logReview(firstTryOk, !before);
+    Store.logReview(firstTryOk, !before && !opts.ownBudget);
     return st;
   }
 

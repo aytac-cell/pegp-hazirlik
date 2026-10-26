@@ -1,0 +1,2451 @@
+{
+  "subject": "ins",
+  "intro": {
+    "tr": "Bu bölüm Yunan devletinin işleyişini kapsar: Anayasa, Cumhurbaşkanı, Parlamento (Vouli) ve seçimler, Hükümet, mahkemeler, bağımsız otoriteler, yerel yönetim, vatandaşın hak ve yükümlülükleri, kamu hizmetleri ve Avrupa Birliği. Sınav Yunanca olduğu için her bölümdeki Yunanca terimleri tanımayı öğrenin. Sayılara (17 yaş, %3, 4 yıl, 27 üye, 6 ay) ve 'kim ne yapar' eşleştirmelerine özellikle dikkat edin.",
+    "en": "This subject covers how the Greek State works: the Constitution, the President, Parliament (Vouli) and elections, the Government, the courts, independent authorities, local government, citizens' rights and duties, public services and the European Union. The exam is in Greek, so learn to recognise the Greek terms in each section. Pay special attention to numbers (age 17, 3%, 4 years, 27 members, 6 months) and to 'who does what' matchings."
+  },
+  "sections": [
+    {
+      "id": "ins-constitution",
+      "title": {
+        "el": "Το Σύνταγμα και οι βασικές αρχές του πολιτεύματος",
+        "tr": "Anayasa ve rejimin temel ilkeleri",
+        "en": "The Constitution and the basic principles of the polity"
+      },
+      "icon": "📜",
+      "summary": {
+        "tr": "Anayasanın ilkeleri, kuvvetler ayrılığı, hukuk normları hiyerarşisi ve devletin organları.",
+        "en": "The Constitution's principles, the separation of powers, the hierarchy of legal norms and the organs of the State."
+      },
+      "blocks": [
+        {
+          "type": "p",
+          "text": {
+            "tr": "Yunanistan bir **parlamenter cumhuriyettir** (Προεδρευόμενη Κοινοβουλευτική Δημοκρατία). Devletin temel kuralları **Anayasa**'da (Σύνταγμα) yazılıdır. Anayasa, ülkedeki **tüm ulusal hukuk işlemlerinden üstündür**.",
+            "en": "Greece is a **parliamentary republic** (Προεδρευόμενη Κοινοβουλευτική Δημοκρατία). The State's basic rules are written in the **Constitution** (Σύνταγμα), which **prevails over all national legal acts**."
+          }
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Anayasa ilkesi",
+              "en": "Principle of the Constitution"
+            },
+            {
+              "tr": "Ona dayanan vatandaş hakkı / örnek",
+              "en": "Citizens' right / example resting on it"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Halk egemenliği ilkesi",
+                "en": "Principle of popular sovereignty"
+              },
+              {
+                "tr": "Vatandaşların oy kullanma ve ülkenin yöneticilerini seçme hakkı",
+                "en": "Citizens' right to vote and elect the country's authorities"
+              }
+            ],
+            [
+              {
+                "tr": "Sosyal devlet ilkesi",
+                "en": "Principle of the social (welfare) state"
+              },
+              {
+                "tr": "Yunanistan'da eğitim ücretsizdir",
+                "en": "Education in Greece is free of charge"
+              }
+            ],
+            [
+              {
+                "tr": "Kuvvetler ayrılığı ilkesi",
+                "en": "Principle of the separation of powers"
+              },
+              {
+                "tr": "Yasalar Parlamento (Vouli) tarafından kabul edilir",
+                "en": "Laws are passed by Parliament"
+              }
+            ],
+            [
+              {
+                "tr": "Hukuk devleti ilkesi",
+                "en": "Principle of the rule of law"
+              },
+              {
+                "tr": "Birinin hapsedilmesi için yalnızca yargı makamının emri gerekir",
+                "en": "Only the judicial authority can order someone's imprisonment"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Kuvvet (işlev)",
+              "en": "Power (function)"
+            },
+            {
+              "tr": "Kim kullanır?",
+              "en": "Who exercises it?"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Yasama",
+                "en": "Legislative"
+              },
+              {
+                "tr": "**Parlamento (Vouli)** ve **Cumhurbaşkanı**",
+                "en": "**Parliament** and the **President of the Republic**"
+              }
+            ],
+            [
+              {
+                "tr": "Yürütme",
+                "en": "Executive"
+              },
+              {
+                "tr": "**Cumhurbaşkanı** ve **Hükümet**",
+                "en": "The **President of the Republic** and the **Government**"
+              }
+            ],
+            [
+              {
+                "tr": "Yargı",
+                "en": "Judicial"
+              },
+              {
+                "tr": "Mahkemeler",
+                "en": "The courts"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Hukuk normları hiyerarşisi** (yukarıdan aşağıya): 1) **Anayasa** — aynı biçimsel düzeyde **AB'nin kurucu antlaşmaları**; 2) Yunan devletince tanınmış uluslararası hukuk işlemleri; 3) **kanun** (νόμος); 4) **Cumhurbaşkanlığı Kararnamesi** (Προεδρικό Διάταγμα); 5) idari işlemler.",
+            "en": "**Hierarchy of legal norms** (top to bottom): 1) the **Constitution** — at the same formal level, the **founding treaties of the EU**; 2) international legal acts recognised by the Greek State; 3) **statute law** (νόμος); 4) the **Presidential Decree** (Προεδρικό Διάταγμα); 5) administrative acts."
+          }
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "Devletin **anayasal ve siyasi organları** (πολιτειακά και πολιτικά όργανα): **Cumhurbaşkanı, Parlamento (Vouli), Hükümet ve Yerel Yönetim organları**. Başpiskopos, Atina Akademisi Başkanı veya Areios Pagos (Yargıtay) Başkanı bu ifadeye girmez.",
+            "en": "The State's **constitutional and political organs** (πολιτειακά και πολιτικά όργανα) are: **the President of the Republic, Parliament, the Government and the organs of Local Government**. The Archbishop, the President of the Academy of Athens or the President of the Areios Pagos are not what this phrase means."
+          }
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "Vatandaşların demokratik süreçlere **doğrudan katılımının** biçimi **seçimlerdir**. Parlamento denetimi milletvekillerinin işidir; kamuoyu yoklaması ve kamuoyu danışması (διαβούλευση) doğrudan katılım değildir. Anayasa'ya göre Yunanistan'da **hâkim din**, **Doğu Ortodoks Mesih Kilisesi'nin dinidir** (madde 3).",
+            "en": "The form of **direct participation** of citizens in democratic processes is **elections**. Parliamentary scrutiny is the job of MPs; opinion polls and public consultation (διαβούλευση) are not direct participation. According to the Constitution (Art. 3), the **prevailing religion** in Greece is that of the **Eastern Orthodox Church of Christ**."
+          }
+        },
+        {
+          "type": "tip",
+          "text": {
+            "tr": "Boşluk doldurmada dikkat: Cumhurbaşkanı **iki** işlevde de yer alır — yasama (Parlamento ile) ve yürütme (Hükümet ile).",
+            "en": "Watch out in fill-in questions: the President appears in **both** functions — legislative (with Parliament) and executive (with the Government)."
+          }
+        },
+        {
+          "type": "terms",
+          "items": [
+            {
+              "el": "Σύνταγμα",
+              "tr": "Anayasa",
+              "en": "Constitution"
+            },
+            {
+              "el": "Αρχή της λαϊκής κυριαρχίας",
+              "tr": "Halk egemenliği ilkesi",
+              "en": "Principle of popular sovereignty"
+            },
+            {
+              "el": "Αρχή του κοινωνικού κράτους",
+              "tr": "Sosyal devlet ilkesi",
+              "en": "Principle of the social state"
+            },
+            {
+              "el": "Αρχή της διάκρισης των εξουσιών",
+              "tr": "Kuvvetler ayrılığı ilkesi",
+              "en": "Principle of the separation of powers"
+            },
+            {
+              "el": "Αρχή του κράτους δικαίου",
+              "tr": "Hukuk devleti ilkesi",
+              "en": "Principle of the rule of law"
+            },
+            {
+              "el": "νομοθετική λειτουργία",
+              "tr": "yasama işlevi",
+              "en": "legislative function"
+            },
+            {
+              "el": "εκτελεστική λειτουργία",
+              "tr": "yürütme işlevi",
+              "en": "executive function"
+            },
+            {
+              "el": "Προεδρικό Διάταγμα",
+              "tr": "Cumhurbaşkanlığı Kararnamesi",
+              "en": "Presidential Decree"
+            },
+            {
+              "el": "πολιτειακά και πολιτικά όργανα",
+              "tr": "anayasal ve siyasi organlar",
+              "en": "constitutional and political organs"
+            },
+            {
+              "el": "Eπικρατούσα θρησκεία",
+              "tr": "hâkim din",
+              "en": "prevailing religion"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        "ins-5",
+        "ins-14",
+        "ins-36",
+        "ins-39",
+        "ins-42",
+        "ins-67"
+      ]
+    },
+    {
+      "id": "ins-president",
+      "title": {
+        "el": "Ο Πρόεδρος της Δημοκρατίας",
+        "tr": "Cumhurbaşkanı",
+        "en": "The President of the Republic"
+      },
+      "icon": "🏛️",
+      "summary": {
+        "tr": "Cumhurbaşkanının seçilme şartları, görevleri ve kimlerin halk tarafından doğrudan seçilmediği.",
+        "en": "Who can become President, the President's role, and which office-holders are not directly elected."
+      },
+      "blocks": [
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Cumhurbaşkanı** (Πρόεδρος της Δημοκρατίας) devletin başıdır ve ülkeyi temsil eder. Halk tarafından değil, **Parlamento (Vouli) tarafından seçilir**; görev süresi 5 yıldır. Yasama işlevini Parlamento ile, yürütme işlevini Hükümet ile birlikte kullanır.",
+            "en": "The **President of the Republic** (Πρόεδρος της Δημοκρατίας) is the head of State and represents the country. He or she is elected **by Parliament, not by the people**; the term is 5 years. The President shares the legislative function with Parliament and the executive function with the Government."
+          }
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "tr": "En az **beş (5) yıldır Yunan vatandaşlığına** sahip olmak",
+              "en": "Having had **Greek citizenship for at least five (5) years**"
+            },
+            {
+              "tr": "Babadan veya anneden **Yunan soyundan** gelmek",
+              "en": "Having **Greek descent** through the father or mother"
+            },
+            {
+              "tr": "En az **40 yaşında** olmak",
+              "en": "Being at least **40 years old**"
+            },
+            {
+              "tr": "Yasal **seçme ehliyetine** sahip olmak",
+              "en": "Having the legal **capacity to vote**"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "Görevdeki Cumhurbaşkanı **30 günden fazla** görevini yapamazsa, yeni Cumhurbaşkanının seçim süreci, vekâlet süreci başladıktan sonra hiçbir durumda toplam **altı (6) aydan** fazla geciktirilemez. Cumhurbaşkanına geçici olarak **Parlamento Başkanı** vekâlet eder (ör. yurt dışında 10 günden uzun kalırsa).",
+            "en": "If the incumbent President is unable to perform his or her duties for **more than 30 days**, the election of a new President may in no case be delayed by more than **six (6) months** in total from the start of the substitution procedure. The President is temporarily replaced by the **Speaker of Parliament** (e.g. during an absence abroad of more than 10 days)."
+          }
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Makam",
+              "en": "Office"
+            },
+            {
+              "tr": "Halk tarafından doğrudan seçilir mi?",
+              "en": "Directly elected by the people?"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Cumhurbaşkanı",
+                "en": "President of the Republic"
+              },
+              {
+                "tr": "**Hayır** — Parlamento seçer",
+                "en": "**No** — elected by Parliament"
+              }
+            ],
+            [
+              {
+                "tr": "Bakan, Bakan Yardımcısı, Portföysüz Bakan, Başbakan Yardımcısı",
+                "en": "Minister, Deputy Minister, Minister without Portfolio, Deputy PM"
+              },
+              {
+                "tr": "**Hayır** — atanır (milletvekili olmaları gerekmez)",
+                "en": "**No** — appointed (they need not be MPs)"
+              }
+            ],
+            [
+              {
+                "tr": "Bakanlık Genel Sekreteri",
+                "en": "Secretary-General of a Ministry"
+              },
+              {
+                "tr": "**Hayır** — atanır",
+                "en": "**No** — appointed"
+              }
+            ],
+            [
+              {
+                "tr": "Belediye Başkanı (Dimarhos)",
+                "en": "Mayor (Dimarchos)"
+              },
+              {
+                "tr": "**Evet**",
+                "en": "**Yes**"
+              }
+            ],
+            [
+              {
+                "tr": "Bölge Valisi (Perifereiarchis)",
+                "en": "Regional Governor (Perifereiarchis)"
+              },
+              {
+                "tr": "**Evet**",
+                "en": "**Yes**"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "text": {
+            "tr": "Sınav sorusu: 'doğrudan seçilmeden göreve gelebilenler' = **Cumhurbaşkanı, Bakan, Bakanlık Genel Sekreteri**. Belediye başkanı ve bölge valisi içeren şıklar yanlıştır.",
+            "en": "Exam question: 'can take office without direct election' = **President of the Republic, Minister, Secretary-General of a Ministry**. Any option containing a mayor or regional governor is wrong."
+          }
+        },
+        {
+          "type": "terms",
+          "items": [
+            {
+              "el": "Πρόεδρος της Δημοκρατίας",
+              "tr": "Cumhurbaşkanı",
+              "en": "President of the Republic"
+            },
+            {
+              "el": "ιδιότητα του Έλληνα πολίτη",
+              "tr": "Yunan vatandaşlığı",
+              "en": "Greek citizenship"
+            },
+            {
+              "el": "ελληνική καταγωγή",
+              "tr": "Yunan soyu",
+              "en": "Greek descent"
+            },
+            {
+              "el": "Υπουργός",
+              "tr": "Bakan",
+              "en": "Minister"
+            },
+            {
+              "el": "Γενικός Γραμματέας Υπουργείου",
+              "tr": "Bakanlık Genel Sekreteri",
+              "en": "Secretary-General of a Ministry"
+            },
+            {
+              "el": "Δήμαρχος",
+              "tr": "Belediye Başkanı",
+              "en": "Mayor"
+            },
+            {
+              "el": "Περιφερειάρχης",
+              "tr": "Bölge Valisi",
+              "en": "Regional Governor"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        "ins-7",
+        "ins-39",
+        "ins-40"
+      ]
+    },
+    {
+      "id": "ins-parliament-elections",
+      "title": {
+        "el": "Η Βουλή και οι εκλογές",
+        "tr": "Parlamento (Vouli) ve seçimler",
+        "en": "Parliament (Vouli) and elections"
+      },
+      "icon": "🗳️",
+      "summary": {
+        "tr": "Milletvekillerinin rolü, Parlamento Başkanı, seçme hakkı, seçim sistemi ve %3 barajı.",
+        "en": "The role of MPs, the Speaker, the right to vote, the electoral system and the 3% threshold."
+      },
+      "blocks": [
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Yunan Parlamentosu (Vouli)** 300 milletvekilinden oluşur. Milletvekillerinin temel rolü kendilerine oy verenleri değil, **halkın bütününü temsil etmektir**. **Genel Kurul**'a (Ολομέλεια) katılma hakkı **milletvekillerine** aittir.",
+            "en": "The **Hellenic Parliament (Vouli)** has 300 MPs. Their main role is to **represent the people as a whole**, not just those who voted for them. The right to take part in the **Plenary** (Ολομέλεια) belongs to the **Members of Parliament**."
+          }
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "tr": "Milletvekili istifasını istediği zaman, **yazılı olarak Parlamento Başkanına** verir.",
+              "en": "An MP may resign at any time, **in writing to the Speaker of Parliament**."
+            },
+            {
+              "tr": "Parlamento **Başkanlık Divanı** (Προεδρείο) üyesi aynı anda **Bakan** olamaz — bu bir bağdaşmazlıktır (ασυμβίβαστο).",
+              "en": "A member of the **Bureau** (Προεδρείο) cannot at the same time be a **Minister** — this is an incompatibility (ασυμβίβαστο)."
+            },
+            {
+              "tr": "Yasama döneminin çalışmalarının başladığını **Cumhurbaşkanı** bizzat veya Başbakan aracılığıyla ilan eder.",
+              "en": "The opening of the parliamentary term is declared by the **President of the Republic**, in person or through the Prime Minister."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Parlamento Başkanı** (Πρόεδρος της Βουλής) halk tarafından değil **milletvekilleri tarafından** seçilir. Parlamentoyu **uluslararası ve ikili parlamento forumlarında temsil eder**. Bankaya göre şu ifadeler **yanlıştır**: 'halk tarafından seçilir', 'Cumhurbaşkanına yurt dışında 3 günden fazla kaldığında vekâlet eder' (Anayasa'daki süre 10 gündür), 'Cumhurbaşkanından sonraki ikinci devlet makamıdır'.",
+            "en": "The **Speaker of Parliament** (Πρόεδρος της Βουλής) is elected **by the MPs**, not by the people. The Speaker **represents Parliament in international and bilateral parliamentary fora**. According to the bank these are **false**: 'elected by the people', 'deputises for the President during an absence abroad of more than 3 days' (the Constitution says 10 days), 'is the second office of State after the President'."
+          }
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Genel (ulusal) seçimler en geç dört yılda bir** yapılır (erken seçim olabilir; tam dört yıl sonra olmak zorunda değildir). **Seçme hakkı**: Yunan vatandaşlığına sahip, **17 yaşını doldurmuş**, fiil ehliyetine sahip ve kesinleşmiş ceza mahkûmiyeti olmayanlar. Yunanistan'da yaşayan yabancılar veya AB vatandaşları milletvekili seçiminde oy kullanamaz.",
+            "en": "**National elections are held every four years at the latest** (early elections are possible; it is not exactly four years). **Right to vote**: those with Greek citizenship, who have **completed their 17th year**, have legal capacity and have no irrevocable criminal conviction. Foreign residents or EU citizens living in Greece cannot vote in parliamentary elections."
+          }
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Seçim sistemi**, milletvekili sandalyelerinin partilere aldıkları oylara göre **dağıtılma yöntemidir**. **Mayıs 2023** seçimleri **basit (tam) nispi temsil** (απλή αναλογική) ile yapıldı. Bir partinin milletvekili çıkarabilmesi için oyların en az **%3**'ünü alması gerekir.",
+            "en": "The **electoral system** is **the way parliamentary seats are allocated** to parties according to their votes. The **May 2023** elections were held under **simple proportional representation** (απλή αναλογική). A party needs at least **3%** of the vote to elect MPs."
+          }
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Eterodimotis** (ετεροδημότης): ikamet ettiği yerde, **seçmen kütüğüne kayıtlı olduğu seçim bölgesinin** listelerine oy vermek istediğini bildiren seçmen.",
+            "en": "**Eterodimotis** (ετεροδημότης, out-of-district voter): a voter who declares that he or she wishes to vote, at the place of residence, for the lists of the **electoral district where he or she is registered**."
+          }
+        },
+        {
+          "type": "tip",
+          "text": {
+            "tr": "Akılda tut: **17** yaş (seçmen) · **%3** baraj · **en geç 4** yıl · **300** milletvekili · Mayıs 2023 = **απλή αναλογική**.",
+            "en": "Remember: age **17** (voters) · **3%** threshold · **at most 4** years · **300** MPs · May 2023 = **απλή αναλογική**."
+          }
+        },
+        {
+          "type": "terms",
+          "items": [
+            {
+              "el": "Βουλή",
+              "tr": "Yunan Parlamentosu (Vouli)",
+              "en": "Hellenic Parliament"
+            },
+            {
+              "el": "βουλευτής",
+              "tr": "milletvekili",
+              "en": "Member of Parliament"
+            },
+            {
+              "el": "Ολομέλεια της Βουλής",
+              "tr": "Parlamento Genel Kurulu",
+              "en": "Plenary of Parliament"
+            },
+            {
+              "el": "Πρόεδρος της Βουλής",
+              "tr": "Parlamento Başkanı",
+              "en": "Speaker of Parliament"
+            },
+            {
+              "el": "Προεδρείο της Βουλής",
+              "tr": "Parlamento Başkanlık Divanı",
+              "en": "Bureau of Parliament"
+            },
+            {
+              "el": "ασυμβίβαστο",
+              "tr": "bağdaşmazlık",
+              "en": "incompatibility"
+            },
+            {
+              "el": "δικαίωμα του εκλέγειν",
+              "tr": "seçme hakkı",
+              "en": "right to vote"
+            },
+            {
+              "el": "εκλογικό σύστημα",
+              "tr": "seçim sistemi",
+              "en": "electoral system"
+            },
+            {
+              "el": "απλή αναλογική",
+              "tr": "basit (tam) nispi temsil",
+              "en": "simple proportional representation"
+            },
+            {
+              "el": "ενισχυμένη αναλογική",
+              "tr": "güçlendirilmiş nispi temsil",
+              "en": "reinforced proportional representation"
+            },
+            {
+              "el": "ετεροδημότης",
+              "tr": "kayıtlı olduğu yer dışında oy kullanan seçmen",
+              "en": "out-of-district voter"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        "ins-3",
+        "ins-4",
+        "ins-6",
+        "ins-13",
+        "ins-29",
+        "ins-32",
+        "ins-45",
+        "ins-59",
+        "ins-68",
+        "ins-69"
+      ]
+    },
+    {
+      "id": "ins-government",
+      "title": {
+        "el": "Η Κυβέρνηση, ο Πρωθυπουργός και ο κοινοβουλευτικός έλεγχος",
+        "tr": "Hükümet, Başbakan ve parlamento denetimi",
+        "en": "The Government, the Prime Minister and parliamentary scrutiny"
+      },
+      "icon": "🏢",
+      "summary": {
+        "tr": "Güvenoyu (dedilomeni), Başbakan Saati, soru ve gensorular, kabine değişikliği ve geçici hükümet.",
+        "en": "Confidence (dedilomeni), Prime Minister's Hour, questions and interpellations, reshuffles and caretaker governments."
+      },
+      "blocks": [
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Hükümet** (Κυβέρνηση) Başbakan, Bakanlar, Bakan Yardımcıları (Υφυπουργοί) ve gerekirse Başbakan Yardımcısı ile portföysüz bakanlardan oluşur. Başbakanın makamı **Maximos Konağı**'dır (Μέγαρο Μαξίμου).",
+            "en": "The **Government** (Κυβέρνηση) consists of the Prime Minister, Ministers, Deputy Ministers (Υφυπουργοί) and possibly a Deputy Prime Minister and ministers without portfolio. The PM's office is the **Maximos Mansion** (Μέγαρο Μαξίμου)."
+          }
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Açıklanmış güven ilkesi** (αρχή της δεδηλωμένης, Anayasa **madde 84**): Hükümet Parlamentodan **güvenoyu almak zorundadır**; Parlamento da **her an güvensizlik oyuyla** güvenini geri çekebilir. Doğru ayrıntılar: güvenoyu Başbakanın yemininden sonra **15 gün** içinde istenir (20 değil); Parlamento güvenini **tek bir Hükümet üyesinden de** çekebilir; milletvekili olan Bakanlar da oy kullanır.",
+            "en": "**Principle of declared confidence** (αρχή της δεδηλωμένης, **Article 84** of the Constitution): the Government **must obtain a vote of confidence** from Parliament, and Parliament may **withdraw its confidence at any time** by a vote of no confidence. Correct details: the vote is sought within **15 days** of the PM's swearing-in (not 20); Parliament can withdraw confidence **also from an individual member** of the Government; Ministers who are MPs do vote."
+          }
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Parlamento denetimi** (κοινοβουλευτικός έλεγχος) esas olarak **sorular** (ερωτήσεις), **güncel gensorular** (επίκαιρες επερωτήσεις) ve **gensorular** (επερωτήσεις) ile yapılır. Parlamento, bir **güvensizlik önergesi** (πρόταση δυσπιστίας) sonrası Hükümetten veya bir üyesinden güvenini çekebilir. Örnek: **milletvekillerinin hükümete soru önergesi vermesi**. Ortak Bakanlar Kararı (ΚΥΑ) çıkarmak, kanuna değişiklik önergesi kabul etmek veya salonu terk etmek parlamento denetimi değildir.",
+            "en": "**Parliamentary scrutiny** (κοινοβουλευτικός έλεγχος) is exercised mainly through **questions** (ερωτήσεις), **topical interpellations** (επίκαιρες επερωτήσεις) and **interpellations** (επερωτήσεις). Parliament may withdraw its confidence from the Government or a member after a **motion of censure** (πρόταση δυσπιστίας). Example: **MPs tabling a question to the government**. Issuing a Joint Ministerial Decision (ΚΥΑ), passing an amendment or walking out is not scrutiny."
+          }
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Başbakan Saati** (Ώρα του Πρωθυπουργού): Başbakanın Parlamentoda **kendisine yöneltilen güncel bir soruyu** (επίκαιρη ερώτηση) yanıtlamasıdır. Parlamento çalışırken **haftada bir kez** yapılır.",
+            "en": "**Prime Minister's Hour** (Ώρα του Πρωθυπουργού): the PM answers in Parliament **a topical question addressed to him personally** (επίκαιρη ερώτηση). While Parliament is in session it takes place **once a week**."
+          }
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Terim",
+              "en": "Term"
+            },
+            {
+              "tr": "Anlamı (bankaya göre)",
+              "en": "Meaning (per the bank)"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Kabine değişikliği (ανασχηματισμός)",
+                "en": "Reshuffle (ανασχηματισμός)"
+              },
+              {
+                "tr": "**Başbakanın** Hükümetin bileşimini değiştirmesi: bakanları değiştirmek veya bakanlıkların yapısını/görevlerini değiştirmek",
+                "en": "The **Prime Minister** changes the Government's composition: replacing ministers or changing ministries' structure/competences"
+              }
+            ],
+            [
+              {
+                "tr": "Geçici hükümet (Υπηρεσιακή Κυβέρνηση)",
+                "en": "Caretaker Government (Υπηρεσιακή Κυβέρνηση)"
+              },
+              {
+                "tr": "Ülkeyi **seçime götürmek** için kurulan, **güvenoyu almamış**, özel bileşimli ve **sınırlı süreli** hükümet",
+                "en": "A government of **limited duration** and special composition, **without a vote of confidence**, formed to **lead the country to elections**"
+              }
+            ],
+            [
+              {
+                "tr": "Ana Muhalefet (Αξιωματική Αντιπολίτευση)",
+                "en": "Official Opposition"
+              },
+              {
+                "tr": "Parlamentodaki **en büyük muhalefet partisi**",
+                "en": "The **largest opposition party** in Parliament"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "text": {
+            "tr": "Kabine değişikliğini **Başbakan** yapar — Cumhurbaşkanı veya Parlamento Başkanı değil.",
+            "en": "A reshuffle is made by the **Prime Minister** — not by the President or the Speaker."
+          }
+        },
+        {
+          "type": "terms",
+          "items": [
+            {
+              "el": "Κυβέρνηση",
+              "tr": "Hükümet",
+              "en": "Government"
+            },
+            {
+              "el": "Πρωθυπουργός",
+              "tr": "Başbakan",
+              "en": "Prime Minister"
+            },
+            {
+              "el": "Υφυπουργός",
+              "tr": "Bakan Yardımcısı",
+              "en": "Deputy Minister"
+            },
+            {
+              "el": "αρχή της δεδηλωμένης",
+              "tr": "açıklanmış güven ilkesi",
+              "en": "principle of declared confidence"
+            },
+            {
+              "el": "ψήφος εμπιστοσύνης / δυσπιστίας",
+              "tr": "güvenoyu / güvensizlik oyu",
+              "en": "vote of confidence / no confidence"
+            },
+            {
+              "el": "πρόταση δυσπιστίας",
+              "tr": "güvensizlik önergesi",
+              "en": "motion of censure"
+            },
+            {
+              "el": "κοινοβουλευτικός έλεγχος",
+              "tr": "parlamento denetimi",
+              "en": "parliamentary scrutiny"
+            },
+            {
+              "el": "ερωτήσεις",
+              "tr": "sorular",
+              "en": "questions"
+            },
+            {
+              "el": "επερωτήσεις",
+              "tr": "gensorular",
+              "en": "interpellations"
+            },
+            {
+              "el": "επίκαιρες επερωτήσεις",
+              "tr": "güncel gensorular",
+              "en": "topical interpellations"
+            },
+            {
+              "el": "Ώρα του Πρωθυπουργού",
+              "tr": "Başbakan Saati",
+              "en": "Prime Minister's Hour"
+            },
+            {
+              "el": "ανασχηματισμός",
+              "tr": "kabine değişikliği",
+              "en": "reshuffle"
+            },
+            {
+              "el": "Υπηρεσιακή Κυβέρνηση",
+              "tr": "geçici (seçim) hükümeti",
+              "en": "caretaker government"
+            },
+            {
+              "el": "ΚΥΑ",
+              "tr": "Ortak Bakanlar Kararı",
+              "en": "Joint Ministerial Decision"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        "ins-9",
+        "ins-17",
+        "ins-20",
+        "ins-43",
+        "ins-53",
+        "ins-57",
+        "ins-70",
+        "ins-71"
+      ]
+    },
+    {
+      "id": "ins-justice",
+      "title": {
+        "el": "Η Δικαιοσύνη και τα δικαστήρια",
+        "tr": "Yargı ve mahkemeler",
+        "en": "Justice and the courts"
+      },
+      "icon": "⚖️",
+      "summary": {
+        "tr": "Üç yüksek mahkeme, mahkeme türleri ve Sayıştay'ın görevi.",
+        "en": "The three supreme courts, the types of courts and the role of the Court of Audit."
+      },
+      "blocks": [
+        {
+          "type": "p",
+          "text": {
+            "tr": "Yargı işlevini bağımsız **mahkemeler** kullanır. Yunanistan'da **üç yüksek mahkeme** vardır:",
+            "en": "The judicial function is exercised by independent **courts**. Greece has **three supreme courts**:"
+          }
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Yüksek mahkeme",
+              "en": "Supreme court"
+            },
+            {
+              "tr": "Alanı",
+              "en": "Competence"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Areios Pagos (Yargıtay) — Άρειος Πάγος",
+                "en": "Areios Pagos — Άρειος Πάγος"
+              },
+              {
+                "tr": "Hukuk ve ceza davaları",
+                "en": "Civil and criminal cases"
+              }
+            ],
+            [
+              {
+                "tr": "Danıştay — Συμβούλιο της Επικρατείας (ΣτΕ)",
+                "en": "Council of State — Συμβούλιο της Επικρατείας (ΣτΕ)"
+              },
+              {
+                "tr": "İdari davalar",
+                "en": "Administrative cases"
+              }
+            ],
+            [
+              {
+                "tr": "Sayıştay — Ελεγκτικό Συνέδριο",
+                "en": "Court of Audit — Ελεγκτικό Συνέδριο"
+              },
+              {
+                "tr": "**Kamu sözleşmelerini ve harcamalarını denetler**",
+                "en": "**Audits public contracts and expenditure**"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Mahkeme türü",
+              "en": "Type of court"
+            },
+            {
+              "tr": "Örnek (bankadaki eşleştirme)",
+              "en": "Example (bank matching)"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Ceza (Ποινικό)",
+                "en": "Criminal (Ποινικό)"
+              },
+              {
+                "tr": "Karma Jürili Mahkeme (Μικτό Ορκωτό Δικαστήριο)",
+                "en": "Mixed Jury Court (Μικτό Ορκωτό Δικαστήριο)"
+              }
+            ],
+            [
+              {
+                "tr": "İdari (Διοικητικό)",
+                "en": "Administrative (Διοικητικό)"
+              },
+              {
+                "tr": "Danıştay (ΣτΕ)",
+                "en": "Council of State (ΣτΕ)"
+              }
+            ],
+            [
+              {
+                "tr": "Hukuk/medeni (Πολιτικό)",
+                "en": "Civil (Πολιτικό)"
+              },
+              {
+                "tr": "Sulh Mahkemesi (Ειρηνοδικείο)",
+                "en": "Magistrate's Court (Ειρηνοδικείο)"
+              }
+            ],
+            [
+              {
+                "tr": "Özel (Ειδικό)",
+                "en": "Special (Ειδικό)"
+              },
+              {
+                "tr": "Hava Kuvvetleri Mahkemesi (Αεροδικείο)",
+                "en": "Air Force Court (Αεροδικείο)"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "Kamu harcamalarını denetleyen organ **Sayıştay**'dır — Parlamento, Maliye Bakanlığı veya ASEP değil. **Adli sicil (sabıka) kaydı** belgesini **Adalet Bakanlığı** düzenler (vergi dairesi veya Vatandaşı Koruma Bakanlığı değil).",
+            "en": "The body that audits public spending is the **Court of Audit** — not Parliament, the Ministry of Finance or ASEP. The **Criminal Record** certificate is issued by the **Ministry of Justice** (not the tax office or the Ministry of Citizen Protection)."
+          }
+        },
+        {
+          "type": "tip",
+          "text": {
+            "tr": "Hafıza: 'Ειρηνοδικείο' = günlük küçük medeni uyuşmazlıklar → Hukuk; 'Ορκωτό' = jüri → Ceza; 'Αεροδικείο' = askerî → Özel.",
+            "en": "Memory aid: 'Ειρηνοδικείο' = small everyday civil disputes → Civil; 'Ορκωτό' = jury → Criminal; 'Αεροδικείο' = military → Special."
+          }
+        },
+        {
+          "type": "terms",
+          "items": [
+            {
+              "el": "Ανώτατα Δικαστήρια",
+              "tr": "yüksek mahkemeler",
+              "en": "supreme courts"
+            },
+            {
+              "el": "Άρειος Πάγος",
+              "tr": "Areios Pagos (Yargıtay)",
+              "en": "Areios Pagos (Supreme Civil and Criminal Court)"
+            },
+            {
+              "el": "Συμβούλιο της Επικρατείας (ΣτΕ)",
+              "tr": "Danıştay (StE)",
+              "en": "Council of State"
+            },
+            {
+              "el": "Ελεγκτικό Συνέδριο",
+              "tr": "Sayıştay",
+              "en": "Court of Audit"
+            },
+            {
+              "el": "Μικτό Ορκωτό Δικαστήριο",
+              "tr": "Karma Jürili Mahkeme",
+              "en": "Mixed Jury Court"
+            },
+            {
+              "el": "Ειρηνοδικείο",
+              "tr": "Sulh Mahkemesi",
+              "en": "Magistrate's Court"
+            },
+            {
+              "el": "Αεροδικείο",
+              "tr": "Hava Kuvvetleri Mahkemesi",
+              "en": "Air Force Court"
+            },
+            {
+              "el": "Ποινικό Μητρώο",
+              "tr": "adli sicil kaydı",
+              "en": "Criminal Record"
+            },
+            {
+              "el": "Υπουργείο Δικαιοσύνης",
+              "tr": "Adalet Bakanlığı",
+              "en": "Ministry of Justice"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        "ins-8",
+        "ins-18",
+        "ins-60",
+        "ins-66"
+      ]
+    },
+    {
+      "id": "ins-independent-authorities",
+      "title": {
+        "el": "Ανεξάρτητες Αρχές και προστασία του καταναλωτή",
+        "tr": "Bağımsız idari otoriteler ve tüketicinin korunması",
+        "en": "Independent authorities and consumer protection"
+      },
+      "icon": "🛡️",
+      "summary": {
+        "tr": "Yurttaş Ombudsmanı, Tüketici Ombudsmanı, Rekabet Kurulu, Enerji Düzenleme Kurumu ve benzerleri.",
+        "en": "The Greek Ombudsman, the Consumer Ombudsman, the Competition Commission, the Energy Regulator and others."
+      },
+      "blocks": [
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Bağımsız İdari Otoriteler** (Ανεξάρτητες Αρχές) hükümetten bağımsız çalışır ve vatandaşların haklarını korur.",
+            "en": "**Independent Authorities** (Ανεξάρτητες Αρχές) work independently of the government and protect citizens' rights."
+          }
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Kurum",
+              "en": "Body"
+            },
+            {
+              "tr": "Görevi",
+              "en": "Responsibility"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Yurttaş Ombudsmanı (Συνήγορος του Πολίτη)",
+                "en": "Greek Ombudsman (Συνήγορος του Πολίτη)"
+              },
+              {
+                "tr": "**Ayrımcılık veya kötü yönetim** durumunda **vatandaş ile idare arasında arabuluculuk** yapar",
+                "en": "**Mediates between citizens and the administration** in cases of **discrimination or maladministration**"
+              }
+            ],
+            [
+              {
+                "tr": "Tüketici Ombudsmanı (Συνήγορος του Καταναλωτή)",
+                "en": "Consumer Ombudsman (Συνήγορος του Καταναλωτή)"
+              },
+              {
+                "tr": "Tüketiciler ile kamu/özel tedarikçiler arasındaki uyuşmazlıklarda **ücretsiz arabuluculuk**; **yanıltıcı reklam** şikâyetleri buraya yapılır",
+                "en": "**Free mediation** between consumers and public/private suppliers; complaints about **misleading advertising** go here"
+              }
+            ],
+            [
+              {
+                "tr": "Rekabet Kurulu (Επιτροπή Ανταγωνισμού)",
+                "en": "Hellenic Competition Commission (Επιτροπή Ανταγωνισμού)"
+              },
+              {
+                "tr": "Rekabeti kısıtlayan veya bozan ve tüketiciye zarar veren uygulamalarla mücadele",
+                "en": "Combats practices that restrict or distort competition and harm consumers"
+              }
+            ],
+            [
+              {
+                "tr": "Enerji Düzenleme Kurumu (Ρυθμιστική Αρχή Ενέργειας)",
+                "en": "Regulatory Authority for Energy (Ρυθμιστική Αρχή Ενέργειας)"
+              },
+              {
+                "tr": "İç enerji piyasasındaki rekabeti ve hane tüketicilerine yönelik fiyatları gözetir",
+                "en": "Supervises competition in the domestic energy market and household prices"
+              }
+            ],
+            [
+              {
+                "tr": "Tüketicinin Korunması Genel Müdürlüğü (Kalkınma Bakanlığı)",
+                "en": "General Directorate for Consumer Protection (Ministry of Development)"
+              },
+              {
+                "tr": "Borçluları **haksız borç tahsilatı** uygulamalarına karşı korur",
+                "en": "Protects debtors from **unfair debt-collection** practices"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "tr": "Ulusal İnsan Hakları Komisyonu (ΕΕΔΑ) — insan hakları konusunda danışma organı.",
+              "en": "National Commission for Human Rights (ΕΕΔΑ) — advisory body on human rights."
+            },
+            {
+              "tr": "Ulusal Radyo ve Televizyon Konseyi (Ε.Σ.Ρ.) — radyo ve televizyonu denetler.",
+              "en": "National Council for Radio and Television (Ε.Σ.Ρ.) — supervises radio and TV."
+            },
+            {
+              "tr": "Yüksek Personel Seçme Kurulu (ΑΣΕΠ) — kamu personelinin seçimi.",
+              "en": "Supreme Council for Civil Personnel Selection (ΑΣΕΠ) — selection of public-sector staff."
+            }
+          ]
+        },
+        {
+          "type": "tip",
+          "text": {
+            "tr": "Yurttaş Ombudsmanı vatandaşlara **adli yardım** vermez ve onları Avrupa mahkemesinde **temsil etmez**; o bir **arabulucudur**. Yanıltıcı reklam → **Tüketici** Ombudsmanı.",
+            "en": "The Greek Ombudsman does **not** give legal aid or **represent** citizens before European courts; it is a **mediator**. Misleading advertising → the **Consumer** Ombudsman."
+          }
+        },
+        {
+          "type": "terms",
+          "items": [
+            {
+              "el": "Ανεξάρτητη Αρχή",
+              "tr": "Bağımsız İdari Otorite",
+              "en": "Independent Authority"
+            },
+            {
+              "el": "Συνήγορος του Πολίτη",
+              "tr": "Yurttaş Ombudsmanı (Kamu Denetçisi)",
+              "en": "Greek Ombudsman"
+            },
+            {
+              "el": "Συνήγορος του Καταναλωτή",
+              "tr": "Tüketici Ombudsmanı",
+              "en": "Consumer Ombudsman"
+            },
+            {
+              "el": "Επιτροπή Ανταγωνισμού",
+              "tr": "Rekabet Kurulu",
+              "en": "Hellenic Competition Commission"
+            },
+            {
+              "el": "Ρυθμιστική Αρχή Ενέργειας",
+              "tr": "Enerji Düzenleme Kurumu",
+              "en": "Regulatory Authority for Energy"
+            },
+            {
+              "el": "Γενική Διεύθυνση Προστασίας Καταναλωτή",
+              "tr": "Tüketicinin Korunması Genel Müdürlüğü",
+              "en": "General Directorate for Consumer Protection"
+            },
+            {
+              "el": "κακοδιοίκηση",
+              "tr": "kötü yönetim",
+              "en": "maladministration"
+            },
+            {
+              "el": "Εθνική Επιτροπή για τα Δικαιώματα του Ανθρώπου (ΕΕΔΑ)",
+              "tr": "Ulusal İnsan Hakları Komisyonu (EEDA)",
+              "en": "National Commission for Human Rights"
+            },
+            {
+              "el": "Εθνικό Συμβούλιο Ραδιοτηλεόρασης (Ε.Σ.Ρ.)",
+              "tr": "Ulusal Radyo ve Televizyon Konseyi (ESR)",
+              "en": "National Council for Radio and Television"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        "ins-41",
+        "ins-46",
+        "ins-72"
+      ]
+    },
+    {
+      "id": "ins-local-government",
+      "title": {
+        "el": "Τοπική Αυτοδιοίκηση και Άγιο Όρος",
+        "tr": "Yerel yönetim ve Aynaroz",
+        "en": "Local government and Mount Athos"
+      },
+      "icon": "🏘️",
+      "summary": {
+        "tr": "Anayasa madde 102, belediyeler ve bölgeler, kamu yararına hizmet işletmeleri ve Aynaroz'un özel statüsü.",
+        "en": "Article 102, municipalities and regions, public utility enterprises and the special status of Mount Athos."
+      },
+      "blocks": [
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Yerel yönetim** (τοπική αυτοδιοίκηση) kurumu **Anayasa'nın 102. maddesinde güvence altındadır** — yalnızca özel bir kanunla veya belediyelerin kendi kararıyla belirlenmez.",
+            "en": "The institution of **local government** (τοπική αυτοδιοίκηση) is **enshrined in Article 102 of the Constitution** — it is not merely set by a special law or by the municipalities themselves."
+          }
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Kademe",
+              "en": "Tier"
+            },
+            {
+              "tr": "Kurum",
+              "en": "Body"
+            },
+            {
+              "tr": "Başı (halk seçer)",
+              "en": "Head (elected by the people)"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Birinci kademe",
+                "en": "First tier"
+              },
+              {
+                "tr": "Belediye (Δήμος)",
+                "en": "Municipality (Δήμος)"
+              },
+              {
+                "tr": "Belediye Başkanı (Δήμαρχος)",
+                "en": "Mayor (Δήμαρχος)"
+              }
+            ],
+            [
+              {
+                "tr": "İkinci kademe",
+                "en": "Second tier"
+              },
+              {
+                "tr": "Bölge (Περιφέρεια) — 13 bölge",
+                "en": "Region (Περιφέρεια) — 13 regions"
+              },
+              {
+                "tr": "Bölge Valisi (Περιφερειάρχης)",
+                "en": "Regional Governor (Περιφερειάρχης)"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Kamu Yararına Hizmet İşletmeleri** (Επιχειρήσεις Κοινής Ωφέλειας) halka temel hizmet veren işletmelerdir: ör. **Selanik Su ve Kanalizasyon Şirketi (ΕΥΑΘ)**, **Zografou Belediyesi Kalkınma İşletmesi**, **Yunan Postaları (ΕΛΤΑ)**. **Yunan Alüminyum Sanayii** bunlardan **değildir** (özel bir sanayi şirketidir).",
+            "en": "**Public Utility Enterprises** (Επιχειρήσεις Κοινής Ωφέλειας) provide basic services to the public: e.g. **Thessaloniki Water Supply and Sewerage (ΕΥΑΘ)**, the **Municipal Development Enterprise of Zografou**, **Hellenic Post (ΕΛΤΑ)**. The **Hellenic Aluminium Industry** is **not** one (it is a private industrial company)."
+          }
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Aynaroz** (Άγιο Όρος), Yunan devletinin **özerk (kendi kendini yöneten) bir parçasıdır**. Orada manastır hayatı yaşayan herkes **rahip adayı (δόκιμος) veya keşiş olarak kabul edildiği anda Yunan vatandaşlığını kazanır**. **Kamu düzeni ve güvenliği Yunan devletine** aittir. Aynaroz ülkenin **kuzeyinde**, Halkidiki'dedir (güneyde değil).",
+            "en": "**Mount Athos** (Άγιο Όρος) is a **self-governing part of the Greek State**. Everyone living there as a monk **acquires Greek citizenship as soon as admitted as a novice (δόκιμος) or monk**. **Public order and security rest with the Greek State**. Athos lies in the **north** of the country, in Chalkidiki (not in the south)."
+          }
+        },
+        {
+          "type": "map",
+          "places": [
+            {
+              "name": {
+                "el": "Άγιο Όρος",
+                "tr": "Aynaroz",
+                "en": "Mount Athos"
+              },
+              "lat": 40.26,
+              "lon": 24.22
+            }
+          ]
+        },
+        {
+          "type": "terms",
+          "items": [
+            {
+              "el": "τοπική αυτοδιοίκηση",
+              "tr": "yerel yönetim",
+              "en": "local government"
+            },
+            {
+              "el": "Δήμος",
+              "tr": "belediye",
+              "en": "municipality"
+            },
+            {
+              "el": "Περιφέρεια",
+              "tr": "bölge",
+              "en": "region"
+            },
+            {
+              "el": "Επιχειρήσεις Κοινής Ωφέλειας",
+              "tr": "Kamu Yararına Hizmet İşletmeleri",
+              "en": "Public Utility Enterprises"
+            },
+            {
+              "el": "Ελληνικά Ταχυδρομεία Α.Ε. (ΕΛΤΑ)",
+              "tr": "Yunan Postaları (ELTA)",
+              "en": "Hellenic Post (ELTA)"
+            },
+            {
+              "el": "Άγιο Όρος",
+              "tr": "Aynaroz",
+              "en": "Mount Athos"
+            },
+            {
+              "el": "αυτοδιοίκητο",
+              "tr": "özerk (kendi kendini yöneten)",
+              "en": "self-governing"
+            },
+            {
+              "el": "δόκιμος / μοναχός",
+              "tr": "rahip adayı / keşiş",
+              "en": "novice / monk"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        "ins-16",
+        "ins-26",
+        "ins-76"
+      ]
+    },
+    {
+      "id": "ins-citizenship",
+      "title": {
+        "el": "Ιθαγένεια και υποχρεώσεις του πολίτη",
+        "tr": "Vatandaşlık ve vatandaşın yükümlülükleri",
+        "en": "Citizenship and citizens' duties"
+      },
+      "icon": "🪪",
+      "summary": {
+        "tr": "Vatandaşlığın kazanılması ve kaybı, vatandaşlığa alınma şartları ve askerlik yükümlülüğü.",
+        "en": "Acquiring and losing citizenship, naturalisation requirements and military service."
+      },
+      "blocks": [
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Terim",
+              "en": "Term"
+            },
+            {
+              "tr": "Anlamı",
+              "en": "Meaning"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Ημεδαποί",
+                "en": "Ημεδαποί"
+              },
+              {
+                "tr": "Bir devletin **vatandaşlığına sahip olanlar** (o devletin uyrukları)",
+                "en": "Those **holding the citizenship** of a State (nationals)"
+              }
+            ],
+            [
+              {
+                "tr": "Αλλοδαποί",
+                "en": "Αλλοδαποί"
+              },
+              {
+                "tr": "Yabancılar",
+                "en": "Foreigners (aliens)"
+              }
+            ],
+            [
+              {
+                "tr": "Ομογενείς",
+                "en": "Ομογενείς"
+              },
+              {
+                "tr": "Başka ülkede yaşayan Yunan soylular",
+                "en": "Persons of Greek descent"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Durum",
+              "en": "Case"
+            },
+            {
+              "tr": "Nasıl?",
+              "en": "How?"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Doğumla kazanma",
+                "en": "Acquisition by birth"
+              },
+              {
+                "tr": "**Kan bağı (akrabalık)** ile; **belirli koşullarda Yunan topraklarında doğum** ile",
+                "en": "Through **kinship by blood**; through **birth on Greek territory under certain conditions**"
+              }
+            ],
+            [
+              {
+                "tr": "Vatandaşlığa alınma (πολιτογράφηση)",
+                "en": "Naturalisation (πολιτογράφηση)"
+              },
+              {
+                "tr": "Başvuru ile; şartlar aşağıda",
+                "en": "By application; requirements below"
+              }
+            ],
+            [
+              {
+                "tr": "Kaybetme",
+                "en": "Loss"
+              },
+              {
+                "tr": "**Vatandaşlıktan çıkarılma (έκπτωση)** ve **feragat beyanı (δήλωση αποποίησης)**",
+                "en": "**Deprivation (έκπτωση)** and a **declaration of renunciation (δήλωση αποποίησης)**"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "tr": "**18 yaş ve üzeri** olmak",
+              "en": "Being **18 years of age or older**"
+            },
+            {
+              "tr": "**Vergi ve sigorta yükümlülüklerini** sürekli yerine getirmek",
+              "en": "Consistently fulfilling **tax and social insurance obligations**"
+            },
+            {
+              "tr": "**Yunancayı yeterince bilmek** (ve bu sınavda başarılı olmak)",
+              "en": "Having **sufficient knowledge of Greek** (and passing this exam)"
+            }
+          ]
+        },
+        {
+          "type": "tip",
+          "text": {
+            "tr": "Vatandaşlığa alınma sorusunda cevap: **yukarıdakilerin hepsi**.",
+            "en": "In the naturalisation question the answer is: **all of the above**."
+          }
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Askerlik**: Anayasaya göre **silah taşıyabilecek her Yunan, kanunlara uygun olarak Vatanın savunmasına katkıda bulunmakla yükümlüdür**. Askerlik **erkekler için** zorunludur (kadınlar için değil). Süre **24 ay değildir** (bugün çok daha kısadır). Dileyen, askerliğin **kalan kısmını bedelle satın alabilir** (εξαγορά).",
+            "en": "**Military service**: under the Constitution, **every Greek capable of bearing arms is obliged to contribute to the defence of the Homeland, as provided by law**. Service is compulsory **for men** (not for women). It is **not 24 months** (today it is much shorter). Anyone who wishes may **buy out the remainder** of service (εξαγορά)."
+          }
+        },
+        {
+          "type": "terms",
+          "items": [
+            {
+              "el": "ιθαγένεια",
+              "tr": "vatandaşlık",
+              "en": "citizenship"
+            },
+            {
+              "el": "Ημεδαποί",
+              "tr": "yerliler (uyruklar)",
+              "en": "nationals"
+            },
+            {
+              "el": "Αλλοδαποί",
+              "tr": "yabancılar",
+              "en": "aliens / foreigners"
+            },
+            {
+              "el": "Ομογενείς",
+              "tr": "soydaşlar (Yunan soylular)",
+              "en": "persons of Greek descent"
+            },
+            {
+              "el": "πολιτογράφηση",
+              "tr": "vatandaşlığa alınma",
+              "en": "naturalisation"
+            },
+            {
+              "el": "έκπτωση",
+              "tr": "vatandaşlıktan çıkarılma (iskat)",
+              "en": "deprivation"
+            },
+            {
+              "el": "δήλωση αποποίησης",
+              "tr": "feragat beyanı",
+              "en": "declaration of renunciation"
+            },
+            {
+              "el": "συγγένεια",
+              "tr": "akrabalık (soy bağı)",
+              "en": "kinship"
+            },
+            {
+              "el": "στρατιωτική θητεία",
+              "tr": "askerlik hizmeti",
+              "en": "military service"
+            },
+            {
+              "el": "εξαγορά",
+              "tr": "bedelle satın alma",
+              "en": "buy-out"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        "ins-19",
+        "ins-24",
+        "ins-25",
+        "ins-44"
+      ]
+    },
+    {
+      "id": "ins-rights",
+      "title": {
+        "el": "Ατομικά και κοινωνικά δικαιώματα",
+        "tr": "Bireysel ve sosyal haklar",
+        "en": "Individual and social rights"
+      },
+      "icon": "🤝",
+      "summary": {
+        "tr": "Basın ve sanat özgürlüğü, din, konut, evlilik eşitliği, aile içi şiddet, idari cezalar ve devletin ücretsiz hizmetleri.",
+        "en": "Freedom of the press and art, religion, the home, marriage equality, domestic violence, administrative fines and free State services."
+      },
+      "blocks": [
+        {
+          "type": "p",
+          "text": {
+            "tr": "Anayasaya göre **devlet**: **yoksulların bakımını**, **engellilerin mesleki entegrasyonunu** ve **ailenin korunmasını** gözetir. **Vatandaşlar arasındaki miras uyuşmazlıklarını çözmek** devletin anayasal bir görevi olarak sayılmaz (bunlar mahkemelerin işidir).",
+            "en": "Under the Constitution the **State** takes care of **the indigent**, **the vocational integration of persons with disabilities** and **the protection of the family**. **Resolving inheritance disputes between citizens** is not listed as such a duty (that is for the courts)."
+          }
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "tr": "Anayasa **basın özgürlüğünü** güvence altına alır. Gazetelerin dağıtımdan önce veya sonra **toplatılması yasaktır**.",
+              "en": "The Constitution guarantees **freedom of the press**. The seizure of newspapers before or after circulation **is prohibited**."
+            },
+            {
+              "tr": "Herkes fikirlerini sözlü veya yazılı olarak, **Devletin kanunlarına uyarak** özgürce ifade eder.",
+              "en": "Everyone may express their ideas orally or in writing **while observing the laws of the State**."
+            },
+            {
+              "tr": "İstisna: dağıtımdan sonra toplatma, ör. **Hristiyan dinine veya bilinen başka bir dine hakaret** durumunda mümkündür.",
+              "en": "Exception: seizure after circulation is possible e.g. for **an offence against the Christian or any other known religion**."
+            },
+            {
+              "tr": "Dinî inançlar kişinin bireysel ve siyasi haklarını **etkilemez**.",
+              "en": "Religious beliefs **do not affect** a person's individual and political rights."
+            },
+            {
+              "tr": "Yetişkinler arasındaki evlilik için **ebeveyn rızası gerekmez**.",
+              "en": "A marriage between adults **does not need parental consent**."
+            },
+            {
+              "tr": "**Spor**, Devletin koruması ve yüksek gözetimi altındadır. Her vatandaşın **konutu dokunulmazdır (άσυλο)**.",
+              "en": "**Sport** is under the protection and supreme supervision of the State. Every citizen's **home is inviolable (άσυλο)**."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Sanat özgürlüğü: kısıtlama mümkün mü?",
+              "en": "Freedom of art: can it be restricted?"
+            },
+            {
+              "tr": "Cevap",
+              "en": "Answer"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Uygunsuz film için küçüklerin sinemaya girişinin yasaklanması",
+                "en": "Banning minors from an unsuitable film"
+              },
+              {
+                "tr": "**Evet**",
+                "en": "**Yes**"
+              }
+            ],
+            [
+              {
+                "tr": "Bazılarının dinî duygularını incittiği için bir kurgu kitabının yasaklanması",
+                "en": "Banning a novel because some feel it offends their religion"
+              },
+              {
+                "tr": "**Hayır**",
+                "en": "**No**"
+              }
+            ],
+            [
+              {
+                "tr": "İzinsiz ortak alanda doğaçlama gösteri",
+                "en": "An unpermitted improvised show in a public space"
+              },
+              {
+                "tr": "**Evet**",
+                "en": "**Yes**"
+              }
+            ],
+            [
+              {
+                "tr": "Sahibinin rızası olmadan başkasının evine grafiti",
+                "en": "Graffiti on someone's house without consent"
+              },
+              {
+                "tr": "**Evet**",
+                "en": "**Yes**"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**İdari para cezası** şu durumlarda ödenmeyebilir: ceza **sözlü olarak** verildiyse (ör. belediye zabıtası) veya yazılı tutanak **yetersiz gerekçeli** ise. Eylemin hukuka aykırı olduğunu **bilmemek** veya bir memurun 'ödemene gerek yok' demesi geçerli bir neden **değildir**.",
+            "en": "An **administrative fine** may be refused if it was imposed **orally** (e.g. by municipal police) or if the written notice has **inadequate reasoning**. **Not knowing** the act was unlawful, or an official saying 'you need not pay', is **not** a valid reason."
+          }
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Aile içi şiddet** re'sen (αυτεπάγγελτα) kovuşturulur. **Evlilik içi tecavüz ağır suçtur** (κακούργημα). Hamile eşe verilen basit bedensel zarar **hapisle** cezalandırılır; kavgada eşin cinsel hayatına ilişkin ağır aşağılayıcı söz/davranış da hapisle cezalandırılabilir. **5089/2024 sayılı Kanun** ile **cinsiyetten bağımsız olarak herkes için evlilikte eşitlik** tanındı (aynı cinsiyetten çiftler için birlikte yaşama sözleşmesi zaten 2015'ten beri vardı).",
+            "en": "**Domestic violence** is prosecuted ex officio (αυτεπάγγελτα). **Marital rape is a felony** (κακούργημα). Simple bodily harm to a pregnant wife is punished with **imprisonment**; gravely degrading words/acts about a spouse's sexual life during a quarrel can also be punished with imprisonment. **Law 5089/2024** recognised **equality in marriage for all persons regardless of sex** (same-sex cohabitation agreements already existed since 2015)."
+          }
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Devlet tarafından ücretsiz mi?",
+              "en": "Free of charge from the State?"
+            },
+            {
+              "tr": "Cevap",
+              "en": "Answer"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Eğitim — **tüm kademelerde, yükseköğretim dahil**",
+                "en": "Education — **at all levels, including higher education**"
+              },
+              {
+                "tr": "Evet ('yükseköğretim hariç' ifadesi **yanlış**)",
+                "en": "Yes ('excluding higher education' is **false**)"
+              }
+            ],
+            [
+              {
+                "tr": "Engelliler için toplu taşıma",
+                "en": "Public transport for persons with disabilities"
+              },
+              {
+                "tr": "**Evet**",
+                "en": "**Yes**"
+              }
+            ],
+            [
+              {
+                "tr": "Savunmasız gruplara hastane, teşhis ve ilaç güvencesi",
+                "en": "Hospital, diagnostic and pharmaceutical cover for vulnerable groups"
+              },
+              {
+                "tr": "**Evet**",
+                "en": "**Yes**"
+              }
+            ],
+            [
+              {
+                "tr": "Tüm emekliler için ilaç",
+                "en": "Medicines for all pensioners"
+              },
+              {
+                "tr": "**Hayır**",
+                "en": "**No**"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "terms",
+          "items": [
+            {
+              "el": "ελευθερία του Τύπου",
+              "tr": "basın özgürlüğü",
+              "en": "freedom of the press"
+            },
+            {
+              "el": "κατάσχεση",
+              "tr": "toplatma (el koyma)",
+              "en": "seizure"
+            },
+            {
+              "el": "προσβολή της χριστιανικής ή άλλης γνωστής θρησκείας",
+              "tr": "Hristiyan dinine veya bilinen başka bir dine hakaret",
+              "en": "offence against the Christian or any other known religion"
+            },
+            {
+              "el": "άσυλο",
+              "tr": "dokunulmaz (sığınak)",
+              "en": "asylum / inviolable"
+            },
+            {
+              "el": "διοικητικό πρόστιμο",
+              "tr": "idari para cezası",
+              "en": "administrative fine"
+            },
+            {
+              "el": "ενδοοικογενειακή βία",
+              "tr": "aile içi şiddet",
+              "en": "domestic violence"
+            },
+            {
+              "el": "αυτεπάγγελτα",
+              "tr": "re'sen",
+              "en": "ex officio"
+            },
+            {
+              "el": "κακούργημα",
+              "tr": "ağır suç (cürüm)",
+              "en": "felony"
+            },
+            {
+              "el": "Σύμφωνο Συμβίωσης",
+              "tr": "birlikte yaşama sözleşmesi",
+              "en": "cohabitation agreement"
+            },
+            {
+              "el": "πολιτικός γάμος",
+              "tr": "medeni nikâh",
+              "en": "civil marriage"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        "ins-11",
+        "ins-23",
+        "ins-48",
+        "ins-49",
+        "ins-50",
+        "ins-51",
+        "ins-54",
+        "ins-55"
+      ]
+    },
+    {
+      "id": "ins-services",
+      "title": {
+        "el": "Εκπαίδευση, εργασία και υπηρεσίες για τον πολίτη",
+        "tr": "Eğitim, çalışma hayatı ve vatandaş hizmetleri",
+        "en": "Education, work and services for citizens"
+      },
+      "icon": "💻",
+      "summary": {
+        "tr": "Eğitim kademeleri, iş sözleşmeleri, vergi, KEP ve gov.gr gibi elektronik hizmetler.",
+        "en": "Levels of education, employment contracts, tax, KEP and electronic services such as gov.gr."
+      },
+      "blocks": [
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Zorunlu eğitim**: **Anaokulu (Νηπιαγωγείο), İlkokul (Δημοτικό) ve Ortaokul (Γυμνάσιο)**.",
+            "en": "**Compulsory education**: **Kindergarten (Νηπιαγωγείο), Primary school (Δημοτικό) and Lower secondary school (Γυμνάσιο)**."
+          }
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Eğitim kurumu",
+              "en": "Institution"
+            },
+            {
+              "tr": "Kademe",
+              "en": "Level"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "İlkokul (Δημοτικό)",
+                "en": "Primary school (Δημοτικό)"
+              },
+              {
+                "tr": "İlköğretim (Πρωτοβάθμια)",
+                "en": "Primary (Πρωτοβάθμια)"
+              }
+            ],
+            [
+              {
+                "tr": "Meslek Lisesi (ΕΠΑΛ)",
+                "en": "Vocational Upper Secondary (ΕΠΑΛ)"
+              },
+              {
+                "tr": "Ortaöğretim (Δευτεροβάθμια)",
+                "en": "Secondary (Δευτεροβάθμια)"
+              }
+            ],
+            [
+              {
+                "tr": "Mesleki Eğitim Enstitüsü (ΙΕΚ)",
+                "en": "Vocational Training Institute (ΙΕΚ)"
+              },
+              {
+                "tr": "Lise sonrası (Μεταλυκειακή)",
+                "en": "Post-secondary (Μεταλυκειακή)"
+              }
+            ],
+            [
+              {
+                "tr": "Üniversite (Πανεπιστήμιο)",
+                "en": "University (Πανεπιστήμιο)"
+              },
+              {
+                "tr": "Yükseköğretim (Ανώτατη/Τριτοβάθμια)",
+                "en": "Higher/Tertiary (Ανώτατη/Τριτοβάθμια)"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "İş sözleşmesi",
+              "en": "Employment contract"
+            },
+            {
+              "tr": "Anlamı",
+              "en": "Meaning"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Belirli süreli (ορισμένου χρόνου)",
+                "en": "Fixed-term (ορισμένου χρόνου)"
+              },
+              {
+                "tr": "Süre açıkça/zımnen kararlaştırılmış veya işin niteliğinden çıkıyor",
+                "en": "Duration agreed expressly/tacitly or follows from the nature of the work"
+              }
+            ],
+            [
+              {
+                "tr": "Belirsiz süreli (αορίστου χρόνου)",
+                "en": "Open-ended (αορίστου χρόνου)"
+              },
+              {
+                "tr": "Süre belli değil; ancak işverenin feshiyle sona erer",
+                "en": "No set duration; ends only by the employer's notice"
+              }
+            ],
+            [
+              {
+                "tr": "Tam zamanlı (πλήρους απασχόλησης)",
+                "en": "Full-time (πλήρους απασχόλησης)"
+              },
+              {
+                "tr": "Toplu sözleşmeye göre tüm iş günlerinde tam saat",
+                "en": "Full hours on all working days per the collective agreement"
+              }
+            ],
+            [
+              {
+                "tr": "Kısmi süreli (μερικής απασχόλησης)",
+                "en": "Part-time (μερικής απασχόλησης)"
+              },
+              {
+                "tr": "Normalden kısa günlük/haftalık/aylık çalışma",
+                "en": "Shorter than normal daily/weekly/monthly hours"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Toplu İş Sözleşmesi** (Συλλογική Σύμβαση Εργασίας): **işçi sendikaları ile işverenler arasında yazılı anlaşma**; asgari çalışma koşullarını ve karşılıklı yükümlülükleri belirler.",
+            "en": "**Collective Labour Agreement** (Συλλογική Σύμβαση Εργασίας): **a written agreement between trade unions and employers** setting minimum terms of work and mutual obligations."
+          }
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Hizmet / kurum",
+              "en": "Service / body"
+            },
+            {
+              "tr": "Ne yapılır?",
+              "en": "What for?"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "ΚΕΠ — Κέντρο Εξυπηρέτησης Πολιτών",
+                "en": "ΚΕΠ — Κέντρο Εξυπηρέτησης Πολιτών"
+              },
+              {
+                "tr": "Vatandaş Hizmet Merkezi: **vatandaşların kamu ile işlemlerini kolaylaştırır**",
+                "en": "Citizens' Service Centre: **makes citizens' dealings with the public sector easier**"
+              }
+            ],
+            [
+              {
+                "tr": "myKEPlive",
+                "en": "myKEPlive"
+              },
+              {
+                "tr": "Görüntülü KEP — ör. **işsizlik kartının yenilenmesi**",
+                "en": "Video-call KEP — e.g. **renewing an unemployment card**"
+              }
+            ],
+            [
+              {
+                "tr": "TaxisNet",
+                "en": "TaxisNet"
+              },
+              {
+                "tr": "**Vergi borcu yoktur yazısı** (φορολογική ενημερότητα); E1 beyannamesi",
+                "en": "**Tax clearance certificate** (φορολογική ενημερότητα); E1 return"
+              }
+            ],
+            [
+              {
+                "tr": "e-ΕΦΚΑ",
+                "en": "e-ΕΦΚΑ"
+              },
+              {
+                "tr": "**Yaşlılık aylığı** başvurusu",
+                "en": "Applying for an **old-age pension**"
+              }
+            ],
+            [
+              {
+                "tr": "www.diavgeia.gov.gr",
+                "en": "www.diavgeia.gov.gr"
+              },
+              {
+                "tr": "Kamu kararlarının yayımlandığı yer — ör. **bir bakan yardımcısının kararı**",
+                "en": "Where public decisions are published — e.g. **a Deputy Minister's decision**"
+              }
+            ],
+            [
+              {
+                "tr": "Δ.Ο.Υ. (Vergi Dairesi)",
+                "en": "Δ.Ο.Υ. (Tax Office)"
+              },
+              {
+                "tr": "Aracın **plakalarının teslim edildiği** yer",
+                "en": "Where a vehicle's **licence plates are handed in**"
+              }
+            ],
+            [
+              {
+                "tr": "Δ.ΥΠ.Α (Kamu İstihdam Kurumu)",
+                "en": "Δ.ΥΠ.Α (Public Employment Service)"
+              },
+              {
+                "tr": "**İşsizlik ödeneği** verir",
+                "en": "Pays **unemployment benefits**"
+              }
+            ],
+            [
+              {
+                "tr": "ΥΠ.Ε (Sağlık Bölgesi)",
+                "en": "ΥΠ.Ε (Health Region)"
+              },
+              {
+                "tr": "Bölgedeki **hastane, sağlık merkezi ve sosyal bakım birimlerini denetler**",
+                "en": "**Supervises hospitals, health centres and care units** in a region"
+              }
+            ],
+            [
+              {
+                "tr": "ΚΕ.Π.Α. (Engellilik Belgelendirme Merkezi)",
+                "en": "ΚΕ.Π.Α. (Disability Certification Centre)"
+              },
+              {
+                "tr": "Başvuranları **Engelli Birey olarak belgelendirir**",
+                "en": "**Certifies applicants as Persons with Disabilities**"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Vergi**: AB vatandaşları genellikle **yılda 6 aydan fazla yaşadıkları ülkede** vergi mukimidir. Başka bir AB ülkesinde çalışan AB vatandaşı o ülkenin vatandaşlarıyla **aynı koşullarda** vergilendirilir. Bankaya göre Yunanistan'da evli çiftler veya birlikte yaşama sözleşmesi olanlar **ortak beyanname vermek zorunda değildir**. Gelir Vergisi Beyannamesi günlük dilde **'Ε1'** olarak bilinir.",
+            "en": "**Tax**: EU citizens are usually tax-resident **where they live more than 6 months a year**. An EU citizen working in another EU country is taxed **on the same terms** as its nationals. According to the bank, married couples or partners in Greece are **not obliged to file a joint return**. The Income Tax Return is commonly called **'Ε1'**."
+          }
+        },
+        {
+          "type": "terms",
+          "items": [
+            {
+              "el": "υποχρεωτική εκπαίδευση",
+              "tr": "zorunlu eğitim",
+              "en": "compulsory education"
+            },
+            {
+              "el": "Νηπιαγωγείο, Δημοτικό και Γυμνάσιο",
+              "tr": "Anaokulu, İlkokul ve Ortaokul",
+              "en": "Kindergarten, Primary and Lower secondary school"
+            },
+            {
+              "el": "Πρωτοβάθμια / Δευτεροβάθμια Εκπαίδευση",
+              "tr": "İlköğretim / Ortaöğretim",
+              "en": "Primary / Secondary Education"
+            },
+            {
+              "el": "Μεταλυκειακή Εκπαίδευση",
+              "tr": "lise sonrası eğitim",
+              "en": "post-secondary education"
+            },
+            {
+              "el": "Συλλογική Σύμβαση Εργασίας",
+              "tr": "Toplu İş Sözleşmesi",
+              "en": "Collective Labour Agreement"
+            },
+            {
+              "el": "Κέντρο Εξυπηρέτησης Πολιτών (Κ.Ε.Π.)",
+              "tr": "Vatandaş Hizmet Merkezi (KEP)",
+              "en": "Citizens' Service Centre (KEP)"
+            },
+            {
+              "el": "βεβαίωση φορολογικής ενημερότητας",
+              "tr": "vergi borcu yoktur yazısı",
+              "en": "tax clearance certificate"
+            },
+            {
+              "el": "σύνταξη γήρατος",
+              "tr": "yaşlılık aylığı",
+              "en": "old-age pension"
+            },
+            {
+              "el": "δελτίο ανεργίας",
+              "tr": "işsizlik kartı",
+              "en": "unemployment card"
+            },
+            {
+              "el": "Δήλωση Φορολογίας Εισοδήματος (Ε1)",
+              "tr": "Gelir Vergisi Beyannamesi (E1)",
+              "en": "Income Tax Return (E1)"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        "ins-22",
+        "ins-47",
+        "ins-56",
+        "ins-61",
+        "ins-62",
+        "ins-65",
+        "ins-74",
+        "ins-75",
+        "ins-80"
+      ]
+    },
+    {
+      "id": "ins-parties-history",
+      "title": {
+        "el": "Πολιτικά κόμματα και η ιστορία του πολιτεύματος",
+        "tr": "Siyasi partiler ve siyasi sistemin tarihi",
+        "en": "Political parties and the history of the political system"
+      },
+      "icon": "🏳️",
+      "summary": {
+        "tr": "Partilerin genel merkezleri, Ana Muhalefet ve Metapolitefsi döneminin önemli liderleri.",
+        "en": "Party headquarters, the Official Opposition and the key leaders of the post-1974 era."
+      },
+      "blocks": [
+        {
+          "type": "p",
+          "text": {
+            "tr": "Basında kurumlar ve partiler genellikle **binalarının veya bulundukları sokağın adıyla** anılır.",
+            "en": "In the press, institutions and parties are often referred to **by the name of their building or street**."
+          }
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "Kurum / parti",
+              "en": "Institution / party"
+            },
+            {
+              "tr": "Takma adı (Atina'daki adres)",
+              "en": "Nickname (Athens address)"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Başbakan",
+                "en": "Prime Minister"
+              },
+              {
+                "tr": "«Το Μέγαρο Μαξίμου» (Maximos Konağı)",
+                "en": "«Το Μέγαρο Μαξίμου» (Maximos Mansion)"
+              }
+            ],
+            [
+              {
+                "tr": "ΝΔ (Yeni Demokrasi)",
+                "en": "ΝΔ (New Democracy)"
+              },
+              {
+                "tr": "«Η Πειραιώς» (Pireos Caddesi)",
+                "en": "«Η Πειραιώς» (Piraeus Street)"
+              }
+            ],
+            [
+              {
+                "tr": "ΠΑΣΟΚ-Κίνημα Αλλαγής",
+                "en": "PASOK-Movement for Change"
+              },
+              {
+                "tr": "«Η Χαριλάου Τρικούπη»",
+                "en": "«Η Χαριλάου Τρικούπη»"
+              }
+            ],
+            [
+              {
+                "tr": "ΣΥΡΙΖΑ",
+                "en": "SYRIZA"
+              },
+              {
+                "tr": "«Η Κουμουνδούρου»",
+                "en": "«Η Κουμουνδούρου»"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "Bugünkü partilere örnekler: **Νέα Δημοκρατία**, **ΠΑ.ΣΟ.Κ – ΚΙΝ.ΑΛ**, **ΣΥΡΙΖΑ**, **Νέα Αριστερά** (Yeni Sol). **Ομόνοια** (Omonia) bir siyasi parti **değildir** — ör. Atina'nın merkezindeki ünlü bir meydanın adıdır. **Ana Muhalefet** (Αξιωματική Αντιπολίτευση) = Parlamentodaki **en büyük muhalefet partisi**.",
+            "en": "Examples of current parties: **Νέα Δημοκρατία**, **ΠΑ.ΣΟ.Κ – ΚΙΝ.ΑΛ**, **ΣΥΡΙΖΑ**, **Νέα Αριστερά** (New Left). **Ομόνοια** (Omonoia) is **not** a political party — e.g. it is the name of a famous central square in Athens. **Official Opposition** (Αξιωματική Αντιπολίτευση) = the **largest opposition party** in Parliament."
+          }
+        },
+        {
+          "type": "timeline",
+          "items": [
+            {
+              "date": "1974",
+              "text": {
+                "tr": "**Konstantinos Karamanlis**: demokrasinin yeniden tesisi (Metapolitefsi); ardından AET'ye üyelik başvurusu.",
+                "en": "**Konstantinos Karamanlis**: restoration of democracy (Metapolitefsi), followed by the application to join the EEC."
+              }
+            },
+            {
+              "date": "1979–1981",
+              "text": {
+                "tr": "**Georgios Rallis**: Yunanistan'ın AET'ye katılımının onaylanması; Yunanistan 1981'de üye oldu.",
+                "en": "**Georgios Rallis**: ratification of Greece's accession to the EEC; Greece became a member in 1981."
+              }
+            },
+            {
+              "date": "1980'ler",
+              "text": {
+                "tr": "**Andreas Papandreou**: aile hukuku, eğitim ve kamu yönetiminde reformlar; **Ulusal Sağlık Sistemi (ΕΣΥ)** kuruldu.",
+                "en": "**Andreas Papandreou**: reforms in family law, education and public administration; the **National Health System (ΕΣΥ)** was founded."
+              }
+            },
+            {
+              "date": "1996–2004",
+              "text": {
+                "tr": "**Kostas Simitis**: Yunanistan'ın **Ekonomik ve Parasal Birliğe (ΟΝΕ)** katılımı (euro).",
+                "en": "**Costas Simitis**: Greece's entry into the **Economic and Monetary Union (ΟΝΕ)** (the euro)."
+              }
+            }
+          ]
+        },
+        {
+          "type": "tip",
+          "text": {
+            "tr": "Eşleştirme hilesi: Karamanlis = **demokrasi + başvuru**, Rallis = **onay**, Papandreou = **ΕΣΥ ve reformlar**, Simitis = **ΟΝΕ / euro**.",
+            "en": "Matching trick: Karamanlis = **democracy + application**, Rallis = **ratification**, Papandreou = **ΕΣΥ and reforms**, Simitis = **ΟΝΕ / euro**."
+          }
+        },
+        {
+          "type": "terms",
+          "items": [
+            {
+              "el": "πολιτικό κόμμα",
+              "tr": "siyasi parti",
+              "en": "political party"
+            },
+            {
+              "el": "Αξιωματική Αντιπολίτευση",
+              "tr": "Ana Muhalefet",
+              "en": "Official Opposition"
+            },
+            {
+              "el": "Μέγαρο Μαξίμου",
+              "tr": "Maximos Konağı",
+              "en": "Maximos Mansion"
+            },
+            {
+              "el": "Νέα Δημοκρατία (ΝΔ)",
+              "tr": "Yeni Demokrasi",
+              "en": "New Democracy"
+            },
+            {
+              "el": "Νέα Αριστερά",
+              "tr": "Yeni Sol",
+              "en": "New Left"
+            },
+            {
+              "el": "Ομόνοια",
+              "tr": "Omonia",
+              "en": "Omonoia"
+            },
+            {
+              "el": "Γεώργιος Ράλλης",
+              "tr": "Georgios Rallis",
+              "en": "Georgios Rallis"
+            },
+            {
+              "el": "Κωνσταντίνος Καραμανλής",
+              "tr": "Konstantinos Karamanlis",
+              "en": "Konstantinos Karamanlis"
+            },
+            {
+              "el": "Κωνσταντίνος Σημίτης",
+              "tr": "Kostas Simitis",
+              "en": "Costas Simitis"
+            },
+            {
+              "el": "Ανδρέας Παπανδρέου",
+              "tr": "Andreas Papandreou",
+              "en": "Andreas Papandreou"
+            },
+            {
+              "el": "Εθνικό Σύστημα Υγείας",
+              "tr": "Ulusal Sağlık Sistemi",
+              "en": "National Health System"
+            },
+            {
+              "el": "Οικονομική και Νομισματική Ένωση (ΟΝΕ)",
+              "tr": "Ekonomik ve Parasal Birlik (EPB)",
+              "en": "Economic and Monetary Union (EMU)"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        "ins-63",
+        "ins-64",
+        "ins-78",
+        "ins-79"
+      ]
+    },
+    {
+      "id": "ins-eu-international",
+      "title": {
+        "el": "Η Ευρωπαϊκή Ένωση και οι διεθνείς οργανισμοί",
+        "tr": "Avrupa Birliği ve uluslararası kuruluşlar",
+        "en": "The European Union and international organisations"
+      },
+      "icon": "🇪🇺",
+      "summary": {
+        "tr": "AB'nin kurumları ve yetkileri, AB vatandaşlığı hakları, adaylar, euro, BM, NATO ve Avrupa Konseyi.",
+        "en": "EU institutions and competences, EU citizenship rights, candidates, the euro, the UN, NATO and the Council of Europe."
+      },
+      "blocks": [
+        {
+          "type": "timeline",
+          "items": [
+            {
+              "date": "1945",
+              "text": {
+                "tr": "Yunanistan **Birleşmiş Milletler'in (ΟΗΕ) kurucu üyesi** oldu.",
+                "en": "Greece became a **founding member of the United Nations (ΟΗΕ)**."
+              }
+            },
+            {
+              "date": "9/8/1949",
+              "text": {
+                "tr": "Yunanistan **Avrupa Konseyi**'ne üye oldu.",
+                "en": "Greece joined the **Council of Europe**."
+              }
+            },
+            {
+              "date": "1952",
+              "text": {
+                "tr": "Yunanistan **NATO**'ya üye oldu.",
+                "en": "Greece joined **NATO**."
+              }
+            },
+            {
+              "date": "1957",
+              "text": {
+                "tr": "AET'nin kurucu antlaşması (Roma). Bankaya göre **2024'e kadar toplam 5 kez revize edildi**.",
+                "en": "The EEC's founding treaty (Rome). According to the bank it was **revised 5 times in total up to 2024**."
+              }
+            },
+            {
+              "date": "1981",
+              "text": {
+                "tr": "Yunanistan AET'ye (bugünkü AB) katıldı.",
+                "en": "Greece joined the EEC (today's EU)."
+              }
+            },
+            {
+              "date": "1985",
+              "text": {
+                "tr": "**Schengen Anlaşması**: beş AB üye devleti iç sınırları olmayan bir Avrupa kurdu.",
+                "en": "**Schengen Agreement**: five member states created a Europe without internal borders."
+              }
+            },
+            {
+              "date": "2007",
+              "text": {
+                "tr": "**AB Temel Haklar Ajansı** kuruldu.",
+                "en": "The **EU Agency for Fundamental Rights** was founded."
+              }
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "AB'nin **27 üye devleti** vardır (ör. Estonya, Malta, Kıbrıs üyedir; **İsviçre üye değildir**). AB **federal bir devlet değildir**. Bankaya göre **aday ülkeler**: **Arnavutluk, Kuzey Makedonya, Bosna-Hersek, Gürcistan, Karadağ, Moldova, Türkiye, Ukrayna ve Sırbistan**.",
+            "en": "The EU has **27 member states** (e.g. Estonia, Malta, Cyprus are members; **Switzerland is not**). The EU is **not a federal state**. According to the bank the **candidate countries** are **Albania, North Macedonia, Bosnia and Herzegovina, Georgia, Montenegro, Moldova, Turkey, Ukraine and Serbia**."
+          }
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "tr": "AB kurumu / organı",
+              "en": "EU institution / body"
+            },
+            {
+              "tr": "Rolü",
+              "en": "Role"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "tr": "Avrupa Parlamentosu",
+                "en": "European Parliament"
+              },
+              {
+                "tr": "**AB vatandaşlarını temsil eder**",
+                "en": "**Represents EU citizens**"
+              }
+            ],
+            [
+              {
+                "tr": "Avrupa Komisyonu",
+                "en": "European Commission"
+              },
+              {
+                "tr": "**AB'nin çıkarlarını temsil eder**",
+                "en": "**Represents the interests of the EU**"
+              }
+            ],
+            [
+              {
+                "tr": "AB Konseyi",
+                "en": "Council of the EU"
+              },
+              {
+                "tr": "Üye devletler; **dönem başkanlığı her ülkede 6 ay**",
+                "en": "Member states; **rotating presidency of 6 months**"
+              }
+            ],
+            [
+              {
+                "tr": "Avrupa Ombudsmanı",
+                "en": "European Ombudsman"
+              },
+              {
+                "tr": "**AB kurumlarındaki kötü yönetim** şikâyetlerini soruşturur (üye devlet hükümetlerini değil)",
+                "en": "Investigates **maladministration in EU institutions** (not national governments)"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Paylaşılan (ortak) yetki** alanlarında kararlar **olağan yasama usulüyle** alınır: **Avrupa Komisyonu, AB Konseyi ve Avrupa Parlamentosu'nun ortak kararı**. **Sosyal politika** paylaşılan yetkidir: hem AB hem de Yunan hükümeti düzenleme yapabilir.",
+            "en": "In areas of **shared competence**, decisions follow the **ordinary legislative procedure**: a **joint decision of the European Commission, the Council of the EU and the European Parliament**. **Social policy** is a shared competence: both the EU and the Greek government can legislate."
+          }
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "tr": "**AB vatandaşlığı**nın temel hakkı: **AB içinde serbest dolaşım ve ikamet** (sınırsız ikamet edememe ifadesi yanlıştır).",
+              "en": "Main right of **EU citizenship**: **free movement and residence within the EU** (saying they cannot reside freely is false)."
+            },
+            {
+              "tr": "Başka bir AB ülkesinde yaşayan Yunan vatandaşı orada **yerel seçimlerde seçme ve seçilme hakkına** sahiptir.",
+              "en": "A Greek citizen living in another EU country can **vote and stand in municipal elections** there."
+            },
+            {
+              "tr": "Başka bir AB ülkesinde **5 yıl kesintisiz** yasal ikamet → **otomatik sürekli ikamet hakkı**.",
+              "en": "**5 continuous years** of legal residence in another EU country → **automatic right of permanent residence**."
+            },
+            {
+              "tr": "Yunanistan'da kıyılan medeni nikâh **diğer AB ülkelerinde de geçerlidir** (aksini söyleyen ifade yanlıştır). Birlikte yaşama sözleşmelerinde mülkiyet ve nafaka hakları ülkeden ülkeye **değişebilir**.",
+              "en": "A civil marriage in Greece **is valid in other EU countries** (the statement saying otherwise is the wrong one). For registered partnerships, property and maintenance rights **may vary** by country."
+            },
+            {
+              "tr": "**Avrupa Sağlık Sigortası Kartı (ΕΚΑΑ)**: sigortalının bir AB ülkesinde **geçici olarak bulunduğu sırada** tıbbi bakıma erişim sağlayan **ücretsiz** kart.",
+              "en": "**European Health Insurance Card (ΕΚΑΑ)**: a **free** card giving an insured person medical care **during a temporary stay** in an EU country."
+            },
+            {
+              "tr": "**AB Temel Haklar Şartı** şunları içerir: özgürlük ve güvenlik hakkı; düşünce, vicdan ve din özgürlüğü; sınır dışı etme, ihraç ve iadeye karşı koruma → **hepsi**.",
+              "en": "The **EU Charter of Fundamental Rights** includes: liberty and security; freedom of thought, conscience and religion; protection against removal, expulsion and extradition → **all of them**."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": {
+            "tr": "**Euro banknotlarının** arka yüzünde, **Avrupa halkları arasındaki iletişimi simgeleyen köprüler** vardır (gerçek anıtlar, tablolar veya tarihî kişiler değil).",
+            "en": "The reverse of **euro banknotes** shows **bridges symbolising communication between the peoples of Europe** (not real monuments, paintings or historical figures)."
+          }
+        },
+        {
+          "type": "tip",
+          "text": {
+            "tr": "Sayılar: **27** üye · **6** ay dönem başkanlığı · **5** revizyon · **5** yıl → sürekli ikamet · **1945** BM · **1949** Avrupa Konseyi · **1952** NATO · **1985** Schengen · **2007** Temel Haklar Ajansı.",
+            "en": "Numbers: **27** members · **6**-month presidency · **5** revisions · **5** years → permanent residence · **1945** UN · **1949** Council of Europe · **1952** NATO · **1985** Schengen · **2007** Fundamental Rights Agency."
+          }
+        },
+        {
+          "type": "terms",
+          "items": [
+            {
+              "el": "Ευρωπαϊκή Ένωση (Ε.Ε.)",
+              "tr": "Avrupa Birliği (AB)",
+              "en": "European Union (EU)"
+            },
+            {
+              "el": "ΕΟΚ",
+              "tr": "Avrupa Ekonomik Topluluğu (AET)",
+              "en": "European Economic Community (EEC)"
+            },
+            {
+              "el": "Ευρωπαϊκό Κοινοβούλιο",
+              "tr": "Avrupa Parlamentosu",
+              "en": "European Parliament"
+            },
+            {
+              "el": "Ευρωπαϊκή Επιτροπή",
+              "tr": "Avrupa Komisyonu",
+              "en": "European Commission"
+            },
+            {
+              "el": "Συμβούλιο της ΕΕ",
+              "tr": "AB Konseyi",
+              "en": "Council of the EU"
+            },
+            {
+              "el": "Ευρωπαίος Διαμεσολαβητής",
+              "tr": "Avrupa Ombudsmanı",
+              "en": "European Ombudsman"
+            },
+            {
+              "el": "συντρέχουσα αρμοδιότητα",
+              "tr": "paylaşılan (ortak) yetki",
+              "en": "shared competence"
+            },
+            {
+              "el": "συνήθης νομοθετική διαδικασία",
+              "tr": "olağan yasama usulü",
+              "en": "ordinary legislative procedure"
+            },
+            {
+              "el": "Χάρτα των Θεμελιωδών Δικαιωμάτων",
+              "tr": "Temel Haklar Şartı",
+              "en": "Charter of Fundamental Rights"
+            },
+            {
+              "el": "Ευρωπαϊκή Ιθαγένεια",
+              "tr": "Avrupa (AB) vatandaşlığı",
+              "en": "European citizenship"
+            },
+            {
+              "el": "Ευρωπαϊκή Κάρτα Ασφάλισης Ασθενείας (ΕΚΑΑ)",
+              "tr": "Avrupa Sağlık Sigortası Kartı",
+              "en": "European Health Insurance Card"
+            },
+            {
+              "el": "Συνθήκη Σένγκεν",
+              "tr": "Schengen Anlaşması",
+              "en": "Schengen Agreement"
+            },
+            {
+              "el": "Οργανισμός Ηνωμένων Εθνών (ΟΗΕ)",
+              "tr": "Birleşmiş Milletler (BM)",
+              "en": "United Nations (UN)"
+            },
+            {
+              "el": "Βορειοατλαντική Συμμαχία (ΝΑΤΟ)",
+              "tr": "Kuzey Atlantik İttifakı (NATO)",
+              "en": "North Atlantic Alliance (NATO)"
+            },
+            {
+              "el": "Συμβούλιο της Ευρώπης",
+              "tr": "Avrupa Konseyi",
+              "en": "Council of Europe"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        "ins-1",
+        "ins-2",
+        "ins-10",
+        "ins-12",
+        "ins-15",
+        "ins-21",
+        "ins-27",
+        "ins-28",
+        "ins-30",
+        "ins-31",
+        "ins-33",
+        "ins-34",
+        "ins-35",
+        "ins-37",
+        "ins-38",
+        "ins-52",
+        "ins-58",
+        "ins-73",
+        "ins-77"
+      ]
+    }
+  ]
+}

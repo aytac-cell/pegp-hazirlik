@@ -1,0 +1,1336 @@
+{
+ "level": "b1",
+ "cefr": "B1–B2",
+ "icon": "🌳",
+ "name": {
+  "tr": "İleri",
+  "en": "Advanced"
+ },
+ "blurb": {
+  "tr": "Bağlaçlar, soyut kavramlar, deyimler ve vatandaşlık sınavının temel terimleri.",
+  "en": "Connectors, abstract nouns, idioms and the key terms of the citizenship exam."
+ },
+ "cats": [
+  {
+   "id": "connectors",
+   "icon": "🔗",
+   "name": {
+    "el": "Σύνδεσμοι",
+    "tr": "Bağlaçlar",
+    "en": "Connectors"
+   },
+   "words": [
+    {
+     "id": "b1-connectors-01",
+     "pic": "",
+     "el": "όμως",
+     "pron": "ómos",
+     "tr": "ama, ancak",
+     "en": "however, but"
+    },
+    {
+     "id": "b1-connectors-02",
+     "pic": "",
+     "el": "ωστόσο",
+     "pron": "ostóso",
+     "tr": "yine de, bununla birlikte",
+     "en": "nevertheless"
+    },
+    {
+     "id": "b1-connectors-03",
+     "pic": "",
+     "el": "επομένως",
+     "pron": "epoménos",
+     "tr": "dolayısıyla",
+     "en": "therefore"
+    },
+    {
+     "id": "b1-connectors-04",
+     "pic": "",
+     "el": "γι' αυτό",
+     "pron": "yaftó",
+     "tr": "bu yüzden",
+     "en": "that's why"
+    },
+    {
+     "id": "b1-connectors-05",
+     "pic": "",
+     "el": "επειδή",
+     "pron": "epidhí",
+     "tr": "çünkü",
+     "en": "because"
+    },
+    {
+     "id": "b1-connectors-06",
+     "pic": "",
+     "el": "αφού",
+     "pron": "afú",
+     "tr": "madem; -dikten sonra",
+     "en": "since; after"
+    },
+    {
+     "id": "b1-connectors-07",
+     "pic": "",
+     "el": "παρόλο που",
+     "pron": "parólo pu",
+     "tr": "-mesine rağmen",
+     "en": "even though"
+    },
+    {
+     "id": "b1-connectors-08",
+     "pic": "",
+     "el": "αν και",
+     "pron": "an ke",
+     "tr": "her ne kadar ... da",
+     "en": "although"
+    },
+    {
+     "id": "b1-connectors-09",
+     "pic": "",
+     "el": "εκτός από",
+     "pron": "ektós apó",
+     "tr": "... dışında",
+     "en": "apart from, except"
+    },
+    {
+     "id": "b1-connectors-10",
+     "pic": "",
+     "el": "επιπλέον",
+     "pron": "epipléon",
+     "tr": "ayrıca, üstelik",
+     "en": "moreover"
+    },
+    {
+     "id": "b1-connectors-11",
+     "pic": "",
+     "el": "δηλαδή",
+     "pron": "dhiladhí",
+     "tr": "yani",
+     "en": "that is, namely"
+    },
+    {
+     "id": "b1-connectors-12",
+     "pic": "",
+     "el": "για παράδειγμα",
+     "pron": "ya parádhighma",
+     "tr": "örneğin",
+     "en": "for example"
+    },
+    {
+     "id": "b1-connectors-13",
+     "pic": "",
+     "el": "ενώ",
+     "pron": "enó",
+     "tr": "-iken; oysa",
+     "en": "while, whereas"
+    },
+    {
+     "id": "b1-connectors-14",
+     "pic": "",
+     "el": "σύμφωνα με",
+     "pron": "símfona me",
+     "tr": "... -e göre",
+     "en": "according to"
+    }
+   ]
+  },
+  {
+   "id": "opinion",
+   "icon": "💬",
+   "name": {
+    "el": "Γνώμη και συζήτηση",
+    "tr": "Görüş ve tartışma",
+    "en": "Opinion & debate"
+   },
+   "words": [
+    {
+     "id": "b1-opinion-01",
+     "pic": "",
+     "el": "πιστεύω",
+     "pron": "pistévo",
+     "tr": "inanmak; sanmak",
+     "en": "to believe; to think"
+    },
+    {
+     "id": "b1-opinion-02",
+     "pic": "",
+     "el": "θεωρώ",
+     "pron": "theoró",
+     "tr": "saymak, kabul etmek",
+     "en": "to consider"
+    },
+    {
+     "id": "b1-opinion-03",
+     "pic": "",
+     "el": "συμφωνώ",
+     "pron": "simfonó",
+     "tr": "katılmak, aynı fikirde olmak",
+     "en": "to agree"
+    },
+    {
+     "id": "b1-opinion-04",
+     "pic": "",
+     "el": "διαφωνώ",
+     "pron": "dhiafonó",
+     "tr": "katılmamak",
+     "en": "to disagree"
+    },
+    {
+     "id": "b1-opinion-05",
+     "pic": "",
+     "el": "υποστηρίζω",
+     "pron": "ipostirízo",
+     "tr": "desteklemek; savunmak",
+     "en": "to support; to argue"
+    },
+    {
+     "id": "b1-opinion-06",
+     "pic": "",
+     "el": "προτείνω",
+     "pron": "protíno",
+     "tr": "önermek",
+     "en": "to propose, to suggest"
+    },
+    {
+     "id": "b1-opinion-07",
+     "pic": "",
+     "el": "η γνώμη",
+     "pron": "i ghnómi",
+     "tr": "fikir, görüş",
+     "en": "opinion"
+    },
+    {
+     "id": "b1-opinion-08",
+     "pic": "",
+     "el": "η άποψη",
+     "pron": "i ápopsi",
+     "tr": "görüş, bakış açısı",
+     "en": "view, point of view"
+    },
+    {
+     "id": "b1-opinion-09",
+     "pic": "",
+     "el": "το επιχείρημα",
+     "pron": "to epihírima",
+     "tr": "argüman, gerekçe",
+     "en": "argument"
+    },
+    {
+     "id": "b1-opinion-10",
+     "pic": "",
+     "el": "κατά τη γνώμη μου",
+     "pron": "katá ti ghnómi mu",
+     "tr": "bence",
+     "en": "in my opinion"
+    },
+    {
+     "id": "b1-opinion-11",
+     "pic": "",
+     "el": "έχεις δίκιο",
+     "pron": "éhis dhíkio",
+     "tr": "haklısın",
+     "en": "you are right"
+    },
+    {
+     "id": "b1-opinion-12",
+     "pic": "",
+     "el": "εξαρτάται",
+     "pron": "exartáte",
+     "tr": "duruma bağlı",
+     "en": "it depends"
+    }
+   ]
+  },
+  {
+   "id": "society",
+   "icon": "👥",
+   "name": {
+    "el": "Κοινωνία",
+    "tr": "Toplum",
+    "en": "Society"
+   },
+   "words": [
+    {
+     "id": "b1-society-01",
+     "pic": "",
+     "el": "η κοινωνία",
+     "pron": "i kinonía",
+     "tr": "toplum",
+     "en": "society"
+    },
+    {
+     "id": "b1-society-02",
+     "pic": "",
+     "el": "η ανεργία",
+     "pron": "i aneryía",
+     "tr": "işsizlik",
+     "en": "unemployment"
+    },
+    {
+     "id": "b1-society-03",
+     "pic": "",
+     "el": "η φτώχεια",
+     "pron": "i ftóhia",
+     "tr": "yoksulluk",
+     "en": "poverty"
+    },
+    {
+     "id": "b1-society-04",
+     "pic": "",
+     "el": "η μετανάστευση",
+     "pron": "i metanástefsi",
+     "tr": "göç",
+     "en": "migration"
+    },
+    {
+     "id": "b1-society-05",
+     "pic": "",
+     "el": "ο μετανάστης",
+     "pron": "o metanástis",
+     "tr": "göçmen",
+     "en": "migrant"
+    },
+    {
+     "id": "b1-society-06",
+     "pic": "",
+     "el": "ο πρόσφυγας",
+     "pron": "o prósfighas",
+     "tr": "mülteci",
+     "en": "refugee"
+    },
+    {
+     "id": "b1-society-07",
+     "pic": "",
+     "el": "η ένταξη",
+     "pron": "i éndaxi",
+     "tr": "uyum, entegrasyon; (AB'ye) katılım",
+     "en": "integration; accession"
+    },
+    {
+     "id": "b1-society-08",
+     "pic": "",
+     "el": "ο ρατσισμός",
+     "pron": "o ratsizmós",
+     "tr": "ırkçılık",
+     "en": "racism"
+    },
+    {
+     "id": "b1-society-09",
+     "pic": "🎓",
+     "el": "η εκπαίδευση",
+     "pron": "i ekpédhefsi",
+     "tr": "eğitim",
+     "en": "education"
+    },
+    {
+     "id": "b1-society-10",
+     "pic": "",
+     "el": "η υγεία",
+     "pron": "i iyía",
+     "tr": "sağlık",
+     "en": "health"
+    },
+    {
+     "id": "b1-society-11",
+     "pic": "",
+     "el": "η αλληλεγγύη",
+     "pron": "i alilengíi",
+     "tr": "dayanışma",
+     "en": "solidarity"
+    },
+    {
+     "id": "b1-society-12",
+     "pic": "",
+     "el": "η διαφθορά",
+     "pron": "i dhiafthorá",
+     "tr": "yolsuzluk",
+     "en": "corruption"
+    }
+   ]
+  },
+  {
+   "id": "work-economy",
+   "icon": "💼",
+   "name": {
+    "el": "Εργασία και οικονομία",
+    "tr": "İş ve ekonomi",
+    "en": "Work & economy"
+   },
+   "words": [
+    {
+     "id": "b1-work-economy-01",
+     "pic": "",
+     "el": "η οικονομία",
+     "pron": "i ikonomía",
+     "tr": "ekonomi",
+     "en": "economy"
+    },
+    {
+     "id": "b1-work-economy-02",
+     "pic": "",
+     "el": "η κρίση",
+     "pron": "i krísi",
+     "tr": "kriz",
+     "en": "crisis"
+    },
+    {
+     "id": "b1-work-economy-03",
+     "pic": "",
+     "el": "ο φόρος",
+     "pron": "o fóros",
+     "tr": "vergi",
+     "en": "tax"
+    },
+    {
+     "id": "b1-work-economy-04",
+     "pic": "",
+     "el": "η εφορία",
+     "pron": "i eforía",
+     "tr": "vergi dairesi",
+     "en": "tax office"
+    },
+    {
+     "id": "b1-work-economy-05",
+     "pic": "",
+     "el": "η σύνταξη",
+     "pron": "i síndaxi",
+     "tr": "emekli maaşı",
+     "en": "pension"
+    },
+    {
+     "id": "b1-work-economy-06",
+     "pic": "",
+     "el": "η ασφάλιση",
+     "pron": "i asfálisi",
+     "tr": "sigorta",
+     "en": "insurance"
+    },
+    {
+     "id": "b1-work-economy-07",
+     "pic": "",
+     "el": "ο μισθός",
+     "pron": "o misthós",
+     "tr": "maaş",
+     "en": "salary, wage"
+    },
+    {
+     "id": "b1-work-economy-08",
+     "pic": "",
+     "el": "ο εργοδότης",
+     "pron": "o erghodhótis",
+     "tr": "işveren",
+     "en": "employer"
+    },
+    {
+     "id": "b1-work-economy-09",
+     "pic": "",
+     "el": "ο εργαζόμενος",
+     "pron": "o erghazómenos",
+     "tr": "çalışan",
+     "en": "employee"
+    },
+    {
+     "id": "b1-work-economy-10",
+     "pic": "",
+     "el": "η άδεια διαμονής",
+     "pron": "i ádhia dhiamonís",
+     "tr": "oturma izni",
+     "en": "residence permit"
+    },
+    {
+     "id": "b1-work-economy-11",
+     "pic": "",
+     "el": "η αίτηση",
+     "pron": "i étisi",
+     "tr": "başvuru, dilekçe",
+     "en": "application"
+    },
+    {
+     "id": "b1-work-economy-12",
+     "pic": "",
+     "el": "το πιστοποιητικό",
+     "pron": "to pistopiitikó",
+     "tr": "belge, sertifika",
+     "en": "certificate"
+    }
+   ]
+  },
+  {
+   "id": "environment",
+   "icon": "🌍",
+   "name": {
+    "el": "Περιβάλλον",
+    "tr": "Çevre",
+    "en": "Environment"
+   },
+   "words": [
+    {
+     "id": "b1-environment-01",
+     "pic": "",
+     "el": "το περιβάλλον",
+     "pron": "to periválon",
+     "tr": "çevre",
+     "en": "environment"
+    },
+    {
+     "id": "b1-environment-02",
+     "pic": "",
+     "el": "η ρύπανση",
+     "pron": "i rípansi",
+     "tr": "kirlilik",
+     "en": "pollution"
+    },
+    {
+     "id": "b1-environment-03",
+     "pic": "",
+     "el": "η κλιματική αλλαγή",
+     "pron": "i klimatikí alayí",
+     "tr": "iklim değişikliği",
+     "en": "climate change"
+    },
+    {
+     "id": "b1-environment-04",
+     "pic": "♻️",
+     "el": "η ανακύκλωση",
+     "pron": "i anakíklosi",
+     "tr": "geri dönüşüm",
+     "en": "recycling"
+    },
+    {
+     "id": "b1-environment-05",
+     "pic": "🗑️",
+     "el": "τα απορρίμματα",
+     "pron": "ta aporímata",
+     "tr": "atık, çöp",
+     "en": "waste, rubbish"
+    },
+    {
+     "id": "b1-environment-06",
+     "pic": "",
+     "el": "η ενέργεια",
+     "pron": "i enéryia",
+     "tr": "enerji",
+     "en": "energy"
+    },
+    {
+     "id": "b1-environment-07",
+     "pic": "🔥",
+     "el": "η πυρκαγιά",
+     "pron": "i pirkayá",
+     "tr": "yangın",
+     "en": "fire (blaze)"
+    },
+    {
+     "id": "b1-environment-08",
+     "pic": "",
+     "el": "ο σεισμός",
+     "pron": "o sizmós",
+     "tr": "deprem",
+     "en": "earthquake"
+    },
+    {
+     "id": "b1-environment-09",
+     "pic": "",
+     "el": "η πλημμύρα",
+     "pron": "i plimíra",
+     "tr": "sel",
+     "en": "flood"
+    },
+    {
+     "id": "b1-environment-10",
+     "pic": "",
+     "el": "η φύση",
+     "pron": "i físi",
+     "tr": "doğa",
+     "en": "nature"
+    },
+    {
+     "id": "b1-environment-11",
+     "pic": "🌲",
+     "el": "το δάσος",
+     "pron": "to dhásos",
+     "tr": "orman",
+     "en": "forest"
+    },
+    {
+     "id": "b1-environment-12",
+     "pic": "",
+     "el": "προστατεύω",
+     "pron": "prostatévo",
+     "tr": "korumak",
+     "en": "to protect"
+    }
+   ]
+  },
+  {
+   "id": "idioms",
+   "icon": "💡",
+   "name": {
+    "el": "Εκφράσεις",
+    "tr": "Deyimler ve kalıplar",
+    "en": "Idioms & expressions"
+   },
+   "words": [
+    {
+     "id": "b1-idioms-01",
+     "pic": "",
+     "el": "κάνω τα στραβά μάτια",
+     "pron": "káno ta stravá mátia",
+     "tr": "görmezden gelmek",
+     "en": "to turn a blind eye"
+    },
+    {
+     "id": "b1-idioms-02",
+     "pic": "",
+     "el": "τα κατάφερα!",
+     "pron": "ta katáfera",
+     "tr": "başardım!",
+     "en": "I made it!"
+    },
+    {
+     "id": "b1-idioms-03",
+     "pic": "",
+     "el": "δεν βαριέσαι",
+     "pron": "dhen variése",
+     "tr": "boş ver",
+     "en": "never mind"
+    },
+    {
+     "id": "b1-idioms-04",
+     "pic": "",
+     "el": "με το ζόρι",
+     "pron": "me to zóri",
+     "tr": "zorla; güç bela",
+     "en": "by force; barely"
+    },
+    {
+     "id": "b1-idioms-05",
+     "pic": "",
+     "el": "σιγά σιγά",
+     "pron": "sighá sighá",
+     "tr": "yavaş yavaş",
+     "en": "little by little"
+    },
+    {
+     "id": "b1-idioms-06",
+     "pic": "",
+     "el": "όπως και να 'χει",
+     "pron": "ópos ke na 'hi",
+     "tr": "her neyse, ne olursa olsun",
+     "en": "anyway, be that as it may"
+    },
+    {
+     "id": "b1-idioms-07",
+     "pic": "",
+     "el": "κόβω το κεφάλι μου",
+     "pron": "kóvo to kefáli mu",
+     "tr": "kellemi veririm (çok eminim)",
+     "en": "I'd bet my life on it"
+    },
+    {
+     "id": "b1-idioms-08",
+     "pic": "",
+     "el": "στο κάτω κάτω",
+     "pron": "sto káto káto",
+     "tr": "sonuçta, nihayetinde",
+     "en": "after all"
+    },
+    {
+     "id": "b1-idioms-09",
+     "pic": "",
+     "el": "παίρνω απόφαση",
+     "pron": "pérno apófasi",
+     "tr": "karar vermek; kabullenmek",
+     "en": "to make up one's mind; to accept"
+    },
+    {
+     "id": "b1-idioms-10",
+     "pic": "",
+     "el": "κάνω υπομονή",
+     "pron": "káno ipomoní",
+     "tr": "sabretmek",
+     "en": "to be patient"
+    },
+    {
+     "id": "b1-idioms-11",
+     "pic": "",
+     "el": "βάζω τα δυνατά μου",
+     "pron": "vázo ta dhinatá mu",
+     "tr": "elimden geleni yapmak",
+     "en": "to do my best"
+    },
+    {
+     "id": "b1-idioms-12",
+     "pic": "",
+     "el": "από το στόμα σου και στου Θεού τ' αυτί",
+     "pron": "apó to stóma su ke stu theú t' aftí",
+     "tr": "ağzından Allah duysun",
+     "en": "from your lips to God's ears"
+    }
+   ]
+  },
+  {
+   "id": "exam-state",
+   "icon": "🏛️",
+   "name": {
+    "el": "Εξετάσεις: Κράτος και διοίκηση",
+    "tr": "Sınav: Devlet ve yönetim",
+    "en": "Exam: State & government"
+   },
+   "words": [
+    {
+     "id": "b1-exam-state-01",
+     "pic": "📜",
+     "el": "το Σύνταγμα",
+     "pron": "to síndaghma",
+     "tr": "Anayasa",
+     "en": "Constitution"
+    },
+    {
+     "id": "b1-exam-state-02",
+     "pic": "",
+     "el": "η Βουλή",
+     "pron": "i vulí",
+     "tr": "Parlamento (Vouli), Meclis",
+     "en": "Parliament"
+    },
+    {
+     "id": "b1-exam-state-03",
+     "pic": "",
+     "el": "ο βουλευτής",
+     "pron": "o vuleftís",
+     "tr": "milletvekili",
+     "en": "member of Parliament"
+    },
+    {
+     "id": "b1-exam-state-04",
+     "pic": "",
+     "el": "ο Πρόεδρος της Δημοκρατίας",
+     "pron": "o próedhros tis dhimokratías",
+     "tr": "Cumhurbaşkanı",
+     "en": "President of the Republic"
+    },
+    {
+     "id": "b1-exam-state-05",
+     "pic": "",
+     "el": "ο πρωθυπουργός",
+     "pron": "o prothipurghós",
+     "tr": "başbakan",
+     "en": "prime minister"
+    },
+    {
+     "id": "b1-exam-state-06",
+     "pic": "",
+     "el": "η κυβέρνηση",
+     "pron": "i kivérnisi",
+     "tr": "hükümet",
+     "en": "government"
+    },
+    {
+     "id": "b1-exam-state-07",
+     "pic": "",
+     "el": "ο υπουργός",
+     "pron": "o ipurghós",
+     "tr": "bakan",
+     "en": "minister"
+    },
+    {
+     "id": "b1-exam-state-08",
+     "pic": "",
+     "el": "το υπουργείο",
+     "pron": "to ipuryío",
+     "tr": "bakanlık",
+     "en": "ministry"
+    },
+    {
+     "id": "b1-exam-state-09",
+     "pic": "",
+     "el": "το κόμμα",
+     "pron": "to kóma",
+     "tr": "(siyasi) parti",
+     "en": "(political) party"
+    },
+    {
+     "id": "b1-exam-state-10",
+     "pic": "",
+     "el": "η δημοκρατία",
+     "pron": "i dhimokratía",
+     "tr": "demokrasi; cumhuriyet",
+     "en": "democracy; republic"
+    },
+    {
+     "id": "b1-exam-state-11",
+     "pic": "",
+     "el": "το κράτος",
+     "pron": "to krátos",
+     "tr": "devlet",
+     "en": "state"
+    },
+    {
+     "id": "b1-exam-state-12",
+     "pic": "",
+     "el": "ο δήμος",
+     "pron": "o dhímos",
+     "tr": "belediye",
+     "en": "municipality"
+    },
+    {
+     "id": "b1-exam-state-13",
+     "pic": "",
+     "el": "ο δήμαρχος",
+     "pron": "o dhímarhos",
+     "tr": "belediye başkanı",
+     "en": "mayor"
+    },
+    {
+     "id": "b1-exam-state-14",
+     "pic": "",
+     "el": "η Περιφέρεια",
+     "pron": "i periféria",
+     "tr": "(idari) bölge",
+     "en": "(administrative) region"
+    },
+    {
+     "id": "b1-exam-state-15",
+     "pic": "",
+     "el": "η Περιφερειακή Ενότητα",
+     "pron": "i periferiakí enótita",
+     "tr": "bölgesel birim",
+     "en": "regional unit"
+    },
+    {
+     "id": "b1-exam-state-16",
+     "pic": "",
+     "el": "ο νομός",
+     "pron": "o nomós",
+     "tr": "il (eski idari birim)",
+     "en": "prefecture"
+    }
+   ]
+  },
+  {
+   "id": "exam-law",
+   "icon": "⚖️",
+   "name": {
+    "el": "Εξετάσεις: Νόμοι, δικαιώματα, εκλογές",
+    "tr": "Sınav: Hukuk, haklar, seçimler",
+    "en": "Exam: Law, rights & elections"
+   },
+   "words": [
+    {
+     "id": "b1-exam-law-01",
+     "pic": "",
+     "el": "ο νόμος",
+     "pron": "o nómos",
+     "tr": "kanun, yasa",
+     "en": "law"
+    },
+    {
+     "id": "b1-exam-law-02",
+     "pic": "",
+     "el": "το άρθρο",
+     "pron": "to árthro",
+     "tr": "madde (kanun maddesi)",
+     "en": "article (of a law)"
+    },
+    {
+     "id": "b1-exam-law-03",
+     "pic": "",
+     "el": "το δικαστήριο",
+     "pron": "to dhikastírio",
+     "tr": "mahkeme",
+     "en": "court"
+    },
+    {
+     "id": "b1-exam-law-04",
+     "pic": "",
+     "el": "η δικαιοσύνη",
+     "pron": "i dhikeosíni",
+     "tr": "adalet",
+     "en": "justice"
+    },
+    {
+     "id": "b1-exam-law-05",
+     "pic": "",
+     "el": "ο Άρειος Πάγος",
+     "pron": "o ários pághos",
+     "tr": "Areios Pagos (Yargıtay)",
+     "en": "Areios Pagos (Supreme Court)"
+    },
+    {
+     "id": "b1-exam-law-06",
+     "pic": "",
+     "el": "το δικαίωμα",
+     "pron": "to dhikéoma",
+     "tr": "hak",
+     "en": "right"
+    },
+    {
+     "id": "b1-exam-law-07",
+     "pic": "",
+     "el": "η υποχρέωση",
+     "pron": "i ipohréosi",
+     "tr": "yükümlülük",
+     "en": "obligation"
+    },
+    {
+     "id": "b1-exam-law-08",
+     "pic": "",
+     "el": "η ιθαγένεια",
+     "pron": "i ithayénia",
+     "tr": "vatandaşlık",
+     "en": "citizenship"
+    },
+    {
+     "id": "b1-exam-law-09",
+     "pic": "",
+     "el": "ο πολίτης",
+     "pron": "o polítis",
+     "tr": "vatandaş",
+     "en": "citizen"
+    },
+    {
+     "id": "b1-exam-law-10",
+     "pic": "",
+     "el": "οι εκλογές",
+     "pron": "i ekloyés",
+     "tr": "seçimler",
+     "en": "elections"
+    },
+    {
+     "id": "b1-exam-law-11",
+     "pic": "",
+     "el": "η ψηφοφορία",
+     "pron": "i psifoforía",
+     "tr": "oylama",
+     "en": "vote, voting"
+    },
+    {
+     "id": "b1-exam-law-12",
+     "pic": "🗳️",
+     "el": "ψηφίζω",
+     "pron": "psifízo",
+     "tr": "oy vermek",
+     "en": "to vote"
+    },
+    {
+     "id": "b1-exam-law-13",
+     "pic": "",
+     "el": "το δικαίωμα του εκλέγειν",
+     "pron": "to dhikéoma tu ekléyin",
+     "tr": "seçme hakkı",
+     "en": "the right to vote"
+    },
+    {
+     "id": "b1-exam-law-14",
+     "pic": "",
+     "el": "η ελευθερία",
+     "pron": "i elefthería",
+     "tr": "özgürlük",
+     "en": "freedom"
+    },
+    {
+     "id": "b1-exam-law-15",
+     "pic": "",
+     "el": "η ισότητα",
+     "pron": "i isótita",
+     "tr": "eşitlik",
+     "en": "equality"
+    }
+   ]
+  },
+  {
+   "id": "exam-history",
+   "icon": "🏺",
+   "name": {
+    "el": "Εξετάσεις: Ιστορία",
+    "tr": "Sınav: Tarih",
+    "en": "Exam: History"
+   },
+   "words": [
+    {
+     "id": "b1-exam-history-01",
+     "pic": "",
+     "el": "η επανάσταση",
+     "pron": "i epanástasi",
+     "tr": "devrim, ayaklanma",
+     "en": "revolution"
+    },
+    {
+     "id": "b1-exam-history-02",
+     "pic": "⚔️",
+     "el": "ο πόλεμος",
+     "pron": "o pólemos",
+     "tr": "savaş",
+     "en": "war"
+    },
+    {
+     "id": "b1-exam-history-03",
+     "pic": "",
+     "el": "η μάχη",
+     "pron": "i máhi",
+     "tr": "muharebe",
+     "en": "battle"
+    },
+    {
+     "id": "b1-exam-history-04",
+     "pic": "",
+     "el": "η συνθήκη",
+     "pron": "i sinthíki",
+     "tr": "antlaşma",
+     "en": "treaty"
+    },
+    {
+     "id": "b1-exam-history-05",
+     "pic": "",
+     "el": "η απελευθέρωση",
+     "pron": "i apelefthérosi",
+     "tr": "kurtuluş, kurtarılma",
+     "en": "liberation"
+    },
+    {
+     "id": "b1-exam-history-06",
+     "pic": "",
+     "el": "η ανεξαρτησία",
+     "pron": "i anexartisía",
+     "tr": "bağımsızlık",
+     "en": "independence"
+    },
+    {
+     "id": "b1-exam-history-07",
+     "pic": "",
+     "el": "η Κατοχή",
+     "pron": "i katohí",
+     "tr": "İşgal (dönemi)",
+     "en": "the Occupation"
+    },
+    {
+     "id": "b1-exam-history-08",
+     "pic": "",
+     "el": "η αντίσταση",
+     "pron": "i andístasi",
+     "tr": "direniş",
+     "en": "resistance"
+    },
+    {
+     "id": "b1-exam-history-09",
+     "pic": "",
+     "el": "η αυτοκρατορία",
+     "pron": "i aftokratoría",
+     "tr": "imparatorluk",
+     "en": "empire"
+    },
+    {
+     "id": "b1-exam-history-10",
+     "pic": "",
+     "el": "η Βυζαντινή Αυτοκρατορία",
+     "pron": "i vizandiní aftokratoría",
+     "tr": "Bizans İmparatorluğu",
+     "en": "the Byzantine Empire"
+    },
+    {
+     "id": "b1-exam-history-11",
+     "pic": "",
+     "el": "οι Οθωμανοί",
+     "pron": "i othomaní",
+     "tr": "Osmanlılar",
+     "en": "the Ottomans"
+    },
+    {
+     "id": "b1-exam-history-12",
+     "pic": "👑",
+     "el": "ο βασιλιάς",
+     "pron": "o vasiliás",
+     "tr": "kral",
+     "en": "king"
+    },
+    {
+     "id": "b1-exam-history-13",
+     "pic": "",
+     "el": "η Μικρασιατική Καταστροφή",
+     "pron": "i mikrasiatikí katastrofí",
+     "tr": "Küçük Asya Felaketi",
+     "en": "the Asia Minor Catastrophe"
+    },
+    {
+     "id": "b1-exam-history-14",
+     "pic": "",
+     "el": "η Μεγάλη Ιδέα",
+     "pron": "i megháli idhéa",
+     "tr": "Megali İdea (Büyük Ülkü)",
+     "en": "the Great Idea (Megali Idea)"
+    },
+    {
+     "id": "b1-exam-history-15",
+     "pic": "",
+     "el": "ο σύμμαχος",
+     "pron": "o símahos",
+     "tr": "müttefik",
+     "en": "ally"
+    },
+    {
+     "id": "b1-exam-history-16",
+     "pic": "",
+     "el": "η αρχαιότητα",
+     "pron": "i arheótita",
+     "tr": "antik çağ",
+     "en": "antiquity"
+    }
+   ]
+  },
+  {
+   "id": "exam-geography",
+   "icon": "🗺️",
+   "name": {
+    "el": "Εξετάσεις: Γεωγραφία",
+    "tr": "Sınav: Coğrafya",
+    "en": "Exam: Geography"
+   },
+   "words": [
+    {
+     "id": "b1-exam-geography-01",
+     "pic": "",
+     "el": "η χερσόνησος",
+     "pron": "i hersónisos",
+     "tr": "yarımada",
+     "en": "peninsula"
+    },
+    {
+     "id": "b1-exam-geography-02",
+     "pic": "",
+     "el": "ο κόλπος",
+     "pron": "o kólpos",
+     "tr": "körfez",
+     "en": "gulf"
+    },
+    {
+     "id": "b1-exam-geography-03",
+     "pic": "🏝️",
+     "el": "το νησί",
+     "pron": "to nisí",
+     "tr": "ada",
+     "en": "island"
+    },
+    {
+     "id": "b1-exam-geography-04",
+     "pic": "",
+     "el": "η λίμνη",
+     "pron": "i límni",
+     "tr": "göl",
+     "en": "lake"
+    },
+    {
+     "id": "b1-exam-geography-05",
+     "pic": "",
+     "el": "ο ποταμός",
+     "pron": "o potamós",
+     "tr": "nehir",
+     "en": "river"
+    },
+    {
+     "id": "b1-exam-geography-06",
+     "pic": "⛰️",
+     "el": "το βουνό",
+     "pron": "to vunó",
+     "tr": "dağ",
+     "en": "mountain"
+    },
+    {
+     "id": "b1-exam-geography-07",
+     "pic": "🏔️",
+     "el": "η οροσειρά",
+     "pron": "i orosirá",
+     "tr": "sıradağlar",
+     "en": "mountain range"
+    },
+    {
+     "id": "b1-exam-geography-08",
+     "pic": "",
+     "el": "το πέλαγος",
+     "pron": "to pélaghos",
+     "tr": "deniz (açık deniz)",
+     "en": "sea (open sea)"
+    },
+    {
+     "id": "b1-exam-geography-09",
+     "pic": "",
+     "el": "η πεδιάδα",
+     "pron": "i pedhiádha",
+     "tr": "ova",
+     "en": "plain"
+    },
+    {
+     "id": "b1-exam-geography-10",
+     "pic": "🌋",
+     "el": "το ηφαίστειο",
+     "pron": "to iféstio",
+     "tr": "yanardağ, volkan",
+     "en": "volcano"
+    },
+    {
+     "id": "b1-exam-geography-11",
+     "pic": "",
+     "el": "ο πληθυσμός",
+     "pron": "o plithizmós",
+     "tr": "nüfus",
+     "en": "population"
+    },
+    {
+     "id": "b1-exam-geography-12",
+     "pic": "",
+     "el": "η απογραφή",
+     "pron": "i apoghrafí",
+     "tr": "nüfus sayımı",
+     "en": "census"
+    },
+    {
+     "id": "b1-exam-geography-13",
+     "pic": "",
+     "el": "η πρωτεύουσα",
+     "pron": "i protévusa",
+     "tr": "başkent",
+     "en": "capital (city)"
+    },
+    {
+     "id": "b1-exam-geography-14",
+     "pic": "",
+     "el": "τα σύνορα",
+     "pron": "ta sínora",
+     "tr": "sınırlar",
+     "en": "borders"
+    }
+   ]
+  },
+  {
+   "id": "exam-culture",
+   "icon": "🎭",
+   "name": {
+    "el": "Εξετάσεις: Πολιτισμός",
+    "tr": "Sınav: Kültür",
+    "en": "Exam: Culture"
+   },
+   "words": [
+    {
+     "id": "b1-exam-culture-01",
+     "pic": "",
+     "el": "ο πολιτισμός",
+     "pron": "o politizmós",
+     "tr": "kültür; medeniyet",
+     "en": "culture; civilisation"
+    },
+    {
+     "id": "b1-exam-culture-02",
+     "pic": "",
+     "el": "το έθιμο",
+     "pron": "to éthimo",
+     "tr": "gelenek, adet",
+     "en": "custom"
+    },
+    {
+     "id": "b1-exam-culture-03",
+     "pic": "",
+     "el": "η παράδοση",
+     "pron": "i parádhosi",
+     "tr": "gelenek",
+     "en": "tradition"
+    },
+    {
+     "id": "b1-exam-culture-04",
+     "pic": "🎉",
+     "el": "η γιορτή",
+     "pron": "i yortí",
+     "tr": "bayram, kutlama; isim günü",
+     "en": "celebration; name day"
+    },
+    {
+     "id": "b1-exam-culture-05",
+     "pic": "",
+     "el": "το Πάσχα",
+     "pron": "to pásha",
+     "tr": "Paskalya",
+     "en": "Easter"
+    },
+    {
+     "id": "b1-exam-culture-06",
+     "pic": "🎄",
+     "el": "τα Χριστούγεννα",
+     "pron": "ta hristúyena",
+     "tr": "Noel",
+     "en": "Christmas"
+    },
+    {
+     "id": "b1-exam-culture-07",
+     "pic": "",
+     "el": "το μουσείο",
+     "pron": "to musío",
+     "tr": "müze",
+     "en": "museum"
+    },
+    {
+     "id": "b1-exam-culture-08",
+     "pic": "",
+     "el": "ο αρχαιολογικός χώρος",
+     "pron": "o arheoloyikós hóros",
+     "tr": "arkeolojik alan",
+     "en": "archaeological site"
+    },
+    {
+     "id": "b1-exam-culture-09",
+     "pic": "",
+     "el": "το μνημείο",
+     "pron": "to mnimío",
+     "tr": "anıt",
+     "en": "monument"
+    },
+    {
+     "id": "b1-exam-culture-10",
+     "pic": "",
+     "el": "ο ναός",
+     "pron": "o naós",
+     "tr": "tapınak; kilise",
+     "en": "temple; church"
+    },
+    {
+     "id": "b1-exam-culture-11",
+     "pic": "",
+     "el": "ο εθνικός ύμνος",
+     "pron": "o ethnikós ímnos",
+     "tr": "milli marş",
+     "en": "national anthem"
+    },
+    {
+     "id": "b1-exam-culture-12",
+     "pic": "",
+     "el": "ο ποιητής",
+     "pron": "o piitís",
+     "tr": "şair",
+     "en": "poet"
+    },
+    {
+     "id": "b1-exam-culture-13",
+     "pic": "",
+     "el": "ο συγγραφέας",
+     "pron": "o singraféas",
+     "tr": "yazar",
+     "en": "writer"
+    },
+    {
+     "id": "b1-exam-culture-14",
+     "pic": "⛪",
+     "el": "η Ορθόδοξη Εκκλησία",
+     "pron": "i orthódhoxi eklisía",
+     "tr": "Ortodoks Kilisesi",
+     "en": "the Orthodox Church"
+    },
+    {
+     "id": "b1-exam-culture-15",
+     "pic": "",
+     "el": "οι Ολυμπιακοί Αγώνες",
+     "pron": "i olimbiakí aghónes",
+     "tr": "Olimpiyat Oyunları",
+     "en": "the Olympic Games"
+    }
+   ]
+  }
+ ]
+}

@@ -12,6 +12,9 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Her derste Yunanca terim sözlüğü, zaman çizelgeleri, tablolar ve haritalar var.
 - Her bölümün sonunda o bölümün sorularını çalışma modu.
 - Okunan bölümler takip edilir.
+- **Yeni: Kelime öğretici.** A1'den B2'ye kadar Yunanca kelimeler, seviye ve konu bazında, akıllı tekrarla çalışılır.
+- Kelimeler 4 yönde sorulabilir. Yunancadan Türkçeye veya İngilizceye sorulurken resim gösterilmez; Türkçe veya İngilizceden Yunancaya sorulurken kelimenin resmi gösterilir.
+- Kelimeler 4 seçenekle ya da kart çevirerek cevaplanabilir; Yunanca seslendirme de var.
 - Uygulamanın altbilgisinde sürüm numarası, Hakkında sayfasında sürüm notları gösterilir.
 
 ## 1.0.0 (2026-10-26)

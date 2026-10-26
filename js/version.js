@@ -9,6 +9,8 @@ window.APP_CHANGES = [
       "Her derste Yunanca terim sözlüğü, zaman çizelgeleri, tablolar ve haritalar",
       "Her bölümün sonunda o bölümün sorularını çalışma modu",
       "Okunan bölümlerin takibi",
+      "Yeni: Kelime öğretici — A1'den B2'ye seviye ve konu bazında Yunanca kelimeler, akıllı tekrarla",
+      "Kelimelerde 4 yön: Yunanca→Türkçe/İngilizce (resimsiz), Türkçe/İngilizce→Yunanca (resimli)",
       "Uygulama içinde sürüm numarası ve sürüm notları"
     ],
     en: [
@@ -16,6 +18,8 @@ window.APP_CHANGES = [
       "Greek glossary, timelines, tables and maps in every lesson",
       "Practise each section's questions right after reading it",
       "Tracks which sections you have read",
+      "New: Vocabulary trainer — Greek words from A1 to B2 by level and topic, with spaced repetition",
+      "Four directions: Greek→Turkish/English (no picture), Turkish/English→Greek (with picture)",
       "Version number and release notes inside the app"
     ]
   },

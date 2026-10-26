@@ -1,0 +1,877 @@
+{
+ "subject": "geo",
+ "intro": {
+  "tr": "Coğrafya sınavı Yunanistan'ın konumunu, idari bölünmesini (13 Bölge, 74 Bölgesel Birim), başkentleri, adaları, dağları, nehir ve gölleri, iklimi, doğası ve ekonomisini sorar. Sorunun bir bölümü haritada yer işaretlemeyi ister (B bölümü), bu yüzden her bölümdeki haritalara bakarak yerlerin konumunu ezberleyin. Sınav Yunancadır: her bölümün sonundaki Yunanca terimleri tanıyabilmeniz gerekir.",
+  "en": "The geography exam asks about Greece's location, its administrative division (13 Regions, 74 Regional Units), capitals, islands, mountains, rivers and lakes, climate, nature and economy. Part of the exam asks you to mark places on a map (Section B), so study the maps in each section and memorise where things are. The exam is in Greek: make sure you recognise the Greek terms listed in every section."
+ },
+ "sections": [
+  {
+   "id": "geo-overview",
+   "title": {"el": "Η Ελλάδα με μια ματιά", "tr": "Bir bakışta Yunanistan", "en": "Greece at a glance"},
+   "icon": "🌍",
+   "summary": {"tr": "Konum, yüzölçümü, nüfus, denizler, komşular ve dört uç nokta.", "en": "Location, area, population, seas, neighbours and the four extreme points."},
+   "blocks": [
+    {"type": "p", "text": {
+     "tr": "Yunanistan **Güneydoğu Avrupa**'da, Balkan Yarımadası'nın güney ucunda yer alır (güneybatı Avrupa'da değil!). Yüzölçümü **yaklaşık 132.000 km²**, 2021 nüfus sayımına göre nüfusu **yaklaşık 10 milyondur**.",
+     "en": "Greece lies in **South-Eastern Europe**, at the southern tip of the Balkan Peninsula (not in south-western Europe!). Its area is **about 132,000 km²** and, according to the 2021 census, its population is **about 10 million**."}},
+    {"type": "list", "items": [
+     {"tr": "Batıda: **İyon Denizi**", "en": "West: the **Ionian Sea**"},
+     {"tr": "Doğuda: **Ege Denizi**", "en": "East: the **Aegean Sea**"},
+     {"tr": "Güneyde: **Libya Denizi** (Girit'in güneyi)", "en": "South: the **Libyan Sea** (south of Crete)"},
+     {"tr": "Kara komşuları: Arnavutluk, Kuzey Makedonya Cumhuriyeti, Bulgaristan, Türkiye", "en": "Land neighbours: Albania, the Republic of North Macedonia, Bulgaria, Turkey"}
+    ]},
+    {"type": "table",
+     "head": [{"tr": "Sınır yeri", "en": "Border place"}, {"tr": "Komşu ülke", "en": "Neighbouring country"}],
+     "rows": [
+      [{"tr": "İstanköy (ada)", "en": "Kos (island)"}, {"tr": "Türkiye", "en": "Turkey"}],
+      [{"tr": "Dimetoka (Evros)", "en": "Didymoteicho (Evros)"}, {"tr": "Türkiye", "en": "Turkey"}],
+      [{"tr": "Eksohi (Drama)", "en": "Exochi (Drama)"}, {"tr": "Bulgaristan", "en": "Bulgaria"}],
+      [{"tr": "Niki (Florina)", "en": "Niki (Florina)"}, {"tr": "Kuzey Makedonya Cumhuriyeti", "en": "Republic of North Macedonia"}]
+     ]},
+    {"type": "table",
+     "head": [{"tr": "Yön", "en": "Direction"}, {"tr": "Uç nokta", "en": "Extreme point"}, {"tr": "Not", "en": "Note"}],
+     "rows": [
+      [{"tr": "Kuzey", "en": "North"}, {"tr": "Ormenio", "en": "Ormenio"}, {"tr": "Evros Bölgesel Biriminin en kuzeyi, Yunanistan-Bulgaristan sınırında", "en": "Northernmost part of Evros Regional Unit, on the Greek-Bulgarian border"}],
+      [{"tr": "Güney", "en": "South"}, {"tr": "Gavdos", "en": "Gavdos"}, {"tr": "Girit'in güneyinde küçük ada", "en": "Small island south of Crete"}],
+      [{"tr": "Doğu", "en": "East"}, {"tr": "Meis (Megisti)", "en": "Kastellorizo (Megisti)"}, {"tr": "Meis/Megisti adalar grubu", "en": "The Kastellorizo/Megisti island group"}],
+      [{"tr": "Batı", "en": "West"}, {"tr": "Othoni (Fani)", "en": "Othonoi (Fanoi)"}, {"tr": "Korfu Bölgesel Birimine bağlı küçük ada", "en": "Small islet of the Regional Unit of Corfu"}]
+     ]},
+    {"type": "map", "places": [
+     {"name": {"el": "Ορμένιο", "tr": "Ormenio", "en": "Ormenio"}, "lat": 41.72, "lon": 26.22},
+     {"name": {"el": "Γαύδος", "tr": "Gavdos", "en": "Gavdos"}, "lat": 34.84, "lon": 24.08},
+     {"name": {"el": "Καστελλόριζο (Μεγίστη)", "tr": "Meis (Megisti)", "en": "Kastellorizo (Megisti)"}, "lat": 36.15, "lon": 29.59},
+     {"name": {"el": "Οθωνοί (Φανοί)", "tr": "Othoni (Fani)", "en": "Othonoi (Fanoi)"}, "lat": 39.85, "lon": 19.4},
+     {"name": {"el": "Κως", "tr": "İstanköy", "en": "Kos"}, "lat": 36.85, "lon": 27.15},
+     {"name": {"el": "Διδυμότειχο", "tr": "Dimetoka", "en": "Didymoteicho"}, "lat": 41.35, "lon": 26.5},
+     {"name": {"el": "Νίκη Φλώρινας", "tr": "Niki (Florina)", "en": "Niki (Florina)"}, "lat": 40.95, "lon": 21.43}
+    ]},
+    {"type": "tip", "text": {
+     "tr": "Tuzak: Gavdos en **güneydeki** noktadır, en doğudaki değil. En doğu Meis'tir. Hafıza: Kuzey **O**rmenio, Batı **O**thoni, Doğu **M**eis (Kastellorizo), Güney **G**avdos. Meriç (Evros) Nehri Türkiye ile sınırı **tüm uzunluğu boyunca değil**, yalnızca bir bölümünde oluşturur.",
+     "en": "Trap: Gavdos is the **southernmost** point, not the easternmost. The easternmost is Kastellorizo. Memory aid: North **O**rmenio, West **O**thonoi, East **K**astellorizo, South **G**avdos. The Evros River forms the border with Turkey only along part of its course, **not its entire length**."}},
+    {"type": "terms", "items": [
+     {"el": "Νοτιοανατολική Ευρώπη", "tr": "Güneydoğu Avrupa", "en": "South-Eastern Europe"},
+     {"el": "Ιόνιο Πέλαγος", "tr": "İyon Denizi", "en": "Ionian Sea"},
+     {"el": "Αιγαίο Πέλαγος", "tr": "Ege Denizi", "en": "Aegean Sea"},
+     {"el": "Λιβυκό Πέλαγος", "tr": "Libya Denizi", "en": "Libyan Sea"},
+     {"el": "Ορμένιο", "tr": "Ormenio", "en": "Ormenio"},
+     {"el": "Γαύδος", "tr": "Gavdos", "en": "Gavdos"},
+     {"el": "Καστελλόριζο (Μεγίστη)", "tr": "Meis (Megisti)", "en": "Kastellorizo (Megisti)"},
+     {"el": "Οθωνοί (Φανοί)", "tr": "Othoni (Fani)", "en": "Othonoi (Fanoi)"},
+     {"el": "Τουρκία", "tr": "Türkiye", "en": "Turkey"},
+     {"el": "Βουλγαρία", "tr": "Bulgaristan", "en": "Bulgaria"},
+     {"el": "Δημοκρατία της Βόρειας Μακεδονίας", "tr": "Kuzey Makedonya Cumhuriyeti", "en": "Republic of North Macedonia"},
+     {"el": "τετραγωνικά χιλιόμετρα", "tr": "kilometrekare", "en": "square kilometres"},
+     {"el": "απογραφή", "tr": "nüfus sayımı", "en": "census"}
+    ]}
+   ],
+   "questions": ["geo-2", "geo-3", "geo-22", "geo-27", "geo-30", "geo-32"]
+  },
+  {
+   "id": "geo-regions",
+   "title": {"el": "Διοικητική διαίρεση και γεωγραφικά διαμερίσματα", "tr": "İdari bölünme ve coğrafi bölgeler", "en": "Administrative division and geographical regions"},
+   "icon": "🗺️",
+   "summary": {"tr": "13 İdari Bölge, 74 Bölgesel Birim, geleneksel coğrafi bölgeler ve nüfus yoğunluğu.", "en": "13 Administrative Regions, 74 Regional Units, the traditional geographical regions and population density."},
+   "blocks": [
+    {"type": "p", "text": {
+     "tr": "Yunanistan idari olarak **13 Bölgeye (Περιφέρειες)** ve **74 Bölgesel Birime (Περιφερειακές Ενότητες)** ayrılır. Bunun yanında geleneksel **coğrafi bölgeler (γεωγραφικά διαμερίσματα)** de kullanılır.",
+     "en": "Administratively, Greece is divided into **13 Regions (Περιφέρειες)** and **74 Regional Units (Περιφερειακές Ενότητες)**. The traditional **geographical regions (γεωγραφικά διαμερίσματα)** are also used."}},
+    {"type": "list", "items": [
+     {"tr": "Doğu Makedonya ve Trakya", "en": "Eastern Macedonia and Thrace"},
+     {"tr": "Orta Makedonya", "en": "Central Macedonia"},
+     {"tr": "Batı Makedonya", "en": "Western Macedonia"},
+     {"tr": "Epir", "en": "Epirus"},
+     {"tr": "Teselya", "en": "Thessaly"},
+     {"tr": "İyon Adaları", "en": "Ionian Islands"},
+     {"tr": "Batı Yunanistan", "en": "Western Greece"},
+     {"tr": "Orta Yunanistan", "en": "Central Greece"},
+     {"tr": "Atika", "en": "Attica"},
+     {"tr": "Mora", "en": "Peloponnese"},
+     {"tr": "Kuzey Ege", "en": "North Aegean"},
+     {"tr": "Güney Ege", "en": "South Aegean"},
+     {"tr": "Girit", "en": "Crete"}
+    ]},
+    {"type": "map", "places": [
+     {"name": {"el": "Ανατολική Μακεδονία και Θράκη", "tr": "Doğu Makedonya ve Trakya", "en": "Eastern Macedonia and Thrace"}, "lat": 41.1, "lon": 25.0},
+     {"name": {"el": "Κεντρική Μακεδονία", "tr": "Orta Makedonya", "en": "Central Macedonia"}, "lat": 40.75, "lon": 23.0},
+     {"name": {"el": "Δυτική Μακεδονία", "tr": "Batı Makedonya", "en": "Western Macedonia"}, "lat": 40.35, "lon": 21.6},
+     {"name": {"el": "Ήπειρος", "tr": "Epir", "en": "Epirus"}, "lat": 39.55, "lon": 20.75},
+     {"name": {"el": "Θεσσαλία", "tr": "Teselya", "en": "Thessaly"}, "lat": 39.45, "lon": 22.2},
+     {"name": {"el": "Ιόνια Νησιά/Επτάνησα", "tr": "İyon Adaları/Yedi Adalar", "en": "Ionian Islands/Heptanese"}, "lat": 38.55, "lon": 20.6},
+     {"name": {"el": "Δυτική Ελλάδα", "tr": "Batı Yunanistan", "en": "Western Greece"}, "lat": 38.4, "lon": 21.55},
+     {"name": {"el": "Στερεά Ελλάδα", "tr": "Orta Yunanistan", "en": "Central Greece"}, "lat": 38.7, "lon": 22.6},
+     {"name": {"el": "Αττική", "tr": "Atika", "en": "Attica"}, "lat": 38.05, "lon": 23.75},
+     {"name": {"el": "Πελοπόννησος", "tr": "Mora", "en": "Peloponnese"}, "lat": 37.5, "lon": 22.2},
+     {"name": {"el": "Βόρειο Αιγαίο", "tr": "Kuzey Ege", "en": "North Aegean"}, "lat": 39.2, "lon": 26.25},
+     {"name": {"el": "Νότιο Αιγαίο", "tr": "Güney Ege", "en": "South Aegean"}, "lat": 36.9, "lon": 25.3},
+     {"name": {"el": "Κρήτη", "tr": "Girit", "en": "Crete"}, "lat": 35.2, "lon": 24.9}
+    ]},
+    {"type": "p", "text": {
+     "tr": "Geleneksel coğrafi bölgeler: **Makedonya, Trakya, Epir, Teselya, Orta Yunanistan-Eğriboz, Mora, İyon Adaları (Yedi Adalar), Ege Adaları (Onikiadalar dahil) ve Girit**. Haritada sorulabilecekler: Mora, İyon Adaları/Yedi Adalar, Onikiadalar ve Trakya.",
+     "en": "Traditional geographical regions: **Macedonia, Thrace, Epirus, Thessaly, Central Greece-Euboea, the Peloponnese, the Ionian Islands (Heptanese), the Aegean Islands (including the Dodecanese) and Crete**. On the map you may be asked for: the Peloponnese, the Ionian Islands/Heptanese, the Dodecanese and Thrace."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Πελοπόννησος", "tr": "Mora", "en": "Peloponnese"}, "lat": 37.5, "lon": 22.2},
+     {"name": {"el": "Νησιά Ιονίου/Επτάνησα", "tr": "İyon Adaları/Yedi Adalar", "en": "Ionian Islands/Heptanese"}, "lat": 38.55, "lon": 20.6},
+     {"name": {"el": "Δωδεκάνησα", "tr": "Onikiadalar", "en": "Dodecanese"}, "lat": 36.6, "lon": 27.2},
+     {"name": {"el": "Θράκη", "tr": "Trakya", "en": "Thrace"}, "lat": 41.1, "lon": 25.4}
+    ]},
+    {"type": "table",
+     "head": [{"tr": "Yer / Bölgesel Birim", "en": "Place / Regional Unit"}, {"tr": "Coğrafi bölge", "en": "Geographical region"}],
+     "rows": [
+      [{"tr": "Ahaya, Arkadya", "en": "Achaea, Arcadia"}, {"tr": "Mora", "en": "Peloponnese"}],
+      [{"tr": "Ioannina", "en": "Ioannina"}, {"tr": "Epir", "en": "Epirus"}],
+      [{"tr": "Kavala", "en": "Kavala"}, {"tr": "Makedonya", "en": "Macedonia"}],
+      [{"tr": "Sisam, Midilli (Lesvos)", "en": "Samos, Lesbos"}, {"tr": "Ege Denizi adaları", "en": "Aegean Sea islands"}],
+      [{"tr": "Beotya", "en": "Boeotia"}, {"tr": "Orta Yunanistan - Eğriboz", "en": "Central Greece - Euboea"}],
+      [{"tr": "Lasithi", "en": "Lasithi"}, {"tr": "Girit", "en": "Crete"}]
+     ]},
+    {"type": "p", "text": {
+     "tr": "**En yoğun nüfuslu dört Bölge:** Atika, Orta Makedonya, Teselya, Batı Yunanistan. **En seyrek nüfuslu dört Bölge:** Kuzey Ege, İyon Adaları/Yedi Adalar, Batı Makedonya, Epir.",
+     "en": "**The four most densely populated Regions:** Attica, Central Macedonia, Thessaly, Western Greece. **The four most sparsely populated Regions:** North Aegean, Ionian Islands/Heptanese, Western Macedonia, Epirus."}},
+    {"type": "tip", "text": {
+     "tr": "Kavala idari olarak 'Doğu Makedonya ve Trakya' Bölgesindedir ama coğrafi bölge olarak **Makedonya**'ya aittir. Sayıları karıştırmayın: **13** Bölge, **74** Bölgesel Birim.",
+     "en": "Kavala is administratively in the Region of 'Eastern Macedonia and Thrace', but its geographical region is **Macedonia**. Don't mix up the numbers: **13** Regions, **74** Regional Units."}},
+    {"type": "terms", "items": [
+     {"el": "Διοικητικές Περιφέρειες", "tr": "İdari Bölgeler", "en": "Administrative Regions"},
+     {"el": "Περιφερειακές Ενότητες", "tr": "Bölgesel Birimler", "en": "Regional Units"},
+     {"el": "γεωγραφικό διαμέρισμα", "tr": "coğrafi bölge", "en": "geographical region"},
+     {"el": "Ανατολικής Μακεδονίας και Θράκης", "tr": "Doğu Makedonya ve Trakya", "en": "Eastern Macedonia and Thrace"},
+     {"el": "Κεντρικής Μακεδονίας", "tr": "Orta Makedonya", "en": "Central Macedonia"},
+     {"el": "Δυτικής Μακεδονίας", "tr": "Batı Makedonya", "en": "Western Macedonia"},
+     {"el": "Ηπείρου", "tr": "Epir", "en": "Epirus"},
+     {"el": "Θεσσαλίας", "tr": "Teselya", "en": "Thessaly"},
+     {"el": "Ιονίων Νήσων", "tr": "İyon Adaları", "en": "Ionian Islands"},
+     {"el": "Δυτικής Ελλάδας", "tr": "Batı Yunanistan", "en": "Western Greece"},
+     {"el": "Στερεάς Ελλάδας", "tr": "Orta Yunanistan", "en": "Central Greece"},
+     {"el": "Αττικής", "tr": "Atika", "en": "Attica"},
+     {"el": "Πελοποννήσου", "tr": "Mora", "en": "Peloponnese"},
+     {"el": "Βορείου Αιγαίου", "tr": "Kuzey Ege", "en": "North Aegean"},
+     {"el": "Νοτίου Αιγαίου", "tr": "Güney Ege", "en": "South Aegean"},
+     {"el": "Κρήτης", "tr": "Girit", "en": "Crete"},
+     {"el": "Δωδεκάνησα", "tr": "Onikiadalar", "en": "Dodecanese"},
+     {"el": "Επτάνησα", "tr": "Yedi Adalar", "en": "Heptanese"},
+     {"el": "πυκνοκατοικημένες / αραιοκατοικημένες", "tr": "yoğun nüfuslu / seyrek nüfuslu", "en": "densely / sparsely populated"}
+    ]}
+   ],
+   "questions": ["geo-1", "geo-6", "geo-15", "geo-45", "geo-61", "geo-62", "geo-63"]
+  },
+  {
+   "id": "geo-capitals",
+   "title": {"el": "Περιφερειακές Ενότητες και πρωτεύουσές τους", "tr": "Bölgesel Birimler ve başkentleri", "en": "Regional Units and their capitals"},
+   "icon": "🏛️",
+   "summary": {"tr": "Sınavda sorulan başkentler, Girit, Epir ve Mora'nın birimleri, denize kıyısı olmayan birimler.", "en": "Capitals asked in the exam, the units of Crete, Epirus and the Peloponnese, and the landlocked units."},
+   "blocks": [
+    {"type": "table",
+     "head": [{"tr": "Bölgesel Birim", "en": "Regional Unit"}, {"tr": "Başkent", "en": "Capital"}],
+     "rows": [
+      [{"tr": "Ahaya", "en": "Achaea"}, {"tr": "Patra", "en": "Patras"}],
+      [{"tr": "Selanik", "en": "Thessaloniki"}, {"tr": "Selanik", "en": "Thessaloniki"}],
+      [{"tr": "Evritanya", "en": "Evrytania"}, {"tr": "Karpenisi", "en": "Karpenisi"}],
+      [{"tr": "Mesenya", "en": "Messinia"}, {"tr": "Kalamata", "en": "Kalamata"}],
+      [{"tr": "Evros", "en": "Evros"}, {"tr": "Dedeağaç", "en": "Alexandroupoli"}],
+      [{"tr": "Rodopi", "en": "Rhodope"}, {"tr": "Gümülcine", "en": "Komotini"}],
+      [{"tr": "Pella", "en": "Pella"}, {"tr": "Edessa", "en": "Edessa"}],
+      [{"tr": "İmathia", "en": "Imathia"}, {"tr": "Veria", "en": "Veria"}],
+      [{"tr": "Eğriboz", "en": "Euboea"}, {"tr": "Halkida", "en": "Chalkida"}],
+      [{"tr": "Argolida", "en": "Argolis"}, {"tr": "Nafplio (Argos değil!)", "en": "Nafplio (not Argos!)"}],
+      [{"tr": "Lakonya", "en": "Laconia"}, {"tr": "Sparta (Gythio değil!)", "en": "Sparta (not Gytheio!)"}],
+      [{"tr": "Halkidiki", "en": "Chalkidiki"}, {"tr": "Poligiros", "en": "Polygyros"}],
+      [{"tr": "Arkadya", "en": "Arcadia"}, {"tr": "Tripoli", "en": "Tripoli"}],
+      [{"tr": "Beotya", "en": "Boeotia"}, {"tr": "Livadia (Thiva değil!)", "en": "Livadeia (not Thebes!)"}],
+      [{"tr": "Siros adası", "en": "Island of Syros"}, {"tr": "Ermupoli", "en": "Ermoupoli"}]
+     ]},
+    {"type": "map", "places": [
+     {"name": {"el": "Πάτρα", "tr": "Patra", "en": "Patras"}, "lat": 38.246, "lon": 21.734},
+     {"name": {"el": "Θεσσαλονίκη", "tr": "Selanik", "en": "Thessaloniki"}, "lat": 40.64, "lon": 22.94},
+     {"name": {"el": "Καρπενήσι", "tr": "Karpenisi", "en": "Karpenisi"}, "lat": 38.912, "lon": 21.793},
+     {"name": {"el": "Καλαμάτα", "tr": "Kalamata", "en": "Kalamata"}, "lat": 37.04, "lon": 22.11},
+     {"name": {"el": "Αλεξανδρούπολη", "tr": "Dedeağaç", "en": "Alexandroupoli"}, "lat": 40.85, "lon": 25.87},
+     {"name": {"el": "Κομοτηνή", "tr": "Gümülcine", "en": "Komotini"}, "lat": 41.12, "lon": 25.4},
+     {"name": {"el": "Έδεσσα", "tr": "Edessa", "en": "Edessa"}, "lat": 40.802, "lon": 22.05},
+     {"name": {"el": "Βέροια", "tr": "Veria", "en": "Veria"}, "lat": 40.52, "lon": 22.2},
+     {"name": {"el": "Χαλκίδα", "tr": "Halkida", "en": "Chalkida"}, "lat": 38.463, "lon": 23.59},
+     {"name": {"el": "Ναύπλιο", "tr": "Nafplio", "en": "Nafplio"}, "lat": 37.57, "lon": 22.8},
+     {"name": {"el": "Σπάρτη", "tr": "Sparta", "en": "Sparta"}, "lat": 37.07, "lon": 22.43},
+     {"name": {"el": "Πολύγυρος", "tr": "Poligiros", "en": "Polygyros"}, "lat": 40.38, "lon": 23.44},
+     {"name": {"el": "Τρίπολη", "tr": "Tripoli", "en": "Tripoli"}, "lat": 37.51, "lon": 22.372},
+     {"name": {"el": "Λιβαδειά", "tr": "Livadia", "en": "Livadeia"}, "lat": 38.44, "lon": 22.87},
+     {"name": {"el": "Ερμούπολη", "tr": "Ermupoli", "en": "Ermoupoli"}, "lat": 37.44, "lon": 24.94}
+    ]},
+    {"type": "tip", "text": {
+     "tr": "Sık çıkan tuzaklar: **Ermupoli = Siros'un** başkenti (Naksos değil). Argolida'nın başkenti **Nafplio** (Argos değil), Lakonya'nınki **Sparta** (Gythio değil), Beotya'nınki **Livadia** (Thiva değil). Rodopi'nin başkenti Gümülcine'dir (doğru).",
+     "en": "Common traps: **Ermoupoli = capital of Syros** (not Naxos). The capital of Argolis is **Nafplio** (not Argos), of Laconia **Sparta** (not Gytheio), of Boeotia **Livadeia** (not Thebes). The capital of Rhodope is Komotini (true)."}},
+    {"type": "table",
+     "head": [{"tr": "Bölge", "en": "Region"}, {"tr": "Bölgesel Birimleri", "en": "Its Regional Units"}],
+     "rows": [
+      [{"tr": "Girit (4)", "en": "Crete (4)"}, {"tr": "Iraklio, Lasithi, Resmo, Hanya", "en": "Heraklion, Lasithi, Rethymno, Chania"}],
+      [{"tr": "Epir (4)", "en": "Epirus (4)"}, {"tr": "Ioannina, Thesprotia, Arta, Preveze", "en": "Ioannina, Thesprotia, Arta, Preveza"}],
+      [{"tr": "Mora coğrafi bölgesi (7) — hepsinin denize kıyısı var", "en": "Peloponnese geographical region (7) — all have a coastline"}, {"tr": "Ahaya, İlia, Mesenya, Lakonya, Arkadya, Argolida, Korintiya", "en": "Achaea, Elis, Messinia, Laconia, Arcadia, Argolis, Corinthia"}]
+     ]},
+    {"type": "p", "text": {
+     "tr": "**Denize kıyısı olmayan Bölgesel Birimler** (tam liste): Drama, İmathia, Kozani, Kastorya, Florina, Pella, Evritanya, Kilkis, Grevena, Trikala, Ioannina, Karditsa ve Atina'nın üç kesimi (Kuzey, Batı, Merkez).",
+     "en": "**Regional Units with no coastline** (full list): Drama, Imathia, Kozani, Kastoria, Florina, Pella, Evrytania, Kilkis, Grevena, Trikala, Ioannina, Karditsa and three sectors of Athens (North, West, Central)."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Ηράκλειο", "tr": "Iraklio", "en": "Heraklion"}, "lat": 35.339, "lon": 25.144},
+     {"name": {"el": "Άγιος Νικόλαος (Λασίθι)", "tr": "Agios Nikolaos (Lasithi)", "en": "Agios Nikolaos (Lasithi)"}, "lat": 35.19, "lon": 25.72},
+     {"name": {"el": "Ρέθυμνο", "tr": "Resmo", "en": "Rethymno"}, "lat": 35.366, "lon": 24.482},
+     {"name": {"el": "Χανιά", "tr": "Hanya", "en": "Chania"}, "lat": 35.51, "lon": 24.02},
+     {"name": {"el": "Ιωάννινα", "tr": "Ioannina", "en": "Ioannina"}, "lat": 39.665, "lon": 20.853},
+     {"name": {"el": "Ηγουμενίτσα (Θεσπρωτία)", "tr": "Igumenitsa (Thesprotia)", "en": "Igoumenitsa (Thesprotia)"}, "lat": 39.503, "lon": 20.265},
+     {"name": {"el": "Άρτα", "tr": "Arta", "en": "Arta"}, "lat": 39.16, "lon": 20.985},
+     {"name": {"el": "Πρέβεζα", "tr": "Preveze", "en": "Preveza"}, "lat": 38.96, "lon": 20.75}
+    ]},
+    {"type": "tip", "text": {
+     "tr": "Denize kıyısı olmayanları hatırlamak için: çoğu **iç Makedonya**'dadır (Drama, Kilkis, Pella, İmathia, Kozani, Kastorya, Florina, Grevena), ardından iç Teselya (Trikala, Karditsa), Epir'den Ioannina, Orta Yunanistan'dan Evritanya ve Atina'nın 3 iç kesimi.",
+     "en": "To remember the landlocked units: most are in **inland Macedonia** (Drama, Kilkis, Pella, Imathia, Kozani, Kastoria, Florina, Grevena), then inland Thessaly (Trikala, Karditsa), Ioannina in Epirus, Evrytania in Central Greece, and the 3 inner sectors of Athens."}},
+    {"type": "terms", "items": [
+     {"el": "πρωτεύουσα", "tr": "başkent", "en": "capital"},
+     {"el": "Ερμούπολη", "tr": "Ermupoli", "en": "Ermoupoli"},
+     {"el": "Σύρος", "tr": "Siros", "en": "Syros"},
+     {"el": "Ναύπλιο", "tr": "Nafplio", "en": "Nafplio"},
+     {"el": "Σπάρτη", "tr": "Sparta", "en": "Sparta"},
+     {"el": "Πολύγυρος", "tr": "Poligiros", "en": "Polygyros"},
+     {"el": "Χαλκίδα", "tr": "Halkida", "en": "Chalkida"},
+     {"el": "Αλεξανδρούπολη", "tr": "Dedeağaç", "en": "Alexandroupoli"},
+     {"el": "Κομοτηνή", "tr": "Gümülcine", "en": "Komotini"},
+     {"el": "Έδεσσα", "tr": "Edessa", "en": "Edessa"},
+     {"el": "Βέροια", "tr": "Veria", "en": "Veria"},
+     {"el": "Καρπενήσι", "tr": "Karpenisi", "en": "Karpenisi"},
+     {"el": "Καλαμάτα", "tr": "Kalamata", "en": "Kalamata"},
+     {"el": "Τρίπολη", "tr": "Tripoli", "en": "Tripoli"},
+     {"el": "Ηρακλείου, Λασιθίου, Ρεθύμνου, Χανίων", "tr": "Iraklio, Lasithi, Resmo, Hanya", "en": "Heraklion, Lasithi, Rethymno, Chania"},
+     {"el": "Ιωαννίνων, Θεσπρωτίας, Άρτας, Πρέβεζας", "tr": "Ioannina, Thesprotia, Arta, Preveze", "en": "Ioannina, Thesprotia, Arta, Preveza"},
+     {"el": "Αχαΐας, Ηλείας, Μεσσηνίας, Λακωνίας, Αρκαδίας, Αργολίδας, Κορινθίας", "tr": "Ahaya, İlia, Mesenya, Lakonya, Arkadya, Argolida, Korintiya", "en": "Achaea, Elis, Messinia, Laconia, Arcadia, Argolis, Corinthia"},
+     {"el": "δεν βρέχονται από θάλασσα", "tr": "denize kıyısı yok", "en": "have no coastline"}
+    ]}
+   ],
+   "questions": ["geo-4", "geo-12", "geo-13", "geo-16", "geo-17", "geo-18", "geo-24", "geo-25", "geo-29", "geo-40"]
+  },
+  {
+   "id": "geo-towns",
+   "title": {"el": "Πόλεις και κωμοπόλεις: σε ποια Περιφερειακή Ενότητα;", "tr": "Şehir ve kasabalar: hangi Bölgesel Birimde?", "en": "Towns: which Regional Unit?"},
+   "icon": "📍",
+   "summary": {"tr": "Doğru/yanlış sorularındaki kasabaların ait olduğu birimler; anakara mı ada mı?", "en": "The units of the towns in true/false questions; mainland or island?"},
+   "blocks": [
+    {"type": "table",
+     "head": [{"tr": "Kasaba", "en": "Town"}, {"tr": "Bölgesel Birim", "en": "Regional Unit"}, {"tr": "Dikkat", "en": "Watch out"}],
+     "rows": [
+      [{"tr": "Loutraki", "en": "Loutraki"}, {"tr": "Korintiya", "en": "Corinthia"}, {"tr": "kaplıca kasabası", "en": "spa town"}],
+      [{"tr": "Egio, Kalavrita", "en": "Aigio, Kalavryta"}, {"tr": "Ahaya", "en": "Achaea"}, {"tr": "—", "en": "—"}],
+      [{"tr": "Agrinio, İnebahtı", "en": "Agrinio, Nafpaktos"}, {"tr": "Etolya-Akarnanya", "en": "Aetolia-Acarnania"}, {"tr": "—", "en": "—"}],
+      [{"tr": "Amfilohia", "en": "Amfilochia"}, {"tr": "Etolya-Akarnanya", "en": "Aetolia-Acarnania"}, {"tr": "Arta değil", "en": "not Arta"}],
+      [{"tr": "Vonitsa", "en": "Vonitsa"}, {"tr": "Etolya-Akarnanya (Batı Yunanistan)", "en": "Aetolia-Acarnania (Western Greece)"}, {"tr": "Preveze değil", "en": "not Preveza"}],
+      [{"tr": "Parga", "en": "Parga"}, {"tr": "Preveze", "en": "Preveza"}, {"tr": "—", "en": "—"}],
+      [{"tr": "Galaksidi", "en": "Galaxidi"}, {"tr": "Fokida", "en": "Phocis"}, {"tr": "—", "en": "—"}],
+      [{"tr": "Arahova", "en": "Arachova"}, {"tr": "Beotya", "en": "Boeotia"}, {"tr": "Fokida değil", "en": "not Phocis"}],
+      [{"tr": "Atalanti", "en": "Atalanti"}, {"tr": "Ftiotida", "en": "Phthiotis"}, {"tr": "—", "en": "—"}],
+      [{"tr": "Metsovo", "en": "Metsovo"}, {"tr": "Ioannina", "en": "Ioannina"}, {"tr": "Thesprotia değil", "en": "not Thesprotia"}],
+      [{"tr": "Amindeo", "en": "Amyntaio"}, {"tr": "Florina", "en": "Florina"}, {"tr": "—", "en": "—"}],
+      [{"tr": "Gythio", "en": "Gytheio"}, {"tr": "Lakonya", "en": "Laconia"}, {"tr": "Mesenya değil; başkent de değil", "en": "not Messinia; not the capital either"}],
+      [{"tr": "Nigrita", "en": "Nigrita"}, {"tr": "Serez", "en": "Serres"}, {"tr": "Drama değil", "en": "not Drama"}],
+      [{"tr": "Orestiada", "en": "Orestiada"}, {"tr": "Evros", "en": "Evros"}, {"tr": "—", "en": "—"}],
+      [{"tr": "Taşoz", "en": "Thasos"}, {"tr": "Taşoz (kendi Bölgesel Birimi)", "en": "Thasos (its own Regional Unit)"}, {"tr": "Kavala değil", "en": "not Kavala"}]
+     ]},
+    {"type": "map", "places": [
+     {"name": {"el": "Λουτράκι", "tr": "Loutraki", "en": "Loutraki"}, "lat": 37.975, "lon": 22.977},
+     {"name": {"el": "Αίγιο", "tr": "Egio", "en": "Aigio"}, "lat": 38.25, "lon": 22.08},
+     {"name": {"el": "Καλάβρυτα", "tr": "Kalavrita", "en": "Kalavryta"}, "lat": 38.03, "lon": 22.11},
+     {"name": {"el": "Αγρίνιο", "tr": "Agrinio", "en": "Agrinio"}, "lat": 38.62, "lon": 21.41},
+     {"name": {"el": "Ναύπακτος", "tr": "İnebahtı", "en": "Nafpaktos"}, "lat": 38.39, "lon": 21.83},
+     {"name": {"el": "Αμφιλοχία", "tr": "Amfilohia", "en": "Amfilochia"}, "lat": 38.86, "lon": 21.17},
+     {"name": {"el": "Βόνιτσα", "tr": "Vonitsa", "en": "Vonitsa"}, "lat": 38.92, "lon": 20.89},
+     {"name": {"el": "Πάργα", "tr": "Parga", "en": "Parga"}, "lat": 39.285, "lon": 20.4},
+     {"name": {"el": "Γαλαξίδι", "tr": "Galaksidi", "en": "Galaxidi"}, "lat": 38.38, "lon": 22.38},
+     {"name": {"el": "Αράχοβα", "tr": "Arahova", "en": "Arachova"}, "lat": 38.48, "lon": 22.58},
+     {"name": {"el": "Αταλάντη", "tr": "Atalanti", "en": "Atalanti"}, "lat": 38.65, "lon": 22.99},
+     {"name": {"el": "Μέτσοβο", "tr": "Metsovo", "en": "Metsovo"}, "lat": 39.77, "lon": 21.18},
+     {"name": {"el": "Αμύνταιο", "tr": "Amindeo", "en": "Amyntaio"}, "lat": 40.69, "lon": 21.68},
+     {"name": {"el": "Γύθειο", "tr": "Gythio", "en": "Gytheio"}, "lat": 36.76, "lon": 22.57},
+     {"name": {"el": "Νιγρίτα", "tr": "Nigrita", "en": "Nigrita"}, "lat": 40.91, "lon": 23.5},
+     {"name": {"el": "Ορεστιάδα", "tr": "Orestiada", "en": "Orestiada"}, "lat": 41.5, "lon": 26.53},
+     {"name": {"el": "Θάσος", "tr": "Taşoz", "en": "Thasos"}, "lat": 40.68, "lon": 24.66}
+    ]},
+    {"type": "table",
+     "head": [{"tr": "Anakara Yunanistan", "en": "Mainland Greece"}, {"tr": "Adalar Yunanistan'ı", "en": "Insular Greece"}],
+     "rows": [
+      [{"tr": "Dedeağaç, Pirgos, Grevena, Karditsa", "en": "Alexandroupoli, Pyrgos, Grevena, Karditsa"}, {"tr": "Sifnos, Hidra, Skopelos, Siros", "en": "Sifnos, Hydra, Skopelos, Syros"}],
+      [{"tr": "Sparta, Selanik, Ioannina, Kozani", "en": "Sparta, Thessaloniki, Ioannina, Kozani"}, {"tr": "Sitia, Limni, Zakintos, Resmo", "en": "Sitia, Lemnos, Zakynthos, Rethymno"}]
+     ]},
+    {"type": "map", "places": [
+     {"name": {"el": "Πύργος", "tr": "Pirgos", "en": "Pyrgos"}, "lat": 37.675, "lon": 21.441},
+     {"name": {"el": "Γρεβενά", "tr": "Grevena", "en": "Grevena"}, "lat": 40.08, "lon": 21.43},
+     {"name": {"el": "Καρδίτσα", "tr": "Karditsa", "en": "Karditsa"}, "lat": 39.365, "lon": 21.922},
+     {"name": {"el": "Κοζάνη", "tr": "Kozani", "en": "Kozani"}, "lat": 40.3, "lon": 21.79},
+     {"name": {"el": "Σητεία", "tr": "Sitia", "en": "Sitia"}, "lat": 35.21, "lon": 26.1},
+     {"name": {"el": "Σίφνος", "tr": "Sifnos", "en": "Sifnos"}, "lat": 36.97, "lon": 24.7},
+     {"name": {"el": "Ύδρα", "tr": "Hidra", "en": "Hydra"}, "lat": 37.35, "lon": 23.47}
+    ]},
+    {"type": "p", "text": {
+     "tr": "**Haritada sorulan şehirler:** Ioannina (Epir), Resmo (Girit), Kavala (Doğu Makedonya), Mesolongi (Batı Yunanistan), Volos (Magnisia, Teselya), Igumenitsa (Thesprotia, Epir), Pirgos (İlia, Mora), Kastorya (Batı Makedonya), Karditsa (Teselya), Arta (Epir), Tripoli (Arkadya, Mora).",
+     "en": "**Cities asked on the map:** Ioannina (Epirus), Rethymno (Crete), Kavala (Eastern Macedonia), Missolonghi (Western Greece), Volos (Magnesia, Thessaly), Igoumenitsa (Thesprotia, Epirus), Pyrgos (Elis, Peloponnese), Kastoria (Western Macedonia), Karditsa (Thessaly), Arta (Epirus), Tripoli (Arcadia, Peloponnese)."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Ιωάννινα", "tr": "Ioannina", "en": "Ioannina"}, "lat": 39.665, "lon": 20.853},
+     {"name": {"el": "Ρέθυμνο", "tr": "Resmo", "en": "Rethymno"}, "lat": 35.366, "lon": 24.482},
+     {"name": {"el": "Καβάλα", "tr": "Kavala", "en": "Kavala"}, "lat": 40.937, "lon": 24.413},
+     {"name": {"el": "Μεσολόγγι", "tr": "Mesolongi", "en": "Missolonghi"}, "lat": 38.371, "lon": 21.431},
+     {"name": {"el": "Βόλος", "tr": "Volos", "en": "Volos"}, "lat": 39.362, "lon": 22.942},
+     {"name": {"el": "Ηγουμενίτσα", "tr": "Igumenitsa", "en": "Igoumenitsa"}, "lat": 39.503, "lon": 20.265},
+     {"name": {"el": "Πύργος", "tr": "Pirgos", "en": "Pyrgos"}, "lat": 37.675, "lon": 21.441},
+     {"name": {"el": "Καστοριά", "tr": "Kastorya", "en": "Kastoria"}, "lat": 40.519, "lon": 21.268},
+     {"name": {"el": "Καρδίτσα", "tr": "Karditsa", "en": "Karditsa"}, "lat": 39.365, "lon": 21.922},
+     {"name": {"el": "Άρτα", "tr": "Arta", "en": "Arta"}, "lat": 39.16, "lon": 20.985},
+     {"name": {"el": "Τρίπολη", "tr": "Tripoli", "en": "Tripoli"}, "lat": 37.51, "lon": 22.372}
+    ]},
+    {"type": "tip", "text": {
+     "tr": "Mora anakara sayılır (Pirgos, Sparta → anakara). Sitia ve Resmo Girit'te olduğu için **ada** grubundadır.",
+     "en": "The Peloponnese counts as mainland (Pyrgos, Sparta → mainland). Sitia and Rethymno are on Crete, so they belong to the **island** group."}},
+    {"type": "terms", "items": [
+     {"el": "Ηπειρωτική Ελλάδα", "tr": "Anakara Yunanistan", "en": "Mainland Greece"},
+     {"el": "Νησιωτική Ελλάδα", "tr": "Adalar Yunanistan'ı", "en": "Insular Greece"},
+     {"el": "κωμόπολη", "tr": "kasaba", "en": "small town"},
+     {"el": "Αιτωλοακαρνανίας", "tr": "Etolya-Akarnanya", "en": "Aetolia-Acarnania"},
+     {"el": "Κορινθίας", "tr": "Korintiya", "en": "Corinthia"},
+     {"el": "Φωκίδας", "tr": "Fokida", "en": "Phocis"},
+     {"el": "Φθιώτιδας", "tr": "Ftiotida", "en": "Phthiotis"},
+     {"el": "Βοιωτίας", "tr": "Beotya", "en": "Boeotia"},
+     {"el": "Πρέβεζας", "tr": "Preveze", "en": "Preveza"},
+     {"el": "Θεσπρωτίας", "tr": "Thesprotia", "en": "Thesprotia"},
+     {"el": "Φλώρινας", "tr": "Florina", "en": "Florina"},
+     {"el": "Σερρών", "tr": "Serez", "en": "Serres"},
+     {"el": "Έβρου", "tr": "Evros", "en": "Evros"},
+     {"el": "Ναύπακτος", "tr": "İnebahtı", "en": "Nafpaktos"},
+     {"el": "Βόνιτσα", "tr": "Vonitsa", "en": "Vonitsa"},
+     {"el": "Γύθειο", "tr": "Gythio", "en": "Gytheio"},
+     {"el": "Σητεία", "tr": "Sitia", "en": "Sitia"}
+    ]}
+   ],
+   "questions": ["geo-9", "geo-19", "geo-39", "geo-41", "geo-42", "geo-46", "geo-47", "geo-54", "geo-55", "geo-56"]
+  },
+  {
+   "id": "geo-ionian-crete",
+   "title": {"el": "Ιόνια νησιά και Κρήτη", "tr": "İyon Adaları ve Girit", "en": "The Ionian Islands and Crete"},
+   "icon": "🏝️",
+   "summary": {"tr": "Yedi Adalar (Eptanisa) ve Girit'i çevreleyen denizler.", "en": "The seven Ionian islands (Heptanese) and the seas around Crete."},
+   "blocks": [
+    {"type": "p", "text": {
+     "tr": "İyon Denizi'ndeki **yedi ana ada** (Yedi Adalar / Επτάνησα), büyüklük sırasına göre: **Kefalonya, Korfu, Zakintos, Lefkada, Kitira, İthaki ve Paksi**. Yunanistan'ın en batı noktası Othoni (Fani) de Korfu'ya bağlıdır.",
+     "en": "The **seven main islands** of the Ionian Sea (the Heptanese / Επτάνησα), in order of size: **Kefalonia, Corfu, Zakynthos, Lefkada, Kythira, Ithaca and Paxoi**. Greece's westernmost point, Othonoi (Fanoi), also belongs to Corfu."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Κέρκυρα", "tr": "Korfu", "en": "Corfu"}, "lat": 39.62, "lon": 19.92},
+     {"name": {"el": "Παξοί", "tr": "Paksi", "en": "Paxoi"}, "lat": 39.2, "lon": 20.18},
+     {"name": {"el": "Λευκάδα", "tr": "Lefkada", "en": "Lefkada"}, "lat": 38.71, "lon": 20.65},
+     {"name": {"el": "Ιθάκη", "tr": "İthaki", "en": "Ithaca"}, "lat": 38.4, "lon": 20.68},
+     {"name": {"el": "Κεφαλονιά", "tr": "Kefalonya", "en": "Kefalonia"}, "lat": 38.22, "lon": 20.55},
+     {"name": {"el": "Ζάκυνθος", "tr": "Zakintos", "en": "Zakynthos"}, "lat": 37.78, "lon": 20.9},
+     {"name": {"el": "Κύθηρα", "tr": "Kitira", "en": "Kythira"}, "lat": 36.25, "lon": 23.0}
+    ]},
+    {"type": "tip", "text": {
+     "tr": "İthaki ve Paksi İyon Denizi'ndedir (doğru). Ama **Hidra İyon Denizi'nde değildir** — Ege'deki (Saronik/Argosaronik) bir adadır.",
+     "en": "Ithaca and Paxoi are in the Ionian Sea (true). But **Hydra is not in the Ionian Sea** — it is an island of the Aegean (Saronic/Argo-Saronic group)."}},
+    {"type": "p", "text": {
+     "tr": "**Girit** Yunanistan'ın en büyük adasıdır. Kuzey kıyıları **Girit Denizi**, güney kıyıları **Libya Denizi** ile çevrilidir. 4 Bölgesel Birimi vardır: **Hanya, Resmo, Iraklio, Lasithi** (batıdan doğuya). Güneyindeki Gavdos ülkenin en güney noktasıdır.",
+     "en": "**Crete** is Greece's largest island. Its north coast is washed by the **Cretan Sea**, its south coast by the **Libyan Sea**. It has 4 Regional Units: **Chania, Rethymno, Heraklion, Lasithi** (west to east). Gavdos, to its south, is the country's southernmost point."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Χανιά", "tr": "Hanya", "en": "Chania"}, "lat": 35.51, "lon": 24.02},
+     {"name": {"el": "Ρέθυμνο", "tr": "Resmo", "en": "Rethymno"}, "lat": 35.366, "lon": 24.482},
+     {"name": {"el": "Ηράκλειο", "tr": "Iraklio", "en": "Heraklion"}, "lat": 35.339, "lon": 25.144},
+     {"name": {"el": "Λασίθι (Άγιος Νικόλαος)", "tr": "Lasithi (Agios Nikolaos)", "en": "Lasithi (Agios Nikolaos)"}, "lat": 35.19, "lon": 25.72},
+     {"name": {"el": "Κρητικό Πέλαγος", "tr": "Girit Denizi", "en": "Cretan Sea"}, "lat": 35.8, "lon": 25.0},
+     {"name": {"el": "Λιβυκό Πέλαγος", "tr": "Libya Denizi", "en": "Libyan Sea"}, "lat": 34.75, "lon": 25.0},
+     {"name": {"el": "Γαύδος", "tr": "Gavdos", "en": "Gavdos"}, "lat": 34.84, "lon": 24.08}
+    ]},
+    {"type": "terms", "items": [
+     {"el": "Ιόνιο Πέλαγος", "tr": "İyon Denizi", "en": "Ionian Sea"},
+     {"el": "Επτάνησα", "tr": "Yedi Adalar", "en": "Heptanese"},
+     {"el": "Κεφαλονιά", "tr": "Kefalonya", "en": "Kefalonia"},
+     {"el": "Κέρκυρα", "tr": "Korfu", "en": "Corfu"},
+     {"el": "Ζάκυνθος", "tr": "Zakintos", "en": "Zakynthos"},
+     {"el": "Λευκάδα", "tr": "Lefkada", "en": "Lefkada"},
+     {"el": "Κύθηρα", "tr": "Kitira", "en": "Kythira"},
+     {"el": "Ιθάκη", "tr": "İthaki", "en": "Ithaca"},
+     {"el": "Παξοί", "tr": "Paksi", "en": "Paxoi"},
+     {"el": "Κρήτη", "tr": "Girit", "en": "Crete"},
+     {"el": "Κρητικό Πέλαγος", "tr": "Girit Denizi", "en": "Cretan Sea"},
+     {"el": "Λιβυκό Πέλαγος", "tr": "Libya Denizi", "en": "Libyan Sea"},
+     {"el": "βρέχεται", "tr": "(denizle) çevrilidir", "en": "is washed (by a sea)"}
+    ]}
+   ],
+   "questions": ["geo-8", "geo-10", "geo-24", "geo-37", "geo-58", "geo-59"]
+  },
+  {
+   "id": "geo-aegean-islands",
+   "title": {"el": "Τα νησιά του Αιγαίου", "tr": "Ege adaları", "en": "The Aegean islands"},
+   "icon": "⛵",
+   "summary": {"tr": "Kiklad Adaları, Onikiadalar, Kuzey Ege adaları, Sporadlar ve volkanik adalar.", "en": "The Cyclades, the Dodecanese, the North Aegean islands, the Sporades and the volcanic islands."},
+   "blocks": [
+    {"type": "table",
+     "head": [{"tr": "Ada grubu", "en": "Island group"}, {"tr": "Bilinmesi gereken adalar", "en": "Islands to know"}, {"tr": "İdari bağlılık", "en": "Administration"}],
+     "rows": [
+      [{"tr": "Kiklad Adaları", "en": "Cyclades"}, {"tr": "Naksos, Andros, Paros, Tinos, Milos, Mikonos, Siros, Santorini, Amorgos, İos, Delos…", "en": "Naxos, Andros, Paros, Tinos, Milos, Mykonos, Syros, Santorini, Amorgos, Ios, Delos…"}, {"tr": "Güney Ege", "en": "South Aegean"}],
+      [{"tr": "Onikiadalar", "en": "Dodecanese"}, {"tr": "Rodos, İstanköy, Kalimnos, Patmos, Simi, Karpathos, Kasos, Astipalea, Nisiros, Meis", "en": "Rhodes, Kos, Kalymnos, Patmos, Symi, Karpathos, Kasos, Astypalaia, Nisyros, Kastellorizo"}, {"tr": "Güney Ege", "en": "South Aegean"}],
+      [{"tr": "Kuzey Ege adaları", "en": "North Aegean islands"}, {"tr": "Midilli (Lesvos), Sakız, Sisam, Limni, İkarya (ayrıca Psara)", "en": "Lesbos, Chios, Samos, Lemnos, Ikaria (also Psara)"}, {"tr": "Kuzey Ege", "en": "North Aegean"}],
+      [{"tr": "Kuzey Sporadlar", "en": "Northern Sporades"}, {"tr": "Skiathos, Skopelos, Alonisos", "en": "Skiathos, Skopelos, Alonissos"}, {"tr": "Sporadlar Bölgesel Birimi → **Teselya** Bölgesi", "en": "Sporades Regional Unit → **Thessaly** Region"}],
+      [{"tr": "Skiros", "en": "Skyros"}, {"tr": "Skiros", "en": "Skyros"}, {"tr": "Eğriboz Bölgesel Birimi → **Orta Yunanistan** Bölgesi", "en": "Euboea Regional Unit → **Central Greece** Region"}]
+     ]},
+    {"type": "p", "text": {
+     "tr": "Kiklad Adaları'nın tamamı (büyüklük sırasına göre): Naksos, Andros, Paros, Tinos, Milos, Kea, Amorgos, İos, Kitnos, Mikonos, Siros, Santorini (Thira), Serifos, Sifnos, Sikinos, Anafi, Kimolos, Antiparos, Folegandros, Makronisos, Poliegos, İrakleia, Yaros, Keros, Rinia, Donusa, Thirasia, Shinusa, Antimilos, Despotiko, Ano Kufonisi, Kato Kufonisi, Delos. Sınavda **dördünü** yazmanız yeterli.",
+     "en": "All the Cyclades (in order of size): Naxos, Andros, Paros, Tinos, Milos, Kea, Amorgos, Ios, Kythnos, Mykonos, Syros, Santorini (Thira), Serifos, Sifnos, Sikinos, Anafi, Kimolos, Antiparos, Folegandros, Makronisos, Polyaigos, Irakleia, Gyaros, Keros, Rineia, Donousa, Thirasia, Schoinousa, Antimilos, Despotiko, Ano Koufonisi, Kato Koufonisi, Delos. In the exam you only need to write **four**."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Νάξος", "tr": "Naksos", "en": "Naxos"}, "lat": 37.06, "lon": 25.47},
+     {"name": {"el": "Άνδρος", "tr": "Andros", "en": "Andros"}, "lat": 37.84, "lon": 24.87},
+     {"name": {"el": "Πάρος", "tr": "Paros", "en": "Paros"}, "lat": 37.08, "lon": 25.15},
+     {"name": {"el": "Τήνος", "tr": "Tinos", "en": "Tinos"}, "lat": 37.6, "lon": 25.15},
+     {"name": {"el": "Μύκονος", "tr": "Mikonos", "en": "Mykonos"}, "lat": 37.45, "lon": 25.36},
+     {"name": {"el": "Σύρος", "tr": "Siros", "en": "Syros"}, "lat": 37.44, "lon": 24.92},
+     {"name": {"el": "Μήλος", "tr": "Milos", "en": "Milos"}, "lat": 36.7, "lon": 24.42},
+     {"name": {"el": "Σαντορίνη (Θήρα)", "tr": "Santorini (Thira)", "en": "Santorini (Thira)"}, "lat": 36.41, "lon": 25.43},
+     {"name": {"el": "Αμοργός", "tr": "Amorgos", "en": "Amorgos"}, "lat": 36.83, "lon": 25.9},
+     {"name": {"el": "Δήλος", "tr": "Delos", "en": "Delos"}, "lat": 37.4, "lon": 25.27}
+    ]},
+    {"type": "map", "places": [
+     {"name": {"el": "Ρόδος", "tr": "Rodos", "en": "Rhodes"}, "lat": 36.434, "lon": 28.217},
+     {"name": {"el": "Κως", "tr": "İstanköy", "en": "Kos"}, "lat": 36.85, "lon": 27.15},
+     {"name": {"el": "Κάλυμνος", "tr": "Kalimnos", "en": "Kalymnos"}, "lat": 36.97, "lon": 26.98},
+     {"name": {"el": "Πάτμος", "tr": "Patmos", "en": "Patmos"}, "lat": 37.32, "lon": 26.55},
+     {"name": {"el": "Σύμη", "tr": "Simi", "en": "Symi"}, "lat": 36.59, "lon": 27.84},
+     {"name": {"el": "Κάρπαθος", "tr": "Karpathos", "en": "Karpathos"}, "lat": 35.6, "lon": 27.13},
+     {"name": {"el": "Κάσος", "tr": "Kasos", "en": "Kasos"}, "lat": 35.4, "lon": 26.92},
+     {"name": {"el": "Αστυπάλαια", "tr": "Astipalea", "en": "Astypalaia"}, "lat": 36.57, "lon": 26.35},
+     {"name": {"el": "Νίσυρος", "tr": "Nisiros", "en": "Nisyros"}, "lat": 36.59, "lon": 27.16}
+    ]},
+    {"type": "map", "places": [
+     {"name": {"el": "Μυτιλήνη", "tr": "Midilli", "en": "Mytilene"}, "lat": 39.107, "lon": 26.555},
+     {"name": {"el": "Λέσβος (Μυτιλήνη)", "tr": "Midilli", "en": "Lesbos (Mytilene)"}, "lat": 39.2, "lon": 26.3},
+     {"name": {"el": "Χίος", "tr": "Sakız", "en": "Chios"}, "lat": 38.37, "lon": 26.136},
+     {"name": {"el": "Σάμος", "tr": "Sisam", "en": "Samos"}, "lat": 37.755, "lon": 26.977},
+     {"name": {"el": "Λήμνος", "tr": "Limni", "en": "Lemnos"}, "lat": 39.88, "lon": 25.22},
+     {"name": {"el": "Ικαρία", "tr": "İkarya", "en": "Ikaria"}, "lat": 37.6, "lon": 26.15},
+     {"name": {"el": "Ψαρά", "tr": "Psara", "en": "Psara"}, "lat": 38.55, "lon": 25.57},
+     {"name": {"el": "Σκιάθος", "tr": "Skiathos", "en": "Skiathos"}, "lat": 39.16, "lon": 23.49},
+     {"name": {"el": "Σκόπελος", "tr": "Skopelos", "en": "Skopelos"}, "lat": 39.12, "lon": 23.72},
+     {"name": {"el": "Αλόννησος", "tr": "Alonisos", "en": "Alonissos"}, "lat": 39.15, "lon": 23.86},
+     {"name": {"el": "Σκύρος", "tr": "Skiros", "en": "Skyros"}, "lat": 38.87, "lon": 24.53}
+    ]},
+    {"type": "p", "text": {
+     "tr": "**Volkanı olan üç Yunan adası** vardır: **Santorini (Thira), Milos ve Nisiros**. İlk ikisi Kiklad, Nisiros ise Onikiadalar'dadır.",
+     "en": "There are **three Greek islands with a volcano**: **Santorini (Thira), Milos and Nisyros**. The first two are in the Cyclades, Nisyros in the Dodecanese."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Σαντορίνη (Θήρα)", "tr": "Santorini (Thira)", "en": "Santorini (Thira)"}, "lat": 36.41, "lon": 25.43},
+     {"name": {"el": "Μήλος", "tr": "Milos", "en": "Milos"}, "lat": 36.7, "lon": 24.42},
+     {"name": {"el": "Νίσυρος", "tr": "Nisiros", "en": "Nisyros"}, "lat": 36.59, "lon": 27.16}
+    ]},
+    {"type": "tip", "text": {
+     "tr": "Doğru/yanlış tuzakları: Skopelos **Sporadlar**'dadır (Kiklad değil); Amorgos **Kiklad**'dadır (İyon değil); Astipalea ve Kasos **Onikiadalar**'dadır (Ege); Limni **Kuzey Ege**'dedir; Psara Ege'dedir; Skiathos Kuzey Sporadlar'dadır. Sporadlar Bölgesel Birimi Orta Makedonya'ya değil **Teselya**'ya bağlıdır; Skiros ise **Orta Yunanistan** Bölgesine bağlıdır.",
+     "en": "True/false traps: Skopelos is in the **Sporades** (not the Cyclades); Amorgos is in the **Cyclades** (not the Ionian); Astypalaia and Kasos are in the **Dodecanese** (Aegean); Lemnos is in the **North Aegean**; Psara is in the Aegean; Skiathos is in the Northern Sporades. The Sporades Regional Unit belongs to **Thessaly**, not Central Macedonia; Skyros belongs to the Region of **Central Greece**."}},
+    {"type": "terms", "items": [
+     {"el": "Κυκλάδες", "tr": "Kiklad Adaları", "en": "Cyclades"},
+     {"el": "Δωδεκάνησα", "tr": "Onikiadalar", "en": "Dodecanese"},
+     {"el": "Βόρειες Σποράδες", "tr": "Kuzey Sporadlar", "en": "Northern Sporades"},
+     {"el": "νησιά του Βορείου Αιγαίου", "tr": "Kuzey Ege adaları", "en": "North Aegean islands"},
+     {"el": "Λέσβος (Μυτιλήνη)", "tr": "Midilli", "en": "Lesbos (Mytilene)"},
+     {"el": "Χίος", "tr": "Sakız", "en": "Chios"},
+     {"el": "Σάμος", "tr": "Sisam", "en": "Samos"},
+     {"el": "Λήμνος", "tr": "Limni", "en": "Lemnos"},
+     {"el": "Ικαρία", "tr": "İkarya", "en": "Ikaria"},
+     {"el": "Ρόδος", "tr": "Rodos", "en": "Rhodes"},
+     {"el": "Πάτμος", "tr": "Patmos", "en": "Patmos"},
+     {"el": "Σύμη", "tr": "Simi", "en": "Symi"},
+     {"el": "Κάρπαθος", "tr": "Karpathos", "en": "Karpathos"},
+     {"el": "Κάσος", "tr": "Kasos", "en": "Kasos"},
+     {"el": "Αστυπάλαια", "tr": "Astipalea", "en": "Astypalaia"},
+     {"el": "Σκιάθος", "tr": "Skiathos", "en": "Skiathos"},
+     {"el": "Σκόπελος", "tr": "Skopelos", "en": "Skopelos"},
+     {"el": "Σκύρος", "tr": "Skiros", "en": "Skyros"},
+     {"el": "Ψαρά", "tr": "Psara", "en": "Psara"},
+     {"el": "Ύδρα", "tr": "Hidra", "en": "Hydra"},
+     {"el": "ηφαίστειο", "tr": "volkan", "en": "volcano"},
+     {"el": "Νίσυρος", "tr": "Nisiros", "en": "Nisyros"},
+     {"el": "Περιφερειακή Ενότητα Σποράδων", "tr": "Sporadlar Bölgesel Birimi", "en": "Regional Unit of the Sporades"}
+    ]}
+   ],
+   "questions": ["geo-11", "geo-31", "geo-33", "geo-35", "geo-37", "geo-51", "geo-58", "geo-59", "geo-60", "geo-64"]
+  },
+  {
+   "id": "geo-relief",
+   "title": {"el": "Βουνά, χερσόνησοι και κόλποι", "tr": "Dağlar, yarımadalar ve körfezler", "en": "Mountains, peninsulas and gulfs"},
+   "icon": "⛰️",
+   "summary": {"tr": "Başlıca dağlar, Magnisia ve Halkidiki yarımadaları, balıkçılığın yoğun olduğu körfezler.", "en": "Main mountains, the Magnesia and Chalkidiki peninsulas, and the gulfs with the largest fish catches."},
+   "blocks": [
+    {"type": "list", "items": [
+     {"tr": "**Olimpos** — Yunanistan'ın en yüksek dağı (Teselya-Makedonya sınırı)", "en": "**Olympus** — Greece's highest mountain (Thessaly-Macedonia border)"},
+     {"tr": "**Voras** — Kuzey Makedonya sınırında", "en": "**Voras** — on the border with North Macedonia"},
+     {"tr": "**Gramos** ve **Smolikas** — kuzey Pindos (Epir-Batı Makedonya)", "en": "**Grammos** and **Smolikas** — northern Pindus (Epirus-Western Macedonia)"},
+     {"tr": "**Pangeo** — Doğu Makedonya", "en": "**Pangaion** — Eastern Macedonia"},
+     {"tr": "**Parnassos** ve **Giona** — Orta Yunanistan", "en": "**Parnassus** and **Giona** — Central Greece"},
+     {"tr": "**Helmos** ve **Tayetos** — Mora", "en": "**Chelmos** and **Taygetus** — Peloponnese"},
+     {"tr": "**Psiloritis (İda)** — Girit", "en": "**Psiloritis (Ida)** — Crete"}
+    ]},
+    {"type": "map", "places": [
+     {"name": {"el": "Όλυμπος", "tr": "Olimpos", "en": "Olympus"}, "lat": 40.085, "lon": 22.36},
+     {"name": {"el": "Βόρας", "tr": "Voras", "en": "Voras"}, "lat": 40.92, "lon": 21.8},
+     {"name": {"el": "Γράμμος", "tr": "Gramos", "en": "Grammos"}, "lat": 40.35, "lon": 20.8},
+     {"name": {"el": "Σμόλικας", "tr": "Smolikas", "en": "Smolikas"}, "lat": 40.09, "lon": 20.92},
+     {"name": {"el": "Παγγαίο", "tr": "Pangeo", "en": "Pangaion"}, "lat": 40.92, "lon": 24.08},
+     {"name": {"el": "Παρνασσός", "tr": "Parnassos", "en": "Parnassus"}, "lat": 38.54, "lon": 22.62},
+     {"name": {"el": "Γκιώνα", "tr": "Giona", "en": "Giona"}, "lat": 38.62, "lon": 22.25},
+     {"name": {"el": "Χελμός", "tr": "Helmos", "en": "Chelmos"}, "lat": 37.98, "lon": 22.2},
+     {"name": {"el": "Ταΰγετος", "tr": "Tayetos", "en": "Taygetus"}, "lat": 36.95, "lon": 22.35},
+     {"name": {"el": "Ψηλορείτης (Ίδη)", "tr": "Psiloritis (İda)", "en": "Psiloritis (Ida)"}, "lat": 35.23, "lon": 24.77}
+    ]},
+    {"type": "p", "text": {
+     "tr": "Soru bankasına göre **Magnisia, Orta Yunanistan'ın dairesel bir körfez oluşturan bir yarımadasıdır** (bu körfez Volos'un önündeki Pagasitikos Körfezi'dir). **Halkidiki** Kuzey Yunanistan'dadır ve **üç yarımadadan** oluşur: Kasandra, Sitonya ve Aynaroz (Agion Oros).",
+     "en": "According to the question bank, **Magnesia is a peninsula of Central Greece that forms a circular gulf** (the Pagasetic Gulf, in front of Volos). **Chalkidiki** is in Northern Greece and consists of **three peninsulas**: Kassandra, Sithonia and Mount Athos (Agion Oros)."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Μαγνησία", "tr": "Magnisia", "en": "Magnesia"}, "lat": 39.35, "lon": 23.1},
+     {"name": {"el": "Παγασητικός κόλπος", "tr": "Pagasitikos Körfezi", "en": "Pagasetic Gulf"}, "lat": 39.2, "lon": 22.95},
+     {"name": {"el": "Κασσάνδρα", "tr": "Kasandra", "en": "Kassandra"}, "lat": 40.05, "lon": 23.4},
+     {"name": {"el": "Σιθωνία", "tr": "Sitonya", "en": "Sithonia"}, "lat": 40.1, "lon": 23.8},
+     {"name": {"el": "Άγιο Όρος", "tr": "Aynaroz", "en": "Mount Athos"}, "lat": 40.25, "lon": 24.2}
+    ]},
+    {"type": "p", "text": {
+     "tr": "**En çok balık avlanan körfezler:** Thermaikos, Kasandra, Aynaroz, İerisos, Strimonikos, Kavala, Kuzey ve Güney Eğriboz, Amvrakikos. **Amvrakikos Körfezi** büyük miktarda balık ve deniz ürünü üretir; içindeki küçük ada **Koronisia**'dır. Körfez kıyısındaki **Vonitsa**, Batı Yunanistan'da, Etolya-Akarnanya Bölgesel Birimindedir.",
+     "en": "**Gulfs with the largest fish catches:** the Thermaic, Kassandra, Mount Athos, Ierissos, Strymonian, Kavala, North and South Euboean and Ambracian Gulfs. The **Ambracian Gulf** produces a large fish catch; **Koronisia** is a small island in it. **Vonitsa**, on its shore, is in Western Greece, in the Regional Unit of Aetolia-Acarnania."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Θερμαϊκός κόλπος", "tr": "Thermaikos Körfezi", "en": "Thermaic Gulf"}, "lat": 40.4, "lon": 22.85},
+     {"name": {"el": "Κόλπος Κασσάνδρας", "tr": "Kasandra Körfezi", "en": "Kassandra Gulf"}, "lat": 40.05, "lon": 23.6},
+     {"name": {"el": "Στρυμονικός κόλπος", "tr": "Strimonikos Körfezi", "en": "Strymonian Gulf"}, "lat": 40.7, "lon": 23.85},
+     {"name": {"el": "Κόλπος Καβάλας", "tr": "Kavala Körfezi", "en": "Gulf of Kavala"}, "lat": 40.85, "lon": 24.45},
+     {"name": {"el": "Βόρειος Ευβοϊκός", "tr": "Kuzey Eğriboz Körfezi", "en": "North Euboean Gulf"}, "lat": 38.85, "lon": 23.1},
+     {"name": {"el": "Νότιος Ευβοϊκός", "tr": "Güney Eğriboz Körfezi", "en": "South Euboean Gulf"}, "lat": 38.3, "lon": 23.75},
+     {"name": {"el": "Αμβρακικός κόλπος (Κορωνησία)", "tr": "Amvrakikos Körfezi (Koronisia)", "en": "Ambracian Gulf (Koronisia)"}, "lat": 39.0, "lon": 21.0}
+    ]},
+    {"type": "terms", "items": [
+     {"el": "Όλυμπος", "tr": "Olimpos", "en": "Olympus"},
+     {"el": "Βόρας", "tr": "Voras", "en": "Voras"},
+     {"el": "Γράμμος", "tr": "Gramos", "en": "Grammos"},
+     {"el": "Παγγαίο", "tr": "Pangeo", "en": "Pangaion"},
+     {"el": "Χελμός", "tr": "Helmos", "en": "Chelmos"},
+     {"el": "Σμόλικας", "tr": "Smolikas", "en": "Smolikas"},
+     {"el": "Παρνασσός", "tr": "Parnassos", "en": "Parnassus"},
+     {"el": "Ταΰγετος", "tr": "Tayetos", "en": "Taygetus"},
+     {"el": "Ψηλορείτης (Ίδη)", "tr": "Psiloritis (İda)", "en": "Psiloritis (Ida)"},
+     {"el": "Γκιώνα", "tr": "Giona", "en": "Giona"},
+     {"el": "χερσόνησος", "tr": "yarımada", "en": "peninsula"},
+     {"el": "τρεις χερσονήσους", "tr": "üç yarımada", "en": "three peninsulas"},
+     {"el": "κόλπος", "tr": "körfez", "en": "gulf"},
+     {"el": "Μαγνησία", "tr": "Magnisia", "en": "Magnesia"},
+     {"el": "Χαλκιδική", "tr": "Halkidiki", "en": "Chalkidiki"},
+     {"el": "Αμβρακικός", "tr": "Amvrakikos", "en": "Ambracian"},
+     {"el": "Κορωνησία", "tr": "Koronisia", "en": "Koronisia"},
+     {"el": "αλιεύματα", "tr": "balık ve deniz ürünleri (av)", "en": "fish catch"},
+     {"el": "Θερμαϊκός", "tr": "Thermaikos", "en": "Thermaic"},
+     {"el": "Στρυμονικός", "tr": "Strimonikos", "en": "Strymonian"}
+    ]}
+   ],
+   "questions": ["geo-5", "geo-9", "geo-21", "geo-50"]
+  },
+  {
+   "id": "geo-rivers-lakes",
+   "title": {"el": "Ποτάμια και λίμνες", "tr": "Nehirler ve göller", "en": "Rivers and lakes"},
+   "icon": "🏞️",
+   "summary": {"tr": "Büyük nehirler nereye dökülür, göller hangi bölgededir?", "en": "Where the main rivers flow and where the lakes are."},
+   "blocks": [
+    {"type": "table",
+     "head": [{"tr": "Nehir", "en": "River"}, {"tr": "Döküldüğü yer", "en": "Flows into"}, {"tr": "Bilinmesi gereken", "en": "Key fact"}],
+     "rows": [
+      [{"tr": "Vardar (Aksios)", "en": "Axios"}, {"tr": "Thermaikos Körfezi", "en": "Thermaic Gulf"}, {"tr": "Yunanistan'dan **doğmaz** (Kuzey Makedonya'dan gelir); İyon Denizi'ne dökülmez", "en": "Does **not** rise in Greece (comes from North Macedonia); does not flow into the Ionian"}],
+      [{"tr": "Aliakmonas", "en": "Aliakmonas"}, {"tr": "Thermaikos Körfezi", "en": "Thermaic Gulf"}, {"tr": "Batı Makedonya'dan geçer", "en": "Flows through Western Macedonia"}],
+      [{"tr": "Pinios (Teselya)", "en": "Pineios (Thessaly)"}, {"tr": "Thermaikos Körfezi", "en": "Thermaic Gulf"}, {"tr": "Teselya ovasından geçer", "en": "Flows through the Thessalian plain"}],
+      [{"tr": "Aheloos", "en": "Acheloos"}, {"tr": "İyon Denizi", "en": "Ionian Sea"}, {"tr": "Batı Yunanistan", "en": "Western Greece"}],
+      [{"tr": "Meriç (Evros)", "en": "Evros"}, {"tr": "Ege Denizi", "en": "Aegean Sea"}, {"tr": "Türkiye ile sınırı yalnızca bir bölümünde oluşturur, **tüm uzunluğu boyunca değil**", "en": "Forms the border with Turkey only along part of its course, **not its entire length**"}],
+      [{"tr": "Nestos", "en": "Nestos"}, {"tr": "Ege Denizi", "en": "Aegean Sea"}, {"tr": "Makedonya ile Trakya arasındaki doğal sınır (ikisi de Doğu Makedonya-Trakya Bölgesi içinde) — Orta Makedonya ile değil", "en": "Natural boundary between Macedonia and Thrace (both inside the Eastern Macedonia-Thrace Region) — not with Central Macedonia"}]
+     ]},
+    {"type": "map", "places": [
+     {"name": {"el": "Πηνειός", "tr": "Pinios", "en": "Pineios"}, "lat": 39.64, "lon": 22.42},
+     {"name": {"el": "Έβρος", "tr": "Meriç", "en": "Evros"}, "lat": 41.35, "lon": 26.5},
+     {"name": {"el": "Αξιός", "tr": "Vardar", "en": "Axios"}, "lat": 40.85, "lon": 22.62},
+     {"name": {"el": "Αχελώος", "tr": "Aheloos", "en": "Acheloos"}, "lat": 38.7, "lon": 21.3},
+     {"name": {"el": "Αλιάκμονας", "tr": "Aliakmonas", "en": "Aliakmonas"}, "lat": 40.48, "lon": 22.6},
+     {"name": {"el": "Νέστος", "tr": "Nestos", "en": "Nestos"}, "lat": 41.08, "lon": 24.78}
+    ]},
+    {"type": "table",
+     "head": [{"tr": "Göl", "en": "Lake"}, {"tr": "Bölgesel Birim", "en": "Regional Unit"}, {"tr": "Coğrafi bölge", "en": "Geographical region"}],
+     "rows": [
+      [{"tr": "Trihonida", "en": "Trichonida"}, {"tr": "Etolya-Akarnanya", "en": "Aetolia-Acarnania"}, {"tr": "Batı Yunanistan", "en": "Western Greece"}],
+      [{"tr": "Iliki", "en": "Yliki"}, {"tr": "Beotya", "en": "Boeotia"}, {"tr": "Orta Yunanistan", "en": "Central Greece"}],
+      [{"tr": "Volvi, Koronia", "en": "Volvi, Koroneia"}, {"tr": "Selanik", "en": "Thessaloniki"}, {"tr": "Makedonya", "en": "Macedonia"}],
+      [{"tr": "Doyran", "en": "Doiran"}, {"tr": "Kilkis", "en": "Kilkis"}, {"tr": "Makedonya", "en": "Macedonia"}],
+      [{"tr": "Kerkini", "en": "Kerkini"}, {"tr": "Serez", "en": "Serres"}, {"tr": "Makedonya", "en": "Macedonia"}],
+      [{"tr": "Küçük ve Büyük Prespa, Petron", "en": "Lesser and Great Prespa, Petron"}, {"tr": "Florina", "en": "Florina"}, {"tr": "Makedonya", "en": "Macedonia"}],
+      [{"tr": "Vegoritida", "en": "Vegoritida"}, {"tr": "Pella / Florina", "en": "Pella / Florina"}, {"tr": "Makedonya", "en": "Macedonia"}],
+      [{"tr": "Orestiada (Kastorya Gölü)", "en": "Orestiada (Lake of Kastoria)"}, {"tr": "Kastorya", "en": "Kastoria"}, {"tr": "Makedonya", "en": "Macedonia"}],
+      [{"tr": "Vistonida", "en": "Vistonida"}, {"tr": "İskeçe / Rodopi", "en": "Xanthi / Rhodope"}, {"tr": "Trakya", "en": "Thrace"}]
+     ]},
+    {"type": "map", "places": [
+     {"name": {"el": "Τριχωνίδα", "tr": "Trihonida", "en": "Trichonida"}, "lat": 38.57, "lon": 21.55},
+     {"name": {"el": "Υλίκη", "tr": "Iliki", "en": "Yliki"}, "lat": 38.4, "lon": 23.27},
+     {"name": {"el": "Βόλβη", "tr": "Volvi", "en": "Volvi"}, "lat": 40.68, "lon": 23.48},
+     {"name": {"el": "Κορώνεια", "tr": "Koronia", "en": "Koroneia"}, "lat": 40.68, "lon": 23.15},
+     {"name": {"el": "Δοϊράνη", "tr": "Doyran", "en": "Doiran"}, "lat": 41.18, "lon": 22.74},
+     {"name": {"el": "Κερκίνη", "tr": "Kerkini", "en": "Kerkini"}, "lat": 41.21, "lon": 23.13},
+     {"name": {"el": "Μεγάλη Πρέσπα", "tr": "Büyük Prespa", "en": "Great Prespa"}, "lat": 40.85, "lon": 21.05},
+     {"name": {"el": "Μικρή Πρέσπα", "tr": "Küçük Prespa", "en": "Lesser Prespa"}, "lat": 40.75, "lon": 21.1},
+     {"name": {"el": "Βεγορίτιδα", "tr": "Vegoritida", "en": "Vegoritida"}, "lat": 40.75, "lon": 21.78},
+     {"name": {"el": "Πετρών", "tr": "Petron", "en": "Petron"}, "lat": 40.73, "lon": 21.7},
+     {"name": {"el": "Ορεστιάδα", "tr": "Orestiada", "en": "Orestiada"}, "lat": 40.52, "lon": 21.29},
+     {"name": {"el": "Βιστωνίδα", "tr": "Vistonida", "en": "Vistonida"}, "lat": 41.04, "lon": 25.1}
+    ]},
+    {"type": "tip", "text": {
+     "tr": "Nehir mi göl mü? **Nehirler:** Aliakmonas, Pinios, Meriç (Evros), Aheloos. **Göller:** Kerkini, Trihonida, Vistonida, Koronia. Koronia Mora'da değil, **Makedonya**'dadır (Selanik).",
+     "en": "River or lake? **Rivers:** Aliakmonas, Pineios, Evros, Acheloos. **Lakes:** Kerkini, Trichonida, Vistonida, Koroneia. Koroneia is not in the Peloponnese but in **Macedonia** (Thessaloniki)."}},
+    {"type": "tip", "text": {
+     "tr": "Makedonya'daki göllerden dördünü yazmanız istenirse: Küçük Prespa, Büyük Prespa, Volvi, Vegoritida, Doyran, Orestiada, Koronia, Kerkini.",
+     "en": "If asked for four lakes in Macedonia: Lesser Prespa, Great Prespa, Volvi, Vegoritida, Doiran, Orestiada, Koroneia, Kerkini."}},
+    {"type": "terms", "items": [
+     {"el": "ποταμός", "tr": "nehir", "en": "river"},
+     {"el": "λίμνη", "tr": "göl", "en": "lake"},
+     {"el": "εκβάλλει", "tr": "dökülür", "en": "flows into"},
+     {"el": "πηγάζει", "tr": "doğar (kaynağı)", "en": "has its source"},
+     {"el": "Αξιός", "tr": "Vardar", "en": "Axios"},
+     {"el": "Αλιάκμονας", "tr": "Aliakmonas", "en": "Aliakmonas"},
+     {"el": "Πηνειός", "tr": "Pinios", "en": "Pineios"},
+     {"el": "Αχελώος", "tr": "Aheloos", "en": "Acheloos"},
+     {"el": "Έβρος", "tr": "Meriç", "en": "Evros"},
+     {"el": "Νέστος", "tr": "Nestos", "en": "Nestos"},
+     {"el": "Θερμαϊκός Κόλπος", "tr": "Thermaikos Körfezi", "en": "Thermaic Gulf"},
+     {"el": "Τριχωνίδα", "tr": "Trihonida", "en": "Trichonida"},
+     {"el": "Βόλβη", "tr": "Volvi", "en": "Volvi"},
+     {"el": "Υλίκη", "tr": "Iliki", "en": "Yliki"},
+     {"el": "Δοϊράνη", "tr": "Doyran", "en": "Doiran"},
+     {"el": "Κορώνεια", "tr": "Koronia", "en": "Koroneia"},
+     {"el": "Κερκίνη", "tr": "Kerkini", "en": "Kerkini"},
+     {"el": "Βιστωνίδα", "tr": "Vistonida", "en": "Vistonida"},
+     {"el": "Πετρών", "tr": "Petron", "en": "Petron"},
+     {"el": "Μικρή Πρέσπα / Μεγάλη Πρέσπα", "tr": "Küçük Prespa / Büyük Prespa", "en": "Lesser Prespa / Great Prespa"},
+     {"el": "Βεγορίτιδα", "tr": "Vegoritida", "en": "Vegoritida"},
+     {"el": "Ορεστιάδα", "tr": "Orestiada", "en": "Orestiada"}
+    ]}
+   ],
+   "questions": ["geo-14", "geo-20", "geo-34", "geo-36", "geo-38", "geo-44", "geo-52"]
+  },
+  {
+   "id": "geo-waters",
+   "title": {"el": "Λιμνοθάλασσες, τεχνητές λίμνες, καταρράκτες και ιαματικά λουτρά", "tr": "Lagünler, yapay göller, şelaleler ve kaplıcalar", "en": "Lagoons, artificial lakes, waterfalls and spas"},
+   "icon": "💧",
+   "summary": {"tr": "Haritada sorulan lagünler, barajlı göller, şelaleler ve kaplıcalar.", "en": "The lagoons, dam lakes, waterfalls and thermal spas asked on the map."},
+   "blocks": [
+    {"type": "p", "text": {
+     "tr": "**Lagünler (λιμνοθάλασσες):** Mesolongi (Batı Yunanistan), Vistonida-Porto Lagos (Trakya), Lefkada ve Girit'teki Agios Nikolaos.",
+     "en": "**Lagoons (λιμνοθάλασσες):** Missolonghi (Western Greece), Vistonida-Porto Lagos (Thrace), Lefkada and Agios Nikolaos (Crete)."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Μεσολογγίου", "tr": "Mesolongi", "en": "Missolonghi"}, "lat": 38.33, "lon": 21.4},
+     {"name": {"el": "Βιστωνίδας-Πόρτο Λάγος", "tr": "Vistonida-Porto Lagos", "en": "Vistonida-Porto Lagos"}, "lat": 41.0, "lon": 25.12},
+     {"name": {"el": "Λευκάδας", "tr": "Lefkada", "en": "Lefkada"}, "lat": 38.82, "lon": 20.72},
+     {"name": {"el": "Αγίου Νικολάου Κρήτης", "tr": "Girit'teki Agios Nikolaos", "en": "Agios Nikolaos (Crete)"}, "lat": 35.25, "lon": 25.72}
+    ]},
+    {"type": "p", "text": {
+     "tr": "**Yapay (barajlı) göller:** Polifitos (Kozani, Aliakmonas üzerinde), Plastiras (Karditsa), Mornos (Fokida) ve Maraton (Atika). Mornos ve Maraton Atina'ya su sağlar.",
+     "en": "**Artificial (dam) lakes:** Polyfytos (Kozani, on the Aliakmonas), Plastiras (Karditsa), Mornos (Phocis) and Marathon (Attica). Mornos and Marathon supply Athens with water."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Πολυφύτου", "tr": "Polifitos", "en": "Polyfytos"}, "lat": 40.23, "lon": 21.98},
+     {"name": {"el": "Πλαστήρα", "tr": "Plastiras", "en": "Plastiras"}, "lat": 39.25, "lon": 21.75},
+     {"name": {"el": "Μόρνου", "tr": "Mornos", "en": "Mornos"}, "lat": 38.53, "lon": 22.1},
+     {"name": {"el": "Μαραθώνα", "tr": "Maraton", "en": "Marathon"}, "lat": 38.17, "lon": 23.9}
+    ]},
+    {"type": "p", "text": {
+     "tr": "**Şelalelerin bulunduğu yerler:** Semadirek (ada), İskeçe, Edessa (şehrin içindeki ünlü şelaleler) ve Karpenisi.",
+     "en": "**Places with waterfalls:** Samothrace (island), Xanthi, Edessa (famous waterfalls inside the town) and Karpenisi."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Σαμοθράκη", "tr": "Semadirek", "en": "Samothrace"}, "lat": 40.47, "lon": 25.58},
+     {"name": {"el": "Ξάνθη", "tr": "İskeçe", "en": "Xanthi"}, "lat": 41.2, "lon": 24.85},
+     {"name": {"el": "Έδεσσα", "tr": "Edessa", "en": "Edessa"}, "lat": 40.802, "lon": 22.05},
+     {"name": {"el": "Καρπενήσι", "tr": "Karpenisi", "en": "Karpenisi"}, "lat": 38.912, "lon": 21.793}
+    ]},
+    {"type": "p", "text": {
+     "tr": "**Kaplıcalar (ιαματικά λουτρά):** Kamena Vurla (Ftiotida), Edipsos (kuzey Eğriboz), Korintiya'daki Loutraki ve Aridea (Pella, Pozar kaplıcaları).",
+     "en": "**Thermal spas (ιαματικά λουτρά):** Kamena Vourla (Phthiotis), Aidipsos (northern Euboea), Loutraki (Corinthia) and Aridaia (Pella, the Pozar baths)."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Καμένα Βούρλα", "tr": "Kamena Vurla", "en": "Kamena Vourla"}, "lat": 38.78, "lon": 22.78},
+     {"name": {"el": "Αιδηψός", "tr": "Edipsos", "en": "Aidipsos"}, "lat": 38.86, "lon": 23.05},
+     {"name": {"el": "Λουτράκι Κορινθίας", "tr": "Korintiya'daki Loutraki", "en": "Loutraki (Corinthia)"}, "lat": 37.975, "lon": 22.977},
+     {"name": {"el": "Αριδαία", "tr": "Aridea", "en": "Aridaia"}, "lat": 40.975, "lon": 22.06}
+    ]},
+    {"type": "terms", "items": [
+     {"el": "λιμνοθάλασσα", "tr": "lagün", "en": "lagoon"},
+     {"el": "Μεσολογγίου", "tr": "Mesolongi", "en": "Missolonghi"},
+     {"el": "Βιστωνίδας-Πόρτο Λάγος", "tr": "Vistonida-Porto Lagos", "en": "Vistonida-Porto Lagos"},
+     {"el": "Αγίου Νικολάου Κρήτης", "tr": "Girit'teki Agios Nikolaos", "en": "Agios Nikolaos (Crete)"},
+     {"el": "τεχνητές λίμνες (με φράγματα)", "tr": "(barajlı) yapay göller", "en": "artificial lakes (with dams)"},
+     {"el": "Πολυφύτου, Πλαστήρα, Μόρνου, Μαραθώνα", "tr": "Polifitos, Plastiras, Mornos, Maraton", "en": "Polyfytos, Plastiras, Mornos, Marathon"},
+     {"el": "καταρράκτες", "tr": "şelaleler", "en": "waterfalls"},
+     {"el": "Σαμοθράκη", "tr": "Semadirek", "en": "Samothrace"},
+     {"el": "Ξάνθη", "tr": "İskeçe", "en": "Xanthi"},
+     {"el": "ιαματικά λουτρά", "tr": "kaplıcalar", "en": "thermal spas"},
+     {"el": "Καμένα Βούρλα", "tr": "Kamena Vurla", "en": "Kamena Vourla"},
+     {"el": "Αιδηψός", "tr": "Edipsos", "en": "Aidipsos"},
+     {"el": "Λουτράκι", "tr": "Loutraki", "en": "Loutraki"},
+     {"el": "Αριδαία", "tr": "Aridea", "en": "Aridaia"}
+    ]}
+   ],
+   "questions": ["geo-53", "geo-57", "geo-65", "geo-69"]
+  },
+  {
+   "id": "geo-climate-nature",
+   "title": {"el": "Κλίμα και φύση", "tr": "İklim ve doğa", "en": "Climate and nature"},
+   "icon": "☀️",
+   "summary": {"tr": "Akdeniz iklimi, rüzgârlar, yağış ve Yunanistan'ın koruma altındaki hayvanları.", "en": "The Mediterranean climate, winds, rainfall and Greece's protected animals."},
+   "blocks": [
+    {"type": "p", "text": {
+     "tr": "Yunanistan'ın büyük bölümünde **ılıman Akdeniz iklimi (εύκρατο μεσογειακό)** hâkimdir: kışlar ılık ve yağışlı, yazlar sıcak ve kurak. **Batı Makedonya**, soğuk kışlarıyla **karasal iklim** özelliklerinin en belirgin olduğu bölgedir.",
+     "en": "A **temperate Mediterranean climate (εύκρατο μεσογειακό)** prevails over most of Greece: mild, rainy winters and hot, dry summers. **Western Macedonia** is the area with the most pronounced **continental climate**, with cold winters."}},
+    {"type": "list", "items": [
+     {"tr": "En çok yağış **batı Yunanistan**'a (Epir, İyon Adaları ve batı dağları) düşer; **Ege Adaları değil** — Ege adaları kurak bölgelerdendir.", "en": "The most rain falls on **western Greece** (Epirus, the Ionian Islands and the western mountains) — **not the Aegean Islands**, which are among the driest areas."},
+     {"tr": "Yazın Ege'de esen rüzgâr **meltem (μελτέμια)**'dir, kuzeyli rüzgârlardır. Livas (Λίβας) değildir.", "en": "The wind that blows over the Aegean in summer is the **meltemi (μελτέμια)**, from the north. It is not the Livas (Λίβας)."}
+    ]},
+    {"type": "p", "text": {
+     "tr": "**Doğa ve hayvanlar:** Yunanistan'ın **sulak alanlarına binlerce kuş göç eder**. **Girit**'te **kri-kri** adlı yaban keçisi yaşar. **Arcturos (Αρκτούρος)**, Florina'daki **Nimfeo**'da bir ayı barınağıdır. **Alonisos Deniz Parkı**, **Akdeniz foku (monachus monachus)** için bir koruma alanıdır. **Skiros**'ta dünyanın en nadir at ırklarından biri yaşar.",
+     "en": "**Nature and animals:** **Thousands of birds migrate to Greece's wetlands**. On **Crete** lives a wild goat called the **kri-kri**. **Arcturos (Αρκτούρος)** is a bear sanctuary at **Nymfaio** (Florina). The **Alonissos Marine Park** is a refuge for the **Mediterranean monk seal (Monachus monachus)**. On **Skyros** lives one of the rarest horse breeds in the world."}},
+    {"type": "tip", "text": {
+     "tr": "Tuzak: Alonisos deniz parkı **fokun** yeridir, **caretta caretta** kaplumbağasının değil. Caretta caretta'nın bilinen en önemli üreme yeri **Zakintos**'tur (Laganas Körfezi).",
+     "en": "Trap: the Alonissos marine park is for the **monk seal**, not the **Caretta caretta** turtle. The best-known nesting site of the loggerhead turtle is **Zakynthos** (Laganas Bay)."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Νυμφαίο (Αρκτούρος)", "tr": "Nimfeo (Arcturos)", "en": "Nymfaio (Arcturos)"}, "lat": 40.63, "lon": 21.33},
+     {"name": {"el": "Θαλάσσιο Πάρκο Αλοννήσου", "tr": "Alonisos Deniz Parkı", "en": "Alonissos Marine Park"}, "lat": 39.15, "lon": 23.86},
+     {"name": {"el": "Σκύρος", "tr": "Skiros", "en": "Skyros"}, "lat": 38.87, "lon": 24.53},
+     {"name": {"el": "Ζάκυνθος (καρέτα καρέτα)", "tr": "Zakintos (caretta caretta)", "en": "Zakynthos (Caretta caretta)"}, "lat": 37.72, "lon": 20.9},
+     {"name": {"el": "Κρήτη (κρι-κρι)", "tr": "Girit (kri-kri)", "en": "Crete (kri-kri)"}, "lat": 35.3, "lon": 23.95},
+     {"name": {"el": "Δυτική Μακεδονία (ηπειρωτικό κλίμα)", "tr": "Batı Makedonya (karasal iklim)", "en": "Western Macedonia (continental climate)"}, "lat": 40.35, "lon": 21.6}
+    ]},
+    {"type": "terms", "items": [
+     {"el": "εύκρατο μεσογειακό κλίμα", "tr": "ılıman Akdeniz iklimi", "en": "temperate Mediterranean climate"},
+     {"el": "ηπειρωτικό κλίμα", "tr": "karasal iklim", "en": "continental climate"},
+     {"el": "βροχοπτώσεις", "tr": "yağışlar", "en": "rainfall"},
+     {"el": "μελτέμια", "tr": "meltem rüzgârları", "en": "meltemi winds"},
+     {"el": "Λίβας", "tr": "Livas (rüzgâr)", "en": "Livas (wind)"},
+     {"el": "υγρότοποι", "tr": "sulak alanlar", "en": "wetlands"},
+     {"el": "αγριόγιδο Κρι-κρι", "tr": "kri-kri yaban keçisi", "en": "kri-kri wild goat"},
+     {"el": "Αρκτούρος", "tr": "Arcturos", "en": "Arcturos"},
+     {"el": "Νυμφαίο", "tr": "Nimfeo", "en": "Nymfaio"},
+     {"el": "Θαλάσσιο Πάρκο Αλοννήσου", "tr": "Alonisos Deniz Parkı", "en": "Alonissos Marine Park"},
+     {"el": "μεσογειακή φώκια", "tr": "Akdeniz foku", "en": "Mediterranean monk seal"},
+     {"el": "χελώνα καρέτα καρέτα", "tr": "caretta caretta kaplumbağası", "en": "loggerhead turtle"},
+     {"el": "φυλή αλόγων", "tr": "at ırkı", "en": "horse breed"}
+    ]}
+   ],
+   "questions": ["geo-7", "geo-26", "geo-29", "geo-31"]
+  },
+  {
+   "id": "geo-economy",
+   "title": {"el": "Οικονομία: γεωργία, αλιεία, ενέργεια, μάρμαρα", "tr": "Ekonomi: tarım, balıkçılık, enerji, mermer", "en": "Economy: farming, fishing, energy, marble"},
+   "icon": "🌾",
+   "summary": {"tr": "Şarap, bal, tahıl, turunçgil, deniz ürünleri, linyit ve mermer bölgeleri.", "en": "Areas of wine, honey, cereals, citrus, seafood, lignite and marble."},
+   "blocks": [
+    {"type": "table",
+     "head": [{"tr": "Ürün", "en": "Product"}, {"tr": "Bölgeler (soru bankasına göre)", "en": "Areas (per the question bank)"}],
+     "rows": [
+      [{"tr": "Şarap", "en": "Wine"}, {"tr": "Amindeo, Naousa, Drama, Sisam, Santorini (Thira), Nemea, Girit, Kefalonya", "en": "Amyntaio, Naousa, Drama, Samos, Santorini (Thira), Nemea, Crete, Kefalonia"}],
+      [{"tr": "Çam balı", "en": "Pine honey"}, {"tr": "Eğriboz, Taşoz, Halkidiki, Sporadlar, Rodos", "en": "Euboea, Thasos, Chalkidiki, Sporades, Rhodes"}],
+      [{"tr": "Tahıl (en geniş alanlar)", "en": "Cereals (largest areas)"}, {"tr": "Larisa, Selanik, Kilkis, Serez, Kozani Bölgesel Birimleri", "en": "Regional Units of Larissa, Thessaloniki, Kilkis, Serres, Kozani"}],
+      [{"tr": "Turunçgiller (en geniş alanlar)", "en": "Citrus (largest areas)"}, {"tr": "Argolida, Lakonya, Etolya-Akarnanya, Arta", "en": "Argolis, Laconia, Aetolia-Acarnania, Arta"}],
+      [{"tr": "Diğer", "en": "Other"}, {"tr": "Pieria'da kivi; Girit'te muz; Kalimnos'ta sünger avcılığı", "en": "Kiwifruit in Pieria; bananas on Crete; sponge harvesting on Kalymnos"}]
+     ]},
+    {"type": "map", "places": [
+     {"name": {"el": "Αμύνταιο", "tr": "Amindeo", "en": "Amyntaio"}, "lat": 40.69, "lon": 21.68},
+     {"name": {"el": "Νάουσα", "tr": "Naousa", "en": "Naousa"}, "lat": 40.63, "lon": 22.07},
+     {"name": {"el": "Δράμα", "tr": "Drama", "en": "Drama"}, "lat": 41.15, "lon": 24.15},
+     {"name": {"el": "Σάμος", "tr": "Sisam", "en": "Samos"}, "lat": 37.73, "lon": 26.8},
+     {"name": {"el": "Σαντορίνη (Θήρα)", "tr": "Santorini (Thira)", "en": "Santorini (Thira)"}, "lat": 36.41, "lon": 25.43},
+     {"name": {"el": "Νεμέα", "tr": "Nemea", "en": "Nemea"}, "lat": 37.82, "lon": 22.66},
+     {"name": {"el": "Κρήτη", "tr": "Girit", "en": "Crete"}, "lat": 35.25, "lon": 25.1},
+     {"name": {"el": "Κεφαλλονιά", "tr": "Kefalonya", "en": "Kefalonia"}, "lat": 38.22, "lon": 20.55}
+    ]},
+    {"type": "map", "places": [
+     {"name": {"el": "Αργολίδα", "tr": "Argolida", "en": "Argolis"}, "lat": 37.6, "lon": 22.8},
+     {"name": {"el": "Λακωνία", "tr": "Lakonya", "en": "Laconia"}, "lat": 36.95, "lon": 22.6},
+     {"name": {"el": "Αιτωλοακαρνανία", "tr": "Etolya-Akarnanya", "en": "Aetolia-Acarnania"}, "lat": 38.6, "lon": 21.35},
+     {"name": {"el": "Άρτα", "tr": "Arta", "en": "Arta"}, "lat": 39.16, "lon": 21.0}
+    ]},
+    {"type": "p", "text": {
+     "tr": "**Deniz ürünleri:** Kalimnos sünger avcılığıyla ünlüdür. Midye çiftlikleriyle ünlü olan yer **Thermaikos Körfezi**'dir (Selanik) — soru bankasına göre Pagasitikos Körfezi bununla ünlü **değildir**.",
+     "en": "**Seafood:** Kalymnos is famous for sponge harvesting. The area famous for mussel farming is the **Thermaic Gulf** (Thessaloniki) — according to the question bank, the Pagasetic Gulf is **not** famous for it."}},
+    {"type": "p", "text": {
+     "tr": "**Enerji ve sanayi:** **Ptolemaida**'da linyitten elektrik üreten santraller vardır; **Megalopoli** ve **Aliveri**'nin yer altında linyit yatakları bulunur. Ancak bugün tüketilen elektriğin **büyük kısmı linyitten üretilmez**. En büyük sanayi tesisleri Mora'da **değil**, esas olarak Atika ve Selanik çevresinde yoğunlaşmıştır.",
+     "en": "**Energy and industry:** **Ptolemaida** has lignite-fired power plants; there are lignite deposits beneath **Megalopoli** and **Aliveri**. However, **most** of the electricity consumed today is **not** produced from lignite. The largest industrial plants are **not** in the Peloponnese; industry is concentrated mainly around Attica and Thessaloniki."}},
+    {"type": "p", "text": {
+     "tr": "**Mermer çıkarılan yerler:** Taşoz, Drama, Kozani ve Tinos.",
+     "en": "**Marble quarrying areas:** Thasos, Drama, Kozani and Tinos."}},
+    {"type": "map", "places": [
+     {"name": {"el": "Θάσος (μάρμαρα)", "tr": "Taşoz (mermer)", "en": "Thasos (marble)"}, "lat": 40.68, "lon": 24.66},
+     {"name": {"el": "Δράμα (μάρμαρα)", "tr": "Drama (mermer)", "en": "Drama (marble)"}, "lat": 41.15, "lon": 24.15},
+     {"name": {"el": "Κοζάνη (μάρμαρα)", "tr": "Kozani (mermer)", "en": "Kozani (marble)"}, "lat": 40.3, "lon": 21.79},
+     {"name": {"el": "Τήνος (μάρμαρα)", "tr": "Tinos (mermer)", "en": "Tinos (marble)"}, "lat": 37.6, "lon": 25.15},
+     {"name": {"el": "Πτολεμαΐδα (λιγνίτης)", "tr": "Ptolemaida (linyit)", "en": "Ptolemaida (lignite)"}, "lat": 40.51, "lon": 21.68},
+     {"name": {"el": "Μεγαλόπολη (λιγνίτης)", "tr": "Megalopoli (linyit)", "en": "Megalopoli (lignite)"}, "lat": 37.4, "lon": 22.14},
+     {"name": {"el": "Αλιβέρι (λιγνίτης)", "tr": "Aliveri (linyit)", "en": "Aliveri (lignite)"}, "lat": 38.41, "lon": 24.04},
+     {"name": {"el": "Κάλυμνος (σφουγγάρια)", "tr": "Kalimnos (sünger)", "en": "Kalymnos (sponges)"}, "lat": 36.97, "lon": 26.98}
+    ]},
+    {"type": "terms", "items": [
+     {"el": "κρασί", "tr": "şarap", "en": "wine"},
+     {"el": "πευκόμελο", "tr": "çam balı", "en": "pine honey"},
+     {"el": "σιτηρά", "tr": "tahıllar", "en": "cereals"},
+     {"el": "εσπεριδοειδή", "tr": "turunçgiller", "en": "citrus fruit"},
+     {"el": "ακτινίδια", "tr": "kivi", "en": "kiwifruit"},
+     {"el": "μπανάνες", "tr": "muz", "en": "bananas"},
+     {"el": "σφουγγάρια", "tr": "sünger", "en": "sponges"},
+     {"el": "μυδοκαλλιέργειες", "tr": "midye çiftlikleri", "en": "mussel farms"},
+     {"el": "Παγασητικός κόλπος", "tr": "Pagasitikos Körfezi", "en": "Pagasetic Gulf"},
+     {"el": "λιγνίτης", "tr": "linyit", "en": "lignite"},
+     {"el": "Πτολεμαΐδα", "tr": "Ptolemaida", "en": "Ptolemaida"},
+     {"el": "Μεγαλόπολη", "tr": "Megalopoli", "en": "Megalopoli"},
+     {"el": "Αλιβέρι", "tr": "Aliveri", "en": "Aliveri"},
+     {"el": "εξόρυξη μαρμάρων", "tr": "mermer çıkarımı", "en": "marble quarrying"},
+     {"el": "Πιερία", "tr": "Pieria", "en": "Pieria"},
+     {"el": "Κάλυμνος", "tr": "Kalimnos", "en": "Kalymnos"}
+    ]}
+   ],
+   "questions": ["geo-23", "geo-28", "geo-43", "geo-48", "geo-49", "geo-50", "geo-66", "geo-68"]
+  },
+  {
+   "id": "geo-transport",
+   "title": {"el": "Γέφυρες και λιμάνια", "tr": "Köprüler ve limanlar", "en": "Bridges and ports"},
+   "icon": "🌉",
+   "summary": {"tr": "Haritada sorulan büyük köprüler ve limanlı şehirler.", "en": "The major bridges and port cities asked on the map."},
+   "blocks": [
+    {"type": "list", "items": [
+     {"tr": "**Rio-Antirio Köprüsü** — Korint Körfezi'nin girişinde, Patra yakınında Mora'yı anakaraya (Batı Yunanistan) bağlar.", "en": "**Rio-Antirrio Bridge** — at the entrance of the Gulf of Corinth, near Patras; links the Peloponnese with the mainland (Western Greece)."},
+     {"tr": "**Servia Köprüsü (Kozani)** — Polifitos yapay gölü üzerinde.", "en": "**Servia Bridge (Kozani)** — over the Polyfytos artificial lake."},
+     {"tr": "**Kristalopigi Köprüsü** — Epir'de (Igumenitsa yakınında).", "en": "**Krystallopigi Bridge** — in Epirus (near Igoumenitsa)."},
+     {"tr": "**Evripos Köprüsü (Halkida)** — Eğriboz adasını anakaraya bağlar; **Evripos Boğazı Halkida'dadır**.", "en": "**Euripus Bridge (Chalkida)** — links the island of Euboea to the mainland; **the Euripus Strait is at Chalkida**."}
+    ]},
+    {"type": "map", "places": [
+     {"name": {"el": "Ρίου-Αντίρριου", "tr": "Rio-Antirio", "en": "Rio-Antirrio"}, "lat": 38.321, "lon": 21.773},
+     {"name": {"el": "Σερβίων Κοζάνης", "tr": "Kozani'deki Servia", "en": "Servia (Kozani)"}, "lat": 40.21, "lon": 21.99},
+     {"name": {"el": "Κρυσταλλοπηγής", "tr": "Kristalopigi", "en": "Krystallopigi"}, "lat": 39.55, "lon": 20.36},
+     {"name": {"el": "Ευρίπου Χαλκίδας", "tr": "Halkida'daki Evripos", "en": "Euripus (Chalkida)"}, "lat": 38.463, "lon": 23.59}
+    ]},
+    {"type": "list", "items": [
+     {"tr": "**Patra** — Mora'nın büyük limanı (İtalya ve İyon Adaları bağlantıları).", "en": "**Patras** — the Peloponnese's main port (links to Italy and the Ionian Islands)."},
+     {"tr": "**Igumenitsa** — Epir'in limanı (Korfu ve İtalya bağlantıları).", "en": "**Igoumenitsa** — the port of Epirus (links to Corfu and Italy)."},
+     {"tr": "**Rafina** — Doğu Atika'da liman (Kiklad Adaları ve Eğriboz bağlantıları).", "en": "**Rafina** — port in eastern Attica (links to the Cyclades and Euboea)."},
+     {"tr": "**Iraklio** — Girit'in en büyük şehri ve limanı.", "en": "**Heraklion** — Crete's largest city and port."}
+    ]},
+    {"type": "map", "places": [
+     {"name": {"el": "Πάτρα", "tr": "Patra", "en": "Patras"}, "lat": 38.246, "lon": 21.734},
+     {"name": {"el": "Ηγουμενίτσα", "tr": "Igumenitsa", "en": "Igoumenitsa"}, "lat": 39.503, "lon": 20.265},
+     {"name": {"el": "Ραφήνα", "tr": "Rafina", "en": "Rafina"}, "lat": 38.022, "lon": 24.009},
+     {"name": {"el": "Ηράκλειο", "tr": "Iraklio", "en": "Heraklion"}, "lat": 35.339, "lon": 25.144}
+    ]},
+    {"type": "tip", "text": {
+     "tr": "Köprü adları Yunancada tamlama hâlinde sorulur: «Γέφυρα Ρίου-Αντίρριου», «Γέφυρα Ευρίπου Χαλκίδας». Rio = Mora tarafı, Antirio = karşı (kuzey) kıyı.",
+     "en": "Bridge names appear in the genitive in Greek: «Γέφυρα Ρίου-Αντίρριου», «Γέφυρα Ευρίπου Χαλκίδας». Rio = Peloponnese side, Antirrio = the opposite (northern) shore."}},
+    {"type": "terms", "items": [
+     {"el": "γέφυρα", "tr": "köprü", "en": "bridge"},
+     {"el": "Ρίου-Αντίρριου", "tr": "Rio-Antirio", "en": "Rio-Antirrio"},
+     {"el": "Σερβίων Κοζάνης", "tr": "Kozani'deki Servia", "en": "Servia (Kozani)"},
+     {"el": "Κρυσταλλοπηγής", "tr": "Kristalopigi", "en": "Krystallopigi"},
+     {"el": "Ευρίπου Χαλκίδας", "tr": "Halkida'daki Evripos", "en": "Euripus (Chalkida)"},
+     {"el": "πορθμός του Ευρίπου", "tr": "Evripos Boğazı", "en": "Euripus Strait"},
+     {"el": "λιμάνι", "tr": "liman", "en": "port"},
+     {"el": "Πάτρα", "tr": "Patra", "en": "Patras"},
+     {"el": "Ηγουμενίτσα", "tr": "Igumenitsa", "en": "Igoumenitsa"},
+     {"el": "Ραφήνα", "tr": "Rafina", "en": "Rafina"},
+     {"el": "Ηράκλειο", "tr": "Iraklio", "en": "Heraklion"}
+    ]}
+   ],
+   "questions": ["geo-29", "geo-67", "geo-70"]
+  }
+ ]
+}
