@@ -6,6 +6,10 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.1.1 (2026-10-26)
+
+- Sürüm numarası sol üst köşede, logonun yanında gösteriliyor. Tıklayınca sürüm notları açılır.
+
 ## 1.1.0 (2026-10-26)
 
 - **Yeni: Dersler bölümü.** Coğrafya, kültür, tarih ve devlet kurumları için konu anlatımı.

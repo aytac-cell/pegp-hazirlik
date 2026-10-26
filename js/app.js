@@ -38,6 +38,9 @@
     else document.documentElement.dataset.theme = theme;
     document.getElementById("langBtn").textContent = I18N.lang.toUpperCase();
     document.getElementById("verLink").textContent = I18N.t("version", { v: window.APP_VERSION });
+    const badge = document.getElementById("verBadge");
+    badge.textContent = "v" + window.APP_VERSION;
+    badge.title = I18N.t("changesTitle");
     I18N.apply(document);
   }
 

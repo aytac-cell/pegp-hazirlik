@@ -1,7 +1,12 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.1.0";
+window.APP_VERSION = "1.1.1";
 window.APP_CHANGES = [
+  {
+    v: "1.1.1", date: "2026-10-26",
+    tr: ["Sürüm numarası sol üst köşede, logonun yanında gösteriliyor; tıklayınca sürüm notları açılır"],
+    en: ["Version number shown in the top-left corner next to the logo; click it for the release notes"]
+  },
   {
     v: "1.1.0", date: "2026-10-26",
     tr: [

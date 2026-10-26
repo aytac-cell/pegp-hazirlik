@@ -79,6 +79,11 @@ p { margin: 0 0 .75rem; }
   background: var(--primary); color: var(--primary-ink); font-family: var(--font-el); font-size: 1.15rem;
 }
 .brand-text b { font-weight: 500; color: var(--muted); }
+.ver-badge {
+  margin-left: -.5rem; padding: .1rem .45rem; border-radius: 999px; font-size: .72rem; font-weight: 600;
+  text-decoration: none; color: var(--primary); background: var(--primary-soft); white-space: nowrap;
+}
+.ver-badge:hover { text-decoration: underline; }
 .nav { display: flex; gap: .25rem; margin-left: auto; }
 .nav a {
   text-decoration: none; color: var(--muted); padding: .4rem .75rem; border-radius: 999px; font-weight: 500; font-size: .95rem;
