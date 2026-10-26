@@ -1,0 +1,3517 @@
+[
+ {
+  "id": "his-1",
+  "subject": "his",
+  "n": 1,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η Βυζαντινή Αυτοκρατορία ήταν:",
+   "tr": "Bizans İmparatorluğu şuydu:",
+   "en": "The Byzantine Empire was:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "εχθρός της Ρωμαϊκής Αυτοκρατορίας",
+    "tr": "Roma İmparatorluğu'nun düşmanı",
+    "en": "an enemy of the Roman Empire"
+   },
+   {
+    "el": "η Δυτική Ρωμαϊκή Αυτοκρατορία",
+    "tr": "Batı Roma İmparatorluğu",
+    "en": "the Western Roman Empire"
+   },
+   {
+    "el": "το Ανατολικό τμήμα της Ρωμαϊκής Αυτοκρατορίας",
+    "tr": "Roma İmparatorluğu'nun Doğu kısmı",
+    "en": "the Eastern part of the Roman Empire"
+   },
+   {
+    "el": "σύμμαχος της Ρωμαϊκής Αυτοκρατορίας",
+    "tr": "Roma İmparatorluğu'nun müttefiki",
+    "en": "an ally of the Roman Empire"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-2",
+  "subject": "his",
+  "n": 2,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο Γεώργιος Παπανδρέου έμεινε γνωστός ως:",
+   "tr": "Georgios Papandreou şu adla tanınmıştır:",
+   "en": "Georgios Papandreou became known as:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "ο γέρος του Μοριά",
+    "tr": "Mora'nın İhtiyarı",
+    "en": "the Old Man of the Morea"
+   },
+   {
+    "el": "ο γέρος της Δημοκρατίας",
+    "tr": "Demokrasinin İhtiyarı",
+    "en": "the Old Man of Democracy"
+   },
+   {
+    "el": "Γεωργάκης Ολύμπιος",
+    "tr": "Georgakis Olympios",
+    "en": "Georgakis Olympios"
+   },
+   {
+    "el": "Γεώργιος Α΄",
+    "tr": "I. Georgios",
+    "en": "George I"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-3",
+  "subject": "his",
+  "n": 3,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Το 1893 ο τότε Πρωθυπουργός Χαρίλαος Τρικούπης ανακοίνωσε:",
+   "tr": "1893'te dönemin Başbakanı Charilaos Trikoupis şunu ilan etti:",
+   "en": "In 1893 the then Prime Minister Charilaos Trikoupis announced:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "την έναρξη του πολέμου ενάντια στην Τουρκία",
+    "tr": "Türkiye'ye karşı savaşın başladığını",
+    "en": "the start of the war against Turkey"
+   },
+   {
+    "el": "την είσοδο της Ελλάδας στην Ευρωπαϊκή Ένωση",
+    "tr": "Yunanistan'ın Avrupa Birliği'ne girişini",
+    "en": "Greece's entry into the European Union"
+   },
+   {
+    "el": "την πτώχευση της Ελλάδας",
+    "tr": "Yunanistan'ın iflasını",
+    "en": "the bankruptcy of Greece"
+   },
+   {
+    "el": "την εκλογή του Βασιλιά Όθωνα",
+    "tr": "Kral Otto'nun seçilmesini",
+    "en": "the election of King Otto"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-4",
+  "subject": "his",
+  "n": 4,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο Μακεδονικός Αγώνας ήταν σύγκρουση μεταξύ:",
+   "tr": "Makedonya Mücadelesi şu taraflar arasındaki bir çatışmaydı:",
+   "en": "The Macedonian Struggle was a conflict between:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "των Μακεδόνων του Φιλίππου και των υπολοίπων ελληνικών κρατών",
+    "tr": "Filip'in Makedonları ile diğer Yunan devletleri",
+    "en": "Philip's Macedonians and the other Greek states"
+   },
+   {
+    "el": "των Ελλήνων και των Βουλγάρων",
+    "tr": "Yunanlar ile Bulgarlar",
+    "en": "the Greeks and the Bulgarians"
+   },
+   {
+    "el": "των Βενιζελικών και των βασιλικών",
+    "tr": "Venizelosçular ile kralcılar",
+    "en": "the Venizelists and the royalists"
+   },
+   {
+    "el": "των Ελλήνων και των Οθωμανών",
+    "tr": "Yunanlar ile Osmanlılar",
+    "en": "the Greeks and the Ottomans"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-5",
+  "subject": "his",
+  "n": 5,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιοι ήταν οι πρωταγωνιστές του Εθνικού Διχασμού την περίοδο 1915-1922:",
+   "tr": "1915-1922 döneminde Ulusal Bölünme'nin başlıca aktörleri kimlerdi:",
+   "en": "Who were the protagonists of the National Schism in the period 1915-1922:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Ιωάννης Καποδίστριας – Αλέξανδρος Μαυροκορδάτος",
+    "tr": "Ioannis Kapodistrias – Aleksandros Mavrokordatos",
+    "en": "Ioannis Kapodistrias – Alexandros Mavrokordatos"
+   },
+   {
+    "el": "Κωνσταντίνος Καραμανλής – Ελευθέριος Βενιζέλος",
+    "tr": "Konstantinos Karamanlis – Eleftherios Venizelos",
+    "en": "Konstantinos Karamanlis – Eleftherios Venizelos"
+   },
+   {
+    "el": "Ελευθέριος Βενιζέλος - Βασιλιάς Κωνσταντίνος",
+    "tr": "Eleftherios Venizelos - Kral Konstantinos",
+    "en": "Eleftherios Venizelos - King Constantine"
+   },
+   {
+    "el": "Βασιλιάς Όθωνας - Βασιλιάς Γεώργιος Α’",
+    "tr": "Kral Otto - Kral I. Georgios",
+    "en": "King Otto - King George I"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-6",
+  "subject": "his",
+  "n": 6,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Το 1922, μετά τον Α΄ Παγκόσμιο Πόλεμο, συνέβη:",
+   "tr": "1922'de, Birinci Dünya Savaşı'ndan sonra şu yaşandı:",
+   "en": "In 1922, after the First World War, the following occurred:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "η καταστροφή της Μιλήτου",
+    "tr": "Milet'in yıkımı",
+    "en": "the destruction of Miletus"
+   },
+   {
+    "el": "η Άλωση της Κωνσταντινούπολης",
+    "tr": "Konstantinopolis'in düşüşü",
+    "en": "the Fall of Constantinople"
+   },
+   {
+    "el": "η σφαγή της Χίου",
+    "tr": "Sakız katliamı",
+    "en": "the massacre of Chios"
+   },
+   {
+    "el": "η Μικρασιατική Καταστροφή",
+    "tr": "Küçük Asya Felaketi",
+    "en": "the Asia Minor Catastrophe"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "his-7",
+  "subject": "his",
+  "n": 7,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο Ρήγας Βελεστινλής ήταν:",
+   "tr": "Rigas Velestinlis şuydu:",
+   "en": "Rigas Velestinlis was:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "βυζαντινός στρατηγός",
+    "tr": "Bizanslı bir general",
+    "en": "a Byzantine general"
+   },
+   {
+    "el": "λόγιος του Νεοελληνικού Διαφωτισμού",
+    "tr": "Modern Yunan Aydınlanması'nın bir aydını",
+    "en": "a scholar of the Modern Greek Enlightenment"
+   },
+   {
+    "el": "ήρωας του 1821",
+    "tr": "1821'in bir kahramanı",
+    "en": "a hero of 1821"
+   },
+   {
+    "el": "ήρωας της Εθνικής Αντίστασης",
+    "tr": "Ulusal Direniş'in bir kahramanı",
+    "en": "a hero of the National Resistance"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-8",
+  "subject": "his",
+  "n": 8,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο Γεώργιος Καραϊσκάκης ήταν:",
+   "tr": "Georgios Karaiskakis şuydu:",
+   "en": "Georgios Karaiskakis was:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "διάσημος Έλληνας αθλητής",
+    "tr": "ünlü bir Yunan sporcu",
+    "en": "a famous Greek athlete"
+   },
+   {
+    "el": "πλούσιος έμπορος και εθνικός ευεργέτης",
+    "tr": "zengin bir tüccar ve ulusal hayırsever",
+    "en": "a wealthy merchant and national benefactor"
+   },
+   {
+    "el": "ήρωας της Ελληνικής Επανάστασης",
+    "tr": "Yunan Devrimi'nin bir kahramanı",
+    "en": "a hero of the Greek Revolution"
+   },
+   {
+    "el": "ήρωας της Εθνικής Αντίστασης",
+    "tr": "Ulusal Direniş'in bir kahramanı",
+    "en": "a hero of the National Resistance"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-9",
+  "subject": "his",
+  "n": 9,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Τον δικτάτορα Παπαδόπουλο αποπειράθηκε να δολοφονήσει ο:",
+   "tr": "Diktatör Papadopoulos'a suikast girişiminde bulunan kişi:",
+   "en": "The dictator Papadopoulos was the target of an assassination attempt by:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Αλέκος Παναγούλης",
+    "tr": "Alekos Panagoulis",
+    "en": "Alekos Panagoulis"
+   },
+   {
+    "el": "Παύλος Μελάς",
+    "tr": "Pavlos Melas",
+    "en": "Pavlos Melas"
+   },
+   {
+    "el": "Γεώργιος Παπανδρέου",
+    "tr": "Georgios Papandreou",
+    "en": "Georgios Papandreou"
+   },
+   {
+    "el": "Θεόδωρος Κολοκοτρώνης",
+    "tr": "Theodoros Kolokotronis",
+    "en": "Theodoros Kolokotronis"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "his-10",
+  "subject": "his",
+  "n": 10,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο Γεώργιος Αβέρωφ (1815-1899) υπήρξε ένας από τους:",
+   "tr": "Georgios Averof (1815-1899) şunlardan biriydi:",
+   "en": "Georgios Averof (1815-1899) was one of the:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "γνωστότερους Έλληνες ναυάρχους",
+    "tr": "en tanınmış Yunan amirallerinden",
+    "en": "best-known Greek admirals"
+   },
+   {
+    "el": "μεγαλύτερους εθνικούς ευεργέτες",
+    "tr": "en büyük ulusal hayırseverlerden",
+    "en": "greatest national benefactors"
+   },
+   {
+    "el": "διασημότερους ζαχαροπλάστες στο Παρίσι του 19ου αιώνα",
+    "tr": "19. yüzyıl Paris'inin en ünlü pastacılarından",
+    "en": "most famous confectioners in 19th-century Paris"
+   },
+   {
+    "el": "σημαντικότερους ποιητές της εποχής του",
+    "tr": "döneminin en önemli şairlerinden",
+    "en": "most important poets of his time"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-11",
+  "subject": "his",
+  "n": 11,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Πότε ενσωματώθηκε η Κρήτη στην Ελλάδα;:",
+   "tr": "Girit ne zaman Yunanistan'a katıldı?",
+   "en": "When was Crete incorporated into Greece?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Το 1913",
+    "tr": "1913'te",
+    "en": "In 1913"
+   },
+   {
+    "el": "Το 1830",
+    "tr": "1830'da",
+    "en": "In 1830"
+   },
+   {
+    "el": "Το 1945",
+    "tr": "1945'te",
+    "en": "In 1945"
+   },
+   {
+    "el": "Το 1922",
+    "tr": "1922'de",
+    "en": "In 1922"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "his-12",
+  "subject": "his",
+  "n": 12,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η διάνοιξη της διώρυγας στον Ισθμό της Κορίνθου είναι έργο του:",
+   "tr": "Korint Kıstağı'ndaki kanalın açılması kimin eseridir:",
+   "en": "The opening of the canal at the Isthmus of Corinth was the work of:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Περίανδρου του Κορίνθιου",
+    "tr": "Korintli Periandros'un",
+    "en": "Periander of Corinth"
+   },
+   {
+    "el": "Δημητρίου Πολιορκητή",
+    "tr": "Kuşatıcı Demetrios'un",
+    "en": "Demetrius Poliorcetes"
+   },
+   {
+    "el": "Χαρίλαου Τρικούπη",
+    "tr": "Charilaos Trikoupis'in",
+    "en": "Charilaos Trikoupis"
+   },
+   {
+    "el": "Ιωάννη Καποδίστρια",
+    "tr": "Ioannis Kapodistrias'ın",
+    "en": "Ioannis Kapodistrias"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-13",
+  "subject": "his",
+  "n": 13,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η ιδεολογία που κινητοποίησε τους Έλληνες στη διάρκεια του 19ου αιώνα και έως τη Μικρασιατική Καταστροφή, για να απελευθερώσουν τους αλύτρωτους ομοεθνείς τους ονομάστηκε:",
+   "tr": "19. yüzyıl boyunca ve Küçük Asya Felaketi'ne kadar Yunanları, henüz kurtarılmamış soydaşlarını özgürleştirmek için harekete geçiren ideolojinin adı:",
+   "en": "The ideology that mobilised the Greeks during the 19th century and up to the Asia Minor Catastrophe to liberate their unredeemed compatriots was called:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Εθνική Αντίσταση",
+    "tr": "Ulusal Direniş",
+    "en": "National Resistance"
+   },
+   {
+    "el": "Μεγάλη Ιδέα",
+    "tr": "Megali Idea (Büyük İdea)",
+    "en": "Megali Idea (Great Idea)"
+   },
+   {
+    "el": "Πανελλήνια Ιδέα",
+    "tr": "Panhelen İdea",
+    "en": "Panhellenic Idea"
+   },
+   {
+    "el": "Εθνεγερσία",
+    "tr": "Ulusal Ayaklanma (Ethnegersia)",
+    "en": "National Uprising (Ethnegersia)"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-14",
+  "subject": "his",
+  "n": 14,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια είναι η πρώτη πόλη που απελευθερώθηκε κατά τους Βαλκανικούς Πολέμους:",
+   "tr": "Balkan Savaşları sırasında kurtarılan ilk şehir hangisidir:",
+   "en": "Which was the first city liberated during the Balkan Wars:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "η Λάρισα",
+    "tr": "Larisa",
+    "en": "Larissa"
+   },
+   {
+    "el": "ο Βόλος",
+    "tr": "Volos",
+    "en": "Volos"
+   },
+   {
+    "el": "ο Τύρναβος",
+    "tr": "Tirnavos",
+    "en": "Tyrnavos"
+   },
+   {
+    "el": "η Ελασσόνα",
+    "tr": "Elassona",
+    "en": "Elassona"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "his-15",
+  "subject": "his",
+  "n": 15,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιον ιεράρχη κρέμασαν οι Τούρκοι το Πάσχα του 1821;",
+   "tr": "1821 Paskalyası'nda Türkler hangi yüksek din adamını astı?",
+   "en": "Which church leader did the Turks hang at Easter 1821?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "τον Παλαιών Πατρών Γερμανό",
+    "tr": "Eski Patras Metropoliti Germanos'u",
+    "en": "Germanos, Metropolitan of Old Patras"
+   },
+   {
+    "el": "τον Πατριάρχη Γρηγόριο Ε΄",
+    "tr": "Patrik V. Grigorios'u",
+    "en": "Patriarch Gregory V"
+   },
+   {
+    "el": "τον Παπαφλέσσα",
+    "tr": "Papaflessas'ı",
+    "en": "Papaflessas"
+   },
+   {
+    "el": "τον Επίσκοπο Ρωγών Ιωσήφ",
+    "tr": "Rogi Piskoposu Iosif'i",
+    "en": "Bishop Joseph of Rogoi"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-16",
+  "subject": "his",
+  "n": 16,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η καταστροφή της Χίου (1822):",
+   "tr": "Sakız'ın yıkımı (1822):",
+   "en": "The destruction of Chios (1822):"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "ήταν μεγάλη επιτυχία των Ελλήνων επαναστατών.",
+    "tr": "Yunan devrimcilerin büyük bir başarısıydı.",
+    "en": "was a great success of the Greek revolutionaries."
+   },
+   {
+    "el": "είναι σύμπλεγμα αγαλμάτων στο Μουσείου του Λούβρου.",
+    "tr": "Louvre Müzesi'nde bir heykel grubudur.",
+    "en": "is a group of statues in the Louvre Museum."
+   },
+   {
+    "el": "συγκίνησε πολύ την ευρωπαϊκή κοινή γνώμη.",
+    "tr": "Avrupa kamuoyunu derinden etkiledi.",
+    "en": "deeply moved European public opinion."
+   },
+   {
+    "el": "οφειλόταν σε σεισμό.",
+    "tr": "bir depremden kaynaklandı.",
+    "en": "was caused by an earthquake."
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-17",
+  "subject": "his",
+  "n": 17,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια μάχη οδήγησε στην απελευθέρωση της Θεσσαλονίκης;",
+   "tr": "Hangi muharebe Selanik'in kurtarılmasına yol açtı?",
+   "en": "Which battle led to the liberation of Thessaloniki?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "του Μπιζανίου",
+    "tr": "Bizani Muharebesi",
+    "en": "the Battle of Bizani"
+   },
+   {
+    "el": "του Σαρανταπόρου",
+    "tr": "Sarantaporo Muharebesi",
+    "en": "the Battle of Sarantaporo"
+   },
+   {
+    "el": "των Γιαννιτσών",
+    "tr": "Yenice (Giannitsa) Muharebesi",
+    "en": "the Battle of Giannitsa"
+   },
+   {
+    "el": "του Σιδηροκάστρου",
+    "tr": "Demirhisar Muharebesi",
+    "en": "the Battle of Sidirokastro"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-18",
+  "subject": "his",
+  "n": 18,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο δίκαιος Αριστείδης ήταν:",
+   "tr": "Adil Aristeides şuydu:",
+   "en": "Aristides the Just was:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "πολιτικός αντίπαλος του Θεμιστοκλή",
+    "tr": "Themistokles'in siyasi rakibi",
+    "en": "a political opponent of Themistocles"
+   },
+   {
+    "el": "βυζαντινός πατριάρχης",
+    "tr": "Bizanslı bir patrik",
+    "en": "a Byzantine patriarch"
+   },
+   {
+    "el": "ήρωας του 1821",
+    "tr": "1821'in bir kahramanı",
+    "en": "a hero of 1821"
+   },
+   {
+    "el": "ήρωας της Αντίστασης",
+    "tr": "Direniş'in bir kahramanı",
+    "en": "a hero of the Resistance"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "his-19",
+  "subject": "his",
+  "n": 19,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Οι Σταυροφόροι κατέλαβαν την Κωνσταντινούπολη:",
+   "tr": "Haçlılar Konstantinopolis'i şu sırada ele geçirdi:",
+   "en": "The Crusaders captured Constantinople:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "κατά την Α΄ Σταυροφορία",
+    "tr": "Birinci Haçlı Seferi sırasında",
+    "en": "during the First Crusade"
+   },
+   {
+    "el": "κατά τη Β΄ Σταυροφορία",
+    "tr": "İkinci Haçlı Seferi sırasında",
+    "en": "during the Second Crusade"
+   },
+   {
+    "el": "κατά τη Γ΄ Σταυροφορία",
+    "tr": "Üçüncü Haçlı Seferi sırasında",
+    "en": "during the Third Crusade"
+   },
+   {
+    "el": "κατά τη Δ΄ Σταυροφορία",
+    "tr": "Dördüncü Haçlı Seferi sırasında",
+    "en": "during the Fourth Crusade"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "his-20",
+  "subject": "his",
+  "n": 20,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Στις 29 Μαΐου 1453 οι Οθωμανοί κατέλαβαν:",
+   "tr": "29 Mayıs 1453'te Osmanlılar şu şehri ele geçirdi:",
+   "en": "On 29 May 1453 the Ottomans captured:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "την Κωνσταντινούπολη",
+    "tr": "Konstantinopolis'i",
+    "en": "Constantinople"
+   },
+   {
+    "el": "την Αθήνα",
+    "tr": "Atina'yı",
+    "en": "Athens"
+   },
+   {
+    "el": "τη Θεσσαλονίκη",
+    "tr": "Selanik'i",
+    "en": "Thessaloniki"
+   },
+   {
+    "el": "την Κρήτη",
+    "tr": "Girit'i",
+    "en": "Crete"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "his-21",
+  "subject": "his",
+  "n": 21,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιο γεγονός προηγήθηκε της ιταλικής επίθεσης κατά της Ελλάδας την 28η Οκτωβρίου 1940;",
+   "tr": "28 Ekim 1940'taki İtalyan saldırısından önce hangi olay yaşandı?",
+   "en": "Which event preceded the Italian attack on Greece on 28 October 1940?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "ο τορπιλισμός της «Έλλης»",
+    "tr": "«Elli» kruvazörünün torpillenmesi",
+    "en": "the torpedoing of the \"Elli\""
+   },
+   {
+    "el": "η επίθεση των Γερμανών κατά της Ελλάδας",
+    "tr": "Almanların Yunanistan'a saldırısı",
+    "en": "the German attack on Greece"
+   },
+   {
+    "el": "η επίθεση των Γερμανών κατά της Σοβιετικής Ένωσης",
+    "tr": "Almanların Sovyetler Birliği'ne saldırısı",
+    "en": "the German attack on the Soviet Union"
+   },
+   {
+    "el": "η απόβαση των Συμμάχων στη Νορμανδία",
+    "tr": "Müttefiklerin Normandiya çıkarması",
+    "en": "the Allied landing in Normandy"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "his-22",
+  "subject": "his",
+  "n": 22,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Οι προεστοί κατά την Τουρκοκρατία:",
+   "tr": "Osmanlı hâkimiyeti döneminde kocabaşılar (proestoi):",
+   "en": "During the Ottoman rule the notables (proestoi):"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "διοικούσαν τις ελληνορθόδοξες κοινότητες.",
+    "tr": "Rum Ortodoks toplulukları yönetirlerdi.",
+    "en": "administered the Greek Orthodox communities."
+   },
+   {
+    "el": "συγκέντρωναν τους φόρους από τους Έλληνες.",
+    "tr": "Yunanlardan vergileri toplarlardı.",
+    "en": "collected the taxes from the Greeks."
+   },
+   {
+    "el": "απέδιδαν τους φόρους στην οθωμανική διοίκηση.",
+    "tr": "vergileri Osmanlı yönetimine teslim ederlerdi.",
+    "en": "handed the taxes over to the Ottoman administration."
+   },
+   {
+    "el": "όλα τα παραπάνω.",
+    "tr": "yukarıdakilerin hepsi.",
+    "en": "all of the above."
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "his-23",
+  "subject": "his",
+  "n": 23,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Στον Α΄ Παγκόσμιο Πόλεμο η Ελλάδα ήταν σύμμαχος:",
+   "tr": "Birinci Dünya Savaşı'nda Yunanistan şunların müttefikiydi:",
+   "en": "In the First World War Greece was an ally of:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "της Εγκάρδιας Συνεννόησης (Αντάντ)",
+    "tr": "İtilaf Devletleri'nin (Antant)",
+    "en": "the Triple Entente (Entente)"
+   },
+   {
+    "el": "της Οθωμανικής Αυτοκρατορίας",
+    "tr": "Osmanlı İmparatorluğu'nun",
+    "en": "the Ottoman Empire"
+   },
+   {
+    "el": "των Βαλκανικών χωρών",
+    "tr": "Balkan ülkelerinin",
+    "en": "the Balkan countries"
+   },
+   {
+    "el": "των Κεντρικών Αυτοκρατοριών",
+    "tr": "İttifak Devletleri'nin (Merkezî İmparatorluklar)",
+    "en": "the Central Powers"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "his-24",
+  "subject": "his",
+  "n": 24,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Σημαντική μορφή του Νεοελληνικού Διαφωτισμού υπήρξε ο:",
+   "tr": "Modern Yunan Aydınlanması'nın önemli bir siması şuydu:",
+   "en": "An important figure of the Modern Greek Enlightenment was:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Αδαμάντιος Κοραής",
+    "tr": "Adamantios Korais",
+    "en": "Adamantios Korais"
+   },
+   {
+    "el": "Οδυσσέας Ελύτης.",
+    "tr": "Odisseas Elitis",
+    "en": "Odysseas Elytis"
+   },
+   {
+    "el": "Αρίσταρχος ο Σάμιος",
+    "tr": "Sisamlı Aristarkhos",
+    "en": "Aristarchus of Samos"
+   },
+   {
+    "el": "Γεώργιος Σεφέρης",
+    "tr": "Yorgos Seferis",
+    "en": "George Seferis"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "his-25",
+  "subject": "his",
+  "n": 25,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο Αρχιστράτηγος των ελληνικών δυνάμεων στον πόλεμο των ετών 1940-41 ήταν ο:",
+   "tr": "1940-41 savaşında Yunan kuvvetlerinin başkomutanı şuydu:",
+   "en": "The commander-in-chief of the Greek forces in the war of 1940-41 was:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Νικόλαος Πλαστήρας",
+    "tr": "Nikolaos Plastiras",
+    "en": "Nikolaos Plastiras"
+   },
+   {
+    "el": "Γεώργιος Χατζανέστης",
+    "tr": "Georgios Hatzanestis",
+    "en": "Georgios Hatzianestis"
+   },
+   {
+    "el": "Αλέξανδρος Παπάγος",
+    "tr": "Aleksandros Papagos",
+    "en": "Alexandros Papagos"
+   },
+   {
+    "el": "Αλέξανδρος Οθωναίος",
+    "tr": "Aleksandros Othonaios",
+    "en": "Alexandros Othonaios"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-26",
+  "subject": "his",
+  "n": 26,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Το 1940 η Ιταλία κήρυξε τον πόλεμο στην Ελλάδα στις:",
+   "tr": "1940'ta İtalya Yunanistan'a şu tarihte savaş ilan etti:",
+   "en": "In 1940 Italy declared war on Greece on:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "28 Οκτωβρίου",
+    "tr": "28 Ekim",
+    "en": "28 October"
+   },
+   {
+    "el": "17 Νοεμβρίου",
+    "tr": "17 Kasım",
+    "en": "17 November"
+   },
+   {
+    "el": "25 Μαρτίου",
+    "tr": "25 Mart",
+    "en": "25 March"
+   },
+   {
+    "el": "15 Αυγούστου",
+    "tr": "15 Ağustos",
+    "en": "15 August"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "his-27",
+  "subject": "his",
+  "n": 27,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο Οδυσσέας Ανδρούτσος έζησε:",
+   "tr": "Odisseas Androutsos şu dönemde yaşadı:",
+   "en": "Odysseas Androutsos lived:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "την περίοδο της Τουρκοκρατίας",
+    "tr": "Osmanlı hâkimiyeti döneminde",
+    "en": "during the period of Ottoman rule"
+   },
+   {
+    "el": "την περίοδο του Όθωνα",
+    "tr": "Otto döneminde",
+    "en": "during the reign of Otto"
+   },
+   {
+    "el": "την περίοδο του Εμφυλίου Πολέμου",
+    "tr": "İç Savaş döneminde",
+    "en": "during the Civil War"
+   },
+   {
+    "el": "την περίοδο του Εθνικού Διχασμού",
+    "tr": "Ulusal Bölünme döneminde",
+    "en": "during the National Schism"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "his-28",
+  "subject": "his",
+  "n": 28,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο πρώτος πρωθυπουργός της Ελλάδας μετά τον Β΄ Παγκόσμιο Πόλεμο ήταν ο:",
+   "tr": "İkinci Dünya Savaşı'ndan sonra Yunanistan'ın ilk başbakanı şuydu:",
+   "en": "The first prime minister of Greece after the Second World War was:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Νικόλαος Πλαστήρας",
+    "tr": "Nikolaos Plastiras",
+    "en": "Nikolaos Plastiras"
+   },
+   {
+    "el": "Γεώργιος Παπανδρέου",
+    "tr": "Georgios Papandreou",
+    "en": "Georgios Papandreou"
+   },
+   {
+    "el": "Γεώργιος Καφαντάρης",
+    "tr": "Georgios Kafantaris",
+    "en": "Georgios Kafantaris"
+   },
+   {
+    "el": "Γεώργιος Μυλωνάς",
+    "tr": "Georgios Mylonas",
+    "en": "Georgios Mylonas"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-29",
+  "subject": "his",
+  "n": 29,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος από τους παρακάτω ιστορικούς θεωρείται ως ο «πατέρας της ιστορίας»;",
+   "tr": "Aşağıdaki tarihçilerden hangisi «tarihin babası» olarak kabul edilir?",
+   "en": "Which of the following historians is regarded as the \"father of history\"?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Ηρόδοτος",
+    "tr": "Herodotos",
+    "en": "Herodotus"
+   },
+   {
+    "el": "Θουκυδίδης",
+    "tr": "Thukydides",
+    "en": "Thucydides"
+   },
+   {
+    "el": "Πλούταρχος",
+    "tr": "Plutarkhos",
+    "en": "Plutarch"
+   },
+   {
+    "el": "Πολύβιος",
+    "tr": "Polybios",
+    "en": "Polybius"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "his-30",
+  "subject": "his",
+  "n": 30,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Στην αρχαία Ελλάδα οι Ολυμπιακοί Αγώνες διοργανώνονταν κάθε:",
+   "tr": "Antik Yunanistan'da Olimpiyat Oyunları her ... bir düzenlenirdi:",
+   "en": "In ancient Greece the Olympic Games were held every:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "ένα χρόνο",
+    "tr": "bir yılda",
+    "en": "one year"
+   },
+   {
+    "el": "δύο χρόνια",
+    "tr": "iki yılda",
+    "en": "two years"
+   },
+   {
+    "el": "τέσσερα χρόνια",
+    "tr": "dört yılda",
+    "en": "four years"
+   },
+   {
+    "el": "πέντε χρόνια",
+    "tr": "beş yılda",
+    "en": "five years"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-31",
+  "subject": "his",
+  "n": 31,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η τουρκική εισβολή στην Κύπρο έγινε:",
+   "tr": "Kıbrıs'a Türk istilası şu tarihte gerçekleşti:",
+   "en": "The Turkish invasion of Cyprus took place:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Την 25η Μαρτίου 1821",
+    "tr": "25 Mart 1821'de",
+    "en": "on 25 March 1821"
+   },
+   {
+    "el": "Την 20η Ιουλίου 1974",
+    "tr": "20 Temmuz 1974'te",
+    "en": "on 20 July 1974"
+   },
+   {
+    "el": "Την 5η Οκτωβρίου 1985",
+    "tr": "5 Ekim 1985'te",
+    "en": "on 5 October 1985"
+   },
+   {
+    "el": "Την 30η Απριλίου 1890",
+    "tr": "30 Nisan 1890'da",
+    "en": "on 30 April 1890"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-32",
+  "subject": "his",
+  "n": 32,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η ανατίναξη της γέφυρας του Γοργοποτάμου (στις 25 Νοεμβρίου 1942) ήταν:",
+   "tr": "Gorgopotamos köprüsünün havaya uçurulması (25 Kasım 1942) şuydu:",
+   "en": "The blowing up of the Gorgopotamos bridge (on 25 November 1942) was:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Μια πράξη απελπισίας των Ελλήνων στη διάρκεια των Βαλκανικών Πολέμων.",
+    "tr": "Balkan Savaşları sırasında Yunanların bir çaresizlik eylemi.",
+    "en": "An act of desperation by the Greeks during the Balkan Wars."
+   },
+   {
+    "el": "Ένα γεγονός για να υπονομευθεί η Χούντα των Συνταγματαρχών.",
+    "tr": "Albaylar Cuntası'nı zayıflatmak için gerçekleştirilen bir olay.",
+    "en": "An event aimed at undermining the Colonels' Junta."
+   },
+   {
+    "el": "Αντίποινα των Τούρκων για να τιμωρήσουν τους Έλληνες για την επανάστασή τους.",
+    "tr": "Türklerin, Yunanları ayaklanmalarından dolayı cezalandırmak için uyguladığı misilleme.",
+    "en": "Reprisals by the Turks to punish the Greeks for their revolution."
+   },
+   {
+    "el": "Η κορυφαία κοινή αντιστασιακή δράση των Ελλήνων στη διάρκεια της Κατοχής κατά τον Β’ Παγκόσμιο Πόλεμο.",
+    "tr": "İkinci Dünya Savaşı'ndaki İşgal döneminde Yunanların en önemli ortak direniş eylemi.",
+    "en": "The foremost joint resistance action of the Greeks during the Occupation in the Second World War."
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "his-33",
+  "subject": "his",
+  "n": 33,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Κατά τη δεκαετία 1950-1960:",
+   "tr": "1950-1960 on yılında:",
+   "en": "During the decade 1950-1960:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "η Ελλάδα ήταν ακόμη υπόδουλη στους Οθωμανούς.",
+    "tr": "Yunanistan hâlâ Osmanlıların boyunduruğu altındaydı.",
+    "en": "Greece was still subjugated to the Ottomans."
+   },
+   {
+    "el": "πολλοί Έλληνες μετανάστευσαν.",
+    "tr": "pek çok Yunan göç etti.",
+    "en": "many Greeks emigrated."
+   },
+   {
+    "el": "η Ελλάδα και η Κύπρος ήταν ενωμένες.",
+    "tr": "Yunanistan ve Kıbrıs birleşikti.",
+    "en": "Greece and Cyprus were united."
+   },
+   {
+    "el": "η Ελλάδα ήταν μέλος της ΕΟΚ.",
+    "tr": "Yunanistan AET üyesiydi.",
+    "en": "Greece was a member of the EEC."
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-34",
+  "subject": "his",
+  "n": 34,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Μετά την προσάρτηση της Θεσσαλίας στο ελληνικό κράτος, τα μεγάλα αγροκτήματα (τσιφλίκια) της περιοχής:",
+   "tr": "Teselya'nın Yunan devletine katılmasından sonra bölgedeki büyük tarım arazileri (çiftlikler):",
+   "en": "After the annexation of Thessaly to the Greek state, the large agricultural estates (chiftliks) of the region:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "διανεμήθηκαν δωρεάν στους επαναστάτες.",
+    "tr": "devrimcilere ücretsiz olarak dağıtıldı.",
+    "en": "were distributed free of charge to the revolutionaries."
+   },
+   {
+    "el": "έμειναν ακαλλιέργητα.",
+    "tr": "ekilmeden kaldı.",
+    "en": "were left uncultivated."
+   },
+   {
+    "el": "αγοράστηκαν από πλούσιους Έλληνες του εξωτερικού.",
+    "tr": "yurt dışındaki zengin Yunanlar tarafından satın alındı.",
+    "en": "were bought by wealthy Greeks from abroad."
+   },
+   {
+    "el": "συνέχισαν να τα εκμεταλλεύονται οι Οθωμανοί ιδιοκτήτες τους.",
+    "tr": "Osmanlı sahipleri tarafından işletilmeye devam etti.",
+    "en": "continued to be exploited by their Ottoman owners."
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-35",
+  "subject": "his",
+  "n": 35,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Οι πιο σημαντικές εθνικές επέτειοι στην Ελλάδα είναι:",
+   "tr": "Yunanistan'daki en önemli ulusal yıldönümleri şunlardır:",
+   "en": "The most important national anniversaries in Greece are:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Η 25η Μαρτίου και η 28η Οκτωβρίου",
+    "tr": "25 Mart ve 28 Ekim",
+    "en": "25 March and 28 October"
+   },
+   {
+    "el": "Η 29η Μαΐου και η 25η Δεκεμβρίου",
+    "tr": "29 Mayıs ve 25 Aralık",
+    "en": "29 May and 25 December"
+   },
+   {
+    "el": "Η 13η Ιανουαρίου και η 23η Ιουνίου",
+    "tr": "13 Ocak ve 23 Haziran",
+    "en": "13 January and 23 June"
+   },
+   {
+    "el": "Η 3η Σεπτεμβρίου και η 1η Μαΐου",
+    "tr": "3 Eylül ve 1 Mayıs",
+    "en": "3 September and 1 May"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "his-36",
+  "subject": "his",
+  "n": 36,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιο από τα παρακάτω αρχιτεκτονικά δημιουργήματα κατασκευάστηκε τη Βυζαντινή εποχή;",
+   "tr": "Aşağıdaki mimari eserlerden hangisi Bizans döneminde inşa edilmiştir?",
+   "en": "Which of the following architectural works was built in the Byzantine era?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Η Ακρόπολη των Αθηνών",
+    "tr": "Atina Akropolisi",
+    "en": "The Acropolis of Athens"
+   },
+   {
+    "el": "Η Αγία Σοφία της Κωνσταντινούπολης",
+    "tr": "Konstantinopolis'teki Ayasofya",
+    "en": "Hagia Sophia in Constantinople"
+   },
+   {
+    "el": "Το Ολυμπιακό Στάδιο της Αθήνας",
+    "tr": "Atina Olimpiyat Stadı",
+    "en": "The Olympic Stadium of Athens"
+   },
+   {
+    "el": "Το Ανάκτορο της Βεργίνας",
+    "tr": "Vergina Sarayı",
+    "en": "The Palace of Vergina"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-37",
+  "subject": "his",
+  "n": 37,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Σπουδαίος Έλληνας Πρωθυπουργός του 19ου αιώνα ήταν:",
+   "tr": "19. yüzyılın önemli bir Yunan Başbakanı şuydu:",
+   "en": "An important Greek Prime Minister of the 19th century was:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Ο Κωνσταντίνος Καραμανλής",
+    "tr": "Konstantinos Karamanlis",
+    "en": "Konstantinos Karamanlis"
+   },
+   {
+    "el": "Ο Θεόδωρος Κολοκοτρώνης",
+    "tr": "Theodoros Kolokotronis",
+    "en": "Theodoros Kolokotronis"
+   },
+   {
+    "el": "Ο Χαρίλαος Τρικούπης",
+    "tr": "Charilaos Trikoupis",
+    "en": "Charilaos Trikoupis"
+   },
+   {
+    "el": "Ο Ρήγας Βελεστινλής",
+    "tr": "Rigas Velestinlis",
+    "en": "Rigas Velestinlis"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-38",
+  "subject": "his",
+  "n": 38,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος είναι ο εικονιζόμενος;",
+   "tr": "Resimdeki kişi kimdir?",
+   "en": "Who is the person pictured?"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία προσώπου, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir kişinin fotoğrafı yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photo of the person, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Ίων Δραγούμης",
+    "tr": "Ion Dragoumis",
+    "en": "Ion Dragoumis"
+   },
+   {
+    "el": "Ελευθέριος Βενιζέλος",
+    "tr": "Eleftherios Venizelos",
+    "en": "Eleftherios Venizelos"
+   },
+   {
+    "el": "Χαρίλαος Τρικούπης",
+    "tr": "Charilaos Trikoupis",
+    "en": "Charilaos Trikoupis"
+   },
+   {
+    "el": "Θεόδωρος Δηλιγιάννης",
+    "tr": "Theodoros Diligiannis",
+    "en": "Theodoros Deligiannis"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-39",
+  "subject": "his",
+  "n": 39,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος είναι ο εικονιζόμενος;",
+   "tr": "Resimdeki kişi kimdir?",
+   "en": "Who is the person pictured?"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία προσώπου, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir kişinin fotoğrafı yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photo of the person, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Ίων Δραγούμης",
+    "tr": "Ion Dragoumis",
+    "en": "Ion Dragoumis"
+   },
+   {
+    "el": "Ελευθέριος Βενιζέλος",
+    "tr": "Eleftherios Venizelos",
+    "en": "Eleftherios Venizelos"
+   },
+   {
+    "el": "Χαρίλαος Τρικούπης",
+    "tr": "Charilaos Trikoupis",
+    "en": "Charilaos Trikoupis"
+   },
+   {
+    "el": "Θεόδωρος Δηλιγιάννης",
+    "tr": "Theodoros Diligiannis",
+    "en": "Theodoros Deligiannis"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-40",
+  "subject": "his",
+  "n": 40,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος είναι ο εικονιζόμενος;",
+   "tr": "Resimdeki kişi kimdir?",
+   "en": "Who is the person pictured?"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία προσώπου, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir kişinin fotoğrafı yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photo of the person, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Ίων Δραγούμης",
+    "tr": "Ion Dragoumis",
+    "en": "Ion Dragoumis"
+   },
+   {
+    "el": "Ελευθέριος Βενιζέλος",
+    "tr": "Eleftherios Venizelos",
+    "en": "Eleftherios Venizelos"
+   },
+   {
+    "el": "Χαρίλαος Τρικούπης",
+    "tr": "Charilaos Trikoupis",
+    "en": "Charilaos Trikoupis"
+   },
+   {
+    "el": "Θεόδωρος Δηλιγιάννης",
+    "tr": "Theodoros Diligiannis",
+    "en": "Theodoros Deligiannis"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "his-41",
+  "subject": "his",
+  "n": 41,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος είναι ο εικονιζόμενος;",
+   "tr": "Resimdeki kişi kimdir?",
+   "en": "Who is the person pictured?"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία προσώπου, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir kişinin fotoğrafı yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photo of the person, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Αθανάσιος Διάκος",
+    "tr": "Athanasios Diakos",
+    "en": "Athanasios Diakos"
+   },
+   {
+    "el": "Γεώργιος Καραϊσκάκης",
+    "tr": "Georgios Karaiskakis",
+    "en": "Georgios Karaiskakis"
+   },
+   {
+    "el": "Θεόδωρος Κολοκοτρώνης",
+    "tr": "Theodoros Kolokotronis",
+    "en": "Theodoros Kolokotronis"
+   },
+   {
+    "el": "Οδυσσέας Ανδρούτσος",
+    "tr": "Odisseas Androutsos",
+    "en": "Odysseas Androutsos"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "his-42",
+  "subject": "his",
+  "n": 42,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος είναι ο εικονιζόμενος;",
+   "tr": "Resimdeki kişi kimdir?",
+   "en": "Who is the person pictured?"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία προσώπου, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir kişinin fotoğrafı yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photo of the person, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Αθανάσιος Διάκος",
+    "tr": "Athanasios Diakos",
+    "en": "Athanasios Diakos"
+   },
+   {
+    "el": "Γεώργιος Καραϊσκάκης",
+    "tr": "Georgios Karaiskakis",
+    "en": "Georgios Karaiskakis"
+   },
+   {
+    "el": "Θεόδωρος Κολοκοτρώνης",
+    "tr": "Theodoros Kolokotronis",
+    "en": "Theodoros Kolokotronis"
+   },
+   {
+    "el": "Οδυσσέας Ανδρούτσος",
+    "tr": "Odisseas Androutsos",
+    "en": "Odysseas Androutsos"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-43",
+  "subject": "his",
+  "n": 43,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος είναι ο εικονιζόμενος;",
+   "tr": "Resimdeki kişi kimdir?",
+   "en": "Who is the person pictured?"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία προσώπου, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir kişinin fotoğrafı yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photo of the person, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Αθανάσιος Διάκος",
+    "tr": "Athanasios Diakos",
+    "en": "Athanasios Diakos"
+   },
+   {
+    "el": "Γεώργιος Καραϊσκάκης",
+    "tr": "Georgios Karaiskakis",
+    "en": "Georgios Karaiskakis"
+   },
+   {
+    "el": "Θεόδωρος Κολοκοτρώνης",
+    "tr": "Theodoros Kolokotronis",
+    "en": "Theodoros Kolokotronis"
+   },
+   {
+    "el": "Οδυσσέας Ανδρούτσος",
+    "tr": "Odisseas Androutsos",
+    "en": "Odysseas Androutsos"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "his-44",
+  "subject": "his",
+  "n": 44,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος είναι ο εικονιζόμενος;",
+   "tr": "Resimdeki kişi kimdir?",
+   "en": "Who is the person pictured?"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία προσώπου, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir kişinin fotoğrafı yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photo of the person, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Μάρκος Μπότσαρης",
+    "tr": "Markos Botsaris",
+    "en": "Markos Botsaris"
+   },
+   {
+    "el": "Ιωάννης Κωλέττης",
+    "tr": "Ioannis Kolettis",
+    "en": "Ioannis Kolettis"
+   },
+   {
+    "el": "Ιωάννης Μακρυγιάννης",
+    "tr": "Ioannis Makriyannis",
+    "en": "Ioannis Makriyannis"
+   },
+   {
+    "el": "Ιωάννης Γκούρας",
+    "tr": "Ioannis Gouras",
+    "en": "Ioannis Gouras"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-45",
+  "subject": "his",
+  "n": 45,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος είναι ο εικονιζόμενος;",
+   "tr": "Resimdeki kişi kimdir?",
+   "en": "Who is the person pictured?"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία προσώπου, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir kişinin fotoğrafı yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photo of the person, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Γεώργιος Παπανδρέου",
+    "tr": "Georgios Papandreou",
+    "en": "Georgios Papandreou"
+   },
+   {
+    "el": "Κωνσταντίνος Μητσοτάκης",
+    "tr": "Konstantinos Mitsotakis",
+    "en": "Konstantinos Mitsotakis"
+   },
+   {
+    "el": "Κωνσταντίνος Καραμανλής",
+    "tr": "Konstantinos Karamanlis",
+    "en": "Konstantinos Karamanlis"
+   },
+   {
+    "el": "Ανδρέας Παπανδρέου",
+    "tr": "Andreas Papandreou",
+    "en": "Andreas Papandreou"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-46",
+  "subject": "his",
+  "n": 46,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος είναι ο εικονιζόμενος;",
+   "tr": "Resimdeki kişi kimdir?",
+   "en": "Who is the person pictured?"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία προσώπου, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir kişinin fotoğrafı yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photo of the person, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Μέγας Κωνσταντίνος",
+    "tr": "Büyük Konstantin",
+    "en": "Constantine the Great"
+   },
+   {
+    "el": "Μέγας Αλέξανδρος",
+    "tr": "Büyük İskender",
+    "en": "Alexander the Great"
+   },
+   {
+    "el": "Μέγας Ναπολέων",
+    "tr": "Büyük Napolyon",
+    "en": "Napoleon the Great"
+   },
+   {
+    "el": "Περικλής",
+    "tr": "Perikles",
+    "en": "Pericles"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-47",
+  "subject": "his",
+  "n": 47,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος είναι ο εικονιζόμενος;",
+   "tr": "Resimdeki kişi kimdir?",
+   "en": "Who is the person pictured?"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία προσώπου, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir kişinin fotoğrafı yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photo of the person, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Ο Κωσταντίνος Καραμανλής",
+    "tr": "Konstantinos Karamanlis",
+    "en": "Konstantinos Karamanlis"
+   },
+   {
+    "el": "Ο Γεώργιος Παπανδρέου",
+    "tr": "Georgios Papandreou",
+    "en": "Georgios Papandreou"
+   },
+   {
+    "el": "Ο Ιωάννης Καποδίστριας",
+    "tr": "Ioannis Kapodistrias",
+    "en": "Ioannis Kapodistrias"
+   },
+   {
+    "el": "Ο Ελευθέριος Βενιζέλος",
+    "tr": "Eleftherios Venizelos",
+    "en": "Eleftherios Venizelos"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-48",
+  "subject": "his",
+  "n": 48,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος είναι ο εικονιζόμενος;",
+   "tr": "Resimdeki kişi kimdir?",
+   "en": "Who is the person pictured?"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία προσώπου, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir kişinin fotoğrafı yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photo of the person, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Ο Παλαιών Πατρών Γερμανός",
+    "tr": "Eski Patras Metropoliti Germanos",
+    "en": "Germanos, Metropolitan of Old Patras"
+   },
+   {
+    "el": "Ο Αρχιεπίσκοπος Κύπρου Μακάριος",
+    "tr": "Kıbrıs Başpiskoposu Makarios",
+    "en": "Archbishop Makarios of Cyprus"
+   },
+   {
+    "el": "Ο Παπαφλέσσας",
+    "tr": "Papaflessas",
+    "en": "Papaflessas"
+   },
+   {
+    "el": "Ο Αρχιεπίσκοπος Δαμασκηνός",
+    "tr": "Başpiskopos Damaskinos",
+    "en": "Archbishop Damaskinos"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-49",
+  "subject": "his",
+  "n": 49,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος είναι ο εικονιζόμενος;",
+   "tr": "Resimdeki kişi kimdir?",
+   "en": "Who is the person pictured?"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία προσώπου, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir kişinin fotoğrafı yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photo of the person, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Ο Κωνσταντίνος Καραμανλής",
+    "tr": "Konstantinos Karamanlis",
+    "en": "Konstantinos Karamanlis"
+   },
+   {
+    "el": "Ο Ευάγγελος Αβέρωφ",
+    "tr": "Evangelos Averof",
+    "en": "Evangelos Averoff"
+   },
+   {
+    "el": "Ο Κωνσταντίνος Μητσοτάκης",
+    "tr": "Konstantinos Mitsotakis",
+    "en": "Konstantinos Mitsotakis"
+   },
+   {
+    "el": "Ο Γεώργιος Παπανδρέου",
+    "tr": "Georgios Papandreou",
+    "en": "Georgios Papandreou"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "his-50",
+  "subject": "his",
+  "n": 50,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η παρακάτω φωτογραφία απεικονίζει:",
+   "tr": "Aşağıdaki fotoğraf şunu gösteriyor:",
+   "en": "The photograph below depicts:"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir fotoğraf yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photograph, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Την καταστροφή της Χίου",
+    "tr": "Sakız'ın yıkımını",
+    "en": "The destruction of Chios"
+   },
+   {
+    "el": "Το Ολοκαύτωμα του Μεσολογγίου",
+    "tr": "Mesolongi Holokostunu",
+    "en": "The Holocaust of Missolonghi"
+   },
+   {
+    "el": "Την απελευθέρωση της Θεσσαλονίκης",
+    "tr": "Selanik'in kurtarılmasını",
+    "en": "The liberation of Thessaloniki"
+   },
+   {
+    "el": "Την καταστροφή της Σμύρνης",
+    "tr": "İzmir'in yıkımını",
+    "en": "The destruction of Smyrna"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "his-51",
+  "subject": "his",
+  "n": 51,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η παρακάτω φωτογραφία απεικονίζει:",
+   "tr": "Aşağıdaki fotoğraf şunu gösteriyor:",
+   "en": "The photograph below depicts:"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir fotoğraf yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photograph, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Δημόσιο εξευτελισμό των Ελλήνων Εβραίων από τους Γερμανούς στη διάρκεια του Β’ Παγκοσμίου Πολέμου",
+    "tr": "İkinci Dünya Savaşı sırasında Yunan Yahudilerinin Almanlar tarafından alenen aşağılanmasını",
+    "en": "The public humiliation of Greek Jews by the Germans during the Second World War"
+   },
+   {
+    "el": "Στρατιωτικά γυμνάσια την εποχή της Ελληνικής Επανάστασης",
+    "tr": "Yunan Devrimi döneminde askerî tatbikatları",
+    "en": "Military exercises at the time of the Greek Revolution"
+   },
+   {
+    "el": "Αιχμαλωσίες την περίοδο των Βαλκανικών Πολέμων",
+    "tr": "Balkan Savaşları döneminde esir alınmaları",
+    "en": "Captures of prisoners during the Balkan Wars"
+   },
+   {
+    "el": "Στρατιωτικές επιδείξεις",
+    "tr": "Askerî gösterileri",
+    "en": "Military displays"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "his-52",
+  "subject": "his",
+  "n": 52,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η παρακάτω φωτογραφία προέρχεται από:",
+   "tr": "Aşağıdaki fotoğraf şuna aittir:",
+   "en": "The photograph below comes from:"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει φωτογραφία, η οποία δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir fotoğraf yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a photograph, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Τους εορτασμούς για την είσοδο της Ελλάδας στην Ενωμένη Ευρώπη",
+    "tr": "Yunanistan'ın Birleşik Avrupa'ya girişi için yapılan kutlamalara",
+    "en": "The celebrations for Greece's entry into a United Europe"
+   },
+   {
+    "el": "Την Απελευθέρωση της Αθήνας τον Οκτώβριο του 1944",
+    "tr": "Ekim 1944'te Atina'nın Kurtuluşu'na",
+    "en": "The Liberation of Athens in October 1944"
+   },
+   {
+    "el": "Την εξέγερση των φοιτητών στο Πολυτεχνείο τον Νοέμβριο του 1973",
+    "tr": "Kasım 1973'teki Politeknik öğrenci ayaklanmasına",
+    "en": "The student uprising at the Polytechnic in November 1973"
+   },
+   {
+    "el": "Τους πανηγυρισμούς για την αποβίβαση του ελληνικού στρατού στη Σμύρνη, τον Μάιο του 1919",
+    "tr": "Mayıs 1919'da Yunan ordusunun İzmir'e çıkışı için yapılan kutlamalara",
+    "en": "The celebrations for the landing of the Greek army in Smyrna in May 1919"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "his-53",
+  "subject": "his",
+  "n": 53,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο παρακάτω ζωγραφικός πίνακας απεικονίζει:",
+   "tr": "Aşağıdaki tablo şunu tasvir ediyor:",
+   "en": "The painting below depicts:"
+  },
+  "note": {
+   "el": "Η αρχική ερώτηση περιλαμβάνει ζωγραφικό πίνακα, ο οποίος δεν εμφανίζεται εδώ.",
+   "tr": "Orijinal soruda bir tablo (resim) yer alıyor; burada gösterilmiyor.",
+   "en": "The original question shows a painting, not shown here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Την απελευθέρωση της Ελλάδας μετά τον Β’ Παγκόσμιο Πόλεμο",
+    "tr": "İkinci Dünya Savaşı'ndan sonra Yunanistan'ın kurtuluşunu",
+    "en": "The liberation of Greece after the Second World War"
+   },
+   {
+    "el": "Την παράδοση της Θεσσαλονίκης από τους Οθωμανούς στους Έλληνες στη διάρκεια του Α’ Βαλκανικού Πολέμου, τον Οκτώβριο του 1912",
+    "tr": "Birinci Balkan Savaşı sırasında, Ekim 1912'de Selanik'in Osmanlılar tarafından Yunanlara teslim edilmesini",
+    "en": "The surrender of Thessaloniki by the Ottomans to the Greeks during the First Balkan War, in October 1912"
+   },
+   {
+    "el": "Την υπογραφή του Συμφώνου Ελληνοτουρκικής Φιλίας",
+    "tr": "Yunan-Türk Dostluk Antlaşması'nın imzalanmasını",
+    "en": "The signing of the Greek-Turkish Friendship Pact"
+   },
+   {
+    "el": "Την Καταστροφή της Χίου το 1822",
+    "tr": "1822'de Sakız'ın Yıkımını",
+    "en": "The Destruction of Chios in 1822"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "his-54",
+  "subject": "his",
+  "n": 54,
+  "section": null,
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε κάθε χρονική περίοδο της στήλης I με ένα γεγονός της στήλης II.",
+   "tr": "Sütun I'deki her zaman dilimini sütun II'deki bir olayla eşleştirin.",
+   "en": "Match each time period in column I with an event in column II."
+  },
+  "note": {
+   "el": "Η επίσημη διατύπωση αναφέρει «χρονική περίοδο», αλλά η στήλη I περιέχει πρόσωπα.",
+   "tr": "Resmî yönergede «zaman dilimi» deniyor, ancak sütun I'de kişi adları yer alıyor.",
+   "en": "The official instruction says \"time period\", but column I lists persons."
+  },
+  "image": false,
+  "left": [
+   {
+    "el": "Αθανάσιος Διάκος",
+    "tr": "Athanasios Diakos",
+    "en": "Athanasios Diakos"
+   },
+   {
+    "el": "Οδυσσέας Ανδρούτσος",
+    "tr": "Odisseas Androutsos",
+    "en": "Odysseas Androutsos"
+   },
+   {
+    "el": "Γεώργιος Καραϊσκάκης",
+    "tr": "Georgios Karaiskakis",
+    "en": "Georgios Karaiskakis"
+   },
+   {
+    "el": "Θεόδωρος Κολοκοτρώνης",
+    "tr": "Theodoros Kolokotronis",
+    "en": "Theodoros Kolokotronis"
+   }
+  ],
+  "right": [
+   {
+    "el": "Μάχη του Φαλήρου",
+    "tr": "Faliro Muharebesi",
+    "en": "Battle of Phaleron"
+   },
+   {
+    "el": "Απελευθέρωση της Τριπολιτσάς",
+    "tr": "Tripoliçe'nin kurtarılması",
+    "en": "Liberation of Tripolitsa"
+   },
+   {
+    "el": "Μάχη της Αλαμάνας",
+    "tr": "Alamana Muharebesi",
+    "en": "Battle of Alamana"
+   },
+   {
+    "el": "Χάνι της Γραβιάς",
+    "tr": "Gravia Hanı",
+    "en": "Inn of Gravia"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    1
+   ]
+  ]
+ },
+ {
+  "id": "his-55",
+  "subject": "his",
+  "n": 55,
+  "section": null,
+  "type": "match",
+  "prompt": {
+   "el": "Να αντιστοιχίσετε κάθε χρονική περίοδο της στήλης I με ένα γεγονός της στήλης II.",
+   "tr": "Sütun I'deki her zaman dilimini sütun II'deki bir olayla eşleştirin.",
+   "en": "Match each time period in column I with an event in column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "1941-1944",
+    "tr": "1941-1944",
+    "en": "1941-1944"
+   },
+   {
+    "el": "1863-1913",
+    "tr": "1863-1913",
+    "en": "1863-1913"
+   },
+   {
+    "el": "1919-1922",
+    "tr": "1919-1922",
+    "en": "1919-1922"
+   },
+   {
+    "el": "1833-1862",
+    "tr": "1833-1862",
+    "en": "1833-1862"
+   }
+  ],
+  "right": [
+   {
+    "el": "Περίοδος Βασιλείας Γεωργίου Α΄",
+    "tr": "I. Georgios'un krallık dönemi",
+    "en": "Reign of King George I"
+   },
+   {
+    "el": "Μικρασιατική Εκστρατεία",
+    "tr": "Küçük Asya Seferi",
+    "en": "Asia Minor Campaign"
+   },
+   {
+    "el": "Περίοδος διακυβέρνησης του Βασιλιά Όθωνα",
+    "tr": "Kral Otto'nun hükümdarlık dönemi",
+    "en": "Period of rule of King Otto"
+   },
+   {
+    "el": "Κατοχή από τις δυνάμεις του Άξονα",
+    "tr": "Mihver kuvvetlerinin işgali",
+    "en": "Occupation by the Axis powers"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    1
+   ],
+   [
+    3,
+    2
+   ]
+  ]
+ },
+ {
+  "id": "his-56",
+  "subject": "his",
+  "n": 56,
+  "section": null,
+  "type": "match",
+  "prompt": {
+   "el": "Να αντιστοιχίσετε κάθε χρονική περίοδο της στήλης I με ένα γεγονός της στήλης II.",
+   "tr": "Sütun I'deki her zaman dilimini sütun II'deki bir olayla eşleştirin.",
+   "en": "Match each time period in column I with an event in column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "502-449 π.Χ.",
+    "tr": "MÖ 502-449",
+    "en": "502-449 BC"
+   },
+   {
+    "el": "330-1453 μ.Χ.",
+    "tr": "MS 330-1453",
+    "en": "AD 330-1453"
+   },
+   {
+    "el": "1453-1821 μ.Χ.",
+    "tr": "MS 1453-1821",
+    "en": "AD 1453-1821"
+   },
+   {
+    "el": "1946-1949 μ.Χ.",
+    "tr": "MS 1946-1949",
+    "en": "AD 1946-1949"
+   }
+  ],
+  "right": [
+   {
+    "el": "Τουρκοκρατία",
+    "tr": "Osmanlı hâkimiyeti dönemi",
+    "en": "Ottoman rule"
+   },
+   {
+    "el": "Εμφύλιος Πόλεμος",
+    "tr": "İç Savaş",
+    "en": "Civil War"
+   },
+   {
+    "el": "Περσικοί Πόλεμοι",
+    "tr": "Pers Savaşları",
+    "en": "Persian Wars"
+   },
+   {
+    "el": "Βυζαντινή περίοδος",
+    "tr": "Bizans dönemi",
+    "en": "Byzantine period"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    1
+   ]
+  ]
+ },
+ {
+  "id": "his-57",
+  "subject": "his",
+  "n": 57,
+  "section": null,
+  "type": "match",
+  "prompt": {
+   "el": "Να αντιστοιχίσετε τους όρους της στήλης Ι με τους όρους της στήλης ΙΙ.",
+   "tr": "Sütun I'deki terimleri sütun II'deki terimlerle eşleştirin.",
+   "en": "Match the terms in column I with the terms in column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Αρματολοί",
+    "tr": "Armatoloslar",
+    "en": "Armatoloi"
+   },
+   {
+    "el": "Φαναριώτες",
+    "tr": "Fenerliler",
+    "en": "Phanariots"
+   },
+   {
+    "el": "Πατριάρχης",
+    "tr": "Patrik",
+    "en": "Patriarch"
+   },
+   {
+    "el": "Δημογέροντες",
+    "tr": "Demogerontlar (topluluk ihtiyarları)",
+    "en": "Demogerontes (community elders)"
+   }
+  ],
+  "right": [
+   {
+    "el": "Κοινοτικοί Άρχοντες",
+    "tr": "Topluluk yöneticileri",
+    "en": "Community leaders"
+   },
+   {
+    "el": "Ανυπότακτοι στους Τούρκους",
+    "tr": "Türklere boyun eğmeyenler",
+    "en": "Those who did not submit to the Turks"
+   },
+   {
+    "el": "Επικεφαλής της Ορθόδοξης Εκκλησίας",
+    "tr": "Ortodoks Kilisesi'nin başı",
+    "en": "Head of the Orthodox Church"
+   },
+   {
+    "el": "Έλληνες άρχοντες της Κωνσταντινούπολης",
+    "tr": "Konstantinopolis'in Yunan ileri gelenleri",
+    "en": "Greek notables of Constantinople"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    1
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    2
+   ],
+   [
+    3,
+    0
+   ]
+  ]
+ },
+ {
+  "id": "his-58",
+  "subject": "his",
+  "n": 58,
+  "section": null,
+  "type": "match",
+  "prompt": {
+   "el": "Να αντιστοιχίσετε τους όρους της στήλης Ι με τους όρους της στήλης ΙΙ.",
+   "tr": "Sütun I'deki terimleri sütun II'deki terimlerle eşleştirin.",
+   "en": "Match the terms in column I with the terms in column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Δάσκαλοι του Γένους",
+    "tr": "Ulusun Öğretmenleri",
+    "en": "Teachers of the Nation"
+   },
+   {
+    "el": "Οδησσός",
+    "tr": "Odessa",
+    "en": "Odessa"
+   },
+   {
+    "el": "Ρήγας Φεραίος",
+    "tr": "Rigas Feraios",
+    "en": "Rigas Feraios"
+   },
+   {
+    "el": "Αλή Πασάς",
+    "tr": "Ali Paşa",
+    "en": "Ali Pasha"
+   }
+  ],
+  "right": [
+   {
+    "el": "Ελληνική παροικία",
+    "tr": "Yunan diaspora topluluğu",
+    "en": "Greek diaspora community"
+   },
+   {
+    "el": "Μορφωμένοι Έλληνες Τουρκοκρατίας",
+    "tr": "Osmanlı hâkimiyeti döneminin eğitimli Yunanları",
+    "en": "Educated Greeks of the Ottoman period"
+   },
+   {
+    "el": "Νεοελληνικός Διαφωτισμός",
+    "tr": "Modern Yunan Aydınlanması",
+    "en": "Modern Greek Enlightenment"
+   },
+   {
+    "el": "Ιωάννινα",
+    "tr": "Ioannina",
+    "en": "Ioannina"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    1
+   ],
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    2
+   ],
+   [
+    3,
+    3
+   ]
+  ]
+ },
+ {
+  "id": "his-59",
+  "subject": "his",
+  "n": 59,
+  "section": null,
+  "type": "match",
+  "prompt": {
+   "el": "Να αντιστοιχίσετε τους όρους της στήλης Ι με τους όρους της στήλης ΙΙ.",
+   "tr": "Sütun I'deki terimleri sütun II'deki terimlerle eşleştirin.",
+   "en": "Match the terms in column I with the terms in column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Γλυπτά του Παρθενώνα",
+    "tr": "Parthenon heykelleri",
+    "en": "Parthenon Sculptures"
+   },
+   {
+    "el": "Υγρό Πυρ",
+    "tr": "Sıvı ateş (Rum ateşi)",
+    "en": "Liquid fire (Greek fire)"
+   },
+   {
+    "el": "Σύνθημα «Ελευθερία ή Θάνατος»",
+    "tr": "«Özgürlük ya da Ölüm» sloganı",
+    "en": "The slogan \"Freedom or Death\""
+   },
+   {
+    "el": "Κατοχή και Αντίσταση",
+    "tr": "İşgal ve Direniş",
+    "en": "Occupation and Resistance"
+   }
+  ],
+  "right": [
+   {
+    "el": "Βυζάντιο",
+    "tr": "Bizans",
+    "en": "Byzantium"
+   },
+   {
+    "el": "Ελληνική Επανάσταση",
+    "tr": "Yunan Devrimi",
+    "en": "Greek Revolution"
+   },
+   {
+    "el": "Ελληνική Ιστορία 20ου αιώνα",
+    "tr": "20. yüzyıl Yunan tarihi",
+    "en": "20th-century Greek history"
+   },
+   {
+    "el": "Αρχαία Αθήνα",
+    "tr": "Antik Atina",
+    "en": "Ancient Athens"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    1
+   ],
+   [
+    3,
+    2
+   ]
+  ]
+ },
+ {
+  "id": "his-60",
+  "subject": "his",
+  "n": 60,
+  "section": null,
+  "type": "match",
+  "prompt": {
+   "el": "Να αντιστοιχίσετε τα πρόσωπα της στήλης Ι με τα έτη της στήλης ΙΙ τα οποία συνδέονται με σημαντικά γεγονότα της ελληνικής ιστορίας.",
+   "tr": "Sütun I'deki kişileri, Yunan tarihinin önemli olaylarıyla bağlantılı olan sütun II'deki yıllarla eşleştirin.",
+   "en": "Match the persons in column I with the years in column II that are connected with important events in Greek history."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Κωνσταντίνος Παλαιολόγος",
+    "tr": "Konstantinos Palaiologos",
+    "en": "Constantine Palaiologos"
+   },
+   {
+    "el": "Ιωάννης Μεταξάς",
+    "tr": "Ioannis Metaksas",
+    "en": "Ioannis Metaxas"
+   },
+   {
+    "el": "Γεώργιος Παπανδρέου",
+    "tr": "Georgios Papandreou",
+    "en": "Georgios Papandreou"
+   },
+   {
+    "el": "Αλέξης Τσίπρας",
+    "tr": "Aleksis Tsipras",
+    "en": "Alexis Tsipras"
+   }
+  ],
+  "right": [
+   {
+    "el": "2015",
+    "tr": "2015",
+    "en": "2015"
+   },
+   {
+    "el": "1964",
+    "tr": "1964",
+    "en": "1964"
+   },
+   {
+    "el": "1453",
+    "tr": "1453",
+    "en": "1453"
+   },
+   {
+    "el": "1940",
+    "tr": "1940",
+    "en": "1940"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    1
+   ],
+   [
+    3,
+    0
+   ]
+  ]
+ },
+ {
+  "id": "his-61",
+  "subject": "his",
+  "n": 61,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Συμπληρώστε τη σωστή απάντηση στο κενό που υπάρχει σε κάθε πρόταση.",
+   "tr": "Her cümledeki boşluğa doğru cevabı yazın.",
+   "en": "Fill in the correct answer in the blank in each sentence."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Ο (1) ___ ήταν βασιλιάς όταν η Μακεδονία υπέταξε και ένωσε όλες τις υπόλοιπες αρχαιοελληνικές πόλεις-κράτη.\nΤελευταίος αυτοκράτορας του Βυζαντίου ήταν ο (2) ___.\nΤην Ελληνική Επανάσταση άρχισε από τη Μολδοβλαχία ο (3) ___.\nΠρώτος κυβερνήτης του νέου ελληνικού κράτους ήταν ο (4) ___.",
+   "tr": "Makedonya diğer tüm antik Yunan şehir devletlerini boyunduruğu altına alıp birleştirdiğinde kral (1) ___ idi.\nBizans'ın son imparatoru (2) ___ idi.\nYunan Devrimi'ni Eflak-Boğdan'dan (3) ___ başlattı.\nYeni Yunan devletinin ilk yöneticisi (4) ___ idi.",
+   "en": "(1) ___ was king when Macedonia subjugated and united all the other ancient Greek city-states.\nThe last emperor of Byzantium was (2) ___.\nThe Greek Revolution was started from Moldavia-Wallachia by (3) ___.\nThe first governor of the new Greek state was (4) ___."
+  },
+  "bank": null,
+  "answers": [
+   {
+    "el": "Φίλιππος Β΄",
+    "tr": "II. Filip",
+    "en": "Philip II"
+   },
+   {
+    "el": "Κωνσταντίνος ΙΑ΄ Παλαιολόγος",
+    "tr": "XI. Konstantinos Palaiologos",
+    "en": "Constantine XI Palaiologos"
+   },
+   {
+    "el": "Αλέξανδρος Υψηλάντης",
+    "tr": "Aleksandros İpsilantis",
+    "en": "Alexandros Ypsilantis"
+   },
+   {
+    "el": "Ιωάννης Καποδίστριας",
+    "tr": "Ioannis Kapodistrias",
+    "en": "Ioannis Kapodistrias"
+   }
+  ]
+ },
+ {
+  "id": "his-62",
+  "subject": "his",
+  "n": 62,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Συμπληρώστε τη σωστή απάντηση στο κενό που υπάρχει σε κάθε πρόταση, σημειώνοντας τον αριθμό που αντιστοιχεί σε κάθε κενό και δίπλα το όνομα της μάχης/ναυμαχίας ταιριάζει στην πρόταση από αυτά που δίνονται.",
+   "tr": "Her cümledeki boşluğa, verilenler arasından cümleye uyan muharebenin/deniz muharebesinin adını yazın.",
+   "en": "Fill in the blank in each sentence with the name of the battle/naval battle that fits the sentence, from those given."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Αθηναίοι και Πλαταιείς νίκησαν τους Πέρσες στη μάχη (1) ___\nΟι Σελτζούκοι νίκησαν τον στρατό του βυζαντινού αυτοκράτορα Ρωμανού Δ΄ Διογένη στη μάχη (2) ___\nΟ Αθανάσιος Διάκος αιχμαλωτίστηκε στη μάχη (3) ___\nΜε τη μάχη (4) ___ άνοιξε ο δρόμος για την απελευθέρωση της Μακεδονίας στον Α΄ Βαλκανικό Πόλεμο.",
+   "tr": "Atinalılar ve Plataialılar Persleri (1) ___ muharebesinde yendi.\nSelçuklular, Bizans imparatoru IV. Romanos Diogenes'in ordusunu (2) ___ muharebesinde yendi.\nAthanasios Diakos (3) ___ muharebesinde esir alındı.\n(4) ___ muharebesiyle Birinci Balkan Savaşı'nda Makedonya'nın kurtarılmasının yolu açıldı.",
+   "en": "The Athenians and Plataeans defeated the Persians at the Battle of (1) ___\nThe Seljuks defeated the army of the Byzantine emperor Romanos IV Diogenes at the Battle of (2) ___\nAthanasios Diakos was captured at the Battle of (3) ___\nWith the Battle of (4) ___ the way was opened for the liberation of Macedonia in the First Balkan War."
+  },
+  "bank": [
+   {
+    "el": "του Σαρανταπόρου",
+    "tr": "Sarantaporo",
+    "en": "Sarantaporo"
+   },
+   {
+    "el": "του Μαραθώνα",
+    "tr": "Maraton",
+    "en": "Marathon"
+   },
+   {
+    "el": "στο Ματζικέρτ",
+    "tr": "Malazgirt",
+    "en": "Manzikert"
+   },
+   {
+    "el": "της Αλαμάνας",
+    "tr": "Alamana",
+    "en": "Alamana"
+   }
+  ],
+  "answers": [
+   {
+    "el": "του Μαραθώνα",
+    "tr": "Maraton",
+    "en": "Marathon"
+   },
+   {
+    "el": "του Ματζικέρτ",
+    "tr": "Malazgirt",
+    "en": "Manzikert"
+   },
+   {
+    "el": "της Αλαμάνας",
+    "tr": "Alamana",
+    "en": "Alamana"
+   },
+   {
+    "el": "του Σαρανταπόρου",
+    "tr": "Sarantaporo",
+    "en": "Sarantaporo"
+   }
+  ]
+ },
+ {
+  "id": "his-63",
+  "subject": "his",
+  "n": 63,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Συμπληρώστε τη σωστή απάντηση στο κενό που υπάρχει σε κάθε πρόταση.",
+   "tr": "Her cümledeki boşluğa doğru cevabı yazın.",
+   "en": "Fill in the correct answer in the blank in each sentence."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Η (1) ___ της Κωνσταντινούπολης από τους (2) ___ το 1453 ήταν η κατάληξη της παρακμής του βυζαντινού κόσμου.\nΣτην (3) ___ Αυτοκρατορία οι υπόδουλοι Έλληνες πλήρωναν πολλούς φόρους, όπως τον (4) ___ φόρο, γνωστό και ως χαράτσι.",
+   "tr": "Konstantinopolis'in 1453'te (2) ___ tarafından (1) ___, Bizans dünyasının gerilemesinin son noktasıydı.\n(3) ___ İmparatorluğu'nda boyunduruk altındaki Yunanlar, haraç olarak da bilinen (4) ___ vergisi gibi pek çok vergi öderdi.",
+   "en": "The (1) ___ of Constantinople by the (2) ___ in 1453 was the culmination of the decline of the Byzantine world.\nIn the (3) ___ Empire the subjugated Greeks paid many taxes, such as the (4) ___ tax, also known as charatsi (haraç)."
+  },
+  "bank": null,
+  "answers": [
+   {
+    "el": "Άλωση",
+    "tr": "ele geçirilmesi",
+    "en": "Fall (capture)"
+   },
+   {
+    "el": "Οθωμανούς",
+    "tr": "Osmanlılar",
+    "en": "Ottomans"
+   },
+   {
+    "el": "Οθωμανική",
+    "tr": "Osmanlı",
+    "en": "Ottoman"
+   },
+   {
+    "el": "κεφαλικό",
+    "tr": "baş",
+    "en": "head (poll)"
+   }
+  ]
+ },
+ {
+  "id": "his-64",
+  "subject": "his",
+  "n": 64,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Συμπληρώστε τη σωστή απάντηση στο κενό που υπάρχει σε κάθε πρόταση.",
+   "tr": "Her cümledeki boşluğa doğru cevabı yazın.",
+   "en": "Fill in the correct answer in the blank in each sentence."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Ο (1) ___ εκτός από θρησκευτικός ηγέτης ήταν και εκπρόσωπος των υπόδουλων ορθόδοξων Χριστιανών.\nΟ (2) ___ έφθασε στην Πελοπόννησο το 1821 για να ηγηθεί της Ελληνικής Επανάστασης.\nΟ (3) ___ ίδρυσε το Ορφανοτροφείο στην Αίγινα το 1828.\nΟ (4) ___ σκοτώθηκε στο Μανιάκι τον Μάϊο του 1825.",
+   "tr": "(1) ___ dinî lider olmasının yanı sıra boyunduruk altındaki Ortodoks Hristiyanların temsilcisiydi.\n(2) ___ Yunan Devrimi'ne önderlik etmek için 1821'de Peloponez'e geldi.\n(3) ___ 1828'de Egina'da Yetimhane'yi kurdu.\n(4) ___ Mayıs 1825'te Maniaki'de öldürüldü.",
+   "en": "The (1) ___, besides being a religious leader, was also the representative of the subjugated Orthodox Christians.\n(2) ___ arrived in the Peloponnese in 1821 to lead the Greek Revolution.\n(3) ___ founded the Orphanage on Aegina in 1828.\n(4) ___ was killed at Maniaki in May 1825."
+  },
+  "bank": null,
+  "answers": [
+   {
+    "el": "Πατριάρχης",
+    "tr": "Patrik",
+    "en": "Patriarch"
+   },
+   {
+    "el": "Δημήτριος Υψηλάντης",
+    "tr": "Dimitrios İpsilantis",
+    "en": "Demetrios Ypsilantis"
+   },
+   {
+    "el": "Ιωάννης Καποδίστριας",
+    "tr": "Ioannis Kapodistrias",
+    "en": "Ioannis Kapodistrias"
+   },
+   {
+    "el": "Παπαφλέσσας",
+    "tr": "Papaflessas",
+    "en": "Papaflessas"
+   }
+  ]
+ },
+ {
+  "id": "his-65",
+  "subject": "his",
+  "n": 65,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Συμπληρώστε τη σωστή απάντηση στο κενό που υπάρχει σε κάθε πρόταση.",
+   "tr": "Her cümledeki boşluğa doğru cevabı yazın.",
+   "en": "Fill in the correct answer in the blank in each sentence."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Το πιο γνωστό (1) ___ της αρχαίας Ελλάδας ήταν αυτό που υπήρχε στους (2) ___. Εκεί οι μάντεις έδιναν χρησμούς για να βοηθήσουν τους ανθρώπους να πάρουν σωστές αποφάσεις.\nΣτους (3) ___ αγώνες απαγορευόταν η συμμετοχή των γυναικών. Το (4) ___ ήταν ένα από τα σημαντικότερα αθλήματα.",
+   "tr": "Antik Yunanistan'ın en ünlü (1) ___, (2) ___ şehrinde bulunanıydı. Orada kâhinler, insanların doğru kararlar almasına yardımcı olmak için kehanetlerde bulunurdu.\n(3) ___ oyunlarına kadınların katılması yasaktı. (4) ___ en önemli spor dallarından biriydi.",
+   "en": "The best-known (1) ___ of ancient Greece was the one at (2) ___. There the seers gave oracles to help people make the right decisions.\nWomen were forbidden from taking part in the (3) ___ Games. The (4) ___ was one of the most important sports."
+  },
+  "bank": null,
+  "answers": [
+   {
+    "el": "Μαντείο",
+    "tr": "kehanet merkezi",
+    "en": "oracle"
+   },
+   {
+    "el": "Δελφούς",
+    "tr": "Delfi",
+    "en": "Delphi"
+   },
+   {
+    "el": "Ολυμπιακούς",
+    "tr": "Olimpiyat",
+    "en": "Olympic"
+   },
+   {
+    "el": "Πένταθλο",
+    "tr": "Pentatlon",
+    "en": "pentathlon"
+   }
+  ]
+ },
+ {
+  "id": "his-66",
+  "subject": "his",
+  "n": 66,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Συμπληρώστε τη σωστή απάντηση στο κενό που υπάρχει σε κάθε πρόταση.",
+   "tr": "Her cümledeki boşluğa doğru cevabı yazın.",
+   "en": "Fill in the correct answer in the blank in each sentence."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "«Βαυαροκρατία» ονομάζουμε την περίοδο 1833-1835 (από τη στιγμή που ο (1) ___ ήρθε στην Ελλάδα μέχρι τη στιγμή που ενηλικιώθηκε), διάστημα στο οποίο τη διακυβέρνηση του κράτους είχαν τρεις Βαυαροί αξιωματούχοι (Άρμανσμπεργκ, Μάουρερ και Χάιντεκ) που είχε διορίσει ο πατέρας του ως αντιβασιλείς.\n(2) ___ στην αρχαία Αθήνα ονομαζόταν η έμμεση φορολογία (λειτουργία), κατά την οποία κάποιος πλούσιος αναλάμβανε τα έξοδα για να παρουσιαστεί (ανέβει) στο θέατρο μια τραγωδία.\n(3) ___ υπήρξε ο πρώτος κυβερνήτης της Ελλάδας.\n(4) ___ ονομάστηκαν οι τεράστιες διαδηλώσεις του 1965, λόγω εξαναγκασμού σε παραίτηση της κυβέρνησης Γ. Παπανδρέου από τον βασιλιά.",
+   "tr": "«Bavyera yönetimi» (Vavarokratia), (1) ___ Yunanistan'a geldiği andan reşit olduğu ana kadar süren 1833-1835 dönemine verilen addır; bu sürede devleti, babasının naip olarak atadığı üç Bavyeralı yetkili (Armansperg, Maurer ve Heideck) yönetiyordu.\nAntik Atina'da, varlıklı bir kişinin bir tragedyanın tiyatroda sahnelenmesinin masraflarını üstlendiği dolaylı vergilendirmeye (leitourgia) (2) ___ denirdi.\nYunanistan'ın ilk yöneticisi (3) ___ idi.\n1965'te G. Papandreou hükümetinin kral tarafından istifaya zorlanması nedeniyle yapılan dev gösterilere (4) ___ adı verildi.",
+   "en": "\"Bavarokratia\" (Bavarian rule) is the name we give to the period 1833-1835 (from the moment (1) ___ came to Greece until he came of age), during which the state was governed by three Bavarian officials (Armansperg, Maurer and Heideck) whom his father had appointed as regents.\nIn ancient Athens, (2) ___ was the name of the indirect taxation (liturgy) whereby a wealthy person took on the costs of staging a tragedy in the theatre.\n(3) ___ was the first governor of Greece.\nThe huge demonstrations of 1965, held because the king forced the G. Papandreou government to resign, were called the (4) ___."
+  },
+  "bank": null,
+  "answers": [
+   {
+    "el": "Ο Όθωνας",
+    "tr": "Otto",
+    "en": "Otto"
+   },
+   {
+    "el": "Χορηγία",
+    "tr": "Koregia (khoregia)",
+    "en": "Choregia"
+   },
+   {
+    "el": "Ο Ιωάννης Καποδίστριας",
+    "tr": "Ioannis Kapodistrias",
+    "en": "Ioannis Kapodistrias"
+   },
+   {
+    "el": "Ιουλιανά",
+    "tr": "Iouliana (Temmuz Olayları)",
+    "en": "Iouliana (July Events)"
+   }
+  ]
+ },
+ {
+  "id": "his-67",
+  "subject": "his",
+  "n": 67,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Συμπληρώστε τη σωστή απάντηση στο κενό που υπάρχει σε κάθε πρόταση.",
+   "tr": "Her cümledeki boşluğa doğru cevabı yazın.",
+   "en": "Fill in the correct answer in the blank in each sentence."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Η περίοδος της σύγχρονης ελληνικής ιστορίας, μετά την πτώση της δικτατορίας τον Ιούλιο του 1974, ονομάζεται (1) ___.\nΗ περίοδος του 5ου αιώνα π.Χ., όταν ο ισχυρότερος πολιτικός άνδρας στην αρχαία Αθήνα ήταν ο Περικλής, άνθισε η Δημοκρατία, άκμασαν τα γράμματα και οι τέχνες και έγιναν τα μεγάλα έργα στην Ακρόπολη, ονομάζεται (2) ___.\nΤο παγκόσμιο κίνημα συμπαράστασης στους Έλληνες κατά τη διάρκεια της Ελληνικής Επανάστασης ονομάζεται (3) ___.\nΗ περίοδος 1904-1908, όταν Έλληνες και Βούλγαροι αντάρτες συγκρούσθηκαν μεταξύ τους στα εδάφη της Μακεδονίας που τότε τα κατείχαν οι Οθωμανοί, ονομάστηκε (4) ___",
+   "tr": "Temmuz 1974'te diktatörlüğün çöküşünden sonraki modern Yunan tarihi dönemine (1) ___ denir.\nAntik Atina'da en güçlü siyasetçinin Perikles olduğu, demokrasinin geliştiği, edebiyat ve sanatların doruğa ulaştığı ve Akropolis'teki büyük eserlerin yapıldığı MÖ 5. yüzyıl dönemine (2) ___ denir.\nYunan Devrimi sırasında Yunanlara destek veren dünya çapındaki harekete (3) ___ denir.\nYunan ve Bulgar çetecilerin, o dönemde Osmanlıların elinde bulunan Makedonya topraklarında birbirleriyle çatıştığı 1904-1908 dönemine (4) ___ adı verildi.",
+   "en": "The period of modern Greek history after the fall of the dictatorship in July 1974 is called the (1) ___.\nThe period of the 5th century BC, when the most powerful statesman in ancient Athens was Pericles, democracy flourished, letters and the arts reached their peak and the great works on the Acropolis were built, is called the (2) ___.\nThe worldwide movement of support for the Greeks during the Greek Revolution is called (3) ___.\nThe period 1904-1908, when Greek and Bulgarian guerrillas clashed with each other in the territories of Macedonia then held by the Ottomans, was called the (4) ___"
+  },
+  "bank": null,
+  "answers": [
+   {
+    "el": "Μεταπολίτευση",
+    "tr": "Metapolitefsi (Rejim Değişikliği)",
+    "en": "Metapolitefsi (regime change)"
+   },
+   {
+    "el": "Χρυσός Αιώνας",
+    "tr": "Altın Çağ",
+    "en": "Golden Age"
+   },
+   {
+    "el": "Φιλελληνισμός",
+    "tr": "Filhelenizm",
+    "en": "Philhellenism"
+   },
+   {
+    "el": "Μακεδονικός Αγώνας",
+    "tr": "Makedonya Mücadelesi",
+    "en": "Macedonian Struggle"
+   }
+  ]
+ },
+ {
+  "id": "his-68",
+  "subject": "his",
+  "n": 68,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Συμπληρώστε τη σωστή απάντηση στο κενό που υπάρχει σε κάθε πρόταση, σημειώνοντας τον αριθμό που αντιστοιχεί σε κάθε κενό και δίπλα τη σωστή λέξη που ταιριάζει από αυτές που δίνονται.",
+   "tr": "Her cümledeki boşluğu, verilenler arasından uygun olan doğru kelimeyle doldurun.",
+   "en": "Fill in the blank in each sentence with the correct word that fits, from those given."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Η Ελλάδα έγινε ανεξάρτητο (1) ___ το 1830.\nΤο 1974 αποκαταστάθηκε στην Ελλάδα (2) ___.\n(3) ___ ήταν το βουνό όπου κατοικούσαν οι 12 θεοί.\nΠρωτεύουσα της Βυζαντινής Αυτοκρατορίας ήταν (4) ___.",
+   "tr": "Yunanistan 1830'da bağımsız bir (1) ___ oldu.\n1974'te Yunanistan'da (2) ___ yeniden kuruldu.\n(3) ___, 12 tanrının yaşadığı dağdı.\nBizans İmparatorluğu'nun başkenti (4) ___ idi.",
+   "en": "Greece became an independent (1) ___ in 1830.\nIn 1974 (2) ___ was restored in Greece.\n(3) ___ was the mountain where the 12 gods lived.\nThe capital of the Byzantine Empire was (4) ___."
+  },
+  "bank": [
+   {
+    "el": "η Κωνσταντινούπολη",
+    "tr": "Konstantinopolis",
+    "en": "Constantinople"
+   },
+   {
+    "el": "η Δημοκρατία",
+    "tr": "Demokrasi",
+    "en": "Democracy"
+   },
+   {
+    "el": "ο Όλυμπος",
+    "tr": "Olimpos",
+    "en": "Olympus"
+   },
+   {
+    "el": "κράτος",
+    "tr": "devlet",
+    "en": "state"
+   }
+  ],
+  "answers": [
+   {
+    "el": "κράτος",
+    "tr": "devlet",
+    "en": "state"
+   },
+   {
+    "el": "Η Δημοκρατία",
+    "tr": "Demokrasi",
+    "en": "Democracy"
+   },
+   {
+    "el": "Ο Όλυμπος",
+    "tr": "Olimpos",
+    "en": "Olympus"
+   },
+   {
+    "el": "η Κωνσταντινούπολη",
+    "tr": "Konstantinopolis",
+    "en": "Constantinople"
+   }
+  ]
+ },
+ {
+  "id": "his-69",
+  "subject": "his",
+  "n": 69,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Ο σπουδαίος Φιλέλληνας Λόρδος Βύρωνας πέθανε στο Μεσολόγγι το 1824.",
+     "tr": "Büyük filhelen Lord Byron 1824'te Mesolongi'de öldü.",
+     "en": "The great Philhellene Lord Byron died in Missolonghi in 1824."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο Βασιλιάς Γεώργιος Α’ δολοφονήθηκε στη Θεσσαλονίκη το 1913.",
+     "tr": "Kral I. Georgios 1913'te Selanik'te suikasta kurban gitti.",
+     "en": "King George I was assassinated in Thessaloniki in 1913."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Έλληνες πρόσφυγες είχαν φθάσει στην Ελλάδα και πριν από τη Μικρασιατική Καταστροφή.",
+     "tr": "Yunan mülteciler Küçük Asya Felaketi'nden önce de Yunanistan'a gelmişti.",
+     "en": "Greek refugees had arrived in Greece even before the Asia Minor Catastrophe."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Θεσσαλονίκη ενσωματώθηκε στην Ελλάδα το 1830.",
+     "tr": "Selanik 1830'da Yunanistan'a katıldı.",
+     "en": "Thessaloniki was incorporated into Greece in 1830."
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "his-70",
+  "subject": "his",
+  "n": 70,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Στους γνήσιους Σπαρτιάτες στην αρχαία Σπάρτη απαγορευόταν να εργάζονται, ώστε να ασχολούνται μόνο με τα στρατιωτικά και τα θέματα της πολιτείας.",
+     "tr": "Antik Sparta'da asıl Spartalıların çalışması yasaktı; böylece yalnızca askerlik ve devlet işleriyle uğraşırlardı.",
+     "en": "In ancient Sparta the true Spartiates were forbidden to work, so that they dealt only with military matters and affairs of the state."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Οι Φαναριώτες ήταν Έλληνες από αρχοντικές οικογένειες που κατοικούσαν στο Φανάρι της Κάτω Ιταλίας, μάθαιναν ξένες γλώσσες, σπούδαζαν στη Δύση και πολλοί από αυτούς σταδιοδρομούσαν στην οθωμανική διοίκηση.",
+     "tr": "Fenerliler, Güney İtalya'daki Fener'de yaşayan, yabancı diller öğrenen, Batı'da eğitim gören ve birçoğu Osmanlı yönetiminde kariyer yapan soylu ailelerden Yunanlardı.",
+     "en": "The Phanariots were Greeks from noble families who lived in the Phanar of southern Italy, learned foreign languages, studied in the West, and many of whom made careers in the Ottoman administration."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Ο Ιωάννης Μεταξάς κήρυξε δικτατορία στις 4 Αυγούστου του 1936.",
+     "tr": "Ioannis Metaksas 4 Ağustos 1936'da diktatörlük ilan etti.",
+     "en": "Ioannis Metaxas declared a dictatorship on 4 August 1936."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Όταν αναγνωρίστηκε η ανεξαρτησία της Κύπρου, ορίστηκαν ως εγγυήτριες δυνάμεις η Ελλάδα, η Τουρκία και οι ΗΠΑ.",
+     "tr": "Kıbrıs'ın bağımsızlığı tanındığında garantör güçler olarak Yunanistan, Türkiye ve ABD belirlendi.",
+     "en": "When the independence of Cyprus was recognised, Greece, Turkey and the USA were designated as guarantor powers."
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "his-71",
+  "subject": "his",
+  "n": 71,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Εξαιτίας του Εμφυλίου Πολέμου περίπου 80.000 πολιτικοί πρόσφυγες κατέφυγαν σε χώρες της Ανατολικής Ευρώπης.",
+     "tr": "İç Savaş nedeniyle yaklaşık 80.000 siyasi mülteci Doğu Avrupa ülkelerine sığındı.",
+     "en": "Because of the Civil War about 80,000 political refugees fled to countries of Eastern Europe."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Μετά τον Πελοποννησιακό Πόλεμο στην Αθήνα επιβλήθηκε μία κυβέρνηση 40 ολιγαρχικών, που έμειναν γνωστοί ως οι 40 τύραννοι.",
+     "tr": "Peloponez Savaşı'ndan sonra Atina'da 40 oligarktan oluşan ve 40 Tiran olarak bilinen bir yönetim kuruldu.",
+     "en": "After the Peloponnesian War a government of 40 oligarchs, who became known as the 40 Tyrants, was imposed on Athens."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Ο Μέγας Αλέξανδρος δεν απέκτησε ποτέ παιδιά.",
+     "tr": "Büyük İskender'in hiç çocuğu olmadı.",
+     "en": "Alexander the Great never had children."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Οι αδελφοί Κύριλλος και Μεθόδιος, γνωστοί ως «εκχριστιανιστές των Σλάβων», ήταν Θεσσαλονικείς.",
+     "tr": "«Slavları Hristiyanlaştıranlar» olarak bilinen Kiril ve Metodiy kardeşler Selaniklidir.",
+     "en": "The brothers Cyril and Methodius, known as the \"Christianisers of the Slavs\", were from Thessaloniki."
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "his-72",
+  "subject": "his",
+  "n": 72,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Οι αρματολοί ήταν ένοπλα σώματα την περίοδο του Β’ Παγκοσμίου Πολέμου.",
+     "tr": "Armatoloslar, İkinci Dünya Savaşı döneminde silahlı birliklerdi.",
+     "en": "The armatoloi were armed corps during the Second World War."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Μεγάλη Ελλάδα ονομάστηκε η Ιωνία της Μικράς Ασίας, λόγω του Α’ ελληνικού αποικισμού.",
+     "tr": "Birinci Yunan kolonizasyonu nedeniyle Küçük Asya'daki İyonya'ya Büyük Yunanistan (Magna Graecia) adı verildi.",
+     "en": "Ionia in Asia Minor was called Magna Graecia (Greater Greece) because of the first Greek colonisation."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Χρυσός αιώνας ήταν η περίοδος του β’ μισού του 5ου αιώνα π.Χ. κατά την οποία η Αθήνα γνώρισε τεράστια πρόοδο.",
+     "tr": "Altın Çağ, Atina'nın büyük ilerleme kaydettiği MÖ 5. yüzyılın ikinci yarısıydı.",
+     "en": "The Golden Age was the period of the second half of the 5th century BC during which Athens made tremendous progress."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Εθνικός διχασμός ήταν η εμφύλια διαμάχη, από το 1915 ως το 1917, αν η Ελλάδα θα συμμετείχε στον Α΄ Παγκόσμιο Πόλεμο.",
+     "tr": "Ulusal Bölünme, 1915'ten 1917'ye kadar Yunanistan'ın Birinci Dünya Savaşı'na katılıp katılmayacağı konusundaki iç çekişmeydi.",
+     "en": "The National Schism was the internal conflict, from 1915 to 1917, over whether Greece would take part in the First World War."
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "his-73",
+  "subject": "his",
+  "n": 73,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Μολών λαβέ ήταν η γενναία απάντηση που έδωσε ο βασιλιάς των Σπαρτιατών Λεωνίδας στον Πέρση βασιλιά Ξέρξη, όταν απαίτησε στις Θερμοπύλες το 480 π.Χ. να παραδώσουν οι ολιγάριθμοι Έλληνες πολεμιστές τα όπλα τους.",
+     "tr": "«Molon labe» (gel de al), Spartalıların kralı Leonidas'ın, Pers kralı Kserkses MÖ 480'de Termopylai'de sayıca az olan Yunan savaşçıların silahlarını teslim etmesini istediğinde verdiği cesur cevaptı.",
+     "en": "\"Molon labe\" (come and take them) was the brave reply given by the Spartan king Leonidas to the Persian king Xerxes when, at Thermopylae in 480 BC, he demanded that the few Greek warriors surrender their arms."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Σάρισα ήταν ένα δόρυ, μεγάλο σε μήκος, που χρησιμοποιούσε στην αρχαιότητα η μακεδονική φάλαγγα.",
+     "tr": "Sarissa, antik çağda Makedon falanksının kullandığı uzun bir mızraktı.",
+     "en": "The sarissa was a long spear used in antiquity by the Macedonian phalanx."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Στάση του Νίκα ήταν η εξέγερση εναντίον του Ιουστινιανού Α΄ το 532 στην Κωνσταντινούπολη, που ξεκίνησε από σύγκρουση οπαδών ομάδων στο ιπποδρόμιο.",
+     "tr": "Nika İsyanı, 532'de Konstantinopolis'te I. Justinianos'a karşı çıkan ve hipodromdaki takım taraftarları arasındaki bir çatışmayla başlayan ayaklanmaydı.",
+     "en": "The Nika riot was the uprising against Justinian I in 532 in Constantinople, which began with a clash between fans of teams at the hippodrome."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο ναός του Ποσειδώνα στο Σούνιο κτίστηκε από τους Σπαρτιάτες.",
+     "tr": "Sounion'daki Poseidon Tapınağı Spartalılar tarafından inşa edildi.",
+     "en": "The Temple of Poseidon at Sounion was built by the Spartans."
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "his-74",
+  "subject": "his",
+  "n": 74,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Η Απέλλα ήταν η γενική συνέλευση των πολιτών στην αρχαία Σπάρτη.",
+     "tr": "Apella, antik Sparta'da yurttaşların genel meclisiydi.",
+     "en": "The Apella was the general assembly of citizens in ancient Sparta."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Οι ακρίτες ήταν φύλακες στα βυζαντινά σύνορα («άκρα»)",
+     "tr": "Akritler, Bizans sınırlarındaki («uçlar») muhafızlardı.",
+     "en": "The akritai were guards on the Byzantine frontiers (\"akra\")."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Δεν υπήρξε ποτέ Δεσποτάτο της Κρήτης.",
+     "tr": "Hiçbir zaman bir Girit Despotluğu olmadı.",
+     "en": "There was never a Despotate of Crete."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ελληνιστικά βασίλεια ονομάζουμε τα βασίλεια που προέκυψαν από τη διάσπαση της αυτοκρατορίας του Μεγάλου Αλεξάνδρου μετά τον θάνατό του.",
+     "tr": "Helenistik krallıklar, Büyük İskender'in ölümünden sonra imparatorluğunun bölünmesiyle ortaya çıkan krallıklara verilen addır.",
+     "en": "Hellenistic kingdoms is the name we give to the kingdoms that emerged from the break-up of Alexander the Great's empire after his death."
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "his-75",
+  "subject": "his",
+  "n": 75,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Σύνταγμα της Επιδαύρου αποκαλείται το Σύνταγμα που παραχώρησε ο Όθωνας μετά την επανάσταση της 3ης Σεπτεμβρίου 1843.",
+     "tr": "Epidavros Anayasası, Otto'nun 3 Eylül 1843 ayaklanmasından sonra verdiği anayasaya verilen addır.",
+     "en": "The Constitution of Epidaurus is the name given to the Constitution granted by Otto after the revolution of 3 September 1843."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Σεισάχθεια ήταν ένα νομοθέτημα του Ιουστινιανού στο Βυζάντιο, με το οποίο ρυθμίζονταν τα χρέη και απαγορευόταν να γίνεται κανείς δούλος από χρέη.",
+     "tr": "Seisakhtheia, Bizans'ta Justinianos'un borçları düzenleyen ve kimsenin borç yüzünden köle olmasını yasaklayan bir yasasıydı.",
+     "en": "The Seisachtheia was a law of Justinian in Byzantium which regulated debts and prohibited anyone from becoming a slave because of debts."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Αυτοκρατορία της Τραπεζούντας ήταν ένα από τα κράτη που κατέλαβε ο Μέγας Αλέξανδρος.",
+     "tr": "Trabzon İmparatorluğu, Büyük İskender'in ele geçirdiği devletlerden biriydi.",
+     "en": "The Empire of Trebizond was one of the states conquered by Alexander the Great."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Ελληνιστικά βασίλεια ονομάζουμε τα βασίλεια που προέκυψαν από τη διάσπαση της αυτοκρατορίας του Μεγάλου Αλεξάνδρου μετά τον θάνατό του.",
+     "tr": "Helenistik krallıklar, Büyük İskender'in ölümünden sonra imparatorluğunun bölünmesiyle ortaya çıkan krallıklara verilen addır.",
+     "en": "Hellenistic kingdoms is the name we give to the kingdoms that emerged from the break-up of Alexander the Great's empire after his death."
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "his-76",
+  "subject": "his",
+  "n": 76,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Ως «Λαυρεωτικά» περιγράφεται η νομική διαφορά μεταξύ της γαλλοϊταλικής εταιρείας Roux - Serpieri - Fressynet CIE με το ελληνικό δημόσιο, σχετικά με την έκταση της εκμετάλλευσης των μεταλλείων του Λαυρίου, η οποία οδήγησε σε χρηματιστηριακό σκάνδαλο.",
+     "tr": "«Lavreotika», Fransız-İtalyan şirketi Roux - Serpieri - Fressynet CIE ile Yunan devleti arasında Lavrio madenlerinin işletilme kapsamına ilişkin, bir borsa skandalına yol açan hukuki anlaşmazlığı ifade eder.",
+     "en": "\"Lavreotika\" describes the legal dispute between the Franco-Italian company Roux - Serpieri - Fressynet CIE and the Greek state over the extent of exploitation of the Lavrio mines, which led to a stock-market scandal."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο Αλέξανδρος Παπαναστασίου ήταν γνωστός συντηρητικός πολιτικός.",
+     "tr": "Aleksandros Papanastasiou tanınmış bir muhafazakâr politikacıydı.",
+     "en": "Alexandros Papanastasiou was a well-known conservative politician."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Σε σύγκριση με τις γυναίκες της αρχαίας Σπάρτης, οι γυναίκες της αρχαίας Αθήνας ζούσαν με περισσότερους περιορισμούς στην καθημερινή τους ζωή.",
+     "tr": "Antik Sparta kadınlarıyla karşılaştırıldığında, antik Atina kadınları gündelik hayatlarında daha fazla kısıtlamayla yaşıyordu.",
+     "en": "Compared with the women of ancient Sparta, the women of ancient Athens lived with more restrictions in their daily life."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Μάνη και τα Σφακιά υπήρξαν την περίοδο της Τουρκοκρατίας αυτόνομες περιοχές που πλήρωναν μόνο φόρο υποτέλειας.",
+     "tr": "Mani ve Sfakia, Osmanlı hâkimiyeti döneminde yalnızca tabiiyet vergisi ödeyen özerk bölgelerdi.",
+     "en": "Mani and Sfakia were, during the period of Ottoman rule, autonomous regions that paid only a tribute."
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "his-77",
+  "subject": "his",
+  "n": 77,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Στόχος της πολιτικής του Μεγάλου Αλεξάνδρου ήταν όλοι μέσα στην αυτοκρατορία του, ανεξαρτήτως έθνους, να μην αισθάνονται υποταγμένοι.",
+     "tr": "Büyük İskender'in politikasının amacı, imparatorluğundaki herkesin, hangi ulustan olursa olsun, kendini boyun eğdirilmiş hissetmemesiydi.",
+     "en": "The aim of Alexander the Great's policy was that everyone in his empire, regardless of nation, should not feel subjugated."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο Στρατάρχης Αλέξανδρος Παπάγος έγινε δικτάτορας με το σύνθημα «Ελληνικός Συναγερμός».",
+     "tr": "Mareşal Aleksandros Papagos «Yunan Seferberliği» (Ellinikos Synagermos) sloganıyla diktatör oldu.",
+     "en": "Field Marshal Alexandros Papagos became a dictator with the slogan \"Greek Rally\"."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "«Πανελλήνια ιδέα» ονομάστηκε η ιδέα της πολιτικής ένωσης των Ελλήνων τον 4ο αι. π.Χ και του κοινού πολέμου κατά των βαρβάρων (Περσών).",
+     "tr": "«Panhelen idea», MÖ 4. yüzyılda Yunanların siyasi birliği ve barbarlara (Perslere) karşı ortak savaş fikrine verilen addır.",
+     "en": "The \"Panhellenic idea\" was the name given to the idea of the political union of the Greeks in the 4th century BC and of a common war against the barbarians (Persians)."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Επικεφαλής της Ένωσης Κέντρου, όταν ιδρύθηκε, ήταν ο Ανδρέας Παπανδρέου.",
+     "tr": "Merkez Birliği kurulduğunda başında Andreas Papandreou vardı.",
+     "en": "When the Centre Union was founded, its leader was Andreas Papandreou."
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "his-78",
+  "subject": "his",
+  "n": 78,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Ο φιλόσοφος Αριστοτέλης ήταν δάσκαλος του Μεγάλου Αλεξάνδρου.",
+     "tr": "Filozof Aristoteles, Büyük İskender'in öğretmeniydi.",
+     "en": "The philosopher Aristotle was the teacher of Alexander the Great."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο Πελοποννησιακός Πόλεμος ήταν μια μεγάλη πολεμική σύγκρουση την εποχή του Βυζαντίου.",
+     "tr": "Peloponez Savaşı, Bizans döneminde yaşanmış büyük bir askerî çatışmaydı.",
+     "en": "The Peloponnesian War was a major military conflict in the Byzantine era."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Ο Ιουστινιανός ήταν ένας από τους σπουδαιότερους Αυτοκράτορες της Βυζαντινής Αυτοκρατορίας.",
+     "tr": "Justinianos, Bizans İmparatorluğu'nun en önemli imparatorlarından biriydi.",
+     "en": "Justinian was one of the greatest Emperors of the Byzantine Empire."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Ελλάδα ήταν το πρώτο ανεξάρτητο κράτος στα Βαλκάνια που δημιουργήθηκε το 1830.",
+     "tr": "Yunanistan, Balkanlar'da 1830'da kurulan ilk bağımsız devletti.",
+     "en": "Greece was the first independent state in the Balkans, created in 1830."
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "his-79",
+  "subject": "his",
+  "n": 79,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Ο αρχαίος Έλληνας φιλόσοφος Σωκράτης καταδικάστηκε σε θάνατο και πέθανε πίνοντας το κώνειο, μια μορφή δηλητηρίου.",
+     "tr": "Antik Yunan filozofu Sokrates ölüme mahkûm edildi ve bir tür zehir olan baldıran içerek öldü.",
+     "en": "The ancient Greek philosopher Socrates was sentenced to death and died by drinking hemlock, a kind of poison."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η αρχαία πόλη των Συρακουσών βρισκόταν στην Πελοπόννησο.",
+     "tr": "Antik Siraküza şehri Peloponez'deydi.",
+     "en": "The ancient city of Syracuse was in the Peloponnese."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η πρωτεύουσα της Αρχαίας Μακεδονίας ήταν η Θήβα.",
+     "tr": "Antik Makedonya'nın başkenti Teb idi.",
+     "en": "The capital of Ancient Macedonia was Thebes."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Στους Δελφούς υπήρχε το πιο γνωστό μαντείο της Αρχαιότητας.",
+     "tr": "Antik Çağ'ın en ünlü kehanet merkezi Delfi'deydi.",
+     "en": "The most famous oracle of Antiquity was at Delphi."
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "his-80",
+  "subject": "his",
+  "n": 80,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Η Ελένη Σκούρα, η πρώτη ελληνίδα βουλευτής, εκλέχθηκε το 1953.",
+     "tr": "İlk kadın Yunan milletvekili Eleni Skoura 1953'te seçildi.",
+     "en": "Eleni Skoura, the first Greek woman member of parliament, was elected in 1953."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο Βασιλιάς Όθωνας ήρθε στην Ελλάδα το 1821.",
+     "tr": "Kral Otto Yunanistan'a 1821'de geldi.",
+     "en": "King Otto came to Greece in 1821."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Ελλάδα ήταν το πρώτο εθνικό κράτος στα Βαλκάνια που έγινε ανεξάρτητο το 1830",
+     "tr": "Yunanistan, Balkanlar'da 1830'da bağımsız hâle gelen ilk ulus devletti.",
+     "en": "Greece was the first nation-state in the Balkans, becoming independent in 1830."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Τόσο στον Α’ όσο και στον Β’ Παγκόσμιο Πόλεμο η Ελλάδα ήταν με τη μεριά των νικητών.",
+     "tr": "Hem Birinci hem de İkinci Dünya Savaşı'nda Yunanistan galipler tarafındaydı.",
+     "en": "In both the First and the Second World War Greece was on the side of the victors."
+    },
+    "answer": true
+   }
+  ]
+ }
+]

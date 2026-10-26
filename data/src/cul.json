@@ -1,0 +1,3675 @@
+[
+ {
+  "id": "cul-1",
+  "subject": "cul",
+  "n": 1,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Σύμφωνα με την ελληνική μυθολογία δύο θεοί του Ολύμπου διεκδίκησαν την προστασία της πόλεως των Αθηνών. Ποιοι ήταν οι θεοί αυτοί;",
+   "tr": "Yunan mitolojisine göre Olimpos'un iki tanrısı Atina şehrinin koruyuculuğu için yarıştı. Bu tanrılar kimlerdi?",
+   "en": "According to Greek mythology, two gods of Olympus contended for the patronage of the city of Athens. Who were these gods?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Η Αθηνά και η Δήμητρα",
+    "tr": "Athena ve Demeter",
+    "en": "Athena and Demeter"
+   },
+   {
+    "el": "Η Αθηνά και ο Ποσειδώνας",
+    "tr": "Athena ve Poseidon",
+    "en": "Athena and Poseidon"
+   },
+   {
+    "el": "Η Αθηνά και ο Άρης",
+    "tr": "Athena ve Ares",
+    "en": "Athena and Ares"
+   },
+   {
+    "el": "Η Αθηνά και η Αφροδίτη",
+    "tr": "Athena ve Afrodit",
+    "en": "Athena and Aphrodite"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-2",
+  "subject": "cul",
+  "n": 2,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Σύμφωνα με τη Μυθολογία των αρχαίων Ελλήνων, οι μόνοι άνθρωποι που σώθηκαν από τον μεγάλο κατακλυσμό ήταν:",
+   "tr": "Antik Yunanların mitolojisine göre büyük tufandan kurtulan tek insanlar şunlardı:",
+   "en": "According to the mythology of the ancient Greeks, the only people who survived the great flood were:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Ο Ζευς και ο Ποσειδώνας",
+    "tr": "Zeus ve Poseidon",
+    "en": "Zeus and Poseidon"
+   },
+   {
+    "el": "Ο Περσεύς και η Ανδρομέδα",
+    "tr": "Perseus ve Andromeda",
+    "en": "Perseus and Andromeda"
+   },
+   {
+    "el": "Ο Πάρης και η Ελένη",
+    "tr": "Paris ve Helene",
+    "en": "Paris and Helen"
+   },
+   {
+    "el": "Ο Δευκαλίων και η Πύρρα",
+    "tr": "Deukalion ve Pyrrha",
+    "en": "Deucalion and Pyrrha"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "cul-3",
+  "subject": "cul",
+  "n": 3,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τους όρους της στήλης Ι με τους όρους της στήλης ΙΙ.",
+   "tr": "I. sütundaki terimleri II. sütundaki terimlerle eşleştirin.",
+   "en": "Match the terms in column I with the terms in column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Νίκη της Σαμοθράκης",
+    "tr": "Semadirek Nikesi",
+    "en": "Winged Victory of Samothrace"
+   },
+   {
+    "el": "Δισκοβόλος του Μύρωνα",
+    "tr": "Myron'un Diskobolos'u (Disk Atan)",
+    "en": "Discobolus of Myron"
+   },
+   {
+    "el": "Ερμής του Πραξιτέλη",
+    "tr": "Praksiteles'in Hermes'i",
+    "en": "Hermes of Praxiteles"
+   },
+   {
+    "el": "Ο Ηνίοχος",
+    "tr": "Arabacı",
+    "en": "The Charioteer"
+   }
+  ],
+  "right": [
+   {
+    "el": "Βρετανικό Μουσείο, Λονδίνο",
+    "tr": "British Museum, Londra",
+    "en": "British Museum, London"
+   },
+   {
+    "el": "Μουσείο του Λούβρου, Παρίσι",
+    "tr": "Louvre Müzesi, Paris",
+    "en": "Louvre Museum, Paris"
+   },
+   {
+    "el": "Αρχαιολογικό Μουσείο Δελφών",
+    "tr": "Delfi Arkeoloji Müzesi",
+    "en": "Archaeological Museum of Delphi"
+   },
+   {
+    "el": "Αρχαιολογικό Μουσείο Αρχαίας Ολυμπίας",
+    "tr": "Antik Olimpiya Arkeoloji Müzesi",
+    "en": "Archaeological Museum of Ancient Olympia"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    1
+   ],
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    3
+   ],
+   [
+    3,
+    2
+   ]
+  ]
+ },
+ {
+  "id": "cul-4",
+  "subject": "cul",
+  "n": 4,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια ήταν η θεά της σοφίας στην αρχαιότητα;",
+   "tr": "Antik çağda bilgelik tanrıçası kimdi?",
+   "en": "Who was the goddess of wisdom in antiquity?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Η Ήρα",
+    "tr": "Hera",
+    "en": "Hera"
+   },
+   {
+    "el": "Η Αθηνά",
+    "tr": "Athena",
+    "en": "Athena"
+   },
+   {
+    "el": "Η Άρτεμις",
+    "tr": "Artemis",
+    "en": "Artemis"
+   },
+   {
+    "el": "Η Αφροδίτη",
+    "tr": "Afrodit",
+    "en": "Aphrodite"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-5",
+  "subject": "cul",
+  "n": 5,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε τέσσερις από τους Δώδεκα Θεούς του Ολύμπου σύμφωνα με την ελληνική μυθολογία.",
+   "tr": "Yunan mitolojisine göre Olimpos'un On İki Tanrısı'ndan dördünü yazın.",
+   "en": "Write four of the Twelve Gods of Olympus according to Greek mythology."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Τέσσερις εκ των: Δίας, Ήρα, Ποσειδώνας, Απόλλωνας, Αθηνά, Αφροδίτη, Άρης, Ερμής, Άρτεμις, Δήμητρα, Εστία, Ήφαιστος",
+   "tr": "Şunlardan dördü: Zeus, Hera, Poseidon, Apollon, Athena, Afrodit, Ares, Hermes, Artemis, Demeter, Hestia, Hefaistos",
+   "en": "Four of: Zeus, Hera, Poseidon, Apollo, Athena, Aphrodite, Ares, Hermes, Artemis, Demeter, Hestia, Hephaestus"
+  },
+  "items": [
+   {
+    "el": "Δίας",
+    "tr": "Zeus",
+    "en": "Zeus"
+   },
+   {
+    "el": "Ήρα",
+    "tr": "Hera",
+    "en": "Hera"
+   },
+   {
+    "el": "Ποσειδώνας",
+    "tr": "Poseidon",
+    "en": "Poseidon"
+   },
+   {
+    "el": "Απόλλωνας",
+    "tr": "Apollon",
+    "en": "Apollo"
+   },
+   {
+    "el": "Αθηνά",
+    "tr": "Athena",
+    "en": "Athena"
+   },
+   {
+    "el": "Αφροδίτη",
+    "tr": "Afrodit",
+    "en": "Aphrodite"
+   },
+   {
+    "el": "Άρης",
+    "tr": "Ares",
+    "en": "Ares"
+   },
+   {
+    "el": "Ερμής",
+    "tr": "Hermes",
+    "en": "Hermes"
+   },
+   {
+    "el": "Άρτεμις",
+    "tr": "Artemis",
+    "en": "Artemis"
+   },
+   {
+    "el": "Δήμητρα",
+    "tr": "Demeter",
+    "en": "Demeter"
+   },
+   {
+    "el": "Εστία",
+    "tr": "Hestia",
+    "en": "Hestia"
+   },
+   {
+    "el": "Ήφαιστος",
+    "tr": "Hefaistos",
+    "en": "Hephaestus"
+   }
+  ],
+  "need": 4
+ },
+ {
+  "id": "cul-6",
+  "subject": "cul",
+  "n": 6,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τους όρους της στήλης Ι με τους όρους της στήλης ΙΙ.",
+   "tr": "I. sütundaki terimleri II. sütundaki terimlerle eşleştirin.",
+   "en": "Match the terms in column I with the terms in column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Νύμφες",
+    "tr": "Nymphalar",
+    "en": "Nymphs"
+   },
+   {
+    "el": "Χάριτες",
+    "tr": "Kharisler",
+    "en": "Graces (Charites)"
+   },
+   {
+    "el": "Ερινύες",
+    "tr": "Erinyesler",
+    "en": "Erinyes (Furies)"
+   },
+   {
+    "el": "Μούσες",
+    "tr": "Musalar",
+    "en": "Muses"
+   }
+  ],
+  "right": [
+   {
+    "el": "θεότητες των Τεχνών και των Γραμμάτων",
+    "tr": "Sanatların ve Edebiyatın tanrısallıkları",
+    "en": "deities of the Arts and Letters"
+   },
+   {
+    "el": "ημίθεες σχετιζόμενες με τα ποτάμια, τις λίμνες και τη βλάστηση",
+    "tr": "nehirler, göller ve bitki örtüsüyle ilişkili yarı tanrıçalar",
+    "en": "demi-goddesses associated with rivers, lakes and vegetation"
+   },
+   {
+    "el": "θεές της γοητείας, της δημιουργίας και της γονιμότητος",
+    "tr": "çekiciliğin, yaratıcılığın ve doğurganlığın tanrıçaları",
+    "en": "goddesses of charm, creation and fertility"
+   },
+   {
+    "el": "θεότητες-τιμωροί εγκληματιών ηθικής και φυσικής τάξεως πραγμάτων",
+    "tr": "ahlaki ve doğal düzene karşı suç işleyenleri cezalandıran tanrısallıklar",
+    "en": "avenging deities who punished crimes against the moral and natural order"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    1
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    2,
+    3
+   ],
+   [
+    3,
+    0
+   ]
+  ]
+ },
+ {
+  "id": "cul-7",
+  "subject": "cul",
+  "n": 7,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Με ποιον από τους θεούς του Ολύμπου συνδέεται ο μύθος της Ευρώπης;",
+   "tr": "Europa mitosu Olimpos tanrılarından hangisiyle bağlantılıdır?",
+   "en": "Which of the gods of Olympus is the myth of Europa connected with?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Ήφαιστος",
+    "tr": "Hefaistos",
+    "en": "Hephaestus"
+   },
+   {
+    "el": "Δίας",
+    "tr": "Zeus",
+    "en": "Zeus"
+   },
+   {
+    "el": "Ποσειδώνας",
+    "tr": "Poseidon",
+    "en": "Poseidon"
+   },
+   {
+    "el": "Άρης",
+    "tr": "Ares",
+    "en": "Ares"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-8",
+  "subject": "cul",
+  "n": 8,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Η αργοναυτική εκστρατεία πήρε το όνομά της από:",
+   "tr": "Argonotlar seferi adını şuradan almıştır:",
+   "en": "The Argonautic expedition took its name from:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "τους ναύτες του Ιάσονα, που έπρεπε να κωπηλατούν αργά",
+    "tr": "Iason'un yavaş kürek çekmek zorunda olan denizcilerinden",
+    "en": "Jason's sailors, who had to row slowly (argá)"
+   },
+   {
+    "el": "το καράβι του Ιάσονα, το οποίο ονομαζόταν Αργώ",
+    "tr": "Iason'un Argo adlı gemisinden",
+    "en": "Jason's ship, which was called the Argo"
+   },
+   {
+    "el": "τον τόπο καταγωγής των ναυτών του Ιάσονα, οι οποίοι ήταν από το Άργος",
+    "tr": "Iason'un denizcilerinin memleketinden; onlar Argos'luydu",
+    "en": "the place of origin of Jason's sailors, who were from Argos"
+   },
+   {
+    "el": "τον ναυτικό προορισμό των ναυτών, ο οποίος ήταν η Αργολίδα",
+    "tr": "denizcilerin deniz yolculuğu hedefinden; bu hedef Argolis'ti",
+    "en": "the sailors' naval destination, which was the Argolid"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-9",
+  "subject": "cul",
+  "n": 9,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Ποιες από τις φωτογραφίες ανήκουν σε έργα τέχνης του Κυκλαδικού πολιτισμού. Μπορεί να είναι σωστές παραπάνω από μία εικόνες.",
+   "tr": "Fotoğraflardan hangileri Kiklad uygarlığına ait sanat eserleridir? Birden fazla resim doğru olabilir.",
+   "en": "Which of the photographs show works of art of the Cycladic civilisation? More than one picture may be correct."
+  },
+  "note": {
+   "el": "Η επίσημη απάντηση είναι «Β και Γ». Οι φωτογραφίες του πρωτοτύπου δεν αναπαράγονται. Περιγραφή (δική μας): Α – ομάδα πήλινων γυναικείων ειδωλίων (τύπου Ταναγραίας)· Β – μαρμάρινο κυκλαδικό ειδώλιο με σταυρωμένα χέρια· Γ – καθιστή κυκλαδική μορφή· Δ – μινωική «Θεά των Όφεων».",
+   "tr": "Resmî cevap: «B ve C (Γ)». Asıl sorudaki fotoğraflar gösterilemiyor. Açıklama (bizim): A – bir grup pişmiş toprak kadın figürini (Tanagra tipi); B – kolları kavuşturulmuş mermer Kiklad figürini; C (Γ) – oturan Kiklad figürü; D (Δ) – Minos uygarlığına ait «Yılanlı Tanrıça».",
+   "en": "Official answer: «B and C (Γ)». The original photos cannot be shown. Description (ours): A – group of terracotta female figurines (Tanagra type); B – marble Cycladic figurine with folded arms; C (Γ) – seated Cycladic figure; D (Δ) – Minoan 'Snake Goddess'."
+  },
+  "image": true,
+  "items": [
+   {
+    "text": {
+     "el": "Εικ. Α",
+     "tr": "Resim A",
+     "en": "Picture A"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Εικ. Β",
+     "tr": "Resim B",
+     "en": "Picture B"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Εικ. Γ",
+     "tr": "Resim C (Γ)",
+     "en": "Picture C (Γ)"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Εικ. Δ",
+     "tr": "Resim D (Δ)",
+     "en": "Picture D (Δ)"
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "cul-10",
+  "subject": "cul",
+  "n": 10,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Ποιες από τις φωτογραφίες σχετίζονται με τον Μινωικό πολιτισμό; Μπορεί να είναι σωστές παραπάνω από μία εικόνες.",
+   "tr": "Fotoğraflardan hangileri Minos uygarlığıyla ilgilidir? Birden fazla resim doğru olabilir.",
+   "en": "Which of the photographs relate to the Minoan civilisation? More than one picture may be correct."
+  },
+  "note": {
+   "el": "Η επίσημη απάντηση είναι «Α και Δ». Οι φωτογραφίες του πρωτοτύπου δεν αναπαράγονται. Περιγραφή (δική μας): Α – τοιχογραφία σε ανακτορική αίθουσα (Κνωσός)· Β – αρχαϊκό άγαλμα κόρης· Γ – η Πύλη των Λεόντων των Μυκηνών· Δ – μινωική «Θεά των Όφεων».",
+   "tr": "Resmî cevap: «A ve D (Δ)». Asıl sorudaki fotoğraflar gösterilemiyor. Açıklama (bizim): A – bir saray salonunda duvar resmi (Knossos); B – arkaik bir kore heykeli; C (Γ) – Miken'deki Aslanlı Kapı; D (Δ) – Minos uygarlığına ait «Yılanlı Tanrıça».",
+   "en": "Official answer: «A and D (Δ)». The original photos cannot be shown. Description (ours): A – fresco in a palace hall (Knossos); B – Archaic kore statue; C (Γ) – the Lion Gate of Mycenae; D (Δ) – Minoan 'Snake Goddess'."
+  },
+  "image": true,
+  "items": [
+   {
+    "text": {
+     "el": "Εικ. Α",
+     "tr": "Resim A",
+     "en": "Picture A"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Εικ. Β",
+     "tr": "Resim B",
+     "en": "Picture B"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Εικ. Γ",
+     "tr": "Resim C (Γ)",
+     "en": "Picture C (Γ)"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Εικ. Δ",
+     "tr": "Resim D (Δ)",
+     "en": "Picture D (Δ)"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "cul-11",
+  "subject": "cul",
+  "n": 11,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Ο Ποσειδώνας ήταν ο θεός της θάλασσας",
+     "tr": "Poseidon denizin tanrısıydı",
+     "en": "Poseidon was the god of the sea"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Το Θέατρο Ηρώδου Αττικού βρίσκεται στην Αθήνα",
+     "tr": "Herodes Atticus Tiyatrosu Atina'dadır",
+     "en": "The Odeon of Herodes Atticus is in Athens"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Το Ανάκτορο της Κνωσού βρίσκεται στην Κρήτη",
+     "tr": "Knossos Sarayı Girit'tedir",
+     "en": "The Palace of Knossos is in Crete"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο Ήφαιστος ήταν ο θεός της μουσικής και της αρμονίας",
+     "tr": "Hefaistos müziğin ve uyumun tanrısıydı",
+     "en": "Hephaestus was the god of music and harmony"
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "cul-12",
+  "subject": "cul",
+  "n": 12,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Το 1820 ανακαλύφθηκε στη νήσο Μήλο ένα εντυπωσιακό άγαλμα της Αφροδίτης της ελληνιστικής περιόδου, το οποίο το επόμενο έτος φυγαδεύτηκε και έκτοτε εκτίθεται στο/στη:",
+   "tr": "1820'de Milos adasında Helenistik döneme ait etkileyici bir Afrodit heykeli bulundu; heykel ertesi yıl ülke dışına kaçırıldı ve o zamandan beri şurada sergilenmektedir:",
+   "en": "In 1820 an impressive statue of Aphrodite from the Hellenistic period was discovered on the island of Milos; the following year it was smuggled away and has since been displayed at:"
+  },
+  "note": {
+   "el": "Στο επίσημο κείμενο οι επιλογές είναι αριθμημένες 1–4, ενώ η απάντηση δίνεται ως «Γ», δηλαδή η τρίτη επιλογή (Μουσείο Λούβρο).",
+   "tr": "Resmî metinde seçenekler 1–4 olarak numaralanmış, cevap ise «Γ» (C) olarak verilmiştir; yani üçüncü seçenek (Louvre Müzesi).",
+   "en": "In the official text the options are numbered 1–4 while the answer is given as «Γ» (C), i.e. the third option (the Louvre)."
+  },
+  "image": false,
+  "options": [
+   {
+    "el": "Βρετανικό Μουσείο στο Λονδίνο",
+    "tr": "Londra'daki British Museum",
+    "en": "the British Museum in London"
+   },
+   {
+    "el": "Μητροπολιτικό Μουσείο της Νέας Υόρκης",
+    "tr": "New York Metropolitan Müzesi",
+    "en": "the Metropolitan Museum of New York"
+   },
+   {
+    "el": "Μουσείο Λούβρο των Παρισίων",
+    "tr": "Paris'teki Louvre Müzesi",
+    "en": "the Louvre Museum in Paris"
+   },
+   {
+    "el": "Γλυπτοθήκη της Κοπεγχάγης",
+    "tr": "Kopenhag Gliptoteği",
+    "en": "the Glyptotek of Copenhagen"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "cul-13",
+  "subject": "cul",
+  "n": 13,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Ο Αυτοκράτορας Θεοδόσιος έκτισε τα πρώτα τείχη της Κωνσταντινουπόλεως",
+     "tr": "İmparator Theodosius Konstantinopolis'in ilk surlarını inşa etti",
+     "en": "Emperor Theodosius built the first walls of Constantinople"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Ο Αυτοκράτορας Ιουστινιανός ανήγειρε τον Ιππόδρομο της Κωνσταντινουπόλεως.",
+     "tr": "İmparator Justinianus Konstantinopolis Hipodromu'nu inşa etti.",
+     "en": "Emperor Justinian erected the Hippodrome of Constantinople."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Ο Ιερός Ναός της Αγίας Σοφίας ανεγέρθη επί Αυτοκράτορα Ιουστινιανού.",
+     "tr": "Ayasofya Kilisesi İmparator Justinianus döneminde inşa edildi.",
+     "en": "The church of Hagia Sophia was erected under Emperor Justinian."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο Ιερός Ναός της Αγίας Ειρήνης στην Κωνσταντινούπολη κτίστηκε από τον Μεγάλο Κωνσταντίνο.",
+     "tr": "Konstantinopolis'teki Aya İrini Kilisesi Büyük Konstantin tarafından inşa edildi.",
+     "en": "The church of Hagia Irene in Constantinople was built by Constantine the Great."
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "cul-14",
+  "subject": "cul",
+  "n": 14,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιο μνημείο έχει ταυτιστεί με την αρχαία Αθήνα;",
+   "tr": "Hangi anıt antik Atina ile özdeşleşmiştir?",
+   "en": "Which monument has become identified with ancient Athens?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "οι Πυραμίδες",
+    "tr": "Piramitler",
+    "en": "the Pyramids"
+   },
+   {
+    "el": "ο Παρθενώνας",
+    "tr": "Parthenon",
+    "en": "the Parthenon"
+   },
+   {
+    "el": "ο ναός της Αρτέμιδας",
+    "tr": "Artemis Tapınağı",
+    "en": "the Temple of Artemis"
+   },
+   {
+    "el": "το Ηραίον",
+    "tr": "Heraion",
+    "en": "the Heraion"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-15",
+  "subject": "cul",
+  "n": 15,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "fill",
+  "prompt": {
+   "el": "Συμπληρώστε τη σωστή απάντηση στο κενό που υπάρχει σε κάθε πρόταση.",
+   "tr": "Her cümledeki boşluğu doğru cevapla doldurun.",
+   "en": "Fill in the correct answer in the blank in each sentence."
+  },
+  "note": {
+   "el": "Η επίσημη απάντηση είναι 1-Α, 2-Β, 3-Β, 4-Β. Το πρωτότυπο δείχνει φωτογραφία της χρυσής προσωπίδας («του Αγαμέμνονα»), η οποία παραλείπεται.",
+   "tr": "Resmî cevap: 1-A, 2-B, 3-B, 4-B. Asıl soruda altın maskenin («Agamemnon'un maskesi») fotoğrafı vardır; burada gösterilmiyor.",
+   "en": "Official answer: 1-A, 2-B, 3-B, 4-B. The original shows a photo of the gold mask (the 'Mask of Agamemnon'), omitted here."
+  },
+  "image": true,
+  "text": {
+   "el": "Στις ανασκαφές των (1) ___ (Α. Μυκηνών, Β. Δελφών) εντοπίσθηκε η χρυσή προσωπίδα της φωτογραφίας, η οποία πιστεύεται ότι απεικονίζει τον (2) ___ (Α. Όμηρο, Β. Αγαμέμνονα) και βρέθηκε μέσα σε (3) ___ (Α. παλάτι, Β. τάφο) και βρίσκεται σήμερα στο Αρχαιολογικό Μουσείο των (4) ___ (Α. Δελφών, Β. Αθηνών).",
+   "tr": "Fotoğraftaki altın mask (1) ___ (A. Miken, B. Delfi) kazılarında bulundu; (2) ___ (A. Homeros'u, B. Agamemnon'u) tasvir ettiğine inanılır, bir (3) ___ (A. saray, B. mezar) içinde bulunmuştur ve bugün (4) ___ (A. Delfi, B. Atina) Arkeoloji Müzesi'ndedir.",
+   "en": "In the excavations at (1) ___ (A. Mycenae, B. Delphi) the gold mask in the photograph was found; it is believed to depict (2) ___ (A. Homer, B. Agamemnon), it was found inside a (3) ___ (A. palace, B. tomb) and today it is in the Archaeological Museum of (4) ___ (A. Delphi, B. Athens)."
+  },
+  "bank": null,
+  "answers": [
+   {
+    "el": "Μυκηνών",
+    "tr": "Miken",
+    "en": "Mycenae"
+   },
+   {
+    "el": "Αγαμέμνονα",
+    "tr": "Agamemnon",
+    "en": "Agamemnon"
+   },
+   {
+    "el": "τάφο",
+    "tr": "mezar",
+    "en": "tomb"
+   },
+   {
+    "el": "Αθηνών",
+    "tr": "Atina",
+    "en": "Athens"
+   }
+  ]
+ },
+ {
+  "id": "cul-16",
+  "subject": "cul",
+  "n": 16,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Πού βρισκόταν το πιο γνωστό αρχαίο μαντείο στην αρχαιότητα;",
+   "tr": "Antik çağın en ünlü kehanet merkezi nerede bulunuyordu?",
+   "en": "Where was the best-known oracle of antiquity located?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "στην Αθήνα",
+    "tr": "Atina'da",
+    "en": "in Athens"
+   },
+   {
+    "el": "στη Σπάρτη",
+    "tr": "Sparta'da",
+    "en": "in Sparta"
+   },
+   {
+    "el": "στους Δελφούς",
+    "tr": "Delfi'de",
+    "en": "in Delphi"
+   },
+   {
+    "el": "στη Θήβα",
+    "tr": "Thebai'de (İstefe)",
+    "en": "in Thebes"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "cul-17",
+  "subject": "cul",
+  "n": 17,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "fill",
+  "prompt": {
+   "el": "Συμπληρώστε τη σωστή απάντηση στο κενό που υπάρχει σε κάθε πρόταση.",
+   "tr": "Her cümledeki boşluğu doğru cevapla doldurun.",
+   "en": "Fill in the correct answer in the blank in each sentence."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Το Μαντείο (1) ___ στους Δελφούς ήταν ένα από τα πιο φημισμένα της Αρχαιότητος. Όμως το παλαιότερο Μαντείο ήταν (2) ___ στη Δωδώνη. Σπουδαίο μαντείο για τους Έλληνες αποτέλεσε και αυτό (3) ___ στην Αίγυπτο, ενώ στον Μεσοπόταμο Πρεβέζης ήταν (4) ___, όπου οι συγγενείς επικοινωνούσαν με τις ψυχές των νεκρών.",
+   "tr": "Delfi'deki (1) ___ Kehanet Merkezi Antik Çağ'ın en ünlülerinden biriydi. Ancak en eski kehanet merkezi Dodona'daki (2) ___ idi. Mısır'daki (3) ___ kehanet merkezi de Yunanlar için önemliydi; Preveze'nin Mesopotamos köyünde ise, yakınların ölülerin ruhlarıyla iletişim kurduğu (4) ___ bulunuyordu.",
+   "en": "The Oracle (1) ___ at Delphi was one of the most famous of Antiquity. However, the oldest oracle was that (2) ___ at Dodona. An important oracle for the Greeks was also that (3) ___ in Egypt, while at Mesopotamos in Preveza there was (4) ___, where relatives communicated with the souls of the dead."
+  },
+  "bank": [
+   {
+    "el": "του Δία",
+    "tr": "Zeus'un",
+    "en": "of Zeus"
+   },
+   {
+    "el": "του Απόλλωνα",
+    "tr": "Apollon'un",
+    "en": "of Apollo"
+   },
+   {
+    "el": "το Νεκρομαντείο",
+    "tr": "Nekromanteion (Ölüler Kehanet Merkezi)",
+    "en": "the Necromanteion (Oracle of the Dead)"
+   },
+   {
+    "el": "του Άμμωνος Δία",
+    "tr": "Zeus Ammon'un",
+    "en": "of Zeus Ammon"
+   }
+  ],
+  "answers": [
+   {
+    "el": "του Απόλλωνα",
+    "tr": "Apollon'un",
+    "en": "of Apollo"
+   },
+   {
+    "el": "του Δία",
+    "tr": "Zeus'un",
+    "en": "of Zeus"
+   },
+   {
+    "el": "του Άμμωνος Δία",
+    "tr": "Zeus Ammon'un",
+    "en": "of Zeus Ammon"
+   },
+   {
+    "el": "το Νεκρομαντείο",
+    "tr": "Nekromanteion (Ölüler Kehanet Merkezi)",
+    "en": "the Necromanteion (Oracle of the Dead)"
+   }
+  ]
+ },
+ {
+  "id": "cul-18",
+  "subject": "cul",
+  "n": 18,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια από της παρακάτω μορφές απεικονίζει τον βασιλέα της Μακεδονίας Αλέξανδρο τον Μέγα;",
+   "tr": "Aşağıdaki figürlerden hangisi Makedonya kralı Büyük İskender'i tasvir eder?",
+   "en": "Which of the figures below depicts the king of Macedon, Alexander the Great?"
+  },
+  "note": {
+   "el": "Οι φωτογραφίες του πρωτοτύπου δεν αναπαράγονται. Περιγραφή (δική μας): Α – κεφαλή ώριμου γενειοφόρου άνδρα· Β – κεφαλή νεαρού αγένειου άνδρα με σγουρά μαλλιά (Μέγας Αλέξανδρος)· Γ – προτομή γενειοφόρου Ρωμαίου αυτοκράτορα με θώρακα· Δ – κεφαλή ηλικιωμένου γενειοφόρου άνδρα (τύπος Ομήρου).",
+   "tr": "Asıl sorudaki fotoğraflar gösterilemiyor. Açıklama (bizim): A – olgun, sakallı bir adamın başı; B – kıvırcık saçlı, sakalsız genç bir adamın başı (Büyük İskender); C (Γ) – zırhlı, sakallı bir Roma imparatorunun büstü; D (Δ) – yaşlı, sakallı bir adamın başı (Homeros tipi).",
+   "en": "The original photos cannot be shown. Description (ours): A – head of a mature bearded man; B – head of a young beardless man with curly hair (Alexander the Great); C (Γ) – bust of a bearded Roman emperor in armour; D (Δ) – head of an elderly bearded man (Homer type)."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Εικ. Α",
+    "tr": "Resim A",
+    "en": "Picture A"
+   },
+   {
+    "el": "Εικ. Β",
+    "tr": "Resim B",
+    "en": "Picture B"
+   },
+   {
+    "el": "Εικ. Γ",
+    "tr": "Resim C (Γ)",
+    "en": "Picture C (Γ)"
+   },
+   {
+    "el": "Εικ. Δ",
+    "tr": "Resim D (Δ)",
+    "en": "Picture D (Δ)"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-19",
+  "subject": "cul",
+  "n": 19,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τους όρους της στήλης Ι με τους όρους της στήλης ΙΙ.",
+   "tr": "I. sütundaki terimleri II. sütundaki terimlerle eşleştirin.",
+   "en": "Match the terms in column I with the terms in column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Ποσειδώνας",
+    "tr": "Poseidon",
+    "en": "Poseidon"
+   },
+   {
+    "el": "Ερμής",
+    "tr": "Hermes",
+    "en": "Hermes"
+   },
+   {
+    "el": "Άρης",
+    "tr": "Ares",
+    "en": "Ares"
+   },
+   {
+    "el": "Διόνυσος",
+    "tr": "Dionysos",
+    "en": "Dionysus"
+   }
+  ],
+  "right": [
+   {
+    "el": "δόρυ",
+    "tr": "mızrak",
+    "en": "spear"
+   },
+   {
+    "el": "αμπέλι",
+    "tr": "asma (bağ)",
+    "en": "vine (vineyard)"
+   },
+   {
+    "el": "τρίαινα",
+    "tr": "üç dişli mızrak (trident)",
+    "en": "trident"
+   },
+   {
+    "el": "φτερωτά σανδάλια",
+    "tr": "kanatlı sandaletler",
+    "en": "winged sandals"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    1
+   ]
+  ]
+ },
+ {
+  "id": "cul-20",
+  "subject": "cul",
+  "n": 20,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Ο Όμηρος έγραψε την «Οδύσσεια»",
+     "tr": "Homeros «Odysseia»yı yazdı",
+     "en": "Homer wrote the «Odyssey»"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο Πλάτωνας ήταν δάσκαλος του Μεγάλου Αλεξάνδρου",
+     "tr": "Platon, Büyük İskender'in öğretmeniydi",
+     "en": "Plato was the teacher of Alexander the Great"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Ο «Οιδίπους Τύραννος» είναι τραγωδία του Σοφοκλή",
+     "tr": "«Kral Oidipus» Sofokles'in bir tragedyasıdır",
+     "en": "«Oedipus Rex» is a tragedy by Sophocles"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο Τυρταίος ήταν ελεγειακός ποιητής",
+     "tr": "Tyrtaios elegeia şairiydi",
+     "en": "Tyrtaeus was an elegiac poet"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "cul-21",
+  "subject": "cul",
+  "n": 21,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια κατασκευή χρησιμοποίησαν οι Έλληνες για να καταλάβουν την Τροία στη διάρκεια του Τρωικού Πολέμου;",
+   "tr": "Truva Savaşı sırasında Yunanlar Truva'yı ele geçirmek için hangi yapıyı kullandılar?",
+   "en": "What construction did the Greeks use to capture Troy during the Trojan War?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Από μηχανής Θεός",
+    "tr": "Makineden tanrı (deus ex machina)",
+    "en": "Deus ex machina"
+   },
+   {
+    "el": "Πολιορκητικός κριός",
+    "tr": "Koçbaşı",
+    "en": "Battering ram"
+   },
+   {
+    "el": "Υγρόν Πυρ",
+    "tr": "Rum ateşi",
+    "en": "Greek fire"
+   },
+   {
+    "el": "Δούρειος Ίππος",
+    "tr": "Truva Atı",
+    "en": "Trojan Horse"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "cul-22",
+  "subject": "cul",
+  "n": 22,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Στους μουσικούς αγώνες της αρχαίας Ελλάδος περιλαμβάνονταν:",
+   "tr": "Antik Yunanistan'daki müzik yarışmalarında şunlar yer alırdı:",
+   "en": "The musical contests of ancient Greece included:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "τραγούδι, αυλός και κιθάρα",
+    "tr": "şarkı, aulos ve kithara",
+    "en": "song, aulos and kithara"
+   },
+   {
+    "el": "βιολί, λύρα και λαούτο",
+    "tr": "keman, lir ve lavta",
+    "en": "violin, lyre and lute"
+   },
+   {
+    "el": "αυλός, κιθάρα και σαντούρι",
+    "tr": "aulos, kithara ve santur",
+    "en": "aulos, kithara and santouri (hammered dulcimer)"
+   },
+   {
+    "el": "τρίγωνο, λύρα και κιθάρα",
+    "tr": "üçgen, lir ve kithara",
+    "en": "triangle, lyre and kithara"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "cul-23",
+  "subject": "cul",
+  "n": 23,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Τα γλυπτά του Παρθενώνα:",
+   "tr": "Parthenon heykelleri:",
+   "en": "The Parthenon sculptures:"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Κλάπηκαν από τον Βρετανό Λόρδο Τόμας Έλγιν",
+     "tr": "İngiliz Lord Thomas Elgin tarafından çalındı",
+     "en": "Were stolen by the British Lord Thomas Elgin"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Προέρχονται από τον Ναό του Δία στην Ολυμπία",
+     "tr": "Olimpiya'daki Zeus Tapınağı'ndan gelmektedir",
+     "en": "Come from the Temple of Zeus at Olympia"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Βρίσκονται σήμερα στο Βρετανικό Μουσείο στο Λονδίνο",
+     "tr": "Bugün Londra'daki British Museum'dadır",
+     "en": "Are today in the British Museum in London"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Δεν είναι επισκέψιμα για το κοινό",
+     "tr": "Halkın ziyaretine açık değildir",
+     "en": "Are not open to the public"
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "cul-24",
+  "subject": "cul",
+  "n": 24,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Τα τείχη των Θηβών συγκαταλέγονται μεταξύ των 7 θαυμάτων της αρχαιότητας",
+     "tr": "Thebai surları antik dünyanın 7 harikası arasında sayılır",
+     "en": "The walls of Thebes are counted among the 7 wonders of antiquity"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Ο Ιππόδρομος ήταν ένα από τα χαρακτηριστικά οικοδομήματα στην Κωνσταντινούπολη",
+     "tr": "Hipodrom, Konstantinopolis'in karakteristik yapılarından biriydi",
+     "en": "The Hippodrome was one of the characteristic buildings of Constantinople"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο ναός της Παναγίας κτίστηκε μέσα στον Παρθενώνα",
+     "tr": "Meryem Ana kilisesi Parthenon'un içinde inşa edildi",
+     "en": "The church of the Virgin Mary was built inside the Parthenon"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Μονή της Παναγίας Σουμελά βρισκόταν στην Πελοπόννησο",
+     "tr": "Sümela Manastırı Mora Yarımadası'nda bulunuyordu",
+     "en": "The Monastery of Panagia Soumela was located in the Peloponnese"
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "cul-25",
+  "subject": "cul",
+  "n": 25,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τους όρους της στήλης Ι (Αρχαιολογικοί χώροι) με τους όρους της στήλης ΙΙ (Περιοχές).",
+   "tr": "I. sütundaki terimleri (Arkeolojik alanlar) II. sütundaki terimlerle (Bölgeler) eşleştirin.",
+   "en": "Match the terms in column I (Archaeological sites) with the terms in column II (Regions)."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Βεργίνα",
+    "tr": "Vergina",
+    "en": "Vergina"
+   },
+   {
+    "el": "Ολυμπία",
+    "tr": "Olimpiya",
+    "en": "Olympia"
+   },
+   {
+    "el": "Δελφοί",
+    "tr": "Delfi",
+    "en": "Delphi"
+   },
+   {
+    "el": "Κνωσός",
+    "tr": "Knossos",
+    "en": "Knossos"
+   }
+  ],
+  "right": [
+   {
+    "el": "Πελοπόννησος",
+    "tr": "Mora Yarımadası",
+    "en": "Peloponnese"
+   },
+   {
+    "el": "Κρήτη",
+    "tr": "Girit",
+    "en": "Crete"
+   },
+   {
+    "el": "Μακεδονία",
+    "tr": "Makedonya",
+    "en": "Macedonia"
+   },
+   {
+    "el": "Στερεά Ελλάδα",
+    "tr": "Orta Yunanistan",
+    "en": "Central Greece"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    3
+   ],
+   [
+    3,
+    1
+   ]
+  ]
+ },
+ {
+  "id": "cul-26",
+  "subject": "cul",
+  "n": 26,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιο είναι το παρακάτω μνημείο;",
+   "tr": "Aşağıdaki anıt hangisidir?",
+   "en": "Which is the monument below?"
+  },
+  "note": {
+   "el": "Το πρωτότυπο δείχνει φωτογραφία του μνημείου, η οποία παραλείπεται· η σωστή απάντηση είναι ο Λευκός Πύργος της Θεσσαλονίκης.",
+   "tr": "Asıl soruda anıtın fotoğrafı vardır; burada gösterilmiyor. Doğru cevap Selanik'teki Beyaz Kule'dir.",
+   "en": "The original shows a photo of the monument, omitted here; the correct answer is the White Tower of Thessaloniki."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Το μνημείο του Φιλοπάππου στην Αθήνα",
+    "tr": "Atina'daki Filopappos Anıtı",
+    "en": "The Philopappos Monument in Athens"
+   },
+   {
+    "el": "Το Μπούρτζι στο Ναύπλιο",
+    "tr": "Nafplio'daki Burtzi",
+    "en": "The Bourtzi in Nafplio"
+   },
+   {
+    "el": "Ο Λευκός Πύργος στη Θεσσαλονίκη",
+    "tr": "Selanik'teki Beyaz Kule",
+    "en": "The White Tower in Thessaloniki"
+   },
+   {
+    "el": "Το Παλάτι των Ιπποτών στη Ρόδο",
+    "tr": "Rodos'taki Şövalyeler Sarayı",
+    "en": "The Palace of the Knights in Rhodes"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "cul-27",
+  "subject": "cul",
+  "n": 27,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Εάν θέλατε να δείτε εικόνες του 14ου αιώνα ποιο μουσείο των Αθηνών θα επισκεπτόσασταν:",
+   "tr": "14. yüzyıldan kalma ikonaları görmek isteseydiniz Atina'daki hangi müzeyi ziyaret ederdiniz?",
+   "en": "If you wanted to see 14th-century icons, which museum in Athens would you visit?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "την Εθνική Πινακοθήκη",
+    "tr": "Ulusal Resim Galerisi",
+    "en": "the National Gallery"
+   },
+   {
+    "el": "το Εθνικό Αρχαιολογικό Μουσείο",
+    "tr": "Ulusal Arkeoloji Müzesi",
+    "en": "the National Archaeological Museum"
+   },
+   {
+    "el": "το Βυζαντινό και Χριστιανικό Μουσείο",
+    "tr": "Bizans ve Hristiyan Müzesi",
+    "en": "the Byzantine and Christian Museum"
+   },
+   {
+    "el": "το Νέο Μουσείο της Ακρόπολης",
+    "tr": "Yeni Akropolis Müzesi",
+    "en": "the New Acropolis Museum"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "cul-28",
+  "subject": "cul",
+  "n": 28,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Αναγνωρίσετε ποια είναι η χρήση του ψηλού κτίσματος που βρίσκεται μπροστά από τον ναό:",
+   "tr": "Kilisenin önünde bulunan yüksek yapının işlevinin ne olduğunu belirleyin:",
+   "en": "Identify the use of the tall structure standing in front of the church:"
+  },
+  "note": {
+   "el": "Το πρωτότυπο δείχνει φωτογραφία ορθόδοξου ναού με ψηλό πύργο μπροστά του, η οποία παραλείπεται.",
+   "tr": "Asıl soruda önünde yüksek bir kule bulunan bir Ortodoks kilisesinin fotoğrafı vardır; burada gösterilmiyor.",
+   "en": "The original shows a photo of an Orthodox church with a tall tower in front of it, omitted here."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Πύργος",
+    "tr": "Kule",
+    "en": "Tower"
+   },
+   {
+    "el": "Κωδωνοστάσιο (Καμπαναριό)",
+    "tr": "Çan kulesi",
+    "en": "Bell tower (belfry)"
+   },
+   {
+    "el": "Παρεκκλήσιο",
+    "tr": "Şapel",
+    "en": "Chapel"
+   },
+   {
+    "el": "Ιερό Βήμα",
+    "tr": "Kutsal Bema (sunak bölümü)",
+    "en": "Sanctuary (Holy Bema)"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-29",
+  "subject": "cul",
+  "n": 29,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Το κάστρο του Μυστρά αποτελεί ένα από τα πιο σημαντικά προϊστορικά κάστρα της Ελλάδας.",
+     "tr": "Mistra kalesi Yunanistan'ın en önemli tarih öncesi kalelerinden biridir.",
+     "en": "The castle of Mystras is one of the most important prehistoric castles of Greece."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Στο ψηλότερο σημείο του Μυστρά σώζεται το παλάτι του Ιουστινιανού",
+     "tr": "Mistra'nın en yüksek noktasında Justinianus'un sarayı ayakta kalmıştır",
+     "en": "At the highest point of Mystras the palace of Justinian survives"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Στις 6 Ιανουαρίου 1449, ο Κωνσταντίνος ΙΑ‘ Παλαιολόγος στέφτηκε αυτοκράτορας στον μητροπολιτικό ναό του Αγίου Δημητρίου στον Μυστρά",
+     "tr": "6 Ocak 1449'da XI. Konstantinos Palaiologos, Mistra'daki Aziz Dimitrios metropolit kilisesinde imparator olarak taç giydi",
+     "en": "On 6 January 1449 Constantine XI Palaiologos was crowned emperor in the metropolitan church of Agios Dimitrios at Mystras"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Το κάστρο του Μυστρά ήταν η πρωτεύουσα του Δεσποτάτου του Μωρέως.",
+     "tr": "Mistra kalesi Mora Despotluğu'nun başkentiydi.",
+     "en": "The castle of Mystras was the capital of the Despotate of the Morea."
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "cul-30",
+  "subject": "cul",
+  "n": 30,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Που σώζονται βυζαντινά παλάτια;",
+   "tr": "Bizans sarayları nerede günümüze ulaşmıştır?",
+   "en": "Where do Byzantine palaces survive?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Στην Αθήνα",
+    "tr": "Atina'da",
+    "en": "In Athens"
+   },
+   {
+    "el": "Στη Ρόδο",
+    "tr": "Rodos'ta",
+    "en": "In Rhodes"
+   },
+   {
+    "el": "Στον Μυστρά",
+    "tr": "Mistra'da",
+    "en": "In Mystras"
+   },
+   {
+    "el": "Στη Θεσσαλονίκη",
+    "tr": "Selanik'te",
+    "en": "In Thessaloniki"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "cul-31",
+  "subject": "cul",
+  "n": 31,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Ο Νεοκλασικισμός φθάνει στην Αθήνα κατά την περίοδο της ανεξαρτησίας της (1830), όταν δηλαδή η αναβίωση της ελληνικής τέχνης στις άλλες ευρωπαϊκές πόλεις ακμάζει. Χαρακτηρίζεται από επανεμφάνιση αρχιτεκτονικών στοιχείων όπως οι κίονες με τα ιωνικά κυρίως κιονόκρανα, τα οποία παραπέμπουν στην αρχαιοελληνική αρχιτεκτονική. Ποια από τα εικονιζόμενα κτήρια παρακάτω είναι στο πνεύμα του Νεοκλασικισμού:",
+   "tr": "Neoklasisizm Atina'ya bağımsızlık döneminde (1830), yani Yunan sanatının diğer Avrupa şehirlerinde yeniden canlanışının zirvede olduğu bir dönemde gelir. Antik Yunan mimarisine gönderme yapan, özellikle İyon başlıklı sütunlar gibi mimari öğelerin yeniden ortaya çıkmasıyla karakterize edilir. Aşağıda resmedilen binalardan hangileri Neoklasisizm anlayışındadır?",
+   "en": "Neoclassicism reaches Athens during the period of its independence (1830), that is, when the revival of Greek art is flourishing in the other European cities. It is characterised by the reappearance of architectural elements such as columns with mainly Ionic capitals, which refer back to ancient Greek architecture. Which of the buildings pictured below are in the spirit of Neoclassicism?"
+  },
+  "note": {
+   "el": "Οι φωτογραφίες του πρωτοτύπου δεν αναπαράγονται. Περιγραφή (δική μας): 1 – πέτρινη έπαυλη με πυργίσκους, σε ρομαντικό/μεσαιωνικό ρυθμό· 2 – η Ακαδημία Αθηνών, με ιωνικούς κίονες και αέτωμα· 3 – μεγάλο λευκό κτήριο με κεντρικό πρόπυλο με κίονες και αέτωμα· 4 – πολυώροφο κτήριο με τοξωτά παράθυρα, χωρίς κίονες.",
+   "tr": "Asıl sorudaki fotoğraflar gösterilemiyor. Açıklama (bizim): 1 – romantik/ortaçağ üslubunda, küçük kuleli taş bir köşk; 2 – İyon sütunlu ve alınlıklı Atina Akademisi; 3 – ortasında sütunlu ve alınlıklı bir giriş bulunan büyük beyaz bir bina; 4 – kemerli pencereli, sütunsuz çok katlı bir bina.",
+   "en": "The original photos cannot be shown. Description (ours): 1 – stone mansion with turrets in a romantic/medieval style; 2 – the Academy of Athens, with Ionic columns and a pediment; 3 – large white building with a central columned porch and pediment; 4 – multi-storey building with arched windows and no columns."
+  },
+  "image": true,
+  "items": [
+   {
+    "text": {
+     "el": "Εικ. 1",
+     "tr": "Resim 1",
+     "en": "Picture 1"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Εικ. 2",
+     "tr": "Resim 2",
+     "en": "Picture 2"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Εικ. 3",
+     "tr": "Resim 3",
+     "en": "Picture 3"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Εικ. 4",
+     "tr": "Resim 4",
+     "en": "Picture 4"
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "cul-32",
+  "subject": "cul",
+  "n": 32,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Να αναγνωρίσετε τι βλέπετε στην παρακάτω εικόνα.",
+   "tr": "Aşağıdaki resimde ne gördüğünüzü belirleyin.",
+   "en": "Identify what you see in the picture below."
+  },
+  "note": {
+   "el": "Το πρωτότυπο δείχνει φωτογραφία, η οποία παραλείπεται· η σωστή απάντηση είναι η Προεδρική Φρουρά (Εύζωνες).",
+   "tr": "Asıl soruda bir fotoğraf vardır; burada gösterilmiyor. Doğru cevap Cumhurbaşkanlığı Muhafızları'dır (Evzonlar).",
+   "en": "The original shows a photo, omitted here; the correct answer is the Presidential Guard (Evzones)."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Φιλαρμονική του Δήμου Αθηναίων",
+    "tr": "Atina Belediyesi Filarmoni Bandosu",
+    "en": "The Philharmonic Band of the Municipality of Athens"
+   },
+   {
+    "el": "Άγημα του Ναυτικού",
+    "tr": "Deniz Kuvvetleri Tören Kıtası",
+    "en": "Navy Guard of Honour"
+   },
+   {
+    "el": "Προεδρική Φρουρά",
+    "tr": "Cumhurbaşkanlığı Muhafızları (Evzonlar)",
+    "en": "Presidential Guard (Evzones)"
+   },
+   {
+    "el": "Χορευτικό συγκρότημα παραδοσιακών χορών",
+    "tr": "Geleneksel halk dansları topluluğu",
+    "en": "Traditional folk dance troupe"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "cul-33",
+  "subject": "cul",
+  "n": 33,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Να αναγνωρίσετε τα συγκεκριμένα γλυπτά στις φωτογραφίες.",
+   "tr": "Fotoğraflardaki bu heykelleri tanımlayın.",
+   "en": "Identify these specific sculptures in the photographs."
+  },
+  "note": {
+   "el": "Οι φωτογραφίες του πρωτοτύπου δεν αναπαράγονται. Περιγραφή (δική μας): Α – όρθιος ανδριάντας άνδρα με ρεντιγκότα (Καποδίστριας)· Β – ξαπλωμένη γυναικεία μορφή σε ταφικό μνημείο (Κοιμωμένη)· Γ – καθιστός ανδριάντας άνδρα (Παλαμάς)· Δ – μεταλλικό γλυπτό από ψηλές λεπτές «ομπρέλες» δίπλα στη θάλασσα (Ομπρέλες). Επίσημη απάντηση: 1-Γ, 2-Β, 3-Δ, 4-Α.",
+   "tr": "Asıl sorudaki fotoğraflar gösterilemiyor. Açıklama (bizim): A – redingotlu, ayakta duran bir adam heykeli (Kapodistrias); B – bir mezar anıtı üzerinde uzanmış kadın figürü (Uyuyan Kız); C (Γ) – oturan bir adam heykeli (Palamas); D (Δ) – deniz kenarında uzun, ince «şemsiyelerden» oluşan metal heykel (Şemsiyeler). Resmî cevap: 1-C (Γ), 2-B, 3-D (Δ), 4-A.",
+   "en": "The original photos cannot be shown. Description (ours): A – standing statue of a man in a frock coat (Kapodistrias); B – reclining female figure on a tomb monument (The Sleeping Girl); C (Γ) – seated statue of a man (Palamas); D (Δ) – metal sculpture of tall thin 'umbrellas' by the sea (Umbrellas). Official answer: 1-C (Γ), 2-B, 3-D (Δ), 4-A."
+  },
+  "image": true,
+  "left": [
+   {
+    "el": "Βάσος Φαληρέας, «Ο Κωστής Παλαμάς»",
+    "tr": "Vasos Falireas, «Kostis Palamas»",
+    "en": "Vasos Falireas, «Kostis Palamas»"
+   },
+   {
+    "el": "Γιαννούλης Χαλεπάς, «Η Κοιμωμένη»",
+    "tr": "Yannulis Halepas, «Uyuyan Kız»",
+    "en": "Yannoulis Chalepas, «The Sleeping Girl»"
+   },
+   {
+    "el": "Γιώργου Ζογγολόπουλου, «Ομπρέλες»",
+    "tr": "Yorgos Zongolopulos, «Şemsiyeler»",
+    "en": "Giorgos Zongolopoulos, «Umbrellas»"
+   },
+   {
+    "el": "Μιχάλη Τόμπρου, «Ο Ιωάννης Καποδίστριας»",
+    "tr": "Mihalis Tombros, «Ioannis Kapodistrias»",
+    "en": "Michalis Tombros, «Ioannis Kapodistrias»"
+   }
+  ],
+  "right": [
+   {
+    "el": "Εικ. Α",
+    "tr": "Resim A",
+    "en": "Picture A"
+   },
+   {
+    "el": "Εικ. Β",
+    "tr": "Resim B",
+    "en": "Picture B"
+   },
+   {
+    "el": "Εικ. Γ",
+    "tr": "Resim C (Γ)",
+    "en": "Picture C (Γ)"
+   },
+   {
+    "el": "Εικ. Δ",
+    "tr": "Resim D (Δ)",
+    "en": "Picture D (Δ)"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    1
+   ],
+   [
+    2,
+    3
+   ],
+   [
+    3,
+    0
+   ]
+  ]
+ },
+ {
+  "id": "cul-34",
+  "subject": "cul",
+  "n": 34,
+  "section": {
+   "el": "Α.ΕΝΟΤΗΤΑ: «ΑΡΧΑΙΟΤΗΤΕΣ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΗ ΚΛΗΡΟΝΟΜΙΑ»",
+   "tr": "A BÖLÜMÜ: «ANTİK ESERLER VE KÜLTÜREL MİRAS»",
+   "en": "SECTION A: «ANTIQUITIES AND CULTURAL HERITAGE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Αναγνωρίστε ποιο δημόσιο κτίριο της Αθήνας είναι αυτό που βλέπετε στη φωτογραφία, το οποίο κτίστηκε από τον γνωστό αρχιτέκτονα Ερνέστο Τσίλλερ, το 1878-1879, ως κατοικία του Ερρίκου Σλήμαν, του ανασκαφέα της Αρχαίας Τροίας.",
+   "tr": "Fotoğrafta gördüğünüz, ünlü mimar Ernst Ziller tarafından 1878-1879'da Antik Truva'nın kazıcısı Heinrich Schliemann'ın konutu olarak inşa edilen Atina'daki kamu binasının hangisi olduğunu belirleyin.",
+   "en": "Identify which public building in Athens you see in the photograph; it was built by the well-known architect Ernst Ziller in 1878-1879 as the residence of Heinrich Schliemann, the excavator of ancient Troy."
+  },
+  "note": {
+   "el": "Το πρωτότυπο δείχνει φωτογραφία του κτιρίου (Ιλίου Μέλαθρον), η οποία παραλείπεται· η ερώτηση απαντάται από το κείμενο.",
+   "tr": "Asıl soruda binanın (Iliou Melathron) fotoğrafı vardır; burada gösterilmiyor. Soru metinden cevaplanabilir.",
+   "en": "The original shows a photo of the building (Iliou Melathron), omitted here; the question can be answered from the text."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Εθνική Βιβλιοθήκη της Ελλάδας",
+    "tr": "Yunanistan Ulusal Kütüphanesi",
+    "en": "National Library of Greece"
+   },
+   {
+    "el": "Βουλή των Ελλήνων",
+    "tr": "Yunan Parlamentosu (Vouli)",
+    "en": "Hellenic Parliament"
+   },
+   {
+    "el": "Νομισματικό Μουσείο",
+    "tr": "Nümismatik Müzesi",
+    "en": "Numismatic Museum"
+   },
+   {
+    "el": "Άρειος Πάγος",
+    "tr": "Areios Pagos (Yargıtay)",
+    "en": "Areios Pagos (Supreme Civil and Criminal Court)"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "cul-35",
+  "subject": "cul",
+  "n": 35,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "fill",
+  "prompt": {
+   "el": "Συμπληρώστε τη σωστή απάντηση στο κενό που υπάρχει σε κάθε πρόταση.",
+   "tr": "Her cümledeki boşluğu doğru cevapla doldurun.",
+   "en": "Fill in the correct answer in the blank in each sentence."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "1. Ο γνωστός Έλληνας μουσικοσυνθέτης (1) ___ μελοποίησε ποίηση του Γιάννη Ρίτσου. 2. Ο (2) ___ συνέθεσε τη μουσική στο τραγούδι: «Τα παιδιά του Πειραιά» που έγινε πολύ γνωστό με την ερμηνεία της Μελίνας Μερκούρη. 3. Η (3) ___ υπήρξε η πρώτη Ελληνίδα γυναίκα στιχουργός και η σημαντικότερη του ελληνικού λαϊκού τραγουδιού. 4. Η (4) ___ συνέθεσε τη μουσική για την κινηματογραφική ταινία: «Πολίτικη Κουζίνα»",
+   "tr": "1. Ünlü Yunan besteci (1) ___ Yannis Ritsos'un şiirlerini besteledi. 2. (2) ___, Melina Merkouri'nin yorumuyla çok tanınan «Pire'nin Çocukları» şarkısının müziğini besteledi. 3. (3) ___, ilk Yunan kadın söz yazarı ve Yunan popüler şarkısının en önemli söz yazarıydı. 4. (4) ___, «Bir Tutam Baharat (Politiki Kouzina)» filminin müziğini besteledi.",
+   "en": "1. The well-known Greek composer (1) ___ set poetry by Yannis Ritsos to music. 2. (2) ___ composed the music for the song «The Children of Piraeus» (known as «Never on Sunday»), which became very famous as sung by Melina Mercouri. 3. (3) ___ was the first Greek woman lyricist and the most important lyricist of Greek popular song. 4. (4) ___ composed the music for the film «A Touch of Spice (Politiki Kouzina)»."
+  },
+  "bank": [
+   {
+    "el": "Μάνος Χατζηδάκις",
+    "tr": "Manos Hadjidakis",
+    "en": "Manos Hadjidakis"
+   },
+   {
+    "el": "Ευανθία Ρεμπούτσικα",
+    "tr": "Evanthia Reboutsika",
+    "en": "Evanthia Reboutsika"
+   },
+   {
+    "el": "Ευτυχία Παπαγιαννοπούλου",
+    "tr": "Eftihia Papagiannopulu",
+    "en": "Eftychia Papagiannopoulou"
+   },
+   {
+    "el": "Μίκης Θεοδωράκης",
+    "tr": "Mikis Theodorakis",
+    "en": "Mikis Theodorakis"
+   }
+  ],
+  "answers": [
+   {
+    "el": "Μίκης Θεοδωράκης",
+    "tr": "Mikis Theodorakis",
+    "en": "Mikis Theodorakis"
+   },
+   {
+    "el": "Μάνος Χατζηδάκις",
+    "tr": "Manos Hadjidakis",
+    "en": "Manos Hadjidakis"
+   },
+   {
+    "el": "Ευτυχία Παπαγιαννοπούλου",
+    "tr": "Eftihia Papagiannopulu",
+    "en": "Eftychia Papagiannopoulou"
+   },
+   {
+    "el": "Ευανθία Ρεμπούτσικα",
+    "tr": "Evanthia Reboutsika",
+    "en": "Evanthia Reboutsika"
+   }
+  ]
+ },
+ {
+  "id": "cul-36",
+  "subject": "cul",
+  "n": 36,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος μουσικοσυνθέτης συνέθεσε το τραγούδι: «Μαλαματένια λόγια»;",
+   "tr": "«Malamatenia Logia» (Altın Sözler) şarkısını hangi besteci besteledi?",
+   "en": "Which composer wrote the song «Malamatenia Logia» (Golden Words)?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Σταύρος Ξαρχάκος",
+    "tr": "Stavros Ksarhakos",
+    "en": "Stavros Xarchakos"
+   },
+   {
+    "el": "Βασίλης Τσιτσάνης",
+    "tr": "Vasilis Tsitsanis",
+    "en": "Vasilis Tsitsanis"
+   },
+   {
+    "el": "Μίκης Θεοδωράκης",
+    "tr": "Mikis Theodorakis",
+    "en": "Mikis Theodorakis"
+   },
+   {
+    "el": "Γιάννης Μαρκόπουλος",
+    "tr": "Yannis Markopulos",
+    "en": "Yannis Markopoulos"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "cul-37",
+  "subject": "cul",
+  "n": 37,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Στις αρχές του 20ου αιώνα ιδρύθηκε η Ελληνική Εθνική Σχολή Μουσικής, στα πρότυπα των αντίστοιχων Σχολών της Δυτικής Ευρώπης, η οποία στόχευε στη δημιουργία εθνικής μουσικής και στα πρώτα της βήματα βασίστηκε:",
+   "tr": "20. yüzyılın başında, Batı Avrupa'daki benzer ekollerin örneğinde, ulusal bir müzik yaratmayı amaçlayan Yunan Ulusal Müzik Ekolü kuruldu; bu ekol ilk adımlarında şunlara dayandı:",
+   "en": "At the beginning of the 20th century the Greek National School of Music was founded, on the model of the corresponding schools of Western Europe; it aimed at creating a national music and in its first steps it was based:"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "στην παραδοσιακή ελληνική μουσική",
+     "tr": "geleneksel Yunan müziğine",
+     "en": "on traditional Greek music"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "στα δημοτικά τραγούδια",
+     "tr": "halk türkülerine (dimotika)",
+     "en": "on folk songs (demotic songs)"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "στη βυζαντινή υμνωδία",
+     "tr": "Bizans ilahilerine",
+     "en": "on Byzantine hymnody"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "στην Οθωμανική μουσική",
+     "tr": "Osmanlı müziğine",
+     "en": "on Ottoman music"
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "cul-38",
+  "subject": "cul",
+  "n": 38,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": {
+   "el": "Στο επίσημο κείμενο οι προτάσεις σημειώνονται Α–Δ, ενώ η απάντηση δίνεται ως 1–4 (1-Λ, 2-Σ, 3-Σ, 4-Σ).",
+   "tr": "Resmî metinde ifadeler A–D olarak işaretlenmiş, cevap ise 1–4 olarak verilmiştir (1-Y, 2-D, 3-D, 4-D).",
+   "en": "In the official text the statements are labelled A–D while the answer is given as 1–4 (1-F, 2-T, 3-T, 4-T)."
+  },
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Η Γλυκερία είναι γνωστή μουσικοσυνθέτρια.",
+     "tr": "Glykeria tanınmış bir bestecidir.",
+     "en": "Glykeria is a well-known composer."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Μαρία Κάλλας υπήρξε κορυφαία, διεθνούς φήμης Ελληνίδα υψίφωνος.",
+     "tr": "Maria Callas, uluslararası üne sahip, önde gelen bir Yunan sopranoydu.",
+     "en": "Maria Callas was a leading, internationally renowned Greek soprano."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Σωτηρία Μπέλλου θεωρείται μία από τις καλύτερες εκπροσώπους του ρεμπέτικου τραγουδιού.",
+     "tr": "Sotiria Bellou, rebetiko şarkısının en iyi temsilcilerinden biri olarak kabul edilir.",
+     "en": "Sotiria Bellou is considered one of the best exponents of rebetiko song."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο Διονύσης Σαββόπουλος είναι σημαντικός Έλληνας συνθέτης και τραγουδιστής.",
+     "tr": "Dionisis Savvopulos önemli bir Yunan besteci ve şarkıcıdır.",
+     "en": "Dionysis Savvopoulos is an important Greek composer and singer."
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "cul-39",
+  "subject": "cul",
+  "n": 39,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος μεγάλος Έλληνας μουσικοσυνθέτης μελοποίησε το «Άξιον Εστί» του Οδυσσέα Ελύτη;",
+   "tr": "Hangi büyük Yunan besteci Odisseas Elitis'in «Aksion Esti» eserini besteledi?",
+   "en": "Which great Greek composer set Odysseas Elytis's «Axion Esti» to music?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Ο Θάνος Μικρούτσικος",
+    "tr": "Thanos Mikrutsikos",
+    "en": "Thanos Mikroutsikos"
+   },
+   {
+    "el": "Ο Γιώργος Ζαμπέτας",
+    "tr": "Yorgos Zambetas",
+    "en": "Giorgos Zambetas"
+   },
+   {
+    "el": "Ο Μίκης Θεοδωράκης",
+    "tr": "Mikis Theodorakis",
+    "en": "Mikis Theodorakis"
+   },
+   {
+    "el": "Ο Σταύρος Ξαρχάκος",
+    "tr": "Stavros Ksarhakos",
+    "en": "Stavros Xarchakos"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "cul-40",
+  "subject": "cul",
+  "n": 40,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τους όρους της στήλης Ι με τους όρους της στήλης ΙΙ.",
+   "tr": "I. sütundaki terimleri II. sütundaki terimlerle eşleştirin.",
+   "en": "Match the terms in column I with the terms in column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Στέλιος Καζαντζίδης",
+    "tr": "Stelios Kazancidis",
+    "en": "Stelios Kazantzidis"
+   },
+   {
+    "el": "Σταύρος Κουγιουμτζής",
+    "tr": "Stavros Kuyumcis",
+    "en": "Stavros Kougioumtzis"
+   },
+   {
+    "el": "Λευτέρης Παπαδόπουλος",
+    "tr": "Lefteris Papadopulos",
+    "en": "Lefteris Papadopoulos"
+   },
+   {
+    "el": "Λεωνίδας Καβάκος",
+    "tr": "Leonidas Kavakos",
+    "en": "Leonidas Kavakos"
+   }
+  ],
+  "right": [
+   {
+    "el": "στιχουργός",
+    "tr": "söz yazarı",
+    "en": "lyricist"
+   },
+   {
+    "el": "συνθέτης",
+    "tr": "besteci",
+    "en": "composer"
+   },
+   {
+    "el": "βιολιστής",
+    "tr": "kemancı",
+    "en": "violinist"
+   },
+   {
+    "el": "τραγουδιστής",
+    "tr": "şarkıcı",
+    "en": "singer"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    1
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    2
+   ]
+  ]
+ },
+ {
+  "id": "cul-41",
+  "subject": "cul",
+  "n": 41,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": {
+   "el": "Στο επίσημο κείμενο οι προτάσεις σημειώνονται Α–Δ, ενώ η απάντηση δίνεται ως 1–4.",
+   "tr": "Resmî metinde ifadeler A–D olarak işaretlenmiş, cevap ise 1–4 olarak verilmiştir.",
+   "en": "In the official text the statements are labelled A–D while the answer is given as 1–4."
+  },
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Δεν υπάρχει Μουσείο Βυζαντινού Πολιτισμού στην πόλη της Θεσσαλονίκης",
+     "tr": "Selanik şehrinde Bizans Kültürü Müzesi yoktur",
+     "en": "There is no Museum of Byzantine Culture in the city of Thessaloniki"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Το Εθνικό Ιστορικό Μουσείο στεγάζεται στο κτίριο της Παλαιάς Βουλής στην Αθήνα",
+     "tr": "Ulusal Tarih Müzesi, Atina'daki Eski Parlamento binasında bulunmaktadır",
+     "en": "The National Historical Museum is housed in the Old Parliament building in Athens"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Στο Αρχαιολογικό Μουσείο Ηρακλείου Κρήτης οι επισκέπτες μπορούν να θαυμάσουν κυρίως τα αριστουργήματα του Μινωικού πολιτισμού",
+     "tr": "Girit'teki Kandiye (Heraklion) Arkeoloji Müzesi'nde ziyaretçiler başta Minos uygarlığının şaheserlerini hayranlıkla izleyebilir",
+     "en": "At the Heraklion Archaeological Museum in Crete visitors can admire mainly the masterpieces of the Minoan civilisation"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Από το 2018 η Εθνική Βιβλιοθήκη της Ελλάδος στεγάζεται στο Κέντρο Πολιτισμού Ίδρυμα Σταύρος Νιάρχος στην Αθήνα",
+     "tr": "2018'den beri Yunanistan Ulusal Kütüphanesi, Atina'daki Stavros Niarchos Vakfı Kültür Merkezi'nde bulunmaktadır",
+     "en": "Since 2018 the National Library of Greece has been housed in the Stavros Niarchos Foundation Cultural Center in Athens"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "cul-42",
+  "subject": "cul",
+  "n": 42,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος Έλληνας συνθέτης έγραψε τη μουσική της ταινίας «Ζ» του Κώστα Γαβρά;",
+   "tr": "Kostas Gavras'ın «Z» filminin müziğini hangi Yunan besteci yazdı?",
+   "en": "Which Greek composer wrote the music for Costa-Gavras's film «Z»?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Ο Μάνος Χατζηδάκης",
+    "tr": "Manos Hadjidakis",
+    "en": "Manos Hadjidakis"
+   },
+   {
+    "el": "Ο Μίκης Θεοδωράκης",
+    "tr": "Mikis Theodorakis",
+    "en": "Mikis Theodorakis"
+   },
+   {
+    "el": "Ο Γιάννης Σπανός",
+    "tr": "Yannis Spanos",
+    "en": "Yannis Spanos"
+   },
+   {
+    "el": "Ο Γιώργος Χατζηνάσιος",
+    "tr": "Yorgos Hadzinasios",
+    "en": "Giorgos Hatzinasios"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-43",
+  "subject": "cul",
+  "n": 43,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Σε ποιο από τα παρακάτω είδη μουσικής διέπρεψε ο Μάρκος Βαμβακάρης;",
+   "tr": "Markos Vamvakaris aşağıdaki müzik türlerinden hangisinde öne çıktı?",
+   "en": "In which of the following kinds of music did Markos Vamvakaris excel?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Λαϊκό τραγούδι",
+    "tr": "Laiko (popüler halk şarkısı)",
+    "en": "Laïko (popular song)"
+   },
+   {
+    "el": "Ρεμπέτικο τραγούδι",
+    "tr": "Rebetiko şarkısı",
+    "en": "Rebetiko song"
+   },
+   {
+    "el": "Έντεχνο τραγούδι",
+    "tr": "Entehno (sanat şarkısı)",
+    "en": "Entechno (art song)"
+   },
+   {
+    "el": "Δημοτικό τραγούδι",
+    "tr": "Dimotiko (geleneksel halk türküsü)",
+    "en": "Dimotiko (traditional folk song)"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-44",
+  "subject": "cul",
+  "n": 44,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τους όρους της στήλης Ι με τους όρους της στήλης ΙΙ.",
+   "tr": "I. sütundaki terimleri II. sütundaki terimlerle eşleştirin.",
+   "en": "Match the terms in column I with the terms in column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Κυριακάτικο ξύπνημα",
+    "tr": "Pazar Uyanışı",
+    "en": "Sunday Awakening"
+   },
+   {
+    "el": "Η Αλίκη στο Ναυτικό",
+    "tr": "Aliki Donanmada",
+    "en": "Aliki in the Navy"
+   },
+   {
+    "el": "Τζένη, Τζένη",
+    "tr": "Jenny, Jenny",
+    "en": "Jenny, Jenny"
+   },
+   {
+    "el": "Τα κόκκινα φανάρια",
+    "tr": "Kırmızı Fenerler",
+    "en": "The Red Lanterns"
+   }
+  ],
+  "right": [
+   {
+    "el": "Αλίκη Βουγιουκλάκη",
+    "tr": "Aliki Vuyuklaki",
+    "en": "Aliki Vougiouklaki"
+   },
+   {
+    "el": "Δέσπω Διαμαντίδου",
+    "tr": "Despo Diamantidu",
+    "en": "Despo Diamantidou"
+   },
+   {
+    "el": "Έλλη Λαμπέτη",
+    "tr": "Elli Lambeti",
+    "en": "Elli Lambeti"
+   },
+   {
+    "el": "Τζένη Καρέζη",
+    "tr": "Jenny Karezi",
+    "en": "Jenny Karezi"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    3
+   ],
+   [
+    3,
+    1
+   ]
+  ]
+ },
+ {
+  "id": "cul-45",
+  "subject": "cul",
+  "n": 45,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Σε ποια ταινία του Θόδωρου Αγγελόπουλου ο τίτλος αναφέρεται σε αρχαιοελληνικό ήρωα;",
+   "tr": "Theo Angelopoulos'un hangi filminin adı antik Yunan kahramanına gönderme yapar?",
+   "en": "In which film by Theo Angelopoulos does the title refer to an ancient Greek hero?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Ο Μελισσοκόμος",
+    "tr": "Arıcı",
+    "en": "The Beekeeper"
+   },
+   {
+    "el": "Δάφνις και Χλόη",
+    "tr": "Daphnis ve Chloe",
+    "en": "Daphnis and Chloe"
+   },
+   {
+    "el": "Το Μετέωρο Βήμα του πελαργού",
+    "tr": "Leyleğin Askıdaki Adımı",
+    "en": "The Suspended Step of the Stork"
+   },
+   {
+    "el": "Ο Μεγαλέξανδρος",
+    "tr": "Megaleksandros (Büyük İskender)",
+    "en": "Megalexandros (Alexander the Great)"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "cul-46",
+  "subject": "cul",
+  "n": 46,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος σκηνοθέτησε την ταινία «Κυνόδοντας» που υπήρξε το 2011 υποψήφια για Όσκαρ καλύτερης ξενόγλωσσης ταινίας;",
+   "tr": "2011'de En İyi Yabancı Dilde Film Oscar'ına aday gösterilen «Köpekdişi» filmini kim yönetti?",
+   "en": "Who directed the film «Dogtooth», which in 2011 was nominated for the Oscar for Best Foreign Language Film?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Παντελής Βούλγαρης",
+    "tr": "Pantelis Vulgaris",
+    "en": "Pantelis Voulgaris"
+   },
+   {
+    "el": "Γιώργος Λάνθιμος",
+    "tr": "Yorgos Lanthimos",
+    "en": "Yorgos Lanthimos"
+   },
+   {
+    "el": "Κώστας Γαβράς",
+    "tr": "Kostas Gavras",
+    "en": "Costa-Gavras"
+   },
+   {
+    "el": "Θεόδωρος Αγγελόπουλος",
+    "tr": "Theodoros Angelopoulos",
+    "en": "Theodoros (Theo) Angelopoulos"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-47",
+  "subject": "cul",
+  "n": 47,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια είναι η διάσημη Ελληνίδα ηθοποιός της φωτογραφίας, που πρωταγωνίστησε στην κινηματογραφική ταινία: «Στέλλα» του Μιχάλη Κακογιάννη;",
+   "tr": "Fotoğraftaki, Mihalis Kakoyannis'in «Stella» filminde başrol oynayan ünlü Yunan kadın oyuncu kimdir?",
+   "en": "Who is the famous Greek actress in the photograph, who starred in Michael Cacoyannis's film «Stella»?"
+  },
+  "note": {
+   "el": "Το πρωτότυπο δείχνει φωτογραφία της ηθοποιού, η οποία παραλείπεται· η ερώτηση απαντάται από το κείμενο.",
+   "tr": "Asıl soruda oyuncunun fotoğrafı vardır; burada gösterilmiyor. Soru metinden cevaplanabilir.",
+   "en": "The original shows a photo of the actress, omitted here; the question can be answered from the text."
+  },
+  "image": true,
+  "options": [
+   {
+    "el": "Έλλη Λαμπέτη",
+    "tr": "Elli Lambeti",
+    "en": "Elli Lambeti"
+   },
+   {
+    "el": "Μελίνα Μερκούρη",
+    "tr": "Melina Merkuri",
+    "en": "Melina Mercouri"
+   },
+   {
+    "el": "Μάρθα Καραγιάννη",
+    "tr": "Martha Karayanni",
+    "en": "Martha Karagianni"
+   },
+   {
+    "el": "Μάρω Κοντού",
+    "tr": "Maro Kontu",
+    "en": "Maro Kontou"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-48",
+  "subject": "cul",
+  "n": 48,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος σκηνοθέτησε την κινηματογραφική ταινία: «Αλέξης Ζορμπάς» που ήταν υποψήφια για επτά βραβεία Όσκαρ;",
+   "tr": "Yedi Oscar ödülüne aday gösterilen «Zorba» filmini kim yönetti?",
+   "en": "Who directed the film «Zorba the Greek», which was nominated for seven Oscars?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Αλέκος Σακελλάριος",
+    "tr": "Alekos Sakellarios",
+    "en": "Alekos Sakellarios"
+   },
+   {
+    "el": "Θεόδωρος Αγγελόπουλος",
+    "tr": "Theodoros Angelopoulos",
+    "en": "Theodoros (Theo) Angelopoulos"
+   },
+   {
+    "el": "Κώστας Γαβράς",
+    "tr": "Kostas Gavras",
+    "en": "Costa-Gavras"
+   },
+   {
+    "el": "Μιχάλης Κακογιάννης",
+    "tr": "Mihalis Kakoyannis",
+    "en": "Michael Cacoyannis"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "cul-49",
+  "subject": "cul",
+  "n": 49,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος Έλληνας ηθοποιός πρωταγωνιστούσε στην ταινία «Αλλοίμονο στους νέους»;",
+   "tr": "«Vay Gençlerin Haline» filminde hangi Yunan erkek oyuncu başrol oynuyordu?",
+   "en": "Which Greek actor starred in the film «Woe to the Young»?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Ο Δημήτρης Χορν",
+    "tr": "Dimitris Horn",
+    "en": "Dimitris Horn"
+   },
+   {
+    "el": "Ο Δημήτρης Παπαμιχαήλ",
+    "tr": "Dimitris Papamihail",
+    "en": "Dimitris Papamichael"
+   },
+   {
+    "el": "Ο Δημήτρης Καταλειφός",
+    "tr": "Dimitris Katalifos",
+    "en": "Dimitris Katalifos"
+   },
+   {
+    "el": "Ο Δημήτρης Καλλιβωκάς",
+    "tr": "Dimitris Kallivokas",
+    "en": "Dimitris Kallivokas"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "cul-50",
+  "subject": "cul",
+  "n": 50,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Στην κλασική ταινία: «Κάλπικη Λίρα» πρωταγωνιστούσαν μεταξύ άλλων:",
+   "tr": "Klasik «Kalp Lira» (Sahte Altın) filminde başrol oyuncuları arasında şunlar vardı:",
+   "en": "The classic film «The Counterfeit Coin» starred, among others:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Μαρίκα Κοτοπούλη – Δημήτρης Χορν",
+    "tr": "Marika Kotopuli – Dimitris Horn",
+    "en": "Marika Kotopouli – Dimitris Horn"
+   },
+   {
+    "el": "Δημήτρης Χορν – Έλλη Λαμπέτη",
+    "tr": "Dimitris Horn – Elli Lambeti",
+    "en": "Dimitris Horn – Elli Lambeti"
+   },
+   {
+    "el": "Μίμης Φωτόπουλος – Τζένη Καρέζη",
+    "tr": "Mimis Fotopulos – Jenny Karezi",
+    "en": "Mimis Fotopoulos – Jenny Karezi"
+   },
+   {
+    "el": "Γεωργία Βασιλειάδου – Ορέστης Μακρής",
+    "tr": "Yeoryia Vasiliadu – Orestis Makris",
+    "en": "Georgia Vasileiadou – Orestis Makris"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-51",
+  "subject": "cul",
+  "n": 51,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια διεθνούς φήμης Ελληνίδα ηθοποιός έπαιξε στη διάσημη ταινία: «Τα κανόνια του Ναβαρόνε»;",
+   "tr": "Uluslararası üne sahip hangi Yunan kadın oyuncu ünlü «Navarone Topları» filminde oynadı?",
+   "en": "Which internationally renowned Greek actress played in the famous film «The Guns of Navarone»?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Μελίνα Μερκούρη",
+    "tr": "Melina Merkuri",
+    "en": "Melina Mercouri"
+   },
+   {
+    "el": "Ειρήνη Παπά",
+    "tr": "İrini Papa",
+    "en": "Irene Papas"
+   },
+   {
+    "el": "Κατίνα Παξινού",
+    "tr": "Katina Paksinu",
+    "en": "Katina Paxinou"
+   },
+   {
+    "el": "Άννα Συνοδινού",
+    "tr": "Anna Sinodinu",
+    "en": "Anna Synodinou"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-52",
+  "subject": "cul",
+  "n": 52,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιοι Έλληνες ποιητές πήραν το Νόμπελ Λογοτεχνίας;",
+   "tr": "Hangi Yunan şairler Nobel Edebiyat Ödülü'nü aldı?",
+   "en": "Which Greek poets won the Nobel Prize in Literature?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Κωστής Παλαμάς και Γιάννης Ρίτσος",
+    "tr": "Kostis Palamas ve Yannis Ritsos",
+    "en": "Kostis Palamas and Yannis Ritsos"
+   },
+   {
+    "el": "Γιώργος Σεφέρης και Οδυσσέας Ελύτης",
+    "tr": "Yorgos Seferis ve Odisseas Elitis",
+    "en": "Giorgos Seferis and Odysseas Elytis"
+   },
+   {
+    "el": "Ανδρέας Κάλβος και Κώστας Βάρναλης",
+    "tr": "Andreas Kalvos ve Kostas Varnalis",
+    "en": "Andreas Kalvos and Kostas Varnalis"
+   },
+   {
+    "el": "Κώστας Καρυωτάκης και Κωνσταντίνος Καβάφης",
+    "tr": "Kostas Kariotakis ve Konstantinos Kavafis",
+    "en": "Kostas Karyotakis and Constantine Cavafy"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-53",
+  "subject": "cul",
+  "n": 53,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος συνθέτης μελοποίησε τον «Ύμνον εις την Ελευθερίαν» του Διονύσιου Σολωμού, που αποτελεί τον εθνικό ύμνο της Ελλάδας;",
+   "tr": "Yunanistan'ın milli marşı olan, Dionisios Solomos'un «Özgürlüğe Övgü» şiirini hangi besteci besteledi?",
+   "en": "Which composer set to music Dionysios Solomos's «Hymn to Liberty», which is the national anthem of Greece?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Μανώλης Καλομοίρης",
+    "tr": "Manolis Kalomiris",
+    "en": "Manolis Kalomiris"
+   },
+   {
+    "el": "Νικόλαος Μάντζαρος",
+    "tr": "Nikolaos Mantzaros",
+    "en": "Nikolaos Mantzaros"
+   },
+   {
+    "el": "Νίκος Σκαλκώτας",
+    "tr": "Nikos Skalkotas",
+    "en": "Nikos Skalkottas"
+   },
+   {
+    "el": "Γεώργιος Λαμπελέτ",
+    "tr": "Yeoryios Lambelet",
+    "en": "Georgios Lambelet"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-54",
+  "subject": "cul",
+  "n": 54,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τους όρους της στήλης Ι με τους όρους της στήλης ΙΙ.",
+   "tr": "I. sütundaki terimleri II. sütundaki terimlerle eşleştirin.",
+   "en": "Match the terms in column I with the terms in column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Πηνελόπη Δέλτα",
+    "tr": "Pinelopi Delta",
+    "en": "Penelope Delta"
+   },
+   {
+    "el": "Μαρία Ιορδανίδου",
+    "tr": "Maria Yordanidu",
+    "en": "Maria Iordanidou"
+   },
+   {
+    "el": "Νίκος Καζαντζάκης",
+    "tr": "Nikos Kazancakis",
+    "en": "Nikos Kazantzakis"
+   },
+   {
+    "el": "Αλέξανδρος Παπαδιαμάντης",
+    "tr": "Aleksandros Papadiamantis",
+    "en": "Alexandros Papadiamantis"
+   }
+  ],
+  "right": [
+   {
+    "el": "Βίος και Πολιτεία του Αλέξη Ζορμπά",
+    "tr": "Aleksis Zorba'nın Hayatı ve Maceraları (Zorba)",
+    "en": "Life and Times of Alexis Zorba (Zorba the Greek)"
+   },
+   {
+    "el": "Η Φόνισσα",
+    "tr": "Katil Kadın",
+    "en": "The Murderess"
+   },
+   {
+    "el": "Τα μυστικά του βάλτου",
+    "tr": "Bataklığın Sırları",
+    "en": "The Secrets of the Swamp"
+   },
+   {
+    "el": "Λωξάντρα",
+    "tr": "Loksandra",
+    "en": "Loxandra"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    1
+   ]
+  ]
+ },
+ {
+  "id": "cul-55",
+  "subject": "cul",
+  "n": 55,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος από τους παρακάτω Έλληνες συγγραφείς ανήκει στον χώρο της παιδικής λογοτεχνίας;",
+   "tr": "Aşağıdaki Yunan yazarlardan hangisi çocuk edebiyatı alanındadır?",
+   "en": "Which of the following Greek writers belongs to the field of children's literature?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Γιώργος Ιωάννου",
+    "tr": "Yorgos Ioannu",
+    "en": "Giorgos Ioannou"
+   },
+   {
+    "el": "Ισίδωρος Ζουργός",
+    "tr": "İsidoros Zurgos",
+    "en": "Isidoros Zourgos"
+   },
+   {
+    "el": "Αντώνης Σαμαράκης",
+    "tr": "Antonis Samarakis",
+    "en": "Antonis Samarakis"
+   },
+   {
+    "el": "Ευγένιος Τριβιζάς",
+    "tr": "Evyenios Trivizas",
+    "en": "Eugene Trivizas"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "cul-56",
+  "subject": "cul",
+  "n": 56,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "fill",
+  "prompt": {
+   "el": "Συμπληρώστε τη σωστή απάντηση στο κενό που υπάρχει σε κάθε πρόταση.",
+   "tr": "Her cümledeki boşluğu doğru cevapla doldurun.",
+   "en": "Fill in the correct answer in the blank in each sentence."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "1. Ένα από τα πιο γνωστά λογοτεχνικά έργα της συγγραφέως Άλκης Ζέη είναι (1) ___. 2. Ο συγγραφέας Τάσος Αθανασιάδης έγραψε το μυθιστόρημα (2) ___. 3. Ο συγγραφέας Αλέξανδρος Παπαδιαμάντης έγραψε το λογοτεχνικό έργο (3) ___. 4. (4) ___ είναι ένα από τα σπουδαιότερα μυθιστορήματα του λογοτέχνη Ηλία Βενέζη.",
+   "tr": "1. Yazar Alki Zei'nin en tanınmış edebî eserlerinden biri (1) ___'dır. 2. Yazar Tasos Athanasiadis (2) ___ romanını yazdı. 3. Yazar Aleksandros Papadiamantis (3) ___ adlı edebî eseri yazdı. 4. (4) ___, edebiyatçı İlias Venezis'in en önemli romanlarından biridir.",
+   "en": "1. One of the best-known literary works of the author Alki Zei is (1) ___. 2. The author Tasos Athanasiadis wrote the novel (2) ___. 3. The author Alexandros Papadiamantis wrote the literary work (3) ___. 4. (4) ___ is one of the most important novels of the writer Ilias Venezis."
+  },
+  "bank": [
+   {
+    "el": "Οι Έμποροι των Εθνών",
+    "tr": "Milletlerin Tüccarları",
+    "en": "The Merchants of Nations"
+   },
+   {
+    "el": "Το νούμερο 31328",
+    "tr": "31328 Numara",
+    "en": "Number 31328"
+   },
+   {
+    "el": "Η Αρραβωνιαστικιά του Αχιλλέα",
+    "tr": "Ahilleas'ın Nişanlısı",
+    "en": "Achilles' Fiancée"
+   },
+   {
+    "el": "Οι Πανθέοι",
+    "tr": "Pantheoi",
+    "en": "The Pantheoi"
+   }
+  ],
+  "answers": [
+   {
+    "el": "Η Αρραβωνιαστικιά του Αχιλλέα",
+    "tr": "Ahilleas'ın Nişanlısı",
+    "en": "Achilles' Fiancée"
+   },
+   {
+    "el": "Οι Πανθέοι",
+    "tr": "Pantheoi",
+    "en": "The Pantheoi"
+   },
+   {
+    "el": "Οι Έμποροι των Εθνών",
+    "tr": "Milletlerin Tüccarları",
+    "en": "The Merchants of Nations"
+   },
+   {
+    "el": "Το νούμερο 31328",
+    "tr": "31328 Numara",
+    "en": "Number 31328"
+   }
+  ]
+ },
+ {
+  "id": "cul-57",
+  "subject": "cul",
+  "n": 57,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ο Σπύρος Λούης κέρδισε το πρώτο μετάλλιο των Ολυμπιακών Αγώνων (1896) στην Αθήνα στο αγώνισμα:",
+   "tr": "Spiros Luis, Atina'daki Olimpiyat Oyunları'nda (1896) birincilik madalyasını şu yarışmada kazandı:",
+   "en": "Spyros Louis won the first-place medal of the Olympic Games (1896) in Athens in the event of:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "του δίσκου",
+    "tr": "disk atma",
+    "en": "the discus"
+   },
+   {
+    "el": "του ακόντιου",
+    "tr": "cirit atma",
+    "en": "the javelin"
+   },
+   {
+    "el": "της πάλης",
+    "tr": "güreş",
+    "en": "wrestling"
+   },
+   {
+    "el": "του δρόμου",
+    "tr": "koşu",
+    "en": "running (the race)"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "cul-58",
+  "subject": "cul",
+  "n": 58,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Στην Αθήνα βρίσκεται το βυζαντινό μνημείο – ναός της Παναγίας Καπνικαρέας.",
+     "tr": "Bizans anıtı olan Panagia Kapnikarea kilisesi Atina'dadır.",
+     "en": "The Byzantine monument, the church of Panagia Kapnikarea, is in Athens."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο Ιάκωβος Καμπανέλλης είναι από τους σημαντικότερους νεοέλληνες θεατρικούς συγγραφείς.",
+     "tr": "İakovos Kambanellis, en önemli modern Yunan tiyatro yazarlarından biridir.",
+     "en": "Iakovos Kambanellis is one of the most important modern Greek playwrights."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Αλίκη Βουγιουκλάκη ερμήνευσε το τραγούδι: «Τα παιδιά του Πειραιά».",
+     "tr": "Aliki Vuyuklaki «Pire'nin Çocukları» şarkısını seslendirdi.",
+     "en": "Aliki Vougiouklaki sang the song «The Children of Piraeus»."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Μελίνα Μερκούρη πρωταγωνίστησε στη «Στέλλα» του Μιχάλη Κακογιάννη.",
+     "tr": "Melina Merkuri, Mihalis Kakoyannis'in «Stella» filminde başrol oynadı.",
+     "en": "Melina Mercouri starred in Michael Cacoyannis's «Stella»."
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "cul-59",
+  "subject": "cul",
+  "n": 59,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ο Παναγής Κουταλιανός (1847-1916) γεννήθηκε στην Κούταλη της Προποντίδας και πήρε μέρος σε πολλούς αγώνες αποκτώντας μεγάλη φήμη Έλληνα αθλητή:",
+   "tr": "Panagis Kutalianos (1847-1916) Marmara Denizi'ndeki Ekinlik Adası'nda doğdu ve birçok yarışmaya katılarak bir Yunan sporcusu olarak büyük ün kazandı:",
+   "en": "Panagis Koutalianos (1847-1916) was born on Koutali in the Propontis (Sea of Marmara) and took part in many contests, gaining great fame as a Greek athlete:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "στην άρση βαρών",
+    "tr": "halterde",
+    "en": "in weightlifting"
+   },
+   {
+    "el": "στο άλμα",
+    "tr": "atlamada",
+    "en": "in jumping"
+   },
+   {
+    "el": "στην πάλη",
+    "tr": "güreşte",
+    "en": "in wrestling"
+   },
+   {
+    "el": "στον δίσκο",
+    "tr": "disk atmada",
+    "en": "in the discus"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "cul-60",
+  "subject": "cul",
+  "n": 60,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τους όρους της στήλης Ι με τους όρους της στήλης ΙΙ.",
+   "tr": "I. sütundaki terimleri II. sütundaki terimlerle eşleştirin.",
+   "en": "Match the terms in column I with the terms in column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Η Αθήνα ανέλαβε τη διοργάνωση των Ολυμπιακών Αγώνων",
+    "tr": "Atina Olimpiyat Oyunları'na ev sahipliği yaptı",
+    "en": "Athens hosted the Olympic Games"
+   },
+   {
+    "el": "Πραγματοποιήθηκε η αναβίωση των πρώτων Ολυμπιακών Αγώνων",
+    "tr": "İlk Olimpiyat Oyunları yeniden canlandırıldı",
+    "en": "The first Olympic Games were revived"
+   },
+   {
+    "el": "Η Ελλάδα κατέστη πρωταθλήτρια στους Πανευρωπαϊκούς αγώνες καλαθοσφαίρισης (Ευρωμπάσκετ)",
+    "tr": "Yunanistan Avrupa Basketbol Şampiyonası'nda (Eurobasket) şampiyon oldu",
+    "en": "Greece became champion of the European Basketball Championship (EuroBasket)"
+   },
+   {
+    "el": "Ξεκίνησε στην Αθήνα ο διεθνής αγώνας αυτοκινήτου «Ράλλυ Ακρόπολις»",
+    "tr": "Atina'da uluslararası «Akropolis Rallisi» otomobil yarışı başladı",
+    "en": "The international «Acropolis Rally» motor race began in Athens"
+   }
+  ],
+  "right": [
+   {
+    "el": "1953",
+    "tr": "1953",
+    "en": "1953"
+   },
+   {
+    "el": "1987",
+    "tr": "1987",
+    "en": "1987"
+   },
+   {
+    "el": "1896",
+    "tr": "1896",
+    "en": "1896"
+   },
+   {
+    "el": "2004",
+    "tr": "2004",
+    "en": "2004"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    2,
+    1
+   ],
+   [
+    3,
+    0
+   ]
+  ]
+ },
+ {
+  "id": "cul-61",
+  "subject": "cul",
+  "n": 61,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "fill",
+  "prompt": {
+   "el": "Συμπληρώστε τη σωστή απάντηση στο κενό που υπάρχει σε κάθε πρόταση. (μία λέξη περισσεύει)",
+   "tr": "Her cümledeki boşluğu doğru cevapla doldurun. (bir kelime fazladır)",
+   "en": "Fill in the correct answer in the blank in each sentence. (one word is left over)"
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Πολλές αθλητικές ομάδες στην Ελλάδα ιδρύθηκαν στα τέλη 19ου και αρχές του 20ού αιώνα σε μεγάλα λιμάνια, όπως η (1) ___ στην Πάτρα και ο (2) ___ στον Πειραιά, ενώ άλλες μετά την έλευση των Μικρασιατών προσφύγων του 1922, όπως η (3) ___ στη Νέα Φιλαδέλφεια και ο (4) ___ στη Θεσσαλονίκη.",
+   "tr": "Yunanistan'daki birçok spor kulübü 19. yüzyılın sonu ile 20. yüzyılın başında büyük liman şehirlerinde kuruldu; örneğin Patra'da (1) ___ ve Pire'de (2) ___. Diğerleri ise 1922'de Küçük Asyalı mültecilerin gelişinden sonra kuruldu; örneğin Nea Filadelfia'da (3) ___ ve Selanik'te (4) ___.",
+   "en": "Many sports clubs in Greece were founded in the late 19th and early 20th century in large ports, such as (1) ___ in Patras and (2) ___ in Piraeus, while others were founded after the arrival of the refugees from Asia Minor in 1922, such as (3) ___ in Nea Filadelfeia and (4) ___ in Thessaloniki."
+  },
+  "bank": [
+   {
+    "el": "ΑΕΚ",
+    "tr": "AEK",
+    "en": "AEK"
+   },
+   {
+    "el": "ΠΑΝΑΧΑΪΚΗ",
+    "tr": "PANAHAİKİ",
+    "en": "PANACHAIKI"
+   },
+   {
+    "el": "ΟΛΥΜΠΙΑΚΟΣ",
+    "tr": "OLYMPİAKOS",
+    "en": "OLYMPIACOS"
+   },
+   {
+    "el": "ΠΑΟΚ",
+    "tr": "PAOK",
+    "en": "PAOK"
+   },
+   {
+    "el": "ΠΑΝΑΘΗΝΑΪΚΟΣ",
+    "tr": "PANATHİNAİKOS",
+    "en": "PANATHINAIKOS"
+   }
+  ],
+  "answers": [
+   {
+    "el": "ΠΑΝΑΧΑΪΚΗ",
+    "tr": "PANAHAİKİ",
+    "en": "PANACHAIKI"
+   },
+   {
+    "el": "ΟΛΥΜΠΙΑΚΟΣ",
+    "tr": "OLYMPİAKOS",
+    "en": "OLYMPIACOS"
+   },
+   {
+    "el": "ΑΕΚ",
+    "tr": "AEK",
+    "en": "AEK"
+   },
+   {
+    "el": "ΠΑΟΚ",
+    "tr": "PAOK",
+    "en": "PAOK"
+   }
+  ]
+ },
+ {
+  "id": "cul-62",
+  "subject": "cul",
+  "n": 62,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τους όρους της στήλης Ι με τους όρους της στήλης ΙΙ.",
+   "tr": "I. sütundaki terimleri II. sütundaki terimlerle eşleştirin.",
+   "en": "Match the terms in column I with the terms in column II."
+  },
+  "note": {
+   "el": "Στήλη ΙΙ: τίτλοι έργων (πινάκων) των ζωγράφων της στήλης Ι.",
+   "tr": "II. sütun: I. sütundaki ressamların eserlerinin (tablolarının) adları.",
+   "en": "Column II: titles of works (paintings) by the painters in column I."
+  },
+  "image": false,
+  "left": [
+   {
+    "el": "Αλέκος Φασιανός",
+    "tr": "Alekos Fasianos",
+    "en": "Alekos Fassianos"
+   },
+   {
+    "el": "Γιάννης Μώραλης",
+    "tr": "Yannis Moralis",
+    "en": "Yannis Moralis"
+   },
+   {
+    "el": "Γιάννης Τσαρούχης",
+    "tr": "Yannis Tsaruhis",
+    "en": "Yannis Tsarouchis"
+   },
+   {
+    "el": "Νίκος Εγγονόπουλος",
+    "tr": "Nikos Engonopulos",
+    "en": "Nikos Engonopoulos"
+   }
+  ],
+  "right": [
+   {
+    "el": "Ναύτης",
+    "tr": "Denizci",
+    "en": "Sailor"
+   },
+   {
+    "el": "Αϊ Γιώργης",
+    "tr": "Aziz Yorgi",
+    "en": "Saint George"
+   },
+   {
+    "el": "Ποδηλάτης",
+    "tr": "Bisikletçi",
+    "en": "Cyclist"
+   },
+   {
+    "el": "Ερωτικό",
+    "tr": "Erotik",
+    "en": "Erotic"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    1
+   ]
+  ]
+ },
+ {
+  "id": "cul-63",
+  "subject": "cul",
+  "n": 63,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ο Επιτάφιος, που συμβολίζει τον τάφο του Χριστού, περιφέρεται τις συνοικίες πόλεων και χωριών κατά τη Μεγάλη Παρασκευή:",
+   "tr": "İsa'nın mezarını simgeleyen Epitafios, şu bayramın Kutsal Cuma gününde şehir ve köylerin mahallelerinde dolaştırılır:",
+   "en": "The Epitaphios, which symbolises the tomb of Christ, is carried in procession through the neighbourhoods of towns and villages on Good Friday of:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "του Πάσχα",
+    "tr": "Paskalya",
+    "en": "Easter"
+   },
+   {
+    "el": "των Χριστουγέννων",
+    "tr": "Noel",
+    "en": "Christmas"
+   },
+   {
+    "el": "της Πρωτομαγιάς",
+    "tr": "1 Mayıs",
+    "en": "May Day"
+   },
+   {
+    "el": "του Δεκαπενταύγουστου",
+    "tr": "15 Ağustos (Meryem Ana bayramı)",
+    "en": "the Fifteenth of August (Dormition)"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "cul-64",
+  "subject": "cul",
+  "n": 64,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Την παραμονή της Πρωτοχρονιάς συνηθίζουμε να κόβουμε:",
+   "tr": "Yılbaşı gecesi şunu kesmek âdettir:",
+   "en": "On New Year's Eve it is customary to cut:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "τη Βασιλόπιττα",
+    "tr": "Vasilopita'yı (yılbaşı çöreği)",
+    "en": "the Vasilopita (New Year's cake)"
+   },
+   {
+    "el": "τη Φανουρόπιτα",
+    "tr": "Fanuropita'yı",
+    "en": "the Fanouropita"
+   },
+   {
+    "el": "το Χριστόψωμο",
+    "tr": "Hristopsomo'yu (Noel ekmeği)",
+    "en": "the Christopsomo (Christmas bread)"
+   },
+   {
+    "el": "Τσουρέκια",
+    "tr": "Paskalya çöreklerini (tsureki)",
+    "en": "Tsourekia (sweet braided breads)"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "cul-65",
+  "subject": "cul",
+  "n": 65,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Ο Λευκός Πύργος στη Θεσσαλονίκη είναι έργο βυζαντινών αυτοκρατόρων",
+     "tr": "Selanik'teki Beyaz Kule, Bizans imparatorlarının eseridir",
+     "en": "The White Tower in Thessaloniki is the work of Byzantine emperors"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η «Κοιμωμένη» είναι γλυπτό του γνωστού Έλληνα Γιώργου Ζογγολόπουλου",
+     "tr": "«Uyuyan Kız», ünlü Yunan Yorgos Zongolopulos'un heykelidir",
+     "en": "«The Sleeping Girl» is a sculpture by the well-known Greek Giorgos Zongolopoulos"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Ευανθία Ρεμπούτσικα συνέθεσε τη μουσική για την κινηματογραφική ταινία «Πολίτικη Κουζίνα»",
+     "tr": "Evanthia Reboutsika «Bir Tutam Baharat (Politiki Kouzina)» filminin müziğini besteledi",
+     "en": "Evanthia Reboutsika composed the music for the film «A Touch of Spice (Politiki Kouzina)»"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Σωτηρία Μπέλλου είναι μία από τις πιο γνωστές εκπροσώπους του ρεμπέτικου τραγουδιού",
+     "tr": "Sotiria Bellou, rebetiko şarkısının en tanınmış temsilcilerinden biridir",
+     "en": "Sotiria Bellou is one of the best-known exponents of rebetiko song"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "cul-66",
+  "subject": "cul",
+  "n": 66,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ένα από τα πιο χαρακτηριστικά έθιμα είναι να εκδράμουν οι οικογένειες στην εξοχή και τα παιδιά να πετούν χαρταετούς:",
+   "tr": "En karakteristik geleneklerden biri, ailelerin kırlara gezintiye çıkması ve çocukların uçurtma uçurmasıdır:",
+   "en": "One of the most characteristic customs is for families to go on an outing to the countryside and for children to fly kites:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "τη Μεγάλη Παρασκευή",
+    "tr": "Kutsal Cuma günü",
+    "en": "on Good Friday"
+   },
+   {
+    "el": "την Καθαρά Δευτέρα",
+    "tr": "Kathara Deftera (Temiz Pazartesi) günü",
+    "en": "on Clean Monday"
+   },
+   {
+    "el": "την Πρωτοχρονιά",
+    "tr": "Yılbaşı günü",
+    "en": "on New Year's Day"
+   },
+   {
+    "el": "τη Δευτέρα του Πάσχα",
+    "tr": "Paskalya Pazartesisi",
+    "en": "on Easter Monday"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-67",
+  "subject": "cul",
+  "n": 67,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Αποκορύφωση της Μεγάλης Εβδομάδος του Πάσχα είναι να συγκεντρώνονται οι πιστοί της ναούς, να λαμβάνουν σε λαμπάδες το άγιο Φως και να ακολουθούν πυροτεχνήματα κατά τη νύχτα:",
+   "tr": "Paskalya'nın Kutsal Haftası'nın doruk noktası, inananların kiliselerde toplanması, mumlarla Kutsal Işığı alması ve ardından havai fişeklerin atılmasıdır; bu şu gecede olur:",
+   "en": "The culmination of Holy Week of Easter is when the faithful gather in the churches, receive the Holy Light on candles and fireworks follow, during the night of:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "της Μεγάλης Παρασκευής",
+    "tr": "Kutsal Cuma",
+    "en": "Good Friday"
+   },
+   {
+    "el": "του Μεγάλου Σαββάτου",
+    "tr": "Kutsal Cumartesi",
+    "en": "Holy Saturday"
+   },
+   {
+    "el": "της Κυριακής του Πάσχα",
+    "tr": "Paskalya Pazarı",
+    "en": "Easter Sunday"
+   },
+   {
+    "el": "των Θεοφανίων",
+    "tr": "Epifani (Theofania)",
+    "en": "Epiphany (Theophany)"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "cul-68",
+  "subject": "cul",
+  "n": 68,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Τι είναι η μαγειρίτσα;",
+   "tr": "Mayiritsa nedir?",
+   "en": "What is magiritsa?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Μαγειρευτό φαγητό που τρώγεται την πρώτη μέρα του νέου έτους",
+    "tr": "Yeni yılın ilk günü yenen bir tencere yemeği",
+    "en": "A cooked dish eaten on the first day of the new year"
+   },
+   {
+    "el": "Το εθνικό φαγητό των Ελλήνων",
+    "tr": "Yunanların milli yemeği",
+    "en": "The national dish of the Greeks"
+   },
+   {
+    "el": "Παραδοσιακή σούπα με κρέας, που τρώγεται το βράδυ του Μεγάλου Σαββάτου",
+    "tr": "Kutsal Cumartesi gecesi yenen, etli geleneksel bir çorba",
+    "en": "A traditional soup with meat, eaten on the night of Holy Saturday"
+   },
+   {
+    "el": "Παραδοσιακή, ηπειρώτικη πίττα με κρέας",
+    "tr": "Epir yöresine özgü geleneksel etli börek",
+    "en": "A traditional meat pie from Epirus"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "cul-69",
+  "subject": "cul",
+  "n": 69,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Σημειώστε τον αριθμό του εθίμου και δίπλα αν σχετίζεται: Α. με το Πάσχα ή Β. με την Πρωτοχρονιά/τα Φώτα;",
+   "tr": "Her geleneğin numarasını ve yanına neyle ilişkili olduğunu yazın: A. Paskalya ile mi, yoksa B. Yılbaşı/Epifani (Fota) ile mi?",
+   "en": "Write the number of each custom and next to it whether it relates to: A. Easter or B. New Year/Epiphany (Fota)?"
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "βάψιμο κόκκινων αβγών",
+    "tr": "kırmızı yumurta boyama",
+    "en": "dyeing red eggs"
+   },
+   {
+    "el": "ρίξιμο σταυρού στη θάλασσα",
+    "tr": "haçın denize atılması",
+    "en": "throwing the cross into the sea"
+   },
+   {
+    "el": "περιφορά επιταφίου",
+    "tr": "Epitafios alayı",
+    "en": "the Epitaphios procession"
+   },
+   {
+    "el": "σπάσιμο ροδιού",
+    "tr": "nar kırma",
+    "en": "breaking a pomegranate"
+   }
+  ],
+  "right": [
+   {
+    "el": "με το Πάσχα",
+    "tr": "Paskalya ile",
+    "en": "Easter"
+   },
+   {
+    "el": "με την Πρωτοχρονιά/τα Φώτα",
+    "tr": "Yılbaşı/Epifani (Fota) ile",
+    "en": "New Year/Epiphany (Fota)"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    0
+   ],
+   [
+    1,
+    1
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    1
+   ]
+  ]
+ },
+ {
+  "id": "cul-70",
+  "subject": "cul",
+  "n": 70,
+  "section": {
+   "el": "Β.ΕΝΟΤΗΤΑ: «ΣΥΓΧΡΟΝΟΣ ΠΟΛΙΤΙΣΜΟΣ»",
+   "tr": "B BÖLÜMÜ: «ÇAĞDAŞ KÜLTÜR»",
+   "en": "SECTION B: «CONTEMPORARY CULTURE»"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Σαράντα ημέρες μετά τον θάνατο τελείται μνημόσυνο και φτιάχνουμε κόλλυβα",
+     "tr": "Ölümden kırk gün sonra anma ayini yapılır ve kollyva hazırlanır",
+     "en": "Forty days after a death a memorial service is held and we make kollyva"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Οι Καλικάντζαροι, σύμφωνα με την παράδοση, είναι τα καλά πνεύματα των Χριστουγέννων που φέρνουν καλοτυχία",
+     "tr": "Geleneğe göre Kalikantzarlar, Noel'in iyi talih getiren iyi ruhlarıdır",
+     "en": "According to tradition, the Kallikantzaroi are the good spirits of Christmas that bring good luck"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Όταν ξεκινάει η καινούρια σχολική χρονιά τελούμε αγιασμό",
+     "tr": "Yeni okul yılı başladığında kutsama (ayazma) ayini yapılır",
+     "en": "When the new school year begins we hold a blessing service (agiasmos)"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Όταν κάποιος αρρωσταίνει φτιάχνουμε Φανουρόπιτα για να γίνει καλά",
+     "tr": "Biri hastalandığında iyileşmesi için Fanuropita yaparız",
+     "en": "When someone falls ill we make Fanouropita so that they get well"
+    },
+    "answer": false
+   }
+  ]
+ }
+]

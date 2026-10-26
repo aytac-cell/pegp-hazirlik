@@ -1,0 +1,16 @@
+{
+  "name": "ΠΕΓΠ Hazırlık – Yunan Vatandaşlık Sınavı",
+  "short_name": "ΠΕΓΠ Hazırlık",
+  "description": "Yunan vatandaşlık sınavı (Π.Ε.Γ.Π.) soru bankası: Türkçe/İngilizce çeviri, akıllı tekrar, sınav provası.",
+  "lang": "tr",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fa",
+  "theme_color": "#0d47a1",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

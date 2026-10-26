@@ -1,0 +1,4335 @@
+[
+ {
+  "id": "geo-1",
+  "subject": "geo",
+  "n": 1,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Πόσες είναι οι Περιφερειακές Ενότητες της Ελλάδας;",
+   "tr": "Yunanistan'da kaç Bölgesel Birim vardır?",
+   "en": "How many Regional Units does Greece have?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "45",
+    "tr": "45",
+    "en": "45"
+   },
+   {
+    "el": "40",
+    "tr": "40",
+    "en": "40"
+   },
+   {
+    "el": "51",
+    "tr": "51",
+    "en": "51"
+   },
+   {
+    "el": "74",
+    "tr": "74",
+    "en": "74"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "geo-2",
+  "subject": "geo",
+  "n": 2,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Πόσος είναι ο πληθυσμός της Ελλάδας (σύμφωνα με την τελευταία απογραφή του 2021);",
+   "tr": "Yunanistan'ın nüfusu (2021'deki son nüfus sayımına göre) ne kadardır?",
+   "en": "What is the population of Greece (according to the latest census of 2021)?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "8 εκατομμύρια περίπου",
+    "tr": "Yaklaşık 8 milyon",
+    "en": "About 8 million"
+   },
+   {
+    "el": "7 εκατομμύρια περίπου",
+    "tr": "Yaklaşık 7 milyon",
+    "en": "About 7 million"
+   },
+   {
+    "el": "15 εκατομμύρια περίπου",
+    "tr": "Yaklaşık 15 milyon",
+    "en": "About 15 million"
+   },
+   {
+    "el": "10 εκατομμύρια περίπου",
+    "tr": "Yaklaşık 10 milyon",
+    "en": "About 10 million"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "geo-3",
+  "subject": "geo",
+  "n": 3,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια είναι η έκταση της Ελλάδας;",
+   "tr": "Yunanistan'ın yüzölçümü ne kadardır?",
+   "en": "What is the area of Greece?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "120.000 τετραγωνικά χιλιόμετρα περίπου",
+    "tr": "Yaklaşık 120.000 kilometrekare",
+    "en": "About 120,000 square kilometres"
+   },
+   {
+    "el": "100.000 τετραγωνικά χιλιόμετρα περίπου",
+    "tr": "Yaklaşık 100.000 kilometrekare",
+    "en": "About 100,000 square kilometres"
+   },
+   {
+    "el": "90.000 τετραγωνικά χιλιόμετρα περίπου",
+    "tr": "Yaklaşık 90.000 kilometrekare",
+    "en": "About 90,000 square kilometres"
+   },
+   {
+    "el": "132.000 τετραγωνικά χιλιόμετρα περίπου",
+    "tr": "Yaklaşık 132.000 kilometrekare",
+    "en": "About 132,000 square kilometres"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "geo-4",
+  "subject": "geo",
+  "n": 4,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "mc",
+  "prompt": {
+   "el": "Η Ερμούπολη είναι πρωτεύουσα:",
+   "tr": "Ermupoli hangisinin başkentidir?",
+   "en": "Ermoupoli is the capital of:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "της Νάξου",
+    "tr": "Naksos'un",
+    "en": "Naxos"
+   },
+   {
+    "el": "της Σύρου",
+    "tr": "Siros'un",
+    "en": "Syros"
+   },
+   {
+    "el": "της Περιφερειακής Ενότητας Λακωνίας",
+    "tr": "Lakonya Bölgesel Biriminin",
+    "en": "the Regional Unit of Laconia"
+   },
+   {
+    "el": "της Περιφερειακής Ενότητας Αχαΐας",
+    "tr": "Ahaya Bölgesel Biriminin",
+    "en": "the Regional Unit of Achaea"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "geo-5",
+  "subject": "geo",
+  "n": 5,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "fill",
+  "prompt": {
+   "el": "Γράψτε τον αριθμό που αντιστοιχεί σε κάθε κενό, σημειώνοντας δίπλα τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω:",
+   "tr": "Her boşluğun numarasını yazın ve yanına, aşağıdakiler arasından seçerek uygun kelimeyi ya da ifadeyi not edin:",
+   "en": "Write the number of each blank and next to it the word or phrase that fits, choosing from the following:"
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Η Μαγνησία είναι (1) ___ (2) ___ Ελλάδας που σχηματίζει έναν κυκλικό (3) ___.\nΗ Χαλκιδική βρίσκεται στη Βόρεια Ελλάδα και αποτελείται από (4) ___",
+   "tr": "Magnisia, (2) ___ Yunanistan'da dairesel bir (3) ___ oluşturan bir (1) ___.\nHalkidiki Kuzey Yunanistan'da bulunur ve (4) ___ oluşur.",
+   "en": "Magnesia is a (1) ___ of (2) ___ Greece that forms a circular (3) ___.\nChalkidiki is located in Northern Greece and consists of (4) ___."
+  },
+  "bank": [
+   {
+    "el": "κόλπο",
+    "tr": "körfez",
+    "en": "gulf"
+   },
+   {
+    "el": "χερσόνησος",
+    "tr": "yarımadadır",
+    "en": "peninsula"
+   },
+   {
+    "el": "τρεις χερσονήσους",
+    "tr": "üç yarımadadan",
+    "en": "three peninsulas"
+   },
+   {
+    "el": "της Κεντρικής",
+    "tr": "Orta",
+    "en": "Central"
+   }
+  ],
+  "answers": [
+   {
+    "el": "χερσόνησος",
+    "tr": "yarımadadır",
+    "en": "peninsula"
+   },
+   {
+    "el": "της Κεντρικής",
+    "tr": "Orta",
+    "en": "Central"
+   },
+   {
+    "el": "κόλπο",
+    "tr": "körfez",
+    "en": "gulf"
+   },
+   {
+    "el": "τρεις χερσονήσους",
+    "tr": "üç yarımadadan",
+    "en": "three peninsulas"
+   }
+  ]
+ },
+ {
+  "id": "geo-6",
+  "subject": "geo",
+  "n": 6,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε τέσσερις (4) από τις (13) Διοικητικές Περιφέρειες της Ελλάδας.",
+   "tr": "Yunanistan'ın 13 İdari Bölgesinden dördünü (4) yazın.",
+   "en": "Write four (4) of the thirteen (13) Administrative Regions of Greece."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Η Ελλάδα αποτελείται συνολικά από 13 Διοικητικές Περιφέρειες: Ανατολικής Μακεδονίας και Θράκης, Αττικής, Βορείου Αιγαίου, Δυτικής Ελλάδας, Δυτικής Μακεδονίας, Ηπείρου, Θεσσαλίας, Ιονίων Νήσων, Κεντρικής Μακεδονίας, Κρήτης, Νοτίου Αιγαίου, Πελοποννήσου, Στερεάς Ελλάδας.",
+   "tr": "Yunanistan toplam 13 İdari Bölgeden oluşur: Doğu Makedonya ve Trakya, Atika, Kuzey Ege, Batı Yunanistan, Batı Makedonya, Epir, Teselya, İyon Adaları, Orta Makedonya, Girit, Güney Ege, Mora, Orta Yunanistan.",
+   "en": "Greece consists of 13 Administrative Regions in total: Eastern Macedonia and Thrace, Attica, North Aegean, Western Greece, Western Macedonia, Epirus, Thessaly, Ionian Islands, Central Macedonia, Crete, South Aegean, Peloponnese, Central Greece."
+  },
+  "items": [
+   {
+    "el": "Ανατολικής Μακεδονίας και Θράκης",
+    "tr": "Doğu Makedonya ve Trakya",
+    "en": "Eastern Macedonia and Thrace"
+   },
+   {
+    "el": "Αττικής",
+    "tr": "Atika",
+    "en": "Attica"
+   },
+   {
+    "el": "Βορείου Αιγαίου",
+    "tr": "Kuzey Ege",
+    "en": "North Aegean"
+   },
+   {
+    "el": "Δυτικής Ελλάδας",
+    "tr": "Batı Yunanistan",
+    "en": "Western Greece"
+   },
+   {
+    "el": "Δυτικής Μακεδονίας",
+    "tr": "Batı Makedonya",
+    "en": "Western Macedonia"
+   },
+   {
+    "el": "Ηπείρου",
+    "tr": "Epir",
+    "en": "Epirus"
+   },
+   {
+    "el": "Θεσσαλίας",
+    "tr": "Teselya",
+    "en": "Thessaly"
+   },
+   {
+    "el": "Ιονίων Νήσων",
+    "tr": "İyon Adaları",
+    "en": "Ionian Islands"
+   },
+   {
+    "el": "Κεντρικής Μακεδονίας",
+    "tr": "Orta Makedonya",
+    "en": "Central Macedonia"
+   },
+   {
+    "el": "Κρήτης",
+    "tr": "Girit",
+    "en": "Crete"
+   },
+   {
+    "el": "Νοτίου Αιγαίου",
+    "tr": "Güney Ege",
+    "en": "South Aegean"
+   },
+   {
+    "el": "Πελοποννήσου",
+    "tr": "Mora",
+    "en": "Peloponnese"
+   },
+   {
+    "el": "Στερεάς Ελλάδας",
+    "tr": "Orta Yunanistan",
+    "en": "Central Greece"
+   }
+  ],
+  "need": 4
+ },
+ {
+  "id": "geo-7",
+  "subject": "geo",
+  "n": 7,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Στους υγρότοπους της Ελλάδας μεταναστεύουν χιλιάδες πουλιά",
+     "tr": "Yunanistan'ın sulak alanlarına binlerce kuş göç eder",
+     "en": "Thousands of birds migrate to the wetlands of Greece"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Στην Κρήτη ζει ένα είδος αγριόγιδου με την ονομασία Κρι-κρι",
+     "tr": "Girit'te Kri-kri adında bir yaban keçisi türü yaşar",
+     "en": "A species of wild goat called the kri-kri lives on Crete"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο «Αρκτούρος» είναι καταφύγιο αρκούδας στο Νυμφαίο",
+     "tr": "«Arcturos», Nimfeo'daki bir ayı barınağıdır",
+     "en": "\"Arcturos\" is a bear sanctuary in Nymfaio"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Στο θαλάσσιο πάρκο της Αλοννήσου αναπαράγεται η χελώνα καρέτα καρέτα (caretta caretta)",
+     "tr": "Alonisos deniz parkında caretta caretta deniz kaplumbağası ürer",
+     "en": "The loggerhead sea turtle (Caretta caretta) breeds in the marine park of Alonissos"
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "geo-8",
+  "subject": "geo",
+  "n": 8,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε τέσσερα (4) νησιά του Ιονίου Πελάγους.",
+   "tr": "İyon Denizi'ndeki dört (4) adayı yazın.",
+   "en": "Write four (4) islands of the Ionian Sea."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Τα επτά κύρια νησιά είναι τα εξής (με σειρά μεγέθους): η Κεφαλονιά, η Κέρκυρα, η Ζάκυνθος, η Λευκάδα, τα Κύθηρα, η Ιθάκη και οι Παξοί.",
+   "tr": "Yedi ana ada (büyüklük sırasına göre) şunlardır: Kefalonya, Korfu, Zakintos, Lefkada, Kitira, İthaki ve Paksi.",
+   "en": "The seven main islands are (in order of size): Kefalonia, Corfu, Zakynthos, Lefkada, Kythira, Ithaca and Paxoi."
+  },
+  "items": [
+   {
+    "el": "Κεφαλονιά",
+    "tr": "Kefalonya",
+    "en": "Kefalonia"
+   },
+   {
+    "el": "Κέρκυρα",
+    "tr": "Korfu",
+    "en": "Corfu"
+   },
+   {
+    "el": "Ζάκυνθος",
+    "tr": "Zakintos",
+    "en": "Zakynthos"
+   },
+   {
+    "el": "Λευκάδα",
+    "tr": "Lefkada",
+    "en": "Lefkada"
+   },
+   {
+    "el": "Κύθηρα",
+    "tr": "Kitira",
+    "en": "Kythira"
+   },
+   {
+    "el": "Ιθάκη",
+    "tr": "İthaki",
+    "en": "Ithaca"
+   },
+   {
+    "el": "Παξοί",
+    "tr": "Paksi",
+    "en": "Paxoi"
+   }
+  ],
+  "need": 4
+ },
+ {
+  "id": "geo-9",
+  "subject": "geo",
+  "n": 9,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "fill",
+  "prompt": {
+   "el": "Γράψτε τον αριθμό που αντιστοιχεί σε κάθε κενό, σημειώνοντας δίπλα τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω:",
+   "tr": "Her boşluğun numarasını yazın ve yanına, aşağıdakiler arasından seçerek uygun kelimeyi ya da ifadeyi not edin:",
+   "en": "Write the number of each blank and next to it the word or phrase that fits, choosing from the following:"
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Η Βόνιτσα είναι κωμόπολη (1) ___ Ελλάδας που βρίσκεται στην Περιφερειακή Ενότητα (2) ___.\nΗ Κορωνησία είναι νησάκι (3) ___ κόλπο, ο οποίος παράγει μεγάλη ποσότητα (4) ___",
+   "tr": "Vonitsa, (2) ___ Bölgesel Biriminde bulunan, (1) ___ Yunanistan'a ait bir kasabadır.\nKoronisia, (3) ___ Körfezi'nde küçük bir adadır; bu körfez büyük miktarda (4) ___ üretir.",
+   "en": "Vonitsa is a small town of (1) ___ Greece located in the Regional Unit of (2) ___.\nKoronisia is an islet in the (3) ___ Gulf, which produces a large quantity of (4) ___."
+  },
+  "bank": [
+   {
+    "el": "αλιευμάτων",
+    "tr": "balık ve deniz ürünü",
+    "en": "fish catch"
+   },
+   {
+    "el": "της Δυτικής",
+    "tr": "Batı",
+    "en": "Western"
+   },
+   {
+    "el": "στον Αμβρακικό",
+    "tr": "Amvrakikos",
+    "en": "Ambracian"
+   },
+   {
+    "el": "Αιτωλοακαρνανίας",
+    "tr": "Etolya-Akarnanya",
+    "en": "Aetolia-Acarnania"
+   }
+  ],
+  "answers": [
+   {
+    "el": "της Δυτικής",
+    "tr": "Batı",
+    "en": "Western"
+   },
+   {
+    "el": "Αιτωλοακαρνανίας",
+    "tr": "Etolya-Akarnanya",
+    "en": "Aetolia-Acarnania"
+   },
+   {
+    "el": "στον Αμβρακικό",
+    "tr": "Amvrakikos",
+    "en": "Ambracian"
+   },
+   {
+    "el": "αλιευμάτων",
+    "tr": "balık ve deniz ürünü",
+    "en": "fish catch"
+   }
+  ]
+ },
+ {
+  "id": "geo-10",
+  "subject": "geo",
+  "n": 10,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε τα πελάγη από τα οποία βρέχεται η Κρήτη.",
+   "tr": "Girit'in kıyılarının hangi denizlerle çevrili olduğunu yazın.",
+   "en": "Write the seas that wash the shores of Crete."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Η Κρήτη βρέχεται από το Κρητικό και το Λιβυκό Πέλαγος.",
+   "tr": "Girit, Girit Denizi ve Libya Denizi ile çevrilidir.",
+   "en": "Crete is washed by the Cretan Sea and the Libyan Sea."
+  },
+  "items": [
+   {
+    "el": "Κρητικό Πέλαγος",
+    "tr": "Girit Denizi",
+    "en": "Cretan Sea"
+   },
+   {
+    "el": "Λιβυκό Πέλαγος",
+    "tr": "Libya Denizi",
+    "en": "Libyan Sea"
+   }
+  ],
+  "need": null
+ },
+ {
+  "id": "geo-11",
+  "subject": "geo",
+  "n": 11,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε το όνομα τεσσάρων (4) νησιών που ανήκουν στις Κυκλάδες.",
+   "tr": "Kiklad Adaları'na ait dört (4) adanın adını yazın.",
+   "en": "Write the names of four (4) islands that belong to the Cyclades."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Τα νησιά των Κυκλάδων είναι τα εξής (με σειρά μεγέθους): Νάξος, Άνδρος, Πάρος, Τήνος, Μήλος, Κέα, Αμοργός, Ίος, Κύθνος, Μύκονος, Σύρος, Σαντορίνη (Θήρα), Σέριφος, Σίφνος, Σίκινος, Ανάφη, Κίμωλος, Αντίπαρος, Φολέγανδρος, Μακρόνησος, Πολύαιγος, Ηρακλειά, Γυάρος, Κέρος, Ρήνεια, Δονούσα, Θηρασία, Σχοινούσα, Αντίμηλος, Δεσποτικό, Άνω Κουφονήσι, Κάτω Κουφονήσι, Δήλος",
+   "tr": "Kiklad Adaları (büyüklük sırasına göre) şunlardır: Naksos, Andros, Paros, Tinos, Milos, Kea, Amorgos, İos, Kitnos, Mikonos, Siros, Santorini (Thira), Serifos, Sifnos, Sikinos, Anafi, Kimolos, Antiparos, Folegandros, Makronisos, Poliegos, İrakleia, Yaros, Keros, Rinia, Donusa, Thirasia, Shinusa, Antimilos, Despotiko, Ano Kufonisi, Kato Kufonisi, Delos",
+   "en": "The islands of the Cyclades are (in order of size): Naxos, Andros, Paros, Tinos, Milos, Kea, Amorgos, Ios, Kythnos, Mykonos, Syros, Santorini (Thira), Serifos, Sifnos, Sikinos, Anafi, Kimolos, Antiparos, Folegandros, Makronisos, Polyaigos, Irakleia, Gyaros, Keros, Rineia, Donousa, Thirasia, Schoinousa, Antimilos, Despotiko, Ano Koufonisi, Kato Koufonisi, Delos"
+  },
+  "items": [
+   {
+    "el": "Νάξος",
+    "tr": "Naksos",
+    "en": "Naxos"
+   },
+   {
+    "el": "Άνδρος",
+    "tr": "Andros",
+    "en": "Andros"
+   },
+   {
+    "el": "Πάρος",
+    "tr": "Paros",
+    "en": "Paros"
+   },
+   {
+    "el": "Τήνος",
+    "tr": "Tinos",
+    "en": "Tinos"
+   },
+   {
+    "el": "Μήλος",
+    "tr": "Milos",
+    "en": "Milos"
+   },
+   {
+    "el": "Κέα",
+    "tr": "Kea",
+    "en": "Kea"
+   },
+   {
+    "el": "Αμοργός",
+    "tr": "Amorgos",
+    "en": "Amorgos"
+   },
+   {
+    "el": "Ίος",
+    "tr": "İos",
+    "en": "Ios"
+   },
+   {
+    "el": "Κύθνος",
+    "tr": "Kitnos",
+    "en": "Kythnos"
+   },
+   {
+    "el": "Μύκονος",
+    "tr": "Mikonos",
+    "en": "Mykonos"
+   },
+   {
+    "el": "Σύρος",
+    "tr": "Siros",
+    "en": "Syros"
+   },
+   {
+    "el": "Σαντορίνη (Θήρα)",
+    "tr": "Santorini (Thira)",
+    "en": "Santorini (Thira)"
+   },
+   {
+    "el": "Σέριφος",
+    "tr": "Serifos",
+    "en": "Serifos"
+   },
+   {
+    "el": "Σίφνος",
+    "tr": "Sifnos",
+    "en": "Sifnos"
+   },
+   {
+    "el": "Σίκινος",
+    "tr": "Sikinos",
+    "en": "Sikinos"
+   },
+   {
+    "el": "Ανάφη",
+    "tr": "Anafi",
+    "en": "Anafi"
+   },
+   {
+    "el": "Κίμωλος",
+    "tr": "Kimolos",
+    "en": "Kimolos"
+   },
+   {
+    "el": "Αντίπαρος",
+    "tr": "Antiparos",
+    "en": "Antiparos"
+   },
+   {
+    "el": "Φολέγανδρος",
+    "tr": "Folegandros",
+    "en": "Folegandros"
+   },
+   {
+    "el": "Μακρόνησος",
+    "tr": "Makronisos",
+    "en": "Makronisos"
+   },
+   {
+    "el": "Πολύαιγος",
+    "tr": "Poliegos",
+    "en": "Polyaigos"
+   },
+   {
+    "el": "Ηρακλειά",
+    "tr": "İrakleia",
+    "en": "Irakleia"
+   },
+   {
+    "el": "Γυάρος",
+    "tr": "Yaros",
+    "en": "Gyaros"
+   },
+   {
+    "el": "Κέρος",
+    "tr": "Keros",
+    "en": "Keros"
+   },
+   {
+    "el": "Ρήνεια",
+    "tr": "Rinia",
+    "en": "Rineia"
+   },
+   {
+    "el": "Δονούσα",
+    "tr": "Donusa",
+    "en": "Donousa"
+   },
+   {
+    "el": "Θηρασία",
+    "tr": "Thirasia",
+    "en": "Thirasia"
+   },
+   {
+    "el": "Σχοινούσα",
+    "tr": "Shinusa",
+    "en": "Schoinousa"
+   },
+   {
+    "el": "Αντίμηλος",
+    "tr": "Antimilos",
+    "en": "Antimilos"
+   },
+   {
+    "el": "Δεσποτικό",
+    "tr": "Despotiko",
+    "en": "Despotiko"
+   },
+   {
+    "el": "Άνω Κουφονήσι",
+    "tr": "Ano Kufonisi",
+    "en": "Ano Koufonisi"
+   },
+   {
+    "el": "Κάτω Κουφονήσι",
+    "tr": "Kato Kufonisi",
+    "en": "Kato Koufonisi"
+   },
+   {
+    "el": "Δήλος",
+    "tr": "Delos",
+    "en": "Delos"
+   }
+  ],
+  "need": 4
+ },
+ {
+  "id": "geo-12",
+  "subject": "geo",
+  "n": 12,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε τέσσερις (4) Περιφερειακές Ενότητες του γεωγραφικού διαμερίσματος της Πελοποννήσου που βρέχονται από θάλασσα.",
+   "tr": "Mora coğrafi bölgesinin denize kıyısı olan dört (4) Bölgesel Birimini yazın.",
+   "en": "Write four (4) Regional Units of the geographical region of the Peloponnese that have a coastline."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Από θάλασσα βρέχονται και οι επτά Περιφερειακές Ενότητες του γεωγραφικού διαμερίσματος της Πελοποννήσου: Αχαΐας, Ηλείας, Μεσσηνίας, Λακωνίας, Αρκαδίας, Αργολίδας, Κορινθίας.",
+   "tr": "Mora coğrafi bölgesinin yedi Bölgesel Biriminin tamamının denize kıyısı vardır: Ahaya, İlia, Mesenya, Lakonya, Arkadya, Argolida, Korintiya.",
+   "en": "All seven Regional Units of the geographical region of the Peloponnese have a coastline: Achaea, Elis, Messinia, Laconia, Arcadia, Argolis, Corinthia."
+  },
+  "items": [
+   {
+    "el": "Αχαΐας",
+    "tr": "Ahaya",
+    "en": "Achaea"
+   },
+   {
+    "el": "Ηλείας",
+    "tr": "İlia",
+    "en": "Elis"
+   },
+   {
+    "el": "Μεσσηνίας",
+    "tr": "Mesenya",
+    "en": "Messinia"
+   },
+   {
+    "el": "Λακωνίας",
+    "tr": "Lakonya",
+    "en": "Laconia"
+   },
+   {
+    "el": "Αρκαδίας",
+    "tr": "Arkadya",
+    "en": "Arcadia"
+   },
+   {
+    "el": "Αργολίδας",
+    "tr": "Argolida",
+    "en": "Argolis"
+   },
+   {
+    "el": "Κορινθίας",
+    "tr": "Korintiya",
+    "en": "Corinthia"
+   }
+  ],
+  "need": 4
+ },
+ {
+  "id": "geo-13",
+  "subject": "geo",
+  "n": 13,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε τέσσερις (4) Περιφερειακές Ενότητες της Ελλάδας που δεν βρέχονται από θάλασσα.",
+   "tr": "Yunanistan'ın denize kıyısı olmayan dört (4) Bölgesel Birimini yazın.",
+   "en": "Write four (4) Regional Units of Greece that have no coastline."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Στη συνέχεια αναφέρονται όλες οι Περιφερειακές Ενότητες που δεν βρέχονται από θάλασσα: Δράμας, Ημαθίας, Κοζάνης, Καστοριάς, Φλώρινας, Πέλλας, Ευρυτανίας, Κιλκίς, Γρεβενών, Τρικάλων, Ιωαννίνων, Καρδίτσας, Βόρειου Τομέα Αθήνας, Δυτικού Τομέα Αθήνας, Κεντρικού Τομέα Αθήνας.",
+   "tr": "Denize kıyısı olmayan Bölgesel Birimlerin tamamı aşağıda sıralanmıştır: Drama, İmathia, Kozani, Kastorya, Florina, Pella, Evritanya, Kilkis, Grevena, Trikala, Ioannina, Karditsa, Atina Kuzey Kesimi, Atina Batı Kesimi, Atina Merkez Kesimi.",
+   "en": "All the Regional Units that have no coastline are listed below: Drama, Imathia, Kozani, Kastoria, Florina, Pella, Evrytania, Kilkis, Grevena, Trikala, Ioannina, Karditsa, North Athens, West Athens, Central Athens."
+  },
+  "items": [
+   {
+    "el": "Δράμας",
+    "tr": "Drama",
+    "en": "Drama"
+   },
+   {
+    "el": "Ημαθίας",
+    "tr": "İmathia",
+    "en": "Imathia"
+   },
+   {
+    "el": "Κοζάνης",
+    "tr": "Kozani",
+    "en": "Kozani"
+   },
+   {
+    "el": "Καστοριάς",
+    "tr": "Kastorya",
+    "en": "Kastoria"
+   },
+   {
+    "el": "Φλώρινας",
+    "tr": "Florina",
+    "en": "Florina"
+   },
+   {
+    "el": "Πέλλας",
+    "tr": "Pella",
+    "en": "Pella"
+   },
+   {
+    "el": "Ευρυτανίας",
+    "tr": "Evritanya",
+    "en": "Evrytania"
+   },
+   {
+    "el": "Κιλκίς",
+    "tr": "Kilkis",
+    "en": "Kilkis"
+   },
+   {
+    "el": "Γρεβενών",
+    "tr": "Grevena",
+    "en": "Grevena"
+   },
+   {
+    "el": "Τρικάλων",
+    "tr": "Trikala",
+    "en": "Trikala"
+   },
+   {
+    "el": "Ιωαννίνων",
+    "tr": "Ioannina",
+    "en": "Ioannina"
+   },
+   {
+    "el": "Καρδίτσας",
+    "tr": "Karditsa",
+    "en": "Karditsa"
+   },
+   {
+    "el": "Βόρειου Τομέα Αθήνας",
+    "tr": "Atina Kuzey Kesimi",
+    "en": "North Athens"
+   },
+   {
+    "el": "Δυτικού Τομέα Αθήνας",
+    "tr": "Atina Batı Kesimi",
+    "en": "West Athens"
+   },
+   {
+    "el": "Κεντρικού Τομέα Αθήνας",
+    "tr": "Atina Merkez Kesimi",
+    "en": "Central Athens"
+   }
+  ],
+  "need": 4
+ },
+ {
+  "id": "geo-14",
+  "subject": "geo",
+  "n": 14,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε τέσσερις (4) λίμνες της Ελλάδας που βρίσκονται στη Μακεδονία.",
+   "tr": "Yunanistan'ın Makedonya bölgesinde bulunan dört (4) gölünü yazın.",
+   "en": "Write four (4) lakes of Greece that are located in Macedonia."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Ενδεικτικά, αναφέρονται: Μικρή Πρέσπα, Μεγάλη Πρέσπα, Βόλβη, Βεγορίτιδα, Δοϊράνη, Ορεστιάδα, Κορώνεια, Κερκίνη.",
+   "tr": "Örnek olarak şunlar sayılabilir: Küçük Prespa, Büyük Prespa, Volvi, Vegoritida, Doyran, Orestiada, Koronia, Kerkini.",
+   "en": "Examples include: Lesser Prespa, Great Prespa, Volvi, Vegoritida, Doiran, Orestiada, Koroneia, Kerkini."
+  },
+  "items": [
+   {
+    "el": "Μικρή Πρέσπα",
+    "tr": "Küçük Prespa",
+    "en": "Lesser Prespa"
+   },
+   {
+    "el": "Μεγάλη Πρέσπα",
+    "tr": "Büyük Prespa",
+    "en": "Great Prespa"
+   },
+   {
+    "el": "Βόλβη",
+    "tr": "Volvi",
+    "en": "Volvi"
+   },
+   {
+    "el": "Βεγορίτιδα",
+    "tr": "Vegoritida",
+    "en": "Vegoritida"
+   },
+   {
+    "el": "Δοϊράνη",
+    "tr": "Doyran",
+    "en": "Doiran"
+   },
+   {
+    "el": "Ορεστιάδα",
+    "tr": "Orestiada",
+    "en": "Orestiada"
+   },
+   {
+    "el": "Κορώνεια",
+    "tr": "Koronia",
+    "en": "Koroneia"
+   },
+   {
+    "el": "Κερκίνη",
+    "tr": "Kerkini",
+    "en": "Kerkini"
+   }
+  ],
+  "need": 4
+ },
+ {
+  "id": "geo-15",
+  "subject": "geo",
+  "n": 15,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "fill",
+  "prompt": {
+   "el": "Γράψτε τον αριθμό που αντιστοιχεί σε κάθε κενό, σημειώνοντας δίπλα τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω (μια απάντηση περισσεύει):",
+   "tr": "Her boşluğun numarasını yazın ve yanına, aşağıdakiler arasından seçerek uygun kelimeyi ya da ifadeyi not edin (bir seçenek artar):",
+   "en": "Write the number of each blank and next to it the word or phrase that fits, choosing from the following (one answer is left over):"
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Α. Η Αχαΐα ανήκει στο γεωγραφικό διαμέρισμα (1) ___\nΒ. Τα Ιωάννινα ανήκουν στο γεωγραφικό διαμέρισμα (2) ___\nΓ. Η Καβάλα ανήκει στο γεωγραφικό διαμέρισμα (3) ___\nΔ. Η Σάμος ανήκει στο γεωγραφικό διαμέρισμα (4) ___",
+   "tr": "A. Ahaya, (1) ___ coğrafi bölgesine aittir.\nB. Ioannina, (2) ___ coğrafi bölgesine aittir.\nC. Kavala, (3) ___ coğrafi bölgesine aittir.\nD. Sisam, (4) ___ coğrafi bölgesine aittir.",
+   "en": "A. Achaea belongs to the geographical region of (1) ___\nB. Ioannina belongs to the geographical region of (2) ___\nC. Kavala belongs to the geographical region of (3) ___\nD. Samos belongs to the geographical region of (4) ___"
+  },
+  "bank": [
+   {
+    "el": "της Θράκης",
+    "tr": "Trakya",
+    "en": "Thrace"
+   },
+   {
+    "el": "της Μακεδονίας",
+    "tr": "Makedonya",
+    "en": "Macedonia"
+   },
+   {
+    "el": "της Ηπείρου",
+    "tr": "Epir",
+    "en": "Epirus"
+   },
+   {
+    "el": "της Πελοποννήσου",
+    "tr": "Mora",
+    "en": "the Peloponnese"
+   },
+   {
+    "el": "των νησιών Αιγαίου πελάγους",
+    "tr": "Ege Denizi adaları",
+    "en": "the Aegean Sea islands"
+   }
+  ],
+  "answers": [
+   {
+    "el": "της Πελοποννήσου",
+    "tr": "Mora",
+    "en": "the Peloponnese"
+   },
+   {
+    "el": "της Ηπείρου",
+    "tr": "Epir",
+    "en": "Epirus"
+   },
+   {
+    "el": "της Μακεδονίας",
+    "tr": "Makedonya",
+    "en": "Macedonia"
+   },
+   {
+    "el": "των νησιών Αιγαίου πελάγους",
+    "tr": "Ege Denizi adaları",
+    "en": "the Aegean Sea islands"
+   }
+  ]
+ },
+ {
+  "id": "geo-16",
+  "subject": "geo",
+  "n": 16,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "fill",
+  "prompt": {
+   "el": "Γράψτε τον αριθμό που αντιστοιχεί σε κάθε κενό, σημειώνοντας δίπλα τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω:",
+   "tr": "Her boşluğun numarasını yazın ve yanına, aşağıdakiler arasından seçerek uygun kelimeyi ya da ifadeyi not edin:",
+   "en": "Write the number of each blank and next to it the word or phrase that fits, choosing from the following:"
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Α. Η Πάτρα είναι πρωτεύουσα της Περιφερειακής Ενότητας (1) ___\nΒ. Η Θεσσαλονίκη είναι πρωτεύουσα της Περιφερειακής Ενότητας (2) ___\nΓ. Το Καρπενήσι είναι πρωτεύουσα της Περιφερειακής Ενότητας (3) ___\nΔ. Η Καλαμάτα είναι πρωτεύουσα της Περιφερειακής Ενότητας (4) ___",
+   "tr": "A. Patra, (1) ___ Bölgesel Biriminin başkentidir.\nB. Selanik, (2) ___ Bölgesel Biriminin başkentidir.\nC. Karpenisi, (3) ___ Bölgesel Biriminin başkentidir.\nD. Kalamata, (4) ___ Bölgesel Biriminin başkentidir.",
+   "en": "A. Patras is the capital of the Regional Unit of (1) ___\nB. Thessaloniki is the capital of the Regional Unit of (2) ___\nC. Karpenisi is the capital of the Regional Unit of (3) ___\nD. Kalamata is the capital of the Regional Unit of (4) ___"
+  },
+  "bank": [
+   {
+    "el": "Ευρυτανίας",
+    "tr": "Evritanya",
+    "en": "Evrytania"
+   },
+   {
+    "el": "Μεσσηνίας",
+    "tr": "Mesenya",
+    "en": "Messinia"
+   },
+   {
+    "el": "Θεσσαλονίκης",
+    "tr": "Selanik",
+    "en": "Thessaloniki"
+   },
+   {
+    "el": "Αχαΐας",
+    "tr": "Ahaya",
+    "en": "Achaea"
+   }
+  ],
+  "answers": [
+   {
+    "el": "Αχαΐας",
+    "tr": "Ahaya",
+    "en": "Achaea"
+   },
+   {
+    "el": "Θεσσαλονίκης",
+    "tr": "Selanik",
+    "en": "Thessaloniki"
+   },
+   {
+    "el": "Ευρυτανίας",
+    "tr": "Evritanya",
+    "en": "Evrytania"
+   },
+   {
+    "el": "Μεσσηνίας",
+    "tr": "Mesenya",
+    "en": "Messinia"
+   }
+  ]
+ },
+ {
+  "id": "geo-17",
+  "subject": "geo",
+  "n": 17,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "fill",
+  "prompt": {
+   "el": "Γράψτε τον αριθμό που αντιστοιχεί σε κάθε κενό, σημειώνοντας δίπλα τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω:",
+   "tr": "Her boşluğun numarasını yazın ve yanına, aşağıdakiler arasından seçerek uygun kelimeyi ya da ifadeyi not edin:",
+   "en": "Write the number of each blank and next to it the word or phrase that fits, choosing from the following:"
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Α. Η Περιφερειακή Ενότητα Έβρου έχει πρωτεύουσα την (1) ___\nΒ. Η Περιφερειακή Ενότητα Ροδόπης έχει πρωτεύουσα την (2) ___\nΓ. Η Περιφερειακή Ενότητα Πέλλας έχει πρωτεύουσα την (3) ___\nΔ. Η Περιφερειακή Ενότητα Ημαθίας έχει πρωτεύουσα την (4) ___",
+   "tr": "A. Evros Bölgesel Biriminin başkenti (1) ___'dir.\nB. Rodopi Bölgesel Biriminin başkenti (2) ___'dir.\nC. Pella Bölgesel Biriminin başkenti (3) ___'dır.\nD. İmathia Bölgesel Biriminin başkenti (4) ___'dır.",
+   "en": "A. The capital of the Regional Unit of Evros is (1) ___\nB. The capital of the Regional Unit of Rhodope is (2) ___\nC. The capital of the Regional Unit of Pella is (3) ___\nD. The capital of the Regional Unit of Imathia is (4) ___"
+  },
+  "bank": [
+   {
+    "el": "την Αλεξανδρούπολη",
+    "tr": "Dedeağaç",
+    "en": "Alexandroupoli"
+   },
+   {
+    "el": "τη Βέροια",
+    "tr": "Veria",
+    "en": "Veria"
+   },
+   {
+    "el": "την Έδεσσα",
+    "tr": "Edessa",
+    "en": "Edessa"
+   },
+   {
+    "el": "την Κομοτηνή",
+    "tr": "Gümülcine",
+    "en": "Komotini"
+   }
+  ],
+  "answers": [
+   {
+    "el": "την Αλεξανδρούπολη",
+    "tr": "Dedeağaç",
+    "en": "Alexandroupoli"
+   },
+   {
+    "el": "την Κομοτηνή",
+    "tr": "Gümülcine",
+    "en": "Komotini"
+   },
+   {
+    "el": "την Έδεσσα",
+    "tr": "Edessa",
+    "en": "Edessa"
+   },
+   {
+    "el": "τη Βέροια",
+    "tr": "Veria",
+    "en": "Veria"
+   }
+  ]
+ },
+ {
+  "id": "geo-18",
+  "subject": "geo",
+  "n": 18,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "fill",
+  "prompt": {
+   "el": "Γράψτε τον αριθμό που αντιστοιχεί σε κάθε κενό, σημειώνοντας δίπλα τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω:",
+   "tr": "Her boşluğun numarasını yazın ve yanına, aşağıdakiler arasından seçerek uygun kelimeyi ya da ifadeyi not edin:",
+   "en": "Write the number of each blank and next to it the word or phrase that fits, choosing from the following:"
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Α. Η Περιφερειακή Ενότητα Εύβοιας έχει πρωτεύουσα (1) ___\nΒ. Η Περιφερειακή Ενότητα Αργολίδας έχει πρωτεύουσα (2) ___\nΓ. Η Περιφερειακή Ενότητα Λακωνίας έχει πρωτεύουσα (3) ___\nΔ. Η Περιφερειακή Ενότητα Χαλκιδικής έχει πρωτεύουσα (4) ___",
+   "tr": "A. Eğriboz Bölgesel Biriminin başkenti (1) ___'dır.\nB. Argolida Bölgesel Biriminin başkenti (2) ___'dur.\nC. Lakonya Bölgesel Biriminin başkenti (3) ___'dır.\nD. Halkidiki Bölgesel Biriminin başkenti (4) ___'dur.",
+   "en": "A. The capital of the Regional Unit of Euboea is (1) ___\nB. The capital of the Regional Unit of Argolis is (2) ___\nC. The capital of the Regional Unit of Laconia is (3) ___\nD. The capital of the Regional Unit of Chalkidiki is (4) ___"
+  },
+  "bank": [
+   {
+    "el": "τη Σπάρτη",
+    "tr": "Sparta",
+    "en": "Sparta"
+   },
+   {
+    "el": "τον Πολύγυρο",
+    "tr": "Poligiros",
+    "en": "Polygyros"
+   },
+   {
+    "el": "τη Χαλκίδα",
+    "tr": "Halkida",
+    "en": "Chalkida"
+   },
+   {
+    "el": "το Ναύπλιο",
+    "tr": "Nafplio",
+    "en": "Nafplio"
+   }
+  ],
+  "answers": [
+   {
+    "el": "τη Χαλκίδα",
+    "tr": "Halkida",
+    "en": "Chalkida"
+   },
+   {
+    "el": "το Ναύπλιο",
+    "tr": "Nafplio",
+    "en": "Nafplio"
+   },
+   {
+    "el": "τη Σπάρτη",
+    "tr": "Sparta",
+    "en": "Sparta"
+   },
+   {
+    "el": "τον Πολύγυρο",
+    "tr": "Poligiros",
+    "en": "Polygyros"
+   }
+  ]
+ },
+ {
+  "id": "geo-19",
+  "subject": "geo",
+  "n": 19,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "fill",
+  "prompt": {
+   "el": "Γράψτε τον αριθμό που αντιστοιχεί σε κάθε κενό, σημειώνοντας δίπλα τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω:",
+   "tr": "Her boşluğun numarasını yazın ve yanına, aşağıdakiler arasından seçerek uygun kelimeyi ya da ifadeyi not edin:",
+   "en": "Write the number of each blank and next to it the word or phrase that fits, choosing from the following:"
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Α. Το Λουτράκι βρίσκεται στην Περιφερειακή Ενότητα (1) ___\nΒ. Το Αίγιο βρίσκεται στην Περιφερειακή Ενότητα (2) ___\nΓ. Το Αγρίνιο βρίσκεται στην Περιφερειακή Ενότητα (3) ___\nΔ. Η Πάργα βρίσκεται στην Περιφερειακή Ενότητα (4) ___",
+   "tr": "A. Loutraki, (1) ___ Bölgesel Birimindedir.\nB. Egio, (2) ___ Bölgesel Birimindedir.\nC. Agrinio, (3) ___ Bölgesel Birimindedir.\nD. Parga, (4) ___ Bölgesel Birimindedir.",
+   "en": "A. Loutraki is in the Regional Unit of (1) ___\nB. Aigio is in the Regional Unit of (2) ___\nC. Agrinio is in the Regional Unit of (3) ___\nD. Parga is in the Regional Unit of (4) ___"
+  },
+  "bank": [
+   {
+    "el": "Αχαΐας",
+    "tr": "Ahaya",
+    "en": "Achaea"
+   },
+   {
+    "el": "Κορινθίας",
+    "tr": "Korintiya",
+    "en": "Corinthia"
+   },
+   {
+    "el": "Πρέβεζας",
+    "tr": "Preveze",
+    "en": "Preveza"
+   },
+   {
+    "el": "Αιτωλοακαρνανίας",
+    "tr": "Etolya-Akarnanya",
+    "en": "Aetolia-Acarnania"
+   }
+  ],
+  "answers": [
+   {
+    "el": "Κορινθίας",
+    "tr": "Korintiya",
+    "en": "Corinthia"
+   },
+   {
+    "el": "Αχαΐας",
+    "tr": "Ahaya",
+    "en": "Achaea"
+   },
+   {
+    "el": "Αιτωλοακαρνανίας",
+    "tr": "Etolya-Akarnanya",
+    "en": "Aetolia-Acarnania"
+   },
+   {
+    "el": "Πρέβεζας",
+    "tr": "Preveze",
+    "en": "Preveza"
+   }
+  ]
+ },
+ {
+  "id": "geo-20",
+  "subject": "geo",
+  "n": 20,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "fill",
+  "prompt": {
+   "el": "Γράψτε τον αριθμό που αντιστοιχεί σε κάθε κενό, σημειώνοντας δίπλα τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω:",
+   "tr": "Her boşluğun numarasını yazın ve yanına, aşağıdakiler arasından seçerek uygun kelimeyi ya da ifadeyi not edin:",
+   "en": "Write the number of each blank and next to it the word or phrase that fits, choosing from the following:"
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Α. Η λίμνη Τριχωνίδα βρίσκεται στην Περιφερειακή Ενότητα (1) ___\nΒ. Η λίμνη Βόλβη βρίσκεται στην Περιφερειακή Ενότητα (2) ___\nΓ. Η λίμνη Υλίκη βρίσκεται στην Περιφερειακή Ενότητα (3) ___\nΔ. Η λίμνη Δοϊράνη βρίσκεται στην Περιφερειακή Ενότητα (4) ___",
+   "tr": "A. Trihonida Gölü, (1) ___ Bölgesel Birimindedir.\nB. Volvi Gölü, (2) ___ Bölgesel Birimindedir.\nC. Iliki Gölü, (3) ___ Bölgesel Birimindedir.\nD. Doyran Gölü, (4) ___ Bölgesel Birimindedir.",
+   "en": "A. Lake Trichonida is in the Regional Unit of (1) ___\nB. Lake Volvi is in the Regional Unit of (2) ___\nC. Lake Yliki is in the Regional Unit of (3) ___\nD. Lake Doiran is in the Regional Unit of (4) ___"
+  },
+  "bank": [
+   {
+    "el": "Βοιωτίας",
+    "tr": "Beotya",
+    "en": "Boeotia"
+   },
+   {
+    "el": "Κιλκίς",
+    "tr": "Kilkis",
+    "en": "Kilkis"
+   },
+   {
+    "el": "Θεσσαλονίκης",
+    "tr": "Selanik",
+    "en": "Thessaloniki"
+   },
+   {
+    "el": "Αιτωλοακαρνανίας",
+    "tr": "Etolya-Akarnanya",
+    "en": "Aetolia-Acarnania"
+   }
+  ],
+  "answers": [
+   {
+    "el": "Αιτωλοακαρνανίας",
+    "tr": "Etolya-Akarnanya",
+    "en": "Aetolia-Acarnania"
+   },
+   {
+    "el": "Θεσσαλονίκης",
+    "tr": "Selanik",
+    "en": "Thessaloniki"
+   },
+   {
+    "el": "Βοιωτίας",
+    "tr": "Beotya",
+    "en": "Boeotia"
+   },
+   {
+    "el": "Κιλκίς",
+    "tr": "Kilkis",
+    "en": "Kilkis"
+   }
+  ]
+ },
+ {
+  "id": "geo-21",
+  "subject": "geo",
+  "n": 21,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε τέσσερα (4) από τα βουνά της Ελλάδας.",
+   "tr": "Yunanistan'ın dağlarından dördünü (4) yazın.",
+   "en": "Write four (4) of the mountains of Greece."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Στη συνέχεια αναφέρονται κάποια από τα βουνά της Ελλάδας: Όλυμπος, Βόρας, Γράμμος, Παγγαίο, Χελμός, Σμόλικας, Παρνασσός, Ταΰγετος, Ψηλορείτης (Ίδη), Γκιώνα",
+   "tr": "Yunanistan'ın dağlarından bazıları aşağıda sıralanmıştır: Olimpos, Voras, Gramos, Pangeo, Helmos, Smolikas, Parnassos, Tayetos, Psiloritis (İda), Giona",
+   "en": "Some of the mountains of Greece are listed below: Olympus, Voras, Grammos, Pangaion, Chelmos, Smolikas, Parnassus, Taygetus, Psiloritis (Ida), Giona"
+  },
+  "items": [
+   {
+    "el": "Όλυμπος",
+    "tr": "Olimpos",
+    "en": "Olympus"
+   },
+   {
+    "el": "Βόρας",
+    "tr": "Voras",
+    "en": "Voras"
+   },
+   {
+    "el": "Γράμμος",
+    "tr": "Gramos",
+    "en": "Grammos"
+   },
+   {
+    "el": "Παγγαίο",
+    "tr": "Pangeo",
+    "en": "Pangaion"
+   },
+   {
+    "el": "Χελμός",
+    "tr": "Helmos",
+    "en": "Chelmos"
+   },
+   {
+    "el": "Σμόλικας",
+    "tr": "Smolikas",
+    "en": "Smolikas"
+   },
+   {
+    "el": "Παρνασσός",
+    "tr": "Parnassos",
+    "en": "Parnassus"
+   },
+   {
+    "el": "Ταΰγετος",
+    "tr": "Tayetos",
+    "en": "Taygetus"
+   },
+   {
+    "el": "Ψηλορείτης (Ίδη)",
+    "tr": "Psiloritis (İda)",
+    "en": "Psiloritis (Ida)"
+   },
+   {
+    "el": "Γκιώνα",
+    "tr": "Giona",
+    "en": "Giona"
+   }
+  ],
+  "need": 4
+ },
+ {
+  "id": "geo-22",
+  "subject": "geo",
+  "n": 22,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε τα τέσσερα άκρα σημεία της Ελλάδας.",
+   "tr": "Yunanistan'ın dört uç noktasını yazın.",
+   "en": "Write the four extreme points of Greece."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "(1) Οθωνοί (Φανοί), (2) Ορμένιο, (3) Καστελλόριζο (Μεγίστη), (4) Γαύδος",
+   "tr": "(1) Othoni (Fani), (2) Ormenio, (3) Meis (Megisti), (4) Gavdos",
+   "en": "(1) Othonoi (Fanoi), (2) Ormenio, (3) Kastellorizo (Megisti), (4) Gavdos"
+  },
+  "items": [
+   {
+    "el": "Οθωνοί (Φανοί)",
+    "tr": "Othoni (Fani)",
+    "en": "Othonoi (Fanoi)"
+   },
+   {
+    "el": "Ορμένιο",
+    "tr": "Ormenio",
+    "en": "Ormenio"
+   },
+   {
+    "el": "Καστελλόριζο (Μεγίστη)",
+    "tr": "Meis (Megisti)",
+    "en": "Kastellorizo (Megisti)"
+   },
+   {
+    "el": "Γαύδος",
+    "tr": "Gavdos",
+    "en": "Gavdos"
+   }
+  ],
+  "need": 4
+ },
+ {
+  "id": "geo-23",
+  "subject": "geo",
+  "n": 23,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε τέσσερις (4) περιοχές της Ελλάδας, όπου παράγεται κρασί.",
+   "tr": "Yunanistan'da şarap üretilen dört (4) bölgeyi yazın.",
+   "en": "Write four (4) areas of Greece where wine is produced."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Κάποιες περιοχές της Ελλάδας, όπου παράγεται κρασί είναι οι εξής: Αμύνταιο, Νάουσα, Δράμα, Σάμος, Σαντορίνη (Θήρα), Νεμέα, Κρήτη, Κεφαλλονιά.",
+   "tr": "Yunanistan'da şarap üretilen bölgelerden bazıları şunlardır: Amindeo, Naousa, Drama, Sisam, Santorini (Thira), Nemea, Girit, Kefalonya.",
+   "en": "Some areas of Greece where wine is produced are: Amyntaio, Naousa, Drama, Samos, Santorini (Thira), Nemea, Crete, Kefalonia."
+  },
+  "items": [
+   {
+    "el": "Αμύνταιο",
+    "tr": "Amindeo",
+    "en": "Amyntaio"
+   },
+   {
+    "el": "Νάουσα",
+    "tr": "Naousa",
+    "en": "Naousa"
+   },
+   {
+    "el": "Δράμα",
+    "tr": "Drama",
+    "en": "Drama"
+   },
+   {
+    "el": "Σάμος",
+    "tr": "Sisam",
+    "en": "Samos"
+   },
+   {
+    "el": "Σαντορίνη (Θήρα)",
+    "tr": "Santorini (Thira)",
+    "en": "Santorini (Thira)"
+   },
+   {
+    "el": "Νεμέα",
+    "tr": "Nemea",
+    "en": "Nemea"
+   },
+   {
+    "el": "Κρήτη",
+    "tr": "Girit",
+    "en": "Crete"
+   },
+   {
+    "el": "Κεφαλλονιά",
+    "tr": "Kefalonya",
+    "en": "Kefalonia"
+   }
+  ],
+  "need": 4
+ },
+ {
+  "id": "geo-24",
+  "subject": "geo",
+  "n": 24,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε τις τέσσερις Περιφερειακές Ενότητες της Κρήτης.",
+   "tr": "Girit'in dört Bölgesel Birimini yazın.",
+   "en": "Write the four Regional Units of Crete."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Παρακάτω σημειώνονται οι Περιφερειακές Ενότητες της Κρήτης: Ηρακλείου, Λασιθίου, Ρεθύμνου, Χανίων",
+   "tr": "Girit'in Bölgesel Birimleri aşağıda belirtilmiştir: Iraklio, Lasithi, Resmo, Hanya",
+   "en": "The Regional Units of Crete are listed below: Heraklion, Lasithi, Rethymno, Chania"
+  },
+  "items": [
+   {
+    "el": "Ηρακλείου",
+    "tr": "Iraklio",
+    "en": "Heraklion"
+   },
+   {
+    "el": "Λασιθίου",
+    "tr": "Lasithi",
+    "en": "Lasithi"
+   },
+   {
+    "el": "Ρεθύμνου",
+    "tr": "Resmo",
+    "en": "Rethymno"
+   },
+   {
+    "el": "Χανίων",
+    "tr": "Hanya",
+    "en": "Chania"
+   }
+  ],
+  "need": 4
+ },
+ {
+  "id": "geo-25",
+  "subject": "geo",
+  "n": 25,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε τις τέσσερις Περιφερειακές Ενότητες της Ηπείρου.",
+   "tr": "Epir'in dört Bölgesel Birimini yazın.",
+   "en": "Write the four Regional Units of Epirus."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Παρακάτω σημειώνονται οι τέσσερις Περιφερειακές Ενότητες της Ηπείρου: Ιωαννίνων, Θεσπρωτίας, Άρτας, Πρέβεζας",
+   "tr": "Epir'in dört Bölgesel Birimi aşağıda belirtilmiştir: Ioannina, Thesprotia, Arta, Preveze",
+   "en": "The four Regional Units of Epirus are listed below: Ioannina, Thesprotia, Arta, Preveza"
+  },
+  "items": [
+   {
+    "el": "Ιωαννίνων",
+    "tr": "Ioannina",
+    "en": "Ioannina"
+   },
+   {
+    "el": "Θεσπρωτίας",
+    "tr": "Thesprotia",
+    "en": "Thesprotia"
+   },
+   {
+    "el": "Άρτας",
+    "tr": "Arta",
+    "en": "Arta"
+   },
+   {
+    "el": "Πρέβεζας",
+    "tr": "Preveze",
+    "en": "Preveza"
+   }
+  ],
+  "need": 4
+ },
+ {
+  "id": "geo-26",
+  "subject": "geo",
+  "n": 26,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Η περιοχή της Ελλάδας που δέχεται τις περισσότερες βροχοπτώσεις ετησίως είναι τα Νησιά του Αιγαίου",
+     "tr": "Yunanistan'da yıllık en çok yağış alan bölge Ege Adalarıdır",
+     "en": "The area of Greece that receives the most rainfall each year is the Aegean Islands"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Δυτική Μακεδονία είναι η περιοχή με τα πιο έντονα χαρακτηριστικά ηπειρωτικού κλίματος με ψυχρούς χειμώνες",
+     "tr": "Batı Makedonya, soğuk kışlarıyla karasal iklim özelliklerinin en belirgin olduğu bölgedir",
+     "en": "Western Macedonia is the area with the most pronounced features of a continental climate, with cold winters"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Στο μεγαλύτερο μέρος της Ελλάδας επικρατεί εύκρατο μεσογειακό κλίμα",
+     "tr": "Yunanistan'ın büyük bölümünde ılıman Akdeniz iklimi hâkimdir",
+     "en": "A temperate Mediterranean climate prevails over most of Greece"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Το καλοκαίρι στο Αιγαίο Πέλαγος φυσάει ο Λίβας",
+     "tr": "Yazın Ege Denizi'nde Livas rüzgârı eser",
+     "en": "In summer the Livas wind blows over the Aegean Sea"
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "geo-27",
+  "subject": "geo",
+  "n": 27,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "fill",
+  "prompt": {
+   "el": "Γράψτε τον αριθμό που αντιστοιχεί σε κάθε κενό, σημειώνοντας δίπλα τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω:",
+   "tr": "Her boşluğun numarasını yazın ve yanına, aşağıdakiler arasından seçerek uygun kelimeyi ya da ifadeyi not edin:",
+   "en": "Write the number of each blank and next to it the word or phrase that fits, choosing from the following:"
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Α. Η Κως συνορεύει με (1) ___\nΒ. Το Διδυμότειχο συνορεύει με (2) ___\nΓ. Η Εξοχή Δράμας συνορεύει με (3) ___\nΔ. Η Νίκη Φλώρινας συνορεύει με (4) ___",
+   "tr": "A. İstanköy, (1) ___ ile sınır komşusudur.\nB. Dimetoka, (2) ___ ile sınır komşusudur.\nC. Drama'daki Eksohi, (3) ___ ile sınır komşusudur.\nD. Florina'daki Niki, (4) ___ ile sınır komşusudur.",
+   "en": "A. Kos borders on (1) ___\nB. Didymoteicho borders on (2) ___\nC. Exochi (Drama) borders on (3) ___\nD. Niki (Florina) borders on (4) ___"
+  },
+  "bank": [
+   {
+    "el": "την Τουρκία (2 φορές)",
+    "tr": "Türkiye (2 kez)",
+    "en": "Turkey (twice)"
+   },
+   {
+    "el": "τη Δημοκρατία της Βόρειας Μακεδονίας",
+    "tr": "Kuzey Makedonya Cumhuriyeti",
+    "en": "the Republic of North Macedonia"
+   },
+   {
+    "el": "τη Βουλγαρία",
+    "tr": "Bulgaristan",
+    "en": "Bulgaria"
+   }
+  ],
+  "answers": [
+   {
+    "el": "την Τουρκία",
+    "tr": "Türkiye",
+    "en": "Turkey"
+   },
+   {
+    "el": "την Τουρκία",
+    "tr": "Türkiye",
+    "en": "Turkey"
+   },
+   {
+    "el": "τη Βουλγαρία",
+    "tr": "Bulgaristan",
+    "en": "Bulgaria"
+   },
+   {
+    "el": "τη Δημοκρατία της Βόρειας Μακεδονίας",
+    "tr": "Kuzey Makedonya Cumhuriyeti",
+    "en": "the Republic of North Macedonia"
+   }
+  ]
+ },
+ {
+  "id": "geo-28",
+  "subject": "geo",
+  "n": 28,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Στην Κάλυμνο αλιεύονται σφουγγάρια",
+     "tr": "Kalimnos'ta sünger avlanır",
+     "en": "Sponges are harvested on Kalymnos"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Στην Πιερία ευδοκιμούν τα ακτινίδια",
+     "tr": "Pieria'da kivi iyi yetişir",
+     "en": "Kiwifruit thrive in Pieria"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο Παγασητικός κόλπος φημίζεται για τις μυδοκαλλιέργειες",
+     "tr": "Pagasitikos Körfezi midye çiftlikleriyle ünlüdür",
+     "en": "The Pagasetic Gulf is famous for its mussel farms"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Στην Κρήτη παράγονται μπανάνες",
+     "tr": "Girit'te muz üretilir",
+     "en": "Bananas are grown on Crete"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "geo-29",
+  "subject": "geo",
+  "n": 29,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Ο πορθμός του Ευρίπου βρίσκεται στη Χαλκίδα",
+     "tr": "Evripos Boğazı Halkida'dadır",
+     "en": "The Euripus Strait is at Chalkida"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Περιφερειακή Ενότητα Ροδόπης έχει πρωτεύουσα την Κομοτηνή",
+     "tr": "Rodopi Bölgesel Biriminin başkenti Gümülcine'dir",
+     "en": "The capital of the Regional Unit of Rhodope is Komotini"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Περιφερειακή Ενότητα Βοιωτίας έχει πρωτεύουσα τη Θήβα",
+     "tr": "Beotya Bölgesel Biriminin başkenti Thiva'dır",
+     "en": "The capital of the Regional Unit of Boeotia is Thebes"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Το κλίμα της Ελλάδας είναι εύκρατο μεσογειακό",
+     "tr": "Yunanistan'ın iklimi ılıman Akdeniz iklimidir",
+     "en": "The climate of Greece is temperate Mediterranean"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "geo-30",
+  "subject": "geo",
+  "n": 30,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Το Ορμένιο είναι το βορειότερο τμήμα της Περιφερειακής Ενότητας Έβρου, το ακρότατο σημείο της χώρας στον Βορρά, στα ελληνοβουλγαρικά σύνορα",
+     "tr": "Ormenio, Evros Bölgesel Biriminin en kuzey kesimi olup ülkenin Yunanistan-Bulgaristan sınırındaki en kuzey uç noktasıdır",
+     "en": "Ormenio is the northernmost part of the Regional Unit of Evros, the country's extreme northern point, on the Greek-Bulgarian border"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Γαύδος είναι το ανατολικότερο νησί της Ελλάδας",
+     "tr": "Gavdos, Yunanistan'ın en doğudaki adasıdır",
+     "en": "Gavdos is the easternmost island of Greece"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Το νησιωτικό σύμπλεγμα του Καστελλόριζου, ή αλλιώς της Μεγίστης, βρίσκεται στο ανατολικότερο σημείο της Ελλάδας",
+     "tr": "Meis ya da diğer adıyla Megisti adalar grubu, Yunanistan'ın en doğu noktasında bulunur",
+     "en": "The island group of Kastellorizo, also known as Megisti, lies at the easternmost point of Greece"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Οι Οθωνοί ή αλλιώς Φανοί, το μικρό νησάκι της Περιφερειακής Ενότητας Κέρκυρας, είναι το δυτικότερο σημείο της Ελλάδας",
+     "tr": "Korfu Bölgesel Birimine bağlı küçük bir ada olan Othoni ya da diğer adıyla Fani, Yunanistan'ın en batı noktasıdır",
+     "en": "Othonoi, also known as Fanoi, the small islet of the Regional Unit of Corfu, is the westernmost point of Greece"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "geo-31",
+  "subject": "geo",
+  "n": 31,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Η Περιφερειακή Ενότητα Σποράδων ανήκει στην Περιφέρεια Κεντρικής Μακεδονίας",
+     "tr": "Sporadlar Bölgesel Birimi, Orta Makedonya Bölgesine bağlıdır",
+     "en": "The Regional Unit of the Sporades belongs to the Region of Central Macedonia"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Σκύρος ανήκει διοικητικά στην Περιφέρεια Στερεάς Ελλάδας",
+     "tr": "Skiros idari olarak Orta Yunanistan Bölgesine bağlıdır",
+     "en": "Skyros belongs administratively to the Region of Central Greece"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Στο Θαλάσσιο Πάρκο Αλοννήσου βρίσκεται το καταφύγιο της μεσογειακής φώκιας (monachus monachus)",
+     "tr": "Alonisos Deniz Parkı'nda Akdeniz foku (monachus monachus) koruma alanı bulunur",
+     "en": "The Alonissos Marine Park contains the refuge of the Mediterranean monk seal (Monachus monachus)"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Στη Σκύρο ζει μία από τις πιο σπάνιες φυλές αλόγων στον κόσμο",
+     "tr": "Skiros'ta dünyanın en nadir at ırklarından biri yaşar",
+     "en": "One of the rarest horse breeds in the world lives on Skyros"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "geo-32",
+  "subject": "geo",
+  "n": 32,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Η Ελλάδα στα νότια σύνορά της βρέχεται από το Λιβυκό Πέλαγος",
+     "tr": "Yunanistan güney sınırlarında Libya Denizi ile çevrilidir",
+     "en": "On its southern borders Greece is washed by the Libyan Sea"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Ελλάδα βρίσκεται στη νοτιοδυτική Ευρώπη",
+     "tr": "Yunanistan güneybatı Avrupa'da yer alır",
+     "en": "Greece is located in south-western Europe"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Στα δυτικά σύνορά της η Ελλάδα βρέχεται από το Ιόνιο Πέλαγος",
+     "tr": "Yunanistan batı sınırlarında İyon Denizi ile çevrilidir",
+     "en": "On its western borders Greece is washed by the Ionian Sea"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Ελλάδα είναι ένα κράτος της Νοτιοανατολικής Ευρώπης",
+     "tr": "Yunanistan bir Güneydoğu Avrupa ülkesidir",
+     "en": "Greece is a country of South-Eastern Europe"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "geo-33",
+  "subject": "geo",
+  "n": 33,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Στο Αιγαίο Πέλαγος βρίσκονται οι Κυκλάδες και τα Δωδεκάνησα",
+     "tr": "Kiklad Adaları ve Onikiadalar Ege Denizi'ndedir",
+     "en": "The Cyclades and the Dodecanese are in the Aegean Sea"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Στο Ιόνιο Πέλαγος βρίσκεται η Ύδρα",
+     "tr": "Hidra İyon Denizi'ndedir",
+     "en": "Hydra is in the Ionian Sea"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Στις Βόρειες Σποράδες ανήκει η Σκιάθος",
+     "tr": "Skiathos Kuzey Sporadlar'a aittir",
+     "en": "Skiathos belongs to the Northern Sporades"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Τα Ψαρά βρίσκονται στο Αιγαίο Πέλαγος",
+     "tr": "Psara Ege Denizi'ndedir",
+     "en": "Psara is in the Aegean Sea"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "geo-34",
+  "subject": "geo",
+  "n": 34,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Η λίμνη Τριχωνίδα βρίσκεται στην Περιφερειακή Ενότητα Αιτωλοακαρνανίας",
+     "tr": "Trihonida Gölü, Etolya-Akarnanya Bölgesel Birimindedir",
+     "en": "Lake Trichonida is in the Regional Unit of Aetolia-Acarnania"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η λίμνη Βιστωνίδα βρίσκεται στη Θράκη",
+     "tr": "Vistonida Gölü Trakya'dadır",
+     "en": "Lake Vistonida is in Thrace"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η λίμνη Κορώνεια βρίσκεται στην Πελοπόννησο",
+     "tr": "Koronia Gölü Mora'dadır",
+     "en": "Lake Koroneia is in the Peloponnese"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η λίμνη Πετρών βρίσκεται στη Μακεδονία",
+     "tr": "Petron Gölü Makedonya'dadır",
+     "en": "Lake Petron is in Macedonia"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "geo-35",
+  "subject": "geo",
+  "n": 35,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Η Σκόπελος ανήκει στις Κυκλάδες",
+     "tr": "Skopelos, Kiklad Adaları'na aittir",
+     "en": "Skopelos belongs to the Cyclades"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Αμοργός ανήκει στα Ιόνια νησιά",
+     "tr": "Amorgos, İyon Adaları'na aittir",
+     "en": "Amorgos belongs to the Ionian Islands"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Αστυπάλαια ανήκει στα Δωδεκάνησα",
+     "tr": "Astipalea, Onikiadalar'a aittir",
+     "en": "Astypalaia belongs to the Dodecanese"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Λήμνος ανήκει στα νησιά του Βορείου Αιγαίου",
+     "tr": "Limni, Kuzey Ege adalarına aittir",
+     "en": "Lemnos belongs to the North Aegean islands"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "geo-36",
+  "subject": "geo",
+  "n": 36,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Ο ποταμός Αλιάκμονας εκβάλλει στον Θερμαϊκό Κόλπο",
+     "tr": "Aliakmonas Nehri Thermaikos Körfezi'ne dökülür",
+     "en": "The Aliakmonas River flows into the Thermaic Gulf"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο ποταμός Αχελώος εκβάλλει στο Ιόνιο Πέλαγος",
+     "tr": "Aheloos Nehri İyon Denizi'ne dökülür",
+     "en": "The Acheloos River flows into the Ionian Sea"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο ποταμός Πηνειός (της Θεσσαλίας) εκβάλλει στον Θερμαϊκό Κόλπο",
+     "tr": "(Teselya'daki) Pinios Nehri Thermaikos Körfezi'ne dökülür",
+     "en": "The Pineios River (of Thessaly) flows into the Thermaic Gulf"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο ποταμός Αξιός εκβάλλει στο Ιόνιο Πέλαγος",
+     "tr": "Vardar Nehri İyon Denizi'ne dökülür",
+     "en": "The Axios River flows into the Ionian Sea"
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "geo-37",
+  "subject": "geo",
+  "n": 37,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Η Κάσος βρίσκεται στο Αιγαίο Πέλαγος",
+     "tr": "Kasos Ege Denizi'ndedir",
+     "en": "Kasos is in the Aegean Sea"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Αστυπάλαια βρίσκεται στο Αιγαίο Πέλαγος",
+     "tr": "Astipalea Ege Denizi'ndedir",
+     "en": "Astypalaia is in the Aegean Sea"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Ιθάκη βρίσκεται στο Ιόνιο Πέλαγος",
+     "tr": "İthaki İyon Denizi'ndedir",
+     "en": "Ithaca is in the Ionian Sea"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Οι Παξοί βρίσκονται στο Ιόνιο Πέλαγος",
+     "tr": "Paksi İyon Denizi'ndedir",
+     "en": "Paxoi is in the Ionian Sea"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "geo-38",
+  "subject": "geo",
+  "n": 38,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Ο ποταμός Αξιός πηγάζει από την Ελλάδα",
+     "tr": "Vardar Nehri Yunanistan'dan doğar",
+     "en": "The Axios River has its source in Greece"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Ο ποταμός Νέστος αποτελεί το φυσικό όριο μεταξύ των Περιφερειών Ανατολικής Μακεδονίας-Θράκης και Κεντρικής Μακεδονίας",
+     "tr": "Nestos Nehri, Doğu Makedonya-Trakya ile Orta Makedonya Bölgeleri arasındaki doğal sınırı oluşturur",
+     "en": "The Nestos River forms the natural boundary between the Regions of Eastern Macedonia-Thrace and Central Macedonia"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Ο Πηνειός ποταμός διαρρέει την πεδιάδα της Θεσσαλίας",
+     "tr": "Pinios Nehri Teselya ovasından geçer",
+     "en": "The Pineios River flows through the plain of Thessaly"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο ποταμός Έβρος αποτελεί το φυσικό σύνορο μεταξύ Ελλάδας και Τουρκίας σε όλο το μήκος του",
+     "tr": "Meriç Nehri, tüm uzunluğu boyunca Yunanistan ile Türkiye arasındaki doğal sınırı oluşturur",
+     "en": "The Evros River forms the natural border between Greece and Turkey along its entire length"
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "geo-39",
+  "subject": "geo",
+  "n": 39,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Η Ναύπακτος βρίσκεται στην Περιφερειακή Ενότητα Αιτωλοακαρνανίας",
+     "tr": "İnebahtı, Etolya-Akarnanya Bölgesel Birimindedir",
+     "en": "Nafpaktos is in the Regional Unit of Aetolia-Acarnania"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Το Γαλαξίδι βρίσκεται στην Περιφερειακή Ενότητα Φωκίδας",
+     "tr": "Galaksidi, Fokida Bölgesel Birimindedir",
+     "en": "Galaxidi is in the Regional Unit of Phocis"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Αταλάντη βρίσκεται στην Περιφερειακή Ενότητα Φθιώτιδας",
+     "tr": "Atalanti, Ftiotida Bölgesel Birimindedir",
+     "en": "Atalanti is in the Regional Unit of Phthiotis"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η Αμφιλοχία βρίσκεται στην Περιφερειακή Ενότητα Άρτας",
+     "tr": "Amfilohia, Arta Bölgesel Birimindedir",
+     "en": "Amfilochia is in the Regional Unit of Arta"
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "geo-40",
+  "subject": "geo",
+  "n": 40,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Η Τρίπολη είναι πρωτεύουσα της Περιφερειακής Ενότητας Αρκαδίας",
+     "tr": "Tripoli, Arkadya Bölgesel Biriminin başkentidir",
+     "en": "Tripoli is the capital of the Regional Unit of Arcadia"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Το Άργος είναι πρωτεύουσα της Περιφερειακής Ενότητας Αργολίδας",
+     "tr": "Argos, Argolida Bölgesel Biriminin başkentidir",
+     "en": "Argos is the capital of the Regional Unit of Argolis"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Το Γύθειο είναι πρωτεύουσα της Περιφερειακής Ενότητας Λακωνίας",
+     "tr": "Gythio, Lakonya Bölgesel Biriminin başkentidir",
+     "en": "Gytheio is the capital of the Regional Unit of Laconia"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Τα Καλάβρυτα βρίσκονται στην Περιφερειακή Ενότητα Αχαΐας",
+     "tr": "Kalavrita, Ahaya Bölgesel Birimindedir",
+     "en": "Kalavryta is in the Regional Unit of Achaea"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "geo-41",
+  "subject": "geo",
+  "n": 41,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Η Θάσος βρίσκεται στην Περιφερειακή Ενότητα Καβάλας",
+     "tr": "Taşoz, Kavala Bölgesel Birimindedir",
+     "en": "Thasos is in the Regional Unit of Kavala"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Το Αμύνταιο βρίσκεται στην Περιφερειακή Ενότητα Φλώρινας",
+     "tr": "Amindeo, Florina Bölgesel Birimindedir",
+     "en": "Amyntaio is in the Regional Unit of Florina"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Το Μέτσοβο βρίσκεται στην Περιφερειακή Ενότητα Θεσπρωτίας",
+     "tr": "Metsovo, Thesprotia Bölgesel Birimindedir",
+     "en": "Metsovo is in the Regional Unit of Thesprotia"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Αράχοβα βρίσκεται στην Περιφερειακή Ενότητα Φωκίδας",
+     "tr": "Arahova, Fokida Bölgesel Birimindedir",
+     "en": "Arachova is in the Regional Unit of Phocis"
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "geo-42",
+  "subject": "geo",
+  "n": 42,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Το Γύθειο βρίσκεται στην Περιφερειακή Ενότητα Μεσσηνίας",
+     "tr": "Gythio, Mesenya Bölgesel Birimindedir",
+     "en": "Gytheio is in the Regional Unit of Messinia"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Βόνιτσα βρίσκεται στην Περιφερειακή Ενότητα Πρέβεζας",
+     "tr": "Vonitsa, Preveze Bölgesel Birimindedir",
+     "en": "Vonitsa is in the Regional Unit of Preveza"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Νιγρίτα βρίσκεται στην Περιφερειακή Ενότητα Δράμας",
+     "tr": "Nigrita, Drama Bölgesel Birimindedir",
+     "en": "Nigrita is in the Regional Unit of Drama"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Ορεστιάδα βρίσκεται στην Περιφερειακή Ενότητα Έβρου",
+     "tr": "Orestiada, Evros Bölgesel Birimindedir",
+     "en": "Orestiada is in the Regional Unit of Evros"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "geo-43",
+  "subject": "geo",
+  "n": 43,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Στην Ελλάδα υπάρχουν εγκαταστάσεις παραγωγής ηλεκτρικής ενέργειας από λιγνίτη στην Πτολεμαΐδα.",
+     "tr": "Yunanistan'da Ptolemaida'da linyitten elektrik üreten tesisler vardır.",
+     "en": "In Greece there are lignite-fired power generation plants at Ptolemaida."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Στο υπέδαφος της Μεγαλόπολης και του Αλιβερίου υπάρχουν κοιτάσματα λιγνίτη.",
+     "tr": "Megalopoli ve Aliveri'nin yer altında linyit yatakları vardır.",
+     "en": "There are lignite deposits beneath the ground at Megalopoli and Aliveri."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Το μεγαλύτερο μέρος της ηλεκτρικής ενέργειας που καταναλώνουμε παράγεται από τα κοιτάσματα λιγνίτη.",
+     "tr": "Tükettiğimiz elektriğin büyük kısmı linyit yataklarından üretilir.",
+     "en": "Most of the electricity we consume is produced from lignite deposits."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Οι μεγαλύτερες βιομηχανικές μονάδες της Ελλάδας βρίσκονται στην Πελοπόννησο.",
+     "tr": "Yunanistan'ın en büyük sanayi tesisleri Mora'dadır.",
+     "en": "The largest industrial plants in Greece are in the Peloponnese."
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "geo-44",
+  "subject": "geo",
+  "n": 44,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Δίνονται τα ονόματα ελληνικών ποταμών και λιμνών: Κερκίνη, Αλιάκμονας, Τριχωνίδα, Πηνειός, Έβρος, Βιστωνίδα, Κορώνεια, Αχελώος. Να κατατάξετε κάθε ποταμό στη Στήλη I: Ποταμοί και κάθε λίμνη στη Στήλη II: Λίμνες.",
+   "tr": "Yunanistan'daki bazı nehir ve göllerin adları verilmiştir: Kerkini, Aliakmonas, Trihonida, Pinios, Meriç, Vistonida, Koronia, Aheloos. Her nehri Sütun I: Nehirler'e, her gölü Sütun II: Göller'e yerleştirin.",
+   "en": "The names of Greek rivers and lakes are given: Kerkini, Aliakmonas, Trichonida, Pineios, Evros, Vistonida, Koroneia, Acheloos. Classify each river under Column I: Rivers and each lake under Column II: Lakes."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Κερκίνη",
+    "tr": "Kerkini",
+    "en": "Kerkini"
+   },
+   {
+    "el": "Αλιάκμονας",
+    "tr": "Aliakmonas",
+    "en": "Aliakmonas"
+   },
+   {
+    "el": "Τριχωνίδα",
+    "tr": "Trihonida",
+    "en": "Trichonida"
+   },
+   {
+    "el": "Πηνειός",
+    "tr": "Pinios",
+    "en": "Pineios"
+   },
+   {
+    "el": "Έβρος",
+    "tr": "Meriç",
+    "en": "Evros"
+   },
+   {
+    "el": "Βιστωνίδα",
+    "tr": "Vistonida",
+    "en": "Vistonida"
+   },
+   {
+    "el": "Κορώνεια",
+    "tr": "Koronia",
+    "en": "Koroneia"
+   },
+   {
+    "el": "Αχελώος",
+    "tr": "Aheloos",
+    "en": "Acheloos"
+   }
+  ],
+  "right": [
+   {
+    "el": "Στήλη I: Ποταμοί",
+    "tr": "Sütun I: Nehirler",
+    "en": "Column I: Rivers"
+   },
+   {
+    "el": "Στήλη II: Λίμνες",
+    "tr": "Sütun II: Göller",
+    "en": "Column II: Lakes"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    1
+   ],
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    1
+   ],
+   [
+    3,
+    0
+   ],
+   [
+    4,
+    0
+   ],
+   [
+    5,
+    1
+   ],
+   [
+    6,
+    1
+   ],
+   [
+    7,
+    0
+   ]
+  ]
+ },
+ {
+  "id": "geo-45",
+  "subject": "geo",
+  "n": 45,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Να αντιστοιχίσετε τα Γεωγραφικά Διαμερίσματα της Στήλης I με τις Περιφερειακές Ενότητες που δίνονται στη Στήλη II.",
+   "tr": "Sütun I'deki Coğrafi Bölgeleri Sütun II'de verilen Bölgesel Birimlerle eşleştirin.",
+   "en": "Match the Geographical Regions in Column I with the Regional Units given in Column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Στερεά Ελλάδα - Εύβοια",
+    "tr": "Orta Yunanistan - Eğriboz",
+    "en": "Central Greece - Euboea"
+   },
+   {
+    "el": "Πελοπόννησος",
+    "tr": "Mora",
+    "en": "Peloponnese"
+   },
+   {
+    "el": "Κρήτη",
+    "tr": "Girit",
+    "en": "Crete"
+   },
+   {
+    "el": "Νησιά Αιγαίου",
+    "tr": "Ege Adaları",
+    "en": "Aegean Islands"
+   }
+  ],
+  "right": [
+   {
+    "el": "Λασιθίου",
+    "tr": "Lasithi",
+    "en": "Lasithi"
+   },
+   {
+    "el": "Λέσβου",
+    "tr": "Midilli",
+    "en": "Lesbos"
+   },
+   {
+    "el": "Βοιωτίας",
+    "tr": "Beotya",
+    "en": "Boeotia"
+   },
+   {
+    "el": "Αρκαδίας",
+    "tr": "Arkadya",
+    "en": "Arcadia"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    1
+   ]
+  ]
+ },
+ {
+  "id": "geo-46",
+  "subject": "geo",
+  "n": 46,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Δίνονται τα ονόματα περιοχών: Αλεξανδρούπολη, Πύργος, Σίφνος, Ύδρα, Γρεβενά, Σκόπελος, Καρδίτσα, Σύρος. Να κατατάξετε τις παραπάνω περιοχές σε δύο ομάδες, ανάλογα με το αν ανήκουν στην ηπειρωτική ή στη νησιωτική Ελλάδα.",
+   "tr": "Şu yerlerin adları verilmiştir: Dedeağaç, Pirgos, Sifnos, Hidra, Grevena, Skopelos, Karditsa, Siros. Bu yerleri anakara Yunanistan'a mı yoksa adalar Yunanistan'ına mı ait olduklarına göre iki gruba ayırın.",
+   "en": "The names of places are given: Alexandroupoli, Pyrgos, Sifnos, Hydra, Grevena, Skopelos, Karditsa, Syros. Sort these places into two groups, according to whether they belong to mainland or insular Greece."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Αλεξανδρούπολη",
+    "tr": "Dedeağaç",
+    "en": "Alexandroupoli"
+   },
+   {
+    "el": "Πύργος",
+    "tr": "Pirgos",
+    "en": "Pyrgos"
+   },
+   {
+    "el": "Σίφνος",
+    "tr": "Sifnos",
+    "en": "Sifnos"
+   },
+   {
+    "el": "Ύδρα",
+    "tr": "Hidra",
+    "en": "Hydra"
+   },
+   {
+    "el": "Γρεβενά",
+    "tr": "Grevena",
+    "en": "Grevena"
+   },
+   {
+    "el": "Σκόπελος",
+    "tr": "Skopelos",
+    "en": "Skopelos"
+   },
+   {
+    "el": "Καρδίτσα",
+    "tr": "Karditsa",
+    "en": "Karditsa"
+   },
+   {
+    "el": "Σύρος",
+    "tr": "Siros",
+    "en": "Syros"
+   }
+  ],
+  "right": [
+   {
+    "el": "Ηπειρωτική Ελλάδα",
+    "tr": "Anakara Yunanistan",
+    "en": "Mainland Greece"
+   },
+   {
+    "el": "Νησιωτική Ελλάδα",
+    "tr": "Adalar Yunanistan'ı",
+    "en": "Insular Greece"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    0
+   ],
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    1
+   ],
+   [
+    3,
+    1
+   ],
+   [
+    4,
+    0
+   ],
+   [
+    5,
+    1
+   ],
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    1
+   ]
+  ]
+ },
+ {
+  "id": "geo-47",
+  "subject": "geo",
+  "n": 47,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "match",
+  "prompt": {
+   "el": "Δίνονται τα ονόματα περιοχών: (1) Σπάρτη, (2) Θεσσαλονίκη, (3) Ιωάννινα, (4) Σητεία, (5) Κοζάνη, (6) Λήμνος, (7) Ζάκυνθος, (8) Ρέθυμνο. Να κατατάξετε τις παραπάνω περιοχές σε δύο ομάδες, ανάλογα με το αν ανήκουν στην ηπειρωτική ή στη νησιωτική Ελλάδα.",
+   "tr": "Şu yerlerin adları verilmiştir: (1) Sparta, (2) Selanik, (3) Ioannina, (4) Sitia, (5) Kozani, (6) Limni, (7) Zakintos, (8) Resmo. Bu yerleri anakara Yunanistan'a mı yoksa adalar Yunanistan'ına mı ait olduklarına göre iki gruba ayırın.",
+   "en": "The names of places are given: (1) Sparta, (2) Thessaloniki, (3) Ioannina, (4) Sitia, (5) Kozani, (6) Lemnos, (7) Zakynthos, (8) Rethymno. Sort these places into two groups, according to whether they belong to mainland or insular Greece."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Σπάρτη",
+    "tr": "Sparta",
+    "en": "Sparta"
+   },
+   {
+    "el": "Θεσσαλονίκη",
+    "tr": "Selanik",
+    "en": "Thessaloniki"
+   },
+   {
+    "el": "Ιωάννινα",
+    "tr": "Ioannina",
+    "en": "Ioannina"
+   },
+   {
+    "el": "Σητεία",
+    "tr": "Sitia",
+    "en": "Sitia"
+   },
+   {
+    "el": "Κοζάνη",
+    "tr": "Kozani",
+    "en": "Kozani"
+   },
+   {
+    "el": "Λήμνος",
+    "tr": "Limni",
+    "en": "Lemnos"
+   },
+   {
+    "el": "Ζάκυνθος",
+    "tr": "Zakintos",
+    "en": "Zakynthos"
+   },
+   {
+    "el": "Ρέθυμνο",
+    "tr": "Resmo",
+    "en": "Rethymno"
+   }
+  ],
+  "right": [
+   {
+    "el": "Ηπειρωτική Ελλάδα",
+    "tr": "Anakara Yunanistan",
+    "en": "Mainland Greece"
+   },
+   {
+    "el": "Νησιωτική Ελλάδα",
+    "tr": "Adalar Yunanistan'ı",
+    "en": "Insular Greece"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    0
+   ],
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    1
+   ],
+   [
+    4,
+    0
+   ],
+   [
+    5,
+    1
+   ],
+   [
+    6,
+    1
+   ],
+   [
+    7,
+    1
+   ]
+  ]
+ },
+ {
+  "id": "geo-48",
+  "subject": "geo",
+  "n": 48,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Σημειώστε δύο (2) περιοχές της Ελλάδας που παράγουν πευκόμελο.",
+   "tr": "Yunanistan'da çam balı üretilen iki (2) bölgeyi yazın.",
+   "en": "Name two (2) areas of Greece that produce pine honey."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Στη συνέχεια αναφέρονται περιοχές της Ελλάδας που παράγουν πευκόμελο: Εύβοια, Θάσος, Χαλκιδική, Σποράδες, Ρόδος",
+   "tr": "Yunanistan'da çam balı üretilen bölgeler aşağıda sıralanmıştır: Eğriboz, Taşoz, Halkidiki, Sporadlar, Rodos",
+   "en": "Areas of Greece that produce pine honey are listed below: Euboea, Thasos, Chalkidiki, Sporades, Rhodes"
+  },
+  "items": [
+   {
+    "el": "Εύβοια",
+    "tr": "Eğriboz",
+    "en": "Euboea"
+   },
+   {
+    "el": "Θάσος",
+    "tr": "Taşoz",
+    "en": "Thasos"
+   },
+   {
+    "el": "Χαλκιδική",
+    "tr": "Halkidiki",
+    "en": "Chalkidiki"
+   },
+   {
+    "el": "Σποράδες",
+    "tr": "Sporadlar",
+    "en": "Sporades"
+   },
+   {
+    "el": "Ρόδος",
+    "tr": "Rodos",
+    "en": "Rhodes"
+   }
+  ],
+  "need": 2
+ },
+ {
+  "id": "geo-49",
+  "subject": "geo",
+  "n": 49,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε δύο (2) από τις Περιφερειακές Ενότητες της Ελλάδας, όπου καλλιεργούνται οι μεγαλύτερες εκτάσεις σιτηρών.",
+   "tr": "Yunanistan'da en geniş tahıl ekim alanlarının bulunduğu Bölgesel Birimlerden ikisini (2) yazın.",
+   "en": "Write two (2) of the Regional Units of Greece where the largest areas of cereals are cultivated."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Περιφερειακές Ενότητες, όπου καλλιεργούνται οι μεγαλύτερες εκτάσεις σιτηρών είναι: Λάρισας, Θεσσαλονίκης, Κιλκίς, Σερρών, Κοζάνης",
+   "tr": "En geniş tahıl ekim alanlarının bulunduğu Bölgesel Birimler şunlardır: Larisa, Selanik, Kilkis, Serez, Kozani",
+   "en": "The Regional Units where the largest areas of cereals are cultivated are: Larissa, Thessaloniki, Kilkis, Serres, Kozani"
+  },
+  "items": [
+   {
+    "el": "Λάρισας",
+    "tr": "Larisa",
+    "en": "Larissa"
+   },
+   {
+    "el": "Θεσσαλονίκης",
+    "tr": "Selanik",
+    "en": "Thessaloniki"
+   },
+   {
+    "el": "Κιλκίς",
+    "tr": "Kilkis",
+    "en": "Kilkis"
+   },
+   {
+    "el": "Σερρών",
+    "tr": "Serez",
+    "en": "Serres"
+   },
+   {
+    "el": "Κοζάνης",
+    "tr": "Kozani",
+    "en": "Kozani"
+   }
+  ],
+  "need": 2
+ },
+ {
+  "id": "geo-50",
+  "subject": "geo",
+  "n": 50,
+  "section": {
+   "el": "Α ΕΝΟΤΗΤΑ : ΓΕΝΙΚΕΣ ΕΡΩΤΗΣΕΙΣ",
+   "tr": "A BÖLÜMÜ: GENEL SORULAR",
+   "en": "SECTION A: GENERAL QUESTIONS"
+  },
+  "type": "open",
+  "prompt": {
+   "el": "Γράψτε δύο (2) από τους κόλπους της Ελλάδας με τις μεγαλύτερες ποσότητες αλιευμάτων.",
+   "tr": "Yunanistan'da en fazla balık avlanan körfezlerden ikisini (2) yazın.",
+   "en": "Write two (2) of the gulfs of Greece with the largest fish catches."
+  },
+  "note": null,
+  "image": false,
+  "answer": {
+   "el": "Κόλποι με μεγάλη ποσότητα αλιευμάτων είναι: Θερμαϊκός, Κασσάνδρας, Αγίου Όρους, Ιερισσού, Στρυμονικός, Καβάλας, Βόρειος Ευβοϊκός, Νότιος Ευβοϊκός, Αμβρακικός",
+   "tr": "Büyük miktarda balık avlanan körfezler şunlardır: Thermaikos, Kasandra, Aynaroz, İerisos, Strimonikos, Kavala, Kuzey Eğriboz, Güney Eğriboz, Amvrakikos",
+   "en": "Gulfs with large fish catches are: the Thermaic, Kassandra, Mount Athos (Singitic), Ierissos, Strymonian, Kavala, North Euboean, South Euboean and Ambracian Gulfs"
+  },
+  "items": [
+   {
+    "el": "Θερμαϊκός",
+    "tr": "Thermaikos",
+    "en": "Thermaic"
+   },
+   {
+    "el": "Κασσάνδρας",
+    "tr": "Kasandra",
+    "en": "Kassandra"
+   },
+   {
+    "el": "Αγίου Όρους",
+    "tr": "Aynaroz",
+    "en": "Mount Athos (Singitic)"
+   },
+   {
+    "el": "Ιερισσού",
+    "tr": "İerisos",
+    "en": "Ierissos"
+   },
+   {
+    "el": "Στρυμονικός",
+    "tr": "Strimonikos",
+    "en": "Strymonian"
+   },
+   {
+    "el": "Καβάλας",
+    "tr": "Kavala",
+    "en": "Kavala"
+   },
+   {
+    "el": "Βόρειος Ευβοϊκός",
+    "tr": "Kuzey Eğriboz",
+    "en": "North Euboean"
+   },
+   {
+    "el": "Νότιος Ευβοϊκός",
+    "tr": "Güney Eğriboz",
+    "en": "South Euboean"
+   },
+   {
+    "el": "Αμβρακικός",
+    "tr": "Amvrakikos",
+    "en": "Ambracian"
+   }
+  ],
+  "need": 2
+ },
+ {
+  "id": "geo-51",
+  "subject": "geo",
+  "n": 51,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τις παρακάτω πόλεις-νησιά, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Μυτιλήνη\n(2) Ρόδος\n(3) Χίος\n(4) Σάμος",
+   "tr": "Defterinizdeki haritada aşağıdaki şehir-adaları (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Midilli\n(2) Rodos\n(3) Sakız\n(4) Sisam",
+   "en": "Find and mark with (●) on the map in your notebook the following cities/islands, writing their names in full next to them:\n(1) Mytilene\n(2) Rhodes\n(3) Chios\n(4) Samos"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Μυτιλήνη",
+     "tr": "Midilli",
+     "en": "Mytilene"
+    },
+    "lat": 39.107,
+    "lon": 26.555
+   },
+   {
+    "name": {
+     "el": "Ρόδος",
+     "tr": "Rodos",
+     "en": "Rhodes"
+    },
+    "lat": 36.434,
+    "lon": 28.217
+   },
+   {
+    "name": {
+     "el": "Χίος",
+     "tr": "Sakız",
+     "en": "Chios"
+    },
+    "lat": 38.37,
+    "lon": 26.136
+   },
+   {
+    "name": {
+     "el": "Σάμος",
+     "tr": "Sisam",
+     "en": "Samos"
+    },
+    "lat": 37.755,
+    "lon": 26.977
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-52",
+  "subject": "geo",
+  "n": 52,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τα παρακάτω ποτάμια, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Πηνειός\n(2) Έβρος\n(3) Αξιός\n(4) Αχελώος",
+   "tr": "Defterinizdeki haritada aşağıdaki nehirleri (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Pinios\n(2) Meriç\n(3) Vardar\n(4) Aheloos",
+   "en": "Find and mark with (●) on the map in your notebook the following rivers, writing their names in full next to them:\n(1) Pineios\n(2) Evros\n(3) Axios\n(4) Acheloos"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Πηνειός",
+     "tr": "Pinios",
+     "en": "Pineios"
+    },
+    "lat": 39.64,
+    "lon": 22.42
+   },
+   {
+    "name": {
+     "el": "Έβρος",
+     "tr": "Meriç",
+     "en": "Evros"
+    },
+    "lat": 41.35,
+    "lon": 26.5
+   },
+   {
+    "name": {
+     "el": "Αξιός",
+     "tr": "Vardar",
+     "en": "Axios"
+    },
+    "lat": 40.85,
+    "lon": 22.62
+   },
+   {
+    "name": {
+     "el": "Αχελώος",
+     "tr": "Aheloos",
+     "en": "Acheloos"
+    },
+    "lat": 38.7,
+    "lon": 21.3
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-53",
+  "subject": "geo",
+  "n": 53,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τις παρακάτω λιμνοθάλασσες, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Μεσολογγίου\n(2) Βιστωνίδας-Πόρτο Λάγος\n(3) Λευκάδας\n(4) Αγίου Νικολάου Κρήτης",
+   "tr": "Defterinizdeki haritada aşağıdaki lagünleri (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Mesolongi\n(2) Vistonida-Porto Lagos\n(3) Lefkada\n(4) Girit'teki Agios Nikolaos",
+   "en": "Find and mark with (●) on the map in your notebook the following lagoons, writing their names in full next to them:\n(1) Missolonghi\n(2) Vistonida-Porto Lagos\n(3) Lefkada\n(4) Agios Nikolaos (Crete)"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Μεσολογγίου",
+     "tr": "Mesolongi",
+     "en": "Missolonghi"
+    },
+    "lat": 38.33,
+    "lon": 21.4
+   },
+   {
+    "name": {
+     "el": "Βιστωνίδας-Πόρτο Λάγος",
+     "tr": "Vistonida-Porto Lagos",
+     "en": "Vistonida-Porto Lagos"
+    },
+    "lat": 41.0,
+    "lon": 25.12
+   },
+   {
+    "name": {
+     "el": "Λευκάδας",
+     "tr": "Lefkada",
+     "en": "Lefkada"
+    },
+    "lat": 38.82,
+    "lon": 20.72
+   },
+   {
+    "name": {
+     "el": "Αγίου Νικολάου Κρήτης",
+     "tr": "Girit'teki Agios Nikolaos",
+     "en": "Agios Nikolaos (Crete)"
+    },
+    "lat": 35.25,
+    "lon": 25.72
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-54",
+  "subject": "geo",
+  "n": 54,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τις παρακάτω πόλεις, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Ιωάννινα\n(2) Ρέθυμνο\n(3) Καβάλα\n(4) Μεσολόγγι",
+   "tr": "Defterinizdeki haritada aşağıdaki şehirleri (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Ioannina\n(2) Resmo\n(3) Kavala\n(4) Mesolongi",
+   "en": "Find and mark with (●) on the map in your notebook the following cities, writing their names in full next to them:\n(1) Ioannina\n(2) Rethymno\n(3) Kavala\n(4) Missolonghi"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Ιωάννινα",
+     "tr": "Ioannina",
+     "en": "Ioannina"
+    },
+    "lat": 39.665,
+    "lon": 20.853
+   },
+   {
+    "name": {
+     "el": "Ρέθυμνο",
+     "tr": "Resmo",
+     "en": "Rethymno"
+    },
+    "lat": 35.366,
+    "lon": 24.482
+   },
+   {
+    "name": {
+     "el": "Καβάλα",
+     "tr": "Kavala",
+     "en": "Kavala"
+    },
+    "lat": 40.937,
+    "lon": 24.413
+   },
+   {
+    "name": {
+     "el": "Μεσολόγγι",
+     "tr": "Mesolongi",
+     "en": "Missolonghi"
+    },
+    "lat": 38.371,
+    "lon": 21.431
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-55",
+  "subject": "geo",
+  "n": 55,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τις παρακάτω πόλεις, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Βόλος\n(2) Ηγουμενίτσα\n(3) Πύργος\n(4) Καστοριά",
+   "tr": "Defterinizdeki haritada aşağıdaki şehirleri (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Volos\n(2) Igumenitsa\n(3) Pirgos\n(4) Kastorya",
+   "en": "Find and mark with (●) on the map in your notebook the following cities, writing their names in full next to them:\n(1) Volos\n(2) Igoumenitsa\n(3) Pyrgos\n(4) Kastoria"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Βόλος",
+     "tr": "Volos",
+     "en": "Volos"
+    },
+    "lat": 39.362,
+    "lon": 22.942
+   },
+   {
+    "name": {
+     "el": "Ηγουμενίτσα",
+     "tr": "Igumenitsa",
+     "en": "Igoumenitsa"
+    },
+    "lat": 39.503,
+    "lon": 20.265
+   },
+   {
+    "name": {
+     "el": "Πύργος",
+     "tr": "Pirgos",
+     "en": "Pyrgos"
+    },
+    "lat": 37.675,
+    "lon": 21.441
+   },
+   {
+    "name": {
+     "el": "Καστοριά",
+     "tr": "Kastorya",
+     "en": "Kastoria"
+    },
+    "lat": 40.519,
+    "lon": 21.268
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-56",
+  "subject": "geo",
+  "n": 56,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τις παρακάτω πόλεις, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Καρδίτσα\n(2) Ιωάννινα\n(3) Άρτα\n(4) Τρίπολη",
+   "tr": "Defterinizdeki haritada aşağıdaki şehirleri (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Karditsa\n(2) Ioannina\n(3) Arta\n(4) Tripoli",
+   "en": "Find and mark with (●) on the map in your notebook the following cities, writing their names in full next to them:\n(1) Karditsa\n(2) Ioannina\n(3) Arta\n(4) Tripoli"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Καρδίτσα",
+     "tr": "Karditsa",
+     "en": "Karditsa"
+    },
+    "lat": 39.365,
+    "lon": 21.922
+   },
+   {
+    "name": {
+     "el": "Ιωάννινα",
+     "tr": "Ioannina",
+     "en": "Ioannina"
+    },
+    "lat": 39.665,
+    "lon": 20.853
+   },
+   {
+    "name": {
+     "el": "Άρτα",
+     "tr": "Arta",
+     "en": "Arta"
+    },
+    "lat": 39.16,
+    "lon": 20.985
+   },
+   {
+    "name": {
+     "el": "Τρίπολη",
+     "tr": "Tripoli",
+     "en": "Tripoli"
+    },
+    "lat": 37.51,
+    "lon": 22.372
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-57",
+  "subject": "geo",
+  "n": 57,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τις παρακάτω περιοχές όπου υπάρχουν καταρράκτες, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Σαμοθράκη\n(2) Ξάνθη\n(3) Έδεσσα\n(4) Καρπενήσι",
+   "tr": "Defterinizdeki haritada şelalelerin bulunduğu aşağıdaki yerleri (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Semadirek\n(2) İskeçe\n(3) Edessa\n(4) Karpenisi",
+   "en": "Find and mark with (●) on the map in your notebook the following areas where there are waterfalls, writing their names in full next to them:\n(1) Samothrace\n(2) Xanthi\n(3) Edessa\n(4) Karpenisi"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Σαμοθράκη",
+     "tr": "Semadirek",
+     "en": "Samothrace"
+    },
+    "lat": 40.47,
+    "lon": 25.58
+   },
+   {
+    "name": {
+     "el": "Ξάνθη",
+     "tr": "İskeçe",
+     "en": "Xanthi"
+    },
+    "lat": 41.2,
+    "lon": 24.85
+   },
+   {
+    "name": {
+     "el": "Έδεσσα",
+     "tr": "Edessa",
+     "en": "Edessa"
+    },
+    "lat": 40.802,
+    "lon": 22.05
+   },
+   {
+    "name": {
+     "el": "Καρπενήσι",
+     "tr": "Karpenisi",
+     "en": "Karpenisi"
+    },
+    "lat": 38.912,
+    "lon": 21.793
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-58",
+  "subject": "geo",
+  "n": 58,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τα παρακάτω νησιά, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Ιθάκη\n(2) Άνδρος\n(3) Λευκάδα\n(4) Κάρπαθος",
+   "tr": "Defterinizdeki haritada aşağıdaki adaları (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) İthaki\n(2) Andros\n(3) Lefkada\n(4) Karpathos",
+   "en": "Find and mark with (●) on the map in your notebook the following islands, writing their names in full next to them:\n(1) Ithaca\n(2) Andros\n(3) Lefkada\n(4) Karpathos"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Ιθάκη",
+     "tr": "İthaki",
+     "en": "Ithaca"
+    },
+    "lat": 38.4,
+    "lon": 20.68
+   },
+   {
+    "name": {
+     "el": "Άνδρος",
+     "tr": "Andros",
+     "en": "Andros"
+    },
+    "lat": 37.84,
+    "lon": 24.87
+   },
+   {
+    "name": {
+     "el": "Λευκάδα",
+     "tr": "Lefkada",
+     "en": "Lefkada"
+    },
+    "lat": 38.71,
+    "lon": 20.65
+   },
+   {
+    "name": {
+     "el": "Κάρπαθος",
+     "tr": "Karpathos",
+     "en": "Karpathos"
+    },
+    "lat": 35.6,
+    "lon": 27.13
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-59",
+  "subject": "geo",
+  "n": 59,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τα παρακάτω νησιά, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Πάτμος\n(2) Σύμη\n(3) Νάξος\n(4) Κεφαλονιά",
+   "tr": "Defterinizdeki haritada aşağıdaki adaları (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Patmos\n(2) Simi\n(3) Naksos\n(4) Kefalonya",
+   "en": "Find and mark with (●) on the map in your notebook the following islands, writing their names in full next to them:\n(1) Patmos\n(2) Symi\n(3) Naxos\n(4) Kefalonia"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Πάτμος",
+     "tr": "Patmos",
+     "en": "Patmos"
+    },
+    "lat": 37.32,
+    "lon": 26.55
+   },
+   {
+    "name": {
+     "el": "Σύμη",
+     "tr": "Simi",
+     "en": "Symi"
+    },
+    "lat": 36.59,
+    "lon": 27.84
+   },
+   {
+    "name": {
+     "el": "Νάξος",
+     "tr": "Naksos",
+     "en": "Naxos"
+    },
+    "lat": 37.06,
+    "lon": 25.47
+   },
+   {
+    "name": {
+     "el": "Κεφαλονιά",
+     "tr": "Kefalonya",
+     "en": "Kefalonia"
+    },
+    "lat": 38.22,
+    "lon": 20.55
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-60",
+  "subject": "geo",
+  "n": 60,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας δύο (2) από τα ελληνικά νησιά που έχουν ηφαίστειο, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:",
+   "tr": "Defterinizdeki haritada volkanı olan Yunan adalarından ikisini (2) (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:",
+   "en": "Find and mark with (●) on the map in your notebook two (2) of the Greek islands that have a volcano, writing their names in full next to them:"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Σαντορίνη (Θήρα)",
+     "tr": "Santorini (Thira)",
+     "en": "Santorini (Thira)"
+    },
+    "lat": 36.41,
+    "lon": 25.43
+   },
+   {
+    "name": {
+     "el": "Μήλος",
+     "tr": "Milos",
+     "en": "Milos"
+    },
+    "lat": 36.7,
+    "lon": 24.42
+   },
+   {
+    "name": {
+     "el": "Νίσυρος",
+     "tr": "Nisiros",
+     "en": "Nisyros"
+    },
+    "lat": 36.59,
+    "lon": 27.16
+   }
+  ],
+  "need": 2,
+  "answer": {
+   "el": "Τα ελληνικά νησιά που έχουν ηφαίστειο είναι τρία: η Σαντορίνη (Θήρα), η Μήλος και η Νίσυρος.",
+   "tr": "Volkanı olan Yunan adaları üç tanedir: Santorini (Thira), Milos ve Nisiros.",
+   "en": "There are three Greek islands with a volcano: Santorini (Thira), Milos and Nisyros."
+  }
+ },
+ {
+  "id": "geo-61",
+  "subject": "geo",
+  "n": 61,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τα παρακάτω γεωγραφικά διαμερίσματα, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Πελοπόννησος\n(2) Νησιά Ιονίου/Επτάνησα\n(3) Δωδεκάνησα\n(4) Θράκη",
+   "tr": "Defterinizdeki haritada aşağıdaki coğrafi bölgeleri (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Mora\n(2) İyon Adaları/Yedi Adalar\n(3) Onikiadalar\n(4) Trakya",
+   "en": "Find and mark with (●) on the map in your notebook the following geographical regions, writing their names in full next to them:\n(1) Peloponnese\n(2) Ionian Islands/Heptanese\n(3) Dodecanese\n(4) Thrace"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Πελοπόννησος",
+     "tr": "Mora",
+     "en": "Peloponnese"
+    },
+    "lat": 37.5,
+    "lon": 22.2
+   },
+   {
+    "name": {
+     "el": "Νησιά Ιονίου/Επτάνησα",
+     "tr": "İyon Adaları/Yedi Adalar",
+     "en": "Ionian Islands/Heptanese"
+    },
+    "lat": 38.55,
+    "lon": 20.6
+   },
+   {
+    "name": {
+     "el": "Δωδεκάνησα",
+     "tr": "Onikiadalar",
+     "en": "Dodecanese"
+    },
+    "lat": 36.6,
+    "lon": 27.2
+   },
+   {
+    "name": {
+     "el": "Θράκη",
+     "tr": "Trakya",
+     "en": "Thrace"
+    },
+    "lat": 41.1,
+    "lon": 25.4
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-62",
+  "subject": "geo",
+  "n": 62,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τις τέσσερις (4) πιο αραιοκατοικημένες Περιφέρειες της Ελλάδας, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Βόρειο Αιγαίο\n(2) Ιόνια Νησιά/Επτάνησα\n(3) Δυτική Μακεδονία\n(4) Ήπειρος",
+   "tr": "Defterinizdeki haritada Yunanistan'ın en seyrek nüfuslu dört (4) Bölgesini (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Kuzey Ege\n(2) İyon Adaları/Yedi Adalar\n(3) Batı Makedonya\n(4) Epir",
+   "en": "Find and mark with (●) on the map in your notebook the four (4) most sparsely populated Regions of Greece, writing their names in full next to them:\n(1) North Aegean\n(2) Ionian Islands/Heptanese\n(3) Western Macedonia\n(4) Epirus"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Βόρειο Αιγαίο",
+     "tr": "Kuzey Ege",
+     "en": "North Aegean"
+    },
+    "lat": 39.2,
+    "lon": 26.25
+   },
+   {
+    "name": {
+     "el": "Ιόνια Νησιά/Επτάνησα",
+     "tr": "İyon Adaları/Yedi Adalar",
+     "en": "Ionian Islands/Heptanese"
+    },
+    "lat": 38.55,
+    "lon": 20.6
+   },
+   {
+    "name": {
+     "el": "Δυτική Μακεδονία",
+     "tr": "Batı Makedonya",
+     "en": "Western Macedonia"
+    },
+    "lat": 40.35,
+    "lon": 21.6
+   },
+   {
+    "name": {
+     "el": "Ήπειρος",
+     "tr": "Epir",
+     "en": "Epirus"
+    },
+    "lat": 39.55,
+    "lon": 20.75
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-63",
+  "subject": "geo",
+  "n": 63,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τις τέσσερις (4) πιο πυκνοκατοικημένες Περιφέρειες της Ελλάδας, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Αττική\n(2) Κεντρική Μακεδονία\n(3) Θεσσαλία\n(4) Δυτική Ελλάδα",
+   "tr": "Defterinizdeki haritada Yunanistan'ın en yoğun nüfuslu dört (4) Bölgesini (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Atika\n(2) Orta Makedonya\n(3) Teselya\n(4) Batı Yunanistan",
+   "en": "Find and mark with (●) on the map in your notebook the four (4) most densely populated Regions of Greece, writing their names in full next to them:\n(1) Attica\n(2) Central Macedonia\n(3) Thessaly\n(4) Western Greece"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Αττική",
+     "tr": "Atika",
+     "en": "Attica"
+    },
+    "lat": 38.05,
+    "lon": 23.75
+   },
+   {
+    "name": {
+     "el": "Κεντρική Μακεδονία",
+     "tr": "Orta Makedonya",
+     "en": "Central Macedonia"
+    },
+    "lat": 40.75,
+    "lon": 23.0
+   },
+   {
+    "name": {
+     "el": "Θεσσαλία",
+     "tr": "Teselya",
+     "en": "Thessaly"
+    },
+    "lat": 39.45,
+    "lon": 22.2
+   },
+   {
+    "name": {
+     "el": "Δυτική Ελλάδα",
+     "tr": "Batı Yunanistan",
+     "en": "Western Greece"
+    },
+    "lat": 38.4,
+    "lon": 21.55
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-64",
+  "subject": "geo",
+  "n": 64,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τέσσερα (4) από τα νησιά της Περιφέρειας Βορείου Αιγαίου, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους.",
+   "tr": "Defterinizdeki haritada Kuzey Ege Bölgesine ait adalardan dördünü (4) (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın.",
+   "en": "Find and mark with (●) on the map in your notebook four (4) of the islands of the Region of the North Aegean, writing their names in full next to them."
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Λέσβος (Μυτιλήνη)",
+     "tr": "Midilli",
+     "en": "Lesbos (Mytilene)"
+    },
+    "lat": 39.2,
+    "lon": 26.3
+   },
+   {
+    "name": {
+     "el": "Σάμος",
+     "tr": "Sisam",
+     "en": "Samos"
+    },
+    "lat": 37.73,
+    "lon": 26.8
+   },
+   {
+    "name": {
+     "el": "Χίος",
+     "tr": "Sakız",
+     "en": "Chios"
+    },
+    "lat": 38.37,
+    "lon": 26.0
+   },
+   {
+    "name": {
+     "el": "Λήμνος",
+     "tr": "Limni",
+     "en": "Lemnos"
+    },
+    "lat": 39.88,
+    "lon": 25.22
+   },
+   {
+    "name": {
+     "el": "Ικαρία",
+     "tr": "İkarya",
+     "en": "Ikaria"
+    },
+    "lat": 37.6,
+    "lon": 26.15
+   }
+  ],
+  "need": 4,
+  "answer": {
+   "el": "Νησιά της Περιφέρειας Βορείου Αιγαίου είναι τα εξής: Λέσβος (Μυτιλήνη), Σάμος, Χίος, Λήμνος, Ικαρία",
+   "tr": "Kuzey Ege Bölgesinin adaları şunlardır: Midilli, Sisam, Sakız, Limni, İkarya",
+   "en": "The islands of the Region of the North Aegean are: Lesbos (Mytilene), Samos, Chios, Lemnos, Ikaria"
+  }
+ },
+ {
+  "id": "geo-65",
+  "subject": "geo",
+  "n": 65,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τις παρακάτω τεχνητές λίμνες (με φράγματα), γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Πολυφύτου\n(2) Πλαστήρα\n(3) Μόρνου\n(4) Μαραθώνα",
+   "tr": "Defterinizdeki haritada aşağıdaki (barajlı) yapay gölleri (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Polifitos\n(2) Plastiras\n(3) Mornos\n(4) Maraton",
+   "en": "Find and mark with (●) on the map in your notebook the following artificial lakes (with dams), writing their names in full next to them:\n(1) Polyfytos\n(2) Plastiras\n(3) Mornos\n(4) Marathon"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Πολυφύτου",
+     "tr": "Polifitos",
+     "en": "Polyfytos"
+    },
+    "lat": 40.23,
+    "lon": 21.98
+   },
+   {
+    "name": {
+     "el": "Πλαστήρα",
+     "tr": "Plastiras",
+     "en": "Plastiras"
+    },
+    "lat": 39.25,
+    "lon": 21.75
+   },
+   {
+    "name": {
+     "el": "Μόρνου",
+     "tr": "Mornos",
+     "en": "Mornos"
+    },
+    "lat": 38.53,
+    "lon": 22.1
+   },
+   {
+    "name": {
+     "el": "Μαραθώνα",
+     "tr": "Maraton",
+     "en": "Marathon"
+    },
+    "lat": 38.17,
+    "lon": 23.9
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-66",
+  "subject": "geo",
+  "n": 66,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τις παρακάτω περιοχές όπου γίνεται εξόρυξη μαρμάρων, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Θάσος\n(2) Δράμα\n(3) Κοζάνη\n(4) Τήνος",
+   "tr": "Defterinizdeki haritada mermer çıkarılan aşağıdaki yerleri (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Taşoz\n(2) Drama\n(3) Kozani\n(4) Tinos",
+   "en": "Find and mark with (●) on the map in your notebook the following areas where marble is quarried, writing their names in full next to them:\n(1) Thasos\n(2) Drama\n(3) Kozani\n(4) Tinos"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Θάσος",
+     "tr": "Taşoz",
+     "en": "Thasos"
+    },
+    "lat": 40.68,
+    "lon": 24.66
+   },
+   {
+    "name": {
+     "el": "Δράμα",
+     "tr": "Drama",
+     "en": "Drama"
+    },
+    "lat": 41.15,
+    "lon": 24.15
+   },
+   {
+    "name": {
+     "el": "Κοζάνη",
+     "tr": "Kozani",
+     "en": "Kozani"
+    },
+    "lat": 40.3,
+    "lon": 21.79
+   },
+   {
+    "name": {
+     "el": "Τήνος",
+     "tr": "Tinos",
+     "en": "Tinos"
+    },
+    "lat": 37.6,
+    "lon": 25.15
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-67",
+  "subject": "geo",
+  "n": 67,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τις παρακάτω γέφυρες, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Ρίου-Αντίρριου\n(2) Σερβίων Κοζάνης\n(3) Κρυσταλλοπηγής\n(4) Ευρίπου Χαλκίδας",
+   "tr": "Defterinizdeki haritada aşağıdaki köprüleri (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Rio-Antirio\n(2) Kozani'deki Servia\n(3) Kristalopigi\n(4) Halkida'daki Evripos",
+   "en": "Find and mark with (●) on the map in your notebook the following bridges, writing their names in full next to them:\n(1) Rio-Antirrio\n(2) Servia (Kozani)\n(3) Krystallopigi\n(4) Euripus (Chalkida)"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Ρίου-Αντίρριου",
+     "tr": "Rio-Antirio",
+     "en": "Rio-Antirrio"
+    },
+    "lat": 38.321,
+    "lon": 21.773
+   },
+   {
+    "name": {
+     "el": "Σερβίων Κοζάνης",
+     "tr": "Kozani'deki Servia",
+     "en": "Servia (Kozani)"
+    },
+    "lat": 40.21,
+    "lon": 21.99
+   },
+   {
+    "name": {
+     "el": "Κρυσταλλοπηγής",
+     "tr": "Kristalopigi",
+     "en": "Krystallopigi"
+    },
+    "lat": 39.55,
+    "lon": 20.36
+   },
+   {
+    "name": {
+     "el": "Ευρίπου Χαλκίδας",
+     "tr": "Halkida'daki Evripos",
+     "en": "Euripus (Chalkida)"
+    },
+    "lat": 38.463,
+    "lon": 23.59
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-68",
+  "subject": "geo",
+  "n": 68,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας δύο (2) Περιφερειακές Ενότητες με τη μεγαλύτερη καλλιέργεια εκτάσεων σε εσπεριδοειδή, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους.",
+   "tr": "Defterinizdeki haritada turunçgil ekim alanı en büyük olan iki (2) Bölgesel Birimi (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın.",
+   "en": "Find and mark with (●) on the map in your notebook two (2) Regional Units with the largest areas cultivated with citrus fruit, writing their names in full next to them."
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Αργολίδα",
+     "tr": "Argolida",
+     "en": "Argolis"
+    },
+    "lat": 37.6,
+    "lon": 22.8
+   },
+   {
+    "name": {
+     "el": "Λακωνία",
+     "tr": "Lakonya",
+     "en": "Laconia"
+    },
+    "lat": 36.95,
+    "lon": 22.6
+   },
+   {
+    "name": {
+     "el": "Αιτωλοακαρνανία",
+     "tr": "Etolya-Akarnanya",
+     "en": "Aetolia-Acarnania"
+    },
+    "lat": 38.6,
+    "lon": 21.35
+   },
+   {
+    "name": {
+     "el": "Άρτα",
+     "tr": "Arta",
+     "en": "Arta"
+    },
+    "lat": 39.16,
+    "lon": 21.0
+   }
+  ],
+  "need": 2,
+  "answer": {
+   "el": "Οι Περιφερειακές Ενότητες με τη μεγαλύτερη καλλιέργεια εκτάσεων σε εσπεριδοειδή είναι οι εξής: Αργολίδα, Λακωνία, Αιτωλοακαρνανία, Άρτα",
+   "tr": "Turunçgil ekim alanı en büyük olan Bölgesel Birimler şunlardır: Argolida, Lakonya, Etolya-Akarnanya, Arta",
+   "en": "The Regional Units with the largest areas cultivated with citrus fruit are: Argolis, Laconia, Aetolia-Acarnania, Arta"
+  }
+ },
+ {
+  "id": "geo-69",
+  "subject": "geo",
+  "n": 69,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τις παρακάτω περιοχές με ιαματικά λουτρά, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Καμένα Βούρλα\n(2) Αιδηψός\n(3) Λουτράκι Κορινθίας\n(4) Αριδαία",
+   "tr": "Defterinizdeki haritada kaplıcaları olan aşağıdaki yerleri (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Kamena Vurla\n(2) Edipsos\n(3) Korintiya'daki Loutraki\n(4) Aridea",
+   "en": "Find and mark with (●) on the map in your notebook the following areas with thermal spas, writing their names in full next to them:\n(1) Kamena Vourla\n(2) Aidipsos\n(3) Loutraki (Corinthia)\n(4) Aridaia"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Καμένα Βούρλα",
+     "tr": "Kamena Vurla",
+     "en": "Kamena Vourla"
+    },
+    "lat": 38.78,
+    "lon": 22.78
+   },
+   {
+    "name": {
+     "el": "Αιδηψός",
+     "tr": "Edipsos",
+     "en": "Aidipsos"
+    },
+    "lat": 38.86,
+    "lon": 23.05
+   },
+   {
+    "name": {
+     "el": "Λουτράκι Κορινθίας",
+     "tr": "Korintiya'daki Loutraki",
+     "en": "Loutraki (Corinthia)"
+    },
+    "lat": 37.975,
+    "lon": 22.977
+   },
+   {
+    "name": {
+     "el": "Αριδαία",
+     "tr": "Aridea",
+     "en": "Aridaia"
+    },
+    "lat": 40.975,
+    "lon": 22.06
+   }
+  ],
+  "need": null,
+  "answer": null
+ },
+ {
+  "id": "geo-70",
+  "subject": "geo",
+  "n": 70,
+  "section": {
+   "el": "Β ΕΝΟΤΗΤΑ: ΕΡΩΤΗΣΕΙΣ ΜΕ ΧΡΗΣΗ ΧΑΡΤΗ",
+   "tr": "B BÖLÜMÜ: HARİTA KULLANILARAK CEVAPLANAN SORULAR",
+   "en": "SECTION B: QUESTIONS USING A MAP"
+  },
+  "type": "map",
+  "prompt": {
+   "el": "Βρείτε και σημειώστε με (●) στον χάρτη του τετραδίου σας τις παρακάτω πόλεις που διαθέτουν λιμάνι, γράφοντας δίπλα ολογράφως και την αντίστοιχη ονομασία τους:\n(1) Πάτρα\n(2) Ηγουμενίτσα\n(3) Ραφήνα\n(4) Ηράκλειο",
+   "tr": "Defterinizdeki haritada limanı olan aşağıdaki şehirleri (●) ile bulup işaretleyin ve yanlarına adlarını tam olarak yazın:\n(1) Patra\n(2) Igumenitsa\n(3) Rafina\n(4) Iraklio",
+   "en": "Find and mark with (●) on the map in your notebook the following cities that have a port, writing their names in full next to them:\n(1) Patras\n(2) Igoumenitsa\n(3) Rafina\n(4) Heraklion"
+  },
+  "note": null,
+  "image": false,
+  "places": [
+   {
+    "name": {
+     "el": "Πάτρα",
+     "tr": "Patra",
+     "en": "Patras"
+    },
+    "lat": 38.246,
+    "lon": 21.734
+   },
+   {
+    "name": {
+     "el": "Ηγουμενίτσα",
+     "tr": "Igumenitsa",
+     "en": "Igoumenitsa"
+    },
+    "lat": 39.503,
+    "lon": 20.265
+   },
+   {
+    "name": {
+     "el": "Ραφήνα",
+     "tr": "Rafina",
+     "en": "Rafina"
+    },
+    "lat": 38.022,
+    "lon": 24.009
+   },
+   {
+    "name": {
+     "el": "Ηράκλειο",
+     "tr": "Iraklio",
+     "en": "Heraklion"
+    },
+    "lat": 35.339,
+    "lon": 25.144
+   }
+  ],
+  "need": null,
+  "answer": null
+ }
+]

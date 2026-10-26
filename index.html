@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>ΠΕΓΠ Hazırlık – Yunan Vatandaşlık Sınavı</title>
+  <meta name="description" content="Yunan vatandaşlık sınavı (Π.Ε.Γ.Π.) resmi soru bankası: Türkçe ve İngilizce çevirili kartlar, akıllı tekrar, sınav provası ve istatistikler.">
+  <meta name="theme-color" content="#0d47a1" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b1220" media="(prefers-color-scheme: dark)">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Noto+Serif:wght@500;600&display=swap&subset=greek" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/" aria-label="Ana sayfa">
+      <span class="brand-mark" aria-hidden="true">Π</span>
+      <span class="brand-text">ΠΕΓΠ <b data-i18n="brandSub">Hazırlık</b></span>
+    </a>
+    <nav class="nav" aria-label="Ana menü">
+      <a href="#/" data-nav="home" data-i18n="navHome">Ana sayfa</a>
+      <a href="#/learn" data-nav="learn" data-i18n="navLearn">Dersler</a>
+      <a href="#/study" data-nav="study" data-i18n="navStudy">Çalış</a>
+      <a href="#/exam" data-nav="exam" data-i18n="navExam">Sınav</a>
+      <a href="#/stats" data-nav="stats" data-i18n="navStats">İstatistik</a>
+    </nav>
+    <div class="top-actions">
+      <button class="icon-btn" id="langBtn" type="button" aria-label="Dil / Language">TR</button>
+      <button class="icon-btn" id="themeBtn" type="button" aria-label="Tema">◐</button>
+    </div>
+  </header>
+
+  <main id="app" tabindex="-1"></main>
+
+  <footer class="site-footer">
+    <p data-i18n-html="footerSource"></p>
+    <p class="muted" data-i18n="footerDisclaimer"></p>
+    <p><a href="#/about" data-i18n="navAbout">Hakkında ve kaynak</a> · <a href="#/settings" data-i18n="navSettings">Ayarlar</a> · <a href="#/about?changes=1" id="verLink"></a></p>
+  </footer>
+
+  <nav class="tabbar" aria-label="Alt menü">
+    <a href="#/" data-nav="home"><span aria-hidden="true">⌂</span><small data-i18n="navHome">Ana sayfa</small></a>
+    <a href="#/learn" data-nav="learn"><span aria-hidden="true">📖</span><small data-i18n="navLearn">Dersler</small></a>
+    <a href="#/study" data-nav="study"><span aria-hidden="true">❏</span><small data-i18n="navStudy">Çalış</small></a>
+    <a href="#/exam" data-nav="exam"><span aria-hidden="true">✎</span><small data-i18n="navExam">Sınav</small></a>
+    <a href="#/stats" data-nav="stats"><span aria-hidden="true">▤</span><small data-i18n="navStats">İstatistik</small></a>
+  </nav>
+
+  <div id="toast" role="status" aria-live="polite"></div>
+
+  <script src="js/version.js"></script>
+  <script src="data/questions.js"></script>
+  <script src="data/lessons.js"></script>
+  <script src="data/greece-map.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/srs.js"></script>
+  <script src="js/map.js"></script>
+  <script src="js/cards.js"></script>
+  <script src="js/views.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

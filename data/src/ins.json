@@ -1,0 +1,3599 @@
+[
+ {
+  "id": "ins-1",
+  "subject": "ins",
+  "n": 1,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η ιδρυτική Συνθήκη της ΕΟΚ του 1957 (σημερινή Ε.Ε.) αναθεωρήθηκε έως σήμερα (2024) συνολικά:",
+   "tr": "1957 tarihli AET kurucu antlaşması (bugünkü AB) bugüne kadar (2024) toplam kaç kez revize edildi?",
+   "en": "The 1957 founding Treaty of the EEC (today's EU) has been revised to date (2024) a total of:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "1 φορά",
+    "tr": "1 kez",
+    "en": "once"
+   },
+   {
+    "el": "3 φορές",
+    "tr": "3 kez",
+    "en": "3 times"
+   },
+   {
+    "el": "5 φορές",
+    "tr": "5 kez",
+    "en": "5 times"
+   },
+   {
+    "el": "καμία φορά",
+    "tr": "hiç",
+    "en": "never"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "ins-2",
+  "subject": "ins",
+  "n": 2,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Τα κράτη μέλη της Ε.Ε. είναι:",
+   "tr": "AB'ye üye devletlerin sayısı:",
+   "en": "The member states of the EU number:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "10",
+    "tr": "10",
+    "en": "10"
+   },
+   {
+    "el": "20",
+    "tr": "20",
+    "en": "20"
+   },
+   {
+    "el": "27",
+    "tr": "27",
+    "en": "27"
+   },
+   {
+    "el": "30",
+    "tr": "30",
+    "en": "30"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "ins-3",
+  "subject": "ins",
+  "n": 3,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Κάθε πόσα χρόνια πραγματοποιούνται εθνικές εκλογές στην Ελλάδα ;",
+   "tr": "Yunanistan'da genel (ulusal) seçimler kaç yılda bir yapılır?",
+   "en": "How often are national elections held in Greece?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Τέσσερα χρόνια ακριβώς μετά την τελευταία εκλογική διαδικασία.",
+    "tr": "Son seçimden tam dört yıl sonra.",
+    "en": "Exactly four years after the last election."
+   },
+   {
+    "el": "Το αργότερο κάθε τέσσερα χρόνια.",
+    "tr": "En geç dört yılda bir.",
+    "en": "Every four years at the latest."
+   },
+   {
+    "el": "Όποτε το αποφασίσει ο Πρωθυπουργός.",
+    "tr": "Başbakan ne zaman karar verirse.",
+    "en": "Whenever the Prime Minister decides."
+   },
+   {
+    "el": "Κανένα από τα παραπάνω.",
+    "tr": "Yukarıdakilerin hiçbiri.",
+    "en": "None of the above."
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-4",
+  "subject": "ins",
+  "n": 4,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος έχει το δικαίωμα του εκλέγειν στις βουλευτικές εκλογές στην Ελλάδα;",
+   "tr": "Yunanistan'da milletvekili seçimlerinde kimin seçme hakkı vardır?",
+   "en": "Who has the right to vote in parliamentary elections in Greece?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Οι νόμιμα διαμένοντες στην Ελλάδα",
+    "tr": "Yunanistan'da yasal olarak ikamet edenler",
+    "en": "Those legally residing in Greece"
+   },
+   {
+    "el": "Όσοι έχουν την ελληνική ιθαγένεια, έχουν συμπληρώσει το δέκατο έβδομο (17ο) έτος της ηλικίας τους, έχουν ικανότητα για δικαιοπραξία και δεν έχουν υποστεί αμετάκλητη ποινική καταδίκη",
+    "tr": "Yunan vatandaşlığına sahip olan, on yedi (17) yaşını doldurmuş, fiil (hukuki işlem) ehliyetine sahip olan ve kesinleşmiş bir ceza mahkûmiyeti bulunmayanlar",
+    "en": "Those who hold Greek citizenship, have completed their seventeenth (17th) year of age, have legal capacity to enter into legal transactions and have not suffered an irrevocable criminal conviction"
+   },
+   {
+    "el": "Όλοι οι πολίτες της ΕΕ που διαμένουν στην Ελλάδα",
+    "tr": "Yunanistan'da ikamet eden tüm AB vatandaşları",
+    "en": "All EU citizens residing in Greece"
+   },
+   {
+    "el": "Όσοι έχουν συμπληρώσει 10 χρόνια διαμονής στην Ελλάδα",
+    "tr": "Yunanistan'da 10 yıllık ikametini tamamlamış olanlar",
+    "en": "Those who have completed 10 years of residence in Greece"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-5",
+  "subject": "ins",
+  "n": 5,
+  "section": null,
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τις αρχές του Συντάγματος της Στήλης I με τα δικαιώματα των πολιτών στην Ελληνική Δημοκρατία που στηρίζονται σε κάθε μια από αυτές όπως δίνονται στη Στήλη II.",
+   "tr": "Sütun I'deki Anayasa ilkelerini, Yunan Cumhuriyeti'nde vatandaşların bu ilkelerin her birine dayanan ve Sütun II'de verilen haklarıyla eşleştirin.",
+   "en": "Match the principles of the Constitution in Column I with the rights of citizens in the Hellenic Republic that rest on each of them, as given in Column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Αρχή της λαϊκής κυριαρχίας",
+    "tr": "Halk egemenliği ilkesi",
+    "en": "Principle of popular sovereignty"
+   },
+   {
+    "el": "Αρχή του κοινωνικού κράτους",
+    "tr": "Sosyal devlet ilkesi",
+    "en": "Principle of the social (welfare) state"
+   },
+   {
+    "el": "Αρχή της διάκρισης των εξουσιών",
+    "tr": "Kuvvetler ayrılığı ilkesi",
+    "en": "Principle of the separation of powers"
+   },
+   {
+    "el": "Αρχή του κράτους δικαίου",
+    "tr": "Hukuk devleti ilkesi",
+    "en": "Principle of the rule of law"
+   }
+  ],
+  "right": [
+   {
+    "el": "Οι νόμοι ψηφίζονται από τη Βουλή",
+    "tr": "Yasalar Yunan Parlamentosu (Vouli) tarafından kabul edilir",
+    "en": "Laws are passed by Parliament"
+   },
+   {
+    "el": "Είναι δικαίωμα των πολιτών να ψηφίζουν και να εκλέγουν τις αρχές του τόπου",
+    "tr": "Vatandaşların oy kullanma ve ülkenin yöneticilerini seçme hakkı vardır",
+    "en": "Citizens have the right to vote and to elect the country's authorities"
+   },
+   {
+    "el": "Η εκπαίδευση στην Ελλάδα είναι δωρεάν",
+    "tr": "Yunanistan'da eğitim ücretsizdir",
+    "en": "Education in Greece is free of charge"
+   },
+   {
+    "el": "Για να φυλακιστεί κάποιος πρέπει να δώσει εντολή η δικαστική αρχή και μόνο",
+    "tr": "Birinin hapsedilmesi için yalnızca ve yalnızca yargı makamının emri gerekir",
+    "en": "For someone to be imprisoned, an order must be given by the judicial authority and by it alone"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    1
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    3
+   ]
+  ]
+ },
+ {
+  "id": "ins-6",
+  "subject": "ins",
+  "n": 6,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Οι εθνικές εκλογές του Μαΐου 2023 στην Ελλάδα έγιναν με σύστημα:",
+   "tr": "Yunanistan'da Mayıs 2023 genel seçimleri hangi sistemle yapıldı?",
+   "en": "The national elections of May 2023 in Greece were held under the system of:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "απλής αναλογικής",
+    "tr": "basit (tam) nispi temsil",
+    "en": "simple proportional representation"
+   },
+   {
+    "el": "ενισχυμένης αναλογικής",
+    "tr": "güçlendirilmiş (bonuslu) nispi temsil",
+    "en": "reinforced proportional representation"
+   },
+   {
+    "el": "πλειοψηφικό",
+    "tr": "çoğunluk sistemi",
+    "en": "majoritarian system"
+   },
+   {
+    "el": "κανένα από τα παραπάνω",
+    "tr": "yukarıdakilerin hiçbiri",
+    "en": "none of the above"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ins-7",
+  "subject": "ins",
+  "n": 7,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια από τα παρακάτω πολιτικά πρόσωπα μπορούν να αναλάβουν το αξίωμά τους, χωρίς να έχουν εκλεγεί απευθείας από τον λαό;",
+   "tr": "Aşağıdaki siyasi makam sahiplerinden hangileri, doğrudan halk tarafından seçilmeden görevlerini üstlenebilir?",
+   "en": "Which of the following political office-holders can take up their office without having been directly elected by the people?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Πρόεδρος της Δημοκρατίας, Υπουργός, Γενικός Γραμματέας Υπουργείου",
+    "tr": "Cumhurbaşkanı, Bakan, Bakanlık Genel Sekreteri",
+    "en": "President of the Republic, Minister, Secretary-General of a Ministry"
+   },
+   {
+    "el": "Υπουργός, Υφυπουργός, Δήμαρχος",
+    "tr": "Bakan, Bakan Yardımcısı, Belediye Başkanı",
+    "en": "Minister, Deputy Minister, Mayor"
+   },
+   {
+    "el": "Δήμαρχος, Περιφερειάρχης, Υπουργός άνευ Χαρτοφυλακίου",
+    "tr": "Belediye Başkanı, Bölge Valisi (Periferiarhis), Portföysüz Bakan",
+    "en": "Mayor, Regional Governor, Minister without Portfolio"
+   },
+   {
+    "el": "Περιφερειάρχης, Υπουργός, Αντιπρόεδρος της Κυβέρνησης",
+    "tr": "Bölge Valisi (Periferiarhis), Bakan, Başbakan Yardımcısı",
+    "en": "Regional Governor, Minister, Deputy Prime Minister (Vice-President of the Government)"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ins-8",
+  "subject": "ins",
+  "n": 8,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Τα Ανώτατα Δικαστήρια στην Ελλάδα είναι:",
+   "tr": "Yunanistan'daki yüksek mahkemelerin sayısı:",
+   "en": "The Supreme Courts in Greece are:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Τρία",
+    "tr": "Üç",
+    "en": "Three"
+   },
+   {
+    "el": "Δύο",
+    "tr": "İki",
+    "en": "Two"
+   },
+   {
+    "el": "Τέσσερα",
+    "tr": "Dört",
+    "en": "Four"
+   },
+   {
+    "el": "Πέντε",
+    "tr": "Beş",
+    "en": "Five"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ins-9",
+  "subject": "ins",
+  "n": 9,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Σύμφωνα με την «αρχή της δεδηλωμένης», η οποία κατοχυρώνεται στο άρθρο 84 του Συντάγματος:",
+   "tr": "Anayasa'nın 84. maddesinde güvence altına alınan «açıklanmış güven ilkesi»ne (parlamenter güven ilkesi) göre:",
+   "en": "According to the 'principle of declared confidence', which is enshrined in Article 84 of the Constitution:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Η κυβέρνηση οφείλει να λάβει ψήφο εμπιστοσύνης από τη Βουλή, ενώ παράλληλα η Βουλή έχει δικαίωμα να άρει την εμπιστοσύνη της ανά πάσα στιγμή με ψήφο δυσπιστίας",
+    "tr": "Hükümet Yunan Parlamentosu'ndan (Vouli) güvenoyu almak zorundadır; Parlamento da her an bir güvensizlik oyuyla güvenini geri çekme hakkına sahiptir",
+    "en": "The government must obtain a vote of confidence from Parliament, while Parliament has the right to withdraw its confidence at any time through a vote of no confidence"
+   },
+   {
+    "el": "Μέσα σε 20 ημέρες από την ορκωμοσία του Πρωθυπουργού, η Κυβέρνηση υποχρεούται να ζητήσει ψήφο εμπιστοσύνης και μπορεί να τη ζητά και οποτεδήποτε άλλοτε",
+    "tr": "Başbakanın yemin etmesinden itibaren 20 gün içinde Hükümet güvenoyu istemek zorundadır ve bunu başka herhangi bir zamanda da isteyebilir",
+    "en": "Within 20 days of the Prime Minister's swearing-in, the Government is obliged to seek a vote of confidence and may also seek one at any other time"
+   },
+   {
+    "el": "H Βουλή δεν μπορεί να αποσύρει την εμπιστοσύνη της από μεμονωμένο μέλος της Κυβέρνησης",
+    "tr": "Parlamento, Hükümetin tek bir üyesinden güvenini geri çekemez",
+    "en": "Parliament cannot withdraw its confidence from an individual member of the Government"
+   },
+   {
+    "el": "Κατά την ψηφοφορία για την ψήφο εμπιστοσύνης/ δυσπιστίας δεν μπορούν να ψηφίσουν οι Υπουργοί και Υφυπουργοί που είναι μέλη της Βουλής",
+    "tr": "Güven/güvensizlik oylamasında, Parlamento üyesi olan Bakanlar ve Bakan Yardımcıları oy kullanamaz",
+    "en": "In the vote of confidence/no confidence, Ministers and Deputy Ministers who are members of Parliament may not vote"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ins-10",
+  "subject": "ins",
+  "n": 10,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιο από τα παρακάτω θέματα περιλαμβάνεται στη Χάρτα των Θεμελιωδών Δικαιωμάτων της Ε.Ε.:",
+   "tr": "Aşağıdaki konulardan hangisi AB Temel Haklar Şartı'nda yer alır?",
+   "en": "Which of the following is included in the Charter of Fundamental Rights of the EU?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "το δικαίωμα στην ελευθερία και την ασφάλεια",
+    "tr": "özgürlük ve güvenlik hakkı",
+    "en": "the right to liberty and security"
+   },
+   {
+    "el": "η ελευθερία σκέψης, συνείδησης και θρησκείας",
+    "tr": "düşünce, vicdan ve din özgürlüğü",
+    "en": "freedom of thought, conscience and religion"
+   },
+   {
+    "el": "η προστασία σε περίπτωση απομάκρυνσης, απέλασης και έκδοσης",
+    "tr": "sınır dışı etme, ihraç ve iade durumunda koruma",
+    "en": "protection in the event of removal, expulsion or extradition"
+   },
+   {
+    "el": "όλα τα παραπάνω",
+    "tr": "yukarıdakilerin hepsi",
+    "en": "all of the above"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "ins-11",
+  "subject": "ins",
+  "n": 11,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια από τις παρακάτω διατυπώσεις είναι λάθος; Το κράτος, όπως ρητά αναφέρεται στο Σύνταγμα, οφείλει να μεριμνά για:",
+   "tr": "Aşağıdaki ifadelerden hangisi yanlıştır? Anayasa'da açıkça belirtildiği üzere devlet şunu gözetmekle yükümlüdür:",
+   "en": "Which of the following statements is wrong? The State, as expressly stated in the Constitution, must take care of:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "την περίθαλψη των απόρων",
+    "tr": "yoksulların bakımı",
+    "en": "care for the indigent"
+   },
+   {
+    "el": "την επαγγελματική ένταξη των ατόμων με αναπηρίες",
+    "tr": "engelli bireylerin mesleki entegrasyonu",
+    "en": "the vocational integration of persons with disabilities"
+   },
+   {
+    "el": "την επίλυση των κληρονομικών διαφορών που προκύπτουν μεταξύ των πολιτών",
+    "tr": "vatandaşlar arasında doğan miras uyuşmazlıklarının çözümü",
+    "en": "the resolution of inheritance disputes arising between citizens"
+   },
+   {
+    "el": "την προστασία του θεσμού της οικογένειας",
+    "tr": "aile kurumunun korunması",
+    "en": "the protection of the institution of the family"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "ins-12",
+  "subject": "ins",
+  "n": 12,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο Οργανισμός Θεμελιωδών Δικαιωμάτων της Ε.Ε για την προάσπιση των θεμελιωδών δικαιωμάτων και ελευθεριών του ανθρώπου ιδρύθηκε το:",
+   "tr": "İnsanın temel hak ve özgürlüklerini korumaya yönelik AB Temel Haklar Ajansı hangi yıl kuruldu?",
+   "en": "The EU Agency for Fundamental Rights, for the defence of fundamental human rights and freedoms, was founded in:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "1957",
+    "tr": "1957",
+    "en": "1957"
+   },
+   {
+    "el": "2007",
+    "tr": "2007",
+    "en": "2007"
+   },
+   {
+    "el": "1993",
+    "tr": "1993",
+    "en": "1993"
+   },
+   {
+    "el": "1985",
+    "tr": "1985",
+    "en": "1985"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-13",
+  "subject": "ins",
+  "n": 13,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος είναι ο κύριος ρόλος των βουλευτών στη Βουλή:",
+   "tr": "Milletvekillerinin Yunan Parlamentosu'ndaki (Vouli) temel rolü nedir?",
+   "en": "What is the main role of members of Parliament in Parliament?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Η αντιπροσώπευση των πολιτών που τους ψήφισαν",
+    "tr": "Kendilerine oy veren vatandaşları temsil etmek",
+    "en": "Representing the citizens who voted for them"
+   },
+   {
+    "el": "Η ψήφιση όλων των νομοσχεδίων που φέρνει η Κυβέρνηση προς ψήφιση στη Βουλή",
+    "tr": "Hükümetin Parlamentoya oylamaya getirdiği tüm yasa tasarılarını kabul etmek",
+    "en": "Voting for all bills the Government brings to Parliament for a vote"
+   },
+   {
+    "el": "Η άρνηση ψήφισης όλων των νομοσχεδίων που προέρχονται από άλλο κόμμα εκτός από το δικό τους",
+    "tr": "Kendi partileri dışındaki bir partiden gelen tüm yasa tasarılarına oy vermeyi reddetmek",
+    "en": "Refusing to vote for all bills coming from any party other than their own"
+   },
+   {
+    "el": "Η αντιπροσώπευση του λαού στο σύνολο του",
+    "tr": "Halkın bütününü temsil etmek",
+    "en": "Representing the people as a whole"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "ins-14",
+  "subject": "ins",
+  "n": 14,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Αν διαβάζοντας μία εφημερίδα δείτε τη φράση «τα πολιτειακά και πολιτικά όργανα» του κράτους, θα καταλάβετε ότι πρόκειται για:",
+   "tr": "Bir gazete okurken devletin «anayasal ve siyasi organları» ifadesini görürseniz, bunun kimleri kastettiğini anlarsınız?",
+   "en": "If, while reading a newspaper, you see the phrase 'the constitutional and political organs' of the State, you will understand that it refers to:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "τον Πρόεδρο της Δημοκρατίας, τη Βουλή, την Κυβέρνηση και τα Όργανα της Τοπικής Αυτοδιοίκησης",
+    "tr": "Cumhurbaşkanı, Yunan Parlamentosu (Vouli), Hükümet ve Yerel Yönetim organları",
+    "en": "the President of the Republic, Parliament, the Government and the organs of Local Government"
+   },
+   {
+    "el": "τον Πρόεδρο της Δημοκρατίας, τον Πρωθυπουργό, την Κυβέρνηση, τον Αρχιεπίσκοπο Αθηνών",
+    "tr": "Cumhurbaşkanı, Başbakan, Hükümet, Atina Başpiskoposu",
+    "en": "the President of the Republic, the Prime Minister, the Government, the Archbishop of Athens"
+   },
+   {
+    "el": "τον Πρωθυπουργό, τα μέλη του Υπουργικού Συμβουλίου, τον Πρόεδρο της Ακαδημίας Αθηνών, τον Πρόεδρο του Αρείου Πάγου",
+    "tr": "Başbakan, Bakanlar Kurulu üyeleri, Atina Akademisi Başkanı, Areios Pagos (Yargıtay) Başkanı",
+    "en": "the Prime Minister, the members of the Cabinet, the President of the Academy of Athens, the President of the Areios Pagos (Supreme Civil and Criminal Court)"
+   },
+   {
+    "el": "τον Πρωθυπουργό, τον Πρόεδρο της Βουλής, τον Πρόεδρο του Αρείου Πάγου, τον Αρχιεπίσκοπο",
+    "tr": "Başbakan, Parlamento Başkanı, Areios Pagos (Yargıtay) Başkanı, Başpiskopos",
+    "en": "the Prime Minister, the Speaker of Parliament, the President of the Areios Pagos, the Archbishop"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ins-15",
+  "subject": "ins",
+  "n": 15,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια από τις παρακάτω διατυπώσεις είναι λάθος;",
+   "tr": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+   "en": "Which of the following statements is wrong?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Αν είστε Έλληνας πολίτης, αλλά ζείτε στην Ισπανία, έχετε το δικαίωμα του εκλέγειν και εκλέγεσθαι στις δημοτικές εκλογές στη συγκεκριμένη χώρα.",
+    "tr": "Yunan vatandaşıysanız ancak İspanya'da yaşıyorsanız, o ülkedeki belediye seçimlerinde seçme ve seçilme hakkınız vardır.",
+    "en": "If you are a Greek citizen but live in Spain, you have the right to vote and to stand as a candidate in municipal elections in that country."
+   },
+   {
+    "el": "Αν κάποιος τελέσει πολιτικό γάμο στην Ελλάδα, δεν είναι απαραίτητο ότι ο γάμος αυτός θα έχει ισχύ σε άλλο κράτος της ΕΕ.",
+    "tr": "Biri Yunanistan'da medeni nikâh kıyarsa, bu evliliğin başka bir AB ülkesinde geçerli olması gerekmez.",
+    "en": "If someone has a civil marriage in Greece, it is not necessarily the case that this marriage will be valid in another EU country."
+   },
+   {
+    "el": "Τα περιουσιακά δικαιώματα και το δικαίωμα διατροφής ενδέχεται να αλλάζουν από χώρα σε χώρα εντός της ΕΕ για τα ζευγάρια (ετερόφυλα και ομόφυλα) που έχουν συνάψει σύμφωνο συμβίωσης.",
+    "tr": "Birlikte yaşama sözleşmesi yapmış (karşı cinsten ve aynı cinsten) çiftler için mülkiyet hakları ve nafaka hakkı AB içinde ülkeden ülkeye değişebilir.",
+    "en": "Property rights and the right to maintenance may vary from country to country within the EU for couples (opposite-sex and same-sex) who have entered into a cohabitation agreement (civil partnership)."
+   },
+   {
+    "el": "Ένας Έλληνας πολίτης, αν έχει ζήσει νόμιμα και πληροί τους όρους διαμονής σε άλλη χώρα της ΕΕ επί 5 συναπτά (συνεχόμενα) έτη, αποκτά αυτομάτως το δικαίωμα μόνιμης διαμονής στη χώρα αυτή.",
+    "tr": "Bir Yunan vatandaşı, başka bir AB ülkesinde 5 yıl kesintisiz (art arda) yasal olarak yaşamış ve ikamet koşullarını sağlıyorsa, o ülkede otomatik olarak daimi ikamet hakkı kazanır.",
+    "en": "A Greek citizen who has lived legally and meets the residence conditions in another EU country for 5 consecutive (continuous) years automatically acquires the right of permanent residence in that country."
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-16",
+  "subject": "ins",
+  "n": 16,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια από τις παρακάτω επιχειρήσεις δεν ανήκει στις Επιχειρήσεις Κοινής Ωφέλειας;",
+   "tr": "Aşağıdaki işletmelerden hangisi Kamu Yararına Hizmet İşletmeleri arasında yer almaz?",
+   "en": "Which of the following enterprises is not a Public Utility Enterprise?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Εταιρεία Ύδρευσης Αποχέτευσης Θεσσαλονίκης (Ε.Υ.Α.Θ.)",
+    "tr": "Selanik Su ve Kanalizasyon Şirketi (EYATH)",
+    "en": "Thessaloniki Water Supply and Sewerage Company (EYATH)"
+   },
+   {
+    "el": "Ελληνική Βιομηχανία Αλουμινίου",
+    "tr": "Yunan Alüminyum Sanayii",
+    "en": "Hellenic Aluminium Industry"
+   },
+   {
+    "el": "Δημοτική Επιχείρηση Ανάπτυξης Δήμου Ζωγράφου",
+    "tr": "Zografou Belediyesi Belediye Kalkınma İşletmesi",
+    "en": "Municipal Development Enterprise of the Municipality of Zografou"
+   },
+   {
+    "el": "Ελληνικά Ταχυδρομεία Α.Ε. (ΕΛΤΑ)",
+    "tr": "Yunan Postaları A.Ş. (ELTA)",
+    "en": "Hellenic Post S.A. (ELTA)"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-17",
+  "subject": "ins",
+  "n": 17,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια διαδικασία ονομάζεται και «Ώρα του Πρωθυπουργού»;",
+   "tr": "Hangi usule «Başbakan Saati» de denir?",
+   "en": "Which procedure is also called 'Prime Minister's Hour'?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Όταν ο Πρωθυπουργός απευθύνεται εκτάκτως και για σοβαρά θέματα από την τηλεόραση και το ραδιόφωνο στους πολίτες",
+    "tr": "Başbakanın olağanüstü olarak ve ciddi konularda televizyon ve radyo aracılığıyla vatandaşlara hitap etmesi",
+    "en": "When the Prime Minister addresses citizens on television and radio, exceptionally and on serious matters"
+   },
+   {
+    "el": "Όταν ο Πρωθυπουργός απαντά στη Βουλή σε επίκαιρη ερώτηση που έχει γίνει στον ίδιον",
+    "tr": "Başbakanın Yunan Parlamentosu'nda (Vouli) kendisine yöneltilen güncel bir soruyu yanıtlaması",
+    "en": "When the Prime Minister answers in Parliament a topical question addressed to him personally"
+   },
+   {
+    "el": "Όταν ο Πρωθυπουργός κάνει δηλώσεις μετά από επίσημη επίσκεψη στη χώρα μας ξένου αρχηγού κράτους ή κυβέρνησης",
+    "tr": "Başbakanın, yabancı bir devlet veya hükümet başkanının ülkemize resmî ziyaretinin ardından açıklama yapması",
+    "en": "When the Prime Minister makes statements after an official visit to our country by a foreign head of state or government"
+   },
+   {
+    "el": "Όταν ο Πρωθυπουργός κάνει ομιλία στην κοινοβουλευτική ομάδα του κόμματός του",
+    "tr": "Başbakanın kendi partisinin meclis grubunda konuşma yapması",
+    "en": "When the Prime Minister gives a speech to his party's parliamentary group"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-18",
+  "subject": "ins",
+  "n": 18,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια υπηρεσία είναι αρμόδια για την έκδοση Ποινικού Μητρώου;",
+   "tr": "Adli sicil kaydı (sabıka kaydı) belgesini düzenlemeye hangi kurum yetkilidir?",
+   "en": "Which service is responsible for issuing a Criminal Record certificate?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Η Εφορία",
+    "tr": "Vergi dairesi",
+    "en": "The Tax Office"
+   },
+   {
+    "el": "Το Υπουργείο Οικονομικών",
+    "tr": "Maliye Bakanlığı",
+    "en": "The Ministry of Finance"
+   },
+   {
+    "el": "Το Υπουργείο Δικαιοσύνης",
+    "tr": "Adalet Bakanlığı",
+    "en": "The Ministry of Justice"
+   },
+   {
+    "el": "Το Υπουργείο Προστασίας του Πολίτη",
+    "tr": "Vatandaşın Korunması Bakanlığı",
+    "en": "The Ministry of Citizen Protection"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "ins-19",
+  "subject": "ins",
+  "n": 19,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Όσοι έχουν την ιθαγένεια ενός κράτους ονομάζονται:",
+   "tr": "Bir devletin vatandaşlığına sahip olanlara ne denir?",
+   "en": "Those who hold the citizenship of a State are called:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Αλλοδαποί",
+    "tr": "Yabancılar",
+    "en": "Aliens (foreigners)"
+   },
+   {
+    "el": "Ημεδαποί",
+    "tr": "Yerliler (o devletin uyrukları)",
+    "en": "Nationals"
+   },
+   {
+    "el": "Ομογενείς",
+    "tr": "Soydaşlar",
+    "en": "Persons of Greek descent (co-ethnics)"
+   },
+   {
+    "el": "Κανένα από τα παραπάνω",
+    "tr": "Yukarıdakilerin hiçbiri",
+    "en": "None of the above"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-20",
+  "subject": "ins",
+  "n": 20,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Τι σημαίνει ο όρος «ανασχηματισμός»;",
+   "tr": "«Kabine değişikliği» (anasximatismos) terimi ne anlama gelir?",
+   "en": "What does the term 'reshuffle' mean?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "είναι η διαδικασία κατά την οποία ο Πρόεδρος της Βουλής αλλάζει τους Αντιπροέδρους της Βουλής",
+    "tr": "Parlamento Başkanının Parlamento Başkan Yardımcılarını değiştirdiği süreçtir",
+    "en": "it is the procedure by which the Speaker of Parliament changes the Deputy Speakers of Parliament"
+   },
+   {
+    "el": "είναι η διαδικασία κατά την οποία ο Πρωθυπουργός αλλάζει τη σύνθεση της Κυβέρνησης της χώρας",
+    "tr": "Başbakanın ülke Hükümetinin bileşimini değiştirdiği süreçtir",
+    "en": "it is the procedure by which the Prime Minister changes the composition of the country's Government"
+   },
+   {
+    "el": "είναι η διαδικασία κατά την οποία ο Πρόεδρος της Δημοκρατίας αλλάζει τη σύνθεση της Κυβέρνησης της χώρας",
+    "tr": "Cumhurbaşkanının ülke Hükümetinin bileşimini değiştirdiği süreçtir",
+    "en": "it is the procedure by which the President of the Republic changes the composition of the country's Government"
+   },
+   {
+    "el": "κανένα από τα παραπάνω",
+    "tr": "yukarıdakilerin hiçbiri",
+    "en": "none of the above"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-21",
+  "subject": "ins",
+  "n": 21,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Τι είναι η Ευρωπαϊκή Κάρτα Ασφάλισης Ασθενείας (ΕΚΑΑ);",
+   "tr": "Avrupa Sağlık Sigortası Kartı (EKAA) nedir?",
+   "en": "What is the European Health Insurance Card (EHIC)?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "μια δωρεάν κάρτα που προσφέρει πρόσβαση σε ιατρική φροντίδα ενός πολίτη της ΕΕ σε οποιοδήποτε κράτος και αν βρίσκεται",
+    "tr": "bir AB vatandaşına hangi ülkede bulunursa bulunsun tıbbi bakıma erişim sağlayan ücretsiz bir kart",
+    "en": "a free card giving an EU citizen access to medical care in whatever country they happen to be"
+   },
+   {
+    "el": "μια δωρεάν κάρτα που προσφέρει πρόσβαση σε ιατρική φροντίδα κατά την προσωρινή διαμονή ενός ασφαλισμένου σε ένα κράτος-μέλος της ΕΕ",
+    "tr": "sigortalı bir kişinin bir AB üye devletinde geçici olarak bulunduğu sırada tıbbi bakıma erişim sağlayan ücretsiz bir kart",
+    "en": "a free card giving an insured person access to medical care during a temporary stay in an EU member state"
+   },
+   {
+    "el": "μια προπληρωμένη κάρτα που προσφέρει πρόσβαση σε ιατρική φροντίδα κατά την προσωρινή διαμονή ενός ασφαλισμένου σε ένα κράτος-μέλος της ΕΕ",
+    "tr": "sigortalı bir kişinin bir AB üye devletinde geçici olarak bulunduğu sırada tıbbi bakıma erişim sağlayan ön ödemeli bir kart",
+    "en": "a prepaid card giving an insured person access to medical care during a temporary stay in an EU member state"
+   },
+   {
+    "el": "κανένα από τα παραπάνω",
+    "tr": "yukarıdakilerin hiçbiri",
+    "en": "none of the above"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-22",
+  "subject": "ins",
+  "n": 22,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Τι σημαίνουν τα αρχικά Κ.Ε.Π.;",
+   "tr": "K.E.P. kısaltması neyin baş harfleridir?",
+   "en": "What do the initials K.E.P. stand for?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Κέντρο Ενημέρωσης Πολιτών",
+    "tr": "Vatandaş Bilgilendirme Merkezi",
+    "en": "Citizens' Information Centre"
+   },
+   {
+    "el": "Κέντρο Εξυπηρέτησης Πελατών",
+    "tr": "Müşteri Hizmetleri Merkezi",
+    "en": "Customer Service Centre"
+   },
+   {
+    "el": "Κέντρο Εξυπηρέτησης Πολιτών",
+    "tr": "Vatandaş Hizmet Merkezi",
+    "en": "Citizens' Service Centre"
+   },
+   {
+    "el": "Κεντρική Εξυπηρέτηση Πολιτών",
+    "tr": "Merkezi Vatandaş Hizmeti",
+    "en": "Central Citizens' Service"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "ins-23",
+  "subject": "ins",
+  "n": 23,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Τι άλλαξε για τα άτομα ΛΟΑΤΚΙ + στην Ελλάδα με τον ν.5089/2024 «Ισότητα στον πολιτικό γάμο, τροποποίηση του Αστικού Κώδικα και άλλες διατάξεις»;",
+   "tr": "«Medeni evlilikte eşitlik, Medeni Kanun'da değişiklik ve diğer hükümler» başlıklı 5089/2024 sayılı Kanun ile Yunanistan'da LGBTİ+ bireyler için ne değişti?",
+   "en": "What changed for LGBTQI+ people in Greece with Law 5089/2024 'Equality in civil marriage, amendment of the Civil Code and other provisions'?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Νομιμοποιήθηκε το Σύμφωνο Συμβίωσης για τα ζευγάρια του ίδιου φύλου",
+    "tr": "Aynı cinsiyetten çiftler için birlikte yaşama sözleşmesi yasallaştı",
+    "en": "The cohabitation agreement (civil partnership) was legalised for same-sex couples"
+   },
+   {
+    "el": "Νομιμοποιήθηκε η σεξουαλική επαφή μεταξύ ατόμων του ίδιου φύλου",
+    "tr": "Aynı cinsiyetten kişiler arasındaki cinsel ilişki yasallaştı",
+    "en": "Sexual relations between persons of the same sex were legalised"
+   },
+   {
+    "el": "Αναγνωρίστηκε η ισότητα στον γάμο για όλα τα άτομα ανεξαρτήτως φύλου",
+    "tr": "Cinsiyetten bağımsız olarak herkes için evlilikte eşitlik tanındı",
+    "en": "Equality in marriage was recognised for all persons regardless of sex"
+   },
+   {
+    "el": "Δεν άλλαξε κάτι ουσιαστικό",
+    "tr": "Esaslı hiçbir şey değişmedi",
+    "en": "Nothing substantial changed"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "ins-24",
+  "subject": "ins",
+  "n": 24,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Ποιες από τις παρακάτω δηλώσεις σχετικά με τη στράτευση στην Ελλάδα είναι σωστές:",
+   "tr": "Yunanistan'da askerlik hizmetiyle ilgili aşağıdaki ifadelerden hangileri doğrudur?",
+   "en": "Which of the following statements about military service in Greece are correct?"
+  },
+  "note": {
+   "el": "Το επίσημο θέμα ζητά τις σωστές απαντήσεις (πολλαπλή επιλογή)· επίσημη απάντηση: Α και Δ.",
+   "tr": "Resmî soru doğru seçeneklerin tümünü istiyor (birden fazla doğru); resmî cevap: A ve D.",
+   "en": "The official question asks for all correct options (multiple answers); official answer: A and D."
+  },
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Α. Κάθε Έλληνας που μπορεί να φέρει όπλα είναι υποχρεωμένος να συντελεί στην άμυνα της Πατρίδας, σύμφωνα με τους ορισμούς των νόμων",
+     "tr": "A. Silah taşıyabilecek her Yunan, kanunların hükümlerine uygun olarak Vatanın savunmasına katkıda bulunmakla yükümlüdür",
+     "en": "A. Every Greek capable of bearing arms is obliged to contribute to the defence of the Homeland, as provided by law"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Β. Η στρατιωτική θητεία στην Ελλάδα είναι υποχρεωτική και για τους άνδρες και για τις γυναίκες.",
+     "tr": "B. Yunanistan'da askerlik hizmeti hem erkekler hem de kadınlar için zorunludur.",
+     "en": "B. Military service in Greece is compulsory for both men and women."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Γ. Η διάρκεια της στρατιωτικής θητείας στην Ελλάδα είναι υποχρεωτικά 24 μήνες.",
+     "tr": "C. Yunanistan'da askerlik hizmetinin süresi zorunlu olarak 24 aydır.",
+     "en": "C. The duration of military service in Greece is compulsorily 24 months."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Δ. Υπάρχει δυνατότητα εξαγοράς υπολοίπου της στρατιωτικής θητείας για όποιον το επιθυμεί.",
+     "tr": "D. Dileyen herkes için askerlik hizmetinin kalan kısmını bedelle satın alma (bedelli askerlik) imkânı vardır.",
+     "en": "D. Anyone who wishes may buy out the remainder of their military service."
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "ins-25",
+  "subject": "ins",
+  "n": 25,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο αλλοδαπός που επιθυμεί να γίνει Έλληνας πολίτης με πολιτογράφηση πρέπει μεταξύ άλλων:",
+   "tr": "Vatandaşlığa alınma (naturalizasyon) yoluyla Yunan vatandaşı olmak isteyen yabancı, diğer şartların yanı sıra:",
+   "en": "A foreign national who wishes to become a Greek citizen by naturalisation must, among other things:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "να είναι 18 ετών και άνω",
+    "tr": "18 yaşında veya daha büyük olmalıdır",
+    "en": "be 18 years of age or older"
+   },
+   {
+    "el": "να εκπληρώνει διαρκώς τις φορολογικές και ασφαλιστικές του υποχρεώσεις",
+    "tr": "vergi ve sosyal sigorta yükümlülüklerini sürekli olarak yerine getirmelidir",
+    "en": "consistently fulfil his tax and social insurance obligations"
+   },
+   {
+    "el": "να γνωρίζει επαρκώς την ελληνική γλώσσα",
+    "tr": "Yunancayı yeterli düzeyde bilmelidir",
+    "en": "have sufficient knowledge of the Greek language"
+   },
+   {
+    "el": "όλα τα παραπάνω",
+    "tr": "yukarıdakilerin hepsi",
+    "en": "all of the above"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "ins-26",
+  "subject": "ins",
+  "n": 26,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Το Άγιο Όρος αποτελεί αυτοδιοίκητο τμήμα του Ελληνικού κράτους.",
+     "tr": "Aynaroz (Agion Oros), Yunan devletinin özerk (kendi kendini yöneten) bir parçasıdır.",
+     "en": "Mount Athos is a self-governing part of the Greek State."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Όλοι όσοι μονάζουν στο Άγιο Όρος αποκτούν την ελληνική ιθαγένεια μόλις προσληφθούν ως δόκιμοι ή μοναχοί.",
+     "tr": "Aynaroz'da manastır hayatı yaşayan herkes, rahip adayı veya keşiş olarak kabul edildiği anda Yunan vatandaşlığını kazanır.",
+     "en": "All those leading a monastic life on Mount Athos acquire Greek citizenship as soon as they are admitted as novices or monks."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η διαφύλαξη της δημόσιας τάξης και ασφάλειας στο Άγιο Όρος ανήκει στο Ελληνικό κράτος.",
+     "tr": "Aynaroz'da kamu düzeninin ve güvenliğinin korunması Yunan devletine aittir.",
+     "en": "The maintenance of public order and security on Mount Athos rests with the Greek State."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Το Άγιο Όρος τοποθετείται γεωγραφικά στο νότιο τμήμα της χώρας.",
+     "tr": "Aynaroz coğrafi olarak ülkenin güney kesiminde yer alır.",
+     "en": "Mount Athos is geographically located in the southern part of the country."
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "ins-27",
+  "subject": "ins",
+  "n": 27,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η Ελλάδα είναι ιδρυτικό μέλος του Οργανισμού Ηνωμένων Εθνών (ΟΗΕ) από το:",
+   "tr": "Yunanistan, Birleşmiş Milletler'in (BM) hangi yıldan beri kurucu üyesidir?",
+   "en": "Greece has been a founding member of the United Nations (UN) since:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "1940",
+    "tr": "1940",
+    "en": "1940"
+   },
+   {
+    "el": "1945",
+    "tr": "1945",
+    "en": "1945"
+   },
+   {
+    "el": "1950",
+    "tr": "1950",
+    "en": "1950"
+   },
+   {
+    "el": "1955",
+    "tr": "1955",
+    "en": "1955"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-28",
+  "subject": "ins",
+  "n": 28,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η Ελλάδα έγινε μέλος της Βορειοατλαντικής Συμμαχίας (ΝΑΤΟ):",
+   "tr": "Yunanistan Kuzey Atlantik İttifakı'na (NATO) ne zaman üye oldu?",
+   "en": "Greece became a member of the North Atlantic Alliance (NATO) in:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "1952",
+    "tr": "1952",
+    "en": "1952"
+   },
+   {
+    "el": "1967",
+    "tr": "1967",
+    "en": "1967"
+   },
+   {
+    "el": "1981",
+    "tr": "1981",
+    "en": "1981"
+   },
+   {
+    "el": "κανένα από τα παραπάνω",
+    "tr": "yukarıdakilerin hiçbiri",
+    "en": "none of the above"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ins-29",
+  "subject": "ins",
+  "n": 29,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ένα πολιτικό κόμμα για να εκλέξει βουλευτές στις εθνικές εκλογές πρέπει να ψηφισθεί από τουλάχιστον το __________ του εκλογικού σώματος.",
+   "tr": "Bir siyasi partinin genel seçimlerde milletvekili çıkarabilmesi için seçmenlerin en az __________ kadarının oyunu alması gerekir.",
+   "en": "For a political party to elect members of Parliament in national elections, it must be voted for by at least __________ of the electorate."
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "5%",
+    "tr": "%5",
+    "en": "5%"
+   },
+   {
+    "el": "4%",
+    "tr": "%4",
+    "en": "4%"
+   },
+   {
+    "el": "3%",
+    "tr": "%3",
+    "en": "3%"
+   },
+   {
+    "el": "10%",
+    "tr": "%10",
+    "en": "10%"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "ins-30",
+  "subject": "ins",
+  "n": 30,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η Ελλάδα, όπως και κάθε άλλο κράτος-μέλος της ΕΕ, ασκεί εκ περιτροπής την Προεδρία του Συμβουλίου της ΕΕ για χρονικό διάστημα __________",
+   "tr": "Yunanistan, diğer her AB üye devleti gibi, AB Konseyi Dönem Başkanlığını sırayla __________ süreyle yürütür.",
+   "en": "Greece, like every other EU member state, holds the rotating Presidency of the Council of the EU for a period of __________"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "12 μηνών",
+    "tr": "12 ay",
+    "en": "12 months"
+   },
+   {
+    "el": "6 μηνών",
+    "tr": "6 ay",
+    "en": "6 months"
+   },
+   {
+    "el": "3 μηνών",
+    "tr": "3 ay",
+    "en": "3 months"
+   },
+   {
+    "el": "1 μήνα",
+    "tr": "1 ay",
+    "en": "1 month"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-31",
+  "subject": "ins",
+  "n": 31,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια κράτη είναι υποψήφια προς ένταξη στην Ευρωπαϊκή Ένωση (ΕΕ);",
+   "tr": "Hangi devletler Avrupa Birliği'ne (AB) üyelik için aday ülkedir?",
+   "en": "Which states are candidates for accession to the European Union (EU)?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Μόνο η Ουκρανία",
+    "tr": "Yalnızca Ukrayna",
+    "en": "Only Ukraine"
+   },
+   {
+    "el": "Η Ουκρανία, η Αλβανία και η Τουρκία",
+    "tr": "Ukrayna, Arnavutluk ve Türkiye",
+    "en": "Ukraine, Albania and Turkey"
+   },
+   {
+    "el": "Η Αλβανία, η Βόρεια Μακεδονία, η Βοσνία και Ερζεγοβίνη, η Γεωργία, το Μαυροβούνιο, η Μολδαβία, η Τουρκία, η Ουκρανία και η Σερβία",
+    "tr": "Arnavutluk, Kuzey Makedonya, Bosna-Hersek, Gürcistan, Karadağ, Moldova, Türkiye, Ukrayna ve Sırbistan",
+    "en": "Albania, North Macedonia, Bosnia and Herzegovina, Georgia, Montenegro, Moldova, Turkey, Ukraine and Serbia"
+   },
+   {
+    "el": "Δεν θα υπάρξει άλλη διεύρυνση της ΕΕ",
+    "tr": "AB'nin başka bir genişlemesi olmayacak",
+    "en": "There will be no further enlargement of the EU"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "ins-32",
+  "subject": "ins",
+  "n": 32,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος έχει δικαίωμα συμμετοχής στην Ολομέλεια της Βουλής;",
+   "tr": "Yunan Parlamentosu (Vouli) Genel Kurulu'na katılma hakkı kime aittir?",
+   "en": "Who has the right to take part in the Plenary of Parliament?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Οι υπουργοί",
+    "tr": "Bakanlar",
+    "en": "Ministers"
+   },
+   {
+    "el": "Οι βουλευτές",
+    "tr": "Milletvekilleri",
+    "en": "Members of Parliament"
+   },
+   {
+    "el": "Ο κάθε ενδιαφερόμενος πολίτης",
+    "tr": "İlgilenen her vatandaş",
+    "en": "Any interested citizen"
+   },
+   {
+    "el": "Όλοι οι παραπάνω",
+    "tr": "Yukarıdakilerin hepsi",
+    "en": "All of the above"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-33",
+  "subject": "ins",
+  "n": 33,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η Ελλάδα έγινε μέλος του Συμβουλίου της Ευρώπης:",
+   "tr": "Yunanistan Avrupa Konseyi'ne ne zaman üye oldu?",
+   "en": "Greece became a member of the Council of Europe:"
+  },
+  "note": {
+   "el": "Οι ημερομηνίες είναι σε μορφή ημέρα/μήνας/έτος (9 Αυγούστου).",
+   "tr": "Tarihler gün/ay/yıl biçimindedir (9 Ağustos).",
+   "en": "Dates are in day/month/year format (9 August)."
+  },
+  "image": false,
+  "options": [
+   {
+    "el": "στις 9/8/1949",
+    "tr": "9/8/1949'da",
+    "en": "on 9/8/1949"
+   },
+   {
+    "el": "στις 9/8/1959",
+    "tr": "9/8/1959'da",
+    "en": "on 9/8/1959"
+   },
+   {
+    "el": "στις 9/8/1969",
+    "tr": "9/8/1969'da",
+    "en": "on 9/8/1969"
+   },
+   {
+    "el": "κανένα από τα παραπάνω",
+    "tr": "yukarıdakilerin hiçbiri",
+    "en": "none of the above"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ins-34",
+  "subject": "ins",
+  "n": 34,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια από τις παρακάτω χώρες δεν είναι μέλος της Ευρωπαϊκής Ένωσης;",
+   "tr": "Aşağıdaki ülkelerden hangisi Avrupa Birliği üyesi değildir?",
+   "en": "Which of the following countries is not a member of the European Union?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Εσθονία",
+    "tr": "Estonya",
+    "en": "Estonia"
+   },
+   {
+    "el": "Ελβετία",
+    "tr": "İsviçre",
+    "en": "Switzerland"
+   },
+   {
+    "el": "Μάλτα",
+    "tr": "Malta",
+    "en": "Malta"
+   },
+   {
+    "el": "Κύπρος",
+    "tr": "Kıbrıs",
+    "en": "Cyprus"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-35",
+  "subject": "ins",
+  "n": 35,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Στην πίσω όψη των χαρτονομισμάτων του ευρώ απεικονίζονται:",
+   "tr": "Euro banknotlarının arka yüzünde ne tasvir edilir?",
+   "en": "The reverse side of euro banknotes depicts:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "υπαρκτά αρχιτεκτονικά μνημεία",
+    "tr": "gerçekte var olan mimari anıtlar",
+    "en": "real architectural monuments"
+   },
+   {
+    "el": "διάσημοι πίνακες ζωγραφικής",
+    "tr": "ünlü tablolar",
+    "en": "famous paintings"
+   },
+   {
+    "el": "ιστορικές προσωπικότητες των κρατών-μελών",
+    "tr": "üye devletlerin tarihî şahsiyetleri",
+    "en": "historical figures of the member states"
+   },
+   {
+    "el": "γέφυρες που συμβολίζουν την επικοινωνία μεταξύ των λαών της Ευρώπης",
+    "tr": "Avrupa halkları arasındaki iletişimi simgeleyen köprüler",
+    "en": "bridges symbolising communication between the peoples of Europe"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "ins-36",
+  "subject": "ins",
+  "n": 36,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιο από τα παρακάτω αποτελεί μορφή άμεση συμμετοχής των πολιτών στις δημοκρατικές διαδικασίες της χώρας;",
+   "tr": "Aşağıdakilerden hangisi vatandaşların ülkenin demokratik süreçlerine doğrudan katılımının bir biçimidir?",
+   "en": "Which of the following is a form of direct participation of citizens in the country's democratic processes?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Οι εκλογές",
+    "tr": "Seçimler",
+    "en": "Elections"
+   },
+   {
+    "el": "Ο κοινοβουλευτικός έλεγχος",
+    "tr": "Parlamento denetimi",
+    "en": "Parliamentary scrutiny"
+   },
+   {
+    "el": "Η δημοσκόπηση",
+    "tr": "Kamuoyu yoklaması",
+    "en": "Opinion polling"
+   },
+   {
+    "el": "Η διαβούλευση",
+    "tr": "Kamuoyu istişaresi",
+    "en": "Public consultation"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ins-37",
+  "subject": "ins",
+  "n": 37,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο Ευρωπαίος Διαμεσολαβητής διερευνά:",
+   "tr": "Avrupa Ombudsmanı neyi soruşturur?",
+   "en": "The European Ombudsman investigates:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "αναφορές πολιτών της Ε.Ε. κατά των κυβερνήσεων των κρατών-μελών",
+    "tr": "AB vatandaşlarının üye devlet hükümetlerine karşı şikâyetlerini",
+    "en": "complaints by EU citizens against the governments of the member states"
+   },
+   {
+    "el": "αναφορές κακοδιοίκησης στο πλαίσιο των θεσμικών οργάνων της Ε.Ε.",
+    "tr": "AB kurumları bünyesindeki kötü yönetim şikâyetlerini",
+    "en": "complaints of maladministration within the EU institutions"
+   },
+   {
+    "el": "αναφορές για σωστή διαχείριση των δαπανών της Ε.Ε.",
+    "tr": "AB harcamalarının doğru yönetimine ilişkin bildirimleri",
+    "en": "reports on the proper management of EU expenditure"
+   },
+   {
+    "el": "όλα τα παραπάνω",
+    "tr": "yukarıdakilerin hepsini",
+    "en": "all of the above"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-38",
+  "subject": "ins",
+  "n": 38,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Οι πολιτικές της Ευρωπαϊκής Ένωσης (ΕΕ) για τους τομείς πολιτικής που υπάρχει συντρέχουσα αρμοδιότητα ΕΕ και κρατών μελών αποφασίζονται:",
+   "tr": "AB ile üye devletlerin paylaşılan (ortak) yetkiye sahip olduğu politika alanlarında Avrupa Birliği (AB) politikalarına nasıl karar verilir?",
+   "en": "European Union (EU) policies in policy areas where the EU and the member states have shared competence are decided:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Από τις Βρυξέλλες",
+    "tr": "Brüksel tarafından",
+    "en": "By Brussels"
+   },
+   {
+    "el": "Από ισχυρά κράτη μέλη της ΕΕ όπως η Γαλλία και η Γερμανία",
+    "tr": "Fransa ve Almanya gibi güçlü AB üye devletleri tarafından",
+    "en": "By powerful EU member states such as France and Germany"
+   },
+   {
+    "el": "Από το Ευρωπαϊκό Κοινοβούλιο",
+    "tr": "Avrupa Parlamentosu tarafından",
+    "en": "By the European Parliament"
+   },
+   {
+    "el": "Με μια διαδικασία που απαιτεί την από κοινού απόφαση της Ευρωπαϊκής Επιτροπής, του Συμβουλίου της ΕΕ και του Ευρωπαϊκού Κοινοβουλίου (συνήθης νομοθετική διαδικασία)",
+    "tr": "Avrupa Komisyonu, AB Konseyi ve Avrupa Parlamentosu'nun ortak kararını gerektiren bir usulle (olağan yasama usulü)",
+    "en": "Through a procedure requiring a joint decision of the European Commission, the Council of the EU and the European Parliament (ordinary legislative procedure)"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "ins-39",
+  "subject": "ins",
+  "n": 39,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Σημειώστε για κάθε κενό τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω.",
+   "tr": "Her boşluk için aşağıdakilerden uygun kelimeyi veya ifadeyi seçin.",
+   "en": "For each blank, write the word or phrase that fits, choosing from those given."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Στην Ελλάδα, η νομοθετική λειτουργία ασκείται από (1) ___ και (2) ___. H εκτελεστική λειτουργία ασκείται από (3) ___ και (4) ___.",
+   "tr": "Yunanistan'da yasama işlevi (1) ___ ve (2) ___ tarafından yürütülür. Yürütme işlevi ise (3) ___ ve (4) ___ tarafından yürütülür.",
+   "en": "In Greece, the legislative function is exercised by (1) ___ and (2) ___. The executive function is exercised by (3) ___ and (4) ___."
+  },
+  "bank": [
+   {
+    "el": "τον Πρόεδρο της Δημοκρατίας",
+    "tr": "Cumhurbaşkanı",
+    "en": "the President of the Republic"
+   },
+   {
+    "el": "την Κυβέρνηση",
+    "tr": "Hükümet",
+    "en": "the Government"
+   },
+   {
+    "el": "τον Πρόεδρο της Δημοκρατίας",
+    "tr": "Cumhurbaşkanı",
+    "en": "the President of the Republic"
+   },
+   {
+    "el": "τη Βουλή",
+    "tr": "Yunan Parlamentosu (Vouli)",
+    "en": "Parliament"
+   }
+  ],
+  "answers": [
+   {
+    "el": "τη Βουλή",
+    "tr": "Yunan Parlamentosu (Vouli)",
+    "en": "Parliament"
+   },
+   {
+    "el": "τον Πρόεδρο της Δημοκρατίας",
+    "tr": "Cumhurbaşkanı",
+    "en": "the President of the Republic"
+   },
+   {
+    "el": "τον Πρόεδρο της Δημοκρατίας",
+    "tr": "Cumhurbaşkanı",
+    "en": "the President of the Republic"
+   },
+   {
+    "el": "την Κυβέρνηση",
+    "tr": "Hükümet",
+    "en": "the Government"
+   }
+  ]
+ },
+ {
+  "id": "ins-40",
+  "subject": "ins",
+  "n": 40,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Σημειώστε για κάθε κενό τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω.",
+   "tr": "Her boşluk için aşağıdakilerden uygun kelimeyi veya ifadeyi seçin.",
+   "en": "For each blank, write the word or phrase that fits, choosing from those given."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Για να εκλεγεί κάποιος Πρόεδρος της Δημοκρατίας, θα πρέπει να έχει (1) ___ για τουλάχιστον (2) ___ χρόνια. Επίσης, θα πρέπει να έχει από πατέρα ή μητέρα (3) ___, να είναι τουλάχιστον 40 ετών και να έχει τη νόμιμη ικανότητα του εκλέγειν. Η διαδικασία εκλογής νέου Προέδρου της Δημοκρατίας, σε περίπτωση που ο εν ενεργεία Πρόεδρος αδυνατεί να ασκήσει τα καθήκοντά του για πάνω από 30 ημέρες, σε καμία περίπτωση δεν μπορεί να καθυστερήσει περισσότερο από (4) ___ συνολικά μήνες, αφότου άρχισε η διαδικασία αναπλήρωσής του.",
+   "tr": "Bir kişinin Cumhurbaşkanı seçilebilmesi için en az (2) ___ yıldır (1) ___ sahip olması gerekir. Ayrıca baba veya anne yoluyla (3) ___ sahip olmalı, en az 40 yaşında olmalı ve yasal seçme ehliyetine sahip bulunmalıdır. Görevdeki Cumhurbaşkanının 30 günden fazla görevini yerine getirememesi halinde, yeni Cumhurbaşkanı seçim süreci, yerine vekâlet sürecinin başlamasından itibaren hiçbir durumda toplam (4) ___ aydan fazla gecikemez.",
+   "en": "To be elected President of the Republic, a person must have had (1) ___ for at least (2) ___ years. He or she must also have (3) ___ through the father or mother, be at least 40 years old and have the legal capacity to vote. If the incumbent President is unable to perform his or her duties for more than 30 days, the procedure for electing a new President may in no case be delayed by more than (4) ___ months in total from the start of the procedure for substituting him or her."
+  },
+  "bank": [
+   {
+    "el": "πέντε",
+    "tr": "beş",
+    "en": "five"
+   },
+   {
+    "el": "ελληνική καταγωγή",
+    "tr": "Yunan soyuna",
+    "en": "Greek descent"
+   },
+   {
+    "el": "έξι",
+    "tr": "altı",
+    "en": "six"
+   },
+   {
+    "el": "την ιδιότητα του Έλληνα πολίτη",
+    "tr": "Yunan vatandaşlığına",
+    "en": "Greek citizenship"
+   }
+  ],
+  "answers": [
+   {
+    "el": "την ιδιότητα του Έλληνα πολίτη",
+    "tr": "Yunan vatandaşlığına",
+    "en": "Greek citizenship"
+   },
+   {
+    "el": "πέντε",
+    "tr": "beş",
+    "en": "five"
+   },
+   {
+    "el": "ελληνική καταγωγή",
+    "tr": "Yunan soyuna",
+    "en": "Greek descent"
+   },
+   {
+    "el": "έξι",
+    "tr": "altı",
+    "en": "six"
+   }
+  ]
+ },
+ {
+  "id": "ins-41",
+  "subject": "ins",
+  "n": 41,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο σκοπός του Συνηγόρου του Πολίτη είναι:",
+   "tr": "Yurttaş Ombudsmanının (Kamu Denetçisi) amacı nedir?",
+   "en": "The purpose of the Greek Ombudsman is:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Να παρέχει δικαστική συνδρομή στους πολίτες",
+    "tr": "Vatandaşlara adli yardım sağlamak",
+    "en": "To provide legal aid to citizens"
+   },
+   {
+    "el": "Να εκπροσωπεί τους Έλληνες πολίτες στο Ευρωπαϊκό δικαστήριο",
+    "tr": "Yunan vatandaşlarını Avrupa mahkemesinde temsil etmek",
+    "en": "To represent Greek citizens before the European court"
+   },
+   {
+    "el": "Να διαμεσολαβεί μεταξύ των πολιτών και της διοίκησης σε περίπτωση διάκρισης εις βάρος τους ή κακοδιοίκησης",
+    "tr": "Vatandaşlara karşı ayrımcılık veya kötü yönetim durumunda vatandaşlar ile idare arasında arabuluculuk yapmak",
+    "en": "To mediate between citizens and the administration in cases of discrimination against them or maladministration"
+   },
+   {
+    "el": "Κανένα από τα παραπάνω",
+    "tr": "Yukarıdakilerin hiçbiri",
+    "en": "None of the above"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "ins-42",
+  "subject": "ins",
+  "n": 42,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Σημειώστε για κάθε κενό τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω.",
+   "tr": "Her boşluk için aşağıdakilerden uygun kelimeyi veya ifadeyi seçin.",
+   "en": "For each blank, write the word or phrase that fits, choosing from those given."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Στην Ελλάδα, (1) ___ υπερισχύει έναντι όλων των εθνικών νομικών πράξεων. Στο ίδιο τυπικό επίπεδο με αυτό ωστόσο κατατάσσεται/ονται και (2) ___ της Ευρωπαϊκής Ένωσης. Ακολουθούν οι διεθνείς νομικές πράξεις που έχουν αναγνωριστεί από το ελληνικό κράτος, (3) ___, (4) ___ και οι διοικητικές πράξεις.",
+   "tr": "Yunanistan'da (1) ___ tüm ulusal hukuki işlemlerden üstündür. Bununla birlikte, Avrupa Birliği'nin (2) ___ de onunla aynı şekli düzeyde yer alır. Bunları Yunan devletince tanınmış uluslararası hukuki işlemler, (3) ___, (4) ___ ve idari işlemler izler.",
+   "en": "In Greece, (1) ___ prevails over all national legal acts. However, (2) ___ of the European Union are also ranked at the same formal level. They are followed by the international legal acts recognised by the Greek State, (3) ___, (4) ___ and administrative acts."
+  },
+  "bank": [
+   {
+    "el": "το Προεδρικό Διάταγμα",
+    "tr": "Cumhurbaşkanlığı Kararnamesi",
+    "en": "the Presidential Decree"
+   },
+   {
+    "el": "ο νόμος",
+    "tr": "kanun",
+    "en": "statute law"
+   },
+   {
+    "el": "το Σύνταγμα",
+    "tr": "Anayasa",
+    "en": "the Constitution"
+   },
+   {
+    "el": "οι ιδρυτικές συνθήκες της Ευρωπαϊκής Ένωσης",
+    "tr": "Avrupa Birliği'nin kurucu antlaşmaları",
+    "en": "the founding treaties of the European Union"
+   }
+  ],
+  "answers": [
+   {
+    "el": "το Σύνταγμα",
+    "tr": "Anayasa",
+    "en": "the Constitution"
+   },
+   {
+    "el": "οι ιδρυτικές συνθήκες της Ευρωπαϊκής Ένωσης",
+    "tr": "kurucu antlaşmaları",
+    "en": "the founding treaties"
+   },
+   {
+    "el": "ο νόμος",
+    "tr": "kanun",
+    "en": "statute law"
+   },
+   {
+    "el": "το Προεδρικό Διάταγμα",
+    "tr": "Cumhurbaşkanlığı Kararnamesi",
+    "en": "the Presidential Decree"
+   }
+  ]
+ },
+ {
+  "id": "ins-43",
+  "subject": "ins",
+  "n": 43,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Σημειώστε για κάθε κενό τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω.",
+   "tr": "Her boşluk için aşağıdakilerden uygun kelimeyi veya ifadeyi seçin.",
+   "en": "For each blank, write the word or phrase that fits, choosing from those given."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Α. Ο κοινοβουλευτικός έλεγχος στην Ελλάδα ασκείται κυρίως αλλά όχι αποκλειστικά με (1) ___, (2) ___ και με (3) ___.\nΒ. H Βουλή μπορεί με απόφασή της να αποσύρει την εμπιστοσύνη της από την Κυβέρνηση ή από μέλος της ύστερα από (4) ___.",
+   "tr": "A. Yunanistan'da parlamento denetimi, münhasıran olmamakla birlikte esas olarak (1) ___, (2) ___ ve (3) ___ yoluyla yapılır.\nB. Yunan Parlamentosu (Vouli), (4) ___ üzerine alacağı bir kararla Hükümetten veya Hükümetin bir üyesinden güvenini geri çekebilir.",
+   "en": "A. Parliamentary scrutiny in Greece is exercised mainly, but not exclusively, through (1) ___, (2) ___ and (3) ___.\nB. Parliament may, by its decision, withdraw its confidence from the Government or from a member of it following (4) ___."
+  },
+  "bank": [
+   {
+    "el": "επίκαιρες επερωτήσεις",
+    "tr": "güncel gensorular",
+    "en": "topical interpellations"
+   },
+   {
+    "el": "επερωτήσεις",
+    "tr": "gensorular",
+    "en": "interpellations"
+   },
+   {
+    "el": "πρόταση δυσπιστίας",
+    "tr": "güvensizlik önergesi",
+    "en": "a motion of censure"
+   },
+   {
+    "el": "ερωτήσεις",
+    "tr": "sorular",
+    "en": "questions"
+   }
+  ],
+  "answers": [
+   {
+    "el": "ερωτήσεις",
+    "tr": "sorular",
+    "en": "questions"
+   },
+   {
+    "el": "επίκαιρες επερωτήσεις",
+    "tr": "güncel gensorular",
+    "en": "topical interpellations"
+   },
+   {
+    "el": "επερωτήσεις",
+    "tr": "gensorular",
+    "en": "interpellations"
+   },
+   {
+    "el": "πρόταση δυσπιστίας",
+    "tr": "güvensizlik önergesi",
+    "en": "a motion of censure"
+   }
+  ]
+ },
+ {
+  "id": "ins-44",
+  "subject": "ins",
+  "n": 44,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Σημειώστε για κάθε κενό τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω.",
+   "tr": "Her boşluk için aşağıdakilerden uygun kelimeyi veya ifadeyi seçin.",
+   "en": "For each blank, write the word or phrase that fits, choosing from those given."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Η απώλεια της Ελληνικής ιθαγένειας γίνεται, κυρίως, στις εξής περιπτώσεις: με (1) ___ και (2) ___. Αντίθετα, την Ελληνική ιθαγένεια μπορεί να αποκτήσει κάποιος από γέννηση, με βάση (3) ___ εξ αίματος και (4) ___.",
+   "tr": "Yunan vatandaşlığının kaybı esas olarak şu durumlarda gerçekleşir: (1) ___ ve (2) ___ ile. Buna karşılık bir kişi Yunan vatandaşlığını doğumla, kan yoluyla (3) ___ ve (4) ___ esasına göre kazanabilir.",
+   "en": "Greek citizenship is lost mainly in the following cases: through (1) ___ and (2) ___. Conversely, a person may acquire Greek citizenship by birth, on the basis of (3) ___ by blood and (4) ___."
+  },
+  "bank": [
+   {
+    "el": "έκπτωση",
+    "tr": "vatandaşlıktan çıkarılma (iskat)",
+    "en": "deprivation"
+   },
+   {
+    "el": "δήλωση αποποίησης",
+    "tr": "feragat beyanı",
+    "en": "a declaration of renunciation"
+   },
+   {
+    "el": "τη γέννηση σε ελληνικό έδαφος υπό προϋποθέσεις",
+    "tr": "belirli koşullar altında Yunan topraklarında doğum",
+    "en": "birth on Greek territory under certain conditions"
+   },
+   {
+    "el": "τη συγγένεια",
+    "tr": "akrabalık (soy bağı)",
+    "en": "kinship"
+   }
+  ],
+  "answers": [
+   {
+    "el": "έκπτωση",
+    "tr": "vatandaşlıktan çıkarılma (iskat)",
+    "en": "deprivation"
+   },
+   {
+    "el": "δήλωση αποποίησης",
+    "tr": "feragat beyanı",
+    "en": "a declaration of renunciation"
+   },
+   {
+    "el": "τη συγγένεια",
+    "tr": "akrabalık (soy bağı)",
+    "en": "kinship"
+   },
+   {
+    "el": "τη γέννηση σε ελληνικό έδαφος υπό προϋποθέσεις",
+    "tr": "belirli koşullar altında Yunan topraklarında doğum",
+    "en": "birth on Greek territory under certain conditions"
+   }
+  ]
+ },
+ {
+  "id": "ins-45",
+  "subject": "ins",
+  "n": 45,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Σημειώστε για κάθε κενό τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω.",
+   "tr": "Her boşluk için aşağıdakilerden uygun kelimeyi veya ifadeyi seçin.",
+   "en": "For each blank, write the word or phrase that fits, choosing from those given."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Σύμφωνα με τον Κανονισμό της Βουλής:\nΚάθε βουλευτής μπορεί οποτεδήποτε να παραιτηθεί από το βουλευτικό αξίωμα. Την παραίτησή του την υποβάλλει γραπτώς προς (1) ___.\nΚάποιο μέλος του Προεδρείου της Βουλής δεν μπορεί να είναι ταυτόχρονα και (2) ___. Υπάρχει ασυμβίβαστο.\nΗ κήρυξη της έναρξης των εργασιών της βουλευτικής περιόδου γίνεται από (3) ___ αυτοπροσώπως ή δια του Πρωθυπουργού.\nΣτην Ολομέλεια της Βουλής μπορεί να συμμετέχει κάθε (4) ___.",
+   "tr": "Yunan Parlamentosu (Vouli) İçtüzüğü'ne göre:\nHer milletvekili istediği zaman milletvekilliğinden istifa edebilir. İstifasını yazılı olarak (1) ___ sunar.\nParlamento Başkanlık Divanı'nın bir üyesi aynı zamanda (2) ___ olamaz. Bağdaşmazlık vardır.\nYasama döneminin çalışmalarının başladığının ilanı, (3) ___ tarafından bizzat veya Başbakan aracılığıyla yapılır.\nParlamento Genel Kurulu'na her (4) ___ katılabilir.",
+   "en": "According to the Standing Orders of Parliament:\nEvery member of Parliament may resign from office at any time. He or she submits the resignation in writing to (1) ___.\nA member of the Bureau (Presidium) of Parliament cannot at the same time be a (2) ___. There is an incompatibility.\nThe opening of the work of the parliamentary term is declared by (3) ___ in person or through the Prime Minister.\nEvery (4) ___ may take part in the Plenary of Parliament."
+  },
+  "bank": [
+   {
+    "el": "Υπουργός",
+    "tr": "Bakan",
+    "en": "Minister"
+   },
+   {
+    "el": "τον/την Πρόεδρο της Βουλής",
+    "tr": "Parlamento Başkanına",
+    "en": "the Speaker of Parliament"
+   },
+   {
+    "el": "τον/την Πρόεδρο της Δημοκρατίας",
+    "tr": "Cumhurbaşkanı",
+    "en": "the President of the Republic"
+   },
+   {
+    "el": "Βουλευτής",
+    "tr": "milletvekili",
+    "en": "Member of Parliament"
+   }
+  ],
+  "answers": [
+   {
+    "el": "τον/την Πρόεδρο της Βουλής",
+    "tr": "Parlamento Başkanına",
+    "en": "the Speaker of Parliament"
+   },
+   {
+    "el": "Υπουργός",
+    "tr": "Bakan",
+    "en": "Minister"
+   },
+   {
+    "el": "τον/την Πρόεδρο της Δημοκρατίας",
+    "tr": "Cumhurbaşkanı",
+    "en": "the President of the Republic"
+   },
+   {
+    "el": "Βουλευτής",
+    "tr": "milletvekili",
+    "en": "Member of Parliament"
+   }
+  ]
+ },
+ {
+  "id": "ins-46",
+  "subject": "ins",
+  "n": 46,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Σημειώστε για κάθε κενό τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω.",
+   "tr": "Her boşluk için aşağıdakilerden uygun kelimeyi veya ifadeyi seçin.",
+   "en": "For each blank, write the word or phrase that fits, choosing from those given."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "(1) ___ αναλαμβάνει δωρεάν διαμεσολάβηση για τη φιλική διευθέτηση διαφορών των καταναλωτών ή των ενώσεών τους με προμηθευτές του δημόσιου ή του ιδιωτικού τομέα.\n(2) ___ έχει την ευθύνη για την καταπολέμηση των πρακτικών που περιορίζουν ή νοθεύουν τον ανταγωνισμό και καταλήγουν σε βλάβη των καταναλωτών.\n(3) ___ εποπτεύει τον βαθμό και την αποτελεσματικότητα του ανταγωνισμού στην εγχώρια αγορά ενέργειας και τις τιμές για τους οικιακούς καταναλωτές.\n(4) ___ του Υπουργείου Ανάπτυξης έχει την ευθύνη για την προστασία των οφειλετών από αθέμιτες πρακτικές είσπραξης των απαιτήσεων.",
+   "tr": "(1) ___, tüketicilerin veya tüketici birliklerinin kamu ya da özel sektör tedarikçileriyle olan uyuşmazlıklarının dostane çözümü için ücretsiz arabuluculuk yapar.\n(2) ___, rekabeti kısıtlayan veya bozan ve tüketicilerin zarar görmesiyle sonuçlanan uygulamalarla mücadeleden sorumludur.\n(3) ___, yurt içi enerji piyasasındaki rekabetin düzeyini ve etkinliğini ve konut tüketicilerine yönelik fiyatları denetler.\nKalkınma Bakanlığı'na bağlı (4) ___, borçluların alacakların tahsilinde haksız uygulamalara karşı korunmasından sorumludur.",
+   "en": "(1) ___ provides free mediation for the amicable settlement of disputes between consumers or their associations and public- or private-sector suppliers.\n(2) ___ is responsible for combating practices that restrict or distort competition and result in harm to consumers.\n(3) ___ supervises the level and effectiveness of competition in the domestic energy market and the prices for household consumers.\n(4) ___ of the Ministry of Development is responsible for protecting debtors from unfair debt-collection practices."
+  },
+  "bank": [
+   {
+    "el": "Η Γενική Διεύθυνση Προστασίας Καταναλωτή",
+    "tr": "Tüketicinin Korunması Genel Müdürlüğü",
+    "en": "The General Directorate for Consumer Protection"
+   },
+   {
+    "el": "Η Επιτροπή Ανταγωνισμού",
+    "tr": "Rekabet Kurulu",
+    "en": "The Hellenic Competition Commission"
+   },
+   {
+    "el": "Η Ρυθμιστική Αρχή Ενέργειας",
+    "tr": "Enerji Düzenleme Kurumu",
+    "en": "The Regulatory Authority for Energy"
+   },
+   {
+    "el": "Ο Συνήγορος του Καταναλωτή",
+    "tr": "Tüketici Ombudsmanı",
+    "en": "The Consumer Ombudsman"
+   }
+  ],
+  "answers": [
+   {
+    "el": "Ο Συνήγορος του Καταναλωτή",
+    "tr": "Tüketici Ombudsmanı",
+    "en": "The Consumer Ombudsman"
+   },
+   {
+    "el": "Η Επιτροπή Ανταγωνισμού",
+    "tr": "Rekabet Kurulu",
+    "en": "The Hellenic Competition Commission"
+   },
+   {
+    "el": "Η Ρυθμιστική Αρχή Ενέργειας",
+    "tr": "Enerji Düzenleme Kurumu",
+    "en": "The Regulatory Authority for Energy"
+   },
+   {
+    "el": "Η Γενική Διεύθυνση Προστασίας Καταναλωτή",
+    "tr": "Tüketicinin Korunması Genel Müdürlüğü",
+    "en": "The General Directorate for Consumer Protection"
+   }
+  ]
+ },
+ {
+  "id": "ins-47",
+  "subject": "ins",
+  "n": 47,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Σημειώστε για κάθε κενό τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω.",
+   "tr": "Her boşluk için aşağıdakilerden uygun kelimeyi veya ifadeyi seçin.",
+   "en": "For each blank, write the word or phrase that fits, choosing from those given."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Αν μεταξύ εργαζομένου και εργοδότη συμφωνήθηκε ρητώς ή σιωπηρώς η συγκεκριμένη διάρκεια του χρόνου εργασίας ή αν κάτι τέτοιο προκύπτει από το είδος και τη φύση της εργασίας, τότε πρόκειται για Σύμβαση εργασίας (1) ___.\nΣύμβαση εργασίας (2) ___ υπάρχει, όταν η χρονική διάρκειά της δεν καθορίζεται και δεν συνάγεται από το είδος και τον σκοπό της σύμβασης. Μπορεί δε να λήξει μόνο με καταγγελία από τον εργοδότη.\nΑν ένας εργαζόμενος δουλεύει με πλήρες ωράριο και για όλες τις εργάσιμες ημέρες της εβδομάδας, σύμφωνα με τη σχετική Συλλογική Σύμβαση Εργασίας, τότε η σύμβασή του θεωρείται (3) ___.\nΜε τη Σύμβαση (4) ___ καθορίζεται διάρκεια ημερήσιας ή εβδομαδιαίας ή δεκαπενθήμερης ή μηνιαίας εργασίας μικρότερη από την κανονική.",
+   "tr": "İşçi ile işveren arasında çalışma süresinin belirli bir süre olduğu açıkça veya zımnen kararlaştırılmışsa ya da bu, işin türünden ve niteliğinden anlaşılıyorsa, (1) ___ iş sözleşmesi söz konusudur.\nSüresi belirlenmemiş ve sözleşmenin türünden ve amacından da çıkarılamıyorsa, (2) ___ iş sözleşmesi vardır. Bu sözleşme ancak işverenin feshiyle sona erebilir.\nBir işçi, ilgili Toplu İş Sözleşmesine göre tam gün ve haftanın tüm iş günlerinde çalışıyorsa, sözleşmesi (3) ___ sözleşmesi sayılır.\n(4) ___ sözleşmesiyle normalden daha kısa bir günlük, haftalık, on beş günlük veya aylık çalışma süresi belirlenir.",
+   "en": "If the specific duration of the working time was expressly or tacitly agreed between employee and employer, or if this follows from the type and nature of the work, then it is a (1) ___ employment contract.\nA (2) ___ employment contract exists when its duration is not specified and cannot be inferred from the type and purpose of the contract. It can be terminated only by notice of dismissal from the employer.\nIf an employee works full hours on all working days of the week, in accordance with the relevant Collective Labour Agreement, the contract is considered a (3) ___ contract.\nA (4) ___ contract sets a daily, weekly, fortnightly or monthly working time shorter than normal."
+  },
+  "bank": [
+   {
+    "el": "πλήρους απασχόλησης",
+    "tr": "tam zamanlı",
+    "en": "full-time"
+   },
+   {
+    "el": "αορίστου χρόνου",
+    "tr": "belirsiz süreli",
+    "en": "open-ended (indefinite-term)"
+   },
+   {
+    "el": "ορισμένου χρόνου",
+    "tr": "belirli süreli",
+    "en": "fixed-term"
+   },
+   {
+    "el": "μερικής απασχόλησης",
+    "tr": "kısmi süreli",
+    "en": "part-time"
+   }
+  ],
+  "answers": [
+   {
+    "el": "ορισμένου χρόνου",
+    "tr": "belirli süreli",
+    "en": "fixed-term"
+   },
+   {
+    "el": "αορίστου χρόνου",
+    "tr": "belirsiz süreli",
+    "en": "open-ended (indefinite-term)"
+   },
+   {
+    "el": "πλήρους απασχόλησης",
+    "tr": "tam zamanlı",
+    "en": "full-time"
+   },
+   {
+    "el": "μερικής απασχόλησης",
+    "tr": "kısmi süreli",
+    "en": "part-time"
+   }
+  ]
+ },
+ {
+  "id": "ins-48",
+  "subject": "ins",
+  "n": 48,
+  "section": null,
+  "type": "fill",
+  "prompt": {
+   "el": "Σημειώστε για κάθε κενό τη λέξη ή τη φράση που ταιριάζει, επιλέγοντας από τις παρακάτω.",
+   "tr": "Her boşluk için aşağıdakilerden uygun kelimeyi veya ifadeyi seçin.",
+   "en": "For each blank, write the word or phrase that fits, choosing from those given."
+  },
+  "note": null,
+  "image": false,
+  "text": {
+   "el": "Το Σύνταγμα της Ελλάδας κατοχυρώνει (1) ___ του Τύπου.\nΗ κατάσχεση εφημερίδων πριν ή μετά την κυκλοφορία τους (2) ___.\nΟ καθένας είναι ελεύθερος να εκφράζει προφορικά ή γραπτά τις ιδέες του τηρώντας (3) ___ του Κράτους.\nΜια από τις περιπτώσεις που μπορεί να γίνει κατάσχεση εφημερίδων ή άλλων εντύπων μετά την κυκλοφορία τους είναι για (4) ___ της χριστιανικής ή άλλης γνωστής θρησκείας.",
+   "tr": "Yunanistan Anayasası basın (1) ___ güvence altına alır.\nGazetelerin dağıtımdan önce veya sonra toplatılması (2) ___.\nHerkes, Devletin (3) ___ uyarak düşüncelerini sözlü veya yazılı olarak ifade etmekte özgürdür.\nGazetelerin veya diğer basılı yayınların dağıtımdan sonra toplatılabileceği durumlardan biri, Hristiyan dinine veya bilinen başka bir dine (4) ___ hâlidir.",
+   "en": "The Constitution of Greece guarantees (1) ___ of the press.\nThe seizure of newspapers before or after their circulation (2) ___.\nEveryone is free to express their ideas orally or in writing while observing (3) ___ of the State.\nOne of the cases in which newspapers or other printed matter may be seized after circulation is for (4) ___ the Christian or any other known religion."
+  },
+  "bank": [
+   {
+    "el": "τους νόμους",
+    "tr": "kanunlarına",
+    "en": "the laws"
+   },
+   {
+    "el": "την προσβολή",
+    "tr": "hakaret",
+    "en": "an offence against"
+   },
+   {
+    "el": "απαγορεύεται",
+    "tr": "yasaktır",
+    "en": "is prohibited"
+   },
+   {
+    "el": "την ελευθερία",
+    "tr": "özgürlüğünü",
+    "en": "the freedom"
+   }
+  ],
+  "answers": [
+   {
+    "el": "την ελευθερία",
+    "tr": "özgürlüğünü",
+    "en": "the freedom"
+   },
+   {
+    "el": "απαγορεύεται",
+    "tr": "yasaktır",
+    "en": "is prohibited"
+   },
+   {
+    "el": "τους νόμους",
+    "tr": "kanunlarına",
+    "en": "the laws"
+   },
+   {
+    "el": "την προσβολή",
+    "tr": "hakaret",
+    "en": "an offence against"
+   }
+  ]
+ },
+ {
+  "id": "ins-49",
+  "subject": "ins",
+  "n": 49,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Με βάση το Σύνταγμα της χώρας μας:",
+   "tr": "Ülkemizin Anayasası'na göre:",
+   "en": "Under the Constitution of our country:"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Οι θρησκευτικές πεποιθήσεις κάποιου ενδέχεται να επηρεάσουν μέρος των ατομικών και πολιτικών δικαιωμάτων του",
+     "tr": "Bir kişinin dinî inançları, bireysel ve siyasi haklarının bir kısmını etkileyebilir",
+     "en": "A person's religious beliefs may affect some of his or her individual and political rights"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Για να είναι έγκυρος ένας γάμος μεταξύ ενηλίκων, πρέπει να έχουν συναινέσει οι γονείς/ κηδεμόνες τους.",
+     "tr": "Yetişkinler arasındaki bir evliliğin geçerli olması için ebeveynlerinin/vasilerinin rıza göstermiş olması gerekir.",
+     "en": "For a marriage between adults to be valid, their parents/guardians must have consented."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Ο αθλητισμός τελεί υπό την προστασία και την ανώτατη εποπτεία του Κράτους.",
+     "tr": "Spor, Devletin koruması ve yüksek gözetimi altındadır.",
+     "en": "Sport is under the protection and the supreme supervision of the State."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "H κατοικία κάθε πολίτη είναι άσυλο.",
+     "tr": "Her vatandaşın konutu dokunulmazdır (sığınaktır).",
+     "en": "Every citizen's home is an asylum (inviolable)."
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "ins-50",
+  "subject": "ins",
+  "n": 50,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σε ποιες περιπτώσεις μπορεί κάποιος να αρνηθεί να πληρώσει διοικητικό πρόστιμο;",
+   "tr": "Bir kişi hangi durumlarda idari para cezasını ödemeyi reddedebilir?",
+   "en": "In which cases can someone refuse to pay an administrative fine?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Αν του επιβλήθηκε προφορικά από όργανο της δημόσιας τάξης (π.χ. δημοτική αστυνομία)",
+     "tr": "Ceza kendisine bir kamu düzeni görevlisi (ör. belediye zabıtası) tarafından sözlü olarak verildiyse",
+     "en": "If it was imposed on him orally by a public-order officer (e.g. municipal police)"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Αν έλαβε έγγραφη βεβαίωση προστίμου με ανεπαρκή αιτιολογία.",
+     "tr": "Yetersiz gerekçeli yazılı bir ceza tutanağı aldıysa.",
+     "en": "If he received a written notice of the fine with inadequate reasoning."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Αν δεν γνώριζε τον παράνομο χαρακτήρα της πράξης του.",
+     "tr": "Eyleminin hukuka aykırı olduğunu bilmiyorduysa.",
+     "en": "If he did not know that his act was unlawful."
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Αν είχε λάβει διαβεβαίωση από αρμόδιο υπάλληλο ότι δεν απαιτείται να πληρώσει.",
+     "tr": "Yetkili bir memurdan ödeme yapması gerekmediğine dair güvence almışsa.",
+     "en": "If he had been assured by a competent official that he did not have to pay."
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "ins-51",
+  "subject": "ins",
+  "n": 51,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Στην Ελλάδα:",
+   "tr": "Yunanistan'da:",
+   "en": "In Greece:"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Η ενδοοικογενειακή βία είναι ένα έγκλημα που διώκεται αυτεπάγγελτα.",
+     "tr": "Aile içi şiddet, re'sen (kendiliğinden) kovuşturulan bir suçtur.",
+     "en": "Domestic violence is a crime prosecuted ex officio."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Ο βιασμός εντός του γάμου θεωρείται κακούργημα.",
+     "tr": "Evlilik içi tecavüz ağır suç (cürüm) sayılır.",
+     "en": "Marital rape is considered a felony."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Η απλή σωματική βλάβη που μπορεί να προκαλέσει ένας άνδρας στην έγκυο σύζυγό του κατά την διάρκεια ενός τσακωμού, τιμωρείται με φυλάκιση.",
+     "tr": "Bir erkeğin bir kavga sırasında hamile eşine verebileceği basit bedensel zarar hapis cezasıyla cezalandırılır.",
+     "en": "Simple bodily harm that a man may cause to his pregnant wife during a quarrel is punishable by imprisonment."
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Αν η γυναίκα κατά τη διάρκεια ενός τσακωμού προσβάλει την αξιοπρέπεια του συζύγου της μιλώντας του με ιδιαίτερα ταπεινωτικό λόγο ή έργο, που ανάγεται στη γενετήσια ζωή του, μπορεί να τιμωρηθεί με φυλάκιση.",
+     "tr": "Kadın bir kavga sırasında, cinsel hayatına ilişkin özellikle aşağılayıcı söz veya davranışla kocasının onurunu kırarsa hapis cezasıyla cezalandırılabilir.",
+     "en": "If, during a quarrel, the wife offends her husband's dignity by addressing him with particularly degrading words or acts relating to his sexual life, she may be punished with imprisonment."
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "ins-52",
+  "subject": "ins",
+  "n": 52,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η Συνθήκη Σένγκεν με την οποία θεσπίζεται μια Ευρώπη χωρίς εσωτερικά σύνορα («περιοχή Σένγκεν») δημιουργήθηκε από πέντε κράτη μέλη της Ε.Ε το έτος:",
+   "tr": "İç sınırları olmayan bir Avrupa («Schengen alanı») oluşturan Schengen Anlaşması, beş AB üye devleti tarafından hangi yıl yapıldı?",
+   "en": "The Schengen Agreement, establishing a Europe without internal borders (the 'Schengen area'), was created by five EU member states in the year:"
+  },
+  "note": {
+   "el": "Στο επίσημο κείμενο το θέμα φέρει την οδηγία Σωστού/Λάθους, αλλά είναι ερώτηση πολλαπλής επιλογής.",
+   "tr": "Resmî metinde bu sorunun başında Doğru/Yanlış talimatı yer alıyor, ancak soru çoktan seçmelidir.",
+   "en": "In the official text this question carries the True/False instruction, but it is actually a multiple-choice question."
+  },
+  "image": false,
+  "options": [
+   {
+    "el": "2023",
+    "tr": "2023",
+    "en": "2023"
+   },
+   {
+    "el": "1985",
+    "tr": "1985",
+    "en": "1985"
+   },
+   {
+    "el": "2004.",
+    "tr": "2004",
+    "en": "2004"
+   },
+   {
+    "el": "1957",
+    "tr": "1957",
+    "en": "1957"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-53",
+  "subject": "ins",
+  "n": 53,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Κατά το διάστημα που η Βουλή είναι ανοιχτή πόσες φορές την εβδομάδα απαντάει ο Πρωθυπουργός σε Επίκαιρες Ερωτήσεις (Ώρα του Πρωθυπουργού);",
+   "tr": "Yunan Parlamentosu (Vouli) çalışma dönemindeyken Başbakan haftada kaç kez Güncel Sorulara (Başbakan Saati) yanıt verir?",
+   "en": "While Parliament is in session, how many times a week does the Prime Minister answer Topical Questions (Prime Minister's Hour)?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Μια φορά",
+    "tr": "Bir kez",
+    "en": "Once"
+   },
+   {
+    "el": "Δύο φορές",
+    "tr": "İki kez",
+    "en": "Twice"
+   },
+   {
+    "el": "Καμία φορά",
+    "tr": "Hiç",
+    "en": "Never"
+   },
+   {
+    "el": "Απεριόριστος αριθμός",
+    "tr": "Sınırsız sayıda",
+    "en": "An unlimited number of times"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ins-54",
+  "subject": "ins",
+  "n": 54,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Στην Ελλάδα η ελευθερία της Τέχνης προστατεύεται από το Σύνταγμα. Παρ’ όλα αυτά σε ποιες περιπτώσεις θα μπορούσαν να επιβληθούν περιορισμοί στην καλλιτεχνική δημιουργία;",
+   "tr": "Yunanistan'da sanat özgürlüğü Anayasa ile korunur. Buna rağmen hangi durumlarda sanatsal yaratıma sınırlamalar getirilebilir?",
+   "en": "In Greece, freedom of art is protected by the Constitution. Nevertheless, in which cases could restrictions be imposed on artistic creation?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Απαγόρευση εισόδου ανηλίκων σε κινηματογραφική αίθουσα, αν το έργο που προβάλλεται κρίνεται ως ακατάλληλο",
+     "tr": "Gösterilen film uygunsuz bulunursa küçüklerin sinema salonuna girişinin yasaklanması",
+     "en": "Banning minors from entering a cinema if the film being shown is judged unsuitable"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Απαγόρευση κυκλοφορίας βιβλίου μυθοπλασίας, επειδή θεωρήθηκε από μερίδα πολιτών ότι προσβάλλει το θρησκευτικό τους αίσθημα",
+     "tr": "Bir kısım vatandaş tarafından dinî duygularını incittiği düşünüldüğü için bir kurgu kitabının dağıtımının yasaklanması",
+     "en": "Banning the circulation of a work of fiction because some citizens considered that it offends their religious feelings"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Απαγόρευση αυτοσχέδιας παράστασης σε κοινόχρηστο χώρο χωρίς να έχει ζητηθεί άδεια",
+     "tr": "İzin alınmadan ortak kullanım alanında doğaçlama gösteri yapılmasının yasaklanması",
+     "en": "Banning an improvised performance in a public space for which no permit has been requested"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Απαγόρευση δημιουργίας graffiti στους τοίχους ενός ξένου σπιτιού, χωρίς τη συναίνεση του ιδιοκτήτη",
+     "tr": "Sahibinin rızası olmadan başkasına ait bir evin duvarlarına grafiti yapılmasının yasaklanması",
+     "en": "Banning graffiti on the walls of someone else's house without the owner's consent"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "ins-55",
+  "subject": "ins",
+  "n": 55,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Στην Ελλάδα παρέχεται/παρέχονται δωρεάν από το κράτος:",
+   "tr": "Yunanistan'da devlet tarafından ücretsiz olarak sağlanan(lar):",
+   "en": "In Greece, the following is/are provided free of charge by the State:"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Η παιδεία, εξαιρουμένης της ανώτατης εκπαίδευσης",
+     "tr": "Yükseköğretim hariç eğitim",
+     "en": "Education, excluding higher education"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Οι μετακινήσεις με Μέσα Μαζικής Μεταφοράς σε άτομα με αναπηρία",
+     "tr": "Engelli bireyler için toplu taşıma araçlarıyla ulaşım",
+     "en": "Travel by public transport for persons with disabilities"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Νοσηλευτική, διαγνωστική και φαρμακευτική κάλυψη σε ευάλωτες κοινωνικές ομάδες",
+     "tr": "Savunmasız sosyal gruplara hastane bakımı, teşhis ve ilaç güvencesi",
+     "en": "Hospital, diagnostic and pharmaceutical coverage for vulnerable social groups"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Τα φάρμακα για όλους τους συνταξιούχους",
+     "tr": "Tüm emekliler için ilaçlar",
+     "en": "Medicines for all pensioners"
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "ins-56",
+  "subject": "ins",
+  "n": 56,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Οι πολίτες χωρών της ΕΕ θεωρείται συνήθως πως έχουν ως φορολογική κατοικία τη χώρα όπου διαμένουν πάνω από 6 μήνες τον χρόνο",
+     "tr": "AB ülkelerinin vatandaşlarının vergi bakımından mukim oldukları ülke genellikle yılda 6 aydan fazla yaşadıkları ülke kabul edilir",
+     "en": "Citizens of EU countries are usually considered tax-resident in the country where they live for more than 6 months a year"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Σύμφωνα με τους κανόνες της ΕΕ, ένας Ευρωπαίος πολίτης που εργάζεται σε άλλο κράτος-μέλος από εκείνο που έχει υπηκοότητα, φορολογείται με άλλους όρους σε σχέση με τους υπηκόους της χώρας αυτής",
+     "tr": "AB kurallarına göre, uyruğunda olduğu devletten farklı bir üye devlette çalışan bir Avrupa vatandaşı, o ülkenin vatandaşlarından farklı koşullarla vergilendirilir",
+     "en": "Under EU rules, a European citizen working in a member state other than that of his or her nationality is taxed on different terms from the nationals of that country"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Στην Ελλάδα τα ζευγάρια που έχουν τελέσει γάμο (θρησκευτικό, πολιτικό) ή σύμφωνο συμβίωσης οφείλουν να καταθέτουν κοινή φορολογική δήλωση",
+     "tr": "Yunanistan'da evlenmiş (dinî veya medeni nikâhla) ya da birlikte yaşama sözleşmesi yapmış çiftler ortak vergi beyannamesi vermek zorundadır",
+     "en": "In Greece, couples who are married (religious or civil ceremony) or have a cohabitation agreement must file a joint tax return"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Στην καθημερινότητα, όταν κάποιος θέλει να αναφερθεί στη Δήλωση Φορολογίας Εισοδήματος, συνήθως κάνει λόγο για το «Ε1»",
+     "tr": "Günlük hayatta Gelir Vergisi Beyannamesinden söz etmek isteyen kişi genellikle «E1»den bahseder",
+     "en": "In everyday life, when someone wants to refer to the Income Tax Return, they usually speak of the 'E1'"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "ins-57",
+  "subject": "ins",
+  "n": 57,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποια από τις παρακάτω ενέργειες αποτελεί παράδειγμα κοινοβουλευτικού ελέγχου;",
+   "tr": "Aşağıdaki eylemlerden hangisi parlamento denetimine bir örnektir?",
+   "en": "Which of the following actions is an example of parliamentary scrutiny?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Η έκδοση ΚΥΑ",
+    "tr": "Ortak Bakanlık Kararı (KYA) çıkarılması",
+    "en": "Issuing a Joint Ministerial Decision (KYA)"
+   },
+   {
+    "el": "Η ψήφιση τροπολογίας σε νόμο",
+    "tr": "Bir kanuna değişiklik önergesinin kabul edilmesi",
+    "en": "Passing an amendment to a law"
+   },
+   {
+    "el": "Η αποχώρηση από τη Βουλή",
+    "tr": "Yunan Parlamentosu'ndan (Vouli) çekilme (oturumu terk etme)",
+    "en": "Walking out of Parliament"
+   },
+   {
+    "el": "Η κατάθεση ερώτησης από βουλευτή ή βουλευτές προς την κυβέρνηση",
+    "tr": "Bir veya birkaç milletvekili tarafından hükümete soru önergesi verilmesi",
+    "en": "The tabling of a question to the government by one or more members of Parliament"
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "ins-58",
+  "subject": "ins",
+  "n": 58,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Σωστό ή Λάθος;",
+   "tr": "Doğru mu, yanlış mı?",
+   "en": "True or false?"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "Οι πολίτες των κρατών που ανήκουν στην Ευρωπαϊκή Ένωση δεν μπορούν να κατοικούν χωρίς περιορισμό σε άλλο κράτος της Ένωσης",
+     "tr": "Avrupa Birliği'ne üye devletlerin vatandaşları Birliğin başka bir devletinde sınırlama olmaksızın ikamet edemezler",
+     "en": "Citizens of the states belonging to the European Union cannot reside without restriction in another state of the Union"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Η Ευρωπαϊκή Ένωση είναι ένα ομοσπονδιακό κράτος",
+     "tr": "Avrupa Birliği federal bir devlettir",
+     "en": "The European Union is a federal state"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "Οι πολίτες της Ευρωπαϊκής Ένωσης εκπροσωπούνται από το Ευρωπαϊκό Κοινοβούλιο",
+     "tr": "Avrupa Birliği vatandaşları Avrupa Parlamentosu tarafından temsil edilir",
+     "en": "The citizens of the European Union are represented by the European Parliament"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "Τα συμφέροντα της Ευρωπαϊκής Ένωσης εκπροσωπούνται από την Ευρωπαϊκή Επιτροπή",
+     "tr": "Avrupa Birliği'nin çıkarları Avrupa Komisyonu tarafından temsil edilir",
+     "en": "The interests of the European Union are represented by the European Commission"
+    },
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "ins-59",
+  "subject": "ins",
+  "n": 59,
+  "section": null,
+  "type": "tf",
+  "prompt": {
+   "el": "Ο Πρόεδρος της Βουλής των Ελλήνων:",
+   "tr": "Yunan Parlamentosu (Vouli) Başkanı:",
+   "en": "The Speaker of the Hellenic Parliament:"
+  },
+  "note": null,
+  "image": false,
+  "items": [
+   {
+    "text": {
+     "el": "εκλέγεται από τον λαό",
+     "tr": "halk tarafından seçilir",
+     "en": "is elected by the people"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "εκπροσωπεί τη Βουλή σε διεθνείς και διμερείς κοινοβουλευτικές επιτροπές (fora)",
+     "tr": "Parlamentoyu uluslararası ve ikili parlamento komisyonlarında (forumlarda) temsil eder",
+     "en": "represents Parliament in international and bilateral parliamentary committees (fora)"
+    },
+    "answer": true
+   },
+   {
+    "text": {
+     "el": "αναπληρώνει τον/την Πρόεδρο της Δημοκρατίας για απουσία στο εξωτερικό πάνω από 3 ημέρες",
+     "tr": "Cumhurbaşkanının 3 günden fazla yurt dışında bulunması hâlinde ona vekâlet eder",
+     "en": "deputises for the President of the Republic during an absence abroad of more than 3 days"
+    },
+    "answer": false
+   },
+   {
+    "text": {
+     "el": "είναι το δεύτερο πολιτειακό αξίωμα μετά τον/την Πρόεδρο της Δημοκρατίας",
+     "tr": "Cumhurbaşkanından sonraki ikinci devlet makamıdır",
+     "en": "is the second-highest office of state after the President of the Republic"
+    },
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "ins-60",
+  "subject": "ins",
+  "n": 60,
+  "section": null,
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τα είδη των δικαστηρίων της Στήλης I με τα δικαστήρια που δίνονται στη Στήλη II.",
+   "tr": "Sütun I'deki mahkeme türlerini Sütun II'de verilen mahkemelerle eşleştirin.",
+   "en": "Match the types of courts in Column I with the courts given in Column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Ποινικό",
+    "tr": "Ceza",
+    "en": "Criminal"
+   },
+   {
+    "el": "Διοικητικό",
+    "tr": "İdari",
+    "en": "Administrative"
+   },
+   {
+    "el": "Πολιτικό",
+    "tr": "Hukuk (medeni)",
+    "en": "Civil"
+   },
+   {
+    "el": "Ειδικό",
+    "tr": "Özel",
+    "en": "Special"
+   }
+  ],
+  "right": [
+   {
+    "el": "Μικτό Ορκωτό Δικαστήριο",
+    "tr": "Karma Jürili Mahkeme",
+    "en": "Mixed Jury Court"
+   },
+   {
+    "el": "Ειρηνοδικείο",
+    "tr": "Sulh Mahkemesi",
+    "en": "Magistrate's Court (Justice of the Peace)"
+   },
+   {
+    "el": "Συμβούλιο της Επικρατείας (ΣτΕ)",
+    "tr": "Danıştay (StE)",
+    "en": "Council of State (StE)"
+   },
+   {
+    "el": "Αεροδικείο",
+    "tr": "Hava Kuvvetleri Mahkemesi",
+    "en": "Air Force Court"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    0
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    2,
+    1
+   ],
+   [
+    3,
+    3
+   ]
+  ]
+ },
+ {
+  "id": "ins-61",
+  "subject": "ins",
+  "n": 61,
+  "section": null,
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τον τύπο εκπαιδευτηρίου της Στήλης I με τις βαθμίδες εκπαίδευσης που δίνονται στη Στήλη II.",
+   "tr": "Sütun I'deki eğitim kurumu türünü Sütun II'de verilen eğitim kademeleriyle eşleştirin.",
+   "en": "Match the type of educational institution in Column I with the levels of education given in Column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Πανεπιστήμιο",
+    "tr": "Üniversite",
+    "en": "University"
+   },
+   {
+    "el": "Ινστιτούτο Επαγγελματικής Κατάρτισης (ΙΕΚ)",
+    "tr": "Mesleki Eğitim Enstitüsü (IEK)",
+    "en": "Vocational Training Institute (IEK)"
+   },
+   {
+    "el": "Δημοτικό",
+    "tr": "İlkokul",
+    "en": "Primary school"
+   },
+   {
+    "el": "Επαγγελματικό Λύκειο (ΕΠΑΛ)",
+    "tr": "Meslek Lisesi (EPAL)",
+    "en": "Vocational Upper Secondary School (EPAL)"
+   }
+  ],
+  "right": [
+   {
+    "el": "Πρωτοβάθμια Εκπαίδευση",
+    "tr": "İlköğretim",
+    "en": "Primary Education"
+   },
+   {
+    "el": "Ανώτατη/ Τριτοβάθμια Εκπαίδευση",
+    "tr": "Yükseköğretim / Üçüncü kademe eğitim",
+    "en": "Higher / Tertiary Education"
+   },
+   {
+    "el": "Μεταλυκειακή Εκπαίδευση",
+    "tr": "Lise sonrası eğitim",
+    "en": "Post-secondary Education"
+   },
+   {
+    "el": "Δευτεροβάθμια Εκπαίδευση",
+    "tr": "Ortaöğretim",
+    "en": "Secondary Education"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    1
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    3
+   ]
+  ]
+ },
+ {
+  "id": "ins-62",
+  "subject": "ins",
+  "n": 62,
+  "section": null,
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τις ηλεκτρονικές υπηρεσίες της Στήλης I με τις αρμοδιότητες που δίνονται στη Στήλη II.",
+   "tr": "Sütun I'deki elektronik hizmetleri Sütun II'de verilen işlevlerle eşleştirin.",
+   "en": "Match the electronic services in Column I with the functions given in Column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "TaxisNet",
+    "tr": "TaxisNet",
+    "en": "TaxisNet"
+   },
+   {
+    "el": "e-ΕΦΚΑ",
+    "tr": "e-EFKA",
+    "en": "e-EFKA"
+   },
+   {
+    "el": "myKEPlive",
+    "tr": "myKEPlive",
+    "en": "myKEPlive"
+   },
+   {
+    "el": "www.diavgeia.gov.gr",
+    "tr": "www.diavgeia.gov.gr",
+    "en": "www.diavgeia.gov.gr"
+   }
+  ],
+  "right": [
+   {
+    "el": "Έκδοση βεβαίωσης φορολογικής ενημερότητας",
+    "tr": "Vergi borcu yoktur yazısının (vergi uygunluk belgesi) alınması",
+    "en": "Issuing a tax clearance certificate"
+   },
+   {
+    "el": "Εύρεση απόφασης υφυπουργού της Κυβέρνησης",
+    "tr": "Hükümetteki bir bakan yardımcısının kararının bulunması",
+    "en": "Finding a decision of a Deputy Minister of the Government"
+   },
+   {
+    "el": "Ανανέωση δελτίου ανεργίας",
+    "tr": "İşsizlik kartının yenilenmesi",
+    "en": "Renewing an unemployment card"
+   },
+   {
+    "el": "Υποβολή αίτησης για απονομή σύνταξης γήρατος",
+    "tr": "Yaşlılık aylığı bağlanması için başvuru yapılması",
+    "en": "Applying for an old-age pension"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    0
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    2
+   ],
+   [
+    3,
+    1
+   ]
+  ]
+ },
+ {
+  "id": "ins-63",
+  "subject": "ins",
+  "n": 63,
+  "section": null,
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τους θεσμούς και τα πολιτικά κόμματα της Στήλης I με τις οδούς/ονόματα κτισμάτων που δίνονται στη Στήλη II.",
+   "tr": "Sütun I'deki kurumları ve siyasi partileri Sütun II'de verilen sokak/bina adlarıyla eşleştirin.",
+   "en": "Match the institutions and political parties in Column I with the streets/building names given in Column II."
+  },
+  "note": {
+   "el": "Πρόκειται για οδούς και κτίρια της Αθήνας· ο Τύπος τα χρησιμοποιεί για να αναφερθεί στην έδρα των θεσμών/κομμάτων.",
+   "tr": "Bu adlar Atina'daki sokak ve binalardır; basında kurumların/partilerin genel merkezini ifade etmek için kullanılır.",
+   "en": "These are streets and buildings in Athens; the press uses them to refer to the institutions'/parties' headquarters."
+  },
+  "image": false,
+  "left": [
+   {
+    "el": "Πρωθυπουργός",
+    "tr": "Başbakan",
+    "en": "Prime Minister"
+   },
+   {
+    "el": "ΠΑΣΟΚ-Κίνημα Αλλαγής",
+    "tr": "PASOK-Değişim Hareketi",
+    "en": "PASOK-Movement for Change"
+   },
+   {
+    "el": "ΣΥΡΙΖΑ",
+    "tr": "SYRIZA",
+    "en": "SYRIZA"
+   },
+   {
+    "el": "ΝΔ",
+    "tr": "ND (Yeni Demokrasi)",
+    "en": "ND (New Democracy)"
+   }
+  ],
+  "right": [
+   {
+    "el": "«Το Μέγαρο Μαξίμου»",
+    "tr": "«Maximos Konağı»",
+    "en": "'The Maximos Mansion'"
+   },
+   {
+    "el": "«Η Κουμουνδούρου»",
+    "tr": "«Koumoundourou»",
+    "en": "'Koumoundourou'"
+   },
+   {
+    "el": "«Η Πειραιώς»",
+    "tr": "«Pireos»",
+    "en": "'Piraeus Street'"
+   },
+   {
+    "el": "«Η Χαριλάου Τρικούπη»",
+    "tr": "«Charilaou Trikoupi»",
+    "en": "'Charilaou Trikoupi'"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    0
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    1
+   ],
+   [
+    3,
+    2
+   ]
+  ]
+ },
+ {
+  "id": "ins-64",
+  "subject": "ins",
+  "n": 64,
+  "section": null,
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τους πολιτικούς της Στήλης I με τα ιστορικά γεγονότα με τα οποία συνδέονται που δίνονται στη Στήλη II.",
+   "tr": "Sütun I'deki siyasetçileri Sütun II'de verilen, bağlantılı oldukları tarihî olaylarla eşleştirin.",
+   "en": "Match the politicians in Column I with the historical events they are associated with, given in Column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Γεώργιος Ράλλης",
+    "tr": "Georgios Rallis",
+    "en": "Georgios Rallis"
+   },
+   {
+    "el": "Κωνσταντίνος Καραμανλής",
+    "tr": "Konstantinos Karamanlis",
+    "en": "Konstantinos Karamanlis"
+   },
+   {
+    "el": "Κωνσταντίνος Σημίτης",
+    "tr": "Kostas Simitis",
+    "en": "Costas Simitis"
+   },
+   {
+    "el": "Ανδρέας Παπανδρέου",
+    "tr": "Andreas Papandreou",
+    "en": "Andreas Papandreou"
+   }
+  ],
+  "right": [
+   {
+    "el": "Μεταρρυθμίσεις στο οικογενειακό δίκαιο, την εκπαίδευση και τη δημόσια διοίκηση, ίδρυση του Εθνικού Συστήματος Υγείας",
+    "tr": "Aile hukuku, eğitim ve kamu yönetiminde reformlar, Ulusal Sağlık Sistemi'nin kurulması",
+    "en": "Reforms in family law, education and public administration; founding of the National Health System"
+   },
+   {
+    "el": "Ένταξη της Ελλάδας στην Οικονομική και Νομισματική Ένωση (ΟΝΕ)",
+    "tr": "Yunanistan'ın Ekonomik ve Parasal Birliğe (EPB) katılımı",
+    "en": "Greece's entry into the Economic and Monetary Union (EMU)"
+   },
+   {
+    "el": "Επικύρωση της ένταξης της χώρας στην Ευρωπαϊκή Οικονομική Κοινότητα (ΕΟΚ)",
+    "tr": "Ülkenin Avrupa Ekonomik Topluluğu'na (AET) katılımının onaylanması",
+    "en": "Ratification of the country's accession to the European Economic Community (EEC)"
+   },
+   {
+    "el": "Αποκατάσταση της δημοκρατίας, αίτημα ένταξης στην Ευρωπαϊκή Οικονομική Κοινότητα (ΕΟΚ)",
+    "tr": "Demokrasinin yeniden tesisi, Avrupa Ekonomik Topluluğu'na (AET) üyelik başvurusu",
+    "en": "Restoration of democracy; application for accession to the European Economic Community (EEC)"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    1
+   ],
+   [
+    3,
+    0
+   ]
+  ]
+ },
+ {
+  "id": "ins-65",
+  "subject": "ins",
+  "n": 65,
+  "section": null,
+  "type": "match",
+  "prompt": {
+   "el": "Αντιστοιχίστε τους φορείς της Στήλης I με τις αρμοδιότητες που δίνονται στη Στήλη II.",
+   "tr": "Sütun I'deki kurumları Sütun II'de verilen görevlerle eşleştirin.",
+   "en": "Match the bodies in Column I with the responsibilities given in Column II."
+  },
+  "note": null,
+  "image": false,
+  "left": [
+   {
+    "el": "Δημόσια Οικονομική Υπηρεσία (Δ.Ο.Υ.)",
+    "tr": "Vergi Dairesi (DOY)",
+    "en": "Tax Office (DOY)"
+   },
+   {
+    "el": "Δημόσια Υπηρεσία Απασχόλησης (Δ.ΥΠ.Α)",
+    "tr": "Kamu İstihdam Kurumu (DYPA)",
+    "en": "Public Employment Service (DYPA)"
+   },
+   {
+    "el": "Υγειονομική Περιφέρεια (ΥΠ.Ε)",
+    "tr": "Sağlık Bölgesi (YPE)",
+    "en": "Health Region (YPE)"
+   },
+   {
+    "el": "Κέντρο Πιστοποίησης Αναπηρίας (ΚΕ.Π.Α.)",
+    "tr": "Engellilik Belgelendirme Merkezi (KEPA)",
+    "en": "Disability Certification Centre (KEPA)"
+   }
+  ],
+  "right": [
+   {
+    "el": "Ελέγχει και εποπτεύει Νοσοκομεία, Κέντρα Υγείας ή Μονάδες Κοινωνικής Φροντίδας στα καθορισμένα όρια μιας περιφέρειας",
+    "tr": "Belirli bir bölgenin sınırları içindeki hastaneleri, sağlık merkezlerini veya sosyal bakım birimlerini denetler ve gözetir",
+    "en": "Monitors and supervises hospitals, health centres or social care units within the defined boundaries of a region"
+   },
+   {
+    "el": "Εκεί γίνεται η κατάθεση πινακίδων ενός οχήματος",
+    "tr": "Bir aracın plakalarının teslim edildiği yerdir",
+    "en": "Where a vehicle's licence plates are handed in"
+   },
+   {
+    "el": "Δίνει επιδόματα ανεργίας σε εκείνους που τα δικαιούνται",
+    "tr": "Hak sahiplerine işsizlik ödeneği verir",
+    "en": "Pays unemployment benefits to those entitled to them"
+   },
+   {
+    "el": "Χαρακτηρίζει εκείνους που κάνουν τη σχετική αίτηση ως Άτομα με Αναπηρία",
+    "tr": "İlgili başvuruyu yapanları Engelli Birey olarak nitelendirir (engellilik durumunu belgelendirir)",
+    "en": "Certifies those who apply as Persons with Disabilities"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    1
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    3
+   ]
+  ]
+ },
+ {
+  "id": "ins-66",
+  "subject": "ins",
+  "n": 66,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιο όργανο ελέγχει τις δημόσιες συμβάσεις και δαπάνες;",
+   "tr": "Kamu sözleşmelerini ve harcamalarını hangi organ denetler?",
+   "en": "Which body audits public contracts and expenditure?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Η Βουλή των Ελλήνων",
+    "tr": "Yunan Parlamentosu (Vouli)",
+    "en": "The Hellenic Parliament"
+   },
+   {
+    "el": "Το Υπουργείο Οικονομικών",
+    "tr": "Maliye Bakanlığı",
+    "en": "The Ministry of Finance"
+   },
+   {
+    "el": "Το Ελεγκτικό Συνέδριο",
+    "tr": "Sayıştay",
+    "en": "The Court of Audit"
+   },
+   {
+    "el": "Το ΑΣΕΠ",
+    "tr": "Yüksek Personel Seçme Kurulu (ASEP)",
+    "en": "The Supreme Council for Civil Personnel Selection (ASEP)"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "ins-67",
+  "subject": "ins",
+  "n": 67,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η δήλωση «Eπικρατούσα θρησκεία στην Eλλάδα είναι η θρησκεία της Ανατολικής Ορθόδοξης Εκκλησίας του Χριστού» είναι:",
+   "tr": "«Yunanistan'da hâkim din, Doğu Ortodoks Mesih Kilisesi'nin dinidir» ifadesi:",
+   "en": "The statement 'The prevailing religion in Greece is that of the Eastern Orthodox Church of Christ' is:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Λάθος, γιατί η Ελλάδα δεν αναγνωρίζει καμία θρησκεία",
+    "tr": "Yanlış, çünkü Yunanistan hiçbir dini tanımaz",
+    "en": "Wrong, because Greece does not recognise any religion"
+   },
+   {
+    "el": "Σωστό, σύμφωνα με το Σύνταγμα της Ελλάδας",
+    "tr": "Doğru, Yunanistan Anayasası'na göre",
+    "en": "Correct, according to the Constitution of Greece"
+   },
+   {
+    "el": "Σωστό, μόνο για τους δημόσιους υπαλλήλους",
+    "tr": "Doğru, yalnızca kamu görevlileri için",
+    "en": "Correct, only for civil servants"
+   },
+   {
+    "el": "Λάθος, γιατί επικρατούσα θρησκεία είναι ο Καθολικισμός",
+    "tr": "Yanlış, çünkü hâkim din Katolikliktir",
+    "en": "Wrong, because the prevailing religion is Catholicism"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-68",
+  "subject": "ins",
+  "n": 68,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Τι είναι το εκλογικό σύστημα;",
+   "tr": "Seçim sistemi nedir?",
+   "en": "What is the electoral system?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Ο τρόπος με τον οποίο κατανέμονται οι βουλευτικές έδρες στα κόμματα με βάση τις ψήφους που λαμβάνουν στις εκλογές.",
+    "tr": "Milletvekilliği sandalyelerinin, partilerin seçimlerde aldıkları oylara göre partilere dağıtılma yöntemi.",
+    "en": "The way in which parliamentary seats are allocated to parties on the basis of the votes they receive in the elections."
+   },
+   {
+    "el": "Η διαδικασία με την οποία συγκροτείται η Κυβέρνηση μετά τις εκλογές.",
+    "tr": "Seçimlerden sonra Hükümetin kurulma süreci.",
+    "en": "The procedure by which the Government is formed after the elections."
+   },
+   {
+    "el": "Το σύνολο των δικαιωμάτων και υποχρεώσεων των βουλευτών κατά τη διάρκεια της θητείας τους.",
+    "tr": "Milletvekillerinin görev süreleri boyunca sahip oldukları hak ve yükümlülüklerin bütünü.",
+    "en": "The set of rights and obligations of members of Parliament during their term of office."
+   },
+   {
+    "el": "Η διαδικασία ψήφισης των νόμων από τη Βουλή.",
+    "tr": "Yasaların Yunan Parlamentosu (Vouli) tarafından kabul edilme süreci.",
+    "en": "The procedure for the passing of laws by Parliament."
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ins-69",
+  "subject": "ins",
+  "n": 69,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος χαρακτηρίζεται ως ετεροδημότης;",
+   "tr": "Kime «eterodimotis» (kayıtlı olduğu yer dışında oy kullanan seçmen) denir?",
+   "en": "Who is called an 'out-of-district voter' (eterodimotis)?"
+  },
+  "note": {
+   "el": "Ο όρος «ετεροδημότης» δηλώνει τον εκλογέα που ψηφίζει εκτός της περιφέρειας όπου είναι εγγεγραμμένος.",
+   "tr": "Bu soruda kullanılan Yunanca «ετεροδημότης» terimi, kayıtlı olduğu seçim bölgesi dışında oy kullanan seçmen anlamına gelir.",
+   "en": "The Greek term used in the question, 'ετεροδημότης', denotes a voter who votes outside the district where he or she is registered."
+  },
+  "image": false,
+  "options": [
+   {
+    "el": "Ο εκλογέας που εκδηλώνει ενδιαφέρον να ψηφίσει στον τόπο διαμονής του, τους συνδυασμούς της εκλογικής περιφέρειας, στης οποίας τους εκλογικούς καταλόγους είναι εγγεγραμμένος.",
+    "tr": "İkamet ettiği yerde, seçmen kütüklerine kayıtlı olduğu seçim bölgesinin listelerine oy vermek istediğini bildiren seçmen.",
+    "en": "The voter who declares an interest in voting, at his or her place of residence, for the party lists of the electoral district in whose electoral rolls he or she is registered."
+   },
+   {
+    "el": "Ο εκλογέας που ψηφίζει υποχρεωτικά στον δήμο όπου κατοικεί μόνιμα.",
+    "tr": "Sürekli ikamet ettiği belediyede zorunlu olarak oy kullanan seçmen.",
+    "en": "The voter who must vote in the municipality where he or she permanently resides."
+   },
+   {
+    "el": "Ο εκλογέας που έχει αλλάξει μόνιμη κατοικία και διαγράφεται αυτόματα από τους εκλογικούς καταλόγους του δήμου του.",
+    "tr": "Daimi ikametgâhını değiştirmiş ve belediyesinin seçmen kütüklerinden otomatik olarak silinen seçmen.",
+    "en": "The voter who has changed permanent residence and is automatically deleted from the electoral rolls of his or her municipality."
+   },
+   {
+    "el": "Ο εκλογέας που μπορεί να ψηφίζει σε οποιονδήποτε δήμο της χώρας ανεξάρτητα από τους εκλογικούς καταλόγους.",
+    "tr": "Seçmen kütüklerinden bağımsız olarak ülkenin herhangi bir belediyesinde oy kullanabilen seçmen.",
+    "en": "The voter who can vote in any municipality of the country regardless of the electoral rolls."
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ins-70",
+  "subject": "ins",
+  "n": 70,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Τι είναι η Υπηρεσιακή Κυβέρνηση;",
+   "tr": "Geçici (seçim) hükümeti nedir?",
+   "en": "What is a Caretaker Government?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Κυβέρνηση που σχηματίζεται από το κόμμα που κερδίζει τις εκλογές και κυβερνά για ολόκληρη τη συνταγματική θητεία.",
+    "tr": "Seçimleri kazanan parti tarafından kurulan ve anayasal görev süresinin tamamı boyunca yöneten hükümet.",
+    "en": "A government formed by the party that wins the elections and governs for the entire constitutional term."
+   },
+   {
+    "el": "Κυβέρνηση συνεργασίας στην οποία συμμετέχουν υποχρεωτικά όλα τα κοινοβουλευτικά κόμματα.",
+    "tr": "Parlamentodaki tüm partilerin zorunlu olarak katıldığı koalisyon hükümeti.",
+    "en": "A coalition government in which all parliamentary parties must participate."
+   },
+   {
+    "el": "Κυβέρνηση που σχηματίζεται αποκλειστικά από μέλη της Βουλής μετά από πρόταση του Προέδρου της Δημοκρατίας.",
+    "tr": "Cumhurbaşkanının önerisi üzerine yalnızca Yunan Parlamentosu (Vouli) üyelerinden kurulan hükümet.",
+    "en": "A government formed exclusively by members of Parliament on the proposal of the President of the Republic."
+   },
+   {
+    "el": "Κυβέρνηση περιορισμένης χρονικής ισχύος με ειδική σύνθεση που δεν έχει λάβει ψήφο εμπιστοσύνης από τη Βουλή, για να οδηγήσει τη χώρα σε εκλογές.",
+    "tr": "Ülkeyi seçime götürmek için kurulan, Parlamentodan güvenoyu almamış, özel bileşimli ve sınırlı süreli hükümet.",
+    "en": "A government of limited duration with a special composition, which has not received a vote of confidence from Parliament, formed to lead the country to elections."
+   }
+  ],
+  "answer": 3
+ },
+ {
+  "id": "ins-71",
+  "subject": "ins",
+  "n": 71,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Τι σημαίνει ο όρος «ανασχηματισμός»;",
+   "tr": "«Kabine değişikliği» (anasximatismos) terimi ne anlama gelir?",
+   "en": "What does the term 'reshuffle' mean?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Η διαδικασία εκλογής νέας Βουλής μετά τη λήξη της κοινοβουλευτικής περιόδου.",
+    "tr": "Yasama döneminin sona ermesinden sonra yeni bir Parlamentonun seçilmesi süreci.",
+    "en": "The procedure of electing a new Parliament after the end of the parliamentary term."
+   },
+   {
+    "el": "Η διαδικασία με την οποία ο Πρωθυπουργός αλλάζει τη σύνθεση της Κυβέρνησης, αντικαθιστώντας υπουργούς ή τροποποιώντας τη δομή και τις αρμοδιότητες των υπουργείων.",
+    "tr": "Başbakanın bakanları değiştirerek veya bakanlıkların yapısını ve görevlerini değiştirerek Hükümetin bileşimini değiştirdiği süreç.",
+    "en": "The procedure by which the Prime Minister changes the composition of the Government, replacing ministers or modifying the structure and competences of the ministries."
+   },
+   {
+    "el": "Η διαδικασία κατά την οποία η Βουλή εκλέγει νέο Πρωθυπουργό.",
+    "tr": "Yunan Parlamentosu'nun (Vouli) yeni bir Başbakan seçtiği süreç.",
+    "en": "The procedure by which Parliament elects a new Prime Minister."
+   },
+   {
+    "el": "Η διαδικασία με την οποία ο Πρόεδρος της Δημοκρατίας διορίζει τους βουλευτές.",
+    "tr": "Cumhurbaşkanının milletvekillerini atadığı süreç.",
+    "en": "The procedure by which the President of the Republic appoints the members of Parliament."
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-72",
+  "subject": "ins",
+  "n": 72,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Σε περίπτωση που κάποιος θεωρεί ότι παρασύρθηκε σε αγορά από παραπλανητική διαφήμιση σε ποια Ανεξάρτητη Αρχή μπορεί να υποβάλλει αναφορά;",
+   "tr": "Bir kişi yanıltıcı bir reklam nedeniyle bir satın almaya sürüklendiğini düşünüyorsa hangi Bağımsız İdari Otoriteye şikâyette bulunabilir?",
+   "en": "If someone believes they were lured into a purchase by misleading advertising, to which Independent Authority can they submit a complaint?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Στον Συνήγορο του Πολίτη",
+    "tr": "Yurttaş Ombudsmanına (Kamu Denetçisi)",
+    "en": "The Greek Ombudsman"
+   },
+   {
+    "el": "Στην Εθνική Επιτροπή για τα Δικαιώματα του Ανθρώπου (ΕΕΔΑ)",
+    "tr": "Ulusal İnsan Hakları Komisyonuna (EEDA)",
+    "en": "The National Commission for Human Rights (EEDA)"
+   },
+   {
+    "el": "Στον Συνήγορο του Καταναλωτή",
+    "tr": "Tüketici Ombudsmanına",
+    "en": "The Consumer Ombudsman"
+   },
+   {
+    "el": "Στο Εθνικό Συμβούλιο Ραδιοτηλεόρασης (Ε.Σ.Ρ.)",
+    "tr": "Ulusal Radyo ve Televizyon Konseyine (ESR)",
+    "en": "The National Council for Radio and Television (ESR)"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "ins-73",
+  "subject": "ins",
+  "n": 73,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Σε ποιόν εμπίπτει η αρμοδιότητα για τον σχεδιασμό και την παροχή κοινωνικής πολιτικής στην Ελλάδα;",
+   "tr": "Yunanistan'da sosyal politikanın tasarlanması ve uygulanması yetkisi kime aittir?",
+   "en": "Who has competence for designing and delivering social policy in Greece?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Η αρμοδιότητα είναι συντρέχουσα που σημαίνει ότι τόσο η Ευρωπαϊκή Ένωση όσο και η ελληνική κυβέρνηση μπορούν να νομοθετούν",
+    "tr": "Yetki paylaşılan (ortak) yetkidir; yani hem Avrupa Birliği hem de Yunan hükümeti mevzuat çıkarabilir",
+    "en": "Competence is shared, meaning that both the European Union and the Greek government can legislate"
+   },
+   {
+    "el": "Η αρμοδιότητα εμπίπτει αποκλειστικά στην ΕΕ",
+    "tr": "Yetki münhasıran AB'ye aittir",
+    "en": "Competence lies exclusively with the EU"
+   },
+   {
+    "el": "Η αρμοδιότητα εμπίπτει αποκλειστικά στην ελληνική κυβέρνηση",
+    "tr": "Yetki münhasıran Yunan hükümetine aittir",
+    "en": "Competence lies exclusively with the Greek government"
+   },
+   {
+    "el": "Η αρμοδιότητα εμπίπτει στους δήμους και τις κοινότητες",
+    "tr": "Yetki belediyelere ve topluluklara aittir",
+    "en": "Competence lies with the municipalities and communities"
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ins-74",
+  "subject": "ins",
+  "n": 74,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Τι είναι η Συλλογική Σύμβαση Εργασίας;",
+   "tr": "Toplu İş Sözleşmesi nedir?",
+   "en": "What is a Collective Labour Agreement?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Γραπτή συμφωνία μεταξύ συνδικαλιστικών οργανώσεων εργαζομένων και εργοδοτών, που καθορίζει τους ελάχιστους όρους εργασίας, τις αμοιβαίες υποχρεώσεις τους ενώ μπορεί να περιέχει και άλλες σημαντικές ρυθμίσεις.",
+    "tr": "İşçi sendikaları ile işverenler arasında, asgari çalışma koşullarını ve karşılıklı yükümlülükleri belirleyen ve başka önemli düzenlemeler de içerebilen yazılı anlaşma.",
+    "en": "A written agreement between workers' trade-union organisations and employers which lays down minimum terms of employment and their mutual obligations, and may also contain other important provisions."
+   },
+   {
+    "el": "Ατομική συμφωνία μεταξύ εργαζομένου και εργοδότη που αφορά αποκλειστικά τον μισθό του εργαζομένου.",
+    "tr": "İşçi ile işveren arasında yalnızca işçinin ücretine ilişkin bireysel anlaşma.",
+    "en": "An individual agreement between employee and employer concerning exclusively the employee's wage."
+   },
+   {
+    "el": "Νόμος που εκδίδεται από τη Βουλή και καθορίζει ενιαία τους όρους εργασίας για όλους τους εργαζομένους.",
+    "tr": "Yunan Parlamentosu (Vouli) tarafından çıkarılan ve tüm çalışanlar için çalışma koşullarını tek tip olarak belirleyen kanun.",
+    "en": "A law enacted by Parliament that uniformly sets working conditions for all employees."
+   },
+   {
+    "el": "Απόφαση του εργοδότη που καθορίζει μονομερώς τις υποχρεώσεις των εργαζομένων.",
+    "tr": "İşverenin, çalışanların yükümlülüklerini tek taraflı olarak belirleyen kararı.",
+    "en": "A decision by the employer that unilaterally sets the employees' obligations."
+   }
+  ],
+  "answer": 0
+ },
+ {
+  "id": "ins-75",
+  "subject": "ins",
+  "n": 75,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιος είναι ο βασικός σκοπός της σύστασης των Κέντρων Εξυπηρέτησης Πολιτών (Κ.Ε.Π.);",
+   "tr": "Vatandaş Hizmet Merkezleri'nin (KEP) kurulmasının temel amacı nedir?",
+   "en": "What is the main purpose of establishing the Citizens' Service Centres (KEP)?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Η ενίσχυση της στρατιωτικής διοίκησης",
+    "tr": "Askerî yönetimin güçlendirilmesi",
+    "en": "Strengthening the military administration"
+   },
+   {
+    "el": "Η διευκόλυνση των πολιτών στις συναλλαγές τους με το Δημόσιο",
+    "tr": "Vatandaşların kamu ile işlemlerinin kolaylaştırılması",
+    "en": "Making citizens' dealings with the public sector easier"
+   },
+   {
+    "el": "Η εποπτεία των δημοτικών εκλογών",
+    "tr": "Belediye seçimlerinin denetlenmesi",
+    "en": "Supervising municipal elections"
+   },
+   {
+    "el": "Η οργάνωση των δικαστικών υπηρεσιών",
+    "tr": "Yargı hizmetlerinin düzenlenmesi",
+    "en": "Organising the judicial services"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-76",
+  "subject": "ins",
+  "n": 76,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ο θεσμός της τοπικής αυτοδιοίκησης:",
+   "tr": "Yerel yönetim kurumu:",
+   "en": "The institution of local government:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "προβλέπεται από ειδικό νόμο του κράτους",
+    "tr": "devletin özel bir kanunuyla öngörülmüştür",
+    "en": "is provided for by a special law of the State"
+   },
+   {
+    "el": "κατοχυρώνεται στο Σύνταγμα, στο άρθρο 102",
+    "tr": "Anayasa'nın 102. maddesinde güvence altına alınmıştır",
+    "en": "is enshrined in the Constitution, in Article 102"
+   },
+   {
+    "el": "καθορίζεται αποκλειστικά από τους δήμους",
+    "tr": "münhasıran belediyeler tarafından belirlenir",
+    "en": "is determined exclusively by the municipalities"
+   },
+   {
+    "el": "αναφέρεται στον Δημοσιοϋπαλληλικό Κώδικα",
+    "tr": "Devlet Memurları Kanunu'nda düzenlenmiştir",
+    "en": "is set out in the Civil Servants' Code"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-77",
+  "subject": "ins",
+  "n": 77,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιο είναι ένα από τα κύρια δικαιώματα που απορρέουν από την Ευρωπαϊκή Ιθαγένεια;",
+   "tr": "Avrupa (AB) vatandaşlığından doğan temel haklardan biri nedir?",
+   "en": "What is one of the main rights deriving from European citizenship?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Οι φορολογικές υποχρεώσεις των πολιτών",
+    "tr": "Vatandaşların vergi yükümlülükleri",
+    "en": "Citizens' tax obligations"
+   },
+   {
+    "el": "Η δυνατότητα συμμετοχής σε εθνικά στρατεύματα τρίτων χωρών",
+    "tr": "Üçüncü ülkelerin ulusal ordularına katılma imkânı",
+    "en": "The possibility of serving in the national armed forces of third countries"
+   },
+   {
+    "el": "Η ελεύθερη κυκλοφορία και διαμονή εντός της Ευρωπαϊκής Ένωσης",
+    "tr": "Avrupa Birliği içinde serbest dolaşım ve ikamet",
+    "en": "Free movement and residence within the European Union"
+   },
+   {
+    "el": "Αποκλειστικά η έκδοση ταυτότητας",
+    "tr": "Yalnızca kimlik kartı çıkarılması",
+    "en": "Solely the issuing of an identity card"
+   }
+  ],
+  "answer": 2
+ },
+ {
+  "id": "ins-78",
+  "subject": "ins",
+  "n": 78,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Τι ονομάζεται Αξιωματική Αντιπολίτευση στην Ελλάδα;",
+   "tr": "Yunanistan'da Ana Muhalefet nedir?",
+   "en": "What is called the Official Opposition in Greece?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Το κόμμα που κυβερνά τη χώρα.",
+    "tr": "Ülkeyi yöneten parti.",
+    "en": "The party that governs the country."
+   },
+   {
+    "el": "Το μεγαλύτερο κόμμα της αντιπολίτευσης στη Βουλή.",
+    "tr": "Yunan Parlamentosu'ndaki (Vouli) en büyük muhalefet partisi.",
+    "en": "The largest opposition party in Parliament."
+   },
+   {
+    "el": "Όλα τα κόμματα που συμμετέχουν στη Βουλή.",
+    "tr": "Parlamentoda yer alan tüm partiler.",
+    "en": "All the parties represented in Parliament."
+   },
+   {
+    "el": "Το κόμμα που συγκεντρώνει τις περισσότερες ψήφους στις δημοτικές εκλογές.",
+    "tr": "Belediye seçimlerinde en çok oyu alan parti.",
+    "en": "The party that receives the most votes in municipal elections."
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-79",
+  "subject": "ins",
+  "n": 79,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Ποιο από τα παρακάτω δεν είναι πολιτικό κόμμα στην Ελλάδα;",
+   "tr": "Aşağıdakilerden hangisi Yunanistan'da bir siyasi parti değildir?",
+   "en": "Which of the following is not a political party in Greece?"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Νέα Αριστερά",
+    "tr": "Yeni Sol",
+    "en": "New Left"
+   },
+   {
+    "el": "Ομόνοια",
+    "tr": "Omonia",
+    "en": "Omonoia"
+   },
+   {
+    "el": "Νέα Δημοκρατία",
+    "tr": "Yeni Demokrasi",
+    "en": "New Democracy"
+   },
+   {
+    "el": "Πανελλήνιο Σοσιαλιστικό Κίνημα – Κίνημα Αλλαγής (ΠΑ.ΣΟ.Κ – ΚΙΝ.ΑΛ)",
+    "tr": "Panhelenik Sosyalist Hareket – Değişim Hareketi (PASOK – KINAL)",
+    "en": "Panhellenic Socialist Movement – Movement for Change (PASOK – KINAL)"
+   }
+  ],
+  "answer": 1
+ },
+ {
+  "id": "ins-80",
+  "subject": "ins",
+  "n": 80,
+  "section": null,
+  "type": "mc",
+  "prompt": {
+   "el": "Η υποχρεωτική εκπαίδευση περιλαμβάνει:",
+   "tr": "Zorunlu eğitim neleri kapsar?",
+   "en": "Compulsory education comprises:"
+  },
+  "note": null,
+  "image": false,
+  "options": [
+   {
+    "el": "Μόνο το Γυμνάσιο",
+    "tr": "Yalnızca ortaokulu (Gymnasio)",
+    "en": "Only lower secondary school (Gymnasio)"
+   },
+   {
+    "el": "Νηπιαγωγείο, Δημοτικό και Γυμνάσιο",
+    "tr": "Anaokulu, ilkokul ve ortaokul (Gymnasio)",
+    "en": "Kindergarten, primary school and lower secondary school (Gymnasio)"
+   },
+   {
+    "el": "Μόνο το Δημοτικό",
+    "tr": "Yalnızca ilkokulu",
+    "en": "Only primary school"
+   },
+   {
+    "el": "Μόνο το Λύκειο",
+    "tr": "Yalnızca liseyi",
+    "en": "Only upper secondary school (Lyceum)"
+   }
+  ],
+  "answer": 1
+ }
+]
