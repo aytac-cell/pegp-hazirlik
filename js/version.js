@@ -1,7 +1,24 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.3.0";
+window.APP_VERSION = "1.4.0";
 window.APP_CHANGES = [
+  {
+    v: "1.4.0", date: "2026-10-26",
+    tr: [
+      "Yeni: Her ders bölümünün sonunda 10 soruluk bölüm sınavı",
+      "Sınav, bölüm sonuna kadar okunduğunda açılır; bölümü geçmek için en az 9/10 gerekir",
+      "9/10'un altında bölüm tamamlanmış sayılmaz: yanlışlar gösterilir, ders yeniden okunur ve sınav ancak ders tekrar sonuna kadar okununca açılır",
+      "Sorular bölümün içeriğinden her seferinde farklı seçilir: resmi sınav soruları, Yunanca terimler, tarihler ve çekim tabloları",
+      "İçindekiler listesinde her bölümün sınav puanı görünür"
+    ],
+    en: [
+      "New: a 10-question quiz at the end of every lesson section",
+      "The quiz unlocks once you read to the end; you need at least 9/10 to pass the section",
+      "Below 9/10 the section is not completed: your mistakes are shown, you re-read the lesson and the quiz unlocks again at the end",
+      "Questions are drawn fresh each time from the section: official exam questions, Greek terms, dates and inflection tables",
+      "The table of contents shows each section's quiz score"
+    ]
+  },
   {
     v: "1.3.0", date: "2026-10-26",
     tr: [

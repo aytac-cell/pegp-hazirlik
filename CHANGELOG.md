@@ -6,6 +6,17 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.4.0 (2026-10-26)
+
+- **Yeni: Bölüm sınavı.** Her ders bölümünün sonunda 10 soruluk bir sınav var. Ders sonuna kadar okunduğunda açılır.
+- Bölümü geçmek için en az 9/10 gerekir.
+- 9/10'un altında bölüm tamamlanmış sayılmaz:
+  - Yanlış cevaplar doğrularıyla gösterilir.
+  - Ders yeniden açılır.
+  - Sınav ancak ders tekrar sonuna kadar okununca açılır.
+- Sorular bölümün kendi içeriğinden her seferinde farklı seçilir: resmi sınav soruları, Yunanca terimler, tarihler ve çekim tabloları.
+- İçindekiler listesinde her bölümün sınav puanı görünür.
+
 ## 1.3.0 (2026-10-26)
 
 - **Yeni: Dilbilgisi dersi.** Artikeller ile isim ve sıfatların artikelleriyle dört hâlde çekimi (tekil/çoğul).

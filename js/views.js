@@ -782,7 +782,7 @@
       <div class="toc">${les.sections.map((x, i) => `<a class="card" href="#/learn?s=${subj}&sec=${x.id}">
           <span class="ic" aria-hidden="true">${x.icon || "•"}</span>
           <span><b${titleHtml(x.title).mainLang || ""}>${i + 1}. ${titleHtml(x.title).main}</b><span class="s">${rich(x.summary)}</span></span>
-          ${Store.data.read[x.id] ? `<span class="pill ok">✓ ${esc(t("readDone"))}</span>` : `${x.questions.length ? `<span class="small muted">${x.questions.length} ${esc(t("questions"))}</span>` : ""}`}
+          ${Store.data.read[x.id] ? `<span class="pill ok">✓ ${Store.data.quiz[x.id] ? Store.data.quiz[x.id].best + "/" + SectionQuiz.N : esc(t("readDone"))}</span>` : Store.data.quiz[x.id] && Store.data.quiz[x.id].needReread ? `<span class="pill bad">🔁 ${esc(t("quizRereadShort"))}</span>` : `${x.questions.length ? `<span class="small muted">${x.questions.length} ${esc(t("questions"))}</span>` : ""}`}
         </a>`).join("")}</div>
       <p class="small muted" style="margin-top:1rem">${esc(t("learnNote"))}</p>
     </div>`);
@@ -813,12 +813,15 @@
     const idx = les.sections.indexOf(sec), prev = les.sections[idx - 1], next = les.sections[idx + 1];
     const qs = sec.questions.map(id => QS().find(q => q.id === id)).filter(Boolean);
     const drillable = qs.filter(q => !q.image);
+    const quizRec = Store.data.quiz[sec.id];
     html(`<article class="lesson">
       <div class="row small" style="margin-bottom:.6rem"><a href="#/learn">${esc(t("learnTitle"))}</a> › <a href="#/learn?s=${subj}">${esc(t("subj_" + subj))}</a> › <span class="muted">${idx + 1}/${les.sections.length}</span></div>
       <div class="card">
         <div class="lesson-head"><h1${titleHtml(sec.title).mainLang || ""}>${sec.icon || ""} ${titleHtml(sec.title).main}</h1><div class="el-title"${titleHtml(sec.title).subLang || ""}>${titleHtml(sec.title).sub}</div></div>
         <div style="margin-top:.8rem">${lessonLangSeg()}</div>
+        ${quizRec && quizRec.needReread ? `<div class="note" style="margin-top:.8rem">🔁 ${esc(t("quizRereadBanner", { s: quizRec.last, n: SectionQuiz.N, p: SectionQuiz.PASS }))}</div>` : ""}
         <div class="lesson-body" style="margin-top:1rem">${sec.blocks.map(blockHtml).join("")}</div>
+        <div id="readEnd" aria-hidden="true"></div>
         <div class="actions" style="margin-top:1.4rem">
           ${drillable.length ? `<a class="btn btn-primary" href="#/study?ids=${drillable.map(q => q.id).join(",")}&back=${encodeURIComponent(`#/learn?s=${subj}&sec=${sec.id}`)}">✎ ${esc(t("practiceSection", { n: drillable.length }))}</a>` : ""}
         </div>
@@ -829,7 +832,8 @@
       </div>
       <div class="lesson-nav">
         ${prev ? `<a class="btn" href="#/learn?s=${subj}&sec=${prev.id}">${esc(t("prevSection"))}</a>` : "<span></span>"}
-        <button class="btn btn-primary" id="markRead">${esc(next ? t("markRead") : t("markReadLast"))}</button>
+        <span class="row">${Store.data.read[sec.id] && next ? `<a class="btn" href="#/learn?s=${subj}&sec=${next.id}">${esc(t("nextSection"))}</a>` : ""}
+        <button class="btn btn-primary" id="quizBtn" disabled>🔒 ${esc(t("quizLocked"))}</button></span>
       </div>
       <p class="small muted" style="margin-top:1rem">${esc(t("learnNote"))}</p>
     </article>`);
@@ -841,10 +845,29 @@
       slot.appendChild(m.node);
     });
     bindLessonLang(() => learnSection(subj, les, sec));
-    document.getElementById("markRead").addEventListener("click", () => {
-      Store.data.read[sec.id] = Date.now(); Store.save();
-      location.hash = next ? `#/learn?s=${subj}&sec=${next.id}` : `#/learn?s=${subj}`;
+    // the section quiz unlocks once the learner has scrolled to the end of the lesson
+    const quizBtn = document.getElementById("quizBtn");
+    const unlock = () => { quizBtn.disabled = false; quizBtn.textContent = "📝 " + t(Store.data.read[sec.id] ? "quizRetake" : "quizStart", { n: SectionQuiz.N }); };
+    const io = new IntersectionObserver(es => { if (es.some(e => e.isIntersecting)) { unlock(); io.disconnect(); } });
+    io.observe(document.getElementById("readEnd"));
+    quizBtn.addEventListener("click", () => {
+      io.disconnect();
+      html(`<div class="lesson"><div class="row small" style="margin-bottom:.6rem"><a href="#/learn?s=${subj}&sec=${sec.id}&back=1">← ${esc(c(sec.title))}</a></div>
+        <h2>📝 ${esc(t("quizTitle"))}: ${esc(c(sec.title))}</h2><p class="small muted">${esc(t("quizRule", { n: SectionQuiz.N, p: SectionQuiz.PASS }))}</p><div id="quizSlot"></div></div>`);
+      SectionQuiz.run(document.getElementById("quizSlot"), {
+        les, sec,
+        onPass() {
+          Store.data.read[sec.id] = Date.now(); Store.save();
+          location.hash = next ? `#/learn?s=${subj}&sec=${next.id}` : `#/learn?s=${subj}`;
+        },
+        onFail() {
+          // not passed: the section counts as unread until the quiz is passed after re-reading
+          delete Store.data.read[sec.id]; Store.save();
+          learnSection(subj, les, sec); window.scrollTo(0, 0);
+        }
+      });
     });
+    return () => io.disconnect();
   }
 
   function notFound() { html(`<div class="card empty"><div class="big">🧭</div><p>${esc(t("notFound"))}</p><a class="btn" href="#/">${esc(t("backHome"))}</a></div>`); }

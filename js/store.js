@@ -5,7 +5,8 @@
     cards: {},          // id -> SRS state (see srs.js)
     log: {},            // "YYYY-MM-DD" -> { n: reviews, ok: correct first tries, new: new cards introduced }
     exams: [],          // { at, score, max, per: {geo:[ok,total],...}, secs, auto }
-    read: {},           // lesson section id -> time it was marked as read
+    read: {},           // lesson section id -> time its quiz was passed
+    quiz: {},           // lesson section id -> { tries, last, best, passed, needReread, at }
     settings: { lang: "tr", tr: "tap", newPerDay: 20, theme: "auto", voice: true }
   };
 
@@ -21,6 +22,7 @@
         log: d.log || {},
         exams: Array.isArray(d.exams) ? d.exams : [],
         read: d.read || {},
+        quiz: d.quiz || {},
         settings: Object.assign(clone(DEFAULTS.settings), d.settings || {})
       };
     } catch (e) {
@@ -67,7 +69,7 @@
       const d = o && o.data ? o.data : o;
       if (!d || typeof d.cards !== "object") throw new Error("bad file");
       data = {
-        cards: d.cards || {}, log: d.log || {}, exams: d.exams || [], read: d.read || {},
+        cards: d.cards || {}, log: d.log || {}, exams: d.exams || [], read: d.read || {}, quiz: d.quiz || {},
         settings: Object.assign(clone(DEFAULTS.settings), d.settings || {})
       };
       Store.save();
