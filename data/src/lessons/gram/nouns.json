@@ -463,6 +463,848 @@
     "https://en.wiktionary.org/wiki/ο",
     "https://en.wiktionary.org/wiki/ένας",
     "https://www.alfavita.gr/ekpaideysi/447750_orthografia-pote-bazoyme-teliko-n-gia-na-min-xanakaneis-pote-lathos"
+   ],
+   "quiz": [
+    {
+     "q": {
+      "el": "Ποια τρία πράγματα δείχνει το άρθρο;",
+      "tr": "Artikel hangi üç şeyi gösterir?",
+      "en": "Which three things does the article show?"
+     },
+     "options": [
+      {
+       "el": "χρόνο, πρόσωπο και αριθμό",
+       "tr": "zaman, kişi ve sayı",
+       "en": "tense, person and number"
+      },
+      {
+       "el": "γένος, πτώση και αριθμό",
+       "tr": "cins, hâl ve sayı",
+       "en": "gender, case and number"
+      },
+      {
+       "el": "γένος, χρόνο και τόνο",
+       "tr": "cins, zaman ve vurgu",
+       "en": "gender, tense and stress"
+      },
+      {
+       "el": "πτώση, πρόσωπο και φωνή",
+       "tr": "hâl, kişi ve çatı",
+       "en": "case, person and voice"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Το άρθρο δείχνει το γένος, την πτώση και τον αριθμό του ουσιαστικού.",
+      "tr": "Artikel ismin cinsini, hâlini ve sayısını gösterir.",
+      "en": "The article shows the noun's gender, case and number."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι σωστό για τα άρθρα;",
+      "tr": "Artikeller hakkında hangisi doğrudur?",
+      "en": "Which is true about articles?"
+     },
+     "options": [
+      {
+       "el": "Τα τουρκικά έχουν άρθρα, τα ελληνικά όχι.",
+       "tr": "Türkçede artikel vardır, Yunancada yoktur.",
+       "en": "Turkish has articles; Greek does not."
+      },
+      {
+       "el": "Καμία από τις δύο γλώσσες δεν έχει άρθρα.",
+       "tr": "İki dilde de artikel yoktur.",
+       "en": "Neither language has articles."
+      },
+      {
+       "el": "Τα ελληνικά έχουν άρθρα, τα τουρκικά όχι.",
+       "tr": "Yunancada artikel vardır, Türkçede yoktur.",
+       "en": "Greek has articles; Turkish does not."
+      },
+      {
+       "el": "Το άρθρο μπαίνει μετά από το ουσιαστικό.",
+       "tr": "Artikel ismin arkasına gelir.",
+       "en": "The article comes after the noun."
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Τα ελληνικά έχουν άρθρα, ενώ τα τουρκικά όχι· το άρθρο μπαίνει πριν από το ουσιαστικό.",
+      "tr": "Yunancada artikel vardır, Türkçede yoktur; artikel ismin önüne gelir.",
+      "en": "Greek has articles and Turkish does not; the article stands before the noun."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι το οριστικό άρθρο του θηλυκού στη γενική ενικού;",
+      "tr": "Dişil belirli artikelin tekil -in hâli hangisidir?",
+      "en": "Which is the feminine definite article in the genitive singular?"
+     },
+     "options": [
+      {
+       "el": "του",
+       "tr": "του",
+       "en": "του"
+      },
+      {
+       "el": "τη(ν)",
+       "tr": "τη(ν)",
+       "en": "τη(ν)"
+      },
+      {
+       "el": "των",
+       "tr": "των",
+       "en": "των"
+      },
+      {
+       "el": "της",
+       "tr": "της",
+       "en": "της"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα: θηλυκό, γενική ενικού = «της».",
+      "tr": "Tabloda: dişil, tekil -in hâli = «της».",
+      "en": "In the table: feminine genitive singular = «της»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι το οριστικό άρθρο του αρσενικού στην αιτιατική ενικού;",
+      "tr": "Eril belirli artikelin tekil -i hâli hangisidir?",
+      "en": "Which is the masculine definite article in the accusative singular?"
+     },
+     "options": [
+      {
+       "el": "τον",
+       "tr": "τον",
+       "en": "τον"
+      },
+      {
+       "el": "του",
+       "tr": "του",
+       "en": "του"
+      },
+      {
+       "el": "το",
+       "tr": "το",
+       "en": "το"
+      },
+      {
+       "el": "τους",
+       "tr": "τους",
+       "en": "τους"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα: αρσενικό, αιτιατική ενικού = «τον».",
+      "tr": "Tabloda: eril, tekil -i hâli = «τον».",
+      "en": "In the table: masculine accusative singular = «τον»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι το οριστικό άρθρο του ουδετέρου στην ονομαστική πληθυντικού;",
+      "tr": "Nötr belirli artikelin çoğul yalın hâli hangisidir?",
+      "en": "Which is the neuter definite article in the nominative plural?"
+     },
+     "options": [
+      {
+       "el": "οι",
+       "tr": "οι",
+       "en": "οι"
+      },
+      {
+       "el": "τα",
+       "tr": "τα",
+       "en": "τα"
+      },
+      {
+       "el": "το",
+       "tr": "το",
+       "en": "το"
+      },
+      {
+       "el": "τις",
+       "tr": "τις",
+       "en": "τις"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα: ουδέτερο, ονομαστική πληθυντικού = «τα».",
+      "tr": "Tabloda: nötr, çoğul yalın hâl = «τα».",
+      "en": "In the table: neuter nominative plural = «τα»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι το οριστικό άρθρο του θηλυκού στην αιτιατική πληθυντικού;",
+      "tr": "Dişil belirli artikelin çoğul -i hâli hangisidir?",
+      "en": "Which is the feminine definite article in the accusative plural?"
+     },
+     "options": [
+      {
+       "el": "τους",
+       "tr": "τους",
+       "en": "τους"
+      },
+      {
+       "el": "οι",
+       "tr": "οι",
+       "en": "οι"
+      },
+      {
+       "el": "τις",
+       "tr": "τις",
+       "en": "τις"
+      },
+      {
+       "el": "της",
+       "tr": "της",
+       "en": "της"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα: θηλυκό, αιτιατική πληθυντικού = «τις».",
+      "tr": "Tabloda: dişil, çoğul -i hâli = «τις».",
+      "en": "In the table: feminine accusative plural = «τις»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο άρθρο είναι ίδιο και στα τρία γένη στη γενική πληθυντικού;",
+      "tr": "Çoğul -in hâlinde üç cinste de aynı olan artikel hangisidir?",
+      "en": "Which article is the same in all three genders in the genitive plural?"
+     },
+     "options": [
+      {
+       "el": "τους",
+       "tr": "τους",
+       "en": "τους"
+      },
+      {
+       "el": "του",
+       "tr": "του",
+       "en": "του"
+      },
+      {
+       "el": "τις",
+       "tr": "τις",
+       "en": "τις"
+      },
+      {
+       "el": "των",
+       "tr": "των",
+       "en": "των"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Η γενική πληθυντικού είναι «των» για αρσενικό, θηλυκό και ουδέτερο.",
+      "tr": "Çoğul -in hâli eril, dişil ve nötrde «των»dır.",
+      "en": "The genitive plural is «των» for masculine, feminine and neuter."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι το οριστικό άρθρο του θηλυκού στην ονομαστική πληθυντικού;",
+      "tr": "Dişil belirli artikelin çoğul yalın hâli hangisidir?",
+      "en": "Which is the feminine definite article in the nominative plural?"
+     },
+     "options": [
+      {
+       "el": "τις",
+       "tr": "τις",
+       "en": "τις"
+      },
+      {
+       "el": "οι",
+       "tr": "οι",
+       "en": "οι"
+      },
+      {
+       "el": "η",
+       "tr": "η",
+       "en": "η"
+      },
+      {
+       "el": "τα",
+       "tr": "τα",
+       "en": "τα"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα: θηλυκό, ονομαστική πληθυντικού = «οι» (όπως και στο αρσενικό).",
+      "tr": "Tabloda: dişil çoğul yalın hâl = «οι» (erilde de aynı).",
+      "en": "In the table: feminine nominative plural = «οι» (same as masculine)."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς γράφεται το αρσενικό άρθρο στην αιτιατική ενικού;",
+      "tr": "Eril artikel tekil -i hâlinde nasıl yazılır?",
+      "en": "How is the masculine accusative singular article written?"
+     },
+     "options": [
+      {
+       "el": "«τον» μόνο πριν από φωνήεν",
+       "tr": "«τον» yalnızca ünlüden önce",
+       "en": "«τον» only before a vowel"
+      },
+      {
+       "el": "πάντα «το»",
+       "tr": "her zaman «το»",
+       "en": "always «το»"
+      },
+      {
+       "el": "πάντα «τον»",
+       "tr": "her zaman «τον»",
+       "en": "always «τον»"
+      },
+      {
+       "el": "«τη» πριν από θ, μ, σ",
+       "tr": "θ, μ, σ önünde «τη»",
+       "en": "«τη» before θ, μ, σ"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Το τελικό -ν: στο αρσενικό γράφουμε πάντα «τον».",
+      "tr": "Sondaki -ν: eril artikel her zaman «τον» yazılır.",
+      "en": "Final -ν: the masculine is always written «τον»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια φράση γράφεται σωστά με «τη» (χωρίς -ν);",
+      "tr": "Hangi ifade doğru olarak «τη» (-ν olmadan) ile yazılır?",
+      "en": "Which phrase is correctly written with «τη» (no -ν)?"
+     },
+     "options": [
+      {
+       "el": "τη Αθήνα",
+       "tr": "τη Αθήνα",
+       "en": "τη Αθήνα"
+      },
+      {
+       "el": "τη πόλη",
+       "tr": "τη πόλη",
+       "en": "τη πόλη"
+      },
+      {
+       "el": "τη ταβέρνα",
+       "tr": "τη ταβέρνα",
+       "en": "τη ταβέρνα"
+      },
+      {
+       "el": "τη θάλασσα",
+       "tr": "τη θάλασσα",
+       "en": "τη θάλασσα"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Γράφουμε «την» πριν από φωνήεν και κ, π, τ…, αλλιώς «τη»: τη θάλασσα, την Αθήνα, την πόλη, την ταβέρνα.",
+      "tr": "Ünlüden ve κ, π, τ… önünde «την», diğerlerinde «τη»: τη θάλασσα, την Αθήνα, την πόλη, την ταβέρνα.",
+      "en": "Write «την» before a vowel and κ, π, τ…, otherwise «τη»: τη θάλασσα, την Αθήνα, την πόλη, την ταβέρνα."
+     }
+    },
+    {
+     "q": {
+      "el": "Πότε γράφουμε «την» (με -ν) στο θηλυκό;",
+      "tr": "Dişilde ne zaman «την» (-ν ile) yazılır?",
+      "en": "When is the feminine written «την» (with -ν)?"
+     },
+     "options": [
+      {
+       "el": "πριν από φωνήεν και πριν από κ, π, τ, ξ, ψ, μπ, ντ, γκ, τσ, τζ",
+       "tr": "ünlüden ve κ, π, τ, ξ, ψ, μπ, ντ, γκ, τσ, τζ seslerinden önce",
+       "en": "before a vowel and before κ, π, τ, ξ, ψ, μπ, ντ, γκ, τσ, τζ"
+      },
+      {
+       "el": "μόνο πριν από θ, μ και σ",
+       "tr": "yalnızca θ, μ ve σ önünde",
+       "en": "only before θ, μ and σ"
+      },
+      {
+       "el": "πάντα, όπως το «τον»",
+       "tr": "her zaman, «τον» gibi",
+       "en": "always, like «τον»"
+      },
+      {
+       "el": "μόνο στον πληθυντικό",
+       "tr": "yalnızca çoğulda",
+       "en": "only in the plural"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Το θηλυκό γράφεται «την» πριν από φωνήεν και κ, π, τ, ξ, ψ, μπ, ντ, γκ, τσ, τζ, αλλιώς «τη».",
+      "tr": "Dişil ünlüden ve κ, π, τ, ξ, ψ, μπ, ντ, γκ, τσ, τζ önünde «την», aksi hâlde «τη» yazılır.",
+      "en": "The feminine is «την» before a vowel and κ, π, τ, ξ, ψ, μπ, ντ, γκ, τσ, τζ, otherwise «τη»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι το αόριστο άρθρο του αρσενικού στην ονομαστική;",
+      "tr": "Eril belirsiz artikelin yalın hâli hangisidir?",
+      "en": "Which is the masculine indefinite article in the nominative?"
+     },
+     "options": [
+      {
+       "el": "ένα",
+       "tr": "ένα",
+       "en": "ένα"
+      },
+      {
+       "el": "ενός",
+       "tr": "ενός",
+       "en": "ενός"
+      },
+      {
+       "el": "ένας",
+       "tr": "ένας",
+       "en": "ένας"
+      },
+      {
+       "el": "έναν",
+       "tr": "έναν",
+       "en": "έναν"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα του αόριστου άρθρου: αρσενικό, ονομαστική = «ένας».",
+      "tr": "Belirsiz artikel tablosunda: eril yalın hâl = «ένας».",
+      "en": "In the indefinite article table: masculine nominative = «ένας»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι το αόριστο άρθρο του θηλυκού στη γενική;",
+      "tr": "Dişil belirsiz artikelin -in hâli hangisidir?",
+      "en": "Which is the feminine indefinite article in the genitive?"
+     },
+     "options": [
+      {
+       "el": "ενός",
+       "tr": "ενός",
+       "en": "ενός"
+      },
+      {
+       "el": "μιας / μίας",
+       "tr": "μιας / μίας",
+       "en": "μιας / μίας"
+      },
+      {
+       "el": "μια / μία",
+       "tr": "μια / μία",
+       "en": "μια / μία"
+      },
+      {
+       "el": "μιαν / μίαν",
+       "tr": "μιαν / μίαν",
+       "en": "μιαν / μίαν"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα: θηλυκό, γενική = «μιας / μίας».",
+      "tr": "Tabloda: dişil -in hâli = «μιας / μίας».",
+      "en": "In the table: feminine genitive = «μιας / μίας»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι το αόριστο άρθρο του αρσενικού στην αιτιατική;",
+      "tr": "Eril belirsiz artikelin -i hâli hangisidir?",
+      "en": "Which is the masculine indefinite article in the accusative?"
+     },
+     "options": [
+      {
+       "el": "έναν / ένα",
+       "tr": "έναν / ένα",
+       "en": "έναν / ένα"
+      },
+      {
+       "el": "ένας",
+       "tr": "ένας",
+       "en": "ένας"
+      },
+      {
+       "el": "ενός",
+       "tr": "ενός",
+       "en": "ενός"
+      },
+      {
+       "el": "ενάς / ένα",
+       "tr": "ενάς / ένα",
+       "en": "ενάς / ένα"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα: αρσενικό, αιτιατική = «έναν / ένα».",
+      "tr": "Tabloda: eril -i hâli = «έναν / ένα».",
+      "en": "In the table: masculine accusative = «έναν / ένα»."
+     }
+    },
+    {
+     "q": {
+      "el": "«Έχω ένα βιβλίο.» Πώς λέμε το ίδιο στον πληθυντικό;",
+      "tr": "«Έχω ένα βιβλίο.» (Bir kitabım var.) Çoğulu nasıl söylenir?",
+      "en": "«Έχω ένα βιβλίο.» How do you say it in the plural?"
+     },
+     "options": [
+      {
+       "el": "Έχω ένα βιβλία.",
+       "tr": "Έχω ένα βιβλία.",
+       "en": "Έχω ένα βιβλία."
+      },
+      {
+       "el": "Έχω ένες βιβλία.",
+       "tr": "Έχω ένες βιβλία.",
+       "en": "Έχω ένες βιβλία."
+      },
+      {
+       "el": "Έχω ενός βιβλία.",
+       "tr": "Έχω ενός βιβλία.",
+       "en": "Έχω ενός βιβλία."
+      },
+      {
+       "el": "Έχω βιβλία.",
+       "tr": "Έχω βιβλία.",
+       "en": "Έχω βιβλία."
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Το αόριστο άρθρο έχει μόνο ενικό· στον πληθυντικό δεν βάζουμε άρθρο: «Έχω βιβλία».",
+      "tr": "Belirsiz artikelin yalnızca tekili vardır; çoğulda artikel kullanılmaz: «Έχω βιβλία».",
+      "en": "The indefinite article has only a singular; in the plural no article is used: «Έχω βιβλία»."
+     }
+    },
+    {
+     "q": {
+      "el": "Τι τονίζει ο τύπος «μία»;",
+      "tr": "«μία» biçimi neyi vurgular?",
+      "en": "What does the form «μία» stress?"
+     },
+     "options": [
+      {
+       "el": "ότι είναι πληθυντικός",
+       "tr": "çoğul olduğunu",
+       "en": "that it is plural"
+      },
+      {
+       "el": "ότι είναι αρσενικό",
+       "tr": "eril olduğunu",
+       "en": "that it is masculine"
+      },
+      {
+       "el": "ότι είναι «μόνο μία»",
+       "tr": "«yalnızca bir tane» olduğunu",
+       "en": "that it is “only one”"
+      },
+      {
+       "el": "ότι είναι γενική",
+       "tr": "-in hâlinde olduğunu",
+       "en": "that it is genitive"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Ο τύπος «μία» τονίζει ότι πρόκειται για «μόνο μία».",
+      "tr": "«μία» biçimi «yalnızca bir tane» anlamını vurgular.",
+      "en": "The form «μία» stresses “only one”."
+     }
+    },
+    {
+     "q": {
+      "el": "Σε ποια περίπτωση ΔΕΝ βάζουμε άρθρο, σύμφωνα με το μάθημα;",
+      "tr": "Derse göre hangi durumda artikel KULLANILMAZ?",
+      "en": "According to the lesson, when is NO article used?"
+     },
+     "options": [
+      {
+       "el": "με κύρια ονόματα (η Μαρία)",
+       "tr": "özel isimlerle (η Μαρία)",
+       "en": "with proper names (η Μαρία)"
+      },
+      {
+       "el": "μετά το «είμαι» για επάγγελμα (Είμαι γιατρός)",
+       "tr": "«είμαι»dan sonra meslek için (Είμαι γιατρός)",
+       "en": "after «είμαι» with a job (Είμαι γιατρός)"
+      },
+      {
+       "el": "με κτητικό (το σπίτι μου)",
+       "tr": "iyelik zamiriyle (το σπίτι μου)",
+       "en": "with a possessive (το σπίτι μου)"
+      },
+      {
+       "el": "με μέρες (την Κυριακή)",
+       "tr": "günlerle (την Κυριακή)",
+       "en": "with days (την Κυριακή)"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Χωρίς άρθρο λέμε επάγγελμα μετά το «είμαι» (Είμαι γιατρός) και πολλές εκφράσεις (Πίνω νερό).",
+      "tr": "Meslek «είμαι»dan sonra artikelsiz söylenir (Είμαι γιατρός); birçok kalıp da öyledir (Πίνω νερό).",
+      "en": "A job after «είμαι» takes no article (Είμαι γιατρός), as do many set phrases (Πίνω νερό)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια πρόταση είναι σωστή σύμφωνα με το μάθημα;",
+      "tr": "Derse göre hangi cümle doğrudur?",
+      "en": "Which sentence is correct according to the lesson?"
+     },
+     "options": [
+      {
+       "el": "Υγεία είναι σημαντική.",
+       "tr": "Υγεία είναι σημαντική.",
+       "en": "Υγεία είναι σημαντική."
+      },
+      {
+       "el": "Το υγεία είναι σημαντική.",
+       "tr": "Το υγεία είναι σημαντική.",
+       "en": "Το υγεία είναι σημαντική."
+      },
+      {
+       "el": "Μια υγεία είναι σημαντική.",
+       "tr": "Μια υγεία είναι σημαντική.",
+       "en": "Μια υγεία είναι σημαντική."
+      },
+      {
+       "el": "Η υγεία είναι σημαντική.",
+       "tr": "Η υγεία είναι σημαντική.",
+       "en": "Η υγεία είναι σημαντική."
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Με γενικές και αφηρημένες έννοιες βάζουμε οριστικό άρθρο: «Η υγεία είναι σημαντική».",
+      "tr": "Genel ve soyut kavramlarla belirli artikel kullanılır: «Η υγεία είναι σημαντική».",
+      "en": "General and abstract ideas take the definite article: «Η υγεία είναι σημαντική»."
+     }
+    },
+    {
+     "q": {
+      "el": "σε + το σπίτι = ;",
+      "tr": "σε + το σπίτι = ?",
+      "en": "σε + το σπίτι = ?"
+     },
+     "options": [
+      {
+       "el": "σε το σπίτι",
+       "tr": "σε το σπίτι",
+       "en": "σε το σπίτι"
+      },
+      {
+       "el": "στον σπίτι",
+       "tr": "στον σπίτι",
+       "en": "στον σπίτι"
+      },
+      {
+       "el": "στο σπίτι",
+       "tr": "στο σπίτι",
+       "en": "στο σπίτι"
+      },
+      {
+       "el": "στα σπίτι",
+       "tr": "στα σπίτι",
+       "en": "στα σπίτι"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Η πρόθεση σε ενώνεται με το άρθρο: σε + το = στο· ποτέ «σε το σπίτι».",
+      "tr": "σε edatı artikelle birleşir: σε + το = στο; asla «σε το σπίτι» denmez.",
+      "en": "σε merges with the article: σε + το = στο; never «σε το σπίτι»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια μορφή είναι σε + άρθρο στο θηλυκό πληθυντικού;",
+      "tr": "Dişil çoğulda σε + artikel hangi biçimi alır?",
+      "en": "What is σε + article in the feminine plural?"
+     },
+     "options": [
+      {
+       "el": "στους",
+       "tr": "στους",
+       "en": "στους"
+      },
+      {
+       "el": "στις",
+       "tr": "στις",
+       "en": "στις"
+      },
+      {
+       "el": "στα",
+       "tr": "στα",
+       "en": "στα"
+      },
+      {
+       "el": "στη(ν)",
+       "tr": "στη(ν)",
+       "en": "στη(ν)"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα σε + άρθρο: θηλυκό πληθυντικός = «στις».",
+      "tr": "σε + artikel tablosunda: dişil çoğul = «στις».",
+      "en": "In the σε + article table: feminine plural = «στις»."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς λέμε «Atina'da oturuyorum»;",
+      "tr": "«Atina'da oturuyorum» nasıl söylenir?",
+      "en": "How do you say “I live in Athens”?"
+     },
+     "options": [
+      {
+       "el": "Μένω σε Αθήνα.",
+       "tr": "Μένω σε Αθήνα.",
+       "en": "Μένω σε Αθήνα."
+      },
+      {
+       "el": "Μένω στη Αθήνα.",
+       "tr": "Μένω στη Αθήνα.",
+       "en": "Μένω στη Αθήνα."
+      },
+      {
+       "el": "Μένω στον Αθήνα.",
+       "tr": "Μένω στον Αθήνα.",
+       "en": "Μένω στον Αθήνα."
+      },
+      {
+       "el": "Μένω στην Αθήνα.",
+       "tr": "Μένω στην Αθήνα.",
+       "en": "Μένω στην Αθήνα."
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Πριν από ονόματα πόλεων κρατάμε το άρθρο: «στην Αθήνα», όχι «σε Αθήνα».",
+      "tr": "Şehir adlarından önce artikel kalır: «σε Αθήνα» değil «στην Αθήνα».",
+      "en": "City names keep the article: «στην Αθήνα», not «σε Αθήνα»."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς λέμε «σε + ένα σπίτι»;",
+      "tr": "«σε + ένα σπίτι» nasıl söylenir?",
+      "en": "How do you say «σε + ένα σπίτι»?"
+     },
+     "options": [
+      {
+       "el": "στένα σπίτι",
+       "tr": "στένα σπίτι",
+       "en": "στένα σπίτι"
+      },
+      {
+       "el": "σε ένα σπίτι",
+       "tr": "σε ένα σπίτι",
+       "en": "σε ένα σπίτι"
+      },
+      {
+       "el": "στον ένα σπίτι",
+       "tr": "στον ένα σπίτι",
+       "en": "στον ένα σπίτι"
+      },
+      {
+       "el": "σε έναν σπίτι",
+       "tr": "σε έναν σπίτι",
+       "en": "σε έναν σπίτι"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Το σε δεν ενώνεται με το αόριστο άρθρο: «σε ένα σπίτι» (προφορικά και «σ' ένα»).",
+      "tr": "σε belirsiz artikelle birleşmez: «σε ένα σπίτι» (konuşmada «σ' ένα»).",
+      "en": "σε does not merge with the indefinite article: «σε ένα σπίτι» (in speech «σ' ένα»)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος ελληνικός όρος σημαίνει «αόριστο άρθρο» (belirsiz artikel / indefinite article);",
+      "tr": "«belirsiz artikel» hangi Yunanca terimle söylenir?",
+      "en": "Which Greek term means “indefinite article”?"
+     },
+     "options": [
+      {
+       "el": "αόριστο άρθρο",
+       "tr": "αόριστο άρθρο",
+       "en": "αόριστο άρθρο"
+      },
+      {
+       "el": "οριστικό άρθρο",
+       "tr": "οριστικό άρθρο",
+       "en": "οριστικό άρθρο"
+      },
+      {
+       "el": "πρόθεση",
+       "tr": "πρόθεση",
+       "en": "πρόθεση"
+      },
+      {
+       "el": "γένος",
+       "tr": "γένος",
+       "en": "γένος"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "αόριστο άρθρο = belirsiz artikel = indefinite article.",
+      "tr": "αόριστο άρθρο = belirsiz artikel.",
+      "en": "αόριστο άρθρο = indefinite article."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος ελληνικός όρος σημαίνει «πρόθεση»;",
+      "tr": "«edat» hangi Yunanca terimle söylenir?",
+      "en": "Which Greek term means “preposition”?"
+     },
+     "options": [
+      {
+       "el": "πτώση",
+       "tr": "πτώση",
+       "en": "πτώση"
+      },
+      {
+       "el": "ενικός",
+       "tr": "ενικός",
+       "en": "ενικός"
+      },
+      {
+       "el": "ουδέτερο",
+       "tr": "ουδέτερο",
+       "en": "ουδέτερο"
+      },
+      {
+       "el": "πρόθεση",
+       "tr": "πρόθεση",
+       "en": "πρόθεση"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "πρόθεση = edat = preposition (π.χ. σε).",
+      "tr": "πρόθεση = edat (ör. σε).",
+      "en": "πρόθεση = preposition (e.g. σε)."
+     }
+    }
    ]
   },
   {
@@ -694,6 +1536,778 @@
     "https://en.wiktionary.org/wiki/ο",
     "https://en.wiktionary.org/wiki/δρόμος",
     "https://el.wiktionary.org/wiki/άνθρωπος"
+   ],
+   "quiz": [
+    {
+     "q": {
+      "el": "Πόσες πτώσεις έχουν τα ελληνικά;",
+      "tr": "Yunancada kaç hâl vardır?",
+      "en": "How many cases does Greek have?"
+     },
+     "options": [
+      {
+       "el": "τρεις",
+       "tr": "üç",
+       "en": "three"
+      },
+      {
+       "el": "πέντε",
+       "tr": "beş",
+       "en": "five"
+      },
+      {
+       "el": "έξι",
+       "tr": "altı",
+       "en": "six"
+      },
+      {
+       "el": "τέσσερις",
+       "tr": "dört",
+       "en": "four"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Οι πτώσεις είναι τέσσερις: ονομαστική, γενική, αιτιατική, κλητική.",
+      "tr": "Dört hâl vardır: yalın, -in, -i ve seslenme hâli.",
+      "en": "There are four cases: nominative, genitive, accusative, vocative."
+     }
+    },
+    {
+     "q": {
+      "el": "Τι αλλάζει όταν αλλάζει η πτώση;",
+      "tr": "Hâl değişince ne değişir?",
+      "en": "What changes when the case changes?"
+     },
+     "options": [
+      {
+       "el": "μόνο το άρθρο",
+       "tr": "yalnızca artikel",
+       "en": "only the article"
+      },
+      {
+       "el": "η κατάληξη του ουσιαστικού και μαζί το άρθρο",
+       "tr": "ismin eki ve onunla birlikte artikel",
+       "en": "the noun's ending and, with it, the article"
+      },
+      {
+       "el": "μόνο η σειρά των λέξεων",
+       "tr": "yalnızca kelime sırası",
+       "en": "only the word order"
+      },
+      {
+       "el": "τίποτα, μόνο ο τόνος",
+       "tr": "hiçbir şey, yalnızca vurgu",
+       "en": "nothing but the stress"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Αλλάζει η κατάληξη του ουσιαστικού και μαζί το άρθρο: ο δρόμος – του δρόμου – τον δρόμο.",
+      "tr": "İsmin eki ile artikel birlikte değişir: ο δρόμος – του δρόμου – τον δρόμο.",
+      "en": "The noun ending and the article change together: ο δρόμος – του δρόμου – τον δρόμο."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια πτώση δείχνει το υποκείμενο (ποιος; τι;);",
+      "tr": "Hangi hâl özneyi gösterir (kim? ne?)?",
+      "en": "Which case marks the subject (who? what?)?"
+     },
+     "options": [
+      {
+       "el": "Γενική",
+       "tr": "-in hâli (tamlayan)",
+       "en": "Genitive"
+      },
+      {
+       "el": "Αιτιατική",
+       "tr": "-i hâli (belirtme)",
+       "en": "Accusative"
+      },
+      {
+       "el": "Κλητική",
+       "tr": "Seslenme hâli",
+       "en": "Vocative"
+      },
+      {
+       "el": "Ονομαστική",
+       "tr": "Yalın hâl",
+       "en": "Nominative"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Η ονομαστική είναι η πτώση του υποκειμένου: «Ο Νίκος δουλεύει».",
+      "tr": "Yalın hâl öznenin hâlidir: «Ο Νίκος δουλεύει».",
+      "en": "The nominative is the subject case: «Ο Νίκος δουλεύει»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια πτώση δείχνει κτήση (ποιανού;);",
+      "tr": "Hangi hâl iyelik gösterir (kimin?)?",
+      "en": "Which case shows possession (whose?)?"
+     },
+     "options": [
+      {
+       "el": "Γενική",
+       "tr": "-in hâli (tamlayan)",
+       "en": "Genitive"
+      },
+      {
+       "el": "Ονομαστική",
+       "tr": "Yalın hâl",
+       "en": "Nominative"
+      },
+      {
+       "el": "Αιτιατική",
+       "tr": "-i hâli (belirtme)",
+       "en": "Accusative"
+      },
+      {
+       "el": "Κλητική",
+       "tr": "Seslenme hâli",
+       "en": "Vocative"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Η γενική δείχνει κτήση και μοιάζει με το τουρκικό -in.",
+      "tr": "-in hâli iyelik gösterir; Türkçedeki tamlayana benzer.",
+      "en": "The genitive shows possession, like Turkish -in."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια πτώση χρησιμοποιούμε για το αντικείμενο και μετά από προθέσεις;",
+      "tr": "Nesne için ve edatlardan sonra hangi hâl kullanılır?",
+      "en": "Which case is used for the object and after prepositions?"
+     },
+     "options": [
+      {
+       "el": "Ονομαστική",
+       "tr": "Yalın hâl",
+       "en": "Nominative"
+      },
+      {
+       "el": "Γενική",
+       "tr": "-in hâli (tamlayan)",
+       "en": "Genitive"
+      },
+      {
+       "el": "Κλητική",
+       "tr": "Seslenme hâli",
+       "en": "Vocative"
+      },
+      {
+       "el": "Αιτιατική",
+       "tr": "-i hâli (belirtme)",
+       "en": "Accusative"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Η αιτιατική είναι η πτώση του αντικειμένου και μπαίνει μετά από προθέσεις.",
+      "tr": "-i hâli nesnenin hâlidir ve edatlardan sonra gelir.",
+      "en": "The accusative is the object case and follows prepositions."
+     }
+    },
+    {
+     "q": {
+      "el": "Σε ποια πτώση είναι το «Νίκο» στο «Νίκο, έλα!»;",
+      "tr": "«Νίκο, έλα!» cümlesinde «Νίκο» hangi hâldedir?",
+      "en": "In «Νίκο, έλα!», what case is «Νίκο»?"
+     },
+     "options": [
+      {
+       "el": "Κλητική",
+       "tr": "Seslenme hâli",
+       "en": "Vocative"
+      },
+      {
+       "el": "Ονομαστική",
+       "tr": "Yalın hâl",
+       "en": "Nominative"
+      },
+      {
+       "el": "Γενική",
+       "tr": "-in hâli (tamlayan)",
+       "en": "Genitive"
+      },
+      {
+       "el": "Αιτιατική",
+       "tr": "-i hâli (belirtme)",
+       "en": "Accusative"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Η κλητική χρησιμοποιείται όταν φωνάζουμε κάποιον: «Νίκο, έλα!».",
+      "tr": "Seslenme hâli birine seslenirken kullanılır: «Νίκο, έλα!».",
+      "en": "The vocative is used when calling someone: «Νίκο, έλα!»."
+     }
+    },
+    {
+     "q": {
+      "el": "Σε ποια πτώση είναι το «του Νίκου» στο «το σπίτι του Νίκου»;",
+      "tr": "«το σπίτι του Νίκου» ifadesinde «του Νίκου» hangi hâldedir?",
+      "en": "In «το σπίτι του Νίκου», what case is «του Νίκου»?"
+     },
+     "options": [
+      {
+       "el": "Ονομαστική",
+       "tr": "Yalın hâl",
+       "en": "Nominative"
+      },
+      {
+       "el": "Αιτιατική",
+       "tr": "-i hâli (belirtme)",
+       "en": "Accusative"
+      },
+      {
+       "el": "Γενική",
+       "tr": "-in hâli (tamlayan)",
+       "en": "Genitive"
+      },
+      {
+       "el": "Κλητική",
+       "tr": "Seslenme hâli",
+       "en": "Vocative"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "«το σπίτι του Νίκου» είναι το παράδειγμα της γενικής (κτήση).",
+      "tr": "«το σπίτι του Νίκου» -in hâlinin (iyelik) örneğidir.",
+      "en": "«το σπίτι του Νίκου» is the lesson's example of the genitive (possession)."
+     }
+    },
+    {
+     "q": {
+      "el": "Σε ποια πτώση είναι το «τον Νίκο» στο «Βλέπω τον Νίκο»;",
+      "tr": "«Βλέπω τον Νίκο» cümlesinde «τον Νίκο» hangi hâldedir?",
+      "en": "In «Βλέπω τον Νίκο», what case is «τον Νίκο»?"
+     },
+     "options": [
+      {
+       "el": "Ονομαστική",
+       "tr": "Yalın hâl",
+       "en": "Nominative"
+      },
+      {
+       "el": "Αιτιατική",
+       "tr": "-i hâli (belirtme)",
+       "en": "Accusative"
+      },
+      {
+       "el": "Γενική",
+       "tr": "-in hâli (tamlayan)",
+       "en": "Genitive"
+      },
+      {
+       "el": "Κλητική",
+       "tr": "Seslenme hâli",
+       "en": "Vocative"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Το αντικείμενο μπαίνει σε αιτιατική: «Βλέπω τον Νίκο».",
+      "tr": "Nesne -i hâlindedir: «Βλέπω τον Νίκο».",
+      "en": "The object is in the accusative: «Βλέπω τον Νίκο»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια πτώση παίρνουν οι προθέσεις σε, από, με, για, χωρίς, μέχρι;",
+      "tr": "σε, από, με, για, χωρίς, μέχρι edatları hangi hâli alır?",
+      "en": "Which case do σε, από, με, για, χωρίς, μέχρι take?"
+     },
+     "options": [
+      {
+       "el": "Ονομαστική",
+       "tr": "Yalın hâl",
+       "en": "Nominative"
+      },
+      {
+       "el": "Γενική",
+       "tr": "-in hâli (tamlayan)",
+       "en": "Genitive"
+      },
+      {
+       "el": "Κλητική",
+       "tr": "Seslenme hâli",
+       "en": "Vocative"
+      },
+      {
+       "el": "Αιτιατική",
+       "tr": "-i hâli (belirtme)",
+       "en": "Accusative"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Όλες οι συνηθισμένες προθέσεις παίρνουν αιτιατική.",
+      "tr": "Yaygın edatların hepsi -i hâli alır.",
+      "en": "All the common prepositions take the accusative."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς λέμε «evden» στα ελληνικά;",
+      "tr": "«evden» Yunancada nasıl söylenir?",
+      "en": "How do you say “from home” (Turkish «evden»)?"
+     },
+     "options": [
+      {
+       "el": "στο σπίτι",
+       "tr": "στο σπίτι",
+       "en": "στο σπίτι"
+      },
+      {
+       "el": "από το σπίτι",
+       "tr": "από το σπίτι",
+       "en": "από το σπίτι"
+      },
+      {
+       "el": "με το σπίτι",
+       "tr": "με το σπίτι",
+       "en": "με το σπίτι"
+      },
+      {
+       "el": "του σπιτιού",
+       "tr": "του σπιτιού",
+       "en": "του σπιτιού"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Το τουρκικό -den αποδίδεται με πρόθεση + αιτιατική: «από το σπίτι».",
+      "tr": "Türkçedeki -den edat + -i hâli ile verilir: «από το σπίτι».",
+      "en": "Turkish -den is expressed with preposition + accusative: «από το σπίτι»."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς λέμε «arkadaşla» (με τον φίλο) στα ελληνικά;",
+      "tr": "«arkadaşla» Yunancada nasıl söylenir?",
+      "en": "How do you say “with the friend” (Turkish «arkadaşla»)?"
+     },
+     "options": [
+      {
+       "el": "στον φίλο",
+       "tr": "στον φίλο",
+       "en": "στον φίλο"
+      },
+      {
+       "el": "από τον φίλο",
+       "tr": "από τον φίλο",
+       "en": "από τον φίλο"
+      },
+      {
+       "el": "του φίλου",
+       "tr": "του φίλου",
+       "en": "του φίλου"
+      },
+      {
+       "el": "με τον φίλο",
+       "tr": "με τον φίλο",
+       "en": "με τον φίλο"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Το μάθημα δίνει: «με τον φίλο» = arkadaşla (με + αιτιατική).",
+      "tr": "Derste: «με τον φίλο» = arkadaşla (με + -i hâli).",
+      "en": "The lesson gives «με τον φίλο» = with the friend (με + accusative)."
+     }
+    },
+    {
+     "q": {
+      "el": "«Δίνω το βιβλίο στη Μαρία.» Ποια πρόταση σημαίνει το ίδιο;",
+      "tr": "«Δίνω το βιβλίο στη Μαρία.» Hangi cümle aynı anlamdadır?",
+      "en": "«Δίνω το βιβλίο στη Μαρία.» Which sentence means the same?"
+     },
+     "options": [
+      {
+       "el": "Δίνω η Μαρία το βιβλίο.",
+       "tr": "Δίνω η Μαρία το βιβλίο.",
+       "en": "Δίνω η Μαρία το βιβλίο."
+      },
+      {
+       "el": "Δίνω τη Μαρία το βιβλίο.",
+       "tr": "Δίνω τη Μαρία το βιβλίο.",
+       "en": "Δίνω τη Μαρία το βιβλίο."
+      },
+      {
+       "el": "Δίνω της Μαρίας το βιβλίο.",
+       "tr": "Δίνω της Μαρίας το βιβλίο.",
+       "en": "Δίνω της Μαρίας το βιβλίο."
+      },
+      {
+       "el": "Δίνω Μαρία το βιβλίο.",
+       "tr": "Δίνω Μαρία το βιβλίο.",
+       "en": "Δίνω Μαρία το βιβλίο."
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Ο έμμεσος αποδέκτης εκφράζεται με σε + αιτιατική ή με γενική: στη Μαρία = της Μαρίας.",
+      "tr": "Dolaylı tümleç σε + -i hâli ya da -in hâli ile verilir: στη Μαρία = της Μαρίας.",
+      "en": "The indirect object uses σε + accusative or the genitive: στη Μαρία = της Μαρίας."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς λέμε «pazar günü» (την Κυριακή);",
+      "tr": "«pazar günü» nasıl söylenir?",
+      "en": "How do you say “on Sunday”?"
+     },
+     "options": [
+      {
+       "el": "της Κυριακής",
+       "tr": "της Κυριακής",
+       "en": "της Κυριακής"
+      },
+      {
+       "el": "η Κυριακή",
+       "tr": "η Κυριακή",
+       "en": "η Κυριακή"
+      },
+      {
+       "el": "στις Κυριακή",
+       "tr": "στις Κυριακή",
+       "en": "στις Κυριακή"
+      },
+      {
+       "el": "την Κυριακή",
+       "tr": "την Κυριακή",
+       "en": "την Κυριακή"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Οι εκφράσεις χρόνου είναι σε αιτιατική χωρίς πρόθεση: «την Κυριακή».",
+      "tr": "Zaman ifadeleri edatsız -i hâlindedir: «την Κυριακή».",
+      "en": "Time expressions use the accusative without a preposition: «την Κυριακή»."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς λέμε «sabahleyin» (in the morning);",
+      "tr": "«sabahleyin» nasıl söylenir?",
+      "en": "How do you say “in the morning”?"
+     },
+     "options": [
+      {
+       "el": "του πρωιού",
+       "tr": "του πρωιού",
+       "en": "του πρωιού"
+      },
+      {
+       "el": "το πρωί",
+       "tr": "το πρωί",
+       "en": "το πρωί"
+      },
+      {
+       "el": "τα πρωί",
+       "tr": "τα πρωί",
+       "en": "τα πρωί"
+      },
+      {
+       "el": "ο πρωί",
+       "tr": "ο πρωί",
+       "en": "ο πρωί"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Έκφραση χρόνου σε αιτιατική χωρίς πρόθεση: «το πρωί».",
+      "tr": "Edatsız -i hâlinde zaman ifadesi: «το πρωί».",
+      "en": "A time expression in the accusative without a preposition: «το πρωί»."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς λέμε «Nikos'un evi»;",
+      "tr": "«Nikos'un evi» nasıl söylenir?",
+      "en": "How do you say “Nikos's house”?"
+     },
+     "options": [
+      {
+       "el": "το Νίκου σπίτι",
+       "tr": "το Νίκου σπίτι",
+       "en": "το Νίκου σπίτι"
+      },
+      {
+       "el": "ο Νίκος το σπίτι",
+       "tr": "ο Νίκος το σπίτι",
+       "en": "ο Νίκος το σπίτι"
+      },
+      {
+       "el": "το σπίτι ο Νίκος",
+       "tr": "το σπίτι ο Νίκος",
+       "en": "το σπίτι ο Νίκος"
+      },
+      {
+       "el": "το σπίτι του Νίκου",
+       "tr": "το σπίτι του Νίκου",
+       "en": "το σπίτι του Νίκου"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στη γενική η σειρά είναι ανάποδη από τα τουρκικά: πρώτα το κτήμα, μετά ο κάτοχος – «το σπίτι του Νίκου».",
+      "tr": "-in hâlinde sıra Türkçenin tersidir: önce sahip olunan, sonra sahip – «το σπίτι του Νίκου».",
+      "en": "With the genitive the order is reversed from Turkish: owned thing first, then owner – «το σπίτι του Νίκου»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι σωστό για τη γενική σε σχέση με το τουρκικό -in;",
+      "tr": "-in hâli için Türkçeye göre hangisi doğrudur?",
+      "en": "Which is true about the genitive compared with Turkish -in?"
+     },
+     "options": [
+      {
+       "el": "Η σειρά είναι ανάποδη: πρώτα το κτήμα, μετά ο κάτοχος.",
+       "tr": "Sıra terstir: önce sahip olunan, sonra sahip.",
+       "en": "The order is reversed: the owned thing first, then the owner."
+      },
+      {
+       "el": "Η σειρά είναι ίδια: πρώτα ο κάτοχος.",
+       "tr": "Sıra aynıdır: önce sahip.",
+       "en": "The order is the same: owner first."
+      },
+      {
+       "el": "Η γενική δεν έχει άρθρο.",
+       "tr": "-in hâlinde artikel yoktur.",
+       "en": "The genitive has no article."
+      },
+      {
+       "el": "Η γενική μπαίνει πάντα μετά από πρόθεση.",
+       "tr": "-in hâli her zaman edattan sonra gelir.",
+       "en": "The genitive always follows a preposition."
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Η γενική μοιάζει με το -in, αλλά πρώτα έρχεται το «κτήμα» και μετά ο «κάτοχος».",
+      "tr": "-in hâli tamlayana benzer ama önce sahip olunan, sonra sahip gelir.",
+      "en": "The genitive is like -in, but the owned thing comes first, then the owner."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η αιτιατική ενικού του «η ώρα»;",
+      "tr": "«η ώρα» kelimesinin tekil -i hâli hangisidir?",
+      "en": "What is the accusative singular of «η ώρα»?"
+     },
+     "options": [
+      {
+       "el": "την ώρας",
+       "tr": "την ώρας",
+       "en": "την ώρας"
+      },
+      {
+       "el": "την ώρα",
+       "tr": "την ώρα",
+       "en": "την ώρα"
+      },
+      {
+       "el": "τη ώρες",
+       "tr": "τη ώρες",
+       "en": "τη ώρες"
+      },
+      {
+       "el": "τον ώρα",
+       "tr": "τον ώρα",
+       "en": "τον ώρα"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στα θηλυκά η ονομαστική και η αιτιατική ενικού έχουν συνήθως ίδια κατάληξη· αλλάζει μόνο το άρθρο: η ώρα → την ώρα.",
+      "tr": "Dişillerde tekil yalın ve -i hâli genellikle aynı biter; yalnızca artikel değişir: η ώρα → την ώρα.",
+      "en": "In feminines the nominative and accusative singular usually share the ending; only the article changes: η ώρα → την ώρα."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια ουσιαστικά έχουν τις περισσότερες αλλαγές στις πτώσεις;",
+      "tr": "Hâllerde en çok değişen isimler hangileridir?",
+      "en": "Which nouns change the most across the cases?"
+     },
+     "options": [
+      {
+       "el": "τα θηλυκά",
+       "tr": "dişil isimler",
+       "en": "feminine nouns"
+      },
+      {
+       "el": "τα ουδέτερα",
+       "tr": "nötr isimler",
+       "en": "neuter nouns"
+      },
+      {
+       "el": "τα αρσενικά",
+       "tr": "eril isimler",
+       "en": "masculine nouns"
+      },
+      {
+       "el": "όλα το ίδιο",
+       "tr": "hepsi eşit",
+       "en": "all equally"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Τις περισσότερες αλλαγές τις έχουν τα αρσενικά.",
+      "tr": "En çok değişen isimler erillerdir.",
+      "en": "Masculine nouns change the most."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η κλητική του «ο δρόμος» στο παράδειγμα του μαθήματος;",
+      "tr": "Dersteki örnekte «ο δρόμος» kelimesinin seslenme hâli hangisidir?",
+      "en": "In the lesson's example, what is the vocative of «ο δρόμος»?"
+     },
+     "options": [
+      {
+       "el": "δρόμο",
+       "tr": "δρόμο",
+       "en": "δρόμο"
+      },
+      {
+       "el": "δρόμου",
+       "tr": "δρόμου",
+       "en": "δρόμου"
+      },
+      {
+       "el": "δρόμος",
+       "tr": "δρόμος",
+       "en": "δρόμος"
+      },
+      {
+       "el": "δρόμε",
+       "tr": "δρόμε",
+       "en": "δρόμε"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Το μάθημα δίνει: ο δρόμος – του δρόμου – τον δρόμο – δρόμε.",
+      "tr": "Derste: ο δρόμος – του δρόμου – τον δρόμο – δρόμε.",
+      "en": "The lesson gives: ο δρόμος – του δρόμου – τον δρόμο – δρόμε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος ελληνικός όρος σημαίνει «κατάληξη» (ek / ending);",
+      "tr": "«ek / son ek» hangi Yunanca terimle söylenir?",
+      "en": "Which Greek term means “ending”?"
+     },
+     "options": [
+      {
+       "el": "κλίση",
+       "tr": "κλίση",
+       "en": "κλίση"
+      },
+      {
+       "el": "πτώση",
+       "tr": "πτώση",
+       "en": "πτώση"
+      },
+      {
+       "el": "κατάληξη",
+       "tr": "κατάληξη",
+       "en": "κατάληξη"
+      },
+      {
+       "el": "υποκείμενο",
+       "tr": "υποκείμενο",
+       "en": "υποκείμενο"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "κατάληξη = ek / son ek = ending.",
+      "tr": "κατάληξη = ek / son ek.",
+      "en": "κατάληξη = ending."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος ελληνικός όρος σημαίνει «κλίση» (çekim / declension);",
+      "tr": "«çekim» hangi Yunanca terimle söylenir?",
+      "en": "Which Greek term means “declension”?"
+     },
+     "options": [
+      {
+       "el": "κλίση",
+       "tr": "κλίση",
+       "en": "κλίση"
+      },
+      {
+       "el": "κατάληξη",
+       "tr": "κατάληξη",
+       "en": "κατάληξη"
+      },
+      {
+       "el": "αντικείμενο",
+       "tr": "αντικείμενο",
+       "en": "αντικείμενο"
+      },
+      {
+       "el": "κλητική",
+       "tr": "κλητική",
+       "en": "κλητική"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "κλίση = çekim = declension.",
+      "tr": "κλίση = çekim.",
+      "en": "κλίση = declension."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος ελληνικός όρος σημαίνει «αντικείμενο» (nesne / object);",
+      "tr": "«nesne» hangi Yunanca terimle söylenir?",
+      "en": "Which Greek term means “object”?"
+     },
+     "options": [
+      {
+       "el": "υποκείμενο",
+       "tr": "υποκείμενο",
+       "en": "υποκείμενο"
+      },
+      {
+       "el": "αντικείμενο",
+       "tr": "αντικείμενο",
+       "en": "αντικείμενο"
+      },
+      {
+       "el": "πτώση",
+       "tr": "πτώση",
+       "en": "πτώση"
+      },
+      {
+       "el": "γενική",
+       "tr": "γενική",
+       "en": "γενική"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "αντικείμενο = nesne = object· υποκείμενο = özne = subject.",
+      "tr": "αντικείμενο = nesne; υποκείμενο = özne.",
+      "en": "αντικείμενο = object; υποκείμενο = subject."
+     }
+    }
    ]
   },
   {
@@ -946,6 +2560,883 @@
     "https://el.wiktionary.org/wiki/καφές",
     "https://en.wiktionary.org/wiki/ψαράς",
     "https://en.wiktionary.org/wiki/παππούς"
+   ],
+   "quiz": [
+    {
+     "q": {
+      "el": "Σε τι τελειώνουν κυρίως τα αρσενικά ουσιαστικά;",
+      "tr": "Eril isimler çoğunlukla hangi eklerle biter?",
+      "en": "What do masculine nouns mostly end in?"
+     },
+     "options": [
+      {
+       "el": "-ος, -ας, -ης",
+       "tr": "-ος, -ας, -ης",
+       "en": "-ος, -ας, -ης"
+      },
+      {
+       "el": "-α, -η, -ο",
+       "tr": "-α, -η, -ο",
+       "en": "-α, -η, -ο"
+      },
+      {
+       "el": "-ι, -μα, -ο",
+       "tr": "-ι, -μα, -ο",
+       "en": "-ι, -μα, -ο"
+      },
+      {
+       "el": "-ες, -εις, -η",
+       "tr": "-ες, -εις, -η",
+       "en": "-ες, -εις, -η"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Τα αρσενικά τελειώνουν κυρίως σε -ος, -ας, -ης και παίρνουν το άρθρο ο.",
+      "tr": "Eril isimler çoğunlukla -ος, -ας, -ης ile biter ve ο artikelini alır.",
+      "en": "Masculine nouns mostly end in -ος, -ας, -ης and take the article ο."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος τύπος αρσενικών έχει διαφορετική κατάληξη σχεδόν σε κάθε πτώση;",
+      "tr": "Hangi eril türün neredeyse her hâlde farklı bir eki vardır?",
+      "en": "Which masculine type has a different ending in almost every case?"
+     },
+     "options": [
+      {
+       "el": "ο τύπος σε -ας",
+       "tr": "-ας türü",
+       "en": "the -ας type"
+      },
+      {
+       "el": "ο τύπος σε -ος",
+       "tr": "-ος türü",
+       "en": "the -ος type"
+      },
+      {
+       "el": "ο τύπος σε -ης",
+       "tr": "-ης türü",
+       "en": "the -ης type"
+      },
+      {
+       "el": "ο τύπος σε -ούς",
+       "tr": "-ούς türü",
+       "en": "the -ούς type"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Ο τύπος σε -ος είναι ο πιο «πλούσιος»: έχει διαφορετική κατάληξη σχεδόν σε κάθε πτώση.",
+      "tr": "-ος türü en «zengin» olanıdır: neredeyse her hâlde farklı eki vardır.",
+      "en": "The -ος type is the “richest”: a different ending in almost every case."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού της λέξης «ο δρόμος»;",
+      "tr": "«ο δρόμος» isminin tekil -in hâli hangisidir?",
+      "en": "What is the genitive singular of «ο δρόμος»?"
+     },
+     "options": [
+      {
+       "el": "του δρόμου",
+       "tr": "του δρόμου",
+       "en": "του δρόμου"
+      },
+      {
+       "el": "του δρόμο",
+       "tr": "του δρόμο",
+       "en": "του δρόμο"
+      },
+      {
+       "el": "του δρόμος",
+       "tr": "του δρόμος",
+       "en": "του δρόμος"
+      },
+      {
+       "el": "του δρόμοι",
+       "tr": "του δρόμοι",
+       "en": "του δρόμοι"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού της λέξης «ο δρόμος» είναι «του δρόμου».",
+      "tr": "Çekim tablosunda «ο δρόμος» isminin tekil -in hâli: «του δρόμου».",
+      "en": "In the declension table the genitive singular of «ο δρόμος» is «του δρόμου»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η κλητική ενικού της λέξης «ο δρόμος»;",
+      "tr": "«ο δρόμος» isminin tekil seslenme hâli hangisidir?",
+      "en": "What is the vocative singular of «ο δρόμος»?"
+     },
+     "options": [
+      {
+       "el": "δρόμο",
+       "tr": "δρόμο",
+       "en": "δρόμο"
+      },
+      {
+       "el": "δρόμου",
+       "tr": "δρόμου",
+       "en": "δρόμου"
+      },
+      {
+       "el": "δρόμε",
+       "tr": "δρόμε",
+       "en": "δρόμε"
+      },
+      {
+       "el": "δρόμος",
+       "tr": "δρόμος",
+       "en": "δρόμος"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η κλητική ενικού της λέξης «ο δρόμος» είναι «δρόμε».",
+      "tr": "Çekim tablosunda «ο δρόμος» isminin tekil seslenme hâli: «δρόμε».",
+      "en": "In the declension table the vocative singular of «ο δρόμος» is «δρόμε»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η αιτιατική πληθυντικού της λέξης «ο δρόμος»;",
+      "tr": "«ο δρόμος» isminin çoğul -i hâli hangisidir?",
+      "en": "What is the accusative plural of «ο δρόμος»?"
+     },
+     "options": [
+      {
+       "el": "τους δρόμοι",
+       "tr": "τους δρόμοι",
+       "en": "τους δρόμοι"
+      },
+      {
+       "el": "τις δρόμους",
+       "tr": "τις δρόμους",
+       "en": "τις δρόμους"
+      },
+      {
+       "el": "τους δρόμου",
+       "tr": "τους δρόμου",
+       "en": "τους δρόμου"
+      },
+      {
+       "el": "τους δρόμους",
+       "tr": "τους δρόμους",
+       "en": "τους δρόμους"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η αιτιατική πληθυντικού της λέξης «ο δρόμος» είναι «τους δρόμους».",
+      "tr": "Çekim tablosunda «ο δρόμος» isminin çoğul -i hâli: «τους δρόμους».",
+      "en": "In the declension table the accusative plural of «ο δρόμος» is «τους δρόμους»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού της λέξης «ο άνθρωπος»;",
+      "tr": "«ο άνθρωπος» isminin tekil -in hâli hangisidir?",
+      "en": "What is the genitive singular of «ο άνθρωπος»?"
+     },
+     "options": [
+      {
+       "el": "του άνθρωπου",
+       "tr": "του άνθρωπου",
+       "en": "του άνθρωπου"
+      },
+      {
+       "el": "του ανθρώπου",
+       "tr": "του ανθρώπου",
+       "en": "του ανθρώπου"
+      },
+      {
+       "el": "του ανθρωπού",
+       "tr": "του ανθρωπού",
+       "en": "του ανθρωπού"
+      },
+      {
+       "el": "του άνθρωπο",
+       "tr": "του άνθρωπο",
+       "en": "του άνθρωπο"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού της λέξης «ο άνθρωπος» είναι «του ανθρώπου». Ο τόνος πάει μία συλλαβή δεξιά.",
+      "tr": "Çekim tablosunda «ο άνθρωπος» isminin tekil -in hâli: «του ανθρώπου». Vurgu bir hece sağa kayar.",
+      "en": "In the declension table the genitive singular of «ο άνθρωπος» is «του ανθρώπου». The stress moves one syllable right."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική πληθυντικού της λέξης «ο άνθρωπος»;",
+      "tr": "«ο άνθρωπος» isminin çoğul -in hâli hangisidir?",
+      "en": "What is the genitive plural of «ο άνθρωπος»?"
+     },
+     "options": [
+      {
+       "el": "των άνθρωπων",
+       "tr": "των άνθρωπων",
+       "en": "των άνθρωπων"
+      },
+      {
+       "el": "των ανθρωπών",
+       "tr": "των ανθρωπών",
+       "en": "των ανθρωπών"
+      },
+      {
+       "el": "των ανθρώπου",
+       "tr": "των ανθρώπου",
+       "en": "των ανθρώπου"
+      },
+      {
+       "el": "των ανθρώπων",
+       "tr": "των ανθρώπων",
+       "en": "των ανθρώπων"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική πληθυντικού της λέξης «ο άνθρωπος» είναι «των ανθρώπων».",
+      "tr": "Çekim tablosunda «ο άνθρωπος» isminin çoğul -in hâli: «των ανθρώπων».",
+      "en": "In the declension table the genitive plural of «ο άνθρωπος» is «των ανθρώπων»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η αιτιατική πληθυντικού της λέξης «ο άνθρωπος»;",
+      "tr": "«ο άνθρωπος» isminin çoğul -i hâli hangisidir?",
+      "en": "What is the accusative plural of «ο άνθρωπος»?"
+     },
+     "options": [
+      {
+       "el": "τους ανθρώπους",
+       "tr": "τους ανθρώπους",
+       "en": "τους ανθρώπους"
+      },
+      {
+       "el": "τους άνθρωπους",
+       "tr": "τους άνθρωπους",
+       "en": "τους άνθρωπους"
+      },
+      {
+       "el": "τους ανθρώπου",
+       "tr": "τους ανθρώπου",
+       "en": "τους ανθρώπου"
+      },
+      {
+       "el": "τους ανθρωπούς",
+       "tr": "τους ανθρωπούς",
+       "en": "τους ανθρωπούς"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η αιτιατική πληθυντικού της λέξης «ο άνθρωπος» είναι «τους ανθρώπους».",
+      "tr": "Çekim tablosunda «ο άνθρωπος» isminin çoğul -i hâli: «τους ανθρώπους».",
+      "en": "In the declension table the accusative plural of «ο άνθρωπος» is «τους ανθρώπους»."
+     }
+    },
+    {
+     "q": {
+      "el": "Πότε μετακινείται ο τόνος στο «ο άνθρωπος»;",
+      "tr": "«ο άνθρωπος» kelimesinde vurgu ne zaman kayar?",
+      "en": "When does the stress move in «ο άνθρωπος»?"
+     },
+     "options": [
+      {
+       "el": "μόνο στην κλητική",
+       "tr": "yalnızca seslenme hâlinde",
+       "en": "only in the vocative"
+      },
+      {
+       "el": "σε όλες τις πτώσεις του πληθυντικού",
+       "tr": "çoğulun bütün hâllerinde",
+       "en": "in every plural case"
+      },
+      {
+       "el": "όταν η κατάληξη είναι -ου, -ων, -ους",
+       "tr": "ek -ου, -ων, -ους olunca",
+       "en": "when the ending is -ου, -ων, -ους"
+      },
+      {
+       "el": "ποτέ, ο τόνος είναι σταθερός",
+       "tr": "hiçbir zaman, vurgu sabittir",
+       "en": "never; the stress is fixed"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Όταν η κατάληξη είναι -ου, -ων, -ους, ο τόνος πάει μία συλλαβή δεξιά (ανθρώπου).",
+      "tr": "Ek -ου, -ων, -ους olunca vurgu bir hece sağa kayar (ανθρώπου).",
+      "en": "When the ending is -ου, -ων, -ους, the stress moves one syllable right (ανθρώπου)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού της λέξης «ο άντρας»;",
+      "tr": "«ο άντρας» isminin tekil -in hâli hangisidir?",
+      "en": "What is the genitive singular of «ο άντρας»?"
+     },
+     "options": [
+      {
+       "el": "του άντρα",
+       "tr": "του άντρα",
+       "en": "του άντρα"
+      },
+      {
+       "el": "του άντρας",
+       "tr": "του άντρας",
+       "en": "του άντρας"
+      },
+      {
+       "el": "του άντρου",
+       "tr": "του άντρου",
+       "en": "του άντρου"
+      },
+      {
+       "el": "του αντρός",
+       "tr": "του αντρός",
+       "en": "του αντρός"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού της λέξης «ο άντρας» είναι «του άντρα».",
+      "tr": "Çekim tablosunda «ο άντρας» isminin tekil -in hâli: «του άντρα».",
+      "en": "In the declension table the genitive singular of «ο άντρας» is «του άντρα»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού της λέξης «ο άντρας»;",
+      "tr": "«ο άντρας» isminin çoğul yalın hâli hangisidir?",
+      "en": "What is the nominative plural of «ο άντρας»?"
+     },
+     "options": [
+      {
+       "el": "οι άντροι",
+       "tr": "οι άντροι",
+       "en": "οι άντροι"
+      },
+      {
+       "el": "οι άντρας",
+       "tr": "οι άντρας",
+       "en": "οι άντρας"
+      },
+      {
+       "el": "οι αντρές",
+       "tr": "οι αντρές",
+       "en": "οι αντρές"
+      },
+      {
+       "el": "οι άντρες",
+       "tr": "οι άντρες",
+       "en": "οι άντρες"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού της λέξης «ο άντρας» είναι «οι άντρες».",
+      "tr": "Çekim tablosunda «ο άντρας» isminin çoğul yalın hâli: «οι άντρες».",
+      "en": "In the declension table the nominative plural of «ο άντρας» is «οι άντρες»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική πληθυντικού της λέξης «ο άντρας»;",
+      "tr": "«ο άντρας» isminin çoğul -in hâli hangisidir?",
+      "en": "What is the genitive plural of «ο άντρας»?"
+     },
+     "options": [
+      {
+       "el": "των άντρων",
+       "tr": "των άντρων",
+       "en": "των άντρων"
+      },
+      {
+       "el": "των αντρών",
+       "tr": "των αντρών",
+       "en": "των αντρών"
+      },
+      {
+       "el": "των άντρες",
+       "tr": "των άντρες",
+       "en": "των άντρες"
+      },
+      {
+       "el": "των αντρόν",
+       "tr": "των αντρόν",
+       "en": "των αντρόν"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική πληθυντικού της λέξης «ο άντρας» είναι «των αντρών».",
+      "tr": "Çekim tablosunda «ο άντρας» isminin çoğul -in hâli: «των αντρών».",
+      "en": "In the declension table the genitive plural of «ο άντρας» is «των αντρών»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο αρσενικό σε -ας ΔΕΝ μετακινεί τον τόνο στη γενική πληθυντικού, σύμφωνα με το μάθημα;",
+      "tr": "Derse göre -ας ile biten hangi eril çoğul -in hâlinde vurguyu KAYDIRMAZ?",
+      "en": "According to the lesson, which -ας masculine does NOT shift its stress in the genitive plural?"
+     },
+     "options": [
+      {
+       "el": "ο άντρας",
+       "tr": "ο άντρας",
+       "en": "ο άντρας"
+      },
+      {
+       "el": "ο μαθητής",
+       "tr": "ο μαθητής",
+       "en": "ο μαθητής"
+      },
+      {
+       "el": "ο εργάτης",
+       "tr": "ο εργάτης",
+       "en": "ο εργάτης"
+      },
+      {
+       "el": "ο πατέρας",
+       "tr": "ο πατέρας",
+       "en": "ο πατέρας"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Ο πατέρας κλίνεται σαν «ο άντρας», αλλά λέμε «των πατέρων», χωρίς μετακίνηση τόνου.",
+      "tr": "ο πατέρας «ο άντρας» gibi çekilir ama «των πατέρων» denir, vurgu kaymaz.",
+      "en": "ο πατέρας declines like «ο άντρας» but has «των πατέρων», with no stress shift."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η αιτιατική ενικού της λέξης «ο μαθητής»;",
+      "tr": "«ο μαθητής» isminin tekil -i hâli hangisidir?",
+      "en": "What is the accusative singular of «ο μαθητής»?"
+     },
+     "options": [
+      {
+       "el": "τον μαθητής",
+       "tr": "τον μαθητής",
+       "en": "τον μαθητής"
+      },
+      {
+       "el": "τον μαθητό",
+       "tr": "τον μαθητό",
+       "en": "τον μαθητό"
+      },
+      {
+       "el": "τον μαθητή",
+       "tr": "τον μαθητή",
+       "en": "τον μαθητή"
+      },
+      {
+       "el": "τον μαθητά",
+       "tr": "τον μαθητά",
+       "en": "τον μαθητά"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η αιτιατική ενικού της λέξης «ο μαθητής» είναι «τον μαθητή». Τα αρσενικά σε -ης χάνουν το -ς.",
+      "tr": "Çekim tablosunda «ο μαθητής» isminin tekil -i hâli: «τον μαθητή». -ης ile biten eriller -ς'yi kaybeder.",
+      "en": "In the declension table the accusative singular of «ο μαθητής» is «τον μαθητή». Masculines in -ης drop the -ς."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η κλητική ενικού της λέξης «ο μαθητής»;",
+      "tr": "«ο μαθητής» isminin tekil seslenme hâli hangisidir?",
+      "en": "What is the vocative singular of «ο μαθητής»?"
+     },
+     "options": [
+      {
+       "el": "μαθητή",
+       "tr": "μαθητή",
+       "en": "μαθητή"
+      },
+      {
+       "el": "μαθητέ",
+       "tr": "μαθητέ",
+       "en": "μαθητέ"
+      },
+      {
+       "el": "μαθητής",
+       "tr": "μαθητής",
+       "en": "μαθητής"
+      },
+      {
+       "el": "μαθητά",
+       "tr": "μαθητά",
+       "en": "μαθητά"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η κλητική ενικού της λέξης «ο μαθητής» είναι «μαθητή».",
+      "tr": "Çekim tablosunda «ο μαθητής» isminin tekil seslenme hâli: «μαθητή».",
+      "en": "In the declension table the vocative singular of «ο μαθητής» is «μαθητή»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού της λέξης «ο μαθητής»;",
+      "tr": "«ο μαθητής» isminin çoğul yalın hâli hangisidir?",
+      "en": "What is the nominative plural of «ο μαθητής»?"
+     },
+     "options": [
+      {
+       "el": "οι μαθητοί",
+       "tr": "οι μαθητοί",
+       "en": "οι μαθητοί"
+      },
+      {
+       "el": "οι μαθητής",
+       "tr": "οι μαθητής",
+       "en": "οι μαθητής"
+      },
+      {
+       "el": "οι μαθητάδες",
+       "tr": "οι μαθητάδες",
+       "en": "οι μαθητάδες"
+      },
+      {
+       "el": "οι μαθητές",
+       "tr": "οι μαθητές",
+       "en": "οι μαθητές"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού της λέξης «ο μαθητής» είναι «οι μαθητές».",
+      "tr": "Çekim tablosunda «ο μαθητής» isminin çoğul yalın hâli: «οι μαθητές».",
+      "en": "In the declension table the nominative plural of «ο μαθητής» is «οι μαθητές»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική πληθυντικού της λέξης «ο μαθητής»;",
+      "tr": "«ο μαθητής» isminin çoğul -in hâli hangisidir?",
+      "en": "What is the genitive plural of «ο μαθητής»?"
+     },
+     "options": [
+      {
+       "el": "των μαθητέων",
+       "tr": "των μαθητέων",
+       "en": "των μαθητέων"
+      },
+      {
+       "el": "των μαθήτων",
+       "tr": "των μαθήτων",
+       "en": "των μαθήτων"
+      },
+      {
+       "el": "των μαθητών",
+       "tr": "των μαθητών",
+       "en": "των μαθητών"
+      },
+      {
+       "el": "των μαθητές",
+       "tr": "των μαθητές",
+       "en": "των μαθητές"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική πληθυντικού της λέξης «ο μαθητής» είναι «των μαθητών». Στον τύπο -ης η γενική πληθυντικού τελειώνει πάντα σε τονισμένο -ών.",
+      "tr": "Çekim tablosunda «ο μαθητής» isminin çoğul -in hâli: «των μαθητών». -ης türünde çoğul -in hâli her zaman vurgulu -ών ile biter.",
+      "en": "In the declension table the genitive plural of «ο μαθητής» is «των μαθητών». In the -ης type the genitive plural always ends in stressed -ών."
+     }
+    },
+    {
+     "q": {
+      "el": "Τι παθαίνουν τα αρσενικά σε -ας και -ης στη γενική, την αιτιατική και την κλητική ενικού;",
+      "tr": "-ας ve -ης ile biten eriller tekil -in, -i ve seslenme hâllerinde ne olur?",
+      "en": "What happens to masculines in -ας and -ης in the genitive, accusative and vocative singular?"
+     },
+     "options": [
+      {
+       "el": "χάνουν το τελικό -ς",
+       "tr": "sondaki -ς düşer",
+       "en": "they drop the final -ς"
+      },
+      {
+       "el": "παίρνουν -ου",
+       "tr": "-ου eki alırlar",
+       "en": "they add -ου"
+      },
+      {
+       "el": "ο τόνος πάει στο τέλος",
+       "tr": "vurgu sona kayar",
+       "en": "the stress moves to the end"
+      },
+      {
+       "el": "παίρνουν -δες",
+       "tr": "-δες eki alırlar",
+       "en": "they add -δες"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Τα αρσενικά σε -ας και -ης χάνουν το -ς: ο άντρας → του άντρα, τον άντρα· «τον μαθητή», όχι «τον μαθητής».",
+      "tr": "-ας ve -ης ile biten eriller -ς'yi kaybeder: ο άντρας → του άντρα, τον άντρα; «τον μαθητής» değil «τον μαθητή».",
+      "en": "Masculines in -ας and -ης drop the -ς: ο άντρας → του άντρα, τον άντρα; «τον μαθητή», not «τον μαθητής»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού της λέξης «ο καφές»;",
+      "tr": "«ο καφές» isminin tekil -in hâli hangisidir?",
+      "en": "What is the genitive singular of «ο καφές»?"
+     },
+     "options": [
+      {
+       "el": "του καφέου",
+       "tr": "του καφέου",
+       "en": "του καφέου"
+      },
+      {
+       "el": "του καφέ",
+       "tr": "του καφέ",
+       "en": "του καφέ"
+      },
+      {
+       "el": "του καφού",
+       "tr": "του καφού",
+       "en": "του καφού"
+      },
+      {
+       "el": "του καφέδου",
+       "tr": "του καφέδου",
+       "en": "του καφέδου"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού της λέξης «ο καφές» είναι «του καφέ».",
+      "tr": "Çekim tablosunda «ο καφές» isminin tekil -in hâli: «του καφέ».",
+      "en": "In the declension table the genitive singular of «ο καφές» is «του καφέ»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού της λέξης «ο καφές»;",
+      "tr": "«ο καφές» isminin çoğul yalın hâli hangisidir?",
+      "en": "What is the nominative plural of «ο καφές»?"
+     },
+     "options": [
+      {
+       "el": "οι καφές",
+       "tr": "οι καφές",
+       "en": "οι καφές"
+      },
+      {
+       "el": "οι καφέες",
+       "tr": "οι καφέες",
+       "en": "οι καφέες"
+      },
+      {
+       "el": "οι καφέδες",
+       "tr": "οι καφέδες",
+       "en": "οι καφέδες"
+      },
+      {
+       "el": "οι καφοί",
+       "tr": "οι καφοί",
+       "en": "οι καφοί"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού της λέξης «ο καφές» είναι «οι καφέδες».",
+      "tr": "Çekim tablosunda «ο καφές» isminin çoğul yalın hâli: «οι καφέδες».",
+      "en": "In the declension table the nominative plural of «ο καφές» is «οι καφέδες»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η αιτιατική ενικού της λέξης «ο παππούς»;",
+      "tr": "«ο παππούς» isminin tekil -i hâli hangisidir?",
+      "en": "What is the accusative singular of «ο παππούς»?"
+     },
+     "options": [
+      {
+       "el": "τον παππούς",
+       "tr": "τον παππούς",
+       "en": "τον παππούς"
+      },
+      {
+       "el": "τον παππού",
+       "tr": "τον παππού",
+       "en": "τον παππού"
+      },
+      {
+       "el": "τον παππούδα",
+       "tr": "τον παππούδα",
+       "en": "τον παππούδα"
+      },
+      {
+       "el": "τον παππό",
+       "tr": "τον παππό",
+       "en": "τον παππό"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η αιτιατική ενικού της λέξης «ο παππούς» είναι «τον παππού».",
+      "tr": "Çekim tablosunda «ο παππούς» isminin tekil -i hâli: «τον παππού».",
+      "en": "In the declension table the accusative singular of «ο παππούς» is «τον παππού»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική πληθυντικού της λέξης «ο παππούς»;",
+      "tr": "«ο παππούς» isminin çoğul -in hâli hangisidir?",
+      "en": "What is the genitive plural of «ο παππούς»?"
+     },
+     "options": [
+      {
+       "el": "των παππούδες",
+       "tr": "των παππούδες",
+       "en": "των παππούδες"
+      },
+      {
+       "el": "των παππών",
+       "tr": "των παππών",
+       "en": "των παππών"
+      },
+      {
+       "el": "των παππούδων",
+       "tr": "των παππούδων",
+       "en": "των παππούδων"
+      },
+      {
+       "el": "των παππούων",
+       "tr": "των παππούων",
+       "en": "των παππούων"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική πληθυντικού της λέξης «ο παππούς» είναι «των παππούδων».",
+      "tr": "Çekim tablosunda «ο παππούς» isminin çoğul -in hâli: «των παππούδων».",
+      "en": "In the declension table the genitive plural of «ο παππούς» is «των παππούδων»."
+     }
+    },
+    {
+     "q": {
+      "el": "Τι κάνουμε στον πληθυντικό των αρσενικών σε -ές, -άς, -ούς;",
+      "tr": "-ές, -άς, -ούς ile biten erillerin çoğulunda ne yapılır?",
+      "en": "What happens in the plural of masculines in -ές, -άς, -ούς?"
+     },
+     "options": [
+      {
+       "el": "προσθέτουμε -δες / -δων και ο τόνος μένει στην ίδια συλλαβή",
+       "tr": "-δες / -δων eklenir ve vurgu aynı hecede kalır",
+       "en": "add -δες / -δων and the stress stays on the same syllable"
+      },
+      {
+       "el": "προσθέτουμε -οι / -ων",
+       "tr": "-οι / -ων eklenir",
+       "en": "add -οι / -ων"
+      },
+      {
+       "el": "σβήνουμε μόνο το -ς",
+       "tr": "yalnızca -ς düşer",
+       "en": "just drop the -ς"
+      },
+      {
+       "el": "ο τόνος πάει μία συλλαβή δεξιά",
+       "tr": "vurgu bir hece sağa kayar",
+       "en": "the stress moves one syllable right"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πληθυντικό προσθέτουμε -δες / -δων (οι καφέδες, των ψαράδων) και ο τόνος δεν αλλάζει θέση.",
+      "tr": "Çoğulda -δες / -δων eklenir (οι καφέδες, των ψαράδων) ve vurgu yerinde kalır.",
+      "en": "In the plural add -δες / -δων (οι καφέδες, των ψαράδων); the stress stays put."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια κατάληξη κλητικής παίρνουν τα περισσότερα μικρά ονόματα σε -ος (Γιώργος, Νίκος);",
+      "tr": "-ος ile biten çoğu kısa erkek adı (Γιώργος, Νίκος) seslenme hâlinde hangi eki alır?",
+      "en": "Which vocative ending do most short first names in -ος (Γιώργος, Νίκος) take?"
+     },
+     "options": [
+      {
+       "el": "-ε",
+       "tr": "-ε",
+       "en": "-ε"
+      },
+      {
+       "el": "-ο",
+       "tr": "-ο",
+       "en": "-ο"
+      },
+      {
+       "el": "-ου",
+       "tr": "-ου",
+       "en": "-ου"
+      },
+      {
+       "el": "-ος",
+       "tr": "-ος",
+       "en": "-ος"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Τα περισσότερα μικρά ονόματα παίρνουν -ο (Γιώργο!, Νίκο!), ενώ τα κοινά ουσιαστικά -ε (φίλε!).",
+      "tr": "Çoğu kısa ad -ο alır (Γιώργο!, Νίκο!); cins isimler -ε alır (φίλε!).",
+      "en": "Most short first names take -ο (Γιώργο!, Νίκο!); common nouns take -ε (φίλε!)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος ελληνικός όρος σημαίνει «τόνος» (vurgu / stress);",
+      "tr": "«vurgu» hangi Yunanca terimle söylenir?",
+      "en": "Which Greek term means “stress, accent”?"
+     },
+     "options": [
+      {
+       "el": "κατάληξη",
+       "tr": "κατάληξη",
+       "en": "κατάληξη"
+      },
+      {
+       "el": "κλητική",
+       "tr": "κλητική",
+       "en": "κλητική"
+      },
+      {
+       "el": "τόνος",
+       "tr": "τόνος",
+       "en": "τόνος"
+      },
+      {
+       "el": "πληθυντικός",
+       "tr": "πληθυντικός",
+       "en": "πληθυντικός"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "τόνος = vurgu = stress, accent.",
+      "tr": "τόνος = vurgu.",
+      "en": "τόνος = stress, accent."
+     }
+    }
    ]
   },
   {
@@ -1140,6 +3631,778 @@
     "https://el.wiktionary.org/wiki/λέξη",
     "https://en.wiktionary.org/wiki/οδός",
     "https://el.wiktionary.org/wiki/οδός"
+   ],
+   "quiz": [
+    {
+     "q": {
+      "el": "Ποιο άρθρο παίρνουν τα θηλυκά και σε τι τελειώνουν συνήθως;",
+      "tr": "Dişil isimler hangi artikeli alır ve genellikle neyle biter?",
+      "en": "Which article do feminine nouns take, and what do they usually end in?"
+     },
+     "options": [
+      {
+       "el": "η· σε -α ή -η",
+       "tr": "η; -α ya da -η",
+       "en": "η; in -α or -η"
+      },
+      {
+       "el": "ο· σε -ος ή -ας",
+       "tr": "ο; -ος ya da -ας",
+       "en": "ο; in -ος or -ας"
+      },
+      {
+       "el": "το· σε -ο ή -ι",
+       "tr": "το; -ο ya da -ι",
+       "en": "το; in -ο or -ι"
+      },
+      {
+       "el": "η· σε -ι ή -μα",
+       "tr": "η; -ι ya da -μα",
+       "en": "η; in -ι or -μα"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Τα θηλυκά παίρνουν το άρθρο η και τελειώνουν συνήθως σε -α ή -η.",
+      "tr": "Dişil isimler η artikelini alır ve genellikle -α ya da -η ile biter.",
+      "en": "Feminine nouns take η and usually end in -α or -η."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο απλός κανόνας των θηλυκών σε -α / -η;",
+      "tr": "-α / -η ile biten dişillerin basit kuralı nedir?",
+      "en": "What is the simple rule for feminines in -α / -η?"
+     },
+     "options": [
+      {
+       "el": "γενική ενικού: -ου· πληθυντικός: -οι",
+       "tr": "tekil -in hâli: -ου; çoğul: -οι",
+       "en": "genitive singular: -ου; plural: -οι"
+      },
+      {
+       "el": "γενική ενικού: -ς· πληθυντικός: -δες",
+       "tr": "tekil -in hâli: -ς; çoğul: -δες",
+       "en": "genitive singular: -ς; plural: -δες"
+      },
+      {
+       "el": "γενική ενικού: -ματος· πληθυντικός: -ματα",
+       "tr": "tekil -in hâli: -ματος; çoğul: -ματα",
+       "en": "genitive singular: -ματος; plural: -ματα"
+      },
+      {
+       "el": "γενική ενικού: + -ς· πληθυντικός: -ες",
+       "tr": "tekil -in hâli: + -ς; çoğul: -ες",
+       "en": "genitive singular: add -ς; plural: -ες"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στη γενική ενικού προσθέτουμε -ς (της ώρας) και ο πληθυντικός γίνεται -ες (οι ώρες).",
+      "tr": "Tekil -in hâlinde -ς eklenir (της ώρας), çoğulda ek -ες olur (οι ώρες).",
+      "en": "Add -ς in the genitive singular (της ώρας); the plural ends in -ες (οι ώρες)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού της λέξης «η θάλασσα»;",
+      "tr": "«η θάλασσα» isminin tekil -in hâli hangisidir?",
+      "en": "What is the genitive singular of «η θάλασσα»?"
+     },
+     "options": [
+      {
+       "el": "της θάλασσας",
+       "tr": "της θάλασσας",
+       "en": "της θάλασσας"
+      },
+      {
+       "el": "της θάλασσες",
+       "tr": "της θάλασσες",
+       "en": "της θάλασσες"
+      },
+      {
+       "el": "της θάλασσα",
+       "tr": "της θάλασσα",
+       "en": "της θάλασσα"
+      },
+      {
+       "el": "της θαλασσάς",
+       "tr": "της θαλασσάς",
+       "en": "της θαλασσάς"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού της λέξης «η θάλασσα» είναι «της θάλασσας».",
+      "tr": "Çekim tablosunda «η θάλασσα» isminin tekil -in hâli: «της θάλασσας».",
+      "en": "In the declension table the genitive singular of «η θάλασσα» is «της θάλασσας»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η αιτιατική ενικού της λέξης «η θάλασσα»;",
+      "tr": "«η θάλασσα» isminin tekil -i hâli hangisidir?",
+      "en": "What is the accusative singular of «η θάλασσα»?"
+     },
+     "options": [
+      {
+       "el": "τη θάλασσες",
+       "tr": "τη θάλασσες",
+       "en": "τη θάλασσες"
+      },
+      {
+       "el": "τη θάλασσας",
+       "tr": "τη θάλασσας",
+       "en": "τη θάλασσας"
+      },
+      {
+       "el": "τη θάλασσα",
+       "tr": "τη θάλασσα",
+       "en": "τη θάλασσα"
+      },
+      {
+       "el": "το θάλασσα",
+       "tr": "το θάλασσα",
+       "en": "το θάλασσα"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η αιτιατική ενικού της λέξης «η θάλασσα» είναι «τη θάλασσα».",
+      "tr": "Çekim tablosunda «η θάλασσα» isminin tekil -i hâli: «τη θάλασσα».",
+      "en": "In the declension table the accusative singular of «η θάλασσα» is «τη θάλασσα»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική πληθυντικού της λέξης «η θάλασσα»;",
+      "tr": "«η θάλασσα» isminin çoğul -in hâli hangisidir?",
+      "en": "What is the genitive plural of «η θάλασσα»?"
+     },
+     "options": [
+      {
+       "el": "των θάλασσων",
+       "tr": "των θάλασσων",
+       "en": "των θάλασσων"
+      },
+      {
+       "el": "των θαλασσών",
+       "tr": "των θαλασσών",
+       "en": "των θαλασσών"
+      },
+      {
+       "el": "των θάλασσας",
+       "tr": "των θάλασσας",
+       "en": "των θάλασσας"
+      },
+      {
+       "el": "των θαλασσές",
+       "tr": "των θαλασσές",
+       "en": "των θαλασσές"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική πληθυντικού της λέξης «η θάλασσα» είναι «των θαλασσών». Στον τύπο -α η γενική πληθυντικού τονίζεται στο τέλος (-ών).",
+      "tr": "Çekim tablosunda «η θάλασσα» isminin çoğul -in hâli: «των θαλασσών». -α türünde çoğul -in hâli sondan vurgulanır (-ών).",
+      "en": "In the declension table the genitive plural of «η θάλασσα» is «των θαλασσών». In the -α type the genitive plural is stressed on the end (-ών)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η αιτιατική πληθυντικού της λέξης «η θάλασσα»;",
+      "tr": "«η θάλασσα» isminin çoğul -i hâli hangisidir?",
+      "en": "What is the accusative plural of «η θάλασσα»?"
+     },
+     "options": [
+      {
+       "el": "τους θάλασσες",
+       "tr": "τους θάλασσες",
+       "en": "τους θάλασσες"
+      },
+      {
+       "el": "τις θάλασσας",
+       "tr": "τις θάλασσας",
+       "en": "τις θάλασσας"
+      },
+      {
+       "el": "τις θαλασσές",
+       "tr": "τις θαλασσές",
+       "en": "τις θαλασσές"
+      },
+      {
+       "el": "τις θάλασσες",
+       "tr": "τις θάλασσες",
+       "en": "τις θάλασσες"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η αιτιατική πληθυντικού της λέξης «η θάλασσα» είναι «τις θάλασσες».",
+      "tr": "Çekim tablosunda «η θάλασσα» isminin çoğul -i hâli: «τις θάλασσες».",
+      "en": "In the declension table the accusative plural of «η θάλασσα» is «τις θάλασσες»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο θηλυκό σε -α κρατά τον τόνο στη θέση του στη γενική πληθυντικού, σύμφωνα με το μάθημα;",
+      "tr": "Derse göre -α ile biten hangi dişil çoğul -in hâlinde vurguyu yerinde tutar?",
+      "en": "According to the lesson, which feminine in -α keeps its stress in place in the genitive plural?"
+     },
+     "options": [
+      {
+       "el": "η μητέρα",
+       "tr": "η μητέρα",
+       "en": "η μητέρα"
+      },
+      {
+       "el": "η ώρα",
+       "tr": "η ώρα",
+       "en": "η ώρα"
+      },
+      {
+       "el": "η γυναίκα",
+       "tr": "η γυναίκα",
+       "en": "η γυναίκα"
+      },
+      {
+       "el": "η θάλασσα",
+       "tr": "η θάλασσα",
+       "en": "η θάλασσα"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Εξαίρεση: η μητέρα → των μητέρων (ενώ των ωρών, των γυναικών, των θαλασσών).",
+      "tr": "İstisna: η μητέρα → των μητέρων (ama των ωρών, των γυναικών, των θαλασσών).",
+      "en": "Exception: η μητέρα → των μητέρων (but των ωρών, των γυναικών, των θαλασσών)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού της λέξης «η αδελφή»;",
+      "tr": "«η αδελφή» isminin tekil -in hâli hangisidir?",
+      "en": "What is the genitive singular of «η αδελφή»?"
+     },
+     "options": [
+      {
+       "el": "της αδελφή",
+       "tr": "της αδελφή",
+       "en": "της αδελφή"
+      },
+      {
+       "el": "της αδελφού",
+       "tr": "της αδελφού",
+       "en": "της αδελφού"
+      },
+      {
+       "el": "της αδελφίς",
+       "tr": "της αδελφίς",
+       "en": "της αδελφίς"
+      },
+      {
+       "el": "της αδελφής",
+       "tr": "της αδελφής",
+       "en": "της αδελφής"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού της λέξης «η αδελφή» είναι «της αδελφής».",
+      "tr": "Çekim tablosunda «η αδελφή» isminin tekil -in hâli: «της αδελφής».",
+      "en": "In the declension table the genitive singular of «η αδελφή» is «της αδελφής»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού της λέξης «η αδελφή»;",
+      "tr": "«η αδελφή» isminin çoğul yalın hâli hangisidir?",
+      "en": "What is the nominative plural of «η αδελφή»?"
+     },
+     "options": [
+      {
+       "el": "οι αδελφές",
+       "tr": "οι αδελφές",
+       "en": "οι αδελφές"
+      },
+      {
+       "el": "οι αδελφοί",
+       "tr": "οι αδελφοί",
+       "en": "οι αδελφοί"
+      },
+      {
+       "el": "οι αδελφής",
+       "tr": "οι αδελφής",
+       "en": "οι αδελφής"
+      },
+      {
+       "el": "οι αδελφείς",
+       "tr": "οι αδελφείς",
+       "en": "οι αδελφείς"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού της λέξης «η αδελφή» είναι «οι αδελφές».",
+      "tr": "Çekim tablosunda «η αδελφή» isminin çoğul yalın hâli: «οι αδελφές».",
+      "en": "In the declension table the nominative plural of «η αδελφή» is «οι αδελφές»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική πληθυντικού της λέξης «η αδελφή»;",
+      "tr": "«η αδελφή» isminin çoğul -in hâli hangisidir?",
+      "en": "What is the genitive plural of «η αδελφή»?"
+     },
+     "options": [
+      {
+       "el": "των αδέλφων",
+       "tr": "των αδέλφων",
+       "en": "των αδέλφων"
+      },
+      {
+       "el": "των αδελφών",
+       "tr": "των αδελφών",
+       "en": "των αδελφών"
+      },
+      {
+       "el": "των αδελφές",
+       "tr": "των αδελφές",
+       "en": "των αδελφές"
+      },
+      {
+       "el": "των αδελφέων",
+       "tr": "των αδελφέων",
+       "en": "των αδελφέων"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική πληθυντικού της λέξης «η αδελφή» είναι «των αδελφών».",
+      "tr": "Çekim tablosunda «η αδελφή» isminin çoğul -in hâli: «των αδελφών».",
+      "en": "In the declension table the genitive plural of «η αδελφή» is «των αδελφών»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού της λέξης «η λέξη»;",
+      "tr": "«η λέξη» isminin tekil -in hâli hangisidir?",
+      "en": "What is the genitive singular of «η λέξη»?"
+     },
+     "options": [
+      {
+       "el": "της λέξεις",
+       "tr": "της λέξεις",
+       "en": "της λέξεις"
+      },
+      {
+       "el": "της λέξη",
+       "tr": "της λέξη",
+       "en": "της λέξη"
+      },
+      {
+       "el": "της λέξης",
+       "tr": "της λέξης",
+       "en": "της λέξης"
+      },
+      {
+       "el": "της λέξας",
+       "tr": "της λέξας",
+       "en": "της λέξας"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού της λέξης «η λέξη» είναι «της λέξης».",
+      "tr": "Çekim tablosunda «η λέξη» isminin tekil -in hâli: «της λέξης».",
+      "en": "In the declension table the genitive singular of «η λέξη» is «της λέξης»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού της λέξης «η λέξη»;",
+      "tr": "«η λέξη» isminin çoğul yalın hâli hangisidir?",
+      "en": "What is the nominative plural of «η λέξη»?"
+     },
+     "options": [
+      {
+       "el": "οι λέξης",
+       "tr": "οι λέξης",
+       "en": "οι λέξης"
+      },
+      {
+       "el": "οι λέξες",
+       "tr": "οι λέξες",
+       "en": "οι λέξες"
+      },
+      {
+       "el": "οι λέξοι",
+       "tr": "οι λέξοι",
+       "en": "οι λέξοι"
+      },
+      {
+       "el": "οι λέξεις",
+       "tr": "οι λέξεις",
+       "en": "οι λέξεις"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού της λέξης «η λέξη» είναι «οι λέξεις». Ακούγεται -ις αλλά γράφεται -εις.",
+      "tr": "Çekim tablosunda «η λέξη» isminin çoğul yalın hâli: «οι λέξεις». «-is» diye okunur ama -εις yazılır.",
+      "en": "In the declension table the nominative plural of «η λέξη» is «οι λέξεις». It sounds like “-is” but is spelled -εις."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική πληθυντικού της λέξης «η λέξη»;",
+      "tr": "«η λέξη» isminin çoğul -in hâli hangisidir?",
+      "en": "What is the genitive plural of «η λέξη»?"
+     },
+     "options": [
+      {
+       "el": "των λεξών",
+       "tr": "των λεξών",
+       "en": "των λεξών"
+      },
+      {
+       "el": "των λέξεις",
+       "tr": "των λέξεις",
+       "en": "των λέξεις"
+      },
+      {
+       "el": "των λέξεων",
+       "tr": "των λέξεων",
+       "en": "των λέξεων"
+      },
+      {
+       "el": "των λέξων",
+       "tr": "των λέξων",
+       "en": "των λέξων"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική πληθυντικού της λέξης «η λέξη» είναι «των λέξεων».",
+      "tr": "Çekim tablosunda «η λέξη» isminin çoğul -in hâli: «των λέξεων».",
+      "en": "In the declension table the genitive plural of «η λέξη» is «των λέξεων»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η αιτιατική πληθυντικού της λέξης «η λέξη»;",
+      "tr": "«η λέξη» isminin çoğul -i hâli hangisidir?",
+      "en": "What is the accusative plural of «η λέξη»?"
+     },
+     "options": [
+      {
+       "el": "τις λέξεις",
+       "tr": "τις λέξεις",
+       "en": "τις λέξεις"
+      },
+      {
+       "el": "τις λέξης",
+       "tr": "τις λέξης",
+       "en": "τις λέξης"
+      },
+      {
+       "el": "τους λέξεις",
+       "tr": "τους λέξεις",
+       "en": "τους λέξεις"
+      },
+      {
+       "el": "τις λέξες",
+       "tr": "τις λέξες",
+       "en": "τις λέξες"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η αιτιατική πληθυντικού της λέξης «η λέξη» είναι «τις λέξεις».",
+      "tr": "Çekim tablosunda «η λέξη» isminin çoğul -i hâli: «τις λέξεις».",
+      "en": "In the declension table the accusative plural of «η λέξη» is «τις λέξεις»."
+     }
+    },
+    {
+     "q": {
+      "el": "Στο «η λέξη», σε ποια πτώση γράφουμε την κατάληξη -ης;",
+      "tr": "«η λέξη» kelimesinde -ης eki hangi hâlde yazılır?",
+      "en": "In «η λέξη», in which case is the ending -ης written?"
+     },
+     "options": [
+      {
+       "el": "στην ονομαστική πληθυντικού",
+       "tr": "çoğul yalın hâlde",
+       "en": "in the nominative plural"
+      },
+      {
+       "el": "στην αιτιατική πληθυντικού",
+       "tr": "çoğul -i hâlinde",
+       "en": "in the accusative plural"
+      },
+      {
+       "el": "μόνο στη γενική ενικού (της λέξης)",
+       "tr": "yalnızca tekil -in hâlinde (της λέξης)",
+       "en": "only in the genitive singular (της λέξης)"
+      },
+      {
+       "el": "στη γενική πληθυντικού",
+       "tr": "çoğul -in hâlinde",
+       "en": "in the genitive plural"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Το -ης είναι μόνο για τη γενική ενικού· «οι λέξης» είναι λάθος, σωστό «οι λέξεις».",
+      "tr": "-ης yalnızca tekil -in hâli içindir; «οι λέξης» yanlış, doğrusu «οι λέξεις».",
+      "en": "-ης is only the genitive singular; «οι λέξης» is wrong, «οι λέξεις» is right."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια παλιά κατάληξη γενικής του τύπου «η πόλη» ζει ακόμη σε σταθερές φράσεις;",
+      "tr": "«η πόλη» türünün hangi eski -in hâli eki kalıplaşmış ifadelerde hâlâ yaşar?",
+      "en": "Which old genitive ending of the «η πόλη» type survives in set phrases?"
+     },
+     "options": [
+      {
+       "el": "-εων",
+       "tr": "-εων",
+       "en": "-εων"
+      },
+      {
+       "el": "-εως",
+       "tr": "-εως",
+       "en": "-εως"
+      },
+      {
+       "el": "-εις",
+       "tr": "-εις",
+       "en": "-εις"
+      },
+      {
+       "el": "-ους",
+       "tr": "-ους",
+       "en": "-ους"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Ο παλιός τύπος γενικής σε -εως ζει σε σταθερές φράσεις (της πόλεως).",
+      "tr": "Eski -εως biçimi kalıplaşmış ifadelerde yaşar (της πόλεως).",
+      "en": "The old genitive in -εως survives in set phrases (της πόλεως)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού της λέξης «η οδός»;",
+      "tr": "«η οδός» isminin tekil -in hâli hangisidir?",
+      "en": "What is the genitive singular of «η οδός»?"
+     },
+     "options": [
+      {
+       "el": "της οδού",
+       "tr": "της οδού",
+       "en": "της οδού"
+      },
+      {
+       "el": "της οδός",
+       "tr": "της οδός",
+       "en": "της οδός"
+      },
+      {
+       "el": "της οδής",
+       "tr": "της οδής",
+       "en": "της οδής"
+      },
+      {
+       "el": "του οδού",
+       "tr": "του οδού",
+       "en": "του οδού"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού της λέξης «η οδός» είναι «της οδού». Κλίνεται σαν τα αρσενικά σε -ος, αλλά με θηλυκό άρθρο.",
+      "tr": "Çekim tablosunda «η οδός» isminin tekil -in hâli: «της οδού». Eril -ος gibi çekilir ama dişil artikel alır.",
+      "en": "In the declension table the genitive singular of «η οδός» is «της οδού». It declines like masculine -ος nouns but with the feminine article."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού της λέξης «η οδός»;",
+      "tr": "«η οδός» isminin çoğul yalın hâli hangisidir?",
+      "en": "What is the nominative plural of «η οδός»?"
+     },
+     "options": [
+      {
+       "el": "οι οδές",
+       "tr": "οι οδές",
+       "en": "οι οδές"
+      },
+      {
+       "el": "οι οδούς",
+       "tr": "οι οδούς",
+       "en": "οι οδούς"
+      },
+      {
+       "el": "οι οδοί",
+       "tr": "οι οδοί",
+       "en": "οι οδοί"
+      },
+      {
+       "el": "οι οδοίς",
+       "tr": "οι οδοίς",
+       "en": "οι οδοίς"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού της λέξης «η οδός» είναι «οι οδοί».",
+      "tr": "Çekim tablosunda «η οδός» isminin çoğul yalın hâli: «οι οδοί».",
+      "en": "In the declension table the nominative plural of «η οδός» is «οι οδοί»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η αιτιατική πληθυντικού της λέξης «η οδός»;",
+      "tr": "«η οδός» isminin çoğul -i hâli hangisidir?",
+      "en": "What is the accusative plural of «η οδός»?"
+     },
+     "options": [
+      {
+       "el": "τις οδούς",
+       "tr": "τις οδούς",
+       "en": "τις οδούς"
+      },
+      {
+       "el": "τις οδοί",
+       "tr": "τις οδοί",
+       "en": "τις οδοί"
+      },
+      {
+       "el": "τους οδούς",
+       "tr": "τους οδούς",
+       "en": "τους οδούς"
+      },
+      {
+       "el": "τις οδές",
+       "tr": "τις οδές",
+       "en": "τις οδές"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η αιτιατική πληθυντικού της λέξης «η οδός» είναι «τις οδούς».",
+      "tr": "Çekim tablosunda «η οδός» isminin çoğul -i hâli: «τις οδούς».",
+      "en": "In the declension table the accusative plural of «η οδός» is «τις οδούς»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι σωστό;",
+      "tr": "Hangisi doğrudur?",
+      "en": "Which is correct?"
+     },
+     "options": [
+      {
+       "el": "ο έξοδος",
+       "tr": "ο έξοδος",
+       "en": "ο έξοδος"
+      },
+      {
+       "el": "το έξοδος",
+       "tr": "το έξοδος",
+       "en": "το έξοδος"
+      },
+      {
+       "el": "το έξοδο",
+       "tr": "το έξοδο",
+       "en": "το έξοδο"
+      },
+      {
+       "el": "η έξοδος",
+       "tr": "η έξοδος",
+       "en": "η έξοδος"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Οι λέξεις όπως έξοδος, είσοδος, οδός είναι θηλυκά παρά το -ος: «η έξοδος».",
+      "tr": "έξοδος, είσοδος, οδός gibi kelimeler -ος'a rağmen dişildir: «η έξοδος».",
+      "en": "Words like έξοδος, είσοδος, οδός are feminine despite -ος: «η έξοδος»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος ελληνικός όρος σημαίνει «παραλήγουσα» (sondan ikinci hece / second-to-last syllable);",
+      "tr": "«sondan ikinci hece» hangi Yunanca terimle söylenir?",
+      "en": "Which Greek term means “second-to-last syllable”?"
+     },
+     "options": [
+      {
+       "el": "λήγουσα",
+       "tr": "λήγουσα",
+       "en": "λήγουσα"
+      },
+      {
+       "el": "παραλήγουσα",
+       "tr": "παραλήγουσα",
+       "en": "παραλήγουσα"
+      },
+      {
+       "el": "προπαραλήγουσα",
+       "tr": "προπαραλήγουσα",
+       "en": "προπαραλήγουσα"
+      },
+      {
+       "el": "γενική πληθυντικού",
+       "tr": "γενική πληθυντικού",
+       "en": "γενική πληθυντικού"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "λήγουσα = τελευταία, παραλήγουσα = δεύτερη από το τέλος, προπαραλήγουσα = τρίτη από το τέλος συλλαβή.",
+      "tr": "λήγουσα = son hece, παραλήγουσα = sondan ikinci, προπαραλήγουσα = sondan üçüncü hece.",
+      "en": "λήγουσα = last, παραλήγουσα = second-to-last, προπαραλήγουσα = third-to-last syllable."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος ελληνικός όρος σημαίνει «λήγουσα»;",
+      "tr": "«son hece» hangi Yunanca terimle söylenir?",
+      "en": "Which Greek term means “last syllable”?"
+     },
+     "options": [
+      {
+       "el": "παραλήγουσα",
+       "tr": "παραλήγουσα",
+       "en": "παραλήγουσα"
+      },
+      {
+       "el": "προπαραλήγουσα",
+       "tr": "προπαραλήγουσα",
+       "en": "προπαραλήγουσα"
+      },
+      {
+       "el": "κατάληξη",
+       "tr": "κατάληξη",
+       "en": "κατάληξη"
+      },
+      {
+       "el": "λήγουσα",
+       "tr": "λήγουσα",
+       "en": "λήγουσα"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "λήγουσα = son hece = last syllable.",
+      "tr": "λήγουσα = son hece.",
+      "en": "λήγουσα = last syllable."
+     }
+    }
    ]
   },
   {
@@ -1380,6 +4643,778 @@
     "https://en.wiktionary.org/wiki/όνομα",
     "https://en.wiktionary.org/wiki/δάσος",
     "https://en.wiktionary.org/wiki/γράψιμο"
+   ],
+   "quiz": [
+    {
+     "q": {
+      "el": "Ποιες πτώσεις είναι πάντα ίδιες στα ουδέτερα;",
+      "tr": "Nötr isimlerde hangi hâller her zaman aynıdır?",
+      "en": "Which cases are always the same in neuter nouns?"
+     },
+     "options": [
+      {
+       "el": "γενική και αιτιατική",
+       "tr": "-in ve -i hâli",
+       "en": "genitive and accusative"
+      },
+      {
+       "el": "ονομαστική, αιτιατική και κλητική",
+       "tr": "yalın, -i ve seslenme hâli",
+       "en": "nominative, accusative and vocative"
+      },
+      {
+       "el": "ονομαστική και γενική",
+       "tr": "yalın ve -in hâli",
+       "en": "nominative and genitive"
+      },
+      {
+       "el": "μόνο ονομαστική και κλητική ενικού",
+       "tr": "yalnızca tekil yalın ve seslenme hâli",
+       "en": "only nominative and vocative singular"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στα ουδέτερα η ονομαστική, η αιτιατική και η κλητική είναι πάντα ίδιες· αλλάζει μόνο η γενική.",
+      "tr": "Nötrlerde yalın, -i ve seslenme hâli her zaman aynıdır; yalnızca -in hâli değişir.",
+      "en": "In neuters the nominative, accusative and vocative are always the same; only the genitive changes."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο άρθρο παίρνουν τα ουδέτερα στην ονομαστική;",
+      "tr": "Nötr isimler yalın hâlde hangi artikeli alır?",
+      "en": "Which article do neuter nouns take in the nominative?"
+     },
+     "options": [
+      {
+       "el": "ο / οι",
+       "tr": "ο / οι",
+       "en": "ο / οι"
+      },
+      {
+       "el": "η / οι",
+       "tr": "η / οι",
+       "en": "η / οι"
+      },
+      {
+       "el": "το / τα",
+       "tr": "το / τα",
+       "en": "το / τα"
+      },
+      {
+       "el": "του / των",
+       "tr": "του / των",
+       "en": "του / των"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Τα ουδέτερα παίρνουν το άρθρο το (ενικός) / τα (πληθυντικός).",
+      "tr": "Nötr isimler το (tekil) / τα (çoğul) artikelini alır.",
+      "en": "Neuter nouns take το (singular) / τα (plural)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού της λέξης «το βιβλίο»;",
+      "tr": "«το βιβλίο» isminin tekil -in hâli hangisidir?",
+      "en": "What is the genitive singular of «το βιβλίο»?"
+     },
+     "options": [
+      {
+       "el": "του βιβλίο",
+       "tr": "του βιβλίο",
+       "en": "του βιβλίο"
+      },
+      {
+       "el": "του βιβλιού",
+       "tr": "του βιβλιού",
+       "en": "του βιβλιού"
+      },
+      {
+       "el": "του βιβλίας",
+       "tr": "του βιβλίας",
+       "en": "του βιβλίας"
+      },
+      {
+       "el": "του βιβλίου",
+       "tr": "του βιβλίου",
+       "en": "του βιβλίου"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού της λέξης «το βιβλίο» είναι «του βιβλίου».",
+      "tr": "Çekim tablosunda «το βιβλίο» isminin tekil -in hâli: «του βιβλίου».",
+      "en": "In the declension table the genitive singular of «το βιβλίο» is «του βιβλίου»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού της λέξης «το βιβλίο»;",
+      "tr": "«το βιβλίο» isminin çoğul yalın hâli hangisidir?",
+      "en": "What is the nominative plural of «το βιβλίο»?"
+     },
+     "options": [
+      {
+       "el": "τα βιβλίοι",
+       "tr": "τα βιβλίοι",
+       "en": "τα βιβλίοι"
+      },
+      {
+       "el": "τα βιβλιά",
+       "tr": "τα βιβλιά",
+       "en": "τα βιβλιά"
+      },
+      {
+       "el": "τα βιβλία",
+       "tr": "τα βιβλία",
+       "en": "τα βιβλία"
+      },
+      {
+       "el": "οι βιβλία",
+       "tr": "οι βιβλία",
+       "en": "οι βιβλία"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού της λέξης «το βιβλίο» είναι «τα βιβλία».",
+      "tr": "Çekim tablosunda «το βιβλίο» isminin çoğul yalın hâli: «τα βιβλία».",
+      "en": "In the declension table the nominative plural of «το βιβλίο» is «τα βιβλία»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική πληθυντικού της λέξης «το βιβλίο»;",
+      "tr": "«το βιβλίο» isminin çoğul -in hâli hangisidir?",
+      "en": "What is the genitive plural of «το βιβλίο»?"
+     },
+     "options": [
+      {
+       "el": "των βιβλίων",
+       "tr": "των βιβλίων",
+       "en": "των βιβλίων"
+      },
+      {
+       "el": "των βιβλιών",
+       "tr": "των βιβλιών",
+       "en": "των βιβλιών"
+      },
+      {
+       "el": "των βιβλίου",
+       "tr": "των βιβλίου",
+       "en": "των βιβλίου"
+      },
+      {
+       "el": "των βίβλιων",
+       "tr": "των βίβλιων",
+       "en": "των βίβλιων"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική πληθυντικού της λέξης «το βιβλίο» είναι «των βιβλίων».",
+      "tr": "Çekim tablosunda «το βιβλίο» isminin çoğul -in hâli: «των βιβλίων».",
+      "en": "In the declension table the genitive plural of «το βιβλίο» is «των βιβλίων»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού της λέξης «το παιδί»;",
+      "tr": "«το παιδί» isminin tekil -in hâli hangisidir?",
+      "en": "What is the genitive singular of «το παιδί»?"
+     },
+     "options": [
+      {
+       "el": "του παιδί",
+       "tr": "του παιδί",
+       "en": "του παιδί"
+      },
+      {
+       "el": "του παιδίου",
+       "tr": "του παιδίου",
+       "en": "του παιδίου"
+      },
+      {
+       "el": "του παιδού",
+       "tr": "του παιδού",
+       "en": "του παιδού"
+      },
+      {
+       "el": "του παιδιού",
+       "tr": "του παιδιού",
+       "en": "του παιδιού"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού της λέξης «το παιδί» είναι «του παιδιού».",
+      "tr": "Çekim tablosunda «το παιδί» isminin tekil -in hâli: «του παιδιού».",
+      "en": "In the declension table the genitive singular of «το παιδί» is «του παιδιού»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού της λέξης «το παιδί»;",
+      "tr": "«το παιδί» isminin çoğul yalın hâli hangisidir?",
+      "en": "What is the nominative plural of «το παιδί»?"
+     },
+     "options": [
+      {
+       "el": "τα παιδιά",
+       "tr": "τα παιδιά",
+       "en": "τα παιδιά"
+      },
+      {
+       "el": "τα παιδία",
+       "tr": "τα παιδία",
+       "en": "τα παιδία"
+      },
+      {
+       "el": "τα παιδιού",
+       "tr": "τα παιδιού",
+       "en": "τα παιδιού"
+      },
+      {
+       "el": "τα παιδές",
+       "tr": "τα παιδές",
+       "en": "τα παιδές"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού της λέξης «το παιδί» είναι «τα παιδιά».",
+      "tr": "Çekim tablosunda «το παιδί» isminin çoğul yalın hâli: «τα παιδιά».",
+      "en": "In the declension table the nominative plural of «το παιδί» is «τα παιδιά»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική πληθυντικού της λέξης «το παιδί»;",
+      "tr": "«το παιδί» isminin çoğul -in hâli hangisidir?",
+      "en": "What is the genitive plural of «το παιδί»?"
+     },
+     "options": [
+      {
+       "el": "των παιδίων",
+       "tr": "των παιδίων",
+       "en": "των παιδίων"
+      },
+      {
+       "el": "των παιδιά",
+       "tr": "των παιδιά",
+       "en": "των παιδιά"
+      },
+      {
+       "el": "των παιδιών",
+       "tr": "των παιδιών",
+       "en": "των παιδιών"
+      },
+      {
+       "el": "των παιδών",
+       "tr": "των παιδών",
+       "en": "των παιδών"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική πληθυντικού της λέξης «το παιδί» είναι «των παιδιών».",
+      "tr": "Çekim tablosunda «το παιδί» isminin çoğul -in hâli: «των παιδιών».",
+      "en": "In the declension table the genitive plural of «το παιδί» is «των παιδιών»."
+     }
+    },
+    {
+     "q": {
+      "el": "Πού πέφτει ο τόνος στη γενική των ουδετέρων σε -ι (π.χ. το σπίτι);",
+      "tr": "-ι ile biten nötrlerin (ör. το σπίτι) -in hâlinde vurgu nereye düşer?",
+      "en": "Where is the stress in the genitive of neuters in -ι (e.g. το σπίτι)?"
+     },
+     "options": [
+      {
+       "el": "μένει εκεί που είναι στην ονομαστική",
+       "tr": "yalın hâldeki yerinde kalır",
+       "en": "it stays where it is in the nominative"
+      },
+      {
+       "el": "στην τρίτη από το τέλος συλλαβή",
+       "tr": "sondan üçüncü hecede",
+       "en": "on the third-to-last syllable"
+      },
+      {
+       "el": "στην παραλήγουσα",
+       "tr": "sondan ikinci hecede",
+       "en": "on the second-to-last syllable"
+      },
+      {
+       "el": "πάντα στην κατάληξη -ιού / -ιών",
+       "tr": "her zaman -ιού / -ιών ekinde",
+       "en": "always on the ending -ιού / -ιών"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Η γενική των ουδετέρων σε -ι παίρνει τονισμένο -ιού / -ιών, ακόμη κι όταν η λέξη τονίζεται αλλού (του σπιτιού).",
+      "tr": "-ι nötrlerin -in hâli vurgulu -ιού / -ιών alır, kelimenin vurgusu başka yerde olsa bile (του σπιτιού).",
+      "en": "Neuters in -ι take stressed -ιού / -ιών in the genitive, even if stressed elsewhere (του σπιτιού)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού της λέξης «το όνομα»;",
+      "tr": "«το όνομα» isminin tekil -in hâli hangisidir?",
+      "en": "What is the genitive singular of «το όνομα»?"
+     },
+     "options": [
+      {
+       "el": "του όνοματος",
+       "tr": "του όνοματος",
+       "en": "του όνοματος"
+      },
+      {
+       "el": "του ονόματος",
+       "tr": "του ονόματος",
+       "en": "του ονόματος"
+      },
+      {
+       "el": "του ονόμα",
+       "tr": "του ονόμα",
+       "en": "του ονόμα"
+      },
+      {
+       "el": "του ονομάτου",
+       "tr": "του ονομάτου",
+       "en": "του ονομάτου"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού της λέξης «το όνομα» είναι «του ονόματος». Ο τύπος -μα μεγαλώνει κατά μία συλλαβή.",
+      "tr": "Çekim tablosunda «το όνομα» isminin tekil -in hâli: «του ονόματος». -μα türü bir hece uzar.",
+      "en": "In the declension table the genitive singular of «το όνομα» is «του ονόματος». The -μα type grows by one syllable."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού της λέξης «το όνομα»;",
+      "tr": "«το όνομα» isminin çoğul yalın hâli hangisidir?",
+      "en": "What is the nominative plural of «το όνομα»?"
+     },
+     "options": [
+      {
+       "el": "τα ονόματα",
+       "tr": "τα ονόματα",
+       "en": "τα ονόματα"
+      },
+      {
+       "el": "τα όνοματα",
+       "tr": "τα όνοματα",
+       "en": "τα όνοματα"
+      },
+      {
+       "el": "τα ονόμα",
+       "tr": "τα ονόμα",
+       "en": "τα ονόμα"
+      },
+      {
+       "el": "τα ονομάτα",
+       "tr": "τα ονομάτα",
+       "en": "τα ονομάτα"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού της λέξης «το όνομα» είναι «τα ονόματα».",
+      "tr": "Çekim tablosunda «το όνομα» isminin çoğul yalın hâli: «τα ονόματα».",
+      "en": "In the declension table the nominative plural of «το όνομα» is «τα ονόματα»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική πληθυντικού της λέξης «το όνομα»;",
+      "tr": "«το όνομα» isminin çoğul -in hâli hangisidir?",
+      "en": "What is the genitive plural of «το όνομα»?"
+     },
+     "options": [
+      {
+       "el": "των ονόματων",
+       "tr": "των ονόματων",
+       "en": "των ονόματων"
+      },
+      {
+       "el": "των ονομάτα",
+       "tr": "των ονομάτα",
+       "en": "των ονομάτα"
+      },
+      {
+       "el": "των ονομάτων",
+       "tr": "των ονομάτων",
+       "en": "των ονομάτων"
+      },
+      {
+       "el": "των ονοματών",
+       "tr": "των ονοματών",
+       "en": "των ονοματών"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική πληθυντικού της λέξης «το όνομα» είναι «των ονομάτων».",
+      "tr": "Çekim tablosunda «το όνομα» isminin çoğul -in hâli: «των ονομάτων».",
+      "en": "In the declension table the genitive plural of «το όνομα» is «των ονομάτων»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού της λέξης «το δάσος»;",
+      "tr": "«το δάσος» isminin tekil -in hâli hangisidir?",
+      "en": "What is the genitive singular of «το δάσος»?"
+     },
+     "options": [
+      {
+       "el": "του δάσου",
+       "tr": "του δάσου",
+       "en": "του δάσου"
+      },
+      {
+       "el": "του δάσους",
+       "tr": "του δάσους",
+       "en": "του δάσους"
+      },
+      {
+       "el": "του δάσος",
+       "tr": "του δάσος",
+       "en": "του δάσος"
+      },
+      {
+       "el": "του δασού",
+       "tr": "του δασού",
+       "en": "του δασού"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού της λέξης «το δάσος» είναι «του δάσους». Το «του δάσου» είναι συχνό λάθος.",
+      "tr": "Çekim tablosunda «το δάσος» isminin tekil -in hâli: «του δάσους». «του δάσου» sık yapılan bir hatadır.",
+      "en": "In the declension table the genitive singular of «το δάσος» is «του δάσους». «του δάσου» is a common mistake."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η αιτιατική ενικού της λέξης «το δάσος»;",
+      "tr": "«το δάσος» isminin tekil -i hâli hangisidir?",
+      "en": "What is the accusative singular of «το δάσος»?"
+     },
+     "options": [
+      {
+       "el": "το δάσος",
+       "tr": "το δάσος",
+       "en": "το δάσος"
+      },
+      {
+       "el": "τον δάσο",
+       "tr": "τον δάσο",
+       "en": "τον δάσο"
+      },
+      {
+       "el": "το δάσο",
+       "tr": "το δάσο",
+       "en": "το δάσο"
+      },
+      {
+       "el": "τον δάσος",
+       "tr": "τον δάσος",
+       "en": "τον δάσος"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η αιτιατική ενικού της λέξης «το δάσος» είναι «το δάσος».",
+      "tr": "Çekim tablosunda «το δάσος» isminin tekil -i hâli: «το δάσος».",
+      "en": "In the declension table the accusative singular of «το δάσος» is «το δάσος»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού της λέξης «το δάσος»;",
+      "tr": "«το δάσος» isminin çoğul yalın hâli hangisidir?",
+      "en": "What is the nominative plural of «το δάσος»?"
+     },
+     "options": [
+      {
+       "el": "τα δάσοι",
+       "tr": "τα δάσοι",
+       "en": "τα δάσοι"
+      },
+      {
+       "el": "τα δάσα",
+       "tr": "τα δάσα",
+       "en": "τα δάσα"
+      },
+      {
+       "el": "τα δάσους",
+       "tr": "τα δάσους",
+       "en": "τα δάσους"
+      },
+      {
+       "el": "τα δάση",
+       "tr": "τα δάση",
+       "en": "τα δάση"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού της λέξης «το δάσος» είναι «τα δάση». Το «τα δάσοι» είναι συχνό λάθος.",
+      "tr": "Çekim tablosunda «το δάσος» isminin çoğul yalın hâli: «τα δάση». «τα δάσοι» sık yapılan bir hatadır.",
+      "en": "In the declension table the nominative plural of «το δάσος» is «τα δάση». «τα δάσοι» is a common mistake."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική πληθυντικού της λέξης «το δάσος»;",
+      "tr": "«το δάσος» isminin çoğul -in hâli hangisidir?",
+      "en": "What is the genitive plural of «το δάσος»?"
+     },
+     "options": [
+      {
+       "el": "των δάσων",
+       "tr": "των δάσων",
+       "en": "των δάσων"
+      },
+      {
+       "el": "των δάσεων",
+       "tr": "των δάσεων",
+       "en": "των δάσεων"
+      },
+      {
+       "el": "των δασών",
+       "tr": "των δασών",
+       "en": "των δασών"
+      },
+      {
+       "el": "των δάσους",
+       "tr": "των δάσους",
+       "en": "των δάσους"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική πληθυντικού της λέξης «το δάσος» είναι «των δασών».",
+      "tr": "Çekim tablosunda «το δάσος» isminin çoğul -in hâli: «των δασών».",
+      "en": "In the declension table the genitive plural of «το δάσος» is «των δασών»."
+     }
+    },
+    {
+     "q": {
+      "el": "Πότε μια λέξη σε -ος ακολουθεί τον τύπο του «δάσος»;",
+      "tr": "-ος ile biten bir kelime ne zaman «δάσος» gibi çekilir?",
+      "en": "When does a word in -ος follow the «δάσος» pattern?"
+     },
+     "options": [
+      {
+       "el": "όταν έχει άρθρο «το»",
+       "tr": "«το» artikeli aldığında",
+       "en": "when it has the article «το»"
+      },
+      {
+       "el": "όταν έχει άρθρο «ο»",
+       "tr": "«ο» artikeli aldığında",
+       "en": "when it has the article «ο»"
+      },
+      {
+       "el": "όταν δείχνει πρόσωπο",
+       "tr": "bir kişiyi gösterdiğinde",
+       "en": "when it refers to a person"
+      },
+      {
+       "el": "όταν τονίζεται στη λήγουσα",
+       "tr": "son heceden vurgulandığında",
+       "en": "when it is stressed on the last syllable"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Αν η λέξη σε -ος έχει άρθρο «το», ακολουθεί τον τύπο του «δάσος» (το λάθος, το μέρος).",
+      "tr": "-ος ile biten kelime «το» alıyorsa «δάσος» gibi çekilir (το λάθος, το μέρος).",
+      "en": "If an -ος word takes «το», it follows the «δάσος» pattern (το λάθος, το μέρος)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού της λέξης «το γράψιμο»;",
+      "tr": "«το γράψιμο» isminin tekil -in hâli hangisidir?",
+      "en": "What is the genitive singular of «το γράψιμο»?"
+     },
+     "options": [
+      {
+       "el": "του γράψιμου",
+       "tr": "του γράψιμου",
+       "en": "του γράψιμου"
+      },
+      {
+       "el": "του γραψίμου",
+       "tr": "του γραψίμου",
+       "en": "του γραψίμου"
+      },
+      {
+       "el": "του γράψιματος",
+       "tr": "του γράψιματος",
+       "en": "του γράψιματος"
+      },
+      {
+       "el": "του γραψίματος",
+       "tr": "του γραψίματος",
+       "en": "του γραψίματος"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού της λέξης «το γράψιμο» είναι «του γραψίματος». Ο τύπος -ιμο κλίνεται σαν το -μα.",
+      "tr": "Çekim tablosunda «το γράψιμο» isminin tekil -in hâli: «του γραψίματος». -ιμο türü -μα gibi çekilir.",
+      "en": "In the declension table the genitive singular of «το γράψιμο» is «του γραψίματος». The -ιμο type declines like -μα."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού της λέξης «το γράψιμο»;",
+      "tr": "«το γράψιμο» isminin çoğul yalın hâli hangisidir?",
+      "en": "What is the nominative plural of «το γράψιμο»?"
+     },
+     "options": [
+      {
+       "el": "τα γράψιμα",
+       "tr": "τα γράψιμα",
+       "en": "τα γράψιμα"
+      },
+      {
+       "el": "τα γραψίμα",
+       "tr": "τα γραψίμα",
+       "en": "τα γραψίμα"
+      },
+      {
+       "el": "τα γραψίματα",
+       "tr": "τα γραψίματα",
+       "en": "τα γραψίματα"
+      },
+      {
+       "el": "τα γράψιματα",
+       "tr": "τα γράψιματα",
+       "en": "τα γράψιματα"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού της λέξης «το γράψιμο» είναι «τα γραψίματα».",
+      "tr": "Çekim tablosunda «το γράψιμο» isminin çoğul yalın hâli: «τα γραψίματα».",
+      "en": "In the declension table the nominative plural of «το γράψιμο» is «τα γραψίματα»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική πληθυντικού της λέξης «το γράψιμο»;",
+      "tr": "«το γράψιμο» isminin çoğul -in hâli hangisidir?",
+      "en": "What is the genitive plural of «το γράψιμο»?"
+     },
+     "options": [
+      {
+       "el": "των γραψίματων",
+       "tr": "των γραψίματων",
+       "en": "των γραψίματων"
+      },
+      {
+       "el": "των γραψιμάτων",
+       "tr": "των γραψιμάτων",
+       "en": "των γραψιμάτων"
+      },
+      {
+       "el": "των γραψίμων",
+       "tr": "των γραψίμων",
+       "en": "των γραψίμων"
+      },
+      {
+       "el": "των γραψιματών",
+       "tr": "των γραψιματών",
+       "en": "των γραψιματών"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική πληθυντικού της λέξης «το γράψιμο» είναι «των γραψιμάτων».",
+      "tr": "Çekim tablosunda «το γράψιμο» isminin çoğul -in hâli: «των γραψιμάτων».",
+      "en": "In the declension table the genitive plural of «το γράψιμο» is «των γραψιμάτων»."
+     }
+    },
+    {
+     "q": {
+      "el": "Τι γένος είναι το «κοριτσάκι»;",
+      "tr": "«κοριτσάκι» (küçük kız) hangi cinstendir?",
+      "en": "What gender is «κοριτσάκι» (little girl)?"
+     },
+     "options": [
+      {
+       "el": "θηλυκό (η κοριτσάκι)",
+       "tr": "dişil (η κοριτσάκι)",
+       "en": "feminine (η κοριτσάκι)"
+      },
+      {
+       "el": "αρσενικό (ο κοριτσάκι)",
+       "tr": "eril (ο κοριτσάκι)",
+       "en": "masculine (ο κοριτσάκι)"
+      },
+      {
+       "el": "ουδέτερο (το κοριτσάκι)",
+       "tr": "nötr (το κοριτσάκι)",
+       "en": "neuter (το κοριτσάκι)"
+      },
+      {
+       "el": "θηλυκό στον ενικό, ουδέτερο στον πληθυντικό",
+       "tr": "tekilde dişil, çoğulda nötr",
+       "en": "feminine in the singular, neuter in the plural"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Τα υποκοριστικά σε -άκι είναι πάντα ουδέτερα, ακόμη κι αν δείχνουν κορίτσι ή αγόρι.",
+      "tr": "-άκι ile biten küçültme isimleri, kız ya da oğlan gösterse bile her zaman nötrdür.",
+      "en": "Diminutives in -άκι are always neuter, even when they refer to a girl or a boy."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος ελληνικός όρος σημαίνει «υποκοριστικό» (küçültme ismi / diminutive);",
+      "tr": "«küçültme ismi» hangi Yunanca terimle söylenir?",
+      "en": "Which Greek term means “diminutive”?"
+     },
+     "options": [
+      {
+       "el": "ουδέτερο ουσιαστικό",
+       "tr": "ουδέτερο ουσιαστικό",
+       "en": "ουδέτερο ουσιαστικό"
+      },
+      {
+       "el": "υποκοριστικό",
+       "tr": "υποκοριστικό",
+       "en": "υποκοριστικό"
+      },
+      {
+       "el": "γενική ενικού",
+       "tr": "γενική ενικού",
+       "en": "γενική ενικού"
+      },
+      {
+       "el": "παραλήγουσα",
+       "tr": "παραλήγουσα",
+       "en": "παραλήγουσα"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "υποκοριστικό = küçültme ismi = diminutive (π.χ. το σπιτάκι).",
+      "tr": "υποκοριστικό = küçültme ismi (ör. το σπιτάκι).",
+      "en": "υποκοριστικό = diminutive (e.g. το σπιτάκι)."
+     }
+    }
    ]
   },
   {
@@ -1764,6 +5799,918 @@
     "https://el.wiktionary.org/wiki/βαθύς",
     "https://en.wiktionary.org/wiki/συνεχής",
     "https://el.wiktionary.org/wiki/συνεχής"
+   ],
+   "quiz": [
+    {
+     "q": {
+      "el": "Σε τι συμφωνεί το επίθετο με το ουσιαστικό;",
+      "tr": "Sıfat isimle hangi bakımlardan uyuşur?",
+      "en": "In what does the adjective agree with the noun?"
+     },
+     "options": [
+      {
+       "el": "σε γένος, πτώση και αριθμό",
+       "tr": "cins, hâl ve sayı",
+       "en": "gender, case and number"
+      },
+      {
+       "el": "μόνο σε αριθμό",
+       "tr": "yalnızca sayı",
+       "en": "only number"
+      },
+      {
+       "el": "σε χρόνο και πρόσωπο",
+       "tr": "zaman ve kişi",
+       "en": "tense and person"
+      },
+      {
+       "el": "μόνο σε γένος",
+       "tr": "yalnızca cins",
+       "en": "only gender"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στα ελληνικά το επίθετο συμφωνεί με το ουσιαστικό σε γένος, πτώση και αριθμό.",
+      "tr": "Yunancada sıfat isimle cins, hâl ve sayı bakımından uyuşur.",
+      "en": "In Greek the adjective agrees with the noun in gender, case and number."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι σωστό για το επίθετο;",
+      "tr": "Sıfat hakkında hangisi doğrudur?",
+      "en": "Which is true about the adjective?"
+     },
+     "options": [
+      {
+       "el": "Αλλάζει και στις δύο γλώσσες.",
+       "tr": "İki dilde de değişir.",
+       "en": "It changes in both languages."
+      },
+      {
+       "el": "Στα ελληνικά δεν αλλάζει ποτέ.",
+       "tr": "Yunancada hiç değişmez.",
+       "en": "It never changes in Greek."
+      },
+      {
+       "el": "Στα τουρκικά δεν αλλάζει, στα ελληνικά αλλάζει.",
+       "tr": "Türkçede değişmez, Yunancada değişir.",
+       "en": "It never changes in Turkish, but it changes in Greek."
+      },
+      {
+       "el": "Στα ελληνικά αλλάζει μόνο στον πληθυντικό.",
+       "tr": "Yunancada yalnızca çoğulda değişir.",
+       "en": "In Greek it changes only in the plural."
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στα τουρκικά λέμε iyi adam, iyi kadın· στα ελληνικά ο καλός φίλος, η καλή φίλη, το καλό παιδί.",
+      "tr": "Türkçede iyi adam, iyi kadın denir; Yunancada ο καλός φίλος, η καλή φίλη, το καλό παιδί.",
+      "en": "Turkish says iyi adam, iyi kadın; Greek says ο καλός φίλος, η καλή φίλη, το καλό παιδί."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η κλητική ενικού του επιθέτου «καλός» στο αρσενικό;",
+      "tr": "«καλός» sıfatının eril tekil seslenme hâli hangisidir?",
+      "en": "What is the masculine vocative singular of the adjective «καλός»?"
+     },
+     "options": [
+      {
+       "el": "καλό",
+       "tr": "καλό",
+       "en": "καλό"
+      },
+      {
+       "el": "καλού",
+       "tr": "καλού",
+       "en": "καλού"
+      },
+      {
+       "el": "καλός",
+       "tr": "καλός",
+       "en": "καλός"
+      },
+      {
+       "el": "καλέ",
+       "tr": "καλέ",
+       "en": "καλέ"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η κλητική ενικού του «καλός» στο αρσενικό είναι «καλέ».",
+      "tr": "Çekim tablosunda «καλός» sıfatının eril tekil seslenme hâli: «καλέ».",
+      "en": "In the declension table the masculine vocative singular of «καλός» is «καλέ»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η αιτιατική πληθυντικού του επιθέτου «καλός» στο αρσενικό;",
+      "tr": "«καλός» sıfatının eril çoğul -i hâli hangisidir?",
+      "en": "What is the masculine accusative plural of the adjective «καλός»?"
+     },
+     "options": [
+      {
+       "el": "τους καλοί",
+       "tr": "τους καλοί",
+       "en": "τους καλοί"
+      },
+      {
+       "el": "τις καλούς",
+       "tr": "τις καλούς",
+       "en": "τις καλούς"
+      },
+      {
+       "el": "τους καλούς",
+       "tr": "τους καλούς",
+       "en": "τους καλούς"
+      },
+      {
+       "el": "τους καλές",
+       "tr": "τους καλές",
+       "en": "τους καλές"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η αιτιατική πληθυντικού του «καλός» στο αρσενικό είναι «τους καλούς».",
+      "tr": "Çekim tablosunda «καλός» sıfatının eril çoğul -i hâli: «τους καλούς».",
+      "en": "In the declension table the masculine accusative plural of «καλός» is «τους καλούς»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού του επιθέτου «καλός» στο θηλυκό;",
+      "tr": "«καλός» sıfatının dişil tekil -in hâli hangisidir?",
+      "en": "What is the feminine genitive singular of the adjective «καλός»?"
+     },
+     "options": [
+      {
+       "el": "της καλού",
+       "tr": "της καλού",
+       "en": "της καλού"
+      },
+      {
+       "el": "της καλής",
+       "tr": "της καλής",
+       "en": "της καλής"
+      },
+      {
+       "el": "της καλός",
+       "tr": "της καλός",
+       "en": "της καλός"
+      },
+      {
+       "el": "της καλάς",
+       "tr": "της καλάς",
+       "en": "της καλάς"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού του «καλός» στο θηλυκό είναι «της καλής».",
+      "tr": "Çekim tablosunda «καλός» sıfatının dişil tekil -in hâli: «της καλής».",
+      "en": "In the declension table the feminine genitive singular of «καλός» is «της καλής»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού του επιθέτου «καλός» στο ουδέτερο;",
+      "tr": "«καλός» sıfatının nötr çoğul yalın hâli hangisidir?",
+      "en": "What is the neuter nominative plural of the adjective «καλός»?"
+     },
+     "options": [
+      {
+       "el": "τα καλοί",
+       "tr": "τα καλοί",
+       "en": "τα καλοί"
+      },
+      {
+       "el": "τα καλές",
+       "tr": "τα καλές",
+       "en": "τα καλές"
+      },
+      {
+       "el": "τα καλή",
+       "tr": "τα καλή",
+       "en": "τα καλή"
+      },
+      {
+       "el": "τα καλά",
+       "tr": "τα καλά",
+       "en": "τα καλά"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού του «καλός» στο ουδέτερο είναι «τα καλά».",
+      "tr": "Çekim tablosunda «καλός» sıfatının nötr çoğul yalın hâli: «τα καλά».",
+      "en": "In the declension table the neuter nominative plural of «καλός» is «τα καλά»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική πληθυντικού του επιθέτου «καλός» στο ουδέτερο;",
+      "tr": "«καλός» sıfatının nötr çoğul -in hâli hangisidir?",
+      "en": "What is the neuter genitive plural of the adjective «καλός»?"
+     },
+     "options": [
+      {
+       "el": "των καλού",
+       "tr": "των καλού",
+       "en": "των καλού"
+      },
+      {
+       "el": "των καλών",
+       "tr": "των καλών",
+       "en": "των καλών"
+      },
+      {
+       "el": "των καλά",
+       "tr": "των καλά",
+       "en": "των καλά"
+      },
+      {
+       "el": "των καλόν",
+       "tr": "των καλόν",
+       "en": "των καλόν"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική πληθυντικού του «καλός» στο ουδέτερο είναι «των καλών». Η γενική πληθυντικού του επιθέτου είναι ίδια σε όλα τα γένη.",
+      "tr": "Çekim tablosunda «καλός» sıfatının nötr çoğul -in hâli: «των καλών». Sıfatın çoğul -in hâli her cinste aynıdır.",
+      "en": "In the declension table the neuter genitive plural of «καλός» is «των καλών». The adjective's genitive plural is the same in all genders."
+     }
+    },
+    {
+     "q": {
+      "el": "Σαν ποιο ουσιαστικό κλίνεται το αρσενικό «καλός»;",
+      "tr": "Eril «καλός» hangi isim gibi çekilir?",
+      "en": "Which noun does masculine «καλός» decline like?"
+     },
+     "options": [
+      {
+       "el": "ο μαθητής",
+       "tr": "ο μαθητής",
+       "en": "ο μαθητής"
+      },
+      {
+       "el": "ο άντρας",
+       "tr": "ο άντρας",
+       "en": "ο άντρας"
+      },
+      {
+       "el": "ο δρόμος",
+       "tr": "ο δρόμος",
+       "en": "ο δρόμος"
+      },
+      {
+       "el": "ο καφές",
+       "tr": "ο καφές",
+       "en": "ο καφές"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Το αρσενικό του τύπου -ος/-η/-ο κλίνεται σαν «ο δρόμος».",
+      "tr": "-ος/-η/-ο türünün eril biçimi «ο δρόμος» gibi çekilir.",
+      "en": "The masculine of the -ος/-η/-ο type declines like «ο δρόμος»."
+     }
+    },
+    {
+     "q": {
+      "el": "Σαν ποιο ουσιαστικό κλίνεται το θηλυκό «καλή»;",
+      "tr": "Dişil «καλή» hangi isim gibi çekilir?",
+      "en": "Which noun does feminine «καλή» decline like?"
+     },
+     "options": [
+      {
+       "el": "η αδελφή",
+       "tr": "η αδελφή",
+       "en": "η αδελφή"
+      },
+      {
+       "el": "η θάλασσα",
+       "tr": "η θάλασσα",
+       "en": "η θάλασσα"
+      },
+      {
+       "el": "η λέξη",
+       "tr": "η λέξη",
+       "en": "η λέξη"
+      },
+      {
+       "el": "η οδός",
+       "tr": "η οδός",
+       "en": "η οδός"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Το θηλυκό «καλή» κλίνεται σαν «η αδελφή».",
+      "tr": "Dişil «καλή» «η αδελφή» gibi çekilir.",
+      "en": "The feminine «καλή» declines like «η αδελφή»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική ενικού του επιθέτου «ωραίος» στο θηλυκό;",
+      "tr": "«ωραίος» sıfatının dişil tekil yalın hâli hangisidir?",
+      "en": "What is the feminine nominative singular of the adjective «ωραίος»?"
+     },
+     "options": [
+      {
+       "el": "η ωραίη",
+       "tr": "η ωραίη",
+       "en": "η ωραίη"
+      },
+      {
+       "el": "η ωραίο",
+       "tr": "η ωραίο",
+       "en": "η ωραίο"
+      },
+      {
+       "el": "η ωραία",
+       "tr": "η ωραία",
+       "en": "η ωραία"
+      },
+      {
+       "el": "η ωραίος",
+       "tr": "η ωραίος",
+       "en": "η ωραίος"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική ενικού του «ωραίος» στο θηλυκό είναι «η ωραία».",
+      "tr": "Çekim tablosunda «ωραίος» sıfatının dişil tekil yalın hâli: «η ωραία».",
+      "en": "In the declension table the feminine nominative singular of «ωραίος» is «η ωραία»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική πληθυντικού του επιθέτου «ωραίος» στο θηλυκό;",
+      "tr": "«ωραίος» sıfatının dişil çoğul -in hâli hangisidir?",
+      "en": "What is the feminine genitive plural of the adjective «ωραίος»?"
+     },
+     "options": [
+      {
+       "el": "των ωραιών",
+       "tr": "των ωραιών",
+       "en": "των ωραιών"
+      },
+      {
+       "el": "των ωραίας",
+       "tr": "των ωραίας",
+       "en": "των ωραίας"
+      },
+      {
+       "el": "των ωραίες",
+       "tr": "των ωραίες",
+       "en": "των ωραίες"
+      },
+      {
+       "el": "των ωραίων",
+       "tr": "των ωραίων",
+       "en": "των ωραίων"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική πληθυντικού του «ωραίος» στο θηλυκό είναι «των ωραίων». Δεν παίρνει τόνο στο τέλος όπως το «θαλασσών».",
+      "tr": "Çekim tablosunda «ωραίος» sıfatının dişil çoğul -in hâli: «των ωραίων». «θαλασσών» gibi vurguyu sona almaz.",
+      "en": "In the declension table the feminine genitive plural of «ωραίος» is «των ωραίων». It does not move the stress to the end like «θαλασσών»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η αιτιατική ενικού του επιθέτου «ωραίος» στο αρσενικό;",
+      "tr": "«ωραίος» sıfatının eril tekil -i hâli hangisidir?",
+      "en": "What is the masculine accusative singular of the adjective «ωραίος»?"
+     },
+     "options": [
+      {
+       "el": "τον ωραίος",
+       "tr": "τον ωραίος",
+       "en": "τον ωραίος"
+      },
+      {
+       "el": "τον ωραία",
+       "tr": "τον ωραία",
+       "en": "τον ωραία"
+      },
+      {
+       "el": "τον ωραίο",
+       "tr": "τον ωραίο",
+       "en": "τον ωραίο"
+      },
+      {
+       "el": "τον ωραίου",
+       "tr": "τον ωραίου",
+       "en": "τον ωραίου"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η αιτιατική ενικού του «ωραίος» στο αρσενικό είναι «τον ωραίο».",
+      "tr": "Çekim tablosunda «ωραίος» sıfatının eril tekil -i hâli: «τον ωραίο».",
+      "en": "In the declension table the masculine accusative singular of «ωραίος» is «τον ωραίο»."
+     }
+    },
+    {
+     "q": {
+      "el": "Πότε ένα επίθετο ακολουθεί συνήθως τον τύπο -ος/-α/-ο (όπως «ωραίος»);",
+      "tr": "Bir sıfat genellikle ne zaman -ος/-α/-ο türünü («ωραίος» gibi) izler?",
+      "en": "When does an adjective usually follow the -ος/-α/-ο type (like «ωραίος»)?"
+     },
+     "options": [
+      {
+       "el": "όταν πριν από την κατάληξη υπάρχει φωνήεν",
+       "tr": "ekten önce ünlü olduğunda",
+       "en": "when a vowel comes before the ending"
+      },
+      {
+       "el": "όταν τονίζεται στη λήγουσα",
+       "tr": "son heceden vurgulandığında",
+       "en": "when it is stressed on the last syllable"
+      },
+      {
+       "el": "όταν πριν από την κατάληξη υπάρχει σύμφωνο",
+       "tr": "ekten önce ünsüz olduğunda",
+       "en": "when a consonant comes before the ending"
+      },
+      {
+       "el": "όταν είναι λόγιο επίθετο",
+       "tr": "resmî kökenli olduğunda",
+       "en": "when it is a learned adjective"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Ο τύπος -ος/-α/-ο εμφανίζεται συνήθως όταν πριν από την κατάληξη υπάρχει φωνήεν: νέος – νέα, κρύος – κρύα.",
+      "tr": "-ος/-α/-ο türü genellikle ekten önce ünlü varsa görülür: νέος – νέα, κρύος – κρύα.",
+      "en": "The -ος/-α/-ο type usually appears when a vowel precedes the ending: νέος – νέα, κρύος – κρύα."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική ενικού του επιθέτου «βαθύς» στο θηλυκό;",
+      "tr": "«βαθύς» sıfatının dişil tekil yalın hâli hangisidir?",
+      "en": "What is the feminine nominative singular of the adjective «βαθύς»?"
+     },
+     "options": [
+      {
+       "el": "η βαθύ",
+       "tr": "η βαθύ",
+       "en": "η βαθύ"
+      },
+      {
+       "el": "η βαθή",
+       "tr": "η βαθή",
+       "en": "η βαθή"
+      },
+      {
+       "el": "η βαθύς",
+       "tr": "η βαθύς",
+       "en": "η βαθύς"
+      },
+      {
+       "el": "η βαθιά",
+       "tr": "η βαθιά",
+       "en": "η βαθιά"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική ενικού του «βαθύς» στο θηλυκό είναι «η βαθιά».",
+      "tr": "Çekim tablosunda «βαθύς» sıfatının dişil tekil yalın hâli: «η βαθιά».",
+      "en": "In the declension table the feminine nominative singular of «βαθύς» is «η βαθιά»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού του επιθέτου «βαθύς» στο αρσενικό;",
+      "tr": "«βαθύς» sıfatının eril çoğul yalın hâli hangisidir?",
+      "en": "What is the masculine nominative plural of the adjective «βαθύς»?"
+     },
+     "options": [
+      {
+       "el": "οι βαθιοί",
+       "tr": "οι βαθιοί",
+       "en": "οι βαθιοί"
+      },
+      {
+       "el": "οι βαθοί",
+       "tr": "οι βαθοί",
+       "en": "οι βαθοί"
+      },
+      {
+       "el": "οι βαθύς",
+       "tr": "οι βαθύς",
+       "en": "οι βαθύς"
+      },
+      {
+       "el": "οι βαθιές",
+       "tr": "οι βαθιές",
+       "en": "οι βαθιές"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού του «βαθύς» στο αρσενικό είναι «οι βαθιοί». Στον πληθυντικό εμφανίζεται -ι-.",
+      "tr": "Çekim tablosunda «βαθύς» sıfatının eril çoğul yalın hâli: «οι βαθιοί». Çoğulda -ι- belirir.",
+      "en": "In the declension table the masculine nominative plural of «βαθύς» is «οι βαθιοί». In the plural an -ι- appears."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού του επιθέτου «βαθύς» στο ουδέτερο;",
+      "tr": "«βαθύς» sıfatının nötr çoğul yalın hâli hangisidir?",
+      "en": "What is the neuter nominative plural of the adjective «βαθύς»?"
+     },
+     "options": [
+      {
+       "el": "τα βαθύ",
+       "tr": "τα βαθύ",
+       "en": "τα βαθύ"
+      },
+      {
+       "el": "τα βαθιοί",
+       "tr": "τα βαθιοί",
+       "en": "τα βαθιοί"
+      },
+      {
+       "el": "τα βαθή",
+       "tr": "τα βαθή",
+       "en": "τα βαθή"
+      },
+      {
+       "el": "τα βαθιά",
+       "tr": "τα βαθιά",
+       "en": "τα βαθιά"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού του «βαθύς» στο ουδέτερο είναι «τα βαθιά».",
+      "tr": "Çekim tablosunda «βαθύς» sıfatının nötr çoğul yalın hâli: «τα βαθιά».",
+      "en": "In the declension table the neuter nominative plural of «βαθύς» is «τα βαθιά»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική ενικού του επιθέτου «συνεχής» στο ουδέτερο;",
+      "tr": "«συνεχής» sıfatının nötr tekil yalın hâli hangisidir?",
+      "en": "What is the neuter nominative singular of the adjective «συνεχής»?"
+     },
+     "options": [
+      {
+       "el": "το συνεχές",
+       "tr": "το συνεχές",
+       "en": "το συνεχές"
+      },
+      {
+       "el": "το συνεχής",
+       "tr": "το συνεχής",
+       "en": "το συνεχής"
+      },
+      {
+       "el": "το συνεχή",
+       "tr": "το συνεχή",
+       "en": "το συνεχή"
+      },
+      {
+       "el": "το συνεχό",
+       "tr": "το συνεχό",
+       "en": "το συνεχό"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική ενικού του «συνεχής» στο ουδέτερο είναι «το συνεχές».",
+      "tr": "Çekim tablosunda «συνεχής» sıfatının nötr tekil yalın hâli: «το συνεχές».",
+      "en": "In the declension table the neuter nominative singular of «συνεχής» is «το συνεχές»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού του επιθέτου «συνεχής» στο ουδέτερο;",
+      "tr": "«συνεχής» sıfatının nötr çoğul yalın hâli hangisidir?",
+      "en": "What is the neuter nominative plural of the adjective «συνεχής»?"
+     },
+     "options": [
+      {
+       "el": "τα συνεχείς",
+       "tr": "τα συνεχείς",
+       "en": "τα συνεχείς"
+      },
+      {
+       "el": "τα συνεχές",
+       "tr": "τα συνεχές",
+       "en": "τα συνεχές"
+      },
+      {
+       "el": "τα συνεχά",
+       "tr": "τα συνεχά",
+       "en": "τα συνεχά"
+      },
+      {
+       "el": "τα συνεχή",
+       "tr": "τα συνεχή",
+       "en": "τα συνεχή"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού του «συνεχής» στο ουδέτερο είναι «τα συνεχή». Προσοχή: «τα συνεχή» αλλά «οι συνεχείς».",
+      "tr": "Çekim tablosunda «συνεχής» sıfatının nötr çoğul yalın hâli: «τα συνεχή». Dikkat: «τα συνεχή» ama «οι συνεχείς».",
+      "en": "In the declension table the neuter nominative plural of «συνεχής» is «τα συνεχή». Careful: «τα συνεχή» but «οι συνεχείς»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η ονομαστική πληθυντικού του επιθέτου «συνεχής» στο αρσενικό;",
+      "tr": "«συνεχής» sıfatının eril çoğul yalın hâli hangisidir?",
+      "en": "What is the masculine nominative plural of the adjective «συνεχής»?"
+     },
+     "options": [
+      {
+       "el": "οι συνεχή",
+       "tr": "οι συνεχή",
+       "en": "οι συνεχή"
+      },
+      {
+       "el": "οι συνεχείς",
+       "tr": "οι συνεχείς",
+       "en": "οι συνεχείς"
+      },
+      {
+       "el": "οι συνεχές",
+       "tr": "οι συνεχές",
+       "en": "οι συνεχές"
+      },
+      {
+       "el": "οι συνεχοί",
+       "tr": "οι συνεχοί",
+       "en": "οι συνεχοί"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η ονομαστική πληθυντικού του «συνεχής» στο αρσενικό είναι «οι συνεχείς».",
+      "tr": "Çekim tablosunda «συνεχής» sıfatının eril çoğul yalın hâli: «οι συνεχείς».",
+      "en": "In the declension table the masculine nominative plural of «συνεχής» is «οι συνεχείς»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η γενική ενικού του επιθέτου «συνεχής» στο θηλυκό;",
+      "tr": "«συνεχής» sıfatının dişil tekil -in hâli hangisidir?",
+      "en": "What is the feminine genitive singular of the adjective «συνεχής»?"
+     },
+     "options": [
+      {
+       "el": "της συνεχούς",
+       "tr": "της συνεχούς",
+       "en": "της συνεχούς"
+      },
+      {
+       "el": "της συνεχής",
+       "tr": "της συνεχής",
+       "en": "της συνεχής"
+      },
+      {
+       "el": "της συνεχές",
+       "tr": "της συνεχές",
+       "en": "της συνεχές"
+      },
+      {
+       "el": "της συνεχίας",
+       "tr": "της συνεχίας",
+       "en": "της συνεχίας"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα κλίσης η γενική ενικού του «συνεχής» στο θηλυκό είναι «της συνεχούς».",
+      "tr": "Çekim tablosunda «συνεχής» sıfatının dişil tekil -in hâli: «της συνεχούς».",
+      "en": "In the declension table the feminine genitive singular of «συνεχής» is «της συνεχούς»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι σωστό για τον τύπο -ής/-ής/-ές (συνεχής);",
+      "tr": "-ής/-ής/-ές türü (συνεχής) için hangisi doğrudur?",
+      "en": "Which is true about the -ής/-ής/-ές type (συνεχής)?"
+     },
+     "options": [
+      {
+       "el": "Θηλυκό και ουδέτερο έχουν ίδια κατάληξη.",
+       "tr": "Dişil ve nötr aynı ekleri alır.",
+       "en": "Feminine and neuter share the same endings."
+      },
+      {
+       "el": "Αρσενικό και θηλυκό έχουν ίδια κατάληξη.",
+       "tr": "Eril ve dişil aynı ekleri alır.",
+       "en": "Masculine and feminine share the same endings."
+      },
+      {
+       "el": "Το θηλυκό τελειώνει σε -ιά.",
+       "tr": "Dişil -ιά ile biter.",
+       "en": "The feminine ends in -ιά."
+      },
+      {
+       "el": "Δεν έχει πληθυντικό.",
+       "tr": "Çoğulu yoktur.",
+       "en": "It has no plural."
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον τύπο -ής/-ής/-ές αρσενικό και θηλυκό έχουν ίδια κατάληξη (ο / η συνεχής).",
+      "tr": "-ής/-ής/-ές türünde eril ve dişil aynı eki alır (ο / η συνεχής).",
+      "en": "In the -ής/-ής/-ές type masculine and feminine share endings (ο / η συνεχής)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια πρόταση είναι σωστή;",
+      "tr": "Hangi cümle doğrudur?",
+      "en": "Which sentence is correct?"
+     },
+     "options": [
+      {
+       "el": "Η θάλασσα είναι βαθύς.",
+       "tr": "Η θάλασσα είναι βαθύς.",
+       "en": "Η θάλασσα είναι βαθύς."
+      },
+      {
+       "el": "Η θάλασσα είναι βαθύ.",
+       "tr": "Η θάλασσα είναι βαθύ.",
+       "en": "Η θάλασσα είναι βαθύ."
+      },
+      {
+       "el": "Η θάλασσα είναι βαθιοί.",
+       "tr": "Η θάλασσα είναι βαθιοί.",
+       "en": "Η θάλασσα είναι βαθιοί."
+      },
+      {
+       "el": "Η θάλασσα είναι βαθιά.",
+       "tr": "Η θάλασσα είναι βαθιά.",
+       "en": "Η θάλασσα είναι βαθιά."
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Μετά το «είμαι» το επίθετο συμφωνεί πάλι: «Η θάλασσα είναι βαθιά»· το «βαθύς» εδώ είναι συχνό λάθος.",
+      "tr": "«είμαι»dan sonra da uyum sürer: «Η θάλασσα είναι βαθιά»; «βαθύς» burada sık yapılan bir hatadır.",
+      "en": "After «είμαι» it still agrees: «Η θάλασσα είναι βαθιά»; «βαθύς» here is a common mistake."
+     }
+    },
+    {
+     "q": {
+      "el": "Συμπληρώστε: «Τα παιδιά είναι …»",
+      "tr": "Boşluğu doldurun: «Τα παιδιά είναι …» (Çocuklar iyi.)",
+      "en": "Fill in: «Τα παιδιά είναι …» (The children are good.)"
+     },
+     "options": [
+      {
+       "el": "καλοί",
+       "tr": "καλοί",
+       "en": "καλοί"
+      },
+      {
+       "el": "καλές",
+       "tr": "καλές",
+       "en": "καλές"
+      },
+      {
+       "el": "καλά",
+       "tr": "καλά",
+       "en": "καλά"
+      },
+      {
+       "el": "καλό",
+       "tr": "καλό",
+       "en": "καλό"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Το «παιδιά» είναι ουδέτερο πληθυντικού, άρα «Τα παιδιά είναι καλά».",
+      "tr": "«παιδιά» nötr çoğuldur, bu yüzden «Τα παιδιά είναι καλά».",
+      "en": "«παιδιά» is neuter plural, so «Τα παιδιά είναι καλά»."
+     }
+    },
+    {
+     "q": {
+      "el": "Πού μπαίνει συνήθως το επίθετο;",
+      "tr": "Sıfat genellikle nereye gelir?",
+      "en": "Where does the adjective usually go?"
+     },
+     "options": [
+      {
+       "el": "μετά από το ουσιαστικό (ένα σπίτι μεγάλο)",
+       "tr": "ismin arkasına (ένα σπίτι μεγάλο)",
+       "en": "after the noun (ένα σπίτι μεγάλο)"
+      },
+      {
+       "el": "πριν από το ουσιαστικό (ένα μεγάλο σπίτι)",
+       "tr": "ismin önüne (ένα μεγάλο σπίτι)",
+       "en": "before the noun (ένα μεγάλο σπίτι)"
+      },
+      {
+       "el": "πριν από το άρθρο (μεγάλο ένα σπίτι)",
+       "tr": "artikelden önce (μεγάλο ένα σπίτι)",
+       "en": "before the article (μεγάλο ένα σπίτι)"
+      },
+      {
+       "el": "πάντα στο τέλος της πρότασης",
+       "tr": "her zaman cümlenin sonuna",
+       "en": "always at the end of the sentence"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Το επίθετο μπαίνει συνήθως πριν από το ουσιαστικό: «ένα μεγάλο σπίτι».",
+      "tr": "Sıfat genellikle ismin önüne gelir: «ένα μεγάλο σπίτι».",
+      "en": "The adjective usually comes before the noun: «ένα μεγάλο σπίτι»."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι σωστό για τις καταλήξεις επιθέτου και ουσιαστικού;",
+      "tr": "Sıfat ve isim ekleri için hangisi doğrudur?",
+      "en": "Which is true about adjective and noun endings?"
+     },
+     "options": [
+      {
+       "el": "Είναι πάντα ίδιες: ο καλής μαθητής.",
+       "tr": "Her zaman aynıdır: ο καλής μαθητής.",
+       "en": "They are always identical: ο καλής μαθητής."
+      },
+      {
+       "el": "Το επίθετο παίρνει πάντα -ος.",
+       "tr": "Sıfat her zaman -ος alır.",
+       "en": "The adjective always takes -ος."
+      },
+      {
+       "el": "Το ουσιαστικό αλλάζει, το επίθετο όχι.",
+       "tr": "İsim değişir, sıfat değişmez.",
+       "en": "The noun changes; the adjective does not."
+      },
+      {
+       "el": "Δεν «ριμάρουν» πάντα: ο καλός μαθητής.",
+       "tr": "Her zaman «kafiyeli» değildir: ο καλός μαθητής.",
+       "en": "They do not always “rhyme”: ο καλός μαθητής."
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Η κατάληξη του επιθέτου δεν «ριμάρει» πάντα με του ουσιαστικού: ο καλός μαθητής, η ωραία πόλη, ο ζεστός καφές.",
+      "tr": "Sıfat eki her zaman isim ekiyle kafiyeli değildir: ο καλός μαθητής, η ωραία πόλη, ο ζεστός καφές.",
+      "en": "The adjective's ending doesn't always rhyme with the noun's: ο καλός μαθητής, η ωραία πόλη, ο ζεστός καφές."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος ελληνικός όρος σημαίνει «συμφωνία» (uyum / agreement);",
+      "tr": "«uyum» (sıfat–isim uyumu) hangi Yunanca terimle söylenir?",
+      "en": "Which Greek term means “agreement”?"
+     },
+     "options": [
+      {
+       "el": "συμφωνία",
+       "tr": "συμφωνία",
+       "en": "συμφωνία"
+      },
+      {
+       "el": "επίθετο",
+       "tr": "επίθετο",
+       "en": "επίθετο"
+      },
+      {
+       "el": "ουδέτερο",
+       "tr": "ουδέτερο",
+       "en": "ουδέτερο"
+      },
+      {
+       "el": "ενικός",
+       "tr": "ενικός",
+       "en": "ενικός"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "συμφωνία = uyum = agreement· επίθετο = sıfat = adjective.",
+      "tr": "συμφωνία = uyum; επίθετο = sıfat.",
+      "en": "συμφωνία = agreement; επίθετο = adjective."
+     }
+    }
    ]
   }
  ]

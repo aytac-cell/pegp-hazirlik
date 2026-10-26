@@ -398,6 +398,708 @@
    "sources": [
     "https://el.wiktionary.org/wiki/γράφω",
     "https://cromwell-intl.com/travel/greece/greek/verbs.html"
+   ],
+   "quiz": [
+    {
+     "q": {
+      "el": "Πόσες όψεις έχει κάθε ελληνικό ρήμα;",
+      "tr": "Yunancada her fiilin kaç görünüşü vardır?",
+      "en": "How many aspects does every Greek verb have?"
+     },
+     "options": [
+      {
+       "el": "Τρεις",
+       "tr": "Üç",
+       "en": "Three"
+      },
+      {
+       "el": "Δύο",
+       "tr": "İki",
+       "en": "Two"
+      },
+      {
+       "el": "Τέσσερις",
+       "tr": "Dört",
+       "en": "Four"
+      },
+      {
+       "el": "Μία",
+       "tr": "Bir",
+       "en": "One"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Κάθε ρήμα έχει δύο όψεις: τη συνεχή και τη στιγμιαία.",
+      "tr": "Her fiilin iki görünüşü vardır: sürekli ve anlık (basit).",
+      "en": "Every verb has two aspects: continuous and simple."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς βλέπει την πράξη η συνεχής (εξακολουθητική) όψη;",
+      "tr": "Sürekli görünüş eylemi nasıl görür?",
+      "en": "How does the continuous aspect see an action?"
+     },
+     "options": [
+      {
+       "el": "Ως κάτι που διαρκεί ή επαναλαμβάνεται",
+       "tr": "Süren ya da tekrarlanan bir şey olarak",
+       "en": "As ongoing or repeated"
+      },
+      {
+       "el": "Μόνο ως κάτι μελλοντικό",
+       "tr": "Yalnızca gelecekte olacak bir şey olarak",
+       "en": "Only as something in the future"
+      },
+      {
+       "el": "Ως ένα ολοκληρωμένο γεγονός, μία φορά",
+       "tr": "Bir kez olup biten tamamlanmış bir olay olarak",
+       "en": "As one complete event, once"
+      },
+      {
+       "el": "Ως διαταγή",
+       "tr": "Bir emir olarak",
+       "en": "As a command"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Η συνεχής όψη βλέπει την πράξη ως κάτι που διαρκεί ή επαναλαμβάνεται.",
+      "tr": "Sürekli görünüş eylemi süren ya da tekrarlanan bir şey olarak görür.",
+      "en": "The continuous aspect sees an action as ongoing or repeated."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς βλέπει την πράξη η στιγμιαία (απλή) όψη;",
+      "tr": "Anlık (basit) görünüş eylemi nasıl görür?",
+      "en": "How does the simple aspect see an action?"
+     },
+     "options": [
+      {
+       "el": "Ως κάτι που διαρκεί ή επαναλαμβάνεται",
+       "tr": "Süren ya da tekrarlanan bir şey olarak",
+       "en": "As ongoing or repeated"
+      },
+      {
+       "el": "Ως συνήθεια του παρελθόντος",
+       "tr": "Geçmişteki bir alışkanlık olarak",
+       "en": "As a past habit"
+      },
+      {
+       "el": "Ως μια κατάσταση χωρίς τέλος",
+       "tr": "Sonu olmayan bir durum olarak",
+       "en": "As a state without end"
+      },
+      {
+       "el": "Ως ένα ολοκληρωμένο γεγονός, μία φορά",
+       "tr": "Bir kez olup biten tamamlanmış bir olay olarak",
+       "en": "As one complete event, once"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Η στιγμιαία όψη βλέπει την πράξη ως ένα ολοκληρωμένο γεγονός, μία φορά.",
+      "tr": "Anlık görünüş eylemi bir kez olup biten, tamamlanmış bir olay olarak görür.",
+      "en": "The simple aspect sees an action as one complete event."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι το θέμα του ενεστώτα του «γράφω»;",
+      "tr": "«γράφω» fiilinin şimdiki zaman gövdesi hangisidir?",
+      "en": "What is the present stem of «γράφω»?"
+     },
+     "options": [
+      {
+       "el": "γραπ-",
+       "tr": "γραπ-",
+       "en": "γραπ-"
+      },
+      {
+       "el": "γραψ-",
+       "tr": "γραψ-",
+       "en": "γραψ-"
+      },
+      {
+       "el": "γραφτ-",
+       "tr": "γραφτ-",
+       "en": "γραφτ-"
+      },
+      {
+       "el": "γραφ-",
+       "tr": "γραφ-",
+       "en": "γραφ-"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Θέμα ενεστώτα: γραφ- (γράφω, έγραφα, θα γράφω).",
+      "tr": "Şimdiki zaman gövdesi: γραφ- (γράφω, έγραφα, θα γράφω).",
+      "en": "Present stem: γραφ- (γράφω, έγραφα, θα γράφω)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι το θέμα του αορίστου του «γράφω»;",
+      "tr": "«γράφω» fiilinin aorist gövdesi hangisidir?",
+      "en": "What is the aorist stem of «γράφω»?"
+     },
+     "options": [
+      {
+       "el": "γραψ-",
+       "tr": "γραψ-",
+       "en": "γραψ-"
+      },
+      {
+       "el": "γραξ-",
+       "tr": "γραξ-",
+       "en": "γραξ-"
+      },
+      {
+       "el": "γραφ-",
+       "tr": "γραφ-",
+       "en": "γραφ-"
+      },
+      {
+       "el": "γραφσ-",
+       "tr": "γραφσ-",
+       "en": "γραφσ-"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Θέμα αορίστου: γραψ- (έγραψα, θα γράψω, να γράψω, γράψε).",
+      "tr": "Aorist gövdesi: γραψ- (έγραψα, θα γράψω, να γράψω, γράψε).",
+      "en": "Aorist stem: γραψ- (έγραψα, θα γράψω, να γράψω, γράψε)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος από αυτούς τους τύπους φτιάχνεται από το θέμα του αορίστου;",
+      "tr": "Bu biçimlerden hangisi aorist gövdesinden kurulur?",
+      "en": "Which of these forms is built from the aorist stem?"
+     },
+     "options": [
+      {
+       "el": "γράφω",
+       "tr": "γράφω",
+       "en": "γράφω"
+      },
+      {
+       "el": "έγραφα",
+       "tr": "έγραφα",
+       "en": "έγραφα"
+      },
+      {
+       "el": "να γράψω",
+       "tr": "να γράψω",
+       "en": "να γράψω"
+      },
+      {
+       "el": "θα γράφω",
+       "tr": "θα γράφω",
+       "en": "θα γράφω"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Από το θέμα γραψ- φτιάχνονται έγραψα, θα γράψω, να γράψω, γράψε.",
+      "tr": "γραψ- gövdesinden έγραψα, θα γράψω, να γράψω, γράψε kurulur.",
+      "en": "The stem γραψ- gives έγραψα, θα γράψω, να γράψω, γράψε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιους δύο τύπους πρέπει να μάθεις για να σχηματίζεις σχεδόν όλους τους χρόνους;",
+      "tr": "Neredeyse bütün zamanları kurabilmek için hangi iki biçimi öğrenmelisin?",
+      "en": "Which two forms should you learn to build almost every tense?"
+     },
+     "options": [
+      {
+       "el": "Το α΄ πρόσωπο του ενεστώτα και του αορίστου",
+       "tr": "Şimdiki zamanın ve aoristin 1. tekil şahsı",
+       "en": "The 1st person of the present and of the aorist"
+      },
+      {
+       "el": "Την προστακτική και την υποτακτική",
+       "tr": "Emir kipi ve istek kipi",
+       "en": "The imperative and the subjunctive"
+      },
+      {
+       "el": "Το α΄ πρόσωπο του ενεστώτα και του παρατατικού",
+       "tr": "Şimdiki zamanın ve παρατατικός'un 1. tekil şahsı",
+       "en": "The 1st person of the present and of the imperfect"
+      },
+      {
+       "el": "Το γ΄ πρόσωπο του μέλλοντα και του παρακειμένου",
+       "tr": "Gelecek zamanın ve παρακείμενος'un 3. şahsı",
+       "en": "The 3rd person of the future and of the perfect"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Αν μάθεις το α΄ πρόσωπο του ενεστώτα και του αορίστου, σχηματίζεις σχεδόν όλους τους χρόνους.",
+      "tr": "Şimdiki zaman ve aoristin 1. tekil şahsını bilirsen neredeyse bütün zamanları kurabilirsin.",
+      "en": "Learn the 1st person of the present and of the aorist and you can build almost every tense."
+     }
+    },
+    {
+     "q": {
+      "el": "Στους παρελθοντικούς χρόνους πού πέφτει πάντα ο τόνος;",
+      "tr": "Geçmiş zamanlarda vurgu her zaman nereye düşer?",
+      "en": "In past tenses, where does the stress always fall?"
+     },
+     "options": [
+      {
+       "el": "Στη δεύτερη συλλαβή από το τέλος",
+       "tr": "Sondan ikinci heceye",
+       "en": "On the second syllable from the end"
+      },
+      {
+       "el": "Πάντα στην κατάληξη -α",
+       "tr": "Her zaman -α ekine",
+       "en": "Always on the ending -α"
+      },
+      {
+       "el": "Στην τρίτη συλλαβή από το τέλος",
+       "tr": "Sondan üçüncü heceye",
+       "en": "On the third syllable from the end"
+      },
+      {
+       "el": "Στην τελευταία συλλαβή",
+       "tr": "Son heceye",
+       "en": "On the last syllable"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον παρατατικό και στον αόριστο ο τόνος πέφτει πάντα στην τρίτη συλλαβή από το τέλος.",
+      "tr": "Παρατατικός ve αόριστος'ta vurgu her zaman sondan üçüncü heceye düşer.",
+      "en": "In the imperfect and aorist the stress always falls on the third syllable from the end."
+     }
+    },
+    {
+     "q": {
+      "el": "Τι είναι η «αύξηση»;",
+      "tr": "«αύξηση» nedir?",
+      "en": "What is the «αύξηση» (augment)?"
+     },
+     "options": [
+      {
+       "el": "Η κατάληξη -ουμε του πληθυντικού",
+       "tr": "Çoğuldaki -ουμε eki",
+       "en": "The plural ending -ουμε"
+      },
+      {
+       "el": "Ένα τονισμένο ε- μπροστά στο ρήμα στους παρελθοντικούς χρόνους",
+       "tr": "Geçmiş zamanlarda fiilin başına eklenen vurgulu ε-",
+       "en": "A stressed ε- added in front of the verb in past tenses"
+      },
+      {
+       "el": "Το μόριο θα μπροστά στο ρήμα",
+       "tr": "Fiilin önündeki θα edatı",
+       "en": "The particle θα in front of the verb"
+      },
+      {
+       "el": "Ένα -σ- που μπαίνει στο θέμα του αορίστου",
+       "tr": "Aorist gövdesine eklenen -σ-",
+       "en": "An -σ- added to the aorist stem"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Αν το ρήμα δεν έχει αρκετές συλλαβές, στο παρελθόν προσθέτουμε ένα τονισμένο ε- (γράφω → έγραψα).",
+      "tr": "Fiilde yeterli hece yoksa geçmişte başa vurgulu bir ε- eklenir (γράφω → έγραψα).",
+      "en": "If the verb is too short, a stressed ε- is added in past tenses (γράφω → έγραψα)."
+     }
+    },
+    {
+     "q": {
+      "el": "Γιατί το «γράψαμε» δεν έχει αύξηση ε-;",
+      "tr": "«γράψαμε» neden ε- öneki almaz?",
+      "en": "Why does «γράψαμε» have no augment ε-?"
+     },
+     "options": [
+      {
+       "el": "Γιατί έχει ήδη τρεις συλλαβές",
+       "tr": "Çünkü zaten üç hecesi var",
+       "en": "Because it already has three syllables"
+      },
+      {
+       "el": "Γιατί είναι μέλλοντας",
+       "tr": "Çünkü gelecek zamandır",
+       "en": "Because it is a future form"
+      },
+      {
+       "el": "Γιατί είναι ανώμαλο ρήμα",
+       "tr": "Çünkü düzensiz bir fiildir",
+       "en": "Because it is an irregular verb"
+      },
+      {
+       "el": "Γιατί η αύξηση μπαίνει μόνο στον παρατατικό",
+       "tr": "Çünkü ε- yalnızca παρατατικός'ta kullanılır",
+       "en": "Because the augment is used only in the imperfect"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στο γράψαμε υπάρχουν ήδη τρεις συλλαβές, άρα δεν χρειάζεται ε- (όπως και στο διάβασα).",
+      "tr": "γράψαμε'de zaten üç hece vardır, bu yüzden ε- gerekmez (διάβασα'da olduğu gibi).",
+      "en": "γράψαμε already has three syllables, so no ε- is needed (like διάβασα)."
+     }
+    },
+    {
+     "q": {
+      "el": "Τι εκφράζει το «θα» + ρήμα;",
+      "tr": "«θα» + fiil neyi ifade eder?",
+      "en": "What does «θα» + verb express?"
+     },
+     "options": [
+      {
+       "el": "Υποτακτική",
+       "tr": "İstek kipini",
+       "en": "The subjunctive"
+      },
+      {
+       "el": "Προστακτική",
+       "tr": "Emir kipini",
+       "en": "The imperative"
+      },
+      {
+       "el": "Μέλλοντα",
+       "tr": "Gelecek zamanı",
+       "en": "The future"
+      },
+      {
+       "el": "Παρακείμενο",
+       "tr": "Bitmişlik zamanını",
+       "en": "The perfect"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "θα + ρήμα = μέλλοντας (θα γράφω, θα γράψω)· το θα δεν αλλάζει ποτέ.",
+      "tr": "θα + fiil = gelecek zaman (θα γράφω, θα γράψω); θα hiç değişmez.",
+      "en": "θα + verb = future (θα γράφω, θα γράψω); θα never changes."
+     }
+    },
+    {
+     "q": {
+      "el": "Τι σχηματίζει το «να» + ρήμα;",
+      "tr": "«να» + fiil neyi oluşturur?",
+      "en": "What does «να» + verb form?"
+     },
+     "options": [
+      {
+       "el": "Τον παρατατικό",
+       "tr": "Παρατατικός'u",
+       "en": "The imperfect"
+      },
+      {
+       "el": "Τον μέλλοντα",
+       "tr": "Gelecek zamanı",
+       "en": "The future"
+      },
+      {
+       "el": "Τον υπερσυντέλικο",
+       "tr": "Υπερσυντέλικος'u",
+       "en": "The pluperfect"
+      },
+      {
+       "el": "Την υποτακτική (π.χ. θέλω να γράψω)",
+       "tr": "İstek kipini (ör. θέλω να γράψω)",
+       "en": "The subjunctive (e.g. θέλω να γράψω)"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "να + ρήμα = υποτακτική: επιθυμία, σκοπός, μετά από ρήματα όπως θέλω, μπορώ.",
+      "tr": "να + fiil = istek kipi: dilek, amaç; θέλω, μπορώ gibi fiillerden sonra.",
+      "en": "να + verb = subjunctive: wishes, purpose, after verbs like θέλω, μπορώ."
+     }
+    },
+    {
+     "q": {
+      "el": "Με τι φτιάχνονται οι συντελεσμένοι χρόνοι (π.χ. έχω γράψει);",
+      "tr": "Bitmişlik zamanları (ör. έχω γράψει) nasıl kurulur?",
+      "en": "How are the perfect tenses (e.g. έχω γράψει) formed?"
+     },
+     "options": [
+      {
+       "el": "να + απαρέμφατο",
+       "tr": "να + mastar",
+       "en": "να + infinitive"
+      },
+      {
+       "el": "θα + ενεστώτας",
+       "tr": "θα + şimdiki zaman",
+       "en": "θα + present"
+      },
+      {
+       "el": "έχω / είχα / θα έχω + απαρέμφατο",
+       "tr": "έχω / είχα / θα έχω + mastar (απαρέμφατο)",
+       "en": "έχω / είχα / θα έχω + infinitive"
+      },
+      {
+       "el": "είμαι + αόριστος",
+       "tr": "είμαι + aorist",
+       "en": "είμαι + aorist"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "έχω / είχα / θα έχω + απαρέμφατο (γράψει) = συντελεσμένοι χρόνοι.",
+      "tr": "έχω / είχα / θα έχω + mastar (γράψει) = bitmişlik zamanları.",
+      "en": "έχω / είχα / θα έχω + infinitive (γράψει) = perfect tenses."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος ελληνικός χρόνος αντιστοιχεί στο τουρκικό «-iyordu / -irdi»;",
+      "tr": "Türkçedeki «-iyordu / -irdi» hangi Yunanca zamana karşılık gelir?",
+      "en": "Which Greek tense matches Turkish «-iyordu / -irdi»?"
+     },
+     "options": [
+      {
+       "el": "Στιγμιαίος Μέλλοντας",
+       "tr": "Στιγμιαίος Μέλλοντας",
+       "en": "Στιγμιαίος Μέλλοντας"
+      },
+      {
+       "el": "Παρατατικός",
+       "tr": "Παρατατικός",
+       "en": "Παρατατικός"
+      },
+      {
+       "el": "Υπερσυντέλικος",
+       "tr": "Υπερσυντέλικος",
+       "en": "Υπερσυντέλικος"
+      },
+      {
+       "el": "Αόριστος",
+       "tr": "Αόριστος",
+       "en": "Αόριστος"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Ο Παρατατικός (έγραφα = yazıyordum / yazardım) αντιστοιχεί στο -iyordu / -irdi.",
+      "tr": "Παρατατικός (έγραφα = yazıyordum / yazardım), -iyordu / -irdi'ye karşılık gelir.",
+      "en": "The Παρατατικός (έγραφα = I was writing / used to write) matches -iyordu / -irdi."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς λέγεται ο χρόνος του «είχα γράψει»;",
+      "tr": "«είχα γράψει» hangi zamandır?",
+      "en": "What is the tense of «είχα γράψει» called?"
+     },
+     "options": [
+      {
+       "el": "Παρατατικός",
+       "tr": "Παρατατικός",
+       "en": "Παρατατικός"
+      },
+      {
+       "el": "Υπερσυντέλικος",
+       "tr": "Υπερσυντέλικος",
+       "en": "Υπερσυντέλικος"
+      },
+      {
+       "el": "Συντελεσμένος Μέλλοντας",
+       "tr": "Συντελεσμένος Μέλλοντας",
+       "en": "Συντελεσμένος Μέλλοντας"
+      },
+      {
+       "el": "Παρακείμενος",
+       "tr": "Παρακείμενος",
+       "en": "Παρακείμενος"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "είχα γράψει = Υπερσυντέλικος (yazmıştım, I had written).",
+      "tr": "είχα γράψει = Υπερσυντέλικος (yazmıştım).",
+      "en": "είχα γράψει = Υπερσυντέλικος (pluperfect, I had written)."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς λέγεται ο χρόνος του «θα έχω γράψει»;",
+      "tr": "«θα έχω γράψει» hangi zamandır?",
+      "en": "What is the tense of «θα έχω γράψει» called?"
+     },
+     "options": [
+      {
+       "el": "Εξακολουθητικός Μέλλοντας",
+       "tr": "Εξακολουθητικός Μέλλοντας",
+       "en": "Εξακολουθητικός Μέλλοντας"
+      },
+      {
+       "el": "Στιγμιαίος Μέλλοντας",
+       "tr": "Στιγμιαίος Μέλλοντας",
+       "en": "Στιγμιαίος Μέλλοντας"
+      },
+      {
+       "el": "Υπερσυντέλικος",
+       "tr": "Υπερσυντέλικος",
+       "en": "Υπερσυντέλικος"
+      },
+      {
+       "el": "Συντελεσμένος Μέλλοντας",
+       "tr": "Συντελεσμένος Μέλλοντας",
+       "en": "Συντελεσμένος Μέλλοντας"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "θα έχω γράψει = Συντελεσμένος Μέλλοντας (yazmış olacağım).",
+      "tr": "θα έχω γράψει = Συντελεσμένος Μέλλοντας (yazmış olacağım).",
+      "en": "θα έχω γράψει = Συντελεσμένος Μέλλοντας (future perfect, I will have written)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο αντιστοιχεί στο τουρκικό «yazdım»;",
+      "tr": "Türkçedeki «yazdım» hangisine karşılık gelir?",
+      "en": "Which form matches Turkish «yazdım» (I wrote)?"
+     },
+     "options": [
+      {
+       "el": "θα γράψω",
+       "tr": "θα γράψω",
+       "en": "θα γράψω"
+      },
+      {
+       "el": "έγραφα",
+       "tr": "έγραφα",
+       "en": "έγραφα"
+      },
+      {
+       "el": "έγραψα",
+       "tr": "έγραψα",
+       "en": "έγραψα"
+      },
+      {
+       "el": "είχα γράψει",
+       "tr": "είχα γράψει",
+       "en": "είχα γράψει"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Το «yazdım» είναι αόριστος (έγραψα)· το «yazıyordum» είναι παρατατικός (έγραφα).",
+      "tr": "«yazdım» aoristtir (έγραψα); «yazıyordum» ise παρατατικός'tur (έγραφα).",
+      "en": "«yazdım» is the aorist (έγραψα); «yazıyordum» is the imperfect (έγραφα)."
+     }
+    },
+    {
+     "q": {
+      "el": "Για μια πράξη στο μέλλον «μία φορά» (bir kez) ποιο λέμε;",
+      "tr": "Gelecekte «bir kez» olacak bir eylem için hangisi kullanılır?",
+      "en": "For a future action done «once», which form do we use?"
+     },
+     "options": [
+      {
+       "el": "θα γράφω",
+       "tr": "θα γράφω",
+       "en": "θα γράφω"
+      },
+      {
+       "el": "θα γράψω",
+       "tr": "θα γράψω",
+       "en": "θα γράψω"
+      },
+      {
+       "el": "γράφω",
+       "tr": "γράφω",
+       "en": "γράφω"
+      },
+      {
+       "el": "έγραφα",
+       "tr": "έγραφα",
+       "en": "έγραφα"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "«Μία φορά» → θα γράψω (στιγμιαίος)· «συνέχεια / κάθε μέρα» → θα γράφω.",
+      "tr": "«bir kez» → θα γράψω; «sürekli / her gün» → θα γράφω.",
+      "en": "“Once” → θα γράψω (simple); “regularly / ongoing” → θα γράφω."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι το παράδειγμα της Προστακτικής στον πίνακα;",
+      "tr": "Tablodaki Προστακτική (emir kipi) örneği hangisidir?",
+      "en": "Which is the imperative example in the table?"
+     },
+     "options": [
+      {
+       "el": "γράψε! γράψτε!",
+       "tr": "γράψε! γράψτε!",
+       "en": "γράψε! γράψτε!"
+      },
+      {
+       "el": "έχω γράψει",
+       "tr": "έχω γράψει",
+       "en": "έχω γράψει"
+      },
+      {
+       "el": "θα γράψω",
+       "tr": "θα γράψω",
+       "en": "θα γράψω"
+      },
+      {
+       "el": "να γράψω",
+       "tr": "να γράψω",
+       "en": "να γράψω"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Προστακτική: γράψε! (εσύ) / γράψτε! (εσείς).",
+      "tr": "Προστακτική: γράψε! = yaz! / γράψτε! = yazın!",
+      "en": "Imperative: γράψε! / γράψτε! = write!"
+     }
+    },
+    {
+     "q": {
+      "el": "Τι σημαίνει ο όρος «απαρέμφατο»;",
+      "tr": "«απαρέμφατο» terimi ne demektir?",
+      "en": "What does the term «απαρέμφατο» mean?"
+     },
+     "options": [
+      {
+       "el": "Η προστακτική",
+       "tr": "Emir kipi",
+       "en": "The imperative"
+      },
+      {
+       "el": "Το θέμα του ενεστώτα",
+       "tr": "Şimdiki zaman gövdesi",
+       "en": "The present stem"
+      },
+      {
+       "el": "Το ε- των παρελθοντικών χρόνων",
+       "tr": "Geçmiş zamanlardaki ε- öneki",
+       "en": "The ε- of past tenses"
+      },
+      {
+       "el": "Ο τύπος μετά το έχω (π.χ. γράψει)",
+       "tr": "έχω'dan sonraki biçim, mastar (ör. γράψει)",
+       "en": "The infinitive, the form after έχω (e.g. γράψει)"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "απαρέμφατο = ο τύπος μετά το έχω: έχω γράψει.",
+      "tr": "απαρέμφατο = έχω'dan sonraki biçim (mastar): έχω γράψει.",
+      "en": "απαρέμφατο = the infinitive, the form after έχω: έχω γράψει."
+     }
+    }
    ]
   },
   {
@@ -771,6 +1473,743 @@
     "https://en.wiktionary.org/wiki/δουλεύω",
     "https://en.wiktionary.org/wiki/ανοίγω",
     "https://cromwell-intl.com/travel/greece/greek/verbs.html"
+   ],
+   "quiz": [
+    {
+     "q": {
+      "el": "Σε τι τελειώνουν τα ρήματα της Α΄ συζυγίας;",
+      "tr": "A grubu fiillerin sonu nasıldır?",
+      "en": "How do Group A verbs end?"
+     },
+     "options": [
+      {
+       "el": "Σε -άμαι (κοιμάμαι)",
+       "tr": "-άμαι ile (κοιμάμαι)",
+       "en": "In -άμαι (κοιμάμαι)"
+      },
+      {
+       "el": "Σε -ω χωρίς τόνο (γράφω)",
+       "tr": "Vurgusuz -ω ile (γράφω)",
+       "en": "In unstressed -ω (γράφω)"
+      },
+      {
+       "el": "Σε -ομαι (σκέφτομαι)",
+       "tr": "-ομαι ile (σκέφτομαι)",
+       "en": "In -ομαι (σκέφτομαι)"
+      },
+      {
+       "el": "Σε τονισμένο -ώ (αγαπώ)",
+       "tr": "Vurgulu -ώ ile (αγαπώ)",
+       "en": "In stressed -ώ (αγαπώ)"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Η Α΄ συζυγία έχει ρήματα σε -ω χωρίς τόνο στην κατάληξη: γράφω, διαβάζω, δουλεύω.",
+      "tr": "A grubu, sonu vurgusuz -ω ile biten fiillerdir: γράφω, διαβάζω, δουλεύω.",
+      "en": "Group A has verbs in unstressed -ω: γράφω, διαβάζω, δουλεύω."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιες είναι οι καταλήξεις του ενεστώτα της Α΄ συζυγίας;",
+      "tr": "A grubunun şimdiki zaman ekleri hangileridir?",
+      "en": "Which are the Group A present endings?"
+     },
+     "options": [
+      {
+       "el": "-α, -ες, -ε, -αμε, -ατε, -αν",
+       "tr": "-α, -ες, -ε, -αμε, -ατε, -αν",
+       "en": "-α, -ες, -ε, -αμε, -ατε, -αν"
+      },
+      {
+       "el": "-ώ, -άς, -ά, -άμε, -άτε, -ούν",
+       "tr": "-ώ, -άς, -ά, -άμε, -άτε, -ούν",
+       "en": "-ώ, -άς, -ά, -άμε, -άτε, -ούν"
+      },
+      {
+       "el": "-ομαι, -εσαι, -εται, -όμαστε, -εστε, -ονται",
+       "tr": "-ομαι, -εσαι, -εται, -όμαστε, -εστε, -ονται",
+       "en": "-ομαι, -εσαι, -εται, -όμαστε, -εστε, -ονται"
+      },
+      {
+       "el": "-ω, -εις, -ει, -ουμε, -ετε, -ουν(ε)",
+       "tr": "-ω, -εις, -ει, -ουμε, -ετε, -ουν(ε)",
+       "en": "-ω, -εις, -ει, -ουμε, -ετε, -ουν(ε)"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Ενεστώτας Α΄ συζυγίας: -ω, -εις, -ει, -ουμε, -ετε, -ουν(ε).",
+      "tr": "A grubu şimdiki zaman: -ω, -εις, -ει, -ουμε, -ετε, -ουν(ε).",
+      "en": "Group A present: -ω, -εις, -ει, -ουμε, -ετε, -ουν(ε)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιοι δύο χρόνοι έχουν τις ίδιες καταλήξεις -α, -ες, -ε, -αμε, -ατε, -αν;",
+      "tr": "Hangi iki zaman aynı -α, -ες, -ε, -αμε, -ατε, -αν eklerini alır?",
+      "en": "Which two tenses share the endings -α, -ες, -ε, -αμε, -ατε, -αν?"
+     },
+     "options": [
+      {
+       "el": "Υποτακτική και προστακτική",
+       "tr": "İstek kipi ve emir kipi",
+       "en": "Subjunctive and imperative"
+      },
+      {
+       "el": "Ενεστώτας και μέλλοντας",
+       "tr": "Şimdiki zaman ve gelecek",
+       "en": "Present and future"
+      },
+      {
+       "el": "Παρακείμενος και υπερσυντέλικος",
+       "tr": "Παρακείμενος ve υπερσυντέλικος",
+       "en": "Perfect and pluperfect"
+      },
+      {
+       "el": "Παρατατικός και αόριστος",
+       "tr": "Παρατατικός ve αόριστος",
+       "en": "Imperfect and aorist"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Οι καταλήξεις του παρατατικού και του αορίστου είναι ίδιες: -α, -ες, -ε, -αμε, -ατε, -αν.",
+      "tr": "Παρατατικός ve αόριστος ekleri aynıdır: -α, -ες, -ε, -αμε, -ατε, -αν.",
+      "en": "The imperfect and the aorist share the endings -α, -ες, -ε, -αμε, -ατε, -αν."
+     }
+    },
+    {
+     "q": {
+      "el": "Γιατί το θέμα αορίστου του «γράφω» είναι γραψ-;",
+      "tr": "«γράφω» fiilinin aorist gövdesi neden γραψ-'dir?",
+      "en": "Why is the aorist stem of «γράφω» γραψ-?"
+     },
+     "options": [
+      {
+       "el": "Γιατί φ + σ = ξ",
+       "tr": "Çünkü φ + σ = ξ",
+       "en": "Because φ + σ = ξ"
+      },
+      {
+       "el": "Γιατί φ + σ = ψ",
+       "tr": "Çünkü φ + σ = ψ",
+       "en": "Because φ + σ = ψ"
+      },
+      {
+       "el": "Γιατί προστίθεται αύξηση ε-",
+       "tr": "Çünkü ε- öneki eklenir",
+       "en": "Because the augment ε- is added"
+      },
+      {
+       "el": "Γιατί είναι ανώμαλο ρήμα",
+       "tr": "Çünkü düzensiz bir fiildir",
+       "en": "Because it is an irregular verb"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον αόριστο προστίθεται -σ-, που ενώνεται με το τελευταίο σύμφωνο: φ + σ = ψ (γραψ-).",
+      "tr": "Aoristte gövdeye -σ- eklenir ve son ünsüzle birleşir: φ + σ = ψ (γραψ-).",
+      "en": "The aorist adds -σ-, which merges with the last consonant: φ + σ = ψ (γραψ-)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο αόριστος του «αγοράζω»;",
+      "tr": "«αγοράζω» fiilinin aoristi hangisidir?",
+      "en": "What is the aorist of «αγοράζω»?"
+     },
+     "options": [
+      {
+       "el": "αγόραξα",
+       "tr": "αγόραξα",
+       "en": "αγόραξα"
+      },
+      {
+       "el": "αγόραζα",
+       "tr": "αγόραζα",
+       "en": "αγόραζα"
+      },
+      {
+       "el": "αγόρασα",
+       "tr": "αγόρασα",
+       "en": "αγόρασα"
+      },
+      {
+       "el": "αγόραψα",
+       "tr": "αγόραψα",
+       "en": "αγόραψα"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "-ζω → -σα: διαβάζω → διάβασα, αγοράζω → αγόρασα.",
+      "tr": "-ζω → -σα: διαβάζω → διάβασα, αγοράζω → αγόρασα (satın aldım).",
+      "en": "-ζω → -σα: διαβάζω → διάβασα, αγοράζω → αγόρασα."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο αόριστος του «διδάσκω»;",
+      "tr": "«διδάσκω» fiilinin aoristi hangisidir?",
+      "en": "What is the aorist of «διδάσκω»?"
+     },
+     "options": [
+      {
+       "el": "δίδασκα",
+       "tr": "δίδασκα",
+       "en": "δίδασκα"
+      },
+      {
+       "el": "δίδαψα",
+       "tr": "δίδαψα",
+       "en": "δίδαψα"
+      },
+      {
+       "el": "δίδαξα",
+       "tr": "δίδαξα",
+       "en": "δίδαξα"
+      },
+      {
+       "el": "δίδασα",
+       "tr": "δίδασα",
+       "en": "δίδασα"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "-κω, -γω, -χω, -γγω, -χνω → -ξα: διδάσκω → δίδαξα.",
+      "tr": "-κω, -γω, -χω, -γγω, -χνω → -ξα: διδάσκω → δίδαξα (öğrettim).",
+      "en": "-κω, -γω, -χω, -γγω, -χνω → -ξα: διδάσκω → δίδαξα."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο αόριστος του «πλένω»;",
+      "tr": "«πλένω» fiilinin aoristi hangisidir?",
+      "en": "What is the aorist of «πλένω»?"
+     },
+     "options": [
+      {
+       "el": "πλένησα",
+       "tr": "πλένησα",
+       "en": "πλένησα"
+      },
+      {
+       "el": "έπλεσα",
+       "tr": "έπλεσα",
+       "en": "έπλεσα"
+      },
+      {
+       "el": "έπλενα",
+       "tr": "έπλενα",
+       "en": "έπλενα"
+      },
+      {
+       "el": "έπλυνα",
+       "tr": "έπλυνα",
+       "en": "έπλυνα"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στα -νω υπάρχει συχνά αλλαγή φωνήεντος: πλένω → έπλυνα (μάθε τα ένα-ένα).",
+      "tr": "-νω fiillerinde çoğu zaman ünlü değişir: πλένω → έπλυνα (tek tek ezberle).",
+      "en": "-νω verbs often change a vowel: πλένω → έπλυνα (learn them one by one)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο αόριστος του «πληρώνω»;",
+      "tr": "«πληρώνω» fiilinin aoristi hangisidir?",
+      "en": "What is the aorist of «πληρώνω»?"
+     },
+     "options": [
+      {
+       "el": "πλήρωνα",
+       "tr": "πλήρωνα",
+       "en": "πλήρωνα"
+      },
+      {
+       "el": "πλήρωσα",
+       "tr": "πλήρωσα",
+       "en": "πλήρωσα"
+      },
+      {
+       "el": "πλήρωξα",
+       "tr": "πλήρωξα",
+       "en": "πλήρωξα"
+      },
+      {
+       "el": "πλήρωψα",
+       "tr": "πλήρωψα",
+       "en": "πλήρωψα"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "-νω: συχνά -σα, π.χ. πληρώνω → πλήρωσα.",
+      "tr": "-νω: çoğu zaman -σα, ör. πληρώνω → πλήρωσα.",
+      "en": "-νω: often -σα, e.g. πληρώνω → πλήρωσα."
+     }
+    },
+    {
+     "q": {
+      "el": "Σε ποιους τύπους ξαναχρησιμοποιείς το θέμα του αορίστου γραψ-;",
+      "tr": "Aorist gövdesi γραψ- hangi biçimlerde yeniden kullanılır?",
+      "en": "In which forms do you reuse the aorist stem γραψ-?"
+     },
+     "options": [
+      {
+       "el": "θα γράψω, να γράψω, έχω γράψει, γράψε",
+       "tr": "θα γράψω, να γράψω, έχω γράψει, γράψε",
+       "en": "θα γράψω, να γράψω, έχω γράψει, γράψε"
+      },
+      {
+       "el": "γράφεις, γράφει, γράφετε",
+       "tr": "γράφεις, γράφει, γράφετε",
+       "en": "γράφεις, γράφει, γράφετε"
+      },
+      {
+       "el": "έγραφα, θα γράφω, γράφουμε",
+       "tr": "έγραφα, θα γράφω, γράφουμε",
+       "en": "έγραφα, θα γράφω, γράφουμε"
+      },
+      {
+       "el": "έγραφες, γράφαμε, γράφατε",
+       "tr": "έγραφες, γράφαμε, γράφατε",
+       "en": "έγραφες, γράφαμε, γράφατε"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Το θέμα του αορίστου χρησιμεύει και στο θα γράψω, να γράψω, έχω γράψει και στην προστακτική γράψε.",
+      "tr": "Aorist gövdesi θα γράψω, να γράψω, έχω γράψει ve γράψε emrinde de kullanılır.",
+      "en": "The aorist stem is reused in θα γράψω, να γράψω, έχω γράψει and γράψε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «γράφω» στον Παρατατικό, πρόσωπο «εμείς»;",
+      "tr": "«γράφω» fiilinin Παρατατικός (sürekli geçmiş) çekiminde «εμείς» (biz) biçimi hangisidir?",
+      "en": "Which is the imperfect (Παρατατικός) form of «γράφω» for «εμείς» (we)?"
+     },
+     "options": [
+      {
+       "el": "γράφαμε",
+       "tr": "γράφαμε",
+       "en": "γράφαμε"
+      },
+      {
+       "el": "γράφουμε",
+       "tr": "γράφουμε",
+       "en": "γράφουμε"
+      },
+      {
+       "el": "έγραφαμε",
+       "tr": "έγραφαμε",
+       "en": "έγραφαμε"
+      },
+      {
+       "el": "γράψαμε",
+       "tr": "γράψαμε",
+       "en": "γράψαμε"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα του «γράφω»: Παρατατικός, «εμείς» → γράφαμε. Χωρίς ε-, γιατί υπάρχουν ήδη τρεις συλλαβές.",
+      "tr": "«γράφω» tablosunda: Παρατατικός, «εμείς» (biz) → γράφαμε. Üç hece olduğu için ε- yok.",
+      "en": "In the table of «γράφω»: imperfect (Παρατατικός), «εμείς» → γράφαμε. No ε-: it already has three syllables."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «γράφω» στον Αόριστο, πρόσωπο «αυτοί/ές/ά»;",
+      "tr": "«γράφω» fiilinin Αόριστος (basit geçmiş) çekiminde «αυτοί/ές/ά» (onlar) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «γράφω» for «αυτοί/ές/ά» (they)?"
+     },
+     "options": [
+      {
+       "el": "γράψατε",
+       "tr": "γράψατε",
+       "en": "γράψατε"
+      },
+      {
+       "el": "έγραψε",
+       "tr": "έγραψε",
+       "en": "έγραψε"
+      },
+      {
+       "el": "έγραφαν",
+       "tr": "έγραφαν",
+       "en": "έγραφαν"
+      },
+      {
+       "el": "έγραψαν",
+       "tr": "έγραψαν",
+       "en": "έγραψαν"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα του «γράφω»: Αόριστος, «αυτοί/ές/ά» → έγραψαν.",
+      "tr": "«γράφω» tablosunda: Αόριστος, «αυτοί/ές/ά» (onlar) → έγραψαν.",
+      "en": "In the table of «γράφω»: aorist / simple past (Αόριστος), «αυτοί/ές/ά» → έγραψαν."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «γράφω» στον Υπερσυντέλικο, πρόσωπο «εσύ»;",
+      "tr": "«γράφω» fiilinin Υπερσυντέλικος (-mıştı) çekiminde «εσύ» (sen) biçimi hangisidir?",
+      "en": "Which is the pluperfect (Υπερσυντέλικος) form of «γράφω» for «εσύ» (you sg.)?"
+     },
+     "options": [
+      {
+       "el": "έχεις γράψει",
+       "tr": "έχεις γράψει",
+       "en": "έχεις γράψει"
+      },
+      {
+       "el": "είχες γράψει",
+       "tr": "είχες γράψει",
+       "en": "είχες γράψει"
+      },
+      {
+       "el": "θα έχεις γράψει",
+       "tr": "θα έχεις γράψει",
+       "en": "θα έχεις γράψει"
+      },
+      {
+       "el": "είχες γράφει",
+       "tr": "είχες γράφει",
+       "en": "είχες γράφει"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα του «γράφω»: Υπερσυντέλικος, «εσύ» → είχες γράψει.",
+      "tr": "«γράφω» tablosunda: Υπερσυντέλικος, «εσύ» (sen) → είχες γράψει.",
+      "en": "In the table of «γράφω»: pluperfect (Υπερσυντέλικος), «εσύ» → είχες γράψει."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «γράφω» στον Συντελεσμένο Μέλλοντα, πρόσωπο «εμείς»;",
+      "tr": "«γράφω» fiilinin Συντελεσμένος Μέλλοντας (-mış olacak) çekiminde «εμείς» (biz) biçimi hangisidir?",
+      "en": "Which is the future perfect (Συντελεσμένος Μέλλοντας) form of «γράφω» for «εμείς» (we)?"
+     },
+     "options": [
+      {
+       "el": "είχαμε γράψει",
+       "tr": "είχαμε γράψει",
+       "en": "είχαμε γράψει"
+      },
+      {
+       "el": "θα γράψουμε",
+       "tr": "θα γράψουμε",
+       "en": "θα γράψουμε"
+      },
+      {
+       "el": "έχουμε γράψει",
+       "tr": "έχουμε γράψει",
+       "en": "έχουμε γράψει"
+      },
+      {
+       "el": "θα έχουμε γράψει",
+       "tr": "θα έχουμε γράψει",
+       "en": "θα έχουμε γράψει"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα του «γράφω»: Συντελεσμένος Μέλλοντας, «εμείς» → θα έχουμε γράψει.",
+      "tr": "«γράφω» tablosunda: Συντελεσμένος Μέλλοντας, «εμείς» (biz) → θα έχουμε γράψει.",
+      "en": "In the table of «γράφω»: future perfect (Συντελεσμένος Μέλλοντας), «εμείς» → θα έχουμε γράψει."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «γράφω» στην Προστακτική, πρόσωπο «εσείς»;",
+      "tr": "«γράφω» fiilinin Προστακτική (emir kipi) çekiminde «εσείς» (siz) biçimi hangisidir?",
+      "en": "Which is the imperative (Προστακτική) form of «γράφω» for «εσείς» (you pl.)?"
+     },
+     "options": [
+      {
+       "el": "γράψτε",
+       "tr": "γράψτε",
+       "en": "γράψτε"
+      },
+      {
+       "el": "γράψετε",
+       "tr": "γράψετε",
+       "en": "γράψετε"
+      },
+      {
+       "el": "έγραψτε",
+       "tr": "έγραψτε",
+       "en": "έγραψτε"
+      },
+      {
+       "el": "γράψε",
+       "tr": "γράψε",
+       "en": "γράψε"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα του «γράφω»: Προστακτική, «εσείς» → γράψτε.",
+      "tr": "«γράφω» tablosunda: Προστακτική, «εσείς» (siz) → γράψτε.",
+      "en": "In the table of «γράφω»: imperative (Προστακτική), «εσείς» → γράψτε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «διαβάζω» στον Αόριστο, πρόσωπο «εγώ»;",
+      "tr": "«διαβάζω» fiilinin Αόριστος (basit geçmiş) çekiminde «εγώ» (ben) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «διαβάζω» for «εγώ» (I)?"
+     },
+     "options": [
+      {
+       "el": "εδιάβασα",
+       "tr": "εδιάβασα",
+       "en": "εδιάβασα"
+      },
+      {
+       "el": "διάβαζα",
+       "tr": "διάβαζα",
+       "en": "διάβαζα"
+      },
+      {
+       "el": "διάβασα",
+       "tr": "διάβασα",
+       "en": "διάβασα"
+      },
+      {
+       "el": "διάβαξα",
+       "tr": "διάβαξα",
+       "en": "διάβαξα"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα του «διαβάζω»: Αόριστος, «εγώ» → διάβασα. Το διάβασα έχει ήδη τρεις συλλαβές, άρα χωρίς αύξηση.",
+      "tr": "«διαβάζω» tablosunda: Αόριστος, «εγώ» (ben) → διάβασα. διάβασα zaten üç hecelidir, ε- almaz.",
+      "en": "In the table of «διαβάζω»: aorist / simple past (Αόριστος), «εγώ» → διάβασα. διάβασα already has three syllables, so no augment."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «διαβάζω» στον Αόριστο, πρόσωπο «εμείς»;",
+      "tr": "«διαβάζω» fiilinin Αόριστος (basit geçmiş) çekiminde «εμείς» (biz) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «διαβάζω» for «εμείς» (we)?"
+     },
+     "options": [
+      {
+       "el": "διαβάσαμε",
+       "tr": "διαβάσαμε",
+       "en": "διαβάσαμε"
+      },
+      {
+       "el": "διαβάζαμε",
+       "tr": "διαβάζαμε",
+       "en": "διαβάζαμε"
+      },
+      {
+       "el": "διάβασαμε",
+       "tr": "διάβασαμε",
+       "en": "διάβασαμε"
+      },
+      {
+       "el": "εδιαβάσαμε",
+       "tr": "εδιαβάσαμε",
+       "en": "εδιαβάσαμε"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα του «διαβάζω»: Αόριστος, «εμείς» → διαβάσαμε.",
+      "tr": "«διαβάζω» tablosunda: Αόριστος, «εμείς» (biz) → διαβάσαμε.",
+      "en": "In the table of «διαβάζω»: aorist / simple past (Αόριστος), «εμείς» → διαβάσαμε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «δουλεύω» στον Αόριστο, πρόσωπο «εγώ»;",
+      "tr": "«δουλεύω» fiilinin Αόριστος (basit geçmiş) çekiminde «εγώ» (ben) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «δουλεύω» for «εγώ» (I)?"
+     },
+     "options": [
+      {
+       "el": "δούλεξα",
+       "tr": "δούλεξα",
+       "en": "δούλεξα"
+      },
+      {
+       "el": "δούλεσα",
+       "tr": "δούλεσα",
+       "en": "δούλεσα"
+      },
+      {
+       "el": "δούλεψα",
+       "tr": "δούλεψα",
+       "en": "δούλεψα"
+      },
+      {
+       "el": "δούλευα",
+       "tr": "δούλευα",
+       "en": "δούλευα"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα του «δουλεύω»: Αόριστος, «εγώ» → δούλεψα. -εύω → -εψ-.",
+      "tr": "«δουλεύω» tablosunda: Αόριστος, «εγώ» (ben) → δούλεψα. -εύω → -εψ-.",
+      "en": "In the table of «δουλεύω»: aorist / simple past (Αόριστος), «εγώ» → δούλεψα. -εύω → -εψ-."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «δουλεύω» στον Στιγμιαίο Μέλλοντα, πρόσωπο «εσείς»;",
+      "tr": "«δουλεύω» fiilinin Στιγμιαίος Μέλλοντας (basit gelecek) çekiminde «εσείς» (siz) biçimi hangisidir?",
+      "en": "Which is the simple future (Στιγμιαίος Μέλλοντας) form of «δουλεύω» for «εσείς» (you pl.)?"
+     },
+     "options": [
+      {
+       "el": "θα δουλέψετε",
+       "tr": "θα δουλέψετε",
+       "en": "θα δουλέψετε"
+      },
+      {
+       "el": "θα δουλέψατε",
+       "tr": "θα δουλέψατε",
+       "en": "θα δουλέψατε"
+      },
+      {
+       "el": "θα δούλεψετε",
+       "tr": "θα δούλεψετε",
+       "en": "θα δούλεψετε"
+      },
+      {
+       "el": "θα δουλεύετε",
+       "tr": "θα δουλεύετε",
+       "en": "θα δουλεύετε"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα του «δουλεύω»: Στιγμιαίος Μέλλοντας, «εσείς» → θα δουλέψετε.",
+      "tr": "«δουλεύω» tablosunda: Στιγμιαίος Μέλλοντας, «εσείς» (siz) → θα δουλέψετε.",
+      "en": "In the table of «δουλεύω»: simple future (Στιγμιαίος Μέλλοντας), «εσείς» → θα δουλέψετε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «ανοίγω» στον Αόριστο, πρόσωπο «εγώ»;",
+      "tr": "«ανοίγω» fiilinin Αόριστος (basit geçmiş) çekiminde «εγώ» (ben) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «ανοίγω» for «εγώ» (I)?"
+     },
+     "options": [
+      {
+       "el": "ανοίγησα",
+       "tr": "ανοίγησα",
+       "en": "ανοίγησα"
+      },
+      {
+       "el": "άνοιξα",
+       "tr": "άνοιξα",
+       "en": "άνοιξα"
+      },
+      {
+       "el": "άνοιγα",
+       "tr": "άνοιγα",
+       "en": "άνοιγα"
+      },
+      {
+       "el": "άνοιψα",
+       "tr": "άνοιψα",
+       "en": "άνοιψα"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα του «ανοίγω»: Αόριστος, «εγώ» → άνοιξα. -γω → -ξ-.",
+      "tr": "«ανοίγω» tablosunda: Αόριστος, «εγώ» (ben) → άνοιξα. -γω → -ξ-.",
+      "en": "In the table of «ανοίγω»: aorist / simple past (Αόριστος), «εγώ» → άνοιξα. -γω → -ξ-."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «ανοίγω» στον Αόριστο, πρόσωπο «εσείς»;",
+      "tr": "«ανοίγω» fiilinin Αόριστος (basit geçmiş) çekiminde «εσείς» (siz) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «ανοίγω» for «εσείς» (you pl.)?"
+     },
+     "options": [
+      {
+       "el": "ανοίξατε",
+       "tr": "ανοίξατε",
+       "en": "ανοίξατε"
+      },
+      {
+       "el": "ανοίγατε",
+       "tr": "ανοίγατε",
+       "en": "ανοίγατε"
+      },
+      {
+       "el": "άνοιξατε",
+       "tr": "άνοιξατε",
+       "en": "άνοιξατε"
+      },
+      {
+       "el": "ανοίξετε",
+       "tr": "ανοίξετε",
+       "en": "ανοίξετε"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα του «ανοίγω»: Αόριστος, «εσείς» → ανοίξατε.",
+      "tr": "«ανοίγω» tablosunda: Αόριστος, «εσείς» (siz) → ανοίξατε.",
+      "en": "In the table of «ανοίγω»: aorist / simple past (Αόριστος), «εσείς» → ανοίξατε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η προστακτική (εσύ) του «ανοίγω»;",
+      "tr": "«ανοίγω» fiilinin emir kipi (εσύ / sen) hangisidir?",
+      "en": "What is the imperative (εσύ) of «ανοίγω»?"
+     },
+     "options": [
+      {
+       "el": "ανοίξε",
+       "tr": "ανοίξε",
+       "en": "ανοίξε"
+      },
+      {
+       "el": "ανοίγησε",
+       "tr": "ανοίγησε",
+       "en": "ανοίγησε"
+      },
+      {
+       "el": "άνοιξε",
+       "tr": "άνοιξε",
+       "en": "άνοιξε"
+      },
+      {
+       "el": "άνοιψε",
+       "tr": "άνοιψε",
+       "en": "άνοιψε"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Προστακτική του ανοίγω: άνοιξε, ανοίξτε.",
+      "tr": "ανοίγω emir kipi: άνοιξε (aç!), ανοίξτε (açın!).",
+      "en": "Imperative of ανοίγω: άνοιξε, ανοίξτε."
+     }
+    }
    ]
   },
   {
@@ -1109,6 +2548,708 @@
     "https://en.wiktionary.org/wiki/μιλάω",
     "https://en.wiktionary.org/wiki/ρωτάω",
     "https://breezygreek.substack.com/p/greek-verbs-conjugation-in-group-dcd"
+   ],
+   "quiz": [
+    {
+     "q": {
+      "el": "Πού πέφτει ο τόνος στη Β΄ συζυγία;",
+      "tr": "B grubunda vurgu nerededir?",
+      "en": "Where is the stress in Group B?"
+     },
+     "options": [
+      {
+       "el": "Στην κατάληξη (-ώ)",
+       "tr": "Çekim ekinde (-ώ)",
+       "en": "On the ending (-ώ)"
+      },
+      {
+       "el": "Στο θέμα, όπως στο γράφω",
+       "tr": "γράφω'daki gibi gövdede",
+       "en": "On the stem, as in γράφω"
+      },
+      {
+       "el": "Πάντα στην πρώτη συλλαβή",
+       "tr": "Her zaman ilk hecede",
+       "en": "Always on the first syllable"
+      },
+      {
+       "el": "Στην αύξηση ε-",
+       "tr": "ε- önekinde",
+       "en": "On the augment ε-"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στη Β΄ συζυγία ο τόνος είναι στην κατάληξη (-ώ).",
+      "tr": "B grubunda vurgu çekim ekindedir (-ώ).",
+      "en": "In Group B the stress is on the ending (-ώ)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η άλλη μορφή του α΄ προσώπου «αγαπώ»;",
+      "tr": "«αγαπώ» biçiminin diğer 1. şahıs biçimi hangisidir?",
+      "en": "What is the other 1st-person form of «αγαπώ»?"
+     },
+     "options": [
+      {
+       "el": "αγαπίζω",
+       "tr": "αγαπίζω",
+       "en": "αγαπίζω"
+      },
+      {
+       "el": "αγαπάω",
+       "tr": "αγαπάω",
+       "en": "αγαπάω"
+      },
+      {
+       "el": "αγαπέω",
+       "tr": "αγαπέω",
+       "en": "αγαπέω"
+      },
+      {
+       "el": "αγαπάγω",
+       "tr": "αγαπάγω",
+       "en": "αγαπάγω"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Σχεδόν πάντα υπάρχουν δύο μορφές: αγαπώ = αγαπάω, μιλώ = μιλάω.",
+      "tr": "Neredeyse her zaman iki biçim vardır: αγαπώ = αγαπάω, μιλώ = μιλάω.",
+      "en": "There are almost always two forms: αγαπώ = αγαπάω, μιλώ = μιλάω."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια από τις δύο μορφές (αγαπώ / αγαπάω) είναι πιο καθημερινή;",
+      "tr": "İki biçimden (αγαπώ / αγαπάω) hangisi daha gündelik?",
+      "en": "Which of the two forms (αγαπώ / αγαπάω) is more everyday?"
+     },
+     "options": [
+      {
+       "el": "Καμία· η -ώ είναι λάθος",
+       "tr": "Hiçbiri; -ώ yanlıştır",
+       "en": "Neither; -ώ is wrong"
+      },
+      {
+       "el": "Η μορφή σε -ώ",
+       "tr": "-ώ biçimi",
+       "en": "The -ώ form"
+      },
+      {
+       "el": "Η μορφή σε -άω",
+       "tr": "-άω biçimi",
+       "en": "The -άω form"
+      },
+      {
+       "el": "Καμία· η -άω είναι λάθος",
+       "tr": "Hiçbiri; -άω yanlıştır",
+       "en": "Neither; -άω is wrong"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Και οι δύο είναι σωστές· η -άω είναι πιο καθημερινή.",
+      "tr": "İkisi de doğrudur; -άω daha gündeliktir.",
+      "en": "Both are correct; -άω is more everyday."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς σχηματίζεται ο παρατατικός της ομάδας Β1;",
+      "tr": "B1 grubunda παρατατικός nasıl kurulur?",
+      "en": "How is the Group B1 imperfect formed?"
+     },
+     "options": [
+      {
+       "el": "Θέμα + -ησα, με αύξηση",
+       "tr": "Gövde + -ησα, ε- önekiyle",
+       "en": "Stem + -ησα, with augment"
+      },
+      {
+       "el": "Θέμα + -ούσα, χωρίς αύξηση",
+       "tr": "Gövde + -ούσα, ε- öneki olmadan",
+       "en": "Stem + -ούσα, no augment"
+      },
+      {
+       "el": "θα + ενεστώτας",
+       "tr": "θα + şimdiki zaman",
+       "en": "θα + present"
+      },
+      {
+       "el": "ε- + θέμα + -α",
+       "tr": "ε- + gövde + -α",
+       "en": "ε- + stem + -α"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Παρατατικός Β1: θέμα + -ούσα (αγαπούσα, μιλούσα), χωρίς αύξηση.",
+      "tr": "B1 παρατατικός: gövde + -ούσα (αγαπούσα, μιλούσα), ε- öneki yok.",
+      "en": "B1 imperfect: stem + -ούσα (αγαπούσα, μιλούσα), no augment."
+     }
+    },
+    {
+     "q": {
+      "el": "Σε τι τελειώνει συνήθως ο αόριστος της ομάδας Β1;",
+      "tr": "B1 grubunda aorist genellikle nasıl biter?",
+      "en": "How does the Group B1 aorist usually end?"
+     },
+     "options": [
+      {
+       "el": "Σε -ούσα (αγαπούσα)",
+       "tr": "-ούσα ile (αγαπούσα)",
+       "en": "In -ούσα (αγαπούσα)"
+      },
+      {
+       "el": "Σε -θηκα (κοιμήθηκα)",
+       "tr": "-θηκα ile (κοιμήθηκα)",
+       "en": "In -θηκα (κοιμήθηκα)"
+      },
+      {
+       "el": "Σε -ησα (αγάπησα)",
+       "tr": "-ησα ile (αγάπησα)",
+       "en": "In -ησα (αγάπησα)"
+      },
+      {
+       "el": "Σε -ξα (άνοιξα)",
+       "tr": "-ξα ile (άνοιξα)",
+       "en": "In -ξα (άνοιξα)"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Αόριστος Β1: θέμα + -ησα (αγάπησα, μίλησα, ρώτησα).",
+      "tr": "B1 aorist: gövde + -ησα (αγάπησα, μίλησα, ρώτησα).",
+      "en": "B1 aorist: stem + -ησα (αγάπησα, μίλησα, ρώτησα)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο αόριστος του «γελάω»;",
+      "tr": "«γελάω» fiilinin aoristi hangisidir?",
+      "en": "What is the aorist of «γελάω»?"
+     },
+     "options": [
+      {
+       "el": "γέλησα",
+       "tr": "γέλησα",
+       "en": "γέλησα"
+      },
+      {
+       "el": "γελούσα",
+       "tr": "γελούσα",
+       "en": "γελούσα"
+      },
+      {
+       "el": "γέλασα",
+       "tr": "γέλασα",
+       "en": "γέλασα"
+      },
+      {
+       "el": "γέλεσα",
+       "tr": "γέλεσα",
+       "en": "γέλεσα"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Λίγα ρήματα έχουν -ασα ή -εσα αντί για -ησα: γελάω → γέλασα.",
+      "tr": "Birkaç fiil -ησα yerine -ασα ya da -εσα alır: γελάω → γέλασα.",
+      "en": "A few verbs take -ασα or -εσα instead of -ησα: γελάω → γέλασα."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο αόριστος του «φοράω»;",
+      "tr": "«φοράω» fiilinin aoristi hangisidir?",
+      "en": "What is the aorist of «φοράω»?"
+     },
+     "options": [
+      {
+       "el": "φορούσα",
+       "tr": "φορούσα",
+       "en": "φορούσα"
+      },
+      {
+       "el": "φόρασα",
+       "tr": "φόρασα",
+       "en": "φόρασα"
+      },
+      {
+       "el": "φόρησα",
+       "tr": "φόρησα",
+       "en": "φόρησα"
+      },
+      {
+       "el": "φόρεσα",
+       "tr": "φόρεσα",
+       "en": "φόρεσα"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Το φοράω παίρνει -εσα: φόρεσα.",
+      "tr": "φοράω -εσα alır: φόρεσα.",
+      "en": "φοράω takes -εσα: φόρεσα."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο αόριστος του «πεινάω»;",
+      "tr": "«πεινάω» fiilinin aoristi hangisidir?",
+      "en": "What is the aorist of «πεινάω»?"
+     },
+     "options": [
+      {
+       "el": "πείνασα",
+       "tr": "πείνασα",
+       "en": "πείνασα"
+      },
+      {
+       "el": "πείνησα",
+       "tr": "πείνησα",
+       "en": "πείνησα"
+      },
+      {
+       "el": "πείνεσα",
+       "tr": "πείνεσα",
+       "en": "πείνεσα"
+      },
+      {
+       "el": "πεινούσα",
+       "tr": "πεινούσα",
+       "en": "πεινούσα"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Το πεινάω παίρνει -ασα: πείνασα.",
+      "tr": "πεινάω -ασα alır: πείνασα.",
+      "en": "πεινάω takes -ασα: πείνασα."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιον λαϊκό παρατατικό του «αγαπώ» αναφέρει το μάθημα;",
+      "tr": "Ders «αγαπώ» için hangi halk ağzı παρατατικός biçimini anıyor?",
+      "en": "Which colloquial imperfect of «αγαπώ» does the lesson mention?"
+     },
+     "options": [
+      {
+       "el": "αγάπα",
+       "tr": "αγάπα",
+       "en": "αγάπα"
+      },
+      {
+       "el": "αγάπησα",
+       "tr": "αγάπησα",
+       "en": "αγάπησα"
+      },
+      {
+       "el": "αγάπαγα",
+       "tr": "αγάπαγα",
+       "en": "αγάπαγα"
+      },
+      {
+       "el": "αγαπήσω",
+       "tr": "αγαπήσω",
+       "en": "αγαπήσω"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Υπάρχει και λαϊκός παρατατικός αγάπαγα (όπως μίλαγα).",
+      "tr": "Halk ağzında αγάπαγα παρατατικός'u da vardır (μίλαγα gibi).",
+      "en": "A colloquial imperfect αγάπαγα also exists (like μίλαγα)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιοι τύποι εμφανίζονται συχνότερα στα γραπτά κείμενα και στις εξετάσεις;",
+      "tr": "Yazılı metinlerde ve sınavlarda hangi biçimler daha sık görülür?",
+      "en": "Which forms appear more often in written texts and exams?"
+     },
+     "options": [
+      {
+       "el": "μιλάω, ρωτάω, μιλάνε",
+       "tr": "μιλάω, ρωτάω, μιλάνε",
+       "en": "μιλάω, ρωτάω, μιλάνε"
+      },
+      {
+       "el": "μίλαγα, αγάπαγα",
+       "tr": "μίλαγα, αγάπαγα",
+       "en": "μίλαγα, αγάπαγα"
+      },
+      {
+       "el": "μίλα, ρώτα, αγάπα",
+       "tr": "μίλα, ρώτα, αγάπα",
+       "en": "μίλα, ρώτα, αγάπα"
+      },
+      {
+       "el": "μιλώ, ρωτώ, αγαπούν",
+       "tr": "μιλώ, ρωτώ, αγαπούν",
+       "en": "μιλώ, ρωτώ, αγαπούν"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον προφορικό λόγο ακούς μιλάω, ρωτάω, μιλάνε· στα γραπτά συναντάς συχνότερα μιλώ, ρωτώ, αγαπούν.",
+      "tr": "Konuşmada μιλάω, ρωτάω, μιλάνε duyulur; yazıda daha çok μιλώ, ρωτώ, αγαπούν görülür.",
+      "en": "Speech uses μιλάω, ρωτάω, μιλάνε; written texts more often μιλώ, ρωτώ, αγαπούν."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «αγαπώ / αγαπάω» στον Παρατατικό, πρόσωπο «εσύ»;",
+      "tr": "«αγαπώ / αγαπάω» fiilinin Παρατατικός (sürekli geçmiş) çekiminde «εσύ» (sen) biçimi hangisidir?",
+      "en": "Which is the imperfect (Παρατατικός) form of «αγαπώ / αγαπάω» for «εσύ» (you sg.)?"
+     },
+     "options": [
+      {
+       "el": "αγαπούσες",
+       "tr": "αγαπούσες",
+       "en": "αγαπούσες"
+      },
+      {
+       "el": "αγάπησες",
+       "tr": "αγάπησες",
+       "en": "αγάπησες"
+      },
+      {
+       "el": "αγαπούσατε",
+       "tr": "αγαπούσατε",
+       "en": "αγαπούσατε"
+      },
+      {
+       "el": "αγαπάς",
+       "tr": "αγαπάς",
+       "en": "αγαπάς"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα του «αγαπώ / αγαπάω»: Παρατατικός, «εσύ» → αγαπούσες.",
+      "tr": "«αγαπώ / αγαπάω» tablosunda: Παρατατικός, «εσύ» (sen) → αγαπούσες.",
+      "en": "In the table of «αγαπώ / αγαπάω»: imperfect (Παρατατικός), «εσύ» → αγαπούσες."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «αγαπώ / αγαπάω» στον Αόριστο, πρόσωπο «εμείς»;",
+      "tr": "«αγαπώ / αγαπάω» fiilinin Αόριστος (basit geçmiş) çekiminde «εμείς» (biz) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «αγαπώ / αγαπάω» for «εμείς» (we)?"
+     },
+     "options": [
+      {
+       "el": "αγαπήσαμε",
+       "tr": "αγαπήσαμε",
+       "en": "αγαπήσαμε"
+      },
+      {
+       "el": "αγαπούσαμε",
+       "tr": "αγαπούσαμε",
+       "en": "αγαπούσαμε"
+      },
+      {
+       "el": "αγάπησαμε",
+       "tr": "αγάπησαμε",
+       "en": "αγάπησαμε"
+      },
+      {
+       "el": "αγαπάμε",
+       "tr": "αγαπάμε",
+       "en": "αγαπάμε"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα του «αγαπώ / αγαπάω»: Αόριστος, «εμείς» → αγαπήσαμε. Ο τόνος μένει στην τρίτη συλλαβή από το τέλος.",
+      "tr": "«αγαπώ / αγαπάω» tablosunda: Αόριστος, «εμείς» (biz) → αγαπήσαμε. Vurgu sondan üçüncü hecede kalır.",
+      "en": "In the table of «αγαπώ / αγαπάω»: aorist / simple past (Αόριστος), «εμείς» → αγαπήσαμε. The stress stays on the third syllable from the end."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «αγαπώ / αγαπάω» στον Στιγμιαίο Μέλλοντα, πρόσωπο «αυτός/ή/ό»;",
+      "tr": "«αγαπώ / αγαπάω» fiilinin Στιγμιαίος Μέλλοντας (basit gelecek) çekiminde «αυτός/ή/ό» (o) biçimi hangisidir?",
+      "en": "Which is the simple future (Στιγμιαίος Μέλλοντας) form of «αγαπώ / αγαπάω» for «αυτός/ή/ό» (he/she/it)?"
+     },
+     "options": [
+      {
+       "el": "θα αγαπά",
+       "tr": "θα αγαπά",
+       "en": "θα αγαπά"
+      },
+      {
+       "el": "θα αγάπησε",
+       "tr": "θα αγάπησε",
+       "en": "θα αγάπησε"
+      },
+      {
+       "el": "θα αγαπήσει",
+       "tr": "θα αγαπήσει",
+       "en": "θα αγαπήσει"
+      },
+      {
+       "el": "θα αγαπήσεις",
+       "tr": "θα αγαπήσεις",
+       "en": "θα αγαπήσεις"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα του «αγαπώ / αγαπάω»: Στιγμιαίος Μέλλοντας, «αυτός/ή/ό» → θα αγαπήσει.",
+      "tr": "«αγαπώ / αγαπάω» tablosunda: Στιγμιαίος Μέλλοντας, «αυτός/ή/ό» (o) → θα αγαπήσει.",
+      "en": "In the table of «αγαπώ / αγαπάω»: simple future (Στιγμιαίος Μέλλοντας), «αυτός/ή/ό» → θα αγαπήσει."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «αγαπώ / αγαπάω» στην Προστακτική, πρόσωπο «εσείς»;",
+      "tr": "«αγαπώ / αγαπάω» fiilinin Προστακτική (emir kipi) çekiminde «εσείς» (siz) biçimi hangisidir?",
+      "en": "Which is the imperative (Προστακτική) form of «αγαπώ / αγαπάω» for «εσείς» (you pl.)?"
+     },
+     "options": [
+      {
+       "el": "αγαπήστε",
+       "tr": "αγαπήστε",
+       "en": "αγαπήστε"
+      },
+      {
+       "el": "αγαπήσετε",
+       "tr": "αγαπήσετε",
+       "en": "αγαπήσετε"
+      },
+      {
+       "el": "αγαπήσατε",
+       "tr": "αγαπήσατε",
+       "en": "αγαπήσατε"
+      },
+      {
+       "el": "αγάπηστε",
+       "tr": "αγάπηστε",
+       "en": "αγάπηστε"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα του «αγαπώ / αγαπάω»: Προστακτική, «εσείς» → αγαπήστε.",
+      "tr": "«αγαπώ / αγαπάω» tablosunda: Προστακτική, «εσείς» (siz) → αγαπήστε.",
+      "en": "In the table of «αγαπώ / αγαπάω»: imperative (Προστακτική), «εσείς» → αγαπήστε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «μιλάω / μιλώ» στον Αόριστο, πρόσωπο «εγώ»;",
+      "tr": "«μιλάω / μιλώ» fiilinin Αόριστος (basit geçmiş) çekiminde «εγώ» (ben) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «μιλάω / μιλώ» for «εγώ» (I)?"
+     },
+     "options": [
+      {
+       "el": "μίλασα",
+       "tr": "μίλασα",
+       "en": "μίλασα"
+      },
+      {
+       "el": "μιλούσα",
+       "tr": "μιλούσα",
+       "en": "μιλούσα"
+      },
+      {
+       "el": "εμίλησα",
+       "tr": "εμίλησα",
+       "en": "εμίλησα"
+      },
+      {
+       "el": "μίλησα",
+       "tr": "μίλησα",
+       "en": "μίλησα"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα του «μιλάω / μιλώ»: Αόριστος, «εγώ» → μίλησα.",
+      "tr": "«μιλάω / μιλώ» tablosunda: Αόριστος, «εγώ» (ben) → μίλησα.",
+      "en": "In the table of «μιλάω / μιλώ»: aorist / simple past (Αόριστος), «εγώ» → μίλησα."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «μιλάω / μιλώ» στον Ενεστώτα, πρόσωπο «αυτοί/ές/ά»;",
+      "tr": "«μιλάω / μιλώ» fiilinin Ενεστώτας (şimdiki zaman) çekiminde «αυτοί/ές/ά» (onlar) biçimi hangisidir?",
+      "en": "Which is the present (Ενεστώτας) form of «μιλάω / μιλώ» for «αυτοί/ές/ά» (they)?"
+     },
+     "options": [
+      {
+       "el": "μιλούσαν",
+       "tr": "μιλούσαν",
+       "en": "μιλούσαν"
+      },
+      {
+       "el": "μιλάνε",
+       "tr": "μιλάνε",
+       "en": "μιλάνε"
+      },
+      {
+       "el": "μίλησαν",
+       "tr": "μίλησαν",
+       "en": "μίλησαν"
+      },
+      {
+       "el": "μιλάτε",
+       "tr": "μιλάτε",
+       "en": "μιλάτε"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα του «μιλάω / μιλώ»: Ενεστώτας, «αυτοί/ές/ά» → μιλάνε.",
+      "tr": "«μιλάω / μιλώ» tablosunda: Ενεστώτας, «αυτοί/ές/ά» (onlar) → μιλάνε.",
+      "en": "In the table of «μιλάω / μιλώ»: present (Ενεστώτας), «αυτοί/ές/ά» → μιλάνε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «ρωτάω / ρωτώ» στον Παρατατικό, πρόσωπο «εμείς»;",
+      "tr": "«ρωτάω / ρωτώ» fiilinin Παρατατικός (sürekli geçmiş) çekiminde «εμείς» (biz) biçimi hangisidir?",
+      "en": "Which is the imperfect (Παρατατικός) form of «ρωτάω / ρωτώ» for «εμείς» (we)?"
+     },
+     "options": [
+      {
+       "el": "ρωτήσαμε",
+       "tr": "ρωτήσαμε",
+       "en": "ρωτήσαμε"
+      },
+      {
+       "el": "ρωτάμε",
+       "tr": "ρωτάμε",
+       "en": "ρωτάμε"
+      },
+      {
+       "el": "ερωτούσαμε",
+       "tr": "ερωτούσαμε",
+       "en": "ερωτούσαμε"
+      },
+      {
+       "el": "ρωτούσαμε",
+       "tr": "ρωτούσαμε",
+       "en": "ρωτούσαμε"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα του «ρωτάω / ρωτώ»: Παρατατικός, «εμείς» → ρωτούσαμε.",
+      "tr": "«ρωτάω / ρωτώ» tablosunda: Παρατατικός, «εμείς» (biz) → ρωτούσαμε.",
+      "en": "In the table of «ρωτάω / ρωτώ»: imperfect (Παρατατικός), «εμείς» → ρωτούσαμε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «ρωτάω / ρωτώ» στον Αόριστο, πρόσωπο «αυτοί/ές/ά»;",
+      "tr": "«ρωτάω / ρωτώ» fiilinin Αόριστος (basit geçmiş) çekiminde «αυτοί/ές/ά» (onlar) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «ρωτάω / ρωτώ» for «αυτοί/ές/ά» (they)?"
+     },
+     "options": [
+      {
+       "el": "ρώτασαν",
+       "tr": "ρώτασαν",
+       "en": "ρώτασαν"
+      },
+      {
+       "el": "ρώτησαν",
+       "tr": "ρώτησαν",
+       "en": "ρώτησαν"
+      },
+      {
+       "el": "ρωτήσουν",
+       "tr": "ρωτήσουν",
+       "en": "ρωτήσουν"
+      },
+      {
+       "el": "ρωτούσαν",
+       "tr": "ρωτούσαν",
+       "en": "ρωτούσαν"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα του «ρωτάω / ρωτώ»: Αόριστος, «αυτοί/ές/ά» → ρώτησαν.",
+      "tr": "«ρωτάω / ρωτώ» tablosunda: Αόριστος, «αυτοί/ές/ά» (onlar) → ρώτησαν.",
+      "en": "In the table of «ρωτάω / ρωτώ»: aorist / simple past (Αόριστος), «αυτοί/ές/ά» → ρώτησαν."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «ρωτάω / ρωτώ» στον Στιγμιαίο Μέλλοντα, πρόσωπο «εσείς»;",
+      "tr": "«ρωτάω / ρωτώ» fiilinin Στιγμιαίος Μέλλοντας (basit gelecek) çekiminde «εσείς» (siz) biçimi hangisidir?",
+      "en": "Which is the simple future (Στιγμιαίος Μέλλοντας) form of «ρωτάω / ρωτώ» for «εσείς» (you pl.)?"
+     },
+     "options": [
+      {
+       "el": "θα ρωτήσατε",
+       "tr": "θα ρωτήσατε",
+       "en": "θα ρωτήσατε"
+      },
+      {
+       "el": "θα ρώτησετε",
+       "tr": "θα ρώτησετε",
+       "en": "θα ρώτησετε"
+      },
+      {
+       "el": "θα ρωτάτε",
+       "tr": "θα ρωτάτε",
+       "en": "θα ρωτάτε"
+      },
+      {
+       "el": "θα ρωτήσετε",
+       "tr": "θα ρωτήσετε",
+       "en": "θα ρωτήσετε"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα του «ρωτάω / ρωτώ»: Στιγμιαίος Μέλλοντας, «εσείς» → θα ρωτήσετε.",
+      "tr": "«ρωτάω / ρωτώ» tablosunda: Στιγμιαίος Μέλλοντας, «εσείς» (siz) → θα ρωτήσετε.",
+      "en": "In the table of «ρωτάω / ρωτώ»: simple future (Στιγμιαίος Μέλλοντας), «εσείς» → θα ρωτήσετε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια συνεχής προστακτική (εσύ) του «ρωτάω» αναφέρει το μάθημα;",
+      "tr": "Ders «ρωτάω» için hangi sürekli emir biçimini (εσύ / sen) anıyor?",
+      "en": "Which continuous imperative (εσύ) of «ρωτάω» does the lesson mention?"
+     },
+     "options": [
+      {
+       "el": "ρωτά",
+       "tr": "ρωτά",
+       "en": "ρωτά"
+      },
+      {
+       "el": "ρώτα",
+       "tr": "ρώτα",
+       "en": "ρώτα"
+      },
+      {
+       "el": "ρωτάς",
+       "tr": "ρωτάς",
+       "en": "ρωτάς"
+      },
+      {
+       "el": "ρώτησα",
+       "tr": "ρώτησα",
+       "en": "ρώτησα"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Προστακτική και: ρώτα (συνεχής), δίπλα στο ρώτησε.",
+      "tr": "Emir kipinde ρώτησε'nin yanında ρώτα (sürekli) da vardır.",
+      "en": "Besides ρώτησε, the continuous imperative ρώτα also exists."
+     }
+    }
    ]
   },
   {
@@ -1563,6 +3704,708 @@
     "https://el.wiktionary.org/wiki/οδηγώ",
     "https://en.wiktionary.org/wiki/ζω",
     "https://breezygreek.substack.com/p/greek-verbs-conjugation-in-group-dcd"
+   ],
+   "quiz": [
+    {
+     "q": {
+      "el": "Ποια είναι η κύρια διαφορά της Β2 από τη Β1 στον ενεστώτα;",
+      "tr": "Şimdiki zamanda B2'nin B1'den temel farkı nedir?",
+      "en": "What is the main difference between B2 and B1 in the present?"
+     },
+     "options": [
+      {
+       "el": "Η Β2 έχει τόνο στο θέμα",
+       "tr": "B2'de vurgu gövdededir",
+       "en": "B2 is stressed on the stem"
+      },
+      {
+       "el": "Η Β2 έχει πάντα μορφή σε -άω",
+       "tr": "B2'nin her zaman -άω biçimi vardır",
+       "en": "B2 always has an -άω form"
+      },
+      {
+       "el": "Η Β2 δεν έχει παρατατικό",
+       "tr": "B2'nin παρατατικός'u yoktur",
+       "en": "B2 has no imperfect"
+      },
+      {
+       "el": "Η Β2 έχει -ει- αντί για -α- (οδηγείς)",
+       "tr": "B2'de -α- yerine -ει- vardır (οδηγείς)",
+       "en": "B2 has -ει- instead of -α- (οδηγείς)"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Ο ενεστώτας της Β2 έχει -ει- αντί για -α-: οδηγείς, οδηγεί, οδηγούμε, οδηγείτε.",
+      "tr": "B2 şimdiki zamanında -α- yerine -ει- vardır: οδηγείς, οδηγεί, οδηγούμε, οδηγείτε.",
+      "en": "The B2 present has -ει- instead of -α-: οδηγείς, οδηγεί, οδηγούμε, οδηγείτε."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς ξέρεις αν ένα ρήμα σε -ώ είναι Β1;",
+      "tr": "-ώ ile biten bir fiilin B1 olduğunu nasıl anlarsın?",
+      "en": "How can you tell that a verb in -ώ is B1?"
+     },
+     "options": [
+      {
+       "el": "Αν είναι μονοσύλλαβο",
+       "tr": "Tek heceliyse",
+       "en": "If it has one syllable"
+      },
+      {
+       "el": "Αν έχει και μορφή σε -άω (μιλάω)",
+       "tr": "-άω biçimi de varsa (μιλάω)",
+       "en": "If it also has an -άω form (μιλάω)"
+      },
+      {
+       "el": "Αν ο αόριστος τελειώνει σε -ησα",
+       "tr": "Aoristi -ησα ile bitiyorsa",
+       "en": "If its aorist ends in -ησα"
+      },
+      {
+       "el": "Αν ο παρατατικός τελειώνει σε -ούσα",
+       "tr": "Παρατατικός'u -ούσα ile bitiyorsa",
+       "en": "If its imperfect ends in -ούσα"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Αν μπορείς να πεις και -άω (μιλάω, ρωτάω), είναι Β1· αν όχι (μπορώ, ζω, θεωρώ), είναι Β2.",
+      "tr": "-άω biçimi de varsa (μιλάω, ρωτάω) B1'dir; yoksa (μπορώ, ζω, θεωρώ) B2'dir.",
+      "en": "If it also has -άω (μιλάω, ρωτάω) it is B1; if not (μπορώ, ζω, θεωρώ) it is B2."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο από αυτά τα ρήματα ανήκει στην ομάδα Β2;",
+      "tr": "Bu fiillerden hangisi B2 grubundadır?",
+      "en": "Which of these verbs belongs to Group B2?"
+     },
+     "options": [
+      {
+       "el": "μιλάω",
+       "tr": "μιλάω",
+       "en": "μιλάω"
+      },
+      {
+       "el": "θεωρώ",
+       "tr": "θεωρώ",
+       "en": "θεωρώ"
+      },
+      {
+       "el": "αγαπάω",
+       "tr": "αγαπάω",
+       "en": "αγαπάω"
+      },
+      {
+       "el": "ρωτάω",
+       "tr": "ρωτάω",
+       "en": "ρωτάω"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Το θεωρώ δεν έχει μορφή σε -άω, άρα είναι Β2 (όπως μπορώ, ζω, προσπαθώ).",
+      "tr": "θεωρώ'nün -άω biçimi yoktur, yani B2'dir (μπορώ, ζω, προσπαθώ gibi).",
+      "en": "θεωρώ has no -άω form, so it is B2 (like μπορώ, ζω, προσπαθώ)."
+     }
+    },
+    {
+     "q": {
+      "el": "Σε τι τελειώνει ο παρατατικός της ομάδας Β2;",
+      "tr": "B2 grubunda παρατατικός nasıl biter?",
+      "en": "How does the Group B2 imperfect end?"
+     },
+     "options": [
+      {
+       "el": "Σε -όμουν",
+       "tr": "-όμουν ile",
+       "en": "In -όμουν"
+      },
+      {
+       "el": "Σε -ησα",
+       "tr": "-ησα ile",
+       "en": "In -ησα"
+      },
+      {
+       "el": "Σε -εσα",
+       "tr": "-εσα ile",
+       "en": "In -εσα"
+      },
+      {
+       "el": "Σε -ούσα, όπως στη Β1",
+       "tr": "B1'deki gibi -ούσα ile",
+       "en": "In -ούσα, as in B1"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Η Β2 μοιάζει με τη Β1: παρατατικός σε -ούσα (οδηγούσα, μπορούσα).",
+      "tr": "B2, B1'e benzer: παρατατικός -ούσα ile biter (οδηγούσα, μπορούσα).",
+      "en": "B2 resembles B1: imperfect in -ούσα (οδηγούσα, μπορούσα)."
+     }
+    },
+    {
+     "q": {
+      "el": "Τι ακολουθεί συνήθως μετά το «μπορώ»;",
+      "tr": "«μπορώ»'dan sonra genellikle ne gelir?",
+      "en": "What usually follows «μπορώ»?"
+     },
+     "options": [
+      {
+       "el": "να + ρήμα (μπορώ να έρθω)",
+       "tr": "να + fiil (μπορώ να έρθω)",
+       "en": "να + verb (μπορώ να έρθω)"
+      },
+      {
+       "el": "έχω + απαρέμφατο",
+       "tr": "έχω + mastar",
+       "en": "έχω + infinitive"
+      },
+      {
+       "el": "Προστακτική (μπορώ έλα)",
+       "tr": "Emir kipi (μπορώ έλα)",
+       "en": "An imperative (μπορώ έλα)"
+      },
+      {
+       "el": "θα + ρήμα (μπορώ θα έρθω)",
+       "tr": "θα + fiil (μπορώ θα έρθω)",
+       "en": "θα + verb (μπορώ θα έρθω)"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Μετά το μπορώ ακολουθεί να + ρήμα: μπορώ να έρθω.",
+      "tr": "μπορώ'dan sonra να + fiil gelir: μπορώ να έρθω (gelebilirim).",
+      "en": "μπορώ is followed by να + verb: μπορώ να έρθω (I can come)."
+     }
+    },
+    {
+     "q": {
+      "el": "Γιατί ο αόριστος του «ζω» (έζησα) έχει αύξηση ε-;",
+      "tr": "«ζω» fiilinin aoristi (έζησα) neden ε- alır?",
+      "en": "Why does the aorist of «ζω» (έζησα) have the augment ε-?"
+     },
+     "options": [
+      {
+       "el": "Γιατί το θέμα ζησ- είναι πολύ σύντομο",
+       "tr": "Çünkü ζησ- gövdesi çok kısadır",
+       "en": "Because the stem ζησ- is very short"
+      },
+      {
+       "el": "Γιατί όλοι οι αόριστοι έχουν ε-",
+       "tr": "Çünkü bütün aoristler ε- alır",
+       "en": "Because every aorist has ε-"
+      },
+      {
+       "el": "Γιατί είναι παθητικό ρήμα",
+       "tr": "Çünkü edilgen bir fiildir",
+       "en": "Because it is a passive verb"
+      },
+      {
+       "el": "Γιατί είναι ρήμα της Β1",
+       "tr": "Çünkü B1 fiilidir",
+       "en": "Because it is a B1 verb"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Αόριστος έζησα: με αύξηση, γιατί το ζησ- είναι πολύ σύντομο.",
+      "tr": "Aorist έζησα: ζησ- çok kısa olduğu için ε- alır.",
+      "en": "Aorist έζησα: with augment, since ζησ- is so short."
+     }
+    },
+    {
+     "q": {
+      "el": "Τι σημαίνει το «οδηγάω» που ακούγεται στον προφορικό λόγο;",
+      "tr": "Konuşmada duyulan «οδηγάω» ne anlama gelir?",
+      "en": "What does «οδηγάω», heard in speech, mean?"
+     },
+     "options": [
+      {
+       "el": "Ζω κάπου",
+       "tr": "Bir yerde yaşamak",
+       "en": "To live somewhere"
+      },
+      {
+       "el": "Προσπαθώ",
+       "tr": "Denemek",
+       "en": "To try"
+      },
+      {
+       "el": "Οδηγώ αυτοκίνητο",
+       "tr": "Araba sürmek",
+       "en": "To drive a car"
+      },
+      {
+       "el": "Θεωρώ",
+       "tr": "Saymak, kabul etmek",
+       "en": "To consider"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον προφορικό λόγο ακούγεται και οδηγάω, με τη σημασία «οδηγώ αυτοκίνητο».",
+      "tr": "Konuşmada «araba sürmek» anlamında οδηγάω da duyulur.",
+      "en": "In speech οδηγάω is also heard, meaning “drive a car”."
+     }
+    },
+    {
+     "q": {
+      "el": "Στον παρατατικό και τους άλλους χρόνους, πώς είναι η Β1 και η Β2 μεταξύ τους;",
+      "tr": "Παρατατικός ve diğer zamanlarda B1 ile B2 birbirine göre nasıldır?",
+      "en": "In the imperfect and other tenses, how do B1 and B2 compare?"
+     },
+     "options": [
+      {
+       "el": "Σχεδόν ίδιες",
+       "tr": "Neredeyse aynı",
+       "en": "Nearly identical"
+      },
+      {
+       "el": "Εντελώς διαφορετικές",
+       "tr": "Tamamen farklı",
+       "en": "Completely different"
+      },
+      {
+       "el": "Η Β2 δεν έχει αυτούς τους χρόνους",
+       "tr": "B2'de bu zamanlar yoktur",
+       "en": "B2 lacks these tenses"
+      },
+      {
+       "el": "Η Β1 παίρνει αύξηση, η Β2 όχι",
+       "tr": "B1 ε- alır, B2 almaz",
+       "en": "B1 takes the augment, B2 does not"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον παρατατικό και τους άλλους χρόνους οι δύο ομάδες είναι σχεδόν ίδιες.",
+      "tr": "Παρατατικός ve diğer zamanlarda iki grup neredeyse aynıdır.",
+      "en": "In the imperfect and other tenses the two groups are nearly identical."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «οδηγώ» στον Ενεστώτα, πρόσωπο «αυτός/ή/ό»;",
+      "tr": "«οδηγώ» fiilinin Ενεστώτας (şimdiki zaman) çekiminde «αυτός/ή/ό» (o) biçimi hangisidir?",
+      "en": "Which is the present (Ενεστώτας) form of «οδηγώ» for «αυτός/ή/ό» (he/she/it)?"
+     },
+     "options": [
+      {
+       "el": "οδηγά",
+       "tr": "οδηγά",
+       "en": "οδηγά"
+      },
+      {
+       "el": "οδηγεί",
+       "tr": "οδηγεί",
+       "en": "οδηγεί"
+      },
+      {
+       "el": "οδήγει",
+       "tr": "οδήγει",
+       "en": "οδήγει"
+      },
+      {
+       "el": "οδηγείς",
+       "tr": "οδηγείς",
+       "en": "οδηγείς"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα του «οδηγώ»: Ενεστώτας, «αυτός/ή/ό» → οδηγεί.",
+      "tr": "«οδηγώ» tablosunda: Ενεστώτας, «αυτός/ή/ό» (o) → οδηγεί.",
+      "en": "In the table of «οδηγώ»: present (Ενεστώτας), «αυτός/ή/ό» → οδηγεί."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «οδηγώ» στον Ενεστώτα, πρόσωπο «εσείς»;",
+      "tr": "«οδηγώ» fiilinin Ενεστώτας (şimdiki zaman) çekiminde «εσείς» (siz) biçimi hangisidir?",
+      "en": "Which is the present (Ενεστώτας) form of «οδηγώ» for «εσείς» (you pl.)?"
+     },
+     "options": [
+      {
+       "el": "οδηγάτε",
+       "tr": "οδηγάτε",
+       "en": "οδηγάτε"
+      },
+      {
+       "el": "οδηγήσατε",
+       "tr": "οδηγήσατε",
+       "en": "οδηγήσατε"
+      },
+      {
+       "el": "οδηγείτε",
+       "tr": "οδηγείτε",
+       "en": "οδηγείτε"
+      },
+      {
+       "el": "οδηγούτε",
+       "tr": "οδηγούτε",
+       "en": "οδηγούτε"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα του «οδηγώ»: Ενεστώτας, «εσείς» → οδηγείτε. Η Β2 έχει -ει-, η Β1 -α- (αγαπάτε).",
+      "tr": "«οδηγώ» tablosunda: Ενεστώτας, «εσείς» (siz) → οδηγείτε. B2'de -ει-, B1'de -α- vardır (αγαπάτε).",
+      "en": "In the table of «οδηγώ»: present (Ενεστώτας), «εσείς» → οδηγείτε. B2 has -ει-, B1 has -α- (αγαπάτε)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «οδηγώ» στον Ενεστώτα, πρόσωπο «εμείς»;",
+      "tr": "«οδηγώ» fiilinin Ενεστώτας (şimdiki zaman) çekiminde «εμείς» (biz) biçimi hangisidir?",
+      "en": "Which is the present (Ενεστώτας) form of «οδηγώ» for «εμείς» (we)?"
+     },
+     "options": [
+      {
+       "el": "οδηγούσαμε",
+       "tr": "οδηγούσαμε",
+       "en": "οδηγούσαμε"
+      },
+      {
+       "el": "οδηγούμε",
+       "tr": "οδηγούμε",
+       "en": "οδηγούμε"
+      },
+      {
+       "el": "οδηγείμε",
+       "tr": "οδηγείμε",
+       "en": "οδηγείμε"
+      },
+      {
+       "el": "οδηγάμε",
+       "tr": "οδηγάμε",
+       "en": "οδηγάμε"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα του «οδηγώ»: Ενεστώτας, «εμείς» → οδηγούμε.",
+      "tr": "«οδηγώ» tablosunda: Ενεστώτας, «εμείς» (biz) → οδηγούμε.",
+      "en": "In the table of «οδηγώ»: present (Ενεστώτας), «εμείς» → οδηγούμε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «οδηγώ» στον Αόριστο, πρόσωπο «εσύ»;",
+      "tr": "«οδηγώ» fiilinin Αόριστος (basit geçmiş) çekiminde «εσύ» (sen) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «οδηγώ» for «εσύ» (you sg.)?"
+     },
+     "options": [
+      {
+       "el": "οδήγεσες",
+       "tr": "οδήγεσες",
+       "en": "οδήγεσες"
+      },
+      {
+       "el": "οδηγούσες",
+       "tr": "οδηγούσες",
+       "en": "οδηγούσες"
+      },
+      {
+       "el": "οδήγησες",
+       "tr": "οδήγησες",
+       "en": "οδήγησες"
+      },
+      {
+       "el": "οδηγήσεις",
+       "tr": "οδηγήσεις",
+       "en": "οδηγήσεις"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα του «οδηγώ»: Αόριστος, «εσύ» → οδήγησες.",
+      "tr": "«οδηγώ» tablosunda: Αόριστος, «εσύ» (sen) → οδήγησες.",
+      "en": "In the table of «οδηγώ»: aorist / simple past (Αόριστος), «εσύ» → οδήγησες."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «οδηγώ» στον Παρακείμενο, πρόσωπο «εμείς»;",
+      "tr": "«οδηγώ» fiilinin Παρακείμενος (bitmişlik) çekiminde «εμείς» (biz) biçimi hangisidir?",
+      "en": "Which is the perfect (Παρακείμενος) form of «οδηγώ» for «εμείς» (we)?"
+     },
+     "options": [
+      {
+       "el": "έχουμε οδηγήσει",
+       "tr": "έχουμε οδηγήσει",
+       "en": "έχουμε οδηγήσει"
+      },
+      {
+       "el": "είχαμε οδηγήσει",
+       "tr": "είχαμε οδηγήσει",
+       "en": "είχαμε οδηγήσει"
+      },
+      {
+       "el": "θα οδηγήσουμε",
+       "tr": "θα οδηγήσουμε",
+       "en": "θα οδηγήσουμε"
+      },
+      {
+       "el": "έχουμε οδηγεί",
+       "tr": "έχουμε οδηγεί",
+       "en": "έχουμε οδηγεί"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα του «οδηγώ»: Παρακείμενος, «εμείς» → έχουμε οδηγήσει.",
+      "tr": "«οδηγώ» tablosunda: Παρακείμενος, «εμείς» (biz) → έχουμε οδηγήσει.",
+      "en": "In the table of «οδηγώ»: perfect (Παρακείμενος), «εμείς» → έχουμε οδηγήσει."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «οδηγώ» στην Υποτακτική αορίστου (να), πρόσωπο «αυτοί/ές/ά»;",
+      "tr": "«οδηγώ» fiilinin Υποτακτική (να, istek kipi) çekiminde «αυτοί/ές/ά» (onlar) biçimi hangisidir?",
+      "en": "Which is the simple subjunctive (να) form of «οδηγώ» for «αυτοί/ές/ά» (they)?"
+     },
+     "options": [
+      {
+       "el": "να οδηγήσουν(ε)",
+       "tr": "να οδηγήσουν(ε)",
+       "en": "να οδηγήσουν(ε)"
+      },
+      {
+       "el": "να οδηγήσατε",
+       "tr": "να οδηγήσατε",
+       "en": "να οδηγήσατε"
+      },
+      {
+       "el": "θα οδηγήσουν(ε)",
+       "tr": "θα οδηγήσουν(ε)",
+       "en": "θα οδηγήσουν(ε)"
+      },
+      {
+       "el": "να οδήγησαν",
+       "tr": "να οδήγησαν",
+       "en": "να οδήγησαν"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα του «οδηγώ»: Υποτακτική, «αυτοί/ές/ά» → να οδηγήσουν(ε).",
+      "tr": "«οδηγώ» tablosunda: Υποτακτική, «αυτοί/ές/ά» (onlar) → να οδηγήσουν(ε).",
+      "en": "In the table of «οδηγώ»: simple subjunctive (να), «αυτοί/ές/ά» → να οδηγήσουν(ε)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «μπορώ» στον Αόριστο, πρόσωπο «εγώ»;",
+      "tr": "«μπορώ» fiilinin Αόριστος (basit geçmiş) çekiminde «εγώ» (ben) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «μπορώ» for «εγώ» (I)?"
+     },
+     "options": [
+      {
+       "el": "μπόρησα",
+       "tr": "μπόρησα",
+       "en": "μπόρησα"
+      },
+      {
+       "el": "μπόρεσα",
+       "tr": "μπόρεσα",
+       "en": "μπόρεσα"
+      },
+      {
+       "el": "εμπόρεσα",
+       "tr": "εμπόρεσα",
+       "en": "εμπόρεσα"
+      },
+      {
+       "el": "μπορούσα",
+       "tr": "μπορούσα",
+       "en": "μπορούσα"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα του «μπορώ»: Αόριστος, «εγώ» → μπόρεσα. Αόριστος με -εσα (όχι -ησα).",
+      "tr": "«μπορώ» tablosunda: Αόριστος, «εγώ» (ben) → μπόρεσα. Aorist -εσα ile (-ησα değil).",
+      "en": "In the table of «μπορώ»: aorist / simple past (Αόριστος), «εγώ» → μπόρεσα. Aorist in -εσα (not -ησα)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «μπορώ» στον Στιγμιαίο Μέλλοντα, πρόσωπο «εμείς»;",
+      "tr": "«μπορώ» fiilinin Στιγμιαίος Μέλλοντας (basit gelecek) çekiminde «εμείς» (biz) biçimi hangisidir?",
+      "en": "Which is the simple future (Στιγμιαίος Μέλλοντας) form of «μπορώ» for «εμείς» (we)?"
+     },
+     "options": [
+      {
+       "el": "θα μπορήσουμε",
+       "tr": "θα μπορήσουμε",
+       "en": "θα μπορήσουμε"
+      },
+      {
+       "el": "θα μπόρεσουμε",
+       "tr": "θα μπόρεσουμε",
+       "en": "θα μπόρεσουμε"
+      },
+      {
+       "el": "θα μπορέσουμε",
+       "tr": "θα μπορέσουμε",
+       "en": "θα μπορέσουμε"
+      },
+      {
+       "el": "θα μπορούμε",
+       "tr": "θα μπορούμε",
+       "en": "θα μπορούμε"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα του «μπορώ»: Στιγμιαίος Μέλλοντας, «εμείς» → θα μπορέσουμε.",
+      "tr": "«μπορώ» tablosunda: Στιγμιαίος Μέλλοντας, «εμείς» (biz) → θα μπορέσουμε.",
+      "en": "In the table of «μπορώ»: simple future (Στιγμιαίος Μέλλοντας), «εμείς» → θα μπορέσουμε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «μπορώ» στον Παρατατικό, πρόσωπο «αυτοί/ές/ά»;",
+      "tr": "«μπορώ» fiilinin Παρατατικός (sürekli geçmiş) çekiminde «αυτοί/ές/ά» (onlar) biçimi hangisidir?",
+      "en": "Which is the imperfect (Παρατατικός) form of «μπορώ» for «αυτοί/ές/ά» (they)?"
+     },
+     "options": [
+      {
+       "el": "μπορούν(ε)",
+       "tr": "μπορούν(ε)",
+       "en": "μπορούν(ε)"
+      },
+      {
+       "el": "εμπορούσαν",
+       "tr": "εμπορούσαν",
+       "en": "εμπορούσαν"
+      },
+      {
+       "el": "μπόρεσαν",
+       "tr": "μπόρεσαν",
+       "en": "μπόρεσαν"
+      },
+      {
+       "el": "μπορούσαν(ε)",
+       "tr": "μπορούσαν(ε)",
+       "en": "μπορούσαν(ε)"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα του «μπορώ»: Παρατατικός, «αυτοί/ές/ά» → μπορούσαν(ε).",
+      "tr": "«μπορώ» tablosunda: Παρατατικός, «αυτοί/ές/ά» (onlar) → μπορούσαν(ε).",
+      "en": "In the table of «μπορώ»: imperfect (Παρατατικός), «αυτοί/ές/ά» → μπορούσαν(ε)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «ζω» στον Ενεστώτα, πρόσωπο «εσείς»;",
+      "tr": "«ζω» fiilinin Ενεστώτας (şimdiki zaman) çekiminde «εσείς» (siz) biçimi hangisidir?",
+      "en": "Which is the present (Ενεστώτας) form of «ζω» for «εσείς» (you pl.)?"
+     },
+     "options": [
+      {
+       "el": "ζούμε",
+       "tr": "ζούμε",
+       "en": "ζούμε"
+      },
+      {
+       "el": "ζήσατε",
+       "tr": "ζήσατε",
+       "en": "ζήσατε"
+      },
+      {
+       "el": "ζάτε",
+       "tr": "ζάτε",
+       "en": "ζάτε"
+      },
+      {
+       "el": "ζείτε",
+       "tr": "ζείτε",
+       "en": "ζείτε"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα του «ζω»: Ενεστώτας, «εσείς» → ζείτε.",
+      "tr": "«ζω» tablosunda: Ενεστώτας, «εσείς» (siz) → ζείτε.",
+      "en": "In the table of «ζω»: present (Ενεστώτας), «εσείς» → ζείτε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «ζω» στον Αόριστο, πρόσωπο «εγώ»;",
+      "tr": "«ζω» fiilinin Αόριστος (basit geçmiş) çekiminde «εγώ» (ben) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «ζω» for «εγώ» (I)?"
+     },
+     "options": [
+      {
+       "el": "ζήσα",
+       "tr": "ζήσα",
+       "en": "ζήσα"
+      },
+      {
+       "el": "ζούσα",
+       "tr": "ζούσα",
+       "en": "ζούσα"
+      },
+      {
+       "el": "έζεσα",
+       "tr": "έζεσα",
+       "en": "έζεσα"
+      },
+      {
+       "el": "έζησα",
+       "tr": "έζησα",
+       "en": "έζησα"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα του «ζω»: Αόριστος, «εγώ» → έζησα.",
+      "tr": "«ζω» tablosunda: Αόριστος, «εγώ» (ben) → έζησα.",
+      "en": "In the table of «ζω»: aorist / simple past (Αόριστος), «εγώ» → έζησα."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «ζω» στον Αόριστο, πρόσωπο «εμείς»;",
+      "tr": "«ζω» fiilinin Αόριστος (basit geçmiş) çekiminde «εμείς» (biz) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «ζω» for «εμείς» (we)?"
+     },
+     "options": [
+      {
+       "el": "ζούσαμε",
+       "tr": "ζούσαμε",
+       "en": "ζούσαμε"
+      },
+      {
+       "el": "έζησαμε",
+       "tr": "έζησαμε",
+       "en": "έζησαμε"
+      },
+      {
+       "el": "ζήσαμε",
+       "tr": "ζήσαμε",
+       "en": "ζήσαμε"
+      },
+      {
+       "el": "εζήσαμε",
+       "tr": "εζήσαμε",
+       "en": "εζήσαμε"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα του «ζω»: Αόριστος, «εμείς» → ζήσαμε.",
+      "tr": "«ζω» tablosunda: Αόριστος, «εμείς» (biz) → ζήσαμε.",
+      "en": "In the table of «ζω»: aorist / simple past (Αόριστος), «εμείς» → ζήσαμε."
+     }
+    }
    ]
   },
   {
@@ -2261,6 +5104,743 @@
     "https://en.wiktionary.org/wiki/πλένομαι",
     "https://el.wiktionary.org/wiki/γράφω",
     "https://cromwell-intl.com/travel/greece/greek/verbs.html"
+   ],
+   "quiz": [
+    {
+     "q": {
+      "el": "Σε ποια φωνή ανήκουν τα ρήματα σε -ομαι και -άμαι;",
+      "tr": "-ομαι ve -άμαι ile biten fiiller hangi çatıdadır?",
+      "en": "Which voice do verbs in -ομαι and -άμαι belong to?"
+     },
+     "options": [
+      {
+       "el": "Στην ενεργητική φωνή",
+       "tr": "Etken çatı (ενεργητική φωνή)",
+       "en": "The active voice"
+      },
+      {
+       "el": "Στην ομάδα Β1",
+       "tr": "B1 grubu",
+       "en": "Group B1"
+      },
+      {
+       "el": "Στην Α΄ συζυγία",
+       "tr": "A grubu",
+       "en": "Group A"
+      },
+      {
+       "el": "Στην παθητική φωνή",
+       "tr": "Edilgen çatı (παθητική φωνή)",
+       "en": "The passive voice"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Τα ρήματα σε -ομαι ή -άμαι ανήκουν στην παθητική φωνή.",
+      "tr": "-ομαι ya da -άμαι ile biten fiiller edilgen çatıdadır.",
+      "en": "Verbs in -ομαι or -άμαι belong to the passive voice."
+     }
+    },
+    {
+     "q": {
+      "el": "Τι είναι ένα «αποθετικό» ρήμα;",
+      "tr": "«αποθετικό» fiil nedir?",
+      "en": "What is a «αποθετικό» (deponent) verb?"
+     },
+     "options": [
+      {
+       "el": "Έχει ενεργητική μορφή, αλλά παθητική σημασία",
+       "tr": "Etken biçimlidir ama edilgen anlamlıdır",
+       "en": "It has an active form but a passive meaning"
+      },
+      {
+       "el": "Έχει μόνο προστακτική",
+       "tr": "Yalnızca emir kipi vardır",
+       "en": "It has only an imperative"
+      },
+      {
+       "el": "Δεν έχει αόριστο",
+       "tr": "Aoristi yoktur",
+       "en": "It has no aorist"
+      },
+      {
+       "el": "Έχει μόνο παθητική μορφή, αλλά ενεργητική σημασία",
+       "tr": "Yalnızca edilgen biçimi vardır ama etken anlamlıdır",
+       "en": "It has only the passive form but an active meaning"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Αποθετικά: έχουν μόνο αυτή τη μορφή αλλά ενεργητική σημασία (σκέφτομαι, κοιμάμαι, θυμάμαι, έρχομαι).",
+      "tr": "Αποθετικά fiillerin yalnızca bu biçimi vardır ama anlamları etkendir (σκέφτομαι, κοιμάμαι, θυμάμαι, έρχομαι).",
+      "en": "Deponents exist only in this form but mean something active (σκέφτομαι, κοιμάμαι, θυμάμαι, έρχομαι)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο από αυτά είναι αποθετικό ρήμα;",
+      "tr": "Bunlardan hangisi αποθετικό (yalnızca edilgen biçimli) fiildir?",
+      "en": "Which of these is a deponent verb?"
+     },
+     "options": [
+      {
+       "el": "γράφω",
+       "tr": "γράφω",
+       "en": "γράφω"
+      },
+      {
+       "el": "σκέφτομαι",
+       "tr": "σκέφτομαι",
+       "en": "σκέφτομαι"
+      },
+      {
+       "el": "γράφομαι",
+       "tr": "γράφομαι",
+       "en": "γράφομαι"
+      },
+      {
+       "el": "πλένομαι",
+       "tr": "πλένομαι",
+       "en": "πλένομαι"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Το σκέφτομαι έχει μόνο παθητικές καταλήξεις, αλλά ενεργητική σημασία· το πλένομαι και το γράφομαι έχουν παθητική/αυτοπαθή σημασία.",
+      "tr": "σκέφτομαι yalnızca edilgen ekli ama etken anlamlıdır; πλένομαι ve γράφομαι ise edilgen/dönüşlü anlamlıdır.",
+      "en": "σκέφτομαι has passive endings but active meaning; πλένομαι and γράφομαι have passive/reflexive meanings."
+     }
+    },
+    {
+     "q": {
+      "el": "Τι σημαίνει και το «γράφομαι», εκτός από «γράφεται κάτι»;",
+      "tr": "«γράφομαι» «yazılmak» dışında ne anlama da gelir?",
+      "en": "Besides “to be written”, what else does «γράφομαι» mean?"
+     },
+     "options": [
+      {
+       "el": "Θυμάμαι",
+       "tr": "Hatırlamak",
+       "en": "To remember"
+      },
+      {
+       "el": "Κοιμάμαι",
+       "tr": "Uyumak",
+       "en": "To sleep"
+      },
+      {
+       "el": "Εγγράφομαι (π.χ. στο σχολείο)",
+       "tr": "Kaydolmak (ör. okula)",
+       "en": "To enrol (e.g. at school)"
+      },
+      {
+       "el": "Πλένομαι",
+       "tr": "Yıkanmak",
+       "en": "To wash oneself"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Το γράφομαι σημαίνει και «εγγράφομαι»: γράφτηκα στο σχολείο.",
+      "tr": "γράφομαι «kaydolmak» da demektir: γράφτηκα στο σχολείο (okula kaydoldum).",
+      "en": "γράφομαι also means “to enrol”: γράφτηκα στο σχολείο."
+     }
+    },
+    {
+     "q": {
+      "el": "Σε τι τελειώνει σχεδόν πάντα ο παθητικός αόριστος;",
+      "tr": "Edilgen aorist neredeyse her zaman nasıl biter?",
+      "en": "How does the passive aorist almost always end?"
+     },
+     "options": [
+      {
+       "el": "Σε -ησα",
+       "tr": "-ησα ile",
+       "en": "In -ησα"
+      },
+      {
+       "el": "Σε -όμουν",
+       "tr": "-όμουν ile",
+       "en": "In -όμουν"
+      },
+      {
+       "el": "Σε -θηκα ή -τηκα",
+       "tr": "-θηκα ya da -τηκα ile",
+       "en": "In -θηκα or -τηκα"
+      },
+      {
+       "el": "Σε -ούσα",
+       "tr": "-ούσα ile",
+       "en": "In -ούσα"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Ο παθητικός αόριστος έχει σχεδόν πάντα -θηκα ή -τηκα (κοιμήθηκα, πλύθηκα, σκέφτηκα, γράφτηκα).",
+      "tr": "Edilgen aorist neredeyse her zaman -θηκα ya da -τηκα ile biter (κοιμήθηκα, πλύθηκα, σκέφτηκα, γράφτηκα).",
+      "en": "The passive aorist almost always has -θηκα or -τηκα (κοιμήθηκα, πλύθηκα, σκέφτηκα, γράφτηκα)."
+     }
+    },
+    {
+     "q": {
+      "el": "Αν από το «γράφτηκα» βγάλεις το -ηκα, ποιος μέλλοντας προκύπτει;",
+      "tr": "«γράφτηκα»'dan -ηκα atılınca hangi gelecek zaman biçimi çıkar?",
+      "en": "Drop -ηκα from «γράφτηκα»: which future do you get?"
+     },
+     "options": [
+      {
+       "el": "θα γραφτώ",
+       "tr": "θα γραφτώ",
+       "en": "θα γραφτώ"
+      },
+      {
+       "el": "θα γράφομαι",
+       "tr": "θα γράφομαι",
+       "en": "θα γράφομαι"
+      },
+      {
+       "el": "θα γράφτηκω",
+       "tr": "θα γράφτηκω",
+       "en": "θα γράφτηκω"
+      },
+      {
+       "el": "θα γράψω",
+       "tr": "θα γράψω",
+       "en": "θα γράψω"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Το ίδιο θέμα χωρίς -ηκα δίνει τον μέλλοντα: γράφτ-ηκα → θα γραφτώ.",
+      "tr": "Aynı gövde -ηκα olmadan geleceği verir: γράφτ-ηκα → θα γραφτώ.",
+      "en": "The same stem without -ηκα gives the future: γράφτ-ηκα → θα γραφτώ."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιες είναι οι καταλήξεις του ενεστώτα των ρημάτων σε -άμαι;",
+      "tr": "-άμαι fiillerinin şimdiki zaman ekleri hangileridir?",
+      "en": "Which are the present endings of verbs in -άμαι?"
+     },
+     "options": [
+      {
+       "el": "-ώ, -άς, -ά, -άμε, -άτε, -ούν",
+       "tr": "-ώ, -άς, -ά, -άμε, -άτε, -ούν",
+       "en": "-ώ, -άς, -ά, -άμε, -άτε, -ούν"
+      },
+      {
+       "el": "-ομαι, -εσαι, -εται, -όμαστε, -εστε, -ονται",
+       "tr": "-ομαι, -εσαι, -εται, -όμαστε, -εστε, -ονται",
+       "en": "-ομαι, -εσαι, -εται, -όμαστε, -εστε, -ονται"
+      },
+      {
+       "el": "-όμουν, -όσουν, -όταν, -όμασταν, -όσασταν, -ούνταν",
+       "tr": "-όμουν, -όσουν, -όταν, -όμασταν, -όσασταν, -ούνταν",
+       "en": "-όμουν, -όσουν, -όταν, -όμασταν, -όσασταν, -ούνταν"
+      },
+      {
+       "el": "-άμαι, -άσαι, -άται, -όμαστε, -άστε, -ούνται",
+       "tr": "-άμαι, -άσαι, -άται, -όμαστε, -άστε, -ούνται",
+       "en": "-άμαι, -άσαι, -άται, -όμαστε, -άστε, -ούνται"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Ενεστώτας -άμαι: -άμαι, -άσαι, -άται, -όμαστε, -άστε, -ούνται.",
+      "tr": "-άμαι şimdiki zaman: -άμαι, -άσαι, -άται, -όμαστε, -άστε, -ούνται.",
+      "en": "Present of -άμαι: -άμαι, -άσαι, -άται, -όμαστε, -άστε, -ούνται."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιες είναι οι καταλήξεις του παρατατικού των ρημάτων σε -ομαι;",
+      "tr": "-ομαι fiillerinin παρατατικός ekleri hangileridir?",
+      "en": "Which are the imperfect endings of verbs in -ομαι?"
+     },
+     "options": [
+      {
+       "el": "-ούσα, -ούσες, -ούσε, -ούσαμε, -ούσατε, -ούσαν",
+       "tr": "-ούσα, -ούσες, -ούσε, -ούσαμε, -ούσατε, -ούσαν",
+       "en": "-ούσα, -ούσες, -ούσε, -ούσαμε, -ούσατε, -ούσαν"
+      },
+      {
+       "el": "-(θ)ηκα, -ηκες, -ηκε, -ήκαμε, -ήκατε, -ηκαν",
+       "tr": "-(θ)ηκα, -ηκες, -ηκε, -ήκαμε, -ήκατε, -ηκαν",
+       "en": "-(θ)ηκα, -ηκες, -ηκε, -ήκαμε, -ήκατε, -ηκαν"
+      },
+      {
+       "el": "-ομαι, -εσαι, -εται, -όμαστε, -εστε, -ονται",
+       "tr": "-ομαι, -εσαι, -εται, -όμαστε, -εστε, -ονται",
+       "en": "-ομαι, -εσαι, -εται, -όμαστε, -εστε, -ονται"
+      },
+      {
+       "el": "-όμουν, -όσουν, -όταν, -όμασταν, -όσασταν, -ονταν",
+       "tr": "-όμουν, -όσουν, -όταν, -όμασταν, -όσασταν, -ονταν",
+       "en": "-όμουν, -όσουν, -όταν, -όμασταν, -όσασταν, -ονταν"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Παρατατικός -ομαι: -όμουν, -όσουν, -όταν, -όμασταν, -όσασταν, -ονταν.",
+      "tr": "-ομαι παρατατικός: -όμουν, -όσουν, -όταν, -όμασταν, -όσασταν, -ονταν.",
+      "en": "Imperfect of -ομαι: -όμουν, -όσουν, -όταν, -όμασταν, -όσασταν, -ονταν."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο ρήμα κλίνεται ακριβώς όπως το «θυμάμαι»;",
+      "tr": "Hangi fiil «θυμάμαι» ile tamamen aynı çekilir?",
+      "en": "Which verb is conjugated exactly like «θυμάμαι»?"
+     },
+     "options": [
+      {
+       "el": "κοιμάμαι",
+       "tr": "κοιμάμαι",
+       "en": "κοιμάμαι"
+      },
+      {
+       "el": "γράφομαι",
+       "tr": "γράφομαι",
+       "en": "γράφομαι"
+      },
+      {
+       "el": "πλένομαι",
+       "tr": "πλένομαι",
+       "en": "πλένομαι"
+      },
+      {
+       "el": "σκέφτομαι",
+       "tr": "σκέφτομαι",
+       "en": "σκέφτομαι"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Το θυμάμαι κλίνεται ακριβώς όπως το κοιμάμαι.",
+      "tr": "θυμάμαι tıpkı κοιμάμαι gibi çekilir.",
+      "en": "θυμάμαι is conjugated exactly like κοιμάμαι."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο ενεργητικός αόριστος του «πλένω», που αναφέρεται στο μάθημα;",
+      "tr": "Derste anılan «πλένω» fiilinin etken aoristi hangisidir?",
+      "en": "What is the active aorist of «πλένω» mentioned in the lesson?"
+     },
+     "options": [
+      {
+       "el": "πλένθηκα",
+       "tr": "πλένθηκα",
+       "en": "πλένθηκα"
+      },
+      {
+       "el": "έπλυνα",
+       "tr": "έπλυνα",
+       "en": "έπλυνα"
+      },
+      {
+       "el": "πλύθηκα",
+       "tr": "πλύθηκα",
+       "en": "πλύθηκα"
+      },
+      {
+       "el": "έπλενα",
+       "tr": "έπλενα",
+       "en": "έπλενα"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Το πλένομαι είναι παθητικό του πλένω (ενεργ. αόριστος έπλυνα)· θέμα αορίστου πλυ-θ-.",
+      "tr": "πλένομαι, πλένω'nun edilgenidir (etken aorist έπλυνα); aorist gövdesi πλυ-θ-.",
+      "en": "πλένομαι is the passive of πλένω (active aorist έπλυνα); aorist stem πλυ-θ-."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «σκέφτομαι» στον Ενεστώτα, πρόσωπο «εσύ»;",
+      "tr": "«σκέφτομαι» fiilinin Ενεστώτας (şimdiki zaman) çekiminde «εσύ» (sen) biçimi hangisidir?",
+      "en": "Which is the present (Ενεστώτας) form of «σκέφτομαι» for «εσύ» (you sg.)?"
+     },
+     "options": [
+      {
+       "el": "σκέφτεστε",
+       "tr": "σκέφτεστε",
+       "en": "σκέφτεστε"
+      },
+      {
+       "el": "σκέφτεσαι",
+       "tr": "σκέφτεσαι",
+       "en": "σκέφτεσαι"
+      },
+      {
+       "el": "σκεφτόσουν",
+       "tr": "σκεφτόσουν",
+       "en": "σκεφτόσουν"
+      },
+      {
+       "el": "σκέφτεται",
+       "tr": "σκέφτεται",
+       "en": "σκέφτεται"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα του «σκέφτομαι»: Ενεστώτας, «εσύ» → σκέφτεσαι.",
+      "tr": "«σκέφτομαι» tablosunda: Ενεστώτας, «εσύ» (sen) → σκέφτεσαι.",
+      "en": "In the table of «σκέφτομαι»: present (Ενεστώτας), «εσύ» → σκέφτεσαι."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «σκέφτομαι» στον Παρατατικό, πρόσωπο «εγώ»;",
+      "tr": "«σκέφτομαι» fiilinin Παρατατικός (sürekli geçmiş) çekiminde «εγώ» (ben) biçimi hangisidir?",
+      "en": "Which is the imperfect (Παρατατικός) form of «σκέφτομαι» for «εγώ» (I)?"
+     },
+     "options": [
+      {
+       "el": "σκεφτόμαστε",
+       "tr": "σκεφτόμαστε",
+       "en": "σκεφτόμαστε"
+      },
+      {
+       "el": "σκεφτόμουν",
+       "tr": "σκεφτόμουν",
+       "en": "σκεφτόμουν"
+      },
+      {
+       "el": "σκέφτηκα",
+       "tr": "σκέφτηκα",
+       "en": "σκέφτηκα"
+      },
+      {
+       "el": "σκέφτομαι",
+       "tr": "σκέφτομαι",
+       "en": "σκέφτομαι"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα του «σκέφτομαι»: Παρατατικός, «εγώ» → σκεφτόμουν.",
+      "tr": "«σκέφτομαι» tablosunda: Παρατατικός, «εγώ» (ben) → σκεφτόμουν.",
+      "en": "In the table of «σκέφτομαι»: imperfect (Παρατατικός), «εγώ» → σκεφτόμουν."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «σκέφτομαι» στον Αόριστο, πρόσωπο «εμείς»;",
+      "tr": "«σκέφτομαι» fiilinin Αόριστος (basit geçmiş) çekiminde «εμείς» (biz) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «σκέφτομαι» for «εμείς» (we)?"
+     },
+     "options": [
+      {
+       "el": "σκεφτόμαστε",
+       "tr": "σκεφτόμαστε",
+       "en": "σκεφτόμαστε"
+      },
+      {
+       "el": "σκεφτήκαμε",
+       "tr": "σκεφτήκαμε",
+       "en": "σκεφτήκαμε"
+      },
+      {
+       "el": "σκέφτηκαμε",
+       "tr": "σκέφτηκαμε",
+       "en": "σκέφτηκαμε"
+      },
+      {
+       "el": "σκεφτήκατε",
+       "tr": "σκεφτήκατε",
+       "en": "σκεφτήκατε"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Στον πίνακα του «σκέφτομαι»: Αόριστος, «εμείς» → σκεφτήκαμε.",
+      "tr": "«σκέφτομαι» tablosunda: Αόριστος, «εμείς» (biz) → σκεφτήκαμε.",
+      "en": "In the table of «σκέφτομαι»: aorist / simple past (Αόριστος), «εμείς» → σκεφτήκαμε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «σκέφτομαι» στην Προστακτική, πρόσωπο «εσύ»;",
+      "tr": "«σκέφτομαι» fiilinin Προστακτική (emir kipi) çekiminde «εσύ» (sen) biçimi hangisidir?",
+      "en": "Which is the imperative (Προστακτική) form of «σκέφτομαι» for «εσύ» (you sg.)?"
+     },
+     "options": [
+      {
+       "el": "σκέφτου",
+       "tr": "σκέφτου",
+       "en": "σκέφτου"
+      },
+      {
+       "el": "σκέψε",
+       "tr": "σκέψε",
+       "en": "σκέψε"
+      },
+      {
+       "el": "σκέψου",
+       "tr": "σκέψου",
+       "en": "σκέψου"
+      },
+      {
+       "el": "σκεφτείς",
+       "tr": "σκεφτείς",
+       "en": "σκεφτείς"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα του «σκέφτομαι»: Προστακτική, «εσύ» → σκέψου.",
+      "tr": "«σκέφτομαι» tablosunda: Προστακτική, «εσύ» (sen) → σκέψου.",
+      "en": "In the table of «σκέφτομαι»: imperative (Προστακτική), «εσύ» → σκέψου."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «κοιμάμαι» στον Ενεστώτα, πρόσωπο «αυτοί/ές/ά»;",
+      "tr": "«κοιμάμαι» fiilinin Ενεστώτας (şimdiki zaman) çekiminde «αυτοί/ές/ά» (onlar) biçimi hangisidir?",
+      "en": "Which is the present (Ενεστώτας) form of «κοιμάμαι» for «αυτοί/ές/ά» (they)?"
+     },
+     "options": [
+      {
+       "el": "κοιμόνται",
+       "tr": "κοιμόνται",
+       "en": "κοιμόνται"
+      },
+      {
+       "el": "κοιμάστε",
+       "tr": "κοιμάστε",
+       "en": "κοιμάστε"
+      },
+      {
+       "el": "κοιμούνται",
+       "tr": "κοιμούνται",
+       "en": "κοιμούνται"
+      },
+      {
+       "el": "κοιμούνταν",
+       "tr": "κοιμούνταν",
+       "en": "κοιμούνταν"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα του «κοιμάμαι»: Ενεστώτας, «αυτοί/ές/ά» → κοιμούνται.",
+      "tr": "«κοιμάμαι» tablosunda: Ενεστώτας, «αυτοί/ές/ά» (onlar) → κοιμούνται.",
+      "en": "In the table of «κοιμάμαι»: present (Ενεστώτας), «αυτοί/ές/ά» → κοιμούνται."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «κοιμάμαι» στον Αόριστο, πρόσωπο «εγώ»;",
+      "tr": "«κοιμάμαι» fiilinin Αόριστος (basit geçmiş) çekiminde «εγώ» (ben) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «κοιμάμαι» for «εγώ» (I)?"
+     },
+     "options": [
+      {
+       "el": "κοιμήθηκα",
+       "tr": "κοιμήθηκα",
+       "en": "κοιμήθηκα"
+      },
+      {
+       "el": "κοιμόμουν",
+       "tr": "κοιμόμουν",
+       "en": "κοιμόμουν"
+      },
+      {
+       "el": "κοιμήθησα",
+       "tr": "κοιμήθησα",
+       "en": "κοιμήθησα"
+      },
+      {
+       "el": "κοίμησα",
+       "tr": "κοίμησα",
+       "en": "κοίμησα"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα του «κοιμάμαι»: Αόριστος, «εγώ» → κοιμήθηκα.",
+      "tr": "«κοιμάμαι» tablosunda: Αόριστος, «εγώ» (ben) → κοιμήθηκα.",
+      "en": "In the table of «κοιμάμαι»: aorist / simple past (Αόριστος), «εγώ» → κοιμήθηκα."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «κοιμάμαι» στον Στιγμιαίο Μέλλοντα, πρόσωπο «εσύ»;",
+      "tr": "«κοιμάμαι» fiilinin Στιγμιαίος Μέλλοντας (basit gelecek) çekiminde «εσύ» (sen) biçimi hangisidir?",
+      "en": "Which is the simple future (Στιγμιαίος Μέλλοντας) form of «κοιμάμαι» for «εσύ» (you sg.)?"
+     },
+     "options": [
+      {
+       "el": "θα κοιμήθηκες",
+       "tr": "θα κοιμήθηκες",
+       "en": "θα κοιμήθηκες"
+      },
+      {
+       "el": "θα κοιμηθείτε",
+       "tr": "θα κοιμηθείτε",
+       "en": "θα κοιμηθείτε"
+      },
+      {
+       "el": "θα κοιμάσαι",
+       "tr": "θα κοιμάσαι",
+       "en": "θα κοιμάσαι"
+      },
+      {
+       "el": "θα κοιμηθείς",
+       "tr": "θα κοιμηθείς",
+       "en": "θα κοιμηθείς"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα του «κοιμάμαι»: Στιγμιαίος Μέλλοντας, «εσύ» → θα κοιμηθείς.",
+      "tr": "«κοιμάμαι» tablosunda: Στιγμιαίος Μέλλοντας, «εσύ» (sen) → θα κοιμηθείς.",
+      "en": "In the table of «κοιμάμαι»: simple future (Στιγμιαίος Μέλλοντας), «εσύ» → θα κοιμηθείς."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «θυμάμαι» στην Προστακτική, πρόσωπο «εσείς»;",
+      "tr": "«θυμάμαι» fiilinin Προστακτική (emir kipi) çekiminde «εσείς» (siz) biçimi hangisidir?",
+      "en": "Which is the imperative (Προστακτική) form of «θυμάμαι» for «εσείς» (you pl.)?"
+     },
+     "options": [
+      {
+       "el": "θυμηθείτε",
+       "tr": "θυμηθείτε",
+       "en": "θυμηθείτε"
+      },
+      {
+       "el": "θυμάστε",
+       "tr": "θυμάστε",
+       "en": "θυμάστε"
+      },
+      {
+       "el": "θυμήσου",
+       "tr": "θυμήσου",
+       "en": "θυμήσου"
+      },
+      {
+       "el": "θυμηθήκατε",
+       "tr": "θυμηθήκατε",
+       "en": "θυμηθήκατε"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα του «θυμάμαι»: Προστακτική, «εσείς» → θυμηθείτε.",
+      "tr": "«θυμάμαι» tablosunda: Προστακτική, «εσείς» (siz) → θυμηθείτε.",
+      "en": "In the table of «θυμάμαι»: imperative (Προστακτική), «εσείς» → θυμηθείτε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «πλένομαι» στον Αόριστο, πρόσωπο «εγώ»;",
+      "tr": "«πλένομαι» fiilinin Αόριστος (basit geçmiş) çekiminde «εγώ» (ben) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «πλένομαι» for «εγώ» (I)?"
+     },
+     "options": [
+      {
+       "el": "πλύθηκα",
+       "tr": "πλύθηκα",
+       "en": "πλύθηκα"
+      },
+      {
+       "el": "πλενόμουν",
+       "tr": "πλενόμουν",
+       "en": "πλενόμουν"
+      },
+      {
+       "el": "έπλυνα",
+       "tr": "έπλυνα",
+       "en": "έπλυνα"
+      },
+      {
+       "el": "πλένθηκα",
+       "tr": "πλένθηκα",
+       "en": "πλένθηκα"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα του «πλένομαι»: Αόριστος, «εγώ» → πλύθηκα.",
+      "tr": "«πλένομαι» tablosunda: Αόριστος, «εγώ» (ben) → πλύθηκα.",
+      "en": "In the table of «πλένομαι»: aorist / simple past (Αόριστος), «εγώ» → πλύθηκα."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «γράφομαι» στον Αόριστο, πρόσωπο «εγώ»;",
+      "tr": "«γράφομαι» fiilinin Αόριστος (basit geçmiş) çekiminde «εγώ» (ben) biçimi hangisidir?",
+      "en": "Which is the aorist / simple past (Αόριστος) form of «γράφομαι» for «εγώ» (I)?"
+     },
+     "options": [
+      {
+       "el": "γράφτηκα",
+       "tr": "γράφτηκα",
+       "en": "γράφτηκα"
+      },
+      {
+       "el": "έγραψα",
+       "tr": "έγραψα",
+       "en": "έγραψα"
+      },
+      {
+       "el": "γράψηκα",
+       "tr": "γράψηκα",
+       "en": "γράψηκα"
+      },
+      {
+       "el": "γραφόμουν",
+       "tr": "γραφόμουν",
+       "en": "γραφόμουν"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα του «γράφομαι»: Αόριστος, «εγώ» → γράφτηκα.",
+      "tr": "«γράφομαι» tablosunda: Αόριστος, «εγώ» (ben) → γράφτηκα.",
+      "en": "In the table of «γράφομαι»: aorist / simple past (Αόριστος), «εγώ» → γράφτηκα."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο τύπος του ρήματος «γράφομαι» στον Παρακείμενο, πρόσωπο «εσύ»;",
+      "tr": "«γράφομαι» fiilinin Παρακείμενος (bitmişlik) çekiminde «εσύ» (sen) biçimi hangisidir?",
+      "en": "Which is the perfect (Παρακείμενος) form of «γράφομαι» for «εσύ» (you sg.)?"
+     },
+     "options": [
+      {
+       "el": "έχεις γραφτώ",
+       "tr": "έχεις γραφτώ",
+       "en": "έχεις γραφτώ"
+      },
+      {
+       "el": "έχεις γράψει",
+       "tr": "έχεις γράψει",
+       "en": "έχεις γράψει"
+      },
+      {
+       "el": "έχεις γραφτεί",
+       "tr": "έχεις γραφτεί",
+       "en": "έχεις γραφτεί"
+      },
+      {
+       "el": "είχες γραφτεί",
+       "tr": "είχες γραφτεί",
+       "en": "είχες γραφτεί"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα του «γράφομαι»: Παρακείμενος, «εσύ» → έχεις γραφτεί.",
+      "tr": "«γράφομαι» tablosunda: Παρακείμενος, «εσύ» (sen) → έχεις γραφτεί.",
+      "en": "In the table of «γράφομαι»: perfect (Παρακείμενος), «εσύ» → έχεις γραφτεί."
+     }
+    }
    ]
   },
   {
@@ -2394,6 +5974,638 @@
    "sources": [
     "https://el.wiktionary.org/wiki/γράφω",
     "https://cromwell-intl.com/travel/greece/greek/verbs.html"
+   ],
+   "quiz": [
+    {
+     "q": {
+      "el": "Τι περιγράφει ο παρατατικός;",
+      "tr": "Παρατατικός neyi anlatır?",
+      "en": "What does the imperfect describe?"
+     },
+     "options": [
+      {
+       "el": "Κάτι που θα γίνει μία φορά",
+       "tr": "Bir kez olacak bir şeyi",
+       "en": "Something that will happen once"
+      },
+      {
+       "el": "Μια διαταγή",
+       "tr": "Bir emri",
+       "en": "A command"
+      },
+      {
+       "el": "Κάτι που διαρκούσε ή γινόταν συχνά στο παρελθόν",
+       "tr": "Geçmişte süren ya da sık sık olan bir şeyi",
+       "en": "Something that was going on or used to happen in the past"
+      },
+      {
+       "el": "Κάτι που έγινε και τελείωσε μία φορά",
+       "tr": "Bir kez olup biten bir şeyi",
+       "en": "Something that happened once and was completed"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Ο παρατατικός περιγράφει κάτι που διαρκούσε ή γινόταν συχνά (φόντο, συνήθεια).",
+      "tr": "Παρατατικός geçmişte süren ya da sık olan şeyi anlatır (arka plan, alışkanlık).",
+      "en": "The imperfect describes something ongoing or habitual in the past (background, habit)."
+     }
+    },
+    {
+     "q": {
+      "el": "Τι λέει ο αόριστος;",
+      "tr": "Αόριστος ne anlatır?",
+      "en": "What does the aorist say?"
+     },
+     "options": [
+      {
+       "el": "Ότι κάτι θα διαρκεί",
+       "tr": "Bir şeyin sürecek olduğunu",
+       "en": "That something will last"
+      },
+      {
+       "el": "Ότι κάτι γινόταν συχνά",
+       "tr": "Bir şeyin sık sık olduğunu",
+       "en": "That something used to happen often"
+      },
+      {
+       "el": "Ότι κάτι έγινε και τελείωσε (ένα γεγονός)",
+       "tr": "Bir şeyin olup bittiğini (bir olay)",
+       "en": "That something happened and was completed (an event)"
+      },
+      {
+       "el": "Ότι κάτι είναι συνήθεια",
+       "tr": "Bir şeyin alışkanlık olduğunu",
+       "en": "That something is a habit"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Ο αόριστος λέει ότι κάτι έγινε και τελείωσε.",
+      "tr": "Αόριστος bir şeyin olup bittiğini söyler.",
+      "en": "The aorist says something happened and was completed."
+     }
+    },
+    {
+     "q": {
+      "el": "Συμπλήρωσε: «Κάθε καλοκαίρι ___ στη θάλασσα.»",
+      "tr": "Boşluğu doldur: «Κάθε καλοκαίρι ___ στη θάλασσα.» (Her yaz denize giderdik.)",
+      "en": "Fill in: «Κάθε καλοκαίρι ___ στη θάλασσα.» (Every summer we used to go to the sea.)"
+     },
+     "options": [
+      {
+       "el": "έχουμε πάει",
+       "tr": "έχουμε πάει",
+       "en": "έχουμε πάει"
+      },
+      {
+       "el": "πήγαμε",
+       "tr": "πήγαμε",
+       "en": "πήγαμε"
+      },
+      {
+       "el": "θα πάμε",
+       "tr": "θα πάμε",
+       "en": "θα πάμε"
+      },
+      {
+       "el": "πηγαίναμε",
+       "tr": "πηγαίναμε",
+       "en": "πηγαίναμε"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Συνήθεια → παρατατικός: Κάθε καλοκαίρι πηγαίναμε στη θάλασσα.",
+      "tr": "Alışkanlık → παρατατικός: Κάθε καλοκαίρι πηγαίναμε στη θάλασσα.",
+      "en": "Habit → imperfect: Κάθε καλοκαίρι πηγαίναμε στη θάλασσα."
+     }
+    },
+    {
+     "q": {
+      "el": "Συμπλήρωσε: «Πέρσι ___ στην Κρήτη.»",
+      "tr": "Boşluğu doldur: «Πέρσι ___ στην Κρήτη.» (Geçen yıl Girit'e gittik.)",
+      "en": "Fill in: «Πέρσι ___ στην Κρήτη.» (Last year we went to Crete.)"
+     },
+     "options": [
+      {
+       "el": "πήγαμε",
+       "tr": "πήγαμε",
+       "en": "πήγαμε"
+      },
+      {
+       "el": "πάμε",
+       "tr": "πάμε",
+       "en": "πάμε"
+      },
+      {
+       "el": "θα πηγαίνουμε",
+       "tr": "θα πηγαίνουμε",
+       "en": "θα πηγαίνουμε"
+      },
+      {
+       "el": "πηγαίναμε",
+       "tr": "πηγαίναμε",
+       "en": "πηγαίναμε"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Μία φορά → αόριστος: Πέρσι πήγαμε στην Κρήτη.",
+      "tr": "Bir kez → aorist: Πέρσι πήγαμε στην Κρήτη.",
+      "en": "Once → aorist: Πέρσι πήγαμε στην Κρήτη."
+     }
+    },
+    {
+     "q": {
+      "el": "Στη φράση «Διάβαζα εφημερίδα όταν χτύπησε το τηλέφωνο», τι δείχνει το «διάβαζα»;",
+      "tr": "«Διάβαζα εφημερίδα όταν χτύπησε το τηλέφωνο» cümlesinde «διάβαζα» neyi gösterir?",
+      "en": "In «Διάβαζα εφημερίδα όταν χτύπησε το τηλέφωνο», what does «διάβαζα» show?"
+     },
+     "options": [
+      {
+       "el": "Το γεγονός που έγινε μία φορά",
+       "tr": "Bir kez olan olayı",
+       "en": "The single event"
+      },
+      {
+       "el": "Το φόντο (κάτι που διαρκούσε)",
+       "tr": "Arka planı (süren bir eylemi)",
+       "en": "The background (an ongoing action)"
+      },
+      {
+       "el": "Μια απαγόρευση",
+       "tr": "Bir yasağı",
+       "en": "A prohibition"
+      },
+      {
+       "el": "Μια πράξη στο μέλλον",
+       "tr": "Gelecekteki bir eylemi",
+       "en": "A future action"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Διάβαζα (παρατατικός) = φόντο· χτύπησε (αόριστος) = γεγονός.",
+      "tr": "Διάβαζα (παρατατικός) = arka plan; χτύπησε (aorist) = olay.",
+      "en": "Διάβαζα (imperfect) = background; χτύπησε (aorist) = event."
+     }
+    },
+    {
+     "q": {
+      "el": "Συμπλήρωσε: «Χθες ___ ένα γράμμα.» (ένα ολοκληρωμένο γεγονός)",
+      "tr": "Boşluğu doldur: «Χθες ___ ένα γράμμα.» (tamamlanmış tek bir olay)",
+      "en": "Fill in: «Χθες ___ ένα γράμμα.» (one completed event)"
+     },
+     "options": [
+      {
+       "el": "έγραφα",
+       "tr": "έγραφα",
+       "en": "έγραφα"
+      },
+      {
+       "el": "έγραψα",
+       "tr": "έγραψα",
+       "en": "έγραψα"
+      },
+      {
+       "el": "γράφω",
+       "tr": "γράφω",
+       "en": "γράφω"
+      },
+      {
+       "el": "θα γράψω",
+       "tr": "θα γράψω",
+       "en": "θα γράψω"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Χθες έγραψα ένα γράμμα (γεγονός)· Χθες έγραφα όλο το πρωί (διάρκεια).",
+      "tr": "Χθες έγραψα ένα γράμμα (olay); Χθες έγραφα όλο το πρωί (süreklilik).",
+      "en": "Χθες έγραψα ένα γράμμα (event); Χθες έγραφα όλο το πρωί (duration)."
+     }
+    },
+    {
+     "q": {
+      "el": "Συμπλήρωσε: «Χθες ___ όλο το πρωί.» (κάτι που διαρκούσε)",
+      "tr": "Boşluğu doldur: «Χθες ___ όλο το πρωί.» (süren bir eylem)",
+      "en": "Fill in: «Χθες ___ όλο το πρωί.» (something that lasted)"
+     },
+     "options": [
+      {
+       "el": "έγραφα",
+       "tr": "έγραφα",
+       "en": "έγραφα"
+      },
+      {
+       "el": "έγραψα",
+       "tr": "έγραψα",
+       "en": "έγραψα"
+      },
+      {
+       "el": "θα γράψω",
+       "tr": "θα γράψω",
+       "en": "θα γράψω"
+      },
+      {
+       "el": "έχω γράψει",
+       "tr": "έχω γράψει",
+       "en": "έχω γράψει"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Διάρκεια → παρατατικός: Χθες έγραφα όλο το πρωί.",
+      "tr": "Süreklilik → παρατατικός: Χθες έγραφα όλο το πρωί (dün bütün sabah yazıyordum).",
+      "en": "Duration → imperfect: Χθες έγραφα όλο το πρωί."
+     }
+    },
+    {
+     "q": {
+      "el": "Τι δείχνει ο εξακολουθητικός μέλλοντας (θα + ενεστώτας);",
+      "tr": "Εξακολουθητικός Μέλλοντας (θα + şimdiki zaman) neyi gösterir?",
+      "en": "What does the continuous future (θα + present) show?"
+     },
+     "options": [
+      {
+       "el": "Κάτι που θα διαρκεί ή θα επαναλαμβάνεται",
+       "tr": "Sürecek ya da tekrarlanacak bir şeyi",
+       "en": "Something that will last or repeat"
+      },
+      {
+       "el": "Μια διαταγή",
+       "tr": "Bir emri",
+       "en": "A command"
+      },
+      {
+       "el": "Κάτι που είχε γίνει πριν",
+       "tr": "Daha önce olmuş bir şeyi",
+       "en": "Something that had happened before"
+      },
+      {
+       "el": "Μια πράξη μία φορά",
+       "tr": "Bir kez olacak bir eylemi",
+       "en": "A single action"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Ο εξακολουθητικός μέλλοντας δείχνει κάτι που θα διαρκεί ή θα επαναλαμβάνεται.",
+      "tr": "Εξακολουθητικός Μέλλοντας sürecek ya da tekrarlanacak şeyi gösterir.",
+      "en": "The continuous future shows something that will last or repeat."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιος είναι ο πιο συχνός μέλλοντας;",
+      "tr": "En sık kullanılan gelecek zaman hangisidir?",
+      "en": "Which is the most common future?"
+     },
+     "options": [
+      {
+       "el": "Εξακολουθητικός Μέλλοντας",
+       "tr": "Εξακολουθητικός Μέλλοντας",
+       "en": "Εξακολουθητικός Μέλλοντας"
+      },
+      {
+       "el": "Συντελεσμένος Μέλλοντας",
+       "tr": "Συντελεσμένος Μέλλοντας",
+       "en": "Συντελεσμένος Μέλλοντας"
+      },
+      {
+       "el": "Υπερσυντέλικος",
+       "tr": "Υπερσυντέλικος",
+       "en": "Υπερσυντέλικος"
+      },
+      {
+       "el": "Στιγμιαίος Μέλλοντας",
+       "tr": "Στιγμιαίος Μέλλοντας",
+       "en": "Στιγμιαίος Μέλλοντας"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Ο στιγμιαίος μέλλοντας (θα + θέμα αορίστου) δείχνει μια πράξη μία φορά και είναι ο πιο συχνός.",
+      "tr": "Στιγμιαίος Μέλλοντας (θα + aorist gövdesi) tek bir eylemi gösterir ve en sık kullanılanıdır.",
+      "en": "The simple future (θα + aorist stem) shows a single action and is the most common."
+     }
+    },
+    {
+     "q": {
+      "el": "Συμπλήρωσε: «Αύριο θα σου ___ ένα μήνυμα.»",
+      "tr": "Boşluğu doldur: «Αύριο θα σου ___ ένα μήνυμα.» (Yarın sana bir mesaj yazacağım.)",
+      "en": "Fill in: «Αύριο θα σου ___ ένα μήνυμα.» (Tomorrow I will write you a message.)"
+     },
+     "options": [
+      {
+       "el": "γράφω",
+       "tr": "γράφω",
+       "en": "γράφω"
+      },
+      {
+       "el": "γράψει",
+       "tr": "γράψει",
+       "en": "γράψει"
+      },
+      {
+       "el": "γράψω",
+       "tr": "γράψω",
+       "en": "γράψω"
+      },
+      {
+       "el": "έγραψα",
+       "tr": "έγραψα",
+       "en": "έγραψα"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Μία πράξη → στιγμιαίος μέλλοντας: Αύριο θα σου γράψω ένα μήνυμα.",
+      "tr": "Tek eylem → Στιγμιαίος Μέλλοντας: Αύριο θα σου γράψω ένα μήνυμα.",
+      "en": "Single action → simple future: Αύριο θα σου γράψω ένα μήνυμα."
+     }
+    },
+    {
+     "q": {
+      "el": "Συμπλήρωσε: «Από τη Δευτέρα ___ κάθε μέρα.»",
+      "tr": "Boşluğu doldur: «Από τη Δευτέρα ___ κάθε μέρα.» (Pazartesiden itibaren her gün çalışacağım.)",
+      "en": "Fill in: «Από τη Δευτέρα ___ κάθε μέρα.» (From Monday I will be working every day.)"
+     },
+     "options": [
+      {
+       "el": "θα δουλέψω",
+       "tr": "θα δουλέψω",
+       "en": "θα δουλέψω"
+      },
+      {
+       "el": "θα δουλεύω",
+       "tr": "θα δουλεύω",
+       "en": "θα δουλεύω"
+      },
+      {
+       "el": "δούλεψα",
+       "tr": "δούλεψα",
+       "en": "δούλεψα"
+      },
+      {
+       "el": "είχα δουλέψει",
+       "tr": "είχα δουλέψει",
+       "en": "είχα δουλέψει"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Επανάληψη → εξακολουθητικός μέλλοντας: Από τη Δευτέρα θα δουλεύω κάθε μέρα.",
+      "tr": "Tekrar → Εξακολουθητικός Μέλλοντας: Από τη Δευτέρα θα δουλεύω κάθε μέρα.",
+      "en": "Repetition → continuous future: Από τη Δευτέρα θα δουλεύω κάθε μέρα."
+     }
+    },
+    {
+     "q": {
+      "el": "Συμπλήρωσε: «Όταν ήρθες, ___ ήδη.»",
+      "tr": "Boşluğu doldur: «Όταν ήρθες, ___ ήδη.» (Sen geldiğinde ben zaten yemiştim.)",
+      "en": "Fill in: «Όταν ήρθες, ___ ήδη.» (When you came, I had already eaten.)"
+     },
+     "options": [
+      {
+       "el": "έχω φάει",
+       "tr": "έχω φάει",
+       "en": "έχω φάει"
+      },
+      {
+       "el": "είχα φάει",
+       "tr": "είχα φάει",
+       "en": "είχα φάει"
+      },
+      {
+       "el": "θα έχω φάει",
+       "tr": "θα έχω φάει",
+       "en": "θα έχω φάει"
+      },
+      {
+       "el": "θα φάω",
+       "tr": "θα φάω",
+       "en": "θα φάω"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Υπερσυντέλικος: Όταν ήρθες, είχα φάει ήδη.",
+      "tr": "Υπερσυντέλικος: Όταν ήρθες, είχα φάει ήδη.",
+      "en": "Pluperfect: Όταν ήρθες, είχα φάει ήδη."
+     }
+    },
+    {
+     "q": {
+      "el": "Όπου στα τουρκικά λες «-dı», ποιον χρόνο βάζεις στα ελληνικά;",
+      "tr": "Türkçede «-dı» dediğin yerde Yunancada hangi zamanı kullanırsın?",
+      "en": "Where Turkish says «-dı», which Greek tense do you use?"
+     },
+     "options": [
+      {
+       "el": "Αόριστος",
+       "tr": "Αόριστος",
+       "en": "Αόριστος"
+      },
+      {
+       "el": "Παρατατικός",
+       "tr": "Παρατατικός",
+       "en": "Παρατατικός"
+      },
+      {
+       "el": "Εξακολουθητικός Μέλλοντας",
+       "tr": "Εξακολουθητικός Μέλλοντας",
+       "en": "Εξακολουθητικός Μέλλοντας"
+      },
+      {
+       "el": "Παρακείμενος",
+       "tr": "Παρακείμενος",
+       "en": "Παρακείμενος"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "-iyordu / -irdi → παρατατικός· -dı → αόριστος.",
+      "tr": "-iyordu / -irdi → παρατατικός; -dı → αόριστος.",
+      "en": "-iyordu / -irdi → imperfect; -dı → aorist."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποιο είναι σωστό;",
+      "tr": "Hangisi doğrudur?",
+      "en": "Which is correct?"
+     },
+     "options": [
+      {
+       "el": "Χθες έχω γράψει",
+       "tr": "Χθες έχω γράψει",
+       "en": "Χθες έχω γράψει"
+      },
+      {
+       "el": "Χθες έγραψα",
+       "tr": "Χθες έγραψα",
+       "en": "Χθες έγραψα"
+      },
+      {
+       "el": "Χθες έχω γράφει",
+       "tr": "Χθες έχω γράφει",
+       "en": "Χθες έχω γράφει"
+      },
+      {
+       "el": "Χθες θα γράψω",
+       "tr": "Χθες θα γράψω",
+       "en": "Χθες θα γράψω"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Με το «χθες», «πέρσι» κ.λπ. λέμε πάντα αόριστο: Χθες έγραψα, όχι «χθες έχω γράψει».",
+      "tr": "«dün», «geçen yıl» vb. ile her zaman aorist kullanılır: Χθες έγραψα, «χθες έχω γράψει» değil.",
+      "en": "With “yesterday”, “last year” etc. always use the aorist: Χθες έγραψα, not «χθες έχω γράψει»."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς χρησιμοποιείται ο παρακείμενος (έχω γράψει) σε σχέση με τα αγγλικά;",
+      "tr": "Παρακείμενος (έχω γράψει) İngilizceye göre nasıl kullanılır?",
+      "en": "How is the perfect (έχω γράψει) used compared with English?"
+     },
+     "options": [
+      {
+       "el": "Περισσότερο απ' ό,τι στα αγγλικά",
+       "tr": "İngilizcedekinden daha çok",
+       "en": "More than in English"
+      },
+      {
+       "el": "Πάντα με το «χθες»",
+       "tr": "Her zaman «dün» ile",
+       "en": "Always with “yesterday”"
+      },
+      {
+       "el": "Μόνο στις ερωτήσεις",
+       "tr": "Yalnızca sorularda",
+       "en": "Only in questions"
+      },
+      {
+       "el": "Λιγότερο απ' ό,τι στα αγγλικά",
+       "tr": "İngilizcedekinden daha az",
+       "en": "Less than in English"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Ο παρακείμενος χρησιμοποιείται λιγότερο απ' ό,τι στα αγγλικά.",
+      "tr": "Παρακείμενος İngilizcedekinden daha az kullanılır.",
+      "en": "The perfect is used less than in English."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια λέξη-κλειδί δείχνει στιγμιαία όψη (έγραψα, θα γράψω);",
+      "tr": "Hangi anahtar kelime anlık görünüşü (έγραψα, θα γράψω) gösterir?",
+      "en": "Which key word signals the simple aspect (έγραψα, θα γράψω)?"
+     },
+     "options": [
+      {
+       "el": "συνήθως",
+       "tr": "συνήθως",
+       "en": "συνήθως"
+      },
+      {
+       "el": "συχνά",
+       "tr": "συχνά",
+       "en": "συχνά"
+      },
+      {
+       "el": "ενώ",
+       "tr": "ενώ",
+       "en": "ενώ"
+      },
+      {
+       "el": "ξαφνικά",
+       "tr": "ξαφνικά",
+       "en": "ξαφνικά"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Χθες, μια φορά, ξαφνικά, αμέσως → στιγμιαία όψη.",
+      "tr": "Χθες, μια φορά, ξαφνικά, αμέσως → anlık görünüş.",
+      "en": "Χθες, μια φορά, ξαφνικά, αμέσως → simple aspect."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια λέξη-κλειδί δείχνει συνεχή όψη (έγραφα, θα γράφω);",
+      "tr": "Hangi anahtar kelime sürekli görünüşü (έγραφα, θα γράφω) gösterir?",
+      "en": "Which key word signals the continuous aspect (έγραφα, θα γράφω)?"
+     },
+     "options": [
+      {
+       "el": "αμέσως",
+       "tr": "αμέσως",
+       "en": "αμέσως"
+      },
+      {
+       "el": "χθες",
+       "tr": "χθες",
+       "en": "χθες"
+      },
+      {
+       "el": "κάθε μέρα",
+       "tr": "κάθε μέρα",
+       "en": "κάθε μέρα"
+      },
+      {
+       "el": "μια φορά",
+       "tr": "μια φορά",
+       "en": "μια φορά"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Κάθε μέρα, συχνά, πάντα, συνήθως, ενώ → συνεχής όψη.",
+      "tr": "Κάθε μέρα, συχνά, πάντα, συνήθως, ενώ → sürekli görünüş.",
+      "en": "Κάθε μέρα, συχνά, πάντα, συνήθως, ενώ → continuous aspect."
+     }
+    },
+    {
+     "q": {
+      "el": "Σε ποιον χρόνο είναι το «Έχω διαβάσει αυτό το βιβλίο»;",
+      "tr": "«Έχω διαβάσει αυτό το βιβλίο» hangi zamandadır?",
+      "en": "Which tense is «Έχω διαβάσει αυτό το βιβλίο»?"
+     },
+     "options": [
+      {
+       "el": "Παρακείμενος",
+       "tr": "Παρακείμενος",
+       "en": "Παρακείμενος"
+      },
+      {
+       "el": "Παρατατικός",
+       "tr": "Παρατατικός",
+       "en": "Παρατατικός"
+      },
+      {
+       "el": "Αόριστος",
+       "tr": "Αόριστος",
+       "en": "Αόριστος"
+      },
+      {
+       "el": "Υπερσυντέλικος",
+       "tr": "Υπερσυντέλικος",
+       "en": "Υπερσυντέλικος"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "έχω + απαρέμφατο (έχω διαβάσει) = παρακείμενος.",
+      "tr": "έχω + mastar (έχω διαβάσει) = Παρακείμενος (bu kitabı okudum / okumuş bulunuyorum).",
+      "en": "έχω + infinitive (έχω διαβάσει) = perfect (I have read this book)."
+     }
+    }
    ]
   },
   {
@@ -2641,6 +6853,673 @@
     "https://en.wiktionary.org/wiki/θυμάμαι",
     "https://en.wiktionary.org/wiki/ανοίγω",
     "https://en.wiktionary.org/wiki/σκέφτομαι"
+   ],
+   "quiz": [
+    {
+     "q": {
+      "el": "Πόσα πρόσωπα έχει η προστακτική;",
+      "tr": "Emir kipinin kaç şahsı vardır?",
+      "en": "How many persons does the imperative have?"
+     },
+     "options": [
+      {
+       "el": "Ένα: εσύ",
+       "tr": "Bir: εσύ (sen)",
+       "en": "One: εσύ"
+      },
+      {
+       "el": "Δύο: εσύ και εσείς",
+       "tr": "İki: εσύ (sen) ve εσείς (siz)",
+       "en": "Two: εσύ and εσείς"
+      },
+      {
+       "el": "Έξι, όπως ο ενεστώτας",
+       "tr": "Şimdiki zaman gibi altı",
+       "en": "Six, like the present"
+      },
+      {
+       "el": "Τρία: εσύ, αυτός, εσείς",
+       "tr": "Üç: εσύ, αυτός, εσείς",
+       "en": "Three: εσύ, αυτός, εσείς"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Η προστακτική έχει δύο πρόσωπα: εσύ και εσείς.",
+      "tr": "Emir kipinin iki şahsı vardır: εσύ (sen) ve εσείς (siz).",
+      "en": "The imperative has two persons: εσύ and εσείς."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια προστακτική είναι η πιο συχνή;",
+      "tr": "En sık kullanılan emir kipi hangisidir?",
+      "en": "Which imperative is the most common?"
+     },
+     "options": [
+      {
+       "el": "Η προστακτική με θα",
+       "tr": "θα ile kurulan emir",
+       "en": "The one with θα"
+      },
+      {
+       "el": "Η στιγμιαία (από το θέμα του αορίστου)",
+       "tr": "Anlık emir (aorist gövdesinden)",
+       "en": "The simple one (from the aorist stem)"
+      },
+      {
+       "el": "Η αρνητική με δεν",
+       "tr": "δεν ile olumsuz emir",
+       "en": "The negative one with δεν"
+      },
+      {
+       "el": "Η συνεχής (από τον ενεστώτα)",
+       "tr": "Sürekli emir (şimdiki zamandan)",
+       "en": "The continuous one (from the present)"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Η στιγμιαία προστακτική (γράψε / γράψτε) είναι η πιο συχνή.",
+      "tr": "Anlık emir kipi (γράψε / γράψτε) en sık kullanılanıdır.",
+      "en": "The simple imperative (γράψε / γράψτε) is the most common."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η συνεχής προστακτική (εσύ) του «γράφω»;",
+      "tr": "«γράφω» fiilinin sürekli emir kipi (εσύ / sen) hangisidir?",
+      "en": "What is the continuous imperative (εσύ) of «γράφω»?"
+     },
+     "options": [
+      {
+       "el": "γράφε",
+       "tr": "γράφε",
+       "en": "γράφε"
+      },
+      {
+       "el": "γράψε",
+       "tr": "γράψε",
+       "en": "γράψε"
+      },
+      {
+       "el": "γράψου",
+       "tr": "γράψου",
+       "en": "γράψου"
+      },
+      {
+       "el": "γράφεις",
+       "tr": "γράφεις",
+       "en": "γράφεις"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Η συνεχής προστακτική (από τον ενεστώτα): γράφε / γράφετε.",
+      "tr": "Sürekli emir (şimdiki zamandan): γράφε / γράφετε.",
+      "en": "The continuous imperative (from the present): γράφε / γράφετε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η στιγμιαία προστακτική (εσείς) του «διαβάζω»;",
+      "tr": "«διαβάζω» fiilinin anlık emir kipi (εσείς / siz) hangisidir?",
+      "en": "What is the simple imperative (εσείς) of «διαβάζω»?"
+     },
+     "options": [
+      {
+       "el": "διαβάσετε",
+       "tr": "διαβάσετε",
+       "en": "διαβάσετε"
+      },
+      {
+       "el": "διαβάσατε",
+       "tr": "διαβάσατε",
+       "en": "διαβάσατε"
+      },
+      {
+       "el": "διαβάστε",
+       "tr": "διαβάστε",
+       "en": "διαβάστε"
+      },
+      {
+       "el": "διάβαστε",
+       "tr": "διάβαστε",
+       "en": "διάβαστε"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στιγμιαία προστακτική: διάβασε / διαβάστε.",
+      "tr": "Anlık emir: διάβασε / διαβάστε.",
+      "en": "Simple imperative: διάβασε / διαβάστε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η στιγμιαία προστακτική (εσείς) του «μιλώ»;",
+      "tr": "«μιλώ» fiilinin anlık emir kipi (εσείς / siz) hangisidir?",
+      "en": "What is the simple imperative (εσείς) of «μιλώ»?"
+     },
+     "options": [
+      {
+       "el": "μιλήστε",
+       "tr": "μιλήστε",
+       "en": "μιλήστε"
+      },
+      {
+       "el": "μιλήσετε",
+       "tr": "μιλήσετε",
+       "en": "μιλήσετε"
+      },
+      {
+       "el": "μιλήσατε",
+       "tr": "μιλήσατε",
+       "en": "μιλήσατε"
+      },
+      {
+       "el": "μίλησε",
+       "tr": "μίλησε",
+       "en": "μίλησε"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στιγμιαία προστακτική: μίλησε / μιλήστε (συνεχής: μίλα / μιλάτε).",
+      "tr": "Anlık emir: μίλησε / μιλήστε (sürekli: μίλα / μιλάτε).",
+      "en": "Simple imperative: μίλησε / μιλήστε (continuous: μίλα / μιλάτε)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η προστακτική (εσύ) του «θυμάμαι»;",
+      "tr": "«θυμάμαι» fiilinin emir kipi (εσύ / sen) hangisidir?",
+      "en": "What is the imperative (εσύ) of «θυμάμαι»?"
+     },
+     "options": [
+      {
+       "el": "θυμήσου",
+       "tr": "θυμήσου",
+       "en": "θυμήσου"
+      },
+      {
+       "el": "θυμήθηκες",
+       "tr": "θυμήθηκες",
+       "en": "θυμήθηκες"
+      },
+      {
+       "el": "θυμάσαι",
+       "tr": "θυμάσαι",
+       "en": "θυμάσαι"
+      },
+      {
+       "el": "θυμηθείς",
+       "tr": "θυμηθείς",
+       "en": "θυμηθείς"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα: θυμάμαι → θυμήσου / θυμηθείτε.",
+      "tr": "Tabloda: θυμάμαι → θυμήσου / θυμηθείτε.",
+      "en": "In the table: θυμάμαι → θυμήσου / θυμηθείτε."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς λέμε «μη γράφεις!» (εσύ) ως απαγόρευση, σύμφωνα με τον πίνακα;",
+      "tr": "Tabloya göre «yazma!» (εσύ / sen) yasağı nasıl söylenir?",
+      "en": "According to the table, how do we say “don't write!” (εσύ)?"
+     },
+     "options": [
+      {
+       "el": "μη γράψε",
+       "tr": "μη γράψε",
+       "en": "μη γράψε"
+      },
+      {
+       "el": "μη γράψεις",
+       "tr": "μη γράψεις",
+       "en": "μη γράψεις"
+      },
+      {
+       "el": "δεν γράψεις",
+       "tr": "δεν γράψεις",
+       "en": "δεν γράψεις"
+      },
+      {
+       "el": "δεν γράψε",
+       "tr": "δεν γράψε",
+       "en": "δεν γράψε"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Απαγόρευση: μη γράψεις / μη γράψετε (μη + υποτακτική, όχι προστακτική).",
+      "tr": "Yasak: μη γράψεις / μη γράψετε (μη + istek kipi, emir kipi değil).",
+      "en": "Prohibition: μη γράψεις / μη γράψετε (μη + subjunctive, not imperative)."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς λέμε «don't forget!» / «unutma!» στον πίνακα;",
+      "tr": "Tabloda «unutma!» nasıl söylenir?",
+      "en": "How does the table say “don't forget!”?"
+     },
+     "options": [
+      {
+       "el": "μην ξεχάσεις!",
+       "tr": "μην ξεχάσεις!",
+       "en": "μην ξεχάσεις!"
+      },
+      {
+       "el": "δεν ξεχάσεις!",
+       "tr": "δεν ξεχάσεις!",
+       "en": "δεν ξεχάσεις!"
+      },
+      {
+       "el": "να μην ξεχάσε!",
+       "tr": "να μην ξεχάσε!",
+       "en": "να μην ξεχάσε!"
+      },
+      {
+       "el": "μην ξέχασε!",
+       "tr": "μην ξέχασε!",
+       "en": "μην ξέχασε!"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Στον πίνακα: μην ξεχάσεις! (μη(ν) + υποτακτική).",
+      "tr": "Tabloda: μην ξεχάσεις! (μη(ν) + istek kipi).",
+      "en": "In the table: μην ξεχάσεις! (μη(ν) + subjunctive)."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς σχηματίζεται η υποτακτική;",
+      "tr": "İstek kipi (υποτακτική) nasıl kurulur?",
+      "en": "How is the subjunctive formed?"
+     },
+     "options": [
+      {
+       "el": "έχω + απαρέμφατο",
+       "tr": "έχω + mastar",
+       "en": "έχω + infinitive"
+      },
+      {
+       "el": "θα + ρήμα",
+       "tr": "θα + fiil",
+       "en": "θα + verb"
+      },
+      {
+       "el": "δεν + ρήμα",
+       "tr": "δεν + fiil",
+       "en": "δεν + verb"
+      },
+      {
+       "el": "να + ρήμα",
+       "tr": "να + fiil",
+       "en": "να + verb"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Η υποτακτική σχηματίζεται με να + ρήμα.",
+      "tr": "İstek kipi να + fiil ile kurulur.",
+      "en": "The subjunctive is formed with να + verb."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια η διαφορά ανάμεσα σε «να γράψω» και «να γράφω»;",
+      "tr": "«να γράψω» ile «να γράφω» arasındaki fark nedir?",
+      "en": "What is the difference between «να γράψω» and «να γράφω»?"
+     },
+     "options": [
+      {
+       "el": "να γράψω = άρνηση· να γράφω = κατάφαση",
+       "tr": "να γράψω = olumsuz; να γράφω = olumlu",
+       "en": "να γράψω = negative; να γράφω = positive"
+      },
+      {
+       "el": "να γράψω = παρελθόν· να γράφω = μέλλον",
+       "tr": "να γράψω = geçmiş; να γράφω = gelecek",
+       "en": "να γράψω = past; να γράφω = future"
+      },
+      {
+       "el": "Καμία διαφορά",
+       "tr": "Hiçbir fark yok",
+       "en": "No difference"
+      },
+      {
+       "el": "να γράψω = μία πράξη· να γράφω = κάτι που διαρκεί ή επαναλαμβάνεται",
+       "tr": "να γράψω = tek bir eylem; να γράφω = süren ya da tekrarlanan eylem",
+       "en": "να γράψω = a single action; να γράφω = something lasting or repeated"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Με τη στιγμιαία όψη (να γράψω) μιλάμε για μία πράξη· με τη συνεχή (να γράφω) για κάτι που διαρκεί.",
+      "tr": "Anlık görünüşle (να γράψω) tek eylemden, sürekliyle (να γράφω) süren ya da tekrarlanan eylemden söz ederiz.",
+      "en": "Simple aspect (να γράψω) = a single action; continuous (να γράφω) = lasting or repeated."
+     }
+    },
+    {
+     "q": {
+      "el": "Συμπλήρωσε: «Ήρθα στην Ελλάδα ___ δουλέψω.»",
+      "tr": "Boşluğu doldur: «Ήρθα στην Ελλάδα ___ δουλέψω.» (Yunanistan'a çalışmak için geldim.)",
+      "en": "Fill in: «Ήρθα στην Ελλάδα ___ δουλέψω.» (I came to Greece to work.)"
+     },
+     "options": [
+      {
+       "el": "έχω",
+       "tr": "έχω",
+       "en": "έχω"
+      },
+      {
+       "el": "θα",
+       "tr": "θα",
+       "en": "θα"
+      },
+      {
+       "el": "δεν",
+       "tr": "δεν",
+       "en": "δεν"
+      },
+      {
+       "el": "για να",
+       "tr": "για να",
+       "en": "για να"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Για σκοπό λέμε για να + υποτακτική: Ήρθα στην Ελλάδα για να δουλέψω.",
+      "tr": "Amaç için για να + istek kipi: Ήρθα στην Ελλάδα για να δουλέψω.",
+      "en": "For purpose: για να + subjunctive: Ήρθα στην Ελλάδα για να δουλέψω."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η σωστή άρνηση του «θα γράψω»;",
+      "tr": "«θα γράψω»'nun doğru olumsuzu hangisidir?",
+      "en": "Which is the correct negation of «θα γράψω»?"
+     },
+     "options": [
+      {
+       "el": "μη θα γράψω",
+       "tr": "μη θα γράψω",
+       "en": "μη θα γράψω"
+      },
+      {
+       "el": "δεν θα γράψω",
+       "tr": "δεν θα γράψω",
+       "en": "δεν θα γράψω"
+      },
+      {
+       "el": "να μη θα γράψω",
+       "tr": "να μη θα γράψω",
+       "en": "να μη θα γράψω"
+      },
+      {
+       "el": "θα δεν γράψω",
+       "tr": "θα δεν γράψω",
+       "en": "θα δεν γράψω"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Με την οριστική και το θα λέμε δεν: δεν θα γράψω (σειρά: δεν θα + ρήμα).",
+      "tr": "Bildirme kipinde ve θα ile δεν kullanılır: δεν θα γράψω (sıra: δεν θα + fiil).",
+      "en": "With the indicative and θα use δεν: δεν θα γράψω (order: δεν θα + verb)."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια άρνηση μπαίνει μετά το «να»;",
+      "tr": "«να»'dan sonra hangi olumsuzluk kullanılır?",
+      "en": "Which negation is used after «να»?"
+     },
+     "options": [
+      {
+       "el": "όχι",
+       "tr": "όχι",
+       "en": "όχι"
+      },
+      {
+       "el": "μη(ν)",
+       "tr": "μη(ν)",
+       "en": "μη(ν)"
+      },
+      {
+       "el": "θα",
+       "tr": "θα",
+       "en": "θα"
+      },
+      {
+       "el": "δεν",
+       "tr": "δεν",
+       "en": "δεν"
+      }
+     ],
+     "answer": 1,
+     "explain": {
+      "el": "Με το να και στις απαγορεύσεις λέμε μη(ν): να μη γράψεις, να μην αργήσεις.",
+      "tr": "να ile ve yasaklarda μη(ν) kullanılır: να μη γράψεις, να μην αργήσεις.",
+      "en": "With να and in prohibitions use μη(ν): να μη γράψεις, να μην αργήσεις."
+     }
+    },
+    {
+     "q": {
+      "el": "Πώς κάνουμε αρνητική μια προστακτική;",
+      "tr": "Bir emir kipi nasıl olumsuz yapılır?",
+      "en": "How do we make an imperative negative?"
+     },
+     "options": [
+      {
+       "el": "Βάζουμε θα μπροστά (θα γράψε)",
+       "tr": "Başına θα konur (θα γράψε)",
+       "en": "We put θα in front (θα γράψε)"
+      },
+      {
+       "el": "Βάζουμε μη μπροστά στην προστακτική (μη γράψε)",
+       "tr": "Emrin başına μη konur (μη γράψε)",
+       "en": "We put μη before the imperative (μη γράψε)"
+      },
+      {
+       "el": "Δεν την αρνούμαστε· λέμε μη(ν) + υποτακτική",
+       "tr": "Emir olumsuz yapılmaz; μη(ν) + istek kipi kullanılır",
+       "en": "It is never negated; we use μη(ν) + subjunctive"
+      },
+      {
+       "el": "Βάζουμε δεν μπροστά (δεν γράψε)",
+       "tr": "Başına δεν konur (δεν γράψε)",
+       "en": "We put δεν in front (δεν γράψε)"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Η προστακτική δεν παίρνει ποτέ άρνηση· αντί γι' αυτό λέμε μη(ν) + υποτακτική.",
+      "tr": "Emir kipi hiç olumsuz yapılmaz; onun yerine μη(ν) + istek kipi kullanılır.",
+      "en": "The imperative is never negated; use μη(ν) + subjunctive instead."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια μορφή είναι σωστή;",
+      "tr": "Hangi biçim doğrudur?",
+      "en": "Which form is correct?"
+     },
+     "options": [
+      {
+       "el": "μην ανοίξεις",
+       "tr": "μην ανοίξεις",
+       "en": "μην ανοίξεις"
+      },
+      {
+       "el": "δεν ανοίξεις",
+       "tr": "δεν ανοίξεις",
+       "en": "δεν ανοίξεις"
+      },
+      {
+       "el": "μη ανοίξεις",
+       "tr": "μη ανοίξεις",
+       "en": "μη ανοίξεις"
+      },
+      {
+       "el": "μην άνοιξε",
+       "tr": "μην άνοιξε",
+       "en": "μην άνοιξε"
+      }
+     ],
+     "answer": 0,
+     "explain": {
+      "el": "Το -ν μένει πριν από φωνήεν: μην ανοίξεις.",
+      "tr": "-ν ünlüden önce kalır: μην ανοίξεις.",
+      "en": "The -ν stays before a vowel: μην ανοίξεις."
+     }
+    },
+    {
+     "q": {
+      "el": "Πριν από ποια λέξη το «μην» χάνει συνήθως το -ν (μη);",
+      "tr": "«μην» hangi kelimeden önce genellikle -ν'sini kaybeder (μη)?",
+      "en": "Before which word does «μην» usually drop its -ν (μη)?"
+     },
+     "options": [
+      {
+       "el": "τρέξεις",
+       "tr": "τρέξεις",
+       "en": "τρέξεις"
+      },
+      {
+       "el": "πας",
+       "tr": "πας",
+       "en": "πας"
+      },
+      {
+       "el": "γράψεις",
+       "tr": "γράψεις",
+       "en": "γράψεις"
+      },
+      {
+       "el": "ανοίξεις",
+       "tr": "ανοίξεις",
+       "en": "ανοίξεις"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Το -ν μένει πριν από φωνήεν και κ, π, τ, ξ, ψ, μπ, ντ, γκ, τσ, τζ· αλλιώς φεύγει: μη γράψεις.",
+      "tr": "-ν ünlüden ve κ, π, τ, ξ, ψ, μπ, ντ, γκ, τσ, τζ'den önce kalır; yoksa düşer: μη γράψεις.",
+      "en": "The -ν stays before a vowel and κ, π, τ, ξ, ψ, μπ, ντ, γκ, τσ, τζ; otherwise it drops: μη γράψεις."
+     }
+    },
+    {
+     "q": {
+      "el": "Σύμφωνα με το μνημονικό, πότε θέλεις «μην» αντί για «δεν»;",
+      "tr": "Hatırlatma ipucuna göre ne zaman «δεν» yerine «μην» gerekir?",
+      "en": "According to the memory trick, when do you need «μην» instead of «δεν»?"
+     },
+     "options": [
+      {
+       "el": "Αν υπάρχει «θα»",
+       "tr": "«θα» varsa",
+       "en": "If there is «θα»"
+      },
+      {
+       "el": "Αν το ρήμα είναι στον αόριστο",
+       "tr": "Fiil aoristteyse",
+       "en": "If the verb is in the aorist"
+      },
+      {
+       "el": "Αν μπορείς να βάλεις «να» μπροστά",
+       "tr": "Başına «να» konabiliyorsa",
+       "en": "If «να» could go in front"
+      },
+      {
+       "el": "Αν η πρόταση είναι ερώτηση",
+       "tr": "Cümle soruysa",
+       "en": "If the sentence is a question"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Δεν = άρνηση κανονικής πρότασης· μην = απαγόρευση. Αν μπορείς να βάλεις να μπροστά, θέλεις μην.",
+      "tr": "δεν = normal cümlenin olumsuzu; μην = yasak (yazma!). Başına να konabiliyorsa μην gerekir.",
+      "en": "δεν = normal “not”; μην = “don't!”. If να could go in front, you need μην."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η απαγόρευση (εσείς) του «ανοίγω» στον πίνακα;",
+      "tr": "Tabloda «ανοίγω» fiilinin yasak biçimi (εσείς / siz) hangisidir?",
+      "en": "What is the prohibition (εσείς) of «ανοίγω» in the table?"
+     },
+     "options": [
+      {
+       "el": "δεν ανοίξετε",
+       "tr": "δεν ανοίξετε",
+       "en": "δεν ανοίξετε"
+      },
+      {
+       "el": "μην άνοιξετε",
+       "tr": "μην άνοιξετε",
+       "en": "μην άνοιξετε"
+      },
+      {
+       "el": "μην ανοίξτε",
+       "tr": "μην ανοίξτε",
+       "en": "μην ανοίξτε"
+      },
+      {
+       "el": "μην ανοίξετε",
+       "tr": "μην ανοίξετε",
+       "en": "μην ανοίξετε"
+      }
+     ],
+     "answer": 3,
+     "explain": {
+      "el": "Στον πίνακα: μην ανοίξεις / μην ανοίξετε.",
+      "tr": "Tabloda: μην ανοίξεις / μην ανοίξετε (açma / açmayın).",
+      "en": "In the table: μην ανοίξεις / μην ανοίξετε."
+     }
+    },
+    {
+     "q": {
+      "el": "Ποια είναι η προστακτική (εσύ) του «ρωτάω» στον πίνακα;",
+      "tr": "Tabloda «ρωτάω» fiilinin emir kipi (εσύ / sen) hangisidir?",
+      "en": "What is the imperative (εσύ) of «ρωτάω» in the table?"
+     },
+     "options": [
+      {
+       "el": "ρώτησα / ρωτούσα",
+       "tr": "ρώτησα / ρωτούσα",
+       "en": "ρώτησα / ρωτούσα"
+      },
+      {
+       "el": "ρωτάς / ρωτάει",
+       "tr": "ρωτάς / ρωτάει",
+       "en": "ρωτάς / ρωτάει"
+      },
+      {
+       "el": "ρώτησε / ρώτα",
+       "tr": "ρώτησε / ρώτα",
+       "en": "ρώτησε / ρώτα"
+      },
+      {
+       "el": "ρωτήστε / ρωτάτε",
+       "tr": "ρωτήστε / ρωτάτε",
+       "en": "ρωτήστε / ρωτάτε"
+      }
+     ],
+     "answer": 2,
+     "explain": {
+      "el": "Στον πίνακα: ρωτάω → ρώτησε / ρώτα (εσύ), ρωτήστε (εσείς).",
+      "tr": "Tabloda: ρωτάω → ρώτησε / ρώτα (sen), ρωτήστε (siz).",
+      "en": "In the table: ρωτάω → ρώτησε / ρώτα (εσύ), ρωτήστε (εσείς)."
+     }
+    }
    ]
   }
  ]

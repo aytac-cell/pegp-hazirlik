@@ -1,7 +1,22 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.4.0";
+window.APP_VERSION = "1.4.1";
 window.APP_CHANGES = [
+  {
+    v: "1.4.1", date: "2026-10-26",
+    tr: [
+      "Düzeltme: Bölüm sınavı soruları artık yalnızca o bölümde anlatılan bilgilerden geliyor (her bölüm için en az 15 soruluk havuz)",
+      "Resmi soru bankasından ve komşu bölümlerden gelen ilgisiz sorular kaldırıldı",
+      "Her cevaptan sonra dersteki ilgili bilgiyi hatırlatan kısa açıklama",
+      "Sorular ders dilinde gösteriliyor (Türkçe, English, Ελληνικά veya iki dilli)"
+    ],
+    en: [
+      "Fix: section quiz questions now come only from what that section teaches (a pool of at least 15 per section)",
+      "Removed unrelated questions from the official bank and from neighbouring sections",
+      "A short explanation from the lesson after every answer",
+      "Questions follow the lesson language (Turkish, English, Greek or bilingual)"
+    ]
+  },
   {
     v: "1.4.0", date: "2026-10-26",
     tr: [

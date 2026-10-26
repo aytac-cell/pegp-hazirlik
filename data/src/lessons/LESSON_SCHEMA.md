@@ -52,3 +52,6 @@ Rules:
    question file's tr fields). Neutral and faithful on Greek–Ottoman/Turkish history: present the
    official Greek perspective the exam expects, factually, without editorialising.
 6. Always include a `terms` block in every section with the Greek forms the exam uses.
+
+Every section also needs a `quiz` array (≥ 15 multiple-choice questions written from the section's own text);
+see QUIZ_SCHEMA.md.

@@ -155,6 +155,15 @@ def build_lessons(qmap):
                 if qid not in qmap:
                     errors.append(f"{w}: unknown question {qid}")
                 covered.add(qid)
+            quiz = sec.get("quiz") or []
+            if len(quiz) < 15:
+                errors.append(f"{w}: quiz needs at least 15 questions (has {len(quiz)})")
+            for qi, x in enumerate(quiz):
+                opts = x.get("options") or []
+                if not (is_L(x.get("q")) and is_L(x.get("explain")) and len(opts) == 4 and all(is_L(o) for o in opts)
+                        and isinstance(x.get("answer"), int) and 0 <= x["answer"] < 4
+                        and len({o["tr"].strip() for o in opts}) == 4 and len({o["el"].strip() for o in opts}) == 4):
+                    errors.append(f"{w}: quiz[{qi}] malformed")
             for i, b in enumerate(sec.get("blocks", [])):
                 bt = b.get("type")
                 bw = f"{w} block {i}"

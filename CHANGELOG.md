@@ -6,6 +6,13 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.4.1 (2026-10-26)
+
+- **Düzeltme:** Bölüm sınavı soruları artık yalnızca o bölümde anlatılan bilgilerden geliyor. Her bölüm için en az 15 soruluk bir havuz var.
+- Resmi soru bankasından ve komşu bölümlerden gelen ilgisiz sorular kaldırıldı.
+- Her cevaptan sonra dersteki ilgili bilgiyi hatırlatan kısa bir açıklama gösteriliyor.
+- Sorular ders dilinde gösteriliyor: Türkçe, English, Ελληνικά veya iki dilli.
+
 ## 1.4.0 (2026-10-26)
 
 - **Yeni: Bölüm sınavı.** Her ders bölümünün sonunda 10 soruluk bir sınav var. Ders sonuna kadar okunduğunda açılır.
