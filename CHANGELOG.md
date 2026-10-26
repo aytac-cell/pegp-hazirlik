@@ -6,6 +6,18 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.3.0 (2026-10-26)
+
+- **Yeni: Dilbilgisi dersi.** Artikeller ile isim ve sıfatların artikelleriyle dört hâlde çekimi (tekil/çoğul).
+- **Fiil zamanları:**
+  - Şimdiki zaman, geçmiş sürekli ve basit geçmiş (aorist).
+  - Sürekli ve basit gelecek.
+  - Perfect zamanlar, dilek ve emir kipi.
+  - Etken ve edilgen fiiller.
+- Düzensiz fiiller ve özel çekimleri.
+- Kelime öğreticide isimlerin çekim tablosu ve fiillerin zaman çekimleri gösteriliyor.
+- Çekimler Vikisözlük ve Yunan Dili Portalı gibi kaynaklarla kontrol edildi. Kaynaklar derslerde listeleniyor.
+
 ## 1.2.0 (2026-10-26)
 
 - **Yeni:** Dersler Yunanca da okunabiliyor. Ders dili seçicisinde dört seçenek var: Türkçe, English, Ελληνικά, Ελληνικά + Türkçe.

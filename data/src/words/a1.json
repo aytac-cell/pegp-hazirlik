@@ -1,317 +1,4407 @@
 {
-  "level": "a1",
-  "cefr": "A1",
-  "icon": "🌱",
-  "name": {"tr": "Başlangıç", "en": "Beginner"},
-  "blurb": {"tr": "Selamlaşma, sayılar, renkler, aile, vücut, yiyecek-içecek, hayvanlar, ev, giysiler, hava ve takvim: resimli temel kelimeler.", "en": "Greetings, numbers, colours, family, body, food & drink, animals, home, clothes, weather and calendar: picture-friendly basics."},
-  "cats": [
+ "level": "a1",
+ "cefr": "A1",
+ "icon": "🌱",
+ "name": {
+  "tr": "Başlangıç",
+  "en": "Beginner"
+ },
+ "blurb": {
+  "tr": "Selamlaşma, sayılar, renkler, aile, vücut, yiyecek-içecek, hayvanlar, ev, giysiler, hava ve takvim: resimli temel kelimeler.",
+  "en": "Greetings, numbers, colours, family, body, food & drink, animals, home, clothes, weather and calendar: picture-friendly basics."
+ },
+ "cats": [
+  {
+   "id": "greetings",
+   "icon": "👋",
+   "name": {
+    "el": "Χαιρετισμοί",
+    "tr": "Selamlaşma ve temel ifadeler",
+    "en": "Greetings & basic phrases"
+   },
+   "words": [
     {
-      "id": "greetings", "icon": "👋",
-      "name": {"el": "Χαιρετισμοί", "tr": "Selamlaşma ve temel ifadeler", "en": "Greetings & basic phrases"},
-      "words": [
-        {"id": "a1-greetings-01", "pic": "👋", "el": "γεια σου", "pron": "ya su", "tr": "merhaba (samimi)", "en": "hello (informal)"},
-        {"id": "a1-greetings-02", "pic": "", "el": "γεια σας", "pron": "ya sas", "tr": "merhaba (resmi / çoğul)", "en": "hello (formal / plural)"},
-        {"id": "a1-greetings-03", "pic": "🌅", "el": "καλημέρα", "pron": "kaliméra", "tr": "günaydın", "en": "good morning"},
-        {"id": "a1-greetings-04", "pic": "🌇", "el": "καλησπέρα", "pron": "kalispéra", "tr": "iyi akşamlar", "en": "good evening"},
-        {"id": "a1-greetings-05", "pic": "🌙", "el": "καληνύχτα", "pron": "kaliníhta", "tr": "iyi geceler", "en": "good night"},
-        {"id": "a1-greetings-06", "pic": "🙏", "el": "ευχαριστώ", "pron": "efharistó", "tr": "teşekkür ederim", "en": "thank you"},
-        {"id": "a1-greetings-07", "pic": "", "el": "παρακαλώ", "pron": "parakaló", "tr": "lütfen / rica ederim", "en": "please / you're welcome"},
-        {"id": "a1-greetings-08", "pic": "👍", "el": "ναι", "pron": "ne", "tr": "evet", "en": "yes"},
-        {"id": "a1-greetings-09", "pic": "👎", "el": "όχι", "pron": "óhi", "tr": "hayır", "en": "no"},
-        {"id": "a1-greetings-10", "pic": "", "el": "συγγνώμη", "pron": "sighnómi", "tr": "özür dilerim / affedersiniz", "en": "sorry / excuse me"},
-        {"id": "a1-greetings-11", "pic": "", "el": "τι κάνεις;", "pron": "ti kánis?", "tr": "nasılsın?", "en": "how are you?"},
-        {"id": "a1-greetings-12", "pic": "", "el": "καλά", "pron": "kalá", "tr": "iyiyim / iyi", "en": "fine / well"},
-        {"id": "a1-greetings-13", "pic": "🤝", "el": "χάρηκα", "pron": "hárika", "tr": "memnun oldum", "en": "nice to meet you"},
-        {"id": "a1-greetings-14", "pic": "", "el": "αντίο", "pron": "adío", "tr": "hoşça kal", "en": "goodbye"},
-        {"id": "a1-greetings-15", "pic": "", "el": "με λένε...", "pron": "me léne...", "tr": "benim adım...", "en": "my name is..."},
-        {"id": "a1-greetings-16", "pic": "🍽️", "el": "καλή όρεξη", "pron": "kalí órexi", "tr": "afiyet olsun", "en": "enjoy your meal"}
-      ]
+     "id": "a1-greetings-01",
+     "pic": "👋",
+     "el": "γεια σου",
+     "pron": "ya su",
+     "tr": "merhaba (samimi)",
+     "en": "hello (informal)"
     },
     {
-      "id": "numbers-small", "icon": "🔢",
-      "name": {"el": "Αριθμοί 0–10", "tr": "Sayılar 0–10", "en": "Numbers 0–10"},
-      "words": [
-        {"id": "a1-numbers-small-01", "pic": "0", "el": "μηδέν", "pron": "midhén", "tr": "sıfır", "en": "zero"},
-        {"id": "a1-numbers-small-02", "pic": "1", "el": "ένα", "pron": "éna", "tr": "bir", "en": "one"},
-        {"id": "a1-numbers-small-03", "pic": "2", "el": "δύο", "pron": "dhío", "tr": "iki", "en": "two"},
-        {"id": "a1-numbers-small-04", "pic": "3", "el": "τρία", "pron": "tría", "tr": "üç", "en": "three"},
-        {"id": "a1-numbers-small-05", "pic": "4", "el": "τέσσερα", "pron": "tésera", "tr": "dört", "en": "four"},
-        {"id": "a1-numbers-small-06", "pic": "5", "el": "πέντε", "pron": "pénde", "tr": "beş", "en": "five"},
-        {"id": "a1-numbers-small-07", "pic": "6", "el": "έξι", "pron": "éxi", "tr": "altı", "en": "six"},
-        {"id": "a1-numbers-small-08", "pic": "7", "el": "επτά", "pron": "eptá", "tr": "yedi", "en": "seven"},
-        {"id": "a1-numbers-small-09", "pic": "8", "el": "οκτώ", "pron": "októ", "tr": "sekiz", "en": "eight"},
-        {"id": "a1-numbers-small-10", "pic": "9", "el": "εννέα", "pron": "enéa", "tr": "dokuz", "en": "nine"},
-        {"id": "a1-numbers-small-11", "pic": "10", "el": "δέκα", "pron": "dhéka", "tr": "on", "en": "ten"}
-      ]
+     "id": "a1-greetings-02",
+     "pic": "",
+     "el": "γεια σας",
+     "pron": "ya sas",
+     "tr": "merhaba (resmi / çoğul)",
+     "en": "hello (formal / plural)"
     },
     {
-      "id": "numbers-big", "icon": "💯",
-      "name": {"el": "Αριθμοί 11–1000", "tr": "Sayılar 11–1000", "en": "Numbers 11–1000"},
-      "words": [
-        {"id": "a1-numbers-big-01", "pic": "11", "el": "έντεκα", "pron": "éndeka", "tr": "on bir", "en": "eleven"},
-        {"id": "a1-numbers-big-02", "pic": "12", "el": "δώδεκα", "pron": "dhódheka", "tr": "on iki", "en": "twelve"},
-        {"id": "a1-numbers-big-03", "pic": "13", "el": "δεκατρία", "pron": "dhekatría", "tr": "on üç", "en": "thirteen"},
-        {"id": "a1-numbers-big-04", "pic": "14", "el": "δεκατέσσερα", "pron": "dhekatésera", "tr": "on dört", "en": "fourteen"},
-        {"id": "a1-numbers-big-05", "pic": "15", "el": "δεκαπέντε", "pron": "dhekapénde", "tr": "on beş", "en": "fifteen"},
-        {"id": "a1-numbers-big-06", "pic": "16", "el": "δεκαέξι", "pron": "dhekaéxi", "tr": "on altı", "en": "sixteen"},
-        {"id": "a1-numbers-big-07", "pic": "17", "el": "δεκαεπτά", "pron": "dhekaeptá", "tr": "on yedi", "en": "seventeen"},
-        {"id": "a1-numbers-big-08", "pic": "18", "el": "δεκαοκτώ", "pron": "dhekaoktó", "tr": "on sekiz", "en": "eighteen"},
-        {"id": "a1-numbers-big-09", "pic": "19", "el": "δεκαεννέα", "pron": "dhekaenéa", "tr": "on dokuz", "en": "nineteen"},
-        {"id": "a1-numbers-big-10", "pic": "20", "el": "είκοσι", "pron": "íkosi", "tr": "yirmi", "en": "twenty"},
-        {"id": "a1-numbers-big-11", "pic": "30", "el": "τριάντα", "pron": "triánda", "tr": "otuz", "en": "thirty"},
-        {"id": "a1-numbers-big-12", "pic": "40", "el": "σαράντα", "pron": "saránda", "tr": "kırk", "en": "forty"},
-        {"id": "a1-numbers-big-13", "pic": "50", "el": "πενήντα", "pron": "penínda", "tr": "elli", "en": "fifty"},
-        {"id": "a1-numbers-big-14", "pic": "60", "el": "εξήντα", "pron": "exínda", "tr": "altmış", "en": "sixty"},
-        {"id": "a1-numbers-big-15", "pic": "70", "el": "εβδομήντα", "pron": "evdhomínda", "tr": "yetmiş", "en": "seventy"},
-        {"id": "a1-numbers-big-16", "pic": "80", "el": "ογδόντα", "pron": "oghdhónda", "tr": "seksen", "en": "eighty"},
-        {"id": "a1-numbers-big-17", "pic": "90", "el": "ενενήντα", "pron": "enenínda", "tr": "doksan", "en": "ninety"},
-        {"id": "a1-numbers-big-18", "pic": "100", "el": "εκατό", "pron": "ekató", "tr": "yüz", "en": "one hundred"},
-        {"id": "a1-numbers-big-19", "pic": "1000", "el": "χίλια", "pron": "hília", "tr": "bin", "en": "one thousand"}
-      ]
+     "id": "a1-greetings-03",
+     "pic": "🌅",
+     "el": "καλημέρα",
+     "pron": "kaliméra",
+     "tr": "günaydın",
+     "en": "good morning"
     },
     {
-      "id": "colours", "icon": "🎨",
-      "name": {"el": "Χρώματα", "tr": "Renkler", "en": "Colours"},
-      "words": [
-        {"id": "a1-colours-01", "pic": "🎨", "el": "το χρώμα", "pron": "to hróma", "tr": "renk", "en": "colour"},
-        {"id": "a1-colours-02", "pic": "⚪", "el": "άσπρος, -η, -ο", "pron": "áspros", "tr": "beyaz", "en": "white"},
-        {"id": "a1-colours-03", "pic": "⚫", "el": "μαύρος, -η, -ο", "pron": "mávros", "tr": "siyah", "en": "black"},
-        {"id": "a1-colours-04", "pic": "🔴", "el": "κόκκινος, -η, -ο", "pron": "kókinos", "tr": "kırmızı", "en": "red"},
-        {"id": "a1-colours-05", "pic": "🔵", "el": "μπλε", "pron": "ble", "tr": "mavi", "en": "blue"},
-        {"id": "a1-colours-06", "pic": "🟢", "el": "πράσινος, -η, -ο", "pron": "prásinos", "tr": "yeşil", "en": "green"},
-        {"id": "a1-colours-07", "pic": "🟡", "el": "κίτρινος, -η, -ο", "pron": "kítrinos", "tr": "sarı", "en": "yellow"},
-        {"id": "a1-colours-08", "pic": "🟠", "el": "πορτοκαλί", "pron": "portokalí", "tr": "turuncu", "en": "orange (colour)"},
-        {"id": "a1-colours-09", "pic": "🟣", "el": "μωβ", "pron": "mov", "tr": "mor", "en": "purple"},
-        {"id": "a1-colours-10", "pic": "🩷", "el": "ροζ", "pron": "roz", "tr": "pembe", "en": "pink"},
-        {"id": "a1-colours-11", "pic": "🟤", "el": "καφέ", "pron": "kafé", "tr": "kahverengi", "en": "brown"},
-        {"id": "a1-colours-12", "pic": "🩶", "el": "γκρι", "pron": "gri", "tr": "gri", "en": "grey"}
-      ]
+     "id": "a1-greetings-04",
+     "pic": "🌇",
+     "el": "καλησπέρα",
+     "pron": "kalispéra",
+     "tr": "iyi akşamlar",
+     "en": "good evening"
     },
     {
-      "id": "family", "icon": "👪",
-      "name": {"el": "Οικογένεια", "tr": "Aile", "en": "Family"},
-      "words": [
-        {"id": "a1-family-01", "pic": "👪", "el": "η οικογένεια", "pron": "i ikoyénia", "tr": "aile", "en": "family"},
-        {"id": "a1-family-02", "pic": "🤱", "el": "η μητέρα", "pron": "i mitéra", "tr": "anne", "en": "mother"},
-        {"id": "a1-family-03", "pic": "👨‍👧", "el": "ο πατέρας", "pron": "o patéras", "tr": "baba", "en": "father"},
-        {"id": "a1-family-04", "pic": "👦", "el": "ο γιος", "pron": "o yos", "tr": "oğul", "en": "son"},
-        {"id": "a1-family-05", "pic": "👧", "el": "η κόρη", "pron": "i kóri", "tr": "kız (evlat)", "en": "daughter"},
-        {"id": "a1-family-06", "pic": "", "el": "ο αδερφός", "pron": "o adherfós", "tr": "erkek kardeş", "en": "brother"},
-        {"id": "a1-family-07", "pic": "", "el": "η αδερφή", "pron": "i adherfí", "tr": "kız kardeş", "en": "sister"},
-        {"id": "a1-family-08", "pic": "👴", "el": "ο παππούς", "pron": "o papús", "tr": "dede", "en": "grandfather"},
-        {"id": "a1-family-09", "pic": "👵", "el": "η γιαγιά", "pron": "i yayá", "tr": "büyükanne / nine", "en": "grandmother"},
-        {"id": "a1-family-10", "pic": "👶", "el": "το μωρό", "pron": "to moró", "tr": "bebek", "en": "baby"},
-        {"id": "a1-family-11", "pic": "👨", "el": "ο άντρας", "pron": "o ándras", "tr": "adam / koca", "en": "man / husband"},
-        {"id": "a1-family-12", "pic": "👩", "el": "η γυναίκα", "pron": "i yinéka", "tr": "kadın / eş", "en": "woman / wife"},
-        {"id": "a1-family-13", "pic": "", "el": "ο θείος", "pron": "o thíos", "tr": "amca / dayı", "en": "uncle"},
-        {"id": "a1-family-14", "pic": "", "el": "η θεία", "pron": "i thía", "tr": "teyze / hala", "en": "aunt"},
-        {"id": "a1-family-15", "pic": "", "el": "οι γονείς", "pron": "i ghonís", "tr": "anne baba (ebeveynler)", "en": "parents"},
-        {"id": "a1-family-16", "pic": "🧒", "el": "τα παιδιά", "pron": "ta pedhiá", "tr": "çocuklar", "en": "children"}
-      ]
+     "id": "a1-greetings-05",
+     "pic": "🌙",
+     "el": "καληνύχτα",
+     "pron": "kaliníhta",
+     "tr": "iyi geceler",
+     "en": "good night"
     },
     {
-      "id": "body", "icon": "🧍",
-      "name": {"el": "Το σώμα", "tr": "Vücut", "en": "Body"},
-      "words": [
-        {"id": "a1-body-01", "pic": "", "el": "το κεφάλι", "pron": "to kefáli", "tr": "baş / kafa", "en": "head"},
-        {"id": "a1-body-02", "pic": "💇", "el": "τα μαλλιά", "pron": "ta maliá", "tr": "saç", "en": "hair"},
-        {"id": "a1-body-03", "pic": "🙂", "el": "το πρόσωπο", "pron": "to prósopo", "tr": "yüz", "en": "face"},
-        {"id": "a1-body-04", "pic": "👁️", "el": "το μάτι", "pron": "to máti", "tr": "göz", "en": "eye"},
-        {"id": "a1-body-05", "pic": "👂", "el": "το αυτί", "pron": "to aftí", "tr": "kulak", "en": "ear"},
-        {"id": "a1-body-06", "pic": "👃", "el": "η μύτη", "pron": "i míti", "tr": "burun", "en": "nose"},
-        {"id": "a1-body-07", "pic": "👄", "el": "το στόμα", "pron": "to stóma", "tr": "ağız", "en": "mouth"},
-        {"id": "a1-body-08", "pic": "🦷", "el": "τα δόντια", "pron": "ta dhóndia", "tr": "dişler", "en": "teeth"},
-        {"id": "a1-body-09", "pic": "👅", "el": "η γλώσσα", "pron": "i ghlósa", "tr": "dil", "en": "tongue / language"},
-        {"id": "a1-body-10", "pic": "✋", "el": "το χέρι", "pron": "to héri", "tr": "el / kol", "en": "hand / arm"},
-        {"id": "a1-body-11", "pic": "👆", "el": "το δάχτυλο", "pron": "to dháhtilo", "tr": "parmak", "en": "finger"},
-        {"id": "a1-body-12", "pic": "🦶", "el": "το πόδι", "pron": "to pódhi", "tr": "ayak / bacak", "en": "foot / leg"},
-        {"id": "a1-body-13", "pic": "🫀", "el": "η καρδιά", "pron": "i kardhiá", "tr": "kalp", "en": "heart"},
-        {"id": "a1-body-14", "pic": "", "el": "η κοιλιά", "pron": "i kiliá", "tr": "karın", "en": "belly"},
-        {"id": "a1-body-15", "pic": "", "el": "η πλάτη", "pron": "i pláti", "tr": "sırt", "en": "back"},
-        {"id": "a1-body-16", "pic": "", "el": "ο λαιμός", "pron": "o lemós", "tr": "boyun / boğaz", "en": "neck / throat"}
+     "id": "a1-greetings-06",
+     "pic": "🙏",
+     "el": "ευχαριστώ",
+     "pron": "efharistó",
+     "tr": "teşekkür ederim",
+     "en": "thank you",
+     "forms": {
+      "present": [
+       "ευχαριστώ",
+       "ευχαριστείς",
+       "ευχαριστεί",
+       "ευχαριστούμε",
+       "ευχαριστείτε",
+       "ευχαριστούν(ε)"
+      ],
+      "imperfect": [
+       "ευχαριστούσα",
+       "ευχαριστούσες",
+       "ευχαριστούσε",
+       "ευχαριστούσαμε",
+       "ευχαριστούσατε",
+       "ευχαριστούσαν(ε)"
+      ],
+      "aorist": [
+       "ευχαρίστησα",
+       "ευχαρίστησες",
+       "ευχαρίστησε",
+       "ευχαριστήσαμε",
+       "ευχαριστήσατε",
+       "ευχαρίστησαν"
+      ],
+      "fut_cont": [
+       "θα ευχαριστώ",
+       "θα ευχαριστείς",
+       "θα ευχαριστεί",
+       "θα ευχαριστούμε",
+       "θα ευχαριστείτε",
+       "θα ευχαριστούν(ε)"
+      ],
+      "fut_simple": [
+       "θα ευχαριστήσω",
+       "θα ευχαριστήσεις",
+       "θα ευχαριστήσει",
+       "θα ευχαριστήσουμε",
+       "θα ευχαριστήσετε",
+       "θα ευχαριστήσουν(ε)"
+      ],
+      "perfect": [
+       "έχω ευχαριστήσει",
+       "έχεις ευχαριστήσει",
+       "έχει ευχαριστήσει",
+       "έχουμε ευχαριστήσει",
+       "έχετε ευχαριστήσει",
+       "έχουν ευχαριστήσει"
+      ],
+      "imperative": [
+       "ευχαρίστησε",
+       "ευχαριστήστε"
       ]
+     }
     },
     {
-      "id": "food", "icon": "🍽️",
-      "name": {"el": "Φαγητό", "tr": "Yiyecekler", "en": "Food"},
-      "words": [
-        {"id": "a1-food-01", "pic": "🍞", "el": "το ψωμί", "pron": "to psomí", "tr": "ekmek", "en": "bread"},
-        {"id": "a1-food-02", "pic": "🧀", "el": "το τυρί", "pron": "to tirí", "tr": "peynir", "en": "cheese"},
-        {"id": "a1-food-03", "pic": "🥚", "el": "το αυγό", "pron": "to avghó", "tr": "yumurta", "en": "egg"},
-        {"id": "a1-food-04", "pic": "🥩", "el": "το κρέας", "pron": "to kréas", "tr": "et", "en": "meat"},
-        {"id": "a1-food-05", "pic": "🍗", "el": "το κοτόπουλο", "pron": "to kotópulo", "tr": "tavuk (yemek)", "en": "chicken (food)"},
-        {"id": "a1-food-06", "pic": "🐟", "el": "το ψάρι", "pron": "to psári", "tr": "balık", "en": "fish"},
-        {"id": "a1-food-07", "pic": "🍚", "el": "το ρύζι", "pron": "to rízi", "tr": "pirinç / pilav", "en": "rice"},
-        {"id": "a1-food-08", "pic": "🍝", "el": "τα μακαρόνια", "pron": "ta makarónia", "tr": "makarna", "en": "pasta"},
-        {"id": "a1-food-09", "pic": "🍲", "el": "η σούπα", "pron": "i súpa", "tr": "çorba", "en": "soup"},
-        {"id": "a1-food-10", "pic": "🥗", "el": "η σαλάτα", "pron": "i saláta", "tr": "salata", "en": "salad"},
-        {"id": "a1-food-11", "pic": "🧈", "el": "το βούτυρο", "pron": "to vútiro", "tr": "tereyağı", "en": "butter"},
-        {"id": "a1-food-12", "pic": "🍯", "el": "το μέλι", "pron": "to méli", "tr": "bal", "en": "honey"},
-        {"id": "a1-food-13", "pic": "", "el": "η ζάχαρη", "pron": "i záhari", "tr": "şeker (toz)", "en": "sugar"},
-        {"id": "a1-food-14", "pic": "🧂", "el": "το αλάτι", "pron": "to aláti", "tr": "tuz", "en": "salt"},
-        {"id": "a1-food-15", "pic": "🍰", "el": "το γλυκό", "pron": "to ghlikó", "tr": "tatlı", "en": "dessert / sweet"},
-        {"id": "a1-food-16", "pic": "🍦", "el": "το παγωτό", "pron": "to paghotó", "tr": "dondurma", "en": "ice cream"},
-        {"id": "a1-food-17", "pic": "🍕", "el": "η πίτσα", "pron": "i pítsa", "tr": "pizza", "en": "pizza"}
+     "id": "a1-greetings-07",
+     "pic": "",
+     "el": "παρακαλώ",
+     "pron": "parakaló",
+     "tr": "lütfen / rica ederim",
+     "en": "please / you're welcome",
+     "forms": {
+      "present": [
+       "παρακαλώ / παρακαλάω",
+       "παρακαλάς",
+       "παρακαλεί / παρακαλάει",
+       "παρακαλούμε / παρακαλάμε",
+       "παρακαλάτε",
+       "παρακαλούν(ε) / παρακαλάνε"
+      ],
+      "imperfect": [
+       "παρακαλούσα",
+       "παρακαλούσες",
+       "παρακαλούσε",
+       "παρακαλούσαμε",
+       "παρακαλούσατε",
+       "παρακαλούσαν(ε)"
+      ],
+      "aorist": [
+       "παρακάλεσα",
+       "παρακάλεσες",
+       "παρακάλεσε",
+       "παρακαλέσαμε",
+       "παρακαλέσατε",
+       "παρακάλεσαν"
+      ],
+      "fut_cont": [
+       "θα παρακαλώ / θα παρακαλάω",
+       "θα παρακαλάς",
+       "θα παρακαλεί / θα παρακαλάει",
+       "θα παρακαλούμε / θα παρακαλάμε",
+       "θα παρακαλάτε",
+       "θα παρακαλούν(ε) / θα παρακαλάνε"
+      ],
+      "fut_simple": [
+       "θα παρακαλέσω",
+       "θα παρακαλέσεις",
+       "θα παρακαλέσει",
+       "θα παρακαλέσουμε",
+       "θα παρακαλέσετε",
+       "θα παρακαλέσουν(ε)"
+      ],
+      "perfect": [
+       "έχω παρακαλέσει",
+       "έχεις παρακαλέσει",
+       "έχει παρακαλέσει",
+       "έχουμε παρακαλέσει",
+       "έχετε παρακαλέσει",
+       "έχουν παρακαλέσει"
+      ],
+      "imperative": [
+       "παρακάλεσε",
+       "παρακαλέστε"
       ]
+     }
     },
     {
-      "id": "fruit-veg", "icon": "🍎",
-      "name": {"el": "Φρούτα και λαχανικά", "tr": "Meyve ve sebzeler", "en": "Fruit & vegetables"},
-      "words": [
-        {"id": "a1-fruit-veg-01", "pic": "🍎", "el": "το μήλο", "pron": "to mílo", "tr": "elma", "en": "apple"},
-        {"id": "a1-fruit-veg-02", "pic": "🍌", "el": "η μπανάνα", "pron": "i banána", "tr": "muz", "en": "banana"},
-        {"id": "a1-fruit-veg-03", "pic": "🍊", "el": "το πορτοκάλι", "pron": "to portokáli", "tr": "portakal", "en": "orange (fruit)"},
-        {"id": "a1-fruit-veg-04", "pic": "🍇", "el": "το σταφύλι", "pron": "to stafíli", "tr": "üzüm", "en": "grapes"},
-        {"id": "a1-fruit-veg-05", "pic": "🍓", "el": "η φράουλα", "pron": "i fráula", "tr": "çilek", "en": "strawberry"},
-        {"id": "a1-fruit-veg-06", "pic": "🍉", "el": "το καρπούζι", "pron": "to karpúzi", "tr": "karpuz", "en": "watermelon"},
-        {"id": "a1-fruit-veg-07", "pic": "🍋", "el": "το λεμόνι", "pron": "to lemóni", "tr": "limon", "en": "lemon"},
-        {"id": "a1-fruit-veg-08", "pic": "🍐", "el": "το αχλάδι", "pron": "to ahládhi", "tr": "armut", "en": "pear"},
-        {"id": "a1-fruit-veg-09", "pic": "🍑", "el": "το ροδάκινο", "pron": "to rodhákino", "tr": "şeftali", "en": "peach"},
-        {"id": "a1-fruit-veg-10", "pic": "🍒", "el": "το κεράσι", "pron": "to kerási", "tr": "kiraz", "en": "cherry"},
-        {"id": "a1-fruit-veg-11", "pic": "🍅", "el": "η ντομάτα", "pron": "i domáta", "tr": "domates", "en": "tomato"},
-        {"id": "a1-fruit-veg-12", "pic": "🥔", "el": "η πατάτα", "pron": "i patáta", "tr": "patates", "en": "potato"},
-        {"id": "a1-fruit-veg-13", "pic": "🥕", "el": "το καρότο", "pron": "to karóto", "tr": "havuç", "en": "carrot"},
-        {"id": "a1-fruit-veg-14", "pic": "🥒", "el": "το αγγούρι", "pron": "to angúri", "tr": "salatalık", "en": "cucumber"},
-        {"id": "a1-fruit-veg-15", "pic": "🧅", "el": "το κρεμμύδι", "pron": "to kremídhi", "tr": "soğan", "en": "onion"},
-        {"id": "a1-fruit-veg-16", "pic": "🫒", "el": "η ελιά", "pron": "i eliá", "tr": "zeytin", "en": "olive"},
-        {"id": "a1-fruit-veg-17", "pic": "🍆", "el": "η μελιτζάνη", "pron": "i melitzáni", "tr": "patlıcan", "en": "aubergine"}
-      ]
+     "id": "a1-greetings-08",
+     "pic": "👍",
+     "el": "ναι",
+     "pron": "ne",
+     "tr": "evet",
+     "en": "yes"
     },
     {
-      "id": "drinks", "icon": "🥤",
-      "name": {"el": "Ποτά", "tr": "İçecekler", "en": "Drinks"},
-      "words": [
-        {"id": "a1-drinks-01", "pic": "💧", "el": "το νερό", "pron": "to neró", "tr": "su", "en": "water"},
-        {"id": "a1-drinks-02", "pic": "☕", "el": "ο καφές", "pron": "o kafés", "tr": "kahve", "en": "coffee"},
-        {"id": "a1-drinks-03", "pic": "🍵", "el": "το τσάι", "pron": "to tsái", "tr": "çay", "en": "tea"},
-        {"id": "a1-drinks-04", "pic": "🥛", "el": "το γάλα", "pron": "to ghála", "tr": "süt", "en": "milk"},
-        {"id": "a1-drinks-05", "pic": "🧃", "el": "ο χυμός", "pron": "o himós", "tr": "meyve suyu", "en": "juice"},
-        {"id": "a1-drinks-06", "pic": "🍷", "el": "το κρασί", "pron": "to krasí", "tr": "şarap", "en": "wine"},
-        {"id": "a1-drinks-07", "pic": "🍺", "el": "η μπίρα", "pron": "i bíra", "tr": "bira", "en": "beer"},
-        {"id": "a1-drinks-08", "pic": "", "el": "η λεμονάδα", "pron": "i lemonádha", "tr": "limonata", "en": "lemonade"},
-        {"id": "a1-drinks-09", "pic": "", "el": "η πορτοκαλάδα", "pron": "i portokaládha", "tr": "portakallı gazoz", "en": "orangeade"},
-        {"id": "a1-drinks-10", "pic": "", "el": "το ούζο", "pron": "to úzo", "tr": "uzo", "en": "ouzo"},
-        {"id": "a1-drinks-11", "pic": "🥃", "el": "το ποτήρι", "pron": "to potíri", "tr": "bardak", "en": "glass"},
-        {"id": "a1-drinks-12", "pic": "", "el": "το μπουκάλι", "pron": "to bukáli", "tr": "şişe", "en": "bottle"}
-      ]
+     "id": "a1-greetings-09",
+     "pic": "👎",
+     "el": "όχι",
+     "pron": "óhi",
+     "tr": "hayır",
+     "en": "no"
     },
     {
-      "id": "animals", "icon": "🐾",
-      "name": {"el": "Ζώα", "tr": "Hayvanlar", "en": "Animals"},
-      "words": [
-        {"id": "a1-animals-01", "pic": "🐕", "el": "ο σκύλος", "pron": "o skílos", "tr": "köpek", "en": "dog"},
-        {"id": "a1-animals-02", "pic": "🐈", "el": "η γάτα", "pron": "i gháta", "tr": "kedi", "en": "cat"},
-        {"id": "a1-animals-03", "pic": "🐎", "el": "το άλογο", "pron": "to álogho", "tr": "at", "en": "horse"},
-        {"id": "a1-animals-04", "pic": "🐄", "el": "η αγελάδα", "pron": "i ayeládha", "tr": "inek", "en": "cow"},
-        {"id": "a1-animals-05", "pic": "🐑", "el": "το πρόβατο", "pron": "to próvato", "tr": "koyun", "en": "sheep"},
-        {"id": "a1-animals-06", "pic": "🐐", "el": "η κατσίκα", "pron": "i katsíka", "tr": "keçi", "en": "goat"},
-        {"id": "a1-animals-07", "pic": "🐖", "el": "το γουρούνι", "pron": "to ghurúni", "tr": "domuz", "en": "pig"},
-        {"id": "a1-animals-08", "pic": "🐔", "el": "η κότα", "pron": "i kóta", "tr": "tavuk", "en": "hen"},
-        {"id": "a1-animals-09", "pic": "🐦", "el": "το πουλί", "pron": "to pulí", "tr": "kuş", "en": "bird"},
-        {"id": "a1-animals-10", "pic": "🫏", "el": "ο γάιδαρος", "pron": "o gháidharos", "tr": "eşek", "en": "donkey"},
-        {"id": "a1-animals-11", "pic": "🐭", "el": "το ποντίκι", "pron": "to pondíki", "tr": "fare", "en": "mouse"},
-        {"id": "a1-animals-12", "pic": "🐻", "el": "η αρκούδα", "pron": "i arkúdha", "tr": "ayı", "en": "bear"},
-        {"id": "a1-animals-13", "pic": "🦁", "el": "το λιοντάρι", "pron": "to liondári", "tr": "aslan", "en": "lion"},
-        {"id": "a1-animals-14", "pic": "🐘", "el": "ο ελέφαντας", "pron": "o eléfandas", "tr": "fil", "en": "elephant"},
-        {"id": "a1-animals-15", "pic": "🐒", "el": "η μαϊμού", "pron": "i maimú", "tr": "maymun", "en": "monkey"},
-        {"id": "a1-animals-16", "pic": "🐍", "el": "το φίδι", "pron": "to fídhi", "tr": "yılan", "en": "snake"},
-        {"id": "a1-animals-17", "pic": "🦋", "el": "η πεταλούδα", "pron": "i petalúdha", "tr": "kelebek", "en": "butterfly"},
-        {"id": "a1-animals-18", "pic": "🐝", "el": "η μέλισσα", "pron": "i mélisa", "tr": "arı", "en": "bee"},
-        {"id": "a1-animals-19", "pic": "🐢", "el": "η χελώνα", "pron": "i helóna", "tr": "kaplumbağa", "en": "turtle / tortoise"},
-        {"id": "a1-animals-20", "pic": "🐇", "el": "το κουνέλι", "pron": "to kunéli", "tr": "tavşan", "en": "rabbit"}
-      ]
+     "id": "a1-greetings-10",
+     "pic": "",
+     "el": "συγγνώμη",
+     "pron": "sighnómi",
+     "tr": "özür dilerim / affedersiniz",
+     "en": "sorry / excuse me"
     },
     {
-      "id": "home", "icon": "🏠",
-      "name": {"el": "Σπίτι και έπιπλα", "tr": "Ev ve eşyalar", "en": "Home & furniture"},
-      "words": [
-        {"id": "a1-home-01", "pic": "🏠", "el": "το σπίτι", "pron": "to spíti", "tr": "ev", "en": "house / home"},
-        {"id": "a1-home-02", "pic": "🏢", "el": "το διαμέρισμα", "pron": "to dhiamérisma", "tr": "daire", "en": "flat / apartment"},
-        {"id": "a1-home-03", "pic": "🚪", "el": "η πόρτα", "pron": "i pórta", "tr": "kapı", "en": "door"},
-        {"id": "a1-home-04", "pic": "🪟", "el": "το παράθυρο", "pron": "to paráthiro", "tr": "pencere", "en": "window"},
-        {"id": "a1-home-05", "pic": "", "el": "το δωμάτιο", "pron": "to dhomátio", "tr": "oda", "en": "room"},
-        {"id": "a1-home-06", "pic": "", "el": "η κουζίνα", "pron": "i kuzína", "tr": "mutfak", "en": "kitchen"},
-        {"id": "a1-home-07", "pic": "🛁", "el": "το μπάνιο", "pron": "to bánio", "tr": "banyo", "en": "bathroom"},
-        {"id": "a1-home-08", "pic": "", "el": "η κρεβατοκάμαρα", "pron": "i krevatokámara", "tr": "yatak odası", "en": "bedroom"},
-        {"id": "a1-home-09", "pic": "🛏️", "el": "το κρεβάτι", "pron": "to kreváti", "tr": "yatak", "en": "bed"},
-        {"id": "a1-home-10", "pic": "", "el": "το τραπέζι", "pron": "to trapézi", "tr": "masa", "en": "table"},
-        {"id": "a1-home-11", "pic": "🪑", "el": "η καρέκλα", "pron": "i karékla", "tr": "sandalye", "en": "chair"},
-        {"id": "a1-home-12", "pic": "🛋️", "el": "ο καναπές", "pron": "o kanapés", "tr": "kanepe", "en": "sofa"},
-        {"id": "a1-home-13", "pic": "", "el": "η ντουλάπα", "pron": "i dulápa", "tr": "gardırop / dolap", "en": "wardrobe"},
-        {"id": "a1-home-14", "pic": "", "el": "το ψυγείο", "pron": "to psiyío", "tr": "buzdolabı", "en": "fridge"},
-        {"id": "a1-home-15", "pic": "💡", "el": "η λάμπα", "pron": "i lámba", "tr": "lamba", "en": "lamp"},
-        {"id": "a1-home-16", "pic": "🔑", "el": "το κλειδί", "pron": "to klidhí", "tr": "anahtar", "en": "key"},
-        {"id": "a1-home-17", "pic": "🪞", "el": "ο καθρέφτης", "pron": "o kathréftis", "tr": "ayna", "en": "mirror"},
-        {"id": "a1-home-18", "pic": "📺", "el": "η τηλεόραση", "pron": "i tileórasi", "tr": "televizyon", "en": "television"},
-        {"id": "a1-home-19", "pic": "", "el": "ο κήπος", "pron": "o kípos", "tr": "bahçe", "en": "garden"}
-      ]
+     "id": "a1-greetings-11",
+     "pic": "",
+     "el": "τι κάνεις;",
+     "pron": "ti kánis?",
+     "tr": "nasılsın?",
+     "en": "how are you?"
     },
     {
-      "id": "clothes", "icon": "👕",
-      "name": {"el": "Ρούχα", "tr": "Giysiler", "en": "Clothes"},
-      "words": [
-        {"id": "a1-clothes-01", "pic": "", "el": "τα ρούχα", "pron": "ta rúha", "tr": "giysiler", "en": "clothes"},
-        {"id": "a1-clothes-02", "pic": "👔", "el": "το πουκάμισο", "pron": "to pukámiso", "tr": "gömlek", "en": "shirt"},
-        {"id": "a1-clothes-03", "pic": "👕", "el": "το μπλουζάκι", "pron": "to bluzáki", "tr": "tişört", "en": "T-shirt"},
-        {"id": "a1-clothes-04", "pic": "👖", "el": "το παντελόνι", "pron": "to pandelóni", "tr": "pantolon", "en": "trousers"},
-        {"id": "a1-clothes-05", "pic": "", "el": "η φούστα", "pron": "i fústa", "tr": "etek", "en": "skirt"},
-        {"id": "a1-clothes-06", "pic": "👗", "el": "το φόρεμα", "pron": "to fórema", "tr": "elbise", "en": "dress"},
-        {"id": "a1-clothes-07", "pic": "🧥", "el": "το παλτό", "pron": "to paltó", "tr": "palto", "en": "coat"},
-        {"id": "a1-clothes-08", "pic": "", "el": "το μπουφάν", "pron": "to bufán", "tr": "mont", "en": "jacket"},
-        {"id": "a1-clothes-09", "pic": "👞", "el": "τα παπούτσια", "pron": "ta papútsia", "tr": "ayakkabılar", "en": "shoes"},
-        {"id": "a1-clothes-10", "pic": "🧦", "el": "οι κάλτσες", "pron": "i káltses", "tr": "çoraplar", "en": "socks"},
-        {"id": "a1-clothes-11", "pic": "👒", "el": "το καπέλο", "pron": "to kapélo", "tr": "şapka", "en": "hat"},
-        {"id": "a1-clothes-12", "pic": "🧣", "el": "το κασκόλ", "pron": "to kaskól", "tr": "atkı", "en": "scarf"},
-        {"id": "a1-clothes-13", "pic": "🧤", "el": "τα γάντια", "pron": "ta ghándia", "tr": "eldivenler", "en": "gloves"},
-        {"id": "a1-clothes-14", "pic": "👜", "el": "η τσάντα", "pron": "i tsánda", "tr": "çanta", "en": "bag"},
-        {"id": "a1-clothes-15", "pic": "👓", "el": "τα γυαλιά", "pron": "ta yaliá", "tr": "gözlük", "en": "glasses"},
-        {"id": "a1-clothes-16", "pic": "", "el": "η ζώνη", "pron": "i zóni", "tr": "kemer", "en": "belt"}
-      ]
+     "id": "a1-greetings-12",
+     "pic": "",
+     "el": "καλά",
+     "pron": "kalá",
+     "tr": "iyiyim / iyi",
+     "en": "fine / well"
     },
     {
-      "id": "weather-seasons", "icon": "🌤️",
-      "name": {"el": "Καιρός και εποχές", "tr": "Hava ve mevsimler", "en": "Weather & seasons"},
-      "words": [
-        {"id": "a1-weather-seasons-01", "pic": "", "el": "ο καιρός", "pron": "o kerós", "tr": "hava (durumu)", "en": "weather"},
-        {"id": "a1-weather-seasons-02", "pic": "☀️", "el": "ο ήλιος", "pron": "o ílios", "tr": "güneş", "en": "sun"},
-        {"id": "a1-weather-seasons-03", "pic": "🌧️", "el": "η βροχή", "pron": "i vrohí", "tr": "yağmur", "en": "rain"},
-        {"id": "a1-weather-seasons-04", "pic": "❄️", "el": "το χιόνι", "pron": "to hióni", "tr": "kar", "en": "snow"},
-        {"id": "a1-weather-seasons-05", "pic": "🌬️", "el": "ο αέρας", "pron": "o aéras", "tr": "rüzgâr / hava", "en": "wind / air"},
-        {"id": "a1-weather-seasons-06", "pic": "☁️", "el": "το σύννεφο", "pron": "to sínefo", "tr": "bulut", "en": "cloud"},
-        {"id": "a1-weather-seasons-07", "pic": "⛈️", "el": "η καταιγίδα", "pron": "i kateyídha", "tr": "fırtına", "en": "storm"},
-        {"id": "a1-weather-seasons-08", "pic": "🌈", "el": "το ουράνιο τόξο", "pron": "to uránio tóxo", "tr": "gökkuşağı", "en": "rainbow"},
-        {"id": "a1-weather-seasons-09", "pic": "🥵", "el": "η ζέστη", "pron": "i zésti", "tr": "sıcak (hava)", "en": "heat / hot weather"},
-        {"id": "a1-weather-seasons-10", "pic": "🥶", "el": "το κρύο", "pron": "to krío", "tr": "soğuk", "en": "cold"},
-        {"id": "a1-weather-seasons-11", "pic": "🌸", "el": "η άνοιξη", "pron": "i ánixi", "tr": "ilkbahar", "en": "spring"},
-        {"id": "a1-weather-seasons-12", "pic": "🏖️", "el": "το καλοκαίρι", "pron": "to kalokéri", "tr": "yaz", "en": "summer"},
-        {"id": "a1-weather-seasons-13", "pic": "🍂", "el": "το φθινόπωρο", "pron": "to fthinóporo", "tr": "sonbahar", "en": "autumn"},
-        {"id": "a1-weather-seasons-14", "pic": "⛄", "el": "ο χειμώνας", "pron": "o himónas", "tr": "kış", "en": "winter"}
-      ]
+     "id": "a1-greetings-13",
+     "pic": "🤝",
+     "el": "χάρηκα",
+     "pron": "hárika",
+     "tr": "memnun oldum",
+     "en": "nice to meet you"
     },
     {
-      "id": "days-months", "icon": "📅",
-      "name": {"el": "Μέρες και μήνες", "tr": "Günler ve aylar", "en": "Days & months"},
-      "words": [
-        {"id": "a1-days-months-01", "pic": "", "el": "η Δευτέρα", "pron": "i dheftéra", "tr": "pazartesi", "en": "Monday"},
-        {"id": "a1-days-months-02", "pic": "", "el": "η Τρίτη", "pron": "i tríti", "tr": "salı", "en": "Tuesday"},
-        {"id": "a1-days-months-03", "pic": "", "el": "η Τετάρτη", "pron": "i tetárti", "tr": "çarşamba", "en": "Wednesday"},
-        {"id": "a1-days-months-04", "pic": "", "el": "η Πέμπτη", "pron": "i pémpti", "tr": "perşembe", "en": "Thursday"},
-        {"id": "a1-days-months-05", "pic": "", "el": "η Παρασκευή", "pron": "i paraskeví", "tr": "cuma", "en": "Friday"},
-        {"id": "a1-days-months-06", "pic": "", "el": "το Σάββατο", "pron": "to sávato", "tr": "cumartesi", "en": "Saturday"},
-        {"id": "a1-days-months-07", "pic": "", "el": "η Κυριακή", "pron": "i kiriakí", "tr": "pazar", "en": "Sunday"},
-        {"id": "a1-days-months-08", "pic": "", "el": "ο Ιανουάριος", "pron": "o ianuários", "tr": "ocak", "en": "January"},
-        {"id": "a1-days-months-09", "pic": "", "el": "ο Φεβρουάριος", "pron": "o fevruários", "tr": "şubat", "en": "February"},
-        {"id": "a1-days-months-10", "pic": "", "el": "ο Μάρτιος", "pron": "o mártios", "tr": "mart", "en": "March"},
-        {"id": "a1-days-months-11", "pic": "", "el": "ο Απρίλιος", "pron": "o aprílios", "tr": "nisan", "en": "April"},
-        {"id": "a1-days-months-12", "pic": "", "el": "ο Μάιος", "pron": "o máios", "tr": "mayıs", "en": "May"},
-        {"id": "a1-days-months-13", "pic": "", "el": "ο Ιούνιος", "pron": "o iúnios", "tr": "haziran", "en": "June"},
-        {"id": "a1-days-months-14", "pic": "", "el": "ο Ιούλιος", "pron": "o iúlios", "tr": "temmuz", "en": "July"},
-        {"id": "a1-days-months-15", "pic": "", "el": "ο Αύγουστος", "pron": "o ávghustos", "tr": "ağustos", "en": "August"},
-        {"id": "a1-days-months-16", "pic": "", "el": "ο Σεπτέμβριος", "pron": "o septémvrios", "tr": "eylül", "en": "September"},
-        {"id": "a1-days-months-17", "pic": "", "el": "ο Οκτώβριος", "pron": "o októvrios", "tr": "ekim", "en": "October"},
-        {"id": "a1-days-months-18", "pic": "", "el": "ο Νοέμβριος", "pron": "o noémvrios", "tr": "kasım", "en": "November"},
-        {"id": "a1-days-months-19", "pic": "", "el": "ο Δεκέμβριος", "pron": "o dhekémvrios", "tr": "aralık", "en": "December"}
-      ]
+     "id": "a1-greetings-14",
+     "pic": "",
+     "el": "αντίο",
+     "pron": "adío",
+     "tr": "hoşça kal",
+     "en": "goodbye"
+    },
+    {
+     "id": "a1-greetings-15",
+     "pic": "",
+     "el": "με λένε...",
+     "pron": "me léne...",
+     "tr": "benim adım...",
+     "en": "my name is..."
+    },
+    {
+     "id": "a1-greetings-16",
+     "pic": "🍽️",
+     "el": "καλή όρεξη",
+     "pron": "kalí órexi",
+     "tr": "afiyet olsun",
+     "en": "enjoy your meal"
     }
-  ]
+   ]
+  },
+  {
+   "id": "numbers-small",
+   "icon": "🔢",
+   "name": {
+    "el": "Αριθμοί 0–10",
+    "tr": "Sayılar 0–10",
+    "en": "Numbers 0–10"
+   },
+   "words": [
+    {
+     "id": "a1-numbers-small-01",
+     "pic": "0",
+     "el": "μηδέν",
+     "pron": "midhén",
+     "tr": "sıfır",
+     "en": "zero"
+    },
+    {
+     "id": "a1-numbers-small-02",
+     "pic": "1",
+     "el": "ένα",
+     "pron": "éna",
+     "tr": "bir",
+     "en": "one"
+    },
+    {
+     "id": "a1-numbers-small-03",
+     "pic": "2",
+     "el": "δύο",
+     "pron": "dhío",
+     "tr": "iki",
+     "en": "two"
+    },
+    {
+     "id": "a1-numbers-small-04",
+     "pic": "3",
+     "el": "τρία",
+     "pron": "tría",
+     "tr": "üç",
+     "en": "three"
+    },
+    {
+     "id": "a1-numbers-small-05",
+     "pic": "4",
+     "el": "τέσσερα",
+     "pron": "tésera",
+     "tr": "dört",
+     "en": "four"
+    },
+    {
+     "id": "a1-numbers-small-06",
+     "pic": "5",
+     "el": "πέντε",
+     "pron": "pénde",
+     "tr": "beş",
+     "en": "five"
+    },
+    {
+     "id": "a1-numbers-small-07",
+     "pic": "6",
+     "el": "έξι",
+     "pron": "éxi",
+     "tr": "altı",
+     "en": "six"
+    },
+    {
+     "id": "a1-numbers-small-08",
+     "pic": "7",
+     "el": "επτά",
+     "pron": "eptá",
+     "tr": "yedi",
+     "en": "seven"
+    },
+    {
+     "id": "a1-numbers-small-09",
+     "pic": "8",
+     "el": "οκτώ",
+     "pron": "októ",
+     "tr": "sekiz",
+     "en": "eight"
+    },
+    {
+     "id": "a1-numbers-small-10",
+     "pic": "9",
+     "el": "εννέα",
+     "pron": "enéa",
+     "tr": "dokuz",
+     "en": "nine"
+    },
+    {
+     "id": "a1-numbers-small-11",
+     "pic": "10",
+     "el": "δέκα",
+     "pron": "dhéka",
+     "tr": "on",
+     "en": "ten"
+    }
+   ]
+  },
+  {
+   "id": "numbers-big",
+   "icon": "💯",
+   "name": {
+    "el": "Αριθμοί 11–1000",
+    "tr": "Sayılar 11–1000",
+    "en": "Numbers 11–1000"
+   },
+   "words": [
+    {
+     "id": "a1-numbers-big-01",
+     "pic": "11",
+     "el": "έντεκα",
+     "pron": "éndeka",
+     "tr": "on bir",
+     "en": "eleven"
+    },
+    {
+     "id": "a1-numbers-big-02",
+     "pic": "12",
+     "el": "δώδεκα",
+     "pron": "dhódheka",
+     "tr": "on iki",
+     "en": "twelve"
+    },
+    {
+     "id": "a1-numbers-big-03",
+     "pic": "13",
+     "el": "δεκατρία",
+     "pron": "dhekatría",
+     "tr": "on üç",
+     "en": "thirteen"
+    },
+    {
+     "id": "a1-numbers-big-04",
+     "pic": "14",
+     "el": "δεκατέσσερα",
+     "pron": "dhekatésera",
+     "tr": "on dört",
+     "en": "fourteen"
+    },
+    {
+     "id": "a1-numbers-big-05",
+     "pic": "15",
+     "el": "δεκαπέντε",
+     "pron": "dhekapénde",
+     "tr": "on beş",
+     "en": "fifteen"
+    },
+    {
+     "id": "a1-numbers-big-06",
+     "pic": "16",
+     "el": "δεκαέξι",
+     "pron": "dhekaéxi",
+     "tr": "on altı",
+     "en": "sixteen"
+    },
+    {
+     "id": "a1-numbers-big-07",
+     "pic": "17",
+     "el": "δεκαεπτά",
+     "pron": "dhekaeptá",
+     "tr": "on yedi",
+     "en": "seventeen"
+    },
+    {
+     "id": "a1-numbers-big-08",
+     "pic": "18",
+     "el": "δεκαοκτώ",
+     "pron": "dhekaoktó",
+     "tr": "on sekiz",
+     "en": "eighteen"
+    },
+    {
+     "id": "a1-numbers-big-09",
+     "pic": "19",
+     "el": "δεκαεννέα",
+     "pron": "dhekaenéa",
+     "tr": "on dokuz",
+     "en": "nineteen"
+    },
+    {
+     "id": "a1-numbers-big-10",
+     "pic": "20",
+     "el": "είκοσι",
+     "pron": "íkosi",
+     "tr": "yirmi",
+     "en": "twenty"
+    },
+    {
+     "id": "a1-numbers-big-11",
+     "pic": "30",
+     "el": "τριάντα",
+     "pron": "triánda",
+     "tr": "otuz",
+     "en": "thirty"
+    },
+    {
+     "id": "a1-numbers-big-12",
+     "pic": "40",
+     "el": "σαράντα",
+     "pron": "saránda",
+     "tr": "kırk",
+     "en": "forty"
+    },
+    {
+     "id": "a1-numbers-big-13",
+     "pic": "50",
+     "el": "πενήντα",
+     "pron": "penínda",
+     "tr": "elli",
+     "en": "fifty"
+    },
+    {
+     "id": "a1-numbers-big-14",
+     "pic": "60",
+     "el": "εξήντα",
+     "pron": "exínda",
+     "tr": "altmış",
+     "en": "sixty"
+    },
+    {
+     "id": "a1-numbers-big-15",
+     "pic": "70",
+     "el": "εβδομήντα",
+     "pron": "evdhomínda",
+     "tr": "yetmiş",
+     "en": "seventy"
+    },
+    {
+     "id": "a1-numbers-big-16",
+     "pic": "80",
+     "el": "ογδόντα",
+     "pron": "oghdhónda",
+     "tr": "seksen",
+     "en": "eighty"
+    },
+    {
+     "id": "a1-numbers-big-17",
+     "pic": "90",
+     "el": "ενενήντα",
+     "pron": "enenínda",
+     "tr": "doksan",
+     "en": "ninety"
+    },
+    {
+     "id": "a1-numbers-big-18",
+     "pic": "100",
+     "el": "εκατό",
+     "pron": "ekató",
+     "tr": "yüz",
+     "en": "one hundred"
+    },
+    {
+     "id": "a1-numbers-big-19",
+     "pic": "1000",
+     "el": "χίλια",
+     "pron": "hília",
+     "tr": "bin",
+     "en": "one thousand"
+    }
+   ]
+  },
+  {
+   "id": "colours",
+   "icon": "🎨",
+   "name": {
+    "el": "Χρώματα",
+    "tr": "Renkler",
+    "en": "Colours"
+   },
+   "words": [
+    {
+     "id": "a1-colours-01",
+     "pic": "🎨",
+     "el": "το χρώμα",
+     "pron": "to hróma",
+     "tr": "renk",
+     "en": "colour",
+     "forms": {
+      "sg": [
+       "το χρώμα",
+       "του χρώματος",
+       "το χρώμα",
+       "χρώμα"
+      ],
+      "pl": [
+       "τα χρώματα",
+       "των χρωμάτων",
+       "τα χρώματα",
+       "χρώματα"
+      ]
+     }
+    },
+    {
+     "id": "a1-colours-02",
+     "pic": "⚪",
+     "el": "άσπρος, -η, -ο",
+     "pron": "áspros",
+     "tr": "beyaz",
+     "en": "white"
+    },
+    {
+     "id": "a1-colours-03",
+     "pic": "⚫",
+     "el": "μαύρος, -η, -ο",
+     "pron": "mávros",
+     "tr": "siyah",
+     "en": "black"
+    },
+    {
+     "id": "a1-colours-04",
+     "pic": "🔴",
+     "el": "κόκκινος, -η, -ο",
+     "pron": "kókinos",
+     "tr": "kırmızı",
+     "en": "red"
+    },
+    {
+     "id": "a1-colours-05",
+     "pic": "🔵",
+     "el": "μπλε",
+     "pron": "ble",
+     "tr": "mavi",
+     "en": "blue"
+    },
+    {
+     "id": "a1-colours-06",
+     "pic": "🟢",
+     "el": "πράσινος, -η, -ο",
+     "pron": "prásinos",
+     "tr": "yeşil",
+     "en": "green"
+    },
+    {
+     "id": "a1-colours-07",
+     "pic": "🟡",
+     "el": "κίτρινος, -η, -ο",
+     "pron": "kítrinos",
+     "tr": "sarı",
+     "en": "yellow"
+    },
+    {
+     "id": "a1-colours-08",
+     "pic": "🟠",
+     "el": "πορτοκαλί",
+     "pron": "portokalí",
+     "tr": "turuncu",
+     "en": "orange (colour)"
+    },
+    {
+     "id": "a1-colours-09",
+     "pic": "🟣",
+     "el": "μωβ",
+     "pron": "mov",
+     "tr": "mor",
+     "en": "purple"
+    },
+    {
+     "id": "a1-colours-10",
+     "pic": "🩷",
+     "el": "ροζ",
+     "pron": "roz",
+     "tr": "pembe",
+     "en": "pink"
+    },
+    {
+     "id": "a1-colours-11",
+     "pic": "🟤",
+     "el": "καφέ",
+     "pron": "kafé",
+     "tr": "kahverengi",
+     "en": "brown"
+    },
+    {
+     "id": "a1-colours-12",
+     "pic": "🩶",
+     "el": "γκρι",
+     "pron": "gri",
+     "tr": "gri",
+     "en": "grey"
+    }
+   ]
+  },
+  {
+   "id": "family",
+   "icon": "👪",
+   "name": {
+    "el": "Οικογένεια",
+    "tr": "Aile",
+    "en": "Family"
+   },
+   "words": [
+    {
+     "id": "a1-family-01",
+     "pic": "👪",
+     "el": "η οικογένεια",
+     "pron": "i ikoyénia",
+     "tr": "aile",
+     "en": "family",
+     "forms": {
+      "sg": [
+       "η οικογένεια",
+       "της οικογένειας",
+       "την οικογένεια",
+       "οικογένεια"
+      ],
+      "pl": [
+       "οι οικογένειες",
+       "των οικογενειών",
+       "τις οικογένειες",
+       "οικογένειες"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-02",
+     "pic": "🤱",
+     "el": "η μητέρα",
+     "pron": "i mitéra",
+     "tr": "anne",
+     "en": "mother",
+     "forms": {
+      "sg": [
+       "η μητέρα",
+       "της μητέρας",
+       "την μητέρα",
+       "μητέρα"
+      ],
+      "pl": [
+       "οι μητέρες",
+       "των μητέρων",
+       "τις μητέρες",
+       "μητέρες"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-03",
+     "pic": "👨‍👧",
+     "el": "ο πατέρας",
+     "pron": "o patéras",
+     "tr": "baba",
+     "en": "father",
+     "forms": {
+      "sg": [
+       "ο πατέρας",
+       "του πατέρα",
+       "τον πατέρα",
+       "πατέρα"
+      ],
+      "pl": [
+       "οι πατέρες",
+       "των πατέρων",
+       "τους πατέρες",
+       "πατέρες"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-04",
+     "pic": "👦",
+     "el": "ο γιος",
+     "pron": "o yos",
+     "tr": "oğul",
+     "en": "son",
+     "forms": {
+      "sg": [
+       "ο γιος",
+       "του γιου",
+       "τον γιο",
+       "γιε"
+      ],
+      "pl": [
+       "οι γιοι",
+       "των γιων",
+       "τους γιους",
+       "γιοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-05",
+     "pic": "👧",
+     "el": "η κόρη",
+     "pron": "i kóri",
+     "tr": "kız (evlat)",
+     "en": "daughter",
+     "forms": {
+      "sg": [
+       "η κόρη",
+       "της κόρης",
+       "την κόρη",
+       "κόρη"
+      ],
+      "pl": [
+       "οι κόρες",
+       "των κορών",
+       "τις κόρες",
+       "κόρες"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-06",
+     "pic": "",
+     "el": "ο αδερφός",
+     "pron": "o adherfós",
+     "tr": "erkek kardeş",
+     "en": "brother",
+     "forms": {
+      "sg": [
+       "ο αδερφός",
+       "του αδερφού",
+       "τον αδερφό",
+       "αδερφέ"
+      ],
+      "pl": [
+       "οι αδερφοί",
+       "των αδερφών",
+       "τους αδερφούς",
+       "αδερφοί"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-07",
+     "pic": "",
+     "el": "η αδερφή",
+     "pron": "i adherfí",
+     "tr": "kız kardeş",
+     "en": "sister",
+     "forms": {
+      "sg": [
+       "η αδερφή",
+       "της αδερφής",
+       "την αδερφή",
+       "αδερφή"
+      ],
+      "pl": [
+       "οι αδερφές",
+       "των αδερφών",
+       "τις αδερφές",
+       "αδερφές"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-08",
+     "pic": "👴",
+     "el": "ο παππούς",
+     "pron": "o papús",
+     "tr": "dede",
+     "en": "grandfather",
+     "forms": {
+      "sg": [
+       "ο παππούς",
+       "του παππού",
+       "τον παππού",
+       "παππού"
+      ],
+      "pl": [
+       "οι παππούδες",
+       "των παππούδων",
+       "τους παππούδες",
+       "παππούδες"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-09",
+     "pic": "👵",
+     "el": "η γιαγιά",
+     "pron": "i yayá",
+     "tr": "büyükanne / nine",
+     "en": "grandmother",
+     "forms": {
+      "sg": [
+       "η γιαγιά",
+       "της γιαγιάς",
+       "την γιαγιά",
+       "γιαγιά"
+      ],
+      "pl": [
+       "οι γιαγιάδες",
+       "των γιαγιάδων",
+       "τις γιαγιάδες",
+       "γιαγιάδες"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-10",
+     "pic": "👶",
+     "el": "το μωρό",
+     "pron": "to moró",
+     "tr": "bebek",
+     "en": "baby",
+     "forms": {
+      "sg": [
+       "το μωρό",
+       "του μωρού",
+       "το μωρό",
+       "μωρό"
+      ],
+      "pl": [
+       "τα μωρά",
+       "των μωρών",
+       "τα μωρά",
+       "μωρά"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-11",
+     "pic": "👨",
+     "el": "ο άντρας",
+     "pron": "o ándras",
+     "tr": "adam / koca",
+     "en": "man / husband",
+     "forms": {
+      "sg": [
+       "ο άντρας",
+       "του άντρα",
+       "τον άντρα",
+       "άντρα"
+      ],
+      "pl": [
+       "οι άντρες",
+       "των αντρών",
+       "τους άντρες",
+       "άντρες"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-12",
+     "pic": "👩",
+     "el": "η γυναίκα",
+     "pron": "i yinéka",
+     "tr": "kadın / eş",
+     "en": "woman / wife",
+     "forms": {
+      "sg": [
+       "η γυναίκα",
+       "της γυναίκας",
+       "την γυναίκα",
+       "γυναίκα"
+      ],
+      "pl": [
+       "οι γυναίκες",
+       "των γυναικών",
+       "τις γυναίκες",
+       "γυναίκες"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-13",
+     "pic": "",
+     "el": "ο θείος",
+     "pron": "o thíos",
+     "tr": "amca / dayı",
+     "en": "uncle",
+     "forms": {
+      "sg": [
+       "ο θείος",
+       "του θείου",
+       "τον θείο",
+       "θείε"
+      ],
+      "pl": [
+       "οι θείοι",
+       "των θείων",
+       "τους θείους",
+       "θείοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-14",
+     "pic": "",
+     "el": "η θεία",
+     "pron": "i thía",
+     "tr": "teyze / hala",
+     "en": "aunt",
+     "forms": {
+      "sg": [
+       "η θεία",
+       "της θείας",
+       "την θεία",
+       "θεία"
+      ],
+      "pl": [
+       "οι θείες",
+       "των θείων",
+       "τις θείες",
+       "θείες"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-15",
+     "pic": "",
+     "el": "οι γονείς",
+     "pron": "i ghonís",
+     "tr": "anne baba (ebeveynler)",
+     "en": "parents",
+     "forms": {
+      "sg": [
+       "ο γονιός / ο γονέας",
+       "του γονιού / του γονέα",
+       "τον γονιό / τον γονέα",
+       "γονιέ / γονέα"
+      ],
+      "pl": [
+       "οι γονείς",
+       "των γονέων / των γονιών",
+       "τους γονείς",
+       "γονείς"
+      ]
+     }
+    },
+    {
+     "id": "a1-family-16",
+     "pic": "🧒",
+     "el": "τα παιδιά",
+     "pron": "ta pedhiá",
+     "tr": "çocuklar",
+     "en": "children",
+     "forms": {
+      "sg": [
+       "το παιδί",
+       "του παιδιού",
+       "το παιδί",
+       "παιδί"
+      ],
+      "pl": [
+       "τα παιδιά",
+       "των παιδιών",
+       "τα παιδιά",
+       "παιδιά"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "body",
+   "icon": "🧍",
+   "name": {
+    "el": "Το σώμα",
+    "tr": "Vücut",
+    "en": "Body"
+   },
+   "words": [
+    {
+     "id": "a1-body-01",
+     "pic": "",
+     "el": "το κεφάλι",
+     "pron": "to kefáli",
+     "tr": "baş / kafa",
+     "en": "head",
+     "forms": {
+      "sg": [
+       "το κεφάλι",
+       "του κεφαλιού",
+       "το κεφάλι",
+       "κεφάλι"
+      ],
+      "pl": [
+       "τα κεφάλια",
+       "των κεφαλιών",
+       "τα κεφάλια",
+       "κεφάλια"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-02",
+     "pic": "💇",
+     "el": "τα μαλλιά",
+     "pron": "ta maliá",
+     "tr": "saç",
+     "en": "hair",
+     "forms": {
+      "sg": [
+       "το μαλλί",
+       "του μαλλιού",
+       "το μαλλί",
+       "μαλλί"
+      ],
+      "pl": [
+       "τα μαλλιά",
+       "των μαλλιών",
+       "τα μαλλιά",
+       "μαλλιά"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-03",
+     "pic": "🙂",
+     "el": "το πρόσωπο",
+     "pron": "to prósopo",
+     "tr": "yüz",
+     "en": "face",
+     "forms": {
+      "sg": [
+       "το πρόσωπο",
+       "του προσώπου",
+       "το πρόσωπο",
+       "πρόσωπο"
+      ],
+      "pl": [
+       "τα πρόσωπα",
+       "των προσώπων",
+       "τα πρόσωπα",
+       "πρόσωπα"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-04",
+     "pic": "👁️",
+     "el": "το μάτι",
+     "pron": "to máti",
+     "tr": "göz",
+     "en": "eye",
+     "forms": {
+      "sg": [
+       "το μάτι",
+       "του ματιού",
+       "το μάτι",
+       "μάτι"
+      ],
+      "pl": [
+       "τα μάτια",
+       "των ματιών",
+       "τα μάτια",
+       "μάτια"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-05",
+     "pic": "👂",
+     "el": "το αυτί",
+     "pron": "to aftí",
+     "tr": "kulak",
+     "en": "ear",
+     "forms": {
+      "sg": [
+       "το αυτί",
+       "του αυτιού",
+       "το αυτί",
+       "αυτί"
+      ],
+      "pl": [
+       "τα αυτιά",
+       "των αυτιών",
+       "τα αυτιά",
+       "αυτιά"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-06",
+     "pic": "👃",
+     "el": "η μύτη",
+     "pron": "i míti",
+     "tr": "burun",
+     "en": "nose",
+     "forms": {
+      "sg": [
+       "η μύτη",
+       "της μύτης",
+       "την μύτη",
+       "μύτη"
+      ],
+      "pl": [
+       "οι μύτες",
+       "των μυτών",
+       "τις μύτες",
+       "μύτες"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-07",
+     "pic": "👄",
+     "el": "το στόμα",
+     "pron": "to stóma",
+     "tr": "ağız",
+     "en": "mouth",
+     "forms": {
+      "sg": [
+       "το στόμα",
+       "του στόματος",
+       "το στόμα",
+       "στόμα"
+      ],
+      "pl": [
+       "τα στόματα",
+       "των στομάτων",
+       "τα στόματα",
+       "στόματα"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-08",
+     "pic": "🦷",
+     "el": "τα δόντια",
+     "pron": "ta dhóndia",
+     "tr": "dişler",
+     "en": "teeth",
+     "forms": {
+      "sg": [
+       "το δόντι",
+       "του δοντιού",
+       "το δόντι",
+       "δόντι"
+      ],
+      "pl": [
+       "τα δόντια",
+       "των δοντιών",
+       "τα δόντια",
+       "δόντια"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-09",
+     "pic": "👅",
+     "el": "η γλώσσα",
+     "pron": "i ghlósa",
+     "tr": "dil",
+     "en": "tongue / language",
+     "forms": {
+      "sg": [
+       "η γλώσσα",
+       "της γλώσσας",
+       "την γλώσσα",
+       "γλώσσα"
+      ],
+      "pl": [
+       "οι γλώσσες",
+       "των γλωσσών",
+       "τις γλώσσες",
+       "γλώσσες"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-10",
+     "pic": "✋",
+     "el": "το χέρι",
+     "pron": "to héri",
+     "tr": "el / kol",
+     "en": "hand / arm",
+     "forms": {
+      "sg": [
+       "το χέρι",
+       "του χεριού",
+       "το χέρι",
+       "χέρι"
+      ],
+      "pl": [
+       "τα χέρια",
+       "των χεριών",
+       "τα χέρια",
+       "χέρια"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-11",
+     "pic": "👆",
+     "el": "το δάχτυλο",
+     "pron": "to dháhtilo",
+     "tr": "parmak",
+     "en": "finger",
+     "forms": {
+      "sg": [
+       "το δάχτυλο",
+       "του δαχτύλου",
+       "το δάχτυλο",
+       "δάχτυλο"
+      ],
+      "pl": [
+       "τα δάχτυλα",
+       "των δαχτύλων",
+       "τα δάχτυλα",
+       "δάχτυλα"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-12",
+     "pic": "🦶",
+     "el": "το πόδι",
+     "pron": "to pódhi",
+     "tr": "ayak / bacak",
+     "en": "foot / leg",
+     "forms": {
+      "sg": [
+       "το πόδι",
+       "του ποδιού",
+       "το πόδι",
+       "πόδι"
+      ],
+      "pl": [
+       "τα πόδια",
+       "των ποδιών",
+       "τα πόδια",
+       "πόδια"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-13",
+     "pic": "🫀",
+     "el": "η καρδιά",
+     "pron": "i kardhiá",
+     "tr": "kalp",
+     "en": "heart",
+     "forms": {
+      "sg": [
+       "η καρδιά",
+       "της καρδιάς",
+       "την καρδιά",
+       "καρδιά"
+      ],
+      "pl": [
+       "οι καρδιές",
+       "των καρδιών",
+       "τις καρδιές",
+       "καρδιές"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-14",
+     "pic": "",
+     "el": "η κοιλιά",
+     "pron": "i kiliá",
+     "tr": "karın",
+     "en": "belly",
+     "forms": {
+      "sg": [
+       "η κοιλιά",
+       "της κοιλιάς",
+       "την κοιλιά",
+       "κοιλιά"
+      ],
+      "pl": [
+       "οι κοιλιές",
+       "των κοιλιών",
+       "τις κοιλιές",
+       "κοιλιές"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-15",
+     "pic": "",
+     "el": "η πλάτη",
+     "pron": "i pláti",
+     "tr": "sırt",
+     "en": "back",
+     "forms": {
+      "sg": [
+       "η πλάτη",
+       "της πλάτης",
+       "την πλάτη",
+       "πλάτη"
+      ],
+      "pl": [
+       "οι πλάτες",
+       "των πλατών",
+       "τις πλάτες",
+       "πλάτες"
+      ]
+     }
+    },
+    {
+     "id": "a1-body-16",
+     "pic": "",
+     "el": "ο λαιμός",
+     "pron": "o lemós",
+     "tr": "boyun / boğaz",
+     "en": "neck / throat",
+     "forms": {
+      "sg": [
+       "ο λαιμός",
+       "του λαιμού",
+       "τον λαιμό",
+       "λαιμέ"
+      ],
+      "pl": [
+       "οι λαιμοί",
+       "των λαιμών",
+       "τους λαιμούς",
+       "λαιμοί"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "icon": "🍽️",
+   "name": {
+    "el": "Φαγητό",
+    "tr": "Yiyecekler",
+    "en": "Food"
+   },
+   "words": [
+    {
+     "id": "a1-food-01",
+     "pic": "🍞",
+     "el": "το ψωμί",
+     "pron": "to psomí",
+     "tr": "ekmek",
+     "en": "bread",
+     "forms": {
+      "sg": [
+       "το ψωμί",
+       "του ψωμιού",
+       "το ψωμί",
+       "ψωμί"
+      ],
+      "pl": [
+       "τα ψωμιά",
+       "των ψωμιών",
+       "τα ψωμιά",
+       "ψωμιά"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-02",
+     "pic": "🧀",
+     "el": "το τυρί",
+     "pron": "to tirí",
+     "tr": "peynir",
+     "en": "cheese",
+     "forms": {
+      "sg": [
+       "το τυρί",
+       "του τυριού",
+       "το τυρί",
+       "τυρί"
+      ],
+      "pl": [
+       "τα τυριά",
+       "των τυριών",
+       "τα τυριά",
+       "τυριά"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-03",
+     "pic": "🥚",
+     "el": "το αυγό",
+     "pron": "to avghó",
+     "tr": "yumurta",
+     "en": "egg",
+     "forms": {
+      "sg": [
+       "το αυγό",
+       "του αυγού",
+       "το αυγό",
+       "αυγό"
+      ],
+      "pl": [
+       "τα αυγά",
+       "των αυγών",
+       "τα αυγά",
+       "αυγά"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-04",
+     "pic": "🥩",
+     "el": "το κρέας",
+     "pron": "to kréas",
+     "tr": "et",
+     "en": "meat",
+     "forms": {
+      "sg": [
+       "το κρέας",
+       "του κρέατος",
+       "το κρέας",
+       "κρέας"
+      ],
+      "pl": [
+       "τα κρέατα",
+       "των κρεάτων",
+       "τα κρέατα",
+       "κρέατα"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-05",
+     "pic": "🍗",
+     "el": "το κοτόπουλο",
+     "pron": "to kotópulo",
+     "tr": "tavuk (yemek)",
+     "en": "chicken (food)",
+     "forms": {
+      "sg": [
+       "το κοτόπουλο",
+       "του κοτόπουλου",
+       "το κοτόπουλο",
+       "κοτόπουλο"
+      ],
+      "pl": [
+       "τα κοτόπουλα",
+       "των κοτόπουλων",
+       "τα κοτόπουλα",
+       "κοτόπουλα"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-06",
+     "pic": "🐟",
+     "el": "το ψάρι",
+     "pron": "to psári",
+     "tr": "balık",
+     "en": "fish",
+     "forms": {
+      "sg": [
+       "το ψάρι",
+       "του ψαριού",
+       "το ψάρι",
+       "ψάρι"
+      ],
+      "pl": [
+       "τα ψάρια",
+       "των ψαριών",
+       "τα ψάρια",
+       "ψάρια"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-07",
+     "pic": "🍚",
+     "el": "το ρύζι",
+     "pron": "to rízi",
+     "tr": "pirinç / pilav",
+     "en": "rice",
+     "forms": {
+      "sg": [
+       "το ρύζι",
+       "του ρυζιού",
+       "το ρύζι",
+       "ρύζι"
+      ],
+      "pl": [
+       "τα ρύζια",
+       "των ρυζιών",
+       "τα ρύζια",
+       "ρύζια"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-08",
+     "pic": "🍝",
+     "el": "τα μακαρόνια",
+     "pron": "ta makarónia",
+     "tr": "makarna",
+     "en": "pasta",
+     "forms": {
+      "sg": [
+       "το μακαρόνι",
+       "του μακαρονιού",
+       "το μακαρόνι",
+       "μακαρόνι"
+      ],
+      "pl": [
+       "τα μακαρόνια",
+       "των μακαρονιών",
+       "τα μακαρόνια",
+       "μακαρόνια"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-09",
+     "pic": "🍲",
+     "el": "η σούπα",
+     "pron": "i súpa",
+     "tr": "çorba",
+     "en": "soup",
+     "forms": {
+      "sg": [
+       "η σούπα",
+       "της σούπας",
+       "την σούπα",
+       "σούπα"
+      ],
+      "pl": [
+       "οι σούπες",
+       "των σουπών",
+       "τις σούπες",
+       "σούπες"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-10",
+     "pic": "🥗",
+     "el": "η σαλάτα",
+     "pron": "i saláta",
+     "tr": "salata",
+     "en": "salad",
+     "forms": {
+      "sg": [
+       "η σαλάτα",
+       "της σαλάτας",
+       "την σαλάτα",
+       "σαλάτα"
+      ],
+      "pl": [
+       "οι σαλάτες",
+       "των σαλατών",
+       "τις σαλάτες",
+       "σαλάτες"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-11",
+     "pic": "🧈",
+     "el": "το βούτυρο",
+     "pron": "to vútiro",
+     "tr": "tereyağı",
+     "en": "butter",
+     "forms": {
+      "sg": [
+       "το βούτυρο",
+       "του βουτύρου / του βούτυρου",
+       "το βούτυρο",
+       "βούτυρο"
+      ],
+      "pl": [
+       "τα βούτυρα",
+       "των βουτύρων / των βούτυρων",
+       "τα βούτυρα",
+       "βούτυρα"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-12",
+     "pic": "🍯",
+     "el": "το μέλι",
+     "pron": "to méli",
+     "tr": "bal",
+     "en": "honey",
+     "forms": {
+      "sg": [
+       "το μέλι",
+       "του μελιού",
+       "το μέλι",
+       "μέλι"
+      ],
+      "pl": [
+       "τα μέλια",
+       "—",
+       "τα μέλια",
+       "μέλια"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-13",
+     "pic": "",
+     "el": "η ζάχαρη",
+     "pron": "i záhari",
+     "tr": "şeker (toz)",
+     "en": "sugar",
+     "forms": {
+      "sg": [
+       "η ζάχαρη",
+       "της ζάχαρης",
+       "την ζάχαρη",
+       "ζάχαρη"
+      ],
+      "pl": [
+       "οι ζάχαρες",
+       "—",
+       "τις ζάχαρες",
+       "ζάχαρες"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-14",
+     "pic": "🧂",
+     "el": "το αλάτι",
+     "pron": "to aláti",
+     "tr": "tuz",
+     "en": "salt",
+     "forms": {
+      "sg": [
+       "το αλάτι",
+       "του αλατιού",
+       "το αλάτι",
+       "αλάτι"
+      ],
+      "pl": [
+       "τα αλάτια",
+       "των αλατιών",
+       "τα αλάτια",
+       "αλάτια"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-15",
+     "pic": "🍰",
+     "el": "το γλυκό",
+     "pron": "to ghlikó",
+     "tr": "tatlı",
+     "en": "dessert / sweet",
+     "forms": {
+      "sg": [
+       "το γλυκό",
+       "του γλυκού",
+       "το γλυκό",
+       "γλυκό"
+      ],
+      "pl": [
+       "τα γλυκά",
+       "των γλυκών",
+       "τα γλυκά",
+       "γλυκά"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-16",
+     "pic": "🍦",
+     "el": "το παγωτό",
+     "pron": "to paghotó",
+     "tr": "dondurma",
+     "en": "ice cream",
+     "forms": {
+      "sg": [
+       "το παγωτό",
+       "του παγωτού",
+       "το παγωτό",
+       "παγωτό"
+      ],
+      "pl": [
+       "τα παγωτά",
+       "των παγωτών",
+       "τα παγωτά",
+       "παγωτά"
+      ]
+     }
+    },
+    {
+     "id": "a1-food-17",
+     "pic": "🍕",
+     "el": "η πίτσα",
+     "pron": "i pítsa",
+     "tr": "pizza",
+     "en": "pizza",
+     "forms": {
+      "sg": [
+       "η πίτσα",
+       "της πίτσας",
+       "την πίτσα",
+       "πίτσα"
+      ],
+      "pl": [
+       "οι πίτσες",
+       "των πιτσών",
+       "τις πίτσες",
+       "πίτσες"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "fruit-veg",
+   "icon": "🍎",
+   "name": {
+    "el": "Φρούτα και λαχανικά",
+    "tr": "Meyve ve sebzeler",
+    "en": "Fruit & vegetables"
+   },
+   "words": [
+    {
+     "id": "a1-fruit-veg-01",
+     "pic": "🍎",
+     "el": "το μήλο",
+     "pron": "to mílo",
+     "tr": "elma",
+     "en": "apple",
+     "forms": {
+      "sg": [
+       "το μήλο",
+       "του μήλου",
+       "το μήλο",
+       "μήλο"
+      ],
+      "pl": [
+       "τα μήλα",
+       "των μήλων",
+       "τα μήλα",
+       "μήλα"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-02",
+     "pic": "🍌",
+     "el": "η μπανάνα",
+     "pron": "i banána",
+     "tr": "muz",
+     "en": "banana",
+     "forms": {
+      "sg": [
+       "η μπανάνα",
+       "της μπανάνας",
+       "την μπανάνα",
+       "μπανάνα"
+      ],
+      "pl": [
+       "οι μπανάνες",
+       "των μπανανών",
+       "τις μπανάνες",
+       "μπανάνες"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-03",
+     "pic": "🍊",
+     "el": "το πορτοκάλι",
+     "pron": "to portokáli",
+     "tr": "portakal",
+     "en": "orange (fruit)",
+     "forms": {
+      "sg": [
+       "το πορτοκάλι",
+       "του πορτοκαλιού",
+       "το πορτοκάλι",
+       "πορτοκάλι"
+      ],
+      "pl": [
+       "τα πορτοκάλια",
+       "των πορτοκαλιών",
+       "τα πορτοκάλια",
+       "πορτοκάλια"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-04",
+     "pic": "🍇",
+     "el": "το σταφύλι",
+     "pron": "to stafíli",
+     "tr": "üzüm",
+     "en": "grapes",
+     "forms": {
+      "sg": [
+       "το σταφύλι",
+       "του σταφυλιού",
+       "το σταφύλι",
+       "σταφύλι"
+      ],
+      "pl": [
+       "τα σταφύλια",
+       "των σταφυλιών",
+       "τα σταφύλια",
+       "σταφύλια"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-05",
+     "pic": "🍓",
+     "el": "η φράουλα",
+     "pron": "i fráula",
+     "tr": "çilek",
+     "en": "strawberry",
+     "forms": {
+      "sg": [
+       "η φράουλα",
+       "της φράουλας",
+       "την φράουλα",
+       "φράουλα"
+      ],
+      "pl": [
+       "οι φράουλες",
+       "των φραουλών",
+       "τις φράουλες",
+       "φράουλες"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-06",
+     "pic": "🍉",
+     "el": "το καρπούζι",
+     "pron": "to karpúzi",
+     "tr": "karpuz",
+     "en": "watermelon",
+     "forms": {
+      "sg": [
+       "το καρπούζι",
+       "του καρπουζιού",
+       "το καρπούζι",
+       "καρπούζι"
+      ],
+      "pl": [
+       "τα καρπούζια",
+       "των καρπουζιών",
+       "τα καρπούζια",
+       "καρπούζια"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-07",
+     "pic": "🍋",
+     "el": "το λεμόνι",
+     "pron": "to lemóni",
+     "tr": "limon",
+     "en": "lemon",
+     "forms": {
+      "sg": [
+       "το λεμόνι",
+       "του λεμονιού",
+       "το λεμόνι",
+       "λεμόνι"
+      ],
+      "pl": [
+       "τα λεμόνια",
+       "των λεμονιών",
+       "τα λεμόνια",
+       "λεμόνια"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-08",
+     "pic": "🍐",
+     "el": "το αχλάδι",
+     "pron": "to ahládhi",
+     "tr": "armut",
+     "en": "pear",
+     "forms": {
+      "sg": [
+       "το αχλάδι",
+       "του αχλαδιού",
+       "το αχλάδι",
+       "αχλάδι"
+      ],
+      "pl": [
+       "τα αχλάδια",
+       "των αχλαδιών",
+       "τα αχλάδια",
+       "αχλάδια"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-09",
+     "pic": "🍑",
+     "el": "το ροδάκινο",
+     "pron": "to rodhákino",
+     "tr": "şeftali",
+     "en": "peach",
+     "forms": {
+      "sg": [
+       "το ροδάκινο",
+       "του ροδάκινου",
+       "το ροδάκινο",
+       "ροδάκινο"
+      ],
+      "pl": [
+       "τα ροδάκινα",
+       "των ροδάκινων",
+       "τα ροδάκινα",
+       "ροδάκινα"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-10",
+     "pic": "🍒",
+     "el": "το κεράσι",
+     "pron": "to kerási",
+     "tr": "kiraz",
+     "en": "cherry",
+     "forms": {
+      "sg": [
+       "το κεράσι",
+       "του κερασιού",
+       "το κεράσι",
+       "κεράσι"
+      ],
+      "pl": [
+       "τα κεράσια",
+       "των κερασιών",
+       "τα κεράσια",
+       "κεράσια"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-11",
+     "pic": "🍅",
+     "el": "η ντομάτα",
+     "pron": "i domáta",
+     "tr": "domates",
+     "en": "tomato",
+     "forms": {
+      "sg": [
+       "η ντομάτα",
+       "της ντομάτας",
+       "την ντομάτα",
+       "ντομάτα"
+      ],
+      "pl": [
+       "οι ντομάτες",
+       "—",
+       "τις ντομάτες",
+       "ντομάτες"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-12",
+     "pic": "🥔",
+     "el": "η πατάτα",
+     "pron": "i patáta",
+     "tr": "patates",
+     "en": "potato",
+     "forms": {
+      "sg": [
+       "η πατάτα",
+       "της πατάτας",
+       "την πατάτα",
+       "πατάτα"
+      ],
+      "pl": [
+       "οι πατάτες",
+       "των πατατών",
+       "τις πατάτες",
+       "πατάτες"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-13",
+     "pic": "🥕",
+     "el": "το καρότο",
+     "pron": "to karóto",
+     "tr": "havuç",
+     "en": "carrot",
+     "forms": {
+      "sg": [
+       "το καρότο",
+       "του καρότου",
+       "το καρότο",
+       "καρότο"
+      ],
+      "pl": [
+       "τα καρότα",
+       "των καρότων",
+       "τα καρότα",
+       "καρότα"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-14",
+     "pic": "🥒",
+     "el": "το αγγούρι",
+     "pron": "to angúri",
+     "tr": "salatalık",
+     "en": "cucumber",
+     "forms": {
+      "sg": [
+       "το αγγούρι",
+       "του αγγουριού",
+       "το αγγούρι",
+       "αγγούρι"
+      ],
+      "pl": [
+       "τα αγγούρια",
+       "των αγγουριών",
+       "τα αγγούρια",
+       "αγγούρια"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-15",
+     "pic": "🧅",
+     "el": "το κρεμμύδι",
+     "pron": "to kremídhi",
+     "tr": "soğan",
+     "en": "onion",
+     "forms": {
+      "sg": [
+       "το κρεμμύδι",
+       "του κρεμμυδιού",
+       "το κρεμμύδι",
+       "κρεμμύδι"
+      ],
+      "pl": [
+       "τα κρεμμύδια",
+       "των κρεμμυδιών",
+       "τα κρεμμύδια",
+       "κρεμμύδια"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-16",
+     "pic": "🫒",
+     "el": "η ελιά",
+     "pron": "i eliá",
+     "tr": "zeytin",
+     "en": "olive",
+     "forms": {
+      "sg": [
+       "η ελιά",
+       "της ελιάς",
+       "την ελιά",
+       "ελιά"
+      ],
+      "pl": [
+       "οι ελιές",
+       "των ελιών",
+       "τις ελιές",
+       "ελιές"
+      ]
+     }
+    },
+    {
+     "id": "a1-fruit-veg-17",
+     "pic": "🍆",
+     "el": "η μελιτζάνη",
+     "pron": "i melitzáni",
+     "tr": "patlıcan",
+     "en": "aubergine",
+     "forms": {
+      "sg": [
+       "η μελιτζάνη",
+       "της μελιτζάνης",
+       "την μελιτζάνη",
+       "μελιτζάνη"
+      ],
+      "pl": [
+       "οι μελιτζάνες",
+       "των μελιτζανών",
+       "τις μελιτζάνες",
+       "μελιτζάνες"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "drinks",
+   "icon": "🥤",
+   "name": {
+    "el": "Ποτά",
+    "tr": "İçecekler",
+    "en": "Drinks"
+   },
+   "words": [
+    {
+     "id": "a1-drinks-01",
+     "pic": "💧",
+     "el": "το νερό",
+     "pron": "to neró",
+     "tr": "su",
+     "en": "water",
+     "forms": {
+      "sg": [
+       "το νερό",
+       "του νερού",
+       "το νερό",
+       "νερό"
+      ],
+      "pl": [
+       "τα νερά",
+       "των νερών",
+       "τα νερά",
+       "νερά"
+      ]
+     }
+    },
+    {
+     "id": "a1-drinks-02",
+     "pic": "☕",
+     "el": "ο καφές",
+     "pron": "o kafés",
+     "tr": "kahve",
+     "en": "coffee",
+     "forms": {
+      "sg": [
+       "ο καφές",
+       "του καφέ",
+       "τον καφέ",
+       "καφέ"
+      ],
+      "pl": [
+       "οι καφέδες",
+       "των καφέδων",
+       "τους καφέδες",
+       "καφέδες"
+      ]
+     }
+    },
+    {
+     "id": "a1-drinks-03",
+     "pic": "🍵",
+     "el": "το τσάι",
+     "pron": "to tsái",
+     "tr": "çay",
+     "en": "tea",
+     "forms": {
+      "sg": [
+       "το τσάι",
+       "του τσαγιού",
+       "το τσάι",
+       "τσάι"
+      ],
+      "pl": [
+       "τα τσάγια",
+       "των τσαγιών",
+       "τα τσάγια",
+       "τσάγια"
+      ]
+     }
+    },
+    {
+     "id": "a1-drinks-04",
+     "pic": "🥛",
+     "el": "το γάλα",
+     "pron": "to ghála",
+     "tr": "süt",
+     "en": "milk",
+     "forms": {
+      "sg": [
+       "το γάλα",
+       "του γάλακτος",
+       "το γάλα",
+       "γάλα"
+      ],
+      "pl": [
+       "τα γάλατα",
+       "των γαλάτων",
+       "τα γάλατα",
+       "γάλατα"
+      ]
+     }
+    },
+    {
+     "id": "a1-drinks-05",
+     "pic": "🧃",
+     "el": "ο χυμός",
+     "pron": "o himós",
+     "tr": "meyve suyu",
+     "en": "juice",
+     "forms": {
+      "sg": [
+       "ο χυμός",
+       "του χυμού",
+       "τον χυμό",
+       "χυμέ"
+      ],
+      "pl": [
+       "οι χυμοί",
+       "των χυμών",
+       "τους χυμούς",
+       "χυμοί"
+      ]
+     }
+    },
+    {
+     "id": "a1-drinks-06",
+     "pic": "🍷",
+     "el": "το κρασί",
+     "pron": "to krasí",
+     "tr": "şarap",
+     "en": "wine",
+     "forms": {
+      "sg": [
+       "το κρασί",
+       "του κρασιού",
+       "το κρασί",
+       "κρασί"
+      ],
+      "pl": [
+       "τα κρασιά",
+       "των κρασιών",
+       "τα κρασιά",
+       "κρασιά"
+      ]
+     }
+    },
+    {
+     "id": "a1-drinks-07",
+     "pic": "🍺",
+     "el": "η μπίρα",
+     "pron": "i bíra",
+     "tr": "bira",
+     "en": "beer",
+     "forms": {
+      "sg": [
+       "η μπίρα",
+       "της μπίρας",
+       "την μπίρα",
+       "μπίρα"
+      ],
+      "pl": [
+       "οι μπίρες",
+       "των μπιρών",
+       "τις μπίρες",
+       "μπίρες"
+      ]
+     }
+    },
+    {
+     "id": "a1-drinks-08",
+     "pic": "",
+     "el": "η λεμονάδα",
+     "pron": "i lemonádha",
+     "tr": "limonata",
+     "en": "lemonade",
+     "forms": {
+      "sg": [
+       "η λεμονάδα",
+       "της λεμονάδας",
+       "την λεμονάδα",
+       "λεμονάδα"
+      ],
+      "pl": [
+       "οι λεμονάδες",
+       "των λεμονάδων",
+       "τις λεμονάδες",
+       "λεμονάδες"
+      ]
+     }
+    },
+    {
+     "id": "a1-drinks-09",
+     "pic": "",
+     "el": "η πορτοκαλάδα",
+     "pron": "i portokaládha",
+     "tr": "portakallı gazoz",
+     "en": "orangeade",
+     "forms": {
+      "sg": [
+       "η πορτοκαλάδα",
+       "της πορτοκαλάδας",
+       "την πορτοκαλάδα",
+       "πορτοκαλάδα"
+      ],
+      "pl": [
+       "οι πορτοκαλάδες",
+       "των πορτοκαλάδων",
+       "τις πορτοκαλάδες",
+       "πορτοκαλάδες"
+      ]
+     }
+    },
+    {
+     "id": "a1-drinks-10",
+     "pic": "",
+     "el": "το ούζο",
+     "pron": "to úzo",
+     "tr": "uzo",
+     "en": "ouzo",
+     "forms": {
+      "sg": [
+       "το ούζο",
+       "του ούζου",
+       "το ούζο",
+       "ούζο"
+      ],
+      "pl": [
+       "τα ούζα",
+       "των ούζων",
+       "τα ούζα",
+       "ούζα"
+      ]
+     }
+    },
+    {
+     "id": "a1-drinks-11",
+     "pic": "🥃",
+     "el": "το ποτήρι",
+     "pron": "to potíri",
+     "tr": "bardak",
+     "en": "glass",
+     "forms": {
+      "sg": [
+       "το ποτήρι",
+       "του ποτηριού",
+       "το ποτήρι",
+       "ποτήρι"
+      ],
+      "pl": [
+       "τα ποτήρια",
+       "των ποτηριών",
+       "τα ποτήρια",
+       "ποτήρια"
+      ]
+     }
+    },
+    {
+     "id": "a1-drinks-12",
+     "pic": "",
+     "el": "το μπουκάλι",
+     "pron": "to bukáli",
+     "tr": "şişe",
+     "en": "bottle",
+     "forms": {
+      "sg": [
+       "το μπουκάλι",
+       "του μπουκαλιού",
+       "το μπουκάλι",
+       "μπουκάλι"
+      ],
+      "pl": [
+       "τα μπουκάλια",
+       "των μπουκαλιών",
+       "τα μπουκάλια",
+       "μπουκάλια"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "animals",
+   "icon": "🐾",
+   "name": {
+    "el": "Ζώα",
+    "tr": "Hayvanlar",
+    "en": "Animals"
+   },
+   "words": [
+    {
+     "id": "a1-animals-01",
+     "pic": "🐕",
+     "el": "ο σκύλος",
+     "pron": "o skílos",
+     "tr": "köpek",
+     "en": "dog",
+     "forms": {
+      "sg": [
+       "ο σκύλος",
+       "του σκύλου",
+       "τον σκύλο",
+       "σκύλε"
+      ],
+      "pl": [
+       "οι σκύλοι",
+       "των σκύλων",
+       "τους σκύλους",
+       "σκύλοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-02",
+     "pic": "🐈",
+     "el": "η γάτα",
+     "pron": "i gháta",
+     "tr": "kedi",
+     "en": "cat",
+     "forms": {
+      "sg": [
+       "η γάτα",
+       "της γάτας",
+       "την γάτα",
+       "γάτα"
+      ],
+      "pl": [
+       "οι γάτες",
+       "των γατών",
+       "τις γάτες",
+       "γάτες"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-03",
+     "pic": "🐎",
+     "el": "το άλογο",
+     "pron": "to álogho",
+     "tr": "at",
+     "en": "horse",
+     "forms": {
+      "sg": [
+       "το άλογο",
+       "του αλόγου",
+       "το άλογο",
+       "άλογο"
+      ],
+      "pl": [
+       "τα άλογα",
+       "των αλόγων",
+       "τα άλογα",
+       "άλογα"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-04",
+     "pic": "🐄",
+     "el": "η αγελάδα",
+     "pron": "i ayeládha",
+     "tr": "inek",
+     "en": "cow",
+     "forms": {
+      "sg": [
+       "η αγελάδα",
+       "της αγελάδας",
+       "την αγελάδα",
+       "αγελάδα"
+      ],
+      "pl": [
+       "οι αγελάδες",
+       "των αγελάδων",
+       "τις αγελάδες",
+       "αγελάδες"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-05",
+     "pic": "🐑",
+     "el": "το πρόβατο",
+     "pron": "to próvato",
+     "tr": "koyun",
+     "en": "sheep",
+     "forms": {
+      "sg": [
+       "το πρόβατο",
+       "του προβάτου",
+       "το πρόβατο",
+       "πρόβατο"
+      ],
+      "pl": [
+       "τα πρόβατα",
+       "των προβάτων",
+       "τα πρόβατα",
+       "πρόβατα"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-06",
+     "pic": "🐐",
+     "el": "η κατσίκα",
+     "pron": "i katsíka",
+     "tr": "keçi",
+     "en": "goat",
+     "forms": {
+      "sg": [
+       "η κατσίκα",
+       "της κατσίκας",
+       "την κατσίκα",
+       "κατσίκα"
+      ],
+      "pl": [
+       "οι κατσίκες",
+       "των κατσικών",
+       "τις κατσίκες",
+       "κατσίκες"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-07",
+     "pic": "🐖",
+     "el": "το γουρούνι",
+     "pron": "to ghurúni",
+     "tr": "domuz",
+     "en": "pig",
+     "forms": {
+      "sg": [
+       "το γουρούνι",
+       "του γουρουνιού",
+       "το γουρούνι",
+       "γουρούνι"
+      ],
+      "pl": [
+       "τα γουρούνια",
+       "των γουρουνιών",
+       "τα γουρούνια",
+       "γουρούνια"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-08",
+     "pic": "🐔",
+     "el": "η κότα",
+     "pron": "i kóta",
+     "tr": "tavuk",
+     "en": "hen",
+     "forms": {
+      "sg": [
+       "η κότα",
+       "της κότας",
+       "την κότα",
+       "κότα"
+      ],
+      "pl": [
+       "οι κότες",
+       "—",
+       "τις κότες",
+       "κότες"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-09",
+     "pic": "🐦",
+     "el": "το πουλί",
+     "pron": "to pulí",
+     "tr": "kuş",
+     "en": "bird",
+     "forms": {
+      "sg": [
+       "το πουλί",
+       "του πουλιού",
+       "το πουλί",
+       "πουλί"
+      ],
+      "pl": [
+       "τα πουλιά",
+       "των πουλιών",
+       "τα πουλιά",
+       "πουλιά"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-10",
+     "pic": "🫏",
+     "el": "ο γάιδαρος",
+     "pron": "o gháidharos",
+     "tr": "eşek",
+     "en": "donkey",
+     "forms": {
+      "sg": [
+       "ο γάιδαρος",
+       "του γαϊδάρου",
+       "τον γάιδαρο",
+       "γάιδαρε"
+      ],
+      "pl": [
+       "οι γάιδαροι",
+       "των γαϊδάρων",
+       "τους γαϊδάρους",
+       "γάιδαροι"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-11",
+     "pic": "🐭",
+     "el": "το ποντίκι",
+     "pron": "to pondíki",
+     "tr": "fare",
+     "en": "mouse",
+     "forms": {
+      "sg": [
+       "το ποντίκι",
+       "του ποντικιού",
+       "το ποντίκι",
+       "ποντίκι"
+      ],
+      "pl": [
+       "τα ποντίκια",
+       "των ποντικιών",
+       "τα ποντίκια",
+       "ποντίκια"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-12",
+     "pic": "🐻",
+     "el": "η αρκούδα",
+     "pron": "i arkúdha",
+     "tr": "ayı",
+     "en": "bear",
+     "forms": {
+      "sg": [
+       "η αρκούδα",
+       "της αρκούδας",
+       "την αρκούδα",
+       "αρκούδα"
+      ],
+      "pl": [
+       "οι αρκούδες",
+       "των αρκούδων",
+       "τις αρκούδες",
+       "αρκούδες"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-13",
+     "pic": "🦁",
+     "el": "το λιοντάρι",
+     "pron": "to liondári",
+     "tr": "aslan",
+     "en": "lion",
+     "forms": {
+      "sg": [
+       "το λιοντάρι",
+       "του λιονταριού",
+       "το λιοντάρι",
+       "λιοντάρι"
+      ],
+      "pl": [
+       "τα λιοντάρια",
+       "των λιονταριών",
+       "τα λιοντάρια",
+       "λιοντάρια"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-14",
+     "pic": "🐘",
+     "el": "ο ελέφαντας",
+     "pron": "o eléfandas",
+     "tr": "fil",
+     "en": "elephant",
+     "forms": {
+      "sg": [
+       "ο ελέφαντας",
+       "του ελέφαντα",
+       "τον ελέφαντα",
+       "ελέφαντα"
+      ],
+      "pl": [
+       "οι ελέφαντες",
+       "των ελεφαντών",
+       "τους ελέφαντες",
+       "ελέφαντες"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-15",
+     "pic": "🐒",
+     "el": "η μαϊμού",
+     "pron": "i maimú",
+     "tr": "maymun",
+     "en": "monkey",
+     "forms": {
+      "sg": [
+       "η μαϊμού",
+       "της μαϊμούς",
+       "την μαϊμού",
+       "μαϊμού"
+      ],
+      "pl": [
+       "οι μαϊμούδες",
+       "των μαϊμούδων",
+       "τις μαϊμούδες",
+       "μαϊμούδες"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-16",
+     "pic": "🐍",
+     "el": "το φίδι",
+     "pron": "to fídhi",
+     "tr": "yılan",
+     "en": "snake",
+     "forms": {
+      "sg": [
+       "το φίδι",
+       "του φιδιού",
+       "το φίδι",
+       "φίδι"
+      ],
+      "pl": [
+       "τα φίδια",
+       "των φιδιών",
+       "τα φίδια",
+       "φίδια"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-17",
+     "pic": "🦋",
+     "el": "η πεταλούδα",
+     "pron": "i petalúdha",
+     "tr": "kelebek",
+     "en": "butterfly",
+     "forms": {
+      "sg": [
+       "η πεταλούδα",
+       "της πεταλούδας",
+       "την πεταλούδα",
+       "πεταλούδα"
+      ],
+      "pl": [
+       "οι πεταλούδες",
+       "των πεταλούδων",
+       "τις πεταλούδες",
+       "πεταλούδες"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-18",
+     "pic": "🐝",
+     "el": "η μέλισσα",
+     "pron": "i mélisa",
+     "tr": "arı",
+     "en": "bee",
+     "forms": {
+      "sg": [
+       "η μέλισσα",
+       "της μέλισσας",
+       "την μέλισσα",
+       "μέλισσα"
+      ],
+      "pl": [
+       "οι μέλισσες",
+       "των μελισσών",
+       "τις μέλισσες",
+       "μέλισσες"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-19",
+     "pic": "🐢",
+     "el": "η χελώνα",
+     "pron": "i helóna",
+     "tr": "kaplumbağa",
+     "en": "turtle / tortoise",
+     "forms": {
+      "sg": [
+       "η χελώνα",
+       "της χελώνας",
+       "την χελώνα",
+       "χελώνα"
+      ],
+      "pl": [
+       "οι χελώνες",
+       "των χελωνών",
+       "τις χελώνες",
+       "χελώνες"
+      ]
+     }
+    },
+    {
+     "id": "a1-animals-20",
+     "pic": "🐇",
+     "el": "το κουνέλι",
+     "pron": "to kunéli",
+     "tr": "tavşan",
+     "en": "rabbit",
+     "forms": {
+      "sg": [
+       "το κουνέλι",
+       "του κουνελιού",
+       "το κουνέλι",
+       "κουνέλι"
+      ],
+      "pl": [
+       "τα κουνέλια",
+       "των κουνελιών",
+       "τα κουνέλια",
+       "κουνέλια"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "home",
+   "icon": "🏠",
+   "name": {
+    "el": "Σπίτι και έπιπλα",
+    "tr": "Ev ve eşyalar",
+    "en": "Home & furniture"
+   },
+   "words": [
+    {
+     "id": "a1-home-01",
+     "pic": "🏠",
+     "el": "το σπίτι",
+     "pron": "to spíti",
+     "tr": "ev",
+     "en": "house / home",
+     "forms": {
+      "sg": [
+       "το σπίτι",
+       "του σπιτιού",
+       "το σπίτι",
+       "σπίτι"
+      ],
+      "pl": [
+       "τα σπίτια",
+       "των σπιτιών",
+       "τα σπίτια",
+       "σπίτια"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-02",
+     "pic": "🏢",
+     "el": "το διαμέρισμα",
+     "pron": "to dhiamérisma",
+     "tr": "daire",
+     "en": "flat / apartment",
+     "forms": {
+      "sg": [
+       "το διαμέρισμα",
+       "του διαμερίσματος",
+       "το διαμέρισμα",
+       "διαμέρισμα"
+      ],
+      "pl": [
+       "τα διαμερίσματα",
+       "των διαμερισμάτων",
+       "τα διαμερίσματα",
+       "διαμερίσματα"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-03",
+     "pic": "🚪",
+     "el": "η πόρτα",
+     "pron": "i pórta",
+     "tr": "kapı",
+     "en": "door",
+     "forms": {
+      "sg": [
+       "η πόρτα",
+       "της πόρτας",
+       "την πόρτα",
+       "πόρτα"
+      ],
+      "pl": [
+       "οι πόρτες",
+       "των πορτών",
+       "τις πόρτες",
+       "πόρτες"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-04",
+     "pic": "🪟",
+     "el": "το παράθυρο",
+     "pron": "to paráthiro",
+     "tr": "pencere",
+     "en": "window",
+     "forms": {
+      "sg": [
+       "το παράθυρο",
+       "του παραθύρου",
+       "το παράθυρο",
+       "παράθυρο"
+      ],
+      "pl": [
+       "τα παράθυρα",
+       "των παραθύρων",
+       "τα παράθυρα",
+       "παράθυρα"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-05",
+     "pic": "",
+     "el": "το δωμάτιο",
+     "pron": "to dhomátio",
+     "tr": "oda",
+     "en": "room",
+     "forms": {
+      "sg": [
+       "το δωμάτιο",
+       "του δωματίου",
+       "το δωμάτιο",
+       "δωμάτιο"
+      ],
+      "pl": [
+       "τα δωμάτια",
+       "των δωματίων",
+       "τα δωμάτια",
+       "δωμάτια"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-06",
+     "pic": "",
+     "el": "η κουζίνα",
+     "pron": "i kuzína",
+     "tr": "mutfak",
+     "en": "kitchen",
+     "forms": {
+      "sg": [
+       "η κουζίνα",
+       "της κουζίνας",
+       "την κουζίνα",
+       "κουζίνα"
+      ],
+      "pl": [
+       "οι κουζίνες",
+       "των κουζινών",
+       "τις κουζίνες",
+       "κουζίνες"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-07",
+     "pic": "🛁",
+     "el": "το μπάνιο",
+     "pron": "to bánio",
+     "tr": "banyo",
+     "en": "bathroom",
+     "forms": {
+      "sg": [
+       "το μπάνιο",
+       "του μπάνιου",
+       "το μπάνιο",
+       "μπάνιο"
+      ],
+      "pl": [
+       "τα μπάνια",
+       "των μπάνιων",
+       "τα μπάνια",
+       "μπάνια"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-08",
+     "pic": "",
+     "el": "η κρεβατοκάμαρα",
+     "pron": "i krevatokámara",
+     "tr": "yatak odası",
+     "en": "bedroom",
+     "forms": {
+      "sg": [
+       "η κρεβατοκάμαρα",
+       "της κρεβατοκάμαρας",
+       "την κρεβατοκάμαρα",
+       "κρεβατοκάμαρα"
+      ],
+      "pl": [
+       "οι κρεβατοκάμαρες",
+       "των κρεβατοκαμαρών",
+       "τις κρεβατοκάμαρες",
+       "κρεβατοκάμαρες"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-09",
+     "pic": "🛏️",
+     "el": "το κρεβάτι",
+     "pron": "to kreváti",
+     "tr": "yatak",
+     "en": "bed",
+     "forms": {
+      "sg": [
+       "το κρεβάτι",
+       "του κρεβατιού",
+       "το κρεβάτι",
+       "κρεβάτι"
+      ],
+      "pl": [
+       "τα κρεβάτια",
+       "των κρεβατιών",
+       "τα κρεβάτια",
+       "κρεβάτια"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-10",
+     "pic": "",
+     "el": "το τραπέζι",
+     "pron": "to trapézi",
+     "tr": "masa",
+     "en": "table",
+     "forms": {
+      "sg": [
+       "το τραπέζι",
+       "του τραπεζιού",
+       "το τραπέζι",
+       "τραπέζι"
+      ],
+      "pl": [
+       "τα τραπέζια",
+       "των τραπεζιών",
+       "τα τραπέζια",
+       "τραπέζια"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-11",
+     "pic": "🪑",
+     "el": "η καρέκλα",
+     "pron": "i karékla",
+     "tr": "sandalye",
+     "en": "chair",
+     "forms": {
+      "sg": [
+       "η καρέκλα",
+       "της καρέκλας",
+       "την καρέκλα",
+       "καρέκλα"
+      ],
+      "pl": [
+       "οι καρέκλες",
+       "των καρεκλών",
+       "τις καρέκλες",
+       "καρέκλες"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-12",
+     "pic": "🛋️",
+     "el": "ο καναπές",
+     "pron": "o kanapés",
+     "tr": "kanepe",
+     "en": "sofa",
+     "forms": {
+      "sg": [
+       "ο καναπές",
+       "του καναπέ",
+       "τον καναπέ",
+       "καναπέ"
+      ],
+      "pl": [
+       "οι καναπέδες",
+       "των καναπέδων",
+       "τους καναπέδες",
+       "καναπέδες"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-13",
+     "pic": "",
+     "el": "η ντουλάπα",
+     "pron": "i dulápa",
+     "tr": "gardırop / dolap",
+     "en": "wardrobe",
+     "forms": {
+      "sg": [
+       "η ντουλάπα",
+       "της ντουλάπας",
+       "την ντουλάπα",
+       "ντουλάπα"
+      ],
+      "pl": [
+       "οι ντουλάπες",
+       "των ντουλαπών",
+       "τις ντουλάπες",
+       "ντουλάπες"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-14",
+     "pic": "",
+     "el": "το ψυγείο",
+     "pron": "to psiyío",
+     "tr": "buzdolabı",
+     "en": "fridge",
+     "forms": {
+      "sg": [
+       "το ψυγείο",
+       "του ψυγείου",
+       "το ψυγείο",
+       "ψυγείο"
+      ],
+      "pl": [
+       "τα ψυγεία",
+       "των ψυγείων",
+       "τα ψυγεία",
+       "ψυγεία"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-15",
+     "pic": "💡",
+     "el": "η λάμπα",
+     "pron": "i lámba",
+     "tr": "lamba",
+     "en": "lamp",
+     "forms": {
+      "sg": [
+       "η λάμπα",
+       "της λάμπας",
+       "την λάμπα",
+       "λάμπα"
+      ],
+      "pl": [
+       "οι λάμπες",
+       "των λαμπών",
+       "τις λάμπες",
+       "λάμπες"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-16",
+     "pic": "🔑",
+     "el": "το κλειδί",
+     "pron": "to klidhí",
+     "tr": "anahtar",
+     "en": "key",
+     "forms": {
+      "sg": [
+       "το κλειδί",
+       "του κλειδιού",
+       "το κλειδί",
+       "κλειδί"
+      ],
+      "pl": [
+       "τα κλειδιά",
+       "των κλειδιών",
+       "τα κλειδιά",
+       "κλειδιά"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-17",
+     "pic": "🪞",
+     "el": "ο καθρέφτης",
+     "pron": "o kathréftis",
+     "tr": "ayna",
+     "en": "mirror",
+     "forms": {
+      "sg": [
+       "ο καθρέφτης",
+       "του καθρέφτη",
+       "τον καθρέφτη",
+       "καθρέφτη"
+      ],
+      "pl": [
+       "οι καθρέφτες",
+       "των καθρεφτών",
+       "τους καθρέφτες",
+       "καθρέφτες"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-18",
+     "pic": "📺",
+     "el": "η τηλεόραση",
+     "pron": "i tileórasi",
+     "tr": "televizyon",
+     "en": "television",
+     "forms": {
+      "sg": [
+       "η τηλεόραση",
+       "της τηλεόρασης",
+       "την τηλεόραση",
+       "τηλεόραση"
+      ],
+      "pl": [
+       "οι τηλεοράσεις",
+       "των τηλεοράσεων",
+       "τις τηλεοράσεις",
+       "τηλεοράσεις"
+      ]
+     }
+    },
+    {
+     "id": "a1-home-19",
+     "pic": "",
+     "el": "ο κήπος",
+     "pron": "o kípos",
+     "tr": "bahçe",
+     "en": "garden",
+     "forms": {
+      "sg": [
+       "ο κήπος",
+       "του κήπου",
+       "τον κήπο",
+       "κήπε"
+      ],
+      "pl": [
+       "οι κήποι",
+       "των κήπων",
+       "τους κήπους",
+       "κήποι"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "clothes",
+   "icon": "👕",
+   "name": {
+    "el": "Ρούχα",
+    "tr": "Giysiler",
+    "en": "Clothes"
+   },
+   "words": [
+    {
+     "id": "a1-clothes-01",
+     "pic": "",
+     "el": "τα ρούχα",
+     "pron": "ta rúha",
+     "tr": "giysiler",
+     "en": "clothes",
+     "forms": {
+      "sg": [
+       "το ρούχο",
+       "του ρούχου",
+       "το ρούχο",
+       "ρούχο"
+      ],
+      "pl": [
+       "τα ρούχα",
+       "των ρούχων",
+       "τα ρούχα",
+       "ρούχα"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-02",
+     "pic": "👔",
+     "el": "το πουκάμισο",
+     "pron": "to pukámiso",
+     "tr": "gömlek",
+     "en": "shirt",
+     "forms": {
+      "sg": [
+       "το πουκάμισο",
+       "του πουκαμίσου",
+       "το πουκάμισο",
+       "πουκάμισο"
+      ],
+      "pl": [
+       "τα πουκάμισα",
+       "των πουκαμίσων",
+       "τα πουκάμισα",
+       "πουκάμισα"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-03",
+     "pic": "👕",
+     "el": "το μπλουζάκι",
+     "pron": "to bluzáki",
+     "tr": "tişört",
+     "en": "T-shirt",
+     "forms": {
+      "sg": [
+       "το μπλουζάκι",
+       "του μπλουζακιού",
+       "το μπλουζάκι",
+       "μπλουζάκι"
+      ],
+      "pl": [
+       "τα μπλουζάκια",
+       "των μπλουζακιών",
+       "τα μπλουζάκια",
+       "μπλουζάκια"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-04",
+     "pic": "👖",
+     "el": "το παντελόνι",
+     "pron": "to pandelóni",
+     "tr": "pantolon",
+     "en": "trousers",
+     "forms": {
+      "sg": [
+       "το παντελόνι",
+       "του παντελονιού",
+       "το παντελόνι",
+       "παντελόνι"
+      ],
+      "pl": [
+       "τα παντελόνια",
+       "των παντελονιών",
+       "τα παντελόνια",
+       "παντελόνια"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-05",
+     "pic": "",
+     "el": "η φούστα",
+     "pron": "i fústa",
+     "tr": "etek",
+     "en": "skirt",
+     "forms": {
+      "sg": [
+       "η φούστα",
+       "της φούστας",
+       "την φούστα",
+       "φούστα"
+      ],
+      "pl": [
+       "οι φούστες",
+       "των φουστών",
+       "τις φούστες",
+       "φούστες"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-06",
+     "pic": "👗",
+     "el": "το φόρεμα",
+     "pron": "to fórema",
+     "tr": "elbise",
+     "en": "dress",
+     "forms": {
+      "sg": [
+       "το φόρεμα",
+       "του φορέματος",
+       "το φόρεμα",
+       "φόρεμα"
+      ],
+      "pl": [
+       "τα φορέματα",
+       "των φορεμάτων",
+       "τα φορέματα",
+       "φορέματα"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-07",
+     "pic": "🧥",
+     "el": "το παλτό",
+     "pron": "to paltó",
+     "tr": "palto",
+     "en": "coat",
+     "forms": {
+      "sg": [
+       "το παλτό",
+       "του παλτού",
+       "το παλτό",
+       "παλτό"
+      ],
+      "pl": [
+       "τα παλτά",
+       "των παλτών",
+       "τα παλτά",
+       "παλτά"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-08",
+     "pic": "",
+     "el": "το μπουφάν",
+     "pron": "to bufán",
+     "tr": "mont",
+     "en": "jacket",
+     "forms": {
+      "sg": [
+       "το μπουφάν",
+       "του μπουφάν",
+       "το μπουφάν",
+       "μπουφάν"
+      ],
+      "pl": [
+       "τα μπουφάν",
+       "των μπουφάν",
+       "τα μπουφάν",
+       "μπουφάν"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-09",
+     "pic": "👞",
+     "el": "τα παπούτσια",
+     "pron": "ta papútsia",
+     "tr": "ayakkabılar",
+     "en": "shoes",
+     "forms": {
+      "sg": [
+       "το παπούτσι",
+       "του παπουτσιού",
+       "το παπούτσι",
+       "παπούτσι"
+      ],
+      "pl": [
+       "τα παπούτσια",
+       "των παπουτσιών",
+       "τα παπούτσια",
+       "παπούτσια"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-10",
+     "pic": "🧦",
+     "el": "οι κάλτσες",
+     "pron": "i káltses",
+     "tr": "çoraplar",
+     "en": "socks",
+     "forms": {
+      "sg": [
+       "η κάλτσα",
+       "της κάλτσας",
+       "την κάλτσα",
+       "κάλτσα"
+      ],
+      "pl": [
+       "οι κάλτσες",
+       "των καλτσών",
+       "τις κάλτσες",
+       "κάλτσες"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-11",
+     "pic": "👒",
+     "el": "το καπέλο",
+     "pron": "to kapélo",
+     "tr": "şapka",
+     "en": "hat",
+     "forms": {
+      "sg": [
+       "το καπέλο",
+       "του καπέλου",
+       "το καπέλο",
+       "καπέλο"
+      ],
+      "pl": [
+       "τα καπέλα",
+       "των καπέλων",
+       "τα καπέλα",
+       "καπέλα"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-12",
+     "pic": "🧣",
+     "el": "το κασκόλ",
+     "pron": "to kaskól",
+     "tr": "atkı",
+     "en": "scarf",
+     "forms": {
+      "sg": [
+       "το κασκόλ",
+       "του κασκόλ",
+       "το κασκόλ",
+       "κασκόλ"
+      ],
+      "pl": [
+       "τα κασκόλ",
+       "των κασκόλ",
+       "τα κασκόλ",
+       "κασκόλ"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-13",
+     "pic": "🧤",
+     "el": "τα γάντια",
+     "pron": "ta ghándia",
+     "tr": "eldivenler",
+     "en": "gloves",
+     "forms": {
+      "sg": [
+       "το γάντι",
+       "του γαντιού",
+       "το γάντι",
+       "γάντι"
+      ],
+      "pl": [
+       "τα γάντια",
+       "των γαντιών",
+       "τα γάντια",
+       "γάντια"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-14",
+     "pic": "👜",
+     "el": "η τσάντα",
+     "pron": "i tsánda",
+     "tr": "çanta",
+     "en": "bag",
+     "forms": {
+      "sg": [
+       "η τσάντα",
+       "της τσάντας",
+       "την τσάντα",
+       "τσάντα"
+      ],
+      "pl": [
+       "οι τσάντες",
+       "των τσαντών",
+       "τις τσάντες",
+       "τσάντες"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-15",
+     "pic": "👓",
+     "el": "τα γυαλιά",
+     "pron": "ta yaliá",
+     "tr": "gözlük",
+     "en": "glasses",
+     "forms": {
+      "sg": [
+       "—",
+       "—",
+       "—",
+       "—"
+      ],
+      "pl": [
+       "τα γυαλιά",
+       "των γυαλιών",
+       "τα γυαλιά",
+       "γυαλιά"
+      ]
+     }
+    },
+    {
+     "id": "a1-clothes-16",
+     "pic": "",
+     "el": "η ζώνη",
+     "pron": "i zóni",
+     "tr": "kemer",
+     "en": "belt",
+     "forms": {
+      "sg": [
+       "η ζώνη",
+       "της ζώνης",
+       "την ζώνη",
+       "ζώνη"
+      ],
+      "pl": [
+       "οι ζώνες",
+       "των ζωνών",
+       "τις ζώνες",
+       "ζώνες"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "weather-seasons",
+   "icon": "🌤️",
+   "name": {
+    "el": "Καιρός και εποχές",
+    "tr": "Hava ve mevsimler",
+    "en": "Weather & seasons"
+   },
+   "words": [
+    {
+     "id": "a1-weather-seasons-01",
+     "pic": "",
+     "el": "ο καιρός",
+     "pron": "o kerós",
+     "tr": "hava (durumu)",
+     "en": "weather",
+     "forms": {
+      "sg": [
+       "ο καιρός",
+       "του καιρού",
+       "τον καιρό",
+       "καιρέ"
+      ],
+      "pl": [
+       "οι καιροί",
+       "των καιρών",
+       "τους καιρούς",
+       "καιροί"
+      ]
+     }
+    },
+    {
+     "id": "a1-weather-seasons-02",
+     "pic": "☀️",
+     "el": "ο ήλιος",
+     "pron": "o ílios",
+     "tr": "güneş",
+     "en": "sun",
+     "forms": {
+      "sg": [
+       "ο ήλιος",
+       "του ήλιου / του ηλίου",
+       "τον ήλιο",
+       "ήλιε"
+      ],
+      "pl": [
+       "οι ήλιοι",
+       "των ήλιων / των ηλίων",
+       "τους ήλιους / τους ηλίους",
+       "ήλιοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-weather-seasons-03",
+     "pic": "🌧️",
+     "el": "η βροχή",
+     "pron": "i vrohí",
+     "tr": "yağmur",
+     "en": "rain",
+     "forms": {
+      "sg": [
+       "η βροχή",
+       "της βροχής",
+       "την βροχή",
+       "βροχή"
+      ],
+      "pl": [
+       "οι βροχές",
+       "των βροχών",
+       "τις βροχές",
+       "βροχές"
+      ]
+     }
+    },
+    {
+     "id": "a1-weather-seasons-04",
+     "pic": "❄️",
+     "el": "το χιόνι",
+     "pron": "to hióni",
+     "tr": "kar",
+     "en": "snow",
+     "forms": {
+      "sg": [
+       "το χιόνι",
+       "του χιονιού",
+       "το χιόνι",
+       "χιόνι"
+      ],
+      "pl": [
+       "τα χιόνια",
+       "των χιονιών",
+       "τα χιόνια",
+       "χιόνια"
+      ]
+     }
+    },
+    {
+     "id": "a1-weather-seasons-05",
+     "pic": "🌬️",
+     "el": "ο αέρας",
+     "pron": "o aéras",
+     "tr": "rüzgâr / hava",
+     "en": "wind / air",
+     "forms": {
+      "sg": [
+       "ο αέρας",
+       "του αέρα",
+       "τον αέρα",
+       "αέρα"
+      ],
+      "pl": [
+       "οι αέρηδες / οι αέρες",
+       "των αέρηδων / των αέρων",
+       "τους αέρηδες / τους αέρες",
+       "αέρηδες / αέρες"
+      ]
+     }
+    },
+    {
+     "id": "a1-weather-seasons-06",
+     "pic": "☁️",
+     "el": "το σύννεφο",
+     "pron": "to sínefo",
+     "tr": "bulut",
+     "en": "cloud",
+     "forms": {
+      "sg": [
+       "το σύννεφο",
+       "του σύννεφου",
+       "το σύννεφο",
+       "σύννεφο"
+      ],
+      "pl": [
+       "τα σύννεφα",
+       "των σύννεφων",
+       "τα σύννεφα",
+       "σύννεφα"
+      ]
+     }
+    },
+    {
+     "id": "a1-weather-seasons-07",
+     "pic": "⛈️",
+     "el": "η καταιγίδα",
+     "pron": "i kateyídha",
+     "tr": "fırtına",
+     "en": "storm",
+     "forms": {
+      "sg": [
+       "η καταιγίδα",
+       "της καταιγίδας",
+       "την καταιγίδα",
+       "καταιγίδα"
+      ],
+      "pl": [
+       "οι καταιγίδες",
+       "των καταιγίδων",
+       "τις καταιγίδες",
+       "καταιγίδες"
+      ]
+     }
+    },
+    {
+     "id": "a1-weather-seasons-08",
+     "pic": "🌈",
+     "el": "το ουράνιο τόξο",
+     "pron": "to uránio tóxo",
+     "tr": "gökkuşağı",
+     "en": "rainbow",
+     "forms": {
+      "sg": [
+       "το ουράνιο τόξο",
+       "του ουράνιου τόξου",
+       "το ουράνιο τόξο",
+       "ουράνιο τόξο"
+      ],
+      "pl": [
+       "τα ουράνια τόξα",
+       "των ουράνιων τόξων",
+       "τα ουράνια τόξα",
+       "ουράνια τόξα"
+      ]
+     }
+    },
+    {
+     "id": "a1-weather-seasons-09",
+     "pic": "🥵",
+     "el": "η ζέστη",
+     "pron": "i zésti",
+     "tr": "sıcak (hava)",
+     "en": "heat / hot weather",
+     "forms": {
+      "sg": [
+       "η ζέστη",
+       "της ζέστης",
+       "την ζέστη",
+       "ζέστη"
+      ],
+      "pl": [
+       "οι ζέστες",
+       "—",
+       "τις ζέστες",
+       "ζέστες"
+      ]
+     }
+    },
+    {
+     "id": "a1-weather-seasons-10",
+     "pic": "🥶",
+     "el": "το κρύο",
+     "pron": "to krío",
+     "tr": "soğuk",
+     "en": "cold",
+     "forms": {
+      "sg": [
+       "το κρύο",
+       "του κρύου",
+       "το κρύο",
+       "κρύο"
+      ],
+      "pl": [
+       "τα κρύα",
+       "των κρύων",
+       "τα κρύα",
+       "κρύα"
+      ]
+     }
+    },
+    {
+     "id": "a1-weather-seasons-11",
+     "pic": "🌸",
+     "el": "η άνοιξη",
+     "pron": "i ánixi",
+     "tr": "ilkbahar",
+     "en": "spring",
+     "forms": {
+      "sg": [
+       "η άνοιξη",
+       "της άνοιξης",
+       "την άνοιξη",
+       "άνοιξη"
+      ],
+      "pl": [
+       "οι ανοίξεις",
+       "των ανοίξεων",
+       "τις ανοίξεις",
+       "ανοίξεις"
+      ]
+     }
+    },
+    {
+     "id": "a1-weather-seasons-12",
+     "pic": "🏖️",
+     "el": "το καλοκαίρι",
+     "pron": "to kalokéri",
+     "tr": "yaz",
+     "en": "summer",
+     "forms": {
+      "sg": [
+       "το καλοκαίρι",
+       "του καλοκαιριού",
+       "το καλοκαίρι",
+       "καλοκαίρι"
+      ],
+      "pl": [
+       "τα καλοκαίρια",
+       "των καλοκαιριών",
+       "τα καλοκαίρια",
+       "καλοκαίρια"
+      ]
+     }
+    },
+    {
+     "id": "a1-weather-seasons-13",
+     "pic": "🍂",
+     "el": "το φθινόπωρο",
+     "pron": "to fthinóporo",
+     "tr": "sonbahar",
+     "en": "autumn",
+     "forms": {
+      "sg": [
+       "το φθινόπωρο",
+       "του φθινοπώρου",
+       "το φθινόπωρο",
+       "φθινόπωρο"
+      ],
+      "pl": [
+       "τα φθινόπωρα",
+       "των φθινοπώρων",
+       "τα φθινόπωρα",
+       "φθινόπωρα"
+      ]
+     }
+    },
+    {
+     "id": "a1-weather-seasons-14",
+     "pic": "⛄",
+     "el": "ο χειμώνας",
+     "pron": "o himónas",
+     "tr": "kış",
+     "en": "winter",
+     "forms": {
+      "sg": [
+       "ο χειμώνας",
+       "του χειμώνα",
+       "τον χειμώνα",
+       "χειμώνα"
+      ],
+      "pl": [
+       "οι χειμώνες",
+       "των χειμώνων",
+       "τους χειμώνες",
+       "χειμώνες"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "days-months",
+   "icon": "📅",
+   "name": {
+    "el": "Μέρες και μήνες",
+    "tr": "Günler ve aylar",
+    "en": "Days & months"
+   },
+   "words": [
+    {
+     "id": "a1-days-months-01",
+     "pic": "",
+     "el": "η Δευτέρα",
+     "pron": "i dheftéra",
+     "tr": "pazartesi",
+     "en": "Monday",
+     "forms": {
+      "sg": [
+       "η Δευτέρα",
+       "της Δευτέρας",
+       "την Δευτέρα",
+       "Δευτέρα"
+      ],
+      "pl": [
+       "οι Δευτέρες",
+       "—",
+       "τις Δευτέρες",
+       "Δευτέρες"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-02",
+     "pic": "",
+     "el": "η Τρίτη",
+     "pron": "i tríti",
+     "tr": "salı",
+     "en": "Tuesday",
+     "forms": {
+      "sg": [
+       "η Τρίτη",
+       "της Τρίτης",
+       "την Τρίτη",
+       "Τρίτη"
+      ],
+      "pl": [
+       "οι Τρίτες",
+       "—",
+       "τις Τρίτες",
+       "Τρίτες"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-03",
+     "pic": "",
+     "el": "η Τετάρτη",
+     "pron": "i tetárti",
+     "tr": "çarşamba",
+     "en": "Wednesday",
+     "forms": {
+      "sg": [
+       "η Τετάρτη",
+       "της Τετάρτης",
+       "την Τετάρτη",
+       "Τετάρτη"
+      ],
+      "pl": [
+       "οι Τετάρτες",
+       "—",
+       "τις Τετάρτες",
+       "Τετάρτες"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-04",
+     "pic": "",
+     "el": "η Πέμπτη",
+     "pron": "i pémpti",
+     "tr": "perşembe",
+     "en": "Thursday",
+     "forms": {
+      "sg": [
+       "η Πέμπτη",
+       "της Πέμπτης",
+       "την Πέμπτη",
+       "Πέμπτη"
+      ],
+      "pl": [
+       "οι Πέμπτες",
+       "—",
+       "τις Πέμπτες",
+       "Πέμπτες"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-05",
+     "pic": "",
+     "el": "η Παρασκευή",
+     "pron": "i paraskeví",
+     "tr": "cuma",
+     "en": "Friday",
+     "forms": {
+      "sg": [
+       "η Παρασκευή",
+       "της Παρασκευής",
+       "την Παρασκευή",
+       "Παρασκευή"
+      ],
+      "pl": [
+       "οι Παρασκευές",
+       "των Παρασκευών",
+       "τις Παρασκευές",
+       "Παρασκευές"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-06",
+     "pic": "",
+     "el": "το Σάββατο",
+     "pron": "to sávato",
+     "tr": "cumartesi",
+     "en": "Saturday",
+     "forms": {
+      "sg": [
+       "το Σάββατο",
+       "του Σαββάτου",
+       "το Σάββατο",
+       "Σάββατο"
+      ],
+      "pl": [
+       "τα Σάββατα",
+       "των Σαββάτων",
+       "τα Σάββατα",
+       "Σάββατα"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-07",
+     "pic": "",
+     "el": "η Κυριακή",
+     "pron": "i kiriakí",
+     "tr": "pazar",
+     "en": "Sunday",
+     "forms": {
+      "sg": [
+       "η Κυριακή",
+       "της Κυριακής",
+       "την Κυριακή",
+       "Κυριακή"
+      ],
+      "pl": [
+       "οι Κυριακές",
+       "των Κυριακών",
+       "τις Κυριακές",
+       "Κυριακές"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-08",
+     "pic": "",
+     "el": "ο Ιανουάριος",
+     "pron": "o ianuários",
+     "tr": "ocak",
+     "en": "January",
+     "forms": {
+      "sg": [
+       "ο Ιανουάριος",
+       "του Ιανουαρίου",
+       "τον Ιανουάριο",
+       "Ιανουάριε"
+      ],
+      "pl": [
+       "οι Ιανουάριοι",
+       "των Ιανουαρίων",
+       "τους Ιανουαρίους",
+       "Ιανουάριοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-09",
+     "pic": "",
+     "el": "ο Φεβρουάριος",
+     "pron": "o fevruários",
+     "tr": "şubat",
+     "en": "February",
+     "forms": {
+      "sg": [
+       "ο Φεβρουάριος",
+       "του Φεβρουαρίου",
+       "τον Φεβρουάριο",
+       "Φεβρουάριε"
+      ],
+      "pl": [
+       "οι Φεβρουάριοι",
+       "των Φεβρουαρίων",
+       "τους Φεβρουαρίους",
+       "Φεβρουάριοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-10",
+     "pic": "",
+     "el": "ο Μάρτιος",
+     "pron": "o mártios",
+     "tr": "mart",
+     "en": "March",
+     "forms": {
+      "sg": [
+       "ο Μάρτιος",
+       "του Μαρτίου",
+       "τον Μάρτιο",
+       "Μάρτιε"
+      ],
+      "pl": [
+       "οι Μάρτιοι",
+       "των Μαρτίων",
+       "τους Μαρτίους",
+       "Μάρτιοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-11",
+     "pic": "",
+     "el": "ο Απρίλιος",
+     "pron": "o aprílios",
+     "tr": "nisan",
+     "en": "April",
+     "forms": {
+      "sg": [
+       "ο Απρίλιος",
+       "του Απριλίου",
+       "τον Απρίλιο",
+       "Απρίλιε"
+      ],
+      "pl": [
+       "οι Απρίλιοι",
+       "των Απριλίων",
+       "τους Απριλίους",
+       "Απρίλιοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-12",
+     "pic": "",
+     "el": "ο Μάιος",
+     "pron": "o máios",
+     "tr": "mayıs",
+     "en": "May",
+     "forms": {
+      "sg": [
+       "ο Μάιος",
+       "του Μαΐου",
+       "τον Μάιο",
+       "Μάιε"
+      ],
+      "pl": [
+       "οι Μάιοι",
+       "των Μαΐων",
+       "τους Μαΐους",
+       "Μάιοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-13",
+     "pic": "",
+     "el": "ο Ιούνιος",
+     "pron": "o iúnios",
+     "tr": "haziran",
+     "en": "June",
+     "forms": {
+      "sg": [
+       "ο Ιούνιος",
+       "του Ιουνίου",
+       "τον Ιούνιο",
+       "Ιούνιε"
+      ],
+      "pl": [
+       "οι Ιούνιοι",
+       "των Ιουνίων",
+       "τους Ιουνίους",
+       "Ιούνιοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-14",
+     "pic": "",
+     "el": "ο Ιούλιος",
+     "pron": "o iúlios",
+     "tr": "temmuz",
+     "en": "July",
+     "forms": {
+      "sg": [
+       "ο Ιούλιος",
+       "του Ιουλίου",
+       "τον Ιούλιο",
+       "Ιούλιε"
+      ],
+      "pl": [
+       "οι Ιούλιοι",
+       "των Ιουλίων",
+       "τους Ιουλίους",
+       "Ιούλιοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-15",
+     "pic": "",
+     "el": "ο Αύγουστος",
+     "pron": "o ávghustos",
+     "tr": "ağustos",
+     "en": "August",
+     "forms": {
+      "sg": [
+       "ο Αύγουστος",
+       "του Αυγούστου",
+       "τον Αύγουστο",
+       "Αύγουστε"
+      ],
+      "pl": [
+       "οι Αύγουστοι",
+       "των Αυγούστων",
+       "τους Αυγούστους",
+       "Αύγουστοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-16",
+     "pic": "",
+     "el": "ο Σεπτέμβριος",
+     "pron": "o septémvrios",
+     "tr": "eylül",
+     "en": "September",
+     "forms": {
+      "sg": [
+       "ο Σεπτέμβριος",
+       "του Σεπτεμβρίου",
+       "τον Σεπτέμβριο",
+       "Σεπτέμβριε"
+      ],
+      "pl": [
+       "οι Σεπτέμβριοι",
+       "των Σεπτεμβρίων",
+       "τους Σεπτεμβρίους",
+       "Σεπτέμβριοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-17",
+     "pic": "",
+     "el": "ο Οκτώβριος",
+     "pron": "o októvrios",
+     "tr": "ekim",
+     "en": "October",
+     "forms": {
+      "sg": [
+       "ο Οκτώβριος",
+       "του Οκτωβρίου",
+       "τον Οκτώβριο",
+       "Οκτώβριε"
+      ],
+      "pl": [
+       "οι Οκτώβριοι",
+       "των Οκτωβρίων",
+       "τους Οκτωβρίους",
+       "Οκτώβριοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-18",
+     "pic": "",
+     "el": "ο Νοέμβριος",
+     "pron": "o noémvrios",
+     "tr": "kasım",
+     "en": "November",
+     "forms": {
+      "sg": [
+       "ο Νοέμβριος",
+       "του Νοεμβρίου",
+       "τον Νοέμβριο",
+       "Νοέμβριε"
+      ],
+      "pl": [
+       "οι Νοέμβριοι",
+       "των Νοεμβρίων",
+       "τους Νοεμβρίους",
+       "Νοέμβριοι"
+      ]
+     }
+    },
+    {
+     "id": "a1-days-months-19",
+     "pic": "",
+     "el": "ο Δεκέμβριος",
+     "pron": "o dhekémvrios",
+     "tr": "aralık",
+     "en": "December",
+     "forms": {
+      "sg": [
+       "ο Δεκέμβριος",
+       "του Δεκεμβρίου",
+       "τον Δεκέμβριο",
+       "Δεκέμβριε"
+      ],
+      "pl": [
+       "οι Δεκέμβριοι",
+       "των Δεκεμβρίων",
+       "τους Δεκεμβρίους",
+       "Δεκέμβριοι"
+      ]
+     }
+    }
+   ]
+  }
+ ]
 }

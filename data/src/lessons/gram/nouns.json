@@ -1,0 +1,1770 @@
+{
+ "sections": [
+  {
+   "id": "gram-articles",
+   "title": {
+    "el": "Τα άρθρα",
+    "tr": "Artikeller (tanımlıklar)",
+    "en": "The articles"
+   },
+   "icon": "🔤",
+   "summary": {
+    "el": "Το οριστικό και το αόριστο άρθρο σε όλα τα γένη, τις πτώσεις και τους αριθμούς, και πώς ενώνονται με το «σε».",
+    "tr": "Belirli ve belirsiz artikel: tüm cinsler, hâller ve sayılar; «σε» ile nasıl birleştikleri.",
+    "en": "Definite and indefinite articles in every gender, case and number, and how they merge with «σε»."
+   },
+   "blocks": [
+    {
+     "type": "p",
+     "text": {
+      "el": "Τα ελληνικά έχουν άρθρα, ενώ τα τουρκικά όχι. Το άρθρο μπαίνει πριν από το ουσιαστικό και δείχνει τρία πράγματα: το **γένος** (αρσενικό, θηλυκό, ουδέτερο), την **πτώση** και τον **αριθμό** (ενικός ή πληθυντικός). Γι' αυτό μαθαίνουμε κάθε λέξη μαζί με το άρθρο της: ο δρόμος, η πόλη, το σπίτι.",
+      "tr": "Yunancada artikel (tanımlık) vardır, Türkçede yoktur. Artikel ismin önüne gelir ve üç şeyi gösterir: **cins** (eril, dişil, nötr), **hâl** ve **sayı** (tekil ya da çoğul). Bu yüzden her kelimeyi artikeliyle birlikte ezberleyin: ο δρόμος (yol), η πόλη (şehir), το σπίτι (ev).",
+      "en": "Greek has articles; Turkish does not. The article stands before the noun and shows three things: **gender** (masculine, feminine, neuter), **case** and **number** (singular or plural). So always learn each word together with its article: ο δρόμος, η πόλη, το σπίτι."
+     }
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Οριστικό άρθρο",
+       "tr": "Belirli artikel",
+       "en": "Definite article"
+      },
+      {
+       "el": "Αρσενικό",
+       "tr": "Eril",
+       "en": "Masculine"
+      },
+      {
+       "el": "Θηλυκό",
+       "tr": "Dişil",
+       "en": "Feminine"
+      },
+      {
+       "el": "Ουδέτερο",
+       "tr": "Nötr",
+       "en": "Neuter"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Ενικός · Ονομαστική",
+        "tr": "Tekil · Yalın",
+        "en": "Singular · Nominative"
+       },
+       {
+        "el": "ο",
+        "tr": "ο",
+        "en": "ο"
+       },
+       {
+        "el": "η",
+        "tr": "η",
+        "en": "η"
+       },
+       {
+        "el": "το",
+        "tr": "το",
+        "en": "το"
+       }
+      ],
+      [
+       {
+        "el": "Ενικός · Γενική",
+        "tr": "Tekil · -in hâli",
+        "en": "Singular · Genitive"
+       },
+       {
+        "el": "του",
+        "tr": "του",
+        "en": "του"
+       },
+       {
+        "el": "της",
+        "tr": "της",
+        "en": "της"
+       },
+       {
+        "el": "του",
+        "tr": "του",
+        "en": "του"
+       }
+      ],
+      [
+       {
+        "el": "Ενικός · Αιτιατική",
+        "tr": "Tekil · -i hâli",
+        "en": "Singular · Accusative"
+       },
+       {
+        "el": "τον",
+        "tr": "τον",
+        "en": "τον"
+       },
+       {
+        "el": "τη(ν)",
+        "tr": "τη(ν)",
+        "en": "τη(ν)"
+       },
+       {
+        "el": "το",
+        "tr": "το",
+        "en": "το"
+       }
+      ],
+      [
+       {
+        "el": "Πληθυντικός · Ονομαστική",
+        "tr": "Çoğul · Yalın",
+        "en": "Plural · Nominative"
+       },
+       {
+        "el": "οι",
+        "tr": "οι",
+        "en": "οι"
+       },
+       {
+        "el": "οι",
+        "tr": "οι",
+        "en": "οι"
+       },
+       {
+        "el": "τα",
+        "tr": "τα",
+        "en": "τα"
+       }
+      ],
+      [
+       {
+        "el": "Πληθυντικός · Γενική",
+        "tr": "Çoğul · -in hâli",
+        "en": "Plural · Genitive"
+       },
+       {
+        "el": "των",
+        "tr": "των",
+        "en": "των"
+       },
+       {
+        "el": "των",
+        "tr": "των",
+        "en": "των"
+       },
+       {
+        "el": "των",
+        "tr": "των",
+        "en": "των"
+       }
+      ],
+      [
+       {
+        "el": "Πληθυντικός · Αιτιατική",
+        "tr": "Çoğul · -i hâli",
+        "en": "Plural · Accusative"
+       },
+       {
+        "el": "τους",
+        "tr": "τους",
+        "en": "τους"
+       },
+       {
+        "el": "τις",
+        "tr": "τις",
+        "en": "τις"
+       },
+       {
+        "el": "τα",
+        "tr": "τα",
+        "en": "τα"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Το τελικό -ν: γράφουμε πάντα **τον** (αρσενικό). Στο θηλυκό γράφουμε **την** πριν από φωνήεν και πριν από κ, π, τ, ξ, ψ, μπ, ντ, γκ, τσ, τζ (την Αθήνα, την πόλη, την ταβέρνα), αλλιώς **τη** (τη θάλασσα, τη μέρα, τη Σάμο).",
+      "tr": "Sondaki -ν: eril artikel her zaman **τον** yazılır. Dişilde ünlüden ve κ, π, τ, ξ, ψ, μπ, ντ, γκ, τσ, τζ seslerinden önce **την** (την Αθήνα, την πόλη, την ταβέρνα), diğer durumlarda **τη** (τη θάλασσα, τη μέρα, τη Σάμο) yazılır.",
+      "en": "Final -ν: the masculine is always written **τον**. In the feminine write **την** before a vowel and before κ, π, τ, ξ, ψ, μπ, ντ, γκ, τσ, τζ (την Αθήνα, την πόλη, την ταβέρνα); otherwise **τη** (τη θάλασσα, τη μέρα, τη Σάμο)."
+     }
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Αόριστο άρθρο",
+       "tr": "Belirsiz artikel",
+       "en": "Indefinite article"
+      },
+      {
+       "el": "Αρσενικό",
+       "tr": "Eril",
+       "en": "Masculine"
+      },
+      {
+       "el": "Θηλυκό",
+       "tr": "Dişil",
+       "en": "Feminine"
+      },
+      {
+       "el": "Ουδέτερο",
+       "tr": "Nötr",
+       "en": "Neuter"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Ονομαστική",
+        "tr": "Yalın hâl",
+        "en": "Nominative"
+       },
+       {
+        "el": "ένας",
+        "tr": "ένας",
+        "en": "ένας"
+       },
+       {
+        "el": "μια / μία",
+        "tr": "μια / μία",
+        "en": "μια / μία"
+       },
+       {
+        "el": "ένα",
+        "tr": "ένα",
+        "en": "ένα"
+       }
+      ],
+      [
+       {
+        "el": "Γενική",
+        "tr": "-in hâli (tamlayan)",
+        "en": "Genitive"
+       },
+       {
+        "el": "ενός",
+        "tr": "ενός",
+        "en": "ενός"
+       },
+       {
+        "el": "μιας / μίας",
+        "tr": "μιας / μίας",
+        "en": "μιας / μίας"
+       },
+       {
+        "el": "ενός",
+        "tr": "ενός",
+        "en": "ενός"
+       }
+      ],
+      [
+       {
+        "el": "Αιτιατική",
+        "tr": "-i hâli (belirtme)",
+        "en": "Accusative"
+       },
+       {
+        "el": "έναν / ένα",
+        "tr": "έναν / ένα",
+        "en": "έναν / ένα"
+       },
+       {
+        "el": "μια / μία",
+        "tr": "μια / μία",
+        "en": "μια / μία"
+       },
+       {
+        "el": "ένα",
+        "tr": "ένα",
+        "en": "ένα"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "Το αόριστο άρθρο είναι ίδιο με τον αριθμό «ένα» και έχει μόνο ενικό (όπως το τουρκικό «bir»). Στον πληθυντικό δεν βάζουμε άρθρο: «Έχω ένα βιβλίο» → «Έχω βιβλία». Ο τύπος **μία** τονίζει ότι είναι «μόνο μία».",
+      "tr": "Belirsiz artikel «bir» sayısıyla aynıdır ve yalnızca tekili vardır (Türkçedeki «bir» gibi). Çoğulda artikel kullanılmaz: «Έχω ένα βιβλίο» (bir kitabım var) → «Έχω βιβλία» (kitaplarım var). **μία** biçimi «yalnızca bir tane» anlamını vurgular.",
+      "en": "The indefinite article is the same as the number “one” and has only a singular (like Turkish «bir»). In the plural no article is used: «Έχω ένα βιβλίο» → «Έχω βιβλία». The form **μία** stresses “only one”."
+     }
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Με κύρια ονόματα: **ο** Γιώργος, **η** Μαρία, **η** Ελλάδα, **η** Αθήνα.",
+       "tr": "Özel isimlerle: **ο** Γιώργος, **η** Μαρία, **η** Ελλάδα (Yunanistan), **η** Αθήνα (Atina).",
+       "en": "With proper names: **ο** Γιώργος, **η** Μαρία, **η** Ελλάδα, **η** Αθήνα."
+      },
+      {
+       "el": "Με γενικές και αφηρημένες έννοιες: **Η** υγεία είναι σημαντική. Μου αρέσει **ο** καφές.",
+       "tr": "Genel ve soyut kavramlarla: **Η** υγεία είναι σημαντική (sağlık önemlidir). Μου αρέσει **ο** καφές (kahveyi severim).",
+       "en": "With general and abstract ideas: **Η** υγεία είναι σημαντική. Μου αρέσει **ο** καφές."
+      },
+      {
+       "el": "Με κτητικό: **το** σπίτι μου, **η** μητέρα σου.",
+       "tr": "İyelik zamiriyle: **το** σπίτι μου (evim), **η** μητέρα σου (annen).",
+       "en": "With a possessive: **το** σπίτι μου, **η** μητέρα σου."
+      },
+      {
+       "el": "Με μέρες και ώρες: **την** Κυριακή, **στις** πέντε.",
+       "tr": "Günler ve saatlerle: **την** Κυριακή (pazar günü), **στις** πέντε (saat beşte).",
+       "en": "With days and times: **την** Κυριακή, **στις** πέντε."
+      },
+      {
+       "el": "Χωρίς άρθρο: μετά το «είμαι» για επάγγελμα ή ιδιότητα (Είμαι γιατρός) και σε πολλές εκφράσεις (Πίνω νερό, Έχω χρόνο).",
+       "tr": "Artikelsiz: «είμαι»dan sonra meslek ya da nitelik (Είμαι γιατρός – doktorum) ve birçok kalıpta (Πίνω νερό – su içerim, Έχω χρόνο – vaktim var).",
+       "en": "No article: after «είμαι» with a job or role (Είμαι γιατρός) and in many set phrases (Πίνω νερό, Έχω χρόνο)."
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "σε + άρθρο",
+       "tr": "σε + artikel",
+       "en": "σε + article"
+      },
+      {
+       "el": "Αρσενικό",
+       "tr": "Eril",
+       "en": "Masculine"
+      },
+      {
+       "el": "Θηλυκό",
+       "tr": "Dişil",
+       "en": "Feminine"
+      },
+      {
+       "el": "Ουδέτερο",
+       "tr": "Nötr",
+       "en": "Neuter"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Ενικός",
+        "tr": "Tekil",
+        "en": "Singular"
+       },
+       {
+        "el": "στον",
+        "tr": "στον",
+        "en": "στον"
+       },
+       {
+        "el": "στη(ν)",
+        "tr": "στη(ν)",
+        "en": "στη(ν)"
+       },
+       {
+        "el": "στο",
+        "tr": "στο",
+        "en": "στο"
+       }
+      ],
+      [
+       {
+        "el": "Πληθυντικός",
+        "tr": "Çoğul",
+        "en": "Plural"
+       },
+       {
+        "el": "στους",
+        "tr": "στους",
+        "en": "στους"
+       },
+       {
+        "el": "στις",
+        "tr": "στις",
+        "en": "στις"
+       },
+       {
+        "el": "στα",
+        "tr": "στα",
+        "en": "στα"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "Η πρόθεση **σε** (= -e / -de) ενώνεται με το οριστικό άρθρο της αιτιατικής: σε + τον = **στον**, σε + την = **στην**, σε + το = **στο**. Παραδείγματα: Πάω **στον** γιατρό. Μένω **στην** Αθήνα. Είμαι **στο** σπίτι. Με το αόριστο άρθρο δεν ενώνεται: **σε ένα** σπίτι (στον προφορικό λόγο και **σ' ένα**).",
+      "tr": "**σε** edatı (= -e / -de) -i hâlindeki belirli artikelle birleşir: σε + τον = **στον**, σε + την = **στην**, σε + το = **στο**. Örnekler: Πάω **στον** γιατρό (doktora gidiyorum). Μένω **στην** Αθήνα (Atina'da oturuyorum). Είμαι **στο** σπίτι (evdeyim). Belirsiz artikelle birleşmez: **σε ένα** σπίτι (bir evde; konuşmada **σ' ένα**).",
+      "en": "The preposition **σε** (to / in / at) merges with the accusative definite article: σε + τον = **στον**, σε + την = **στην**, σε + το = **στο**. Examples: Πάω **στον** γιατρό. Μένω **στην** Αθήνα. Είμαι **στο** σπίτι. It does not merge with the indefinite article: **σε ένα** σπίτι (in speech also **σ' ένα**)."
+     }
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Μην πείτε «σε το σπίτι»: η σωστή μορφή είναι πάντα «στο σπίτι». Και μην ξεχνάτε το άρθρο πριν από ονόματα πόλεων: «στην Αθήνα», όχι «σε Αθήνα».",
+      "tr": "«σε το σπίτι» demeyin; doğrusu her zaman «στο σπίτι». Şehir adlarından önce de artikeli unutmayın: «στην Αθήνα», «σε Αθήνα» değil.",
+      "en": "Never say «σε το σπίτι»; it is always «στο σπίτι». And don't drop the article before city names: «στην Αθήνα», not «σε Αθήνα»."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "οριστικό άρθρο",
+       "tr": "belirli artikel",
+       "en": "definite article"
+      },
+      {
+       "el": "αόριστο άρθρο",
+       "tr": "belirsiz artikel",
+       "en": "indefinite article"
+      },
+      {
+       "el": "γένος",
+       "tr": "cins",
+       "en": "gender"
+      },
+      {
+       "el": "αρσενικό",
+       "tr": "eril",
+       "en": "masculine"
+      },
+      {
+       "el": "θηλυκό",
+       "tr": "dişil",
+       "en": "feminine"
+      },
+      {
+       "el": "ουδέτερο",
+       "tr": "nötr",
+       "en": "neuter"
+      },
+      {
+       "el": "ενικός",
+       "tr": "tekil",
+       "en": "singular"
+      },
+      {
+       "el": "πληθυντικός",
+       "tr": "çoğul",
+       "en": "plural"
+      },
+      {
+       "el": "πρόθεση",
+       "tr": "edat",
+       "en": "preposition"
+      }
+     ]
+    }
+   ],
+   "questions": [],
+   "sources": [
+    "https://en.wiktionary.org/wiki/ο",
+    "https://en.wiktionary.org/wiki/ένας",
+    "https://www.alfavita.gr/ekpaideysi/447750_orthografia-pote-bazoyme-teliko-n-gia-na-min-xanakaneis-pote-lathos"
+   ]
+  },
+  {
+   "id": "gram-cases",
+   "title": {
+    "el": "Οι τέσσερις πτώσεις",
+    "tr": "Dört hâl",
+    "en": "The four cases"
+   },
+   "icon": "🧭",
+   "summary": {
+    "el": "Ονομαστική, γενική, αιτιατική και κλητική, με αντιστοιχίες στα τουρκικά.",
+    "tr": "Yalın, -in, -i ve seslenme hâlleri; Türkçedeki karşılıklarıyla.",
+    "en": "Nominative, genitive, accusative and vocative, mapped to Turkish cases."
+   },
+   "blocks": [
+    {
+     "type": "p",
+     "text": {
+      "el": "Όπως τα τουρκικά, τα ελληνικά αλλάζουν την κατάληξη της λέξης ανάλογα με τον ρόλο της στην πρόταση. Οι πτώσεις είναι τέσσερις. Αλλάζει η κατάληξη του ουσιαστικού και μαζί το άρθρο: ο δρόμος – του δρόμου – τον δρόμο – δρόμε.",
+      "tr": "Türkçede olduğu gibi Yunancada da kelimenin sonu cümledeki görevine göre değişir. Dört hâl vardır. İsmin eki ile birlikte artikel de değişir: ο δρόμος – του δρόμου – τον δρόμο – δρόμε.",
+      "en": "Like Turkish, Greek changes a word's ending according to its role in the sentence. There are four cases. The noun ending and the article change together: ο δρόμος – του δρόμου – τον δρόμο – δρόμε."
+     }
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Πτώση",
+       "tr": "Hâl",
+       "en": "Case"
+      },
+      {
+       "el": "Ρόλος",
+       "tr": "Görevi",
+       "en": "Role"
+      },
+      {
+       "el": "Στα τουρκικά",
+       "tr": "Türkçede",
+       "en": "In Turkish"
+      },
+      {
+       "el": "Παράδειγμα",
+       "tr": "Örnek",
+       "en": "Example"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Ονομαστική",
+        "tr": "Yalın hâl",
+        "en": "Nominative"
+       },
+       {
+        "el": "υποκείμενο (ποιος; τι;)",
+        "tr": "özne (kim? ne?)",
+        "en": "subject (who? what?)"
+       },
+       {
+        "el": "yalın hâl",
+        "tr": "yalın hâl",
+        "en": "bare form (yalın)"
+       },
+       {
+        "el": "**Ο Νίκος** δουλεύει.",
+        "tr": "**Ο Νίκος** δουλεύει. (Nikos çalışıyor.)",
+        "en": "**Ο Νίκος** δουλεύει. (Nikos works.)"
+       }
+      ],
+      [
+       {
+        "el": "Γενική",
+        "tr": "-in hâli (tamlayan)",
+        "en": "Genitive"
+       },
+       {
+        "el": "κτήση (ποιανού;)",
+        "tr": "iyelik (kimin?)",
+        "en": "possession (whose?)"
+       },
+       {
+        "el": "-in (tamlayan)",
+        "tr": "-in (tamlayan)",
+        "en": "-in (genitive)"
+       },
+       {
+        "el": "το σπίτι **του Νίκου**",
+        "tr": "το σπίτι **του Νίκου** (Nikos'un evi)",
+        "en": "το σπίτι **του Νίκου** (Nikos's house)"
+       }
+      ],
+      [
+       {
+        "el": "Αιτιατική",
+        "tr": "-i hâli (belirtme)",
+        "en": "Accusative"
+       },
+       {
+        "el": "αντικείμενο· μετά από προθέσεις",
+        "tr": "nesne; edatlardan sonra",
+        "en": "object; after prepositions"
+       },
+       {
+        "el": "-i (belirtme); σε + αιτιατική ≈ -e / -de",
+        "tr": "-i (belirtme); σε + -i hâli ≈ -e / -de",
+        "en": "-i (accusative); σε + acc. ≈ -e / -de"
+       },
+       {
+        "el": "Βλέπω **τον Νίκο**. Πάω **στον Νίκο**.",
+        "tr": "Βλέπω **τον Νίκο**. (Nikos'u görüyorum.) Πάω **στον Νίκο**. (Nikos'a gidiyorum.)",
+        "en": "Βλέπω **τον Νίκο**. (I see Nikos.) Πάω **στον Νίκο**. (I go to Nikos.)"
+       }
+      ],
+      [
+       {
+        "el": "Κλητική",
+        "tr": "Seslenme hâli",
+        "en": "Vocative"
+       },
+       {
+        "el": "όταν φωνάζουμε κάποιον",
+        "tr": "birine seslenirken",
+        "en": "calling someone"
+       },
+       {
+        "el": "seslenme hâli",
+        "tr": "seslenme hâli",
+        "en": "vocative (seslenme)"
+       },
+       {
+        "el": "**Νίκο**, έλα!",
+        "tr": "**Νίκο**, έλα! (Nikos, gel!)",
+        "en": "**Νίκο**, έλα! (Nikos, come!)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Όλες οι συνηθισμένες προθέσεις παίρνουν **αιτιατική**: σε, από, με, για, χωρίς, μέχρι. Έτσι οι τουρκικές πτώσεις -e, -de, -den αποδίδονται με πρόθεση + αιτιατική: **στο** σπίτι (eve / evde), **από το** σπίτι (evden), **με τον** φίλο (arkadaşla).",
+       "tr": "Yaygın edatların hepsi **-i hâli** alır: σε, από, με, για, χωρίς, μέχρι. Türkçedeki -e, -de, -den hâlleri edat + -i hâli ile karşılanır: **στο** σπίτι (eve / evde), **από το** σπίτι (evden), **με τον** φίλο (arkadaşla).",
+       "en": "All the common prepositions take the **accusative**: σε, από, με, για, χωρίς, μέχρι. So Turkish -e, -de, -den are expressed with preposition + accusative: **στο** σπίτι (to / at home), **από το** σπίτι (from home), **με τον** φίλο (with the friend)."
+      },
+      {
+       "el": "Ο έμμεσος αποδέκτης (σε ποιον;) εκφράζεται με **σε + αιτιατική** ή με **γενική**: Δίνω το βιβλίο **στη Μαρία** = Δίνω **της Μαρίας** το βιβλίο.",
+       "tr": "Dolaylı tümleç (kime?) **σε + -i hâli** ya da **-in hâli** ile verilir: Δίνω το βιβλίο **στη Μαρία** = Δίνω **της Μαρίας** το βιβλίο (Kitabı Maria'ya veriyorum).",
+       "en": "The indirect object (to whom?) is expressed with **σε + accusative** or with the **genitive**: Δίνω το βιβλίο **στη Μαρία** = Δίνω **της Μαρίας** το βιβλίο."
+      },
+      {
+       "el": "Εκφράσεις χρόνου σε αιτιατική χωρίς πρόθεση: **την Κυριακή** (pazar günü), **κάθε μέρα** (her gün), **το πρωί** (sabahleyin).",
+       "tr": "Zaman ifadeleri edatsız -i hâlindedir: **την Κυριακή** (pazar günü), **κάθε μέρα** (her gün), **το πρωί** (sabahleyin).",
+       "en": "Time expressions use the accusative without a preposition: **την Κυριακή** (on Sunday), **κάθε μέρα** (every day), **το πρωί** (in the morning)."
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Η γενική μοιάζει με το τουρκικό -in, αλλά η σειρά είναι ανάποδη: πρώτα το «κτήμα», μετά ο «κάτοχος». «Nikos'un evi» = «το σπίτι του Νίκου» (λέξη προς λέξη: «ev Nikos'un»).",
+      "tr": "-in hâli Türkçedeki tamlayana benzer ama sıra terstir: önce sahip olunan, sonra sahip gelir. «Nikos'un evi» = «το σπίτι του Νίκου» (kelimesi kelimesine: «ev Nikos'un»).",
+      "en": "The genitive is like Turkish -in, but the order is reversed: the owned thing first, then the owner. «Nikos'un evi» = «το σπίτι του Νίκου» (word for word: “the house of Nikos”)."
+     }
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Κόλπο: στα θηλυκά και στα ουδέτερα η ονομαστική και η αιτιατική ενικού έχουν συνήθως ίδια κατάληξη· αλλάζει μόνο το άρθρο (η ώρα → την ώρα, το παιδί → το παιδί). Τις περισσότερες αλλαγές τις έχουν τα αρσενικά.",
+      "tr": "Püf noktası: dişil ve nötr isimlerde tekil yalın ve -i hâli genellikle aynı biter; yalnızca artikel değişir (η ώρα → την ώρα, το παιδί → το παιδί). En çok değişen isimler erillerdir.",
+      "en": "Trick: in feminine and neuter nouns the nominative and accusative singular usually have the same ending; only the article changes (η ώρα → την ώρα, το παιδί → το παιδί). Masculine nouns change the most."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "πτώση",
+       "tr": "hâl",
+       "en": "case"
+      },
+      {
+       "el": "ονομαστική",
+       "tr": "yalın hâl",
+       "en": "nominative"
+      },
+      {
+       "el": "γενική",
+       "tr": "-in hâli (tamlayan)",
+       "en": "genitive"
+      },
+      {
+       "el": "αιτιατική",
+       "tr": "-i hâli (belirtme)",
+       "en": "accusative"
+      },
+      {
+       "el": "κλητική",
+       "tr": "seslenme hâli",
+       "en": "vocative"
+      },
+      {
+       "el": "κλίση",
+       "tr": "çekim",
+       "en": "declension"
+      },
+      {
+       "el": "υποκείμενο",
+       "tr": "özne",
+       "en": "subject"
+      },
+      {
+       "el": "αντικείμενο",
+       "tr": "nesne",
+       "en": "object"
+      },
+      {
+       "el": "κατάληξη",
+       "tr": "ek / son ek",
+       "en": "ending"
+      }
+     ]
+    }
+   ],
+   "questions": [],
+   "sources": [
+    "https://en.wiktionary.org/wiki/ο",
+    "https://en.wiktionary.org/wiki/δρόμος",
+    "https://el.wiktionary.org/wiki/άνθρωπος"
+   ]
+  },
+  {
+   "id": "gram-masculine",
+   "title": {
+    "el": "Αρσενικά ουσιαστικά",
+    "tr": "Eril isimler",
+    "en": "Masculine nouns"
+   },
+   "icon": "👨",
+   "summary": {
+    "el": "Τα αρσενικά σε -ος, -ας, -ης και τα αρσενικά σε -ές, -άς, -ούς με πληθυντικό σε -δες.",
+    "tr": "-ος, -ας, -ης ile biten eril isimler ve çoğulu -δες ile yapılan -ές, -άς, -ούς türü.",
+    "en": "Masculine nouns in -ος, -ας, -ης and the -ές, -άς, -ούς type with plural in -δες."
+   },
+   "blocks": [
+    {
+     "type": "p",
+     "text": {
+      "el": "Τα αρσενικά ουσιαστικά τελειώνουν κυρίως σε **-ος, -ας, -ης** και παίρνουν το άρθρο **ο**. Ο τύπος σε -ος είναι ο πιο «πλούσιος»: έχει διαφορετική κατάληξη σχεδόν σε κάθε πτώση.",
+      "tr": "Eril isimler çoğunlukla **-ος, -ας, -ης** ile biter ve **ο** artikelini alır. -ος türü en «zengin» olanıdır: neredeyse her hâlde farklı bir eki vardır.",
+      "en": "Masculine nouns mostly end in **-ος, -ας, -ης** and take the article **ο**. The -ος type is the “richest”: it has a different ending in almost every case."
+     }
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "ο δρόμος",
+      "tr": "yol",
+      "en": "road"
+     },
+     "note": {
+      "el": "Τύπος -ος με σταθερό τόνο. Έτσι και: ο φίλος, ο γιατρός, ο ουρανός.",
+      "tr": "Vurgusu sabit -ος türü. Aynı şekilde: ο φίλος (arkadaş), ο γιατρός (doktor), ο ουρανός (gök).",
+      "en": "The -ος type with fixed stress. Also: ο φίλος, ο γιατρός, ο ουρανός."
+     },
+     "sg": [
+      "ο δρόμος",
+      "του δρόμου",
+      "τον δρόμο",
+      "δρόμε"
+     ],
+     "pl": [
+      "οι δρόμοι",
+      "των δρόμων",
+      "τους δρόμους",
+      "δρόμοι"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "ο άνθρωπος",
+      "tr": "insan",
+      "en": "person, human"
+     },
+     "note": {
+      "el": "Μετακίνηση τόνου: όταν η κατάληξη είναι -ου, -ων, -ους, ο τόνος πάει μία συλλαβή δεξιά (ανθρώπου). Έτσι και: ο δάσκαλος → του δασκάλου, ο θάνατος → του θανάτου.",
+      "tr": "Vurgu kayması: ek -ου, -ων, -ους olunca vurgu bir hece sağa kayar (ανθρώπου). Aynı şekilde: ο δάσκαλος (öğretmen) → του δασκάλου, ο θάνατος (ölüm) → του θανάτου.",
+      "en": "Stress shift: when the ending is -ου, -ων, -ους, the stress moves one syllable to the right (ανθρώπου). Also: ο δάσκαλος → του δασκάλου, ο θάνατος → του θανάτου."
+     },
+     "sg": [
+      "ο άνθρωπος",
+      "του ανθρώπου",
+      "τον άνθρωπο",
+      "άνθρωπε"
+     ],
+     "pl": [
+      "οι άνθρωποι",
+      "των ανθρώπων",
+      "τους ανθρώπους",
+      "άνθρωποι"
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Κλητική των ονομάτων σε -ος: τα περισσότερα μικρά ονόματα παίρνουν **-ο**: Γιώργο!, Νίκο!, Πέτρο!. Τα κοινά ουσιαστικά παίρνουν **-ε**: φίλε!, γιατρέ!, άνθρωπε!.",
+      "tr": "-ος ile biten adların seslenme hâli: çoğu kısa erkek adı **-ο** alır: Γιώργο!, Νίκο!, Πέτρο!. Cins isimler **-ε** alır: φίλε! (dostum!), γιατρέ! (doktor bey!), άνθρωπε!.",
+      "en": "Vocative of names in -ος: most short first names take **-ο**: Γιώργο!, Νίκο!, Πέτρο!. Common nouns take **-ε**: φίλε!, γιατρέ!, άνθρωπε!."
+     }
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "ο άντρας",
+      "tr": "adam, erkek; koca",
+      "en": "man; husband"
+     },
+     "note": {
+      "el": "Τύπος -ας. Έτσι και: ο πατέρας (αλλά των πατέρων, χωρίς μετακίνηση τόνου), ο μήνας, ο χειμώνας.",
+      "tr": "-ας türü. Aynı şekilde: ο πατέρας (baba; ama των πατέρων, vurgu kaymaz), ο μήνας (ay), ο χειμώνας (kış).",
+      "en": "The -ας type. Also: ο πατέρας (but των πατέρων, no stress shift), ο μήνας, ο χειμώνας."
+     },
+     "sg": [
+      "ο άντρας",
+      "του άντρα",
+      "τον άντρα",
+      "άντρα"
+     ],
+     "pl": [
+      "οι άντρες",
+      "των αντρών",
+      "τους άντρες",
+      "άντρες"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "ο μαθητής",
+      "tr": "öğrenci",
+      "en": "pupil, student"
+     },
+     "note": {
+      "el": "Τύπος -ης. Η γενική πληθυντικού τελειώνει πάντα σε -ών με τόνο στο τέλος: ο εργάτης → των εργατών, ο πολίτης → των πολιτών.",
+      "tr": "-ης türü. Çoğul -in hâli her zaman vurgulu -ών ile biter: ο εργάτης (işçi) → των εργατών, ο πολίτης (vatandaş) → των πολιτών.",
+      "en": "The -ης type. The genitive plural always ends in stressed -ών: ο εργάτης → των εργατών, ο πολίτης → των πολιτών."
+     },
+     "sg": [
+      "ο μαθητής",
+      "του μαθητή",
+      "τον μαθητή",
+      "μαθητή"
+     ],
+     "pl": [
+      "οι μαθητές",
+      "των μαθητών",
+      "τους μαθητές",
+      "μαθητές"
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Τα αρσενικά σε -ας και -ης **χάνουν το -ς** στη γενική, την αιτιατική και την κλητική ενικού: ο άντρας → του άντρα, τον άντρα. Συχνό λάθος: «τον μαθητής» ✗ → «τον μαθητή» ✓.",
+      "tr": "-ας ve -ης ile biten eriller tekil -in, -i ve seslenme hâllerinde **-ς harfini kaybeder**: ο άντρας → του άντρα, τον άντρα. Sık yapılan hata: «τον μαθητής» ✗ → «τον μαθητή» ✓.",
+      "en": "Masculines in -ας and -ης **drop the -ς** in the genitive, accusative and vocative singular: ο άντρας → του άντρα, τον άντρα. Common mistake: «τον μαθητής» ✗ → «τον μαθητή» ✓."
+     }
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "ο καφές",
+      "tr": "kahve",
+      "en": "coffee"
+     },
+     "note": {
+      "el": "Τύπος -ές με πληθυντικό σε -έδες. Το ίδιο ο ψαράς (-άς): του ψαρά, οι ψαράδες, των ψαράδων.",
+      "tr": "Çoğulu -έδες olan -ές türü. -άς türü de aynıdır: ο ψαράς (balıkçı) → του ψαρά, οι ψαράδες, των ψαράδων.",
+      "en": "The -ές type with plural in -έδες. The -άς type works the same: ο ψαράς (fisherman) → του ψαρά, οι ψαράδες, των ψαράδων."
+     },
+     "sg": [
+      "ο καφές",
+      "του καφέ",
+      "τον καφέ",
+      "καφέ"
+     ],
+     "pl": [
+      "οι καφέδες",
+      "των καφέδων",
+      "τους καφέδες",
+      "καφέδες"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "ο παππούς",
+      "tr": "dede",
+      "en": "grandfather"
+     },
+     "note": {
+      "el": "Τύπος -ούς με πληθυντικό σε -ούδες.",
+      "tr": "Çoğulu -ούδες olan -ούς türü.",
+      "en": "The -ούς type with plural in -ούδες."
+     },
+     "sg": [
+      "ο παππούς",
+      "του παππού",
+      "τον παππού",
+      "παππού"
+     ],
+     "pl": [
+      "οι παππούδες",
+      "των παππούδων",
+      "τους παππούδες",
+      "παππούδες"
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Κόλπο για -ές, -άς, -ούς: στον ενικό σβήνουμε μόνο το -ς (του καφέ, του ψαρά, του παππού)· στον πληθυντικό προσθέτουμε **-δες / -δων** και ο τόνος μένει στην ίδια συλλαβή.",
+      "tr": "-ές, -άς, -ούς için püf noktası: tekilde yalnızca -ς düşer (του καφέ, του ψαρά, του παππού); çoğulda **-δες / -δων** eklenir ve vurgu aynı hecede kalır.",
+      "en": "Trick for -ές, -άς, -ούς: in the singular just drop the -ς (του καφέ, του ψαρά, του παππού); in the plural add **-δες / -δων** and the stress stays on the same syllable."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "αρσενικό ουσιαστικό",
+       "tr": "eril isim",
+       "en": "masculine noun"
+      },
+      {
+       "el": "ουσιαστικό",
+       "tr": "isim",
+       "en": "noun"
+      },
+      {
+       "el": "κατάληξη",
+       "tr": "ek",
+       "en": "ending"
+      },
+      {
+       "el": "τόνος",
+       "tr": "vurgu",
+       "en": "stress, accent"
+      },
+      {
+       "el": "ενικός",
+       "tr": "tekil",
+       "en": "singular"
+      },
+      {
+       "el": "πληθυντικός",
+       "tr": "çoğul",
+       "en": "plural"
+      },
+      {
+       "el": "κλητική",
+       "tr": "seslenme hâli",
+       "en": "vocative"
+      }
+     ]
+    }
+   ],
+   "questions": [],
+   "sources": [
+    "https://en.wiktionary.org/wiki/δρόμος",
+    "https://en.wiktionary.org/wiki/άνθρωπος",
+    "https://el.wiktionary.org/wiki/άνθρωπος",
+    "https://en.wiktionary.org/wiki/άντρας",
+    "https://en.wiktionary.org/wiki/πατέρας",
+    "https://en.wiktionary.org/wiki/μαθητής",
+    "https://en.wiktionary.org/wiki/εργάτης",
+    "https://en.wiktionary.org/wiki/καφές",
+    "https://el.wiktionary.org/wiki/καφές",
+    "https://en.wiktionary.org/wiki/ψαράς",
+    "https://en.wiktionary.org/wiki/παππούς"
+   ]
+  },
+  {
+   "id": "gram-feminine",
+   "title": {
+    "el": "Θηλυκά ουσιαστικά",
+    "tr": "Dişil isimler",
+    "en": "Feminine nouns"
+   },
+   "icon": "👩",
+   "summary": {
+    "el": "Τα θηλυκά σε -α, -η, -ος και ο τύπος η λέξη – οι λέξεις.",
+    "tr": "-α, -η, -ος ile biten dişil isimler ve η λέξη – οι λέξεις türü.",
+    "en": "Feminine nouns in -α, -η, -ος and the η λέξη – οι λέξεις type."
+   },
+   "blocks": [
+    {
+     "type": "p",
+     "text": {
+      "el": "Τα θηλυκά παίρνουν το άρθρο **η** και τελειώνουν συνήθως σε **-α** ή **-η**. Ο κανόνας είναι απλός: στη γενική ενικού προσθέτουμε **-ς** (της ώρας, της αδελφής) και στον πληθυντικό η κατάληξη γίνεται **-ες** (οι ώρες, οι αδελφές).",
+      "tr": "Dişil isimler **η** artikelini alır ve genellikle **-α** ya da **-η** ile biter. Kural basittir: tekil -in hâlinde **-ς** eklenir (της ώρας, της αδελφής), çoğulda ek **-ες** olur (οι ώρες, οι αδελφές).",
+      "en": "Feminine nouns take the article **η** and usually end in **-α** or **-η**. The rule is simple: in the genitive singular add **-ς** (της ώρας, της αδελφής), and in the plural the ending becomes **-ες** (οι ώρες, οι αδελφές)."
+     }
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "η θάλασσα",
+      "tr": "deniz",
+      "en": "sea"
+     },
+     "note": {
+      "el": "Τύπος -α. Η γενική πληθυντικού παίρνει τόνο στο τέλος (-ών): η ώρα → των ωρών, η γυναίκα → των γυναικών.",
+      "tr": "-α türü. Çoğul -in hâlinde vurgu sona geçer (-ών): η ώρα (saat) → των ωρών, η γυναίκα (kadın) → των γυναικών.",
+      "en": "The -α type. The genitive plural is stressed on the end (-ών): η ώρα → των ωρών, η γυναίκα → των γυναικών."
+     },
+     "sg": [
+      "η θάλασσα",
+      "της θάλασσας",
+      "τη θάλασσα",
+      "θάλασσα"
+     ],
+     "pl": [
+      "οι θάλασσες",
+      "των θαλασσών",
+      "τις θάλασσες",
+      "θάλασσες"
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Προσοχή στις εξαιρέσεις: μερικά θηλυκά σε -α κρατούν τον τόνο στη θέση του στη γενική πληθυντικού, π.χ. η μητέρα → των μητέρων. Σε αμφιβολία, ελέγξτε το λεξικό.",
+      "tr": "İstisnalara dikkat: -α ile biten bazı dişiller çoğul -in hâlinde vurguyu yerinde tutar, ör. η μητέρα (anne) → των μητέρων. Emin değilseniz sözlüğe bakın.",
+      "en": "Watch the exceptions: some feminines in -α keep their stress in place in the genitive plural, e.g. η μητέρα → των μητέρων. When in doubt, check a dictionary."
+     }
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "η αδελφή",
+      "tr": "kız kardeş",
+      "en": "sister"
+     },
+     "note": {
+      "el": "Τύπος -η με πληθυντικό σε -ες. Έτσι και: η φωνή, η ψυχή, η αρχή.",
+      "tr": "Çoğulu -ες olan -η türü. Aynı şekilde: η φωνή (ses), η ψυχή (ruh), η αρχή (başlangıç).",
+      "en": "The -η type with plural in -ες. Also: η φωνή, η ψυχή, η αρχή."
+     },
+     "sg": [
+      "η αδελφή",
+      "της αδελφής",
+      "την αδελφή",
+      "αδελφή"
+     ],
+     "pl": [
+      "οι αδελφές",
+      "των αδελφών",
+      "τις αδελφές",
+      "αδελφές"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "η λέξη",
+      "tr": "kelime",
+      "en": "word"
+     },
+     "note": {
+      "el": "Τύπος -ση / -ξη / -ψη: πληθυντικός σε **-εις**, γενική πληθυντικού σε **-εων**. Έτσι και: η πόλη, η τάξη, η άσκηση, η απάντηση. Ο παλιός τύπος γενικής -εως ζει σε σταθερές φράσεις (της πόλεως).",
+      "tr": "-ση / -ξη / -ψη türü: çoğul **-εις**, çoğul -in hâli **-εων**. Aynı şekilde: η πόλη (şehir), η τάξη (sınıf), η άσκηση (alıştırma), η απάντηση (cevap). Eski -εως biçimi kalıplaşmış ifadelerde yaşar (της πόλεως).",
+      "en": "The -ση / -ξη / -ψη type: plural in **-εις**, genitive plural in **-εων**. Also: η πόλη, η τάξη, η άσκηση, η απάντηση. The old genitive in -εως survives in set phrases (της πόλεως)."
+     },
+     "sg": [
+      "η λέξη",
+      "της λέξης",
+      "τη λέξη",
+      "λέξη"
+     ],
+     "pl": [
+      "οι λέξεις",
+      "των λέξεων",
+      "τις λέξεις",
+      "λέξεις"
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Κόλπο: «η λέξη – οι λέξεις» θυμίζει το ρήμα «λες»: ακούγεται -ις αλλά γράφεται **-εις**. Μη γράψετε «οι λέξης» ✗· το **-ης** είναι μόνο για τη γενική ενικού (της λέξης).",
+      "tr": "Püf noktası: «οι λέξεις» sonu «-is» diye okunur ama **-εις** yazılır. «οι λέξης» ✗ yazmayın; **-ης** yalnızca tekil -in hâli içindir (της λέξης).",
+      "en": "Trick: «οι λέξεις» sounds like “-is” but is spelled **-εις**. Don't write «οι λέξης» ✗; **-ης** is only the genitive singular (της λέξης)."
+     }
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "η οδός",
+      "tr": "cadde, sokak",
+      "en": "street, road"
+     },
+     "note": {
+      "el": "Θηλυκό σε -ος: κλίνεται όπως τα αρσενικά σε -ος αλλά με θηλυκό άρθρο. Έτσι και: η είσοδος, η έξοδος, η περίοδος, η μέθοδος. Η κλητική χρησιμοποιείται σπάνια.",
+      "tr": "-ος ile biten dişil: eril -ος gibi çekilir ama dişil artikel alır. Aynı şekilde: η είσοδος (giriş), η έξοδος (çıkış), η περίοδος (dönem), η μέθοδος (yöntem). Seslenme hâli nadiren kullanılır.",
+      "en": "Feminine in -ος: declined like masculine -ος nouns but with the feminine article. Also: η είσοδος, η έξοδος, η περίοδος, η μέθοδος. The vocative is rarely used."
+     },
+     "sg": [
+      "η οδός",
+      "της οδού",
+      "την οδό",
+      "οδέ"
+     ],
+     "pl": [
+      "οι οδοί",
+      "των οδών",
+      "τις οδούς",
+      "οδοί"
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Στις διευθύνσεις θα δείτε συχνά «οδός» σε γενική: «Οδός Πανεπιστημίου», και στις πινακίδες «Είσοδος / Έξοδος». Μην μπερδευτείτε από το -ος: είναι θηλυκά («η έξοδος», όχι «ο έξοδος»).",
+      "tr": "Adreslerde «οδός» kelimesini sık görürsünüz: «Οδός Πανεπιστημίου» (Üniversite Caddesi); tabelalarda «Είσοδος / Έξοδος» (Giriş / Çıkış). -ος sizi yanıltmasın: bunlar dişildir («η έξοδος», «ο έξοδος» değil).",
+      "en": "In addresses you will often see «οδός»: «Οδός Πανεπιστημίου»; on signs «Είσοδος / Έξοδος». Don't be fooled by -ος: they are feminine («η έξοδος», not «ο έξοδος»)."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "θηλυκό ουσιαστικό",
+       "tr": "dişil isim",
+       "en": "feminine noun"
+      },
+      {
+       "el": "γενική πληθυντικού",
+       "tr": "çoğul -in hâli",
+       "en": "genitive plural"
+      },
+      {
+       "el": "λήγουσα",
+       "tr": "son hece",
+       "en": "last syllable"
+      },
+      {
+       "el": "παραλήγουσα",
+       "tr": "sondan ikinci hece",
+       "en": "second-to-last syllable"
+      },
+      {
+       "el": "προπαραλήγουσα",
+       "tr": "sondan üçüncü hece",
+       "en": "third-to-last syllable"
+      },
+      {
+       "el": "οδός",
+       "tr": "cadde",
+       "en": "street"
+      }
+     ]
+    }
+   ],
+   "questions": [],
+   "sources": [
+    "https://en.wiktionary.org/wiki/θάλασσα",
+    "https://en.wiktionary.org/wiki/ώρα",
+    "https://en.wiktionary.org/wiki/μητέρα",
+    "https://en.wiktionary.org/wiki/αδελφή",
+    "https://en.wiktionary.org/wiki/λέξη",
+    "https://el.wiktionary.org/wiki/λέξη",
+    "https://en.wiktionary.org/wiki/οδός",
+    "https://el.wiktionary.org/wiki/οδός"
+   ]
+  },
+  {
+   "id": "gram-neuter",
+   "title": {
+    "el": "Ουδέτερα ουσιαστικά",
+    "tr": "Nötr isimler",
+    "en": "Neuter nouns"
+   },
+   "icon": "🏠",
+   "summary": {
+    "el": "Τα ουδέτερα σε -ο, -ι, -μα, -ος και -ιμο, και πού πάει ο τόνος στη γενική πληθυντικού.",
+    "tr": "-ο, -ι, -μα, -ος ve -ιμο ile biten nötr isimler; çoğul -in hâlinde vurgunun yeri.",
+    "en": "Neuter nouns in -ο, -ι, -μα, -ος and -ιμο, and where the stress goes in the genitive plural."
+   },
+   "blocks": [
+    {
+     "type": "p",
+     "text": {
+      "el": "Τα ουδέτερα παίρνουν το άρθρο **το / τα**. Καλά νέα: η ονομαστική, η αιτιατική και η κλητική είναι **πάντα ίδιες**, στον ενικό και στον πληθυντικό. Αλλάζει μόνο η γενική.",
+      "tr": "Nötr isimler **το / τα** artikelini alır. İyi haber: yalın, -i ve seslenme hâlleri tekilde de çoğulda da **her zaman aynıdır**. Yalnızca -in hâli değişir.",
+      "en": "Neuter nouns take the article **το / τα**. Good news: the nominative, accusative and vocative are **always the same**, in singular and plural. Only the genitive changes."
+     }
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "το βιβλίο",
+      "tr": "kitap",
+      "en": "book"
+     },
+     "note": {
+      "el": "Τύπος -ο → -α. Όταν ο τόνος είναι στην τρίτη από το τέλος συλλαβή, στη γενική κατεβαίνει μία: το πρόσωπο → του προσώπου, των προσώπων.",
+      "tr": "-ο → -α türü. Vurgu sondan üçüncü hecedeyse -in hâlinde bir hece sağa kayar: το πρόσωπο (yüz) → του προσώπου, των προσώπων.",
+      "en": "The -ο → -α type. If the stress is on the third-to-last syllable, in the genitive it moves one step right: το πρόσωπο → του προσώπου, των προσώπων."
+     },
+     "sg": [
+      "το βιβλίο",
+      "του βιβλίου",
+      "το βιβλίο",
+      "βιβλίο"
+     ],
+     "pl": [
+      "τα βιβλία",
+      "των βιβλίων",
+      "τα βιβλία",
+      "βιβλία"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "το παιδί",
+      "tr": "çocuk",
+      "en": "child"
+     },
+     "note": {
+      "el": "Τύπος -ι → -ιά. Η γενική παίρνει -ιού / -ιών με τόνο στο τέλος, ακόμη κι όταν η λέξη τονίζεται αλλού: το σπίτι → του σπιτιού, των σπιτιών.",
+      "tr": "-ι → -ιά türü. -in hâli vurgulu -ιού / -ιών alır; kelimenin vurgusu başka yerde olsa bile: το σπίτι (ev) → του σπιτιού, των σπιτιών.",
+      "en": "The -ι → -ιά type. The genitive takes stressed -ιού / -ιών, even when the word is stressed elsewhere: το σπίτι → του σπιτιού, των σπιτιών."
+     },
+     "sg": [
+      "το παιδί",
+      "του παιδιού",
+      "το παιδί",
+      "παιδί"
+     ],
+     "pl": [
+      "τα παιδιά",
+      "των παιδιών",
+      "τα παιδιά",
+      "παιδιά"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "το όνομα",
+      "tr": "isim, ad",
+      "en": "name"
+     },
+     "note": {
+      "el": "Τύπος -μα → -ματα: η λέξη μεγαλώνει κατά μία συλλαβή (-ματος, -ματα, -μάτων). Έτσι και: το πρόβλημα, το μάθημα, το χρώμα.",
+      "tr": "-μα → -ματα türü: kelime bir hece uzar (-ματος, -ματα, -μάτων). Aynı şekilde: το πρόβλημα (sorun), το μάθημα (ders), το χρώμα (renk).",
+      "en": "The -μα → -ματα type: the word grows by one syllable (-ματος, -ματα, -μάτων). Also: το πρόβλημα, το μάθημα, το χρώμα."
+     },
+     "sg": [
+      "το όνομα",
+      "του ονόματος",
+      "το όνομα",
+      "όνομα"
+     ],
+     "pl": [
+      "τα ονόματα",
+      "των ονομάτων",
+      "τα ονόματα",
+      "ονόματα"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "το δάσος",
+      "tr": "orman",
+      "en": "forest"
+     },
+     "note": {
+      "el": "Ουδέτερο σε -ος (μην το μπερδέψετε με τα αρσενικά!): γενική -ους, πληθυντικός -η, γενική πληθυντικού -ών. Έτσι και: το λάθος, το μέρος, το έθνος.",
+      "tr": "-ος ile biten nötr (erillerle karıştırmayın!): -in hâli -ους, çoğul -η, çoğul -in hâli -ών. Aynı şekilde: το λάθος (hata), το μέρος (yer), το έθνος (ulus).",
+      "en": "Neuter in -ος (don't confuse it with masculines!): genitive -ους, plural -η, genitive plural -ών. Also: το λάθος, το μέρος, το έθνος."
+     },
+     "sg": [
+      "το δάσος",
+      "του δάσους",
+      "το δάσος",
+      "δάσος"
+     ],
+     "pl": [
+      "τα δάση",
+      "των δασών",
+      "τα δάση",
+      "δάση"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "το γράψιμο",
+      "tr": "yazma, yazı",
+      "en": "writing"
+     },
+     "note": {
+      "el": "Τύπος -ιμο (ουσιαστικά από ρήματα): κλίνεται σαν το -μα (-ίματος, -ίματα, -ιμάτων). Έτσι και: το τρέξιμο, το πλύσιμο, το διάβασμα (-μα).",
+      "tr": "-ιμο türü (fiilden türeyen isimler): -μα gibi çekilir (-ίματος, -ίματα, -ιμάτων). Aynı şekilde: το τρέξιμο (koşma), το πλύσιμο (yıkama), το διάβασμα (okuma, -μα türü).",
+      "en": "The -ιμο type (nouns made from verbs): declined like -μα (-ίματος, -ίματα, -ιμάτων). Also: το τρέξιμο, το πλύσιμο, το διάβασμα (-μα type)."
+     },
+     "sg": [
+      "το γράψιμο",
+      "του γραψίματος",
+      "το γράψιμο",
+      "γράψιμο"
+     ],
+     "pl": [
+      "τα γραψίματα",
+      "των γραψιμάτων",
+      "τα γραψίματα",
+      "γραψίματα"
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Γενική πληθυντικού – σύντομοι κανόνες τόνου:",
+       "tr": "Çoğul -in hâli – kısa vurgu kuralları:",
+       "en": "Genitive plural – short stress rules:"
+      },
+      {
+       "el": "-ο: ο τόνος μένει, εκτός αν η λέξη τονίζεται στην τρίτη από το τέλος (βιβλίων, αλλά προσώπων).",
+       "tr": "-ο: vurgu yerinde kalır; kelime sondan üçüncü heceden vurguluysa kayar (βιβλίων ama προσώπων).",
+       "en": "-ο: the stress stays, unless the word is stressed on the third-to-last syllable (βιβλίων, but προσώπων)."
+      },
+      {
+       "el": "-ι: πάντα -ιών στο τέλος (παιδιών, σπιτιών).",
+       "tr": "-ι: her zaman sonda vurgulu -ιών (παιδιών, σπιτιών).",
+       "en": "-ι: always stressed -ιών (παιδιών, σπιτιών)."
+      },
+      {
+       "el": "-μα / -ιμο: τόνος στην παραλήγουσα (ονομάτων, γραψιμάτων).",
+       "tr": "-μα / -ιμο: vurgu sondan ikinci hecede (ονομάτων, γραψιμάτων).",
+       "en": "-μα / -ιμο: stress on the second-to-last syllable (ονομάτων, γραψιμάτων)."
+      },
+      {
+       "el": "-ος: πάντα -ών στο τέλος (δασών, λαθών).",
+       "tr": "-ος: her zaman sonda vurgulu -ών (δασών, λαθών).",
+       "en": "-ος: always stressed -ών (δασών, λαθών)."
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Συχνό λάθος: «του δάσου» ✗ → «του δάσους» ✓, και «τα δάσοι» ✗ → «τα δάση» ✓. Αν η λέξη σε -ος έχει άρθρο **το**, ακολουθεί τον τύπο του «δάσος».",
+      "tr": "Sık yapılan hata: «του δάσου» ✗ → «του δάσους» ✓ ve «τα δάσοι» ✗ → «τα δάση» ✓. -ος ile biten kelime **το** artikeli alıyorsa «δάσος» gibi çekilir.",
+      "en": "Common mistake: «του δάσου» ✗ → «του δάσους» ✓, and «τα δάσοι» ✗ → «τα δάση» ✓. If an -ος word has the article **το**, it follows the «δάσος» pattern."
+     }
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Κόλπο για τα μικρά παιδιά και ζώα: τα υποκοριστικά σε -άκι είναι πάντα ουδέτερα, ακόμη κι αν δείχνουν αγόρι ή κορίτσι: το κοριτσάκι, το σπιτάκι, το σκυλάκι.",
+      "tr": "Küçültme ekiyle ilgili püf noktası: -άκι ile biten küçültme isimleri, oğlan ya da kız gösterse bile her zaman nötrdür: το κοριτσάκι (küçük kız), το σπιτάκι (evcik), το σκυλάκι (köpecik).",
+      "en": "Trick: diminutives in -άκι are always neuter, even when they refer to a boy or a girl: το κοριτσάκι, το σπιτάκι, το σκυλάκι."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "ουδέτερο ουσιαστικό",
+       "tr": "nötr isim",
+       "en": "neuter noun"
+      },
+      {
+       "el": "υποκοριστικό",
+       "tr": "küçültme ismi",
+       "en": "diminutive"
+      },
+      {
+       "el": "γενική ενικού",
+       "tr": "tekil -in hâli",
+       "en": "genitive singular"
+      },
+      {
+       "el": "γενική πληθυντικού",
+       "tr": "çoğul -in hâli",
+       "en": "genitive plural"
+      },
+      {
+       "el": "τόνος",
+       "tr": "vurgu",
+       "en": "stress, accent"
+      },
+      {
+       "el": "παραλήγουσα",
+       "tr": "sondan ikinci hece",
+       "en": "second-to-last syllable"
+      }
+     ]
+    }
+   ],
+   "questions": [],
+   "sources": [
+    "https://en.wiktionary.org/wiki/βιβλίο",
+    "https://el.wiktionary.org/wiki/πρόσωπο",
+    "https://en.wiktionary.org/wiki/παιδί",
+    "https://en.wiktionary.org/wiki/σπίτι",
+    "https://en.wiktionary.org/wiki/όνομα",
+    "https://en.wiktionary.org/wiki/δάσος",
+    "https://en.wiktionary.org/wiki/γράψιμο"
+   ]
+  },
+  {
+   "id": "gram-adjectives",
+   "title": {
+    "el": "Τα επίθετα",
+    "tr": "Sıfatlar",
+    "en": "Adjectives"
+   },
+   "icon": "🎨",
+   "summary": {
+    "el": "Τα επίθετα σε -ος/-η/-ο, -ος/-α/-ο, -ύς/-ιά/-ύ και -ής/-ής/-ές, και η συμφωνία με το ουσιαστικό.",
+    "tr": "-ος/-η/-ο, -ος/-α/-ο, -ύς/-ιά/-ύ ve -ής/-ής/-ές sıfatları ve isimle uyum.",
+    "en": "Adjectives in -ος/-η/-ο, -ος/-α/-ο, -ύς/-ιά/-ύ and -ής/-ής/-ές, and agreement with the noun."
+   },
+   "blocks": [
+    {
+     "type": "p",
+     "text": {
+      "el": "Στα τουρκικά το επίθετο δεν αλλάζει (iyi adam, iyi kadın, iyi çocuklar). Στα ελληνικά το επίθετο **συμφωνεί** με το ουσιαστικό σε **γένος, πτώση και αριθμό**: ο καλ**ός** φίλος, η καλ**ή** φίλη, το καλ**ό** παιδί, των καλ**ών** μαθητών.",
+      "tr": "Türkçede sıfat değişmez (iyi adam, iyi kadın, iyi çocuklar). Yunancada sıfat isimle **cins, hâl ve sayı** bakımından **uyuşur**: ο καλ**ός** φίλος (iyi arkadaş), η καλ**ή** φίλη (iyi kız arkadaş), το καλ**ό** παιδί (iyi çocuk), των καλ**ών** μαθητών (iyi öğrencilerin).",
+      "en": "In Turkish the adjective never changes (iyi adam, iyi kadın, iyi çocuklar). In Greek the adjective **agrees** with the noun in **gender, case and number**: ο καλ**ός** φίλος, η καλ**ή** φίλη, το καλ**ό** παιδί, των καλ**ών** μαθητών."
+     }
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "καλός (αρσενικό)",
+      "tr": "iyi (eril)",
+      "en": "good (masculine)"
+     },
+     "note": {
+      "el": "Τύπος -ος/-η/-ο: το αρσενικό κλίνεται σαν «ο δρόμος». Έτσι και: μεγάλος, μικρός.",
+      "tr": "-ος/-η/-ο türü: eril biçim «ο δρόμος» gibi çekilir. Aynı şekilde: μεγάλος (büyük), μικρός (küçük).",
+      "en": "The -ος/-η/-ο type: the masculine declines like «ο δρόμος». Also: μεγάλος, μικρός."
+     },
+     "sg": [
+      "ο καλός",
+      "του καλού",
+      "τον καλό",
+      "καλέ"
+     ],
+     "pl": [
+      "οι καλοί",
+      "των καλών",
+      "τους καλούς",
+      "καλοί"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "καλός (θηλυκό)",
+      "tr": "iyi (dişil)",
+      "en": "good (feminine)"
+     },
+     "note": {
+      "el": "Το θηλυκό κλίνεται σαν «η αδελφή».",
+      "tr": "Dişil biçim «η αδελφή» gibi çekilir.",
+      "en": "The feminine declines like «η αδελφή»."
+     },
+     "sg": [
+      "η καλή",
+      "της καλής",
+      "την καλή",
+      "καλή"
+     ],
+     "pl": [
+      "οι καλές",
+      "των καλών",
+      "τις καλές",
+      "καλές"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "καλός (ουδέτερο)",
+      "tr": "iyi (nötr)",
+      "en": "good (neuter)"
+     },
+     "note": {
+      "el": "Το ουδέτερο κλίνεται σαν «το βιβλίο».",
+      "tr": "Nötr biçim «το βιβλίο» gibi çekilir.",
+      "en": "The neuter declines like «το βιβλίο»."
+     },
+     "sg": [
+      "το καλό",
+      "του καλού",
+      "το καλό",
+      "καλό"
+     ],
+     "pl": [
+      "τα καλά",
+      "των καλών",
+      "τα καλά",
+      "καλά"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "ωραίος (αρσενικό)",
+      "tr": "güzel (eril)",
+      "en": "beautiful, nice (masculine)"
+     },
+     "note": {
+      "el": "Τύπος -ος/-α/-ο: συνήθως όταν πριν από την κατάληξη υπάρχει φωνήεν: νέος – νέα, αρχαίος – αρχαία, κρύος – κρύα.",
+      "tr": "-ος/-α/-ο türü: genellikle ekten önce ünlü varsa: νέος – νέα (yeni, genç), αρχαίος – αρχαία (antik), κρύος – κρύα (soğuk).",
+      "en": "The -ος/-α/-ο type: usually when a vowel comes before the ending: νέος – νέα, αρχαίος – αρχαία, κρύος – κρύα."
+     },
+     "sg": [
+      "ο ωραίος",
+      "του ωραίου",
+      "τον ωραίο",
+      "ωραίε"
+     ],
+     "pl": [
+      "οι ωραίοι",
+      "των ωραίων",
+      "τους ωραίους",
+      "ωραίοι"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "ωραίος (θηλυκό)",
+      "tr": "güzel (dişil)",
+      "en": "beautiful, nice (feminine)"
+     },
+     "note": {
+      "el": "Προσοχή: η γενική πληθυντικού του επιθέτου είναι ίδια σε όλα τα γένη (ωραίων) και δεν παίρνει τόνο στο τέλος όπως το «θαλασσών».",
+      "tr": "Dikkat: sıfatın çoğul -in hâli her cinste aynıdır (ωραίων) ve «θαλασσών» gibi vurguyu sona almaz.",
+      "en": "Note: the adjective's genitive plural is the same for all genders (ωραίων) and does not move the stress to the end like «θαλασσών»."
+     },
+     "sg": [
+      "η ωραία",
+      "της ωραίας",
+      "την ωραία",
+      "ωραία"
+     ],
+     "pl": [
+      "οι ωραίες",
+      "των ωραίων",
+      "τις ωραίες",
+      "ωραίες"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "ωραίος (ουδέτερο)",
+      "tr": "güzel (nötr)",
+      "en": "beautiful, nice (neuter)"
+     },
+     "note": null,
+     "sg": [
+      "το ωραίο",
+      "του ωραίου",
+      "το ωραίο",
+      "ωραίο"
+     ],
+     "pl": [
+      "τα ωραία",
+      "των ωραίων",
+      "τα ωραία",
+      "ωραία"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "βαθύς (αρσενικό)",
+      "tr": "derin (eril)",
+      "en": "deep (masculine)"
+     },
+     "note": {
+      "el": "Τύπος -ύς/-ιά/-ύ. Έτσι και: φαρδύς (φαρδιά), βαρύς (βαριά), μακρύς (μακριά). Στον πληθυντικό εμφανίζεται -ι-: βαθιοί, βαθιές, βαθιά.",
+      "tr": "-ύς/-ιά/-ύ türü. Aynı şekilde: φαρδύς (geniş), βαρύς (ağır), μακρύς (uzun). Çoğulda -ι- belirir: βαθιοί, βαθιές, βαθιά.",
+      "en": "The -ύς/-ιά/-ύ type. Also: φαρδύς, βαρύς, μακρύς. In the plural an -ι- appears: βαθιοί, βαθιές, βαθιά."
+     },
+     "sg": [
+      "ο βαθύς",
+      "του βαθιού / βαθύ",
+      "τον βαθύ",
+      "βαθύ"
+     ],
+     "pl": [
+      "οι βαθιοί",
+      "των βαθιών",
+      "τους βαθιούς",
+      "βαθιοί"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "βαθύς (θηλυκό)",
+      "tr": "derin (dişil)",
+      "en": "deep (feminine)"
+     },
+     "note": {
+      "el": "Λόγιοι τύποι (βαθεία, βαθέος) ζουν μόνο σε όρους και σταθερές εκφράσεις.",
+      "tr": "Eski/resmî biçimler (βαθεία, βαθέος) yalnızca terimlerde ve kalıplarda yaşar.",
+      "en": "Learned forms (βαθεία, βαθέος) survive only in terms and set phrases."
+     },
+     "sg": [
+      "η βαθιά",
+      "της βαθιάς",
+      "τη βαθιά",
+      "βαθιά"
+     ],
+     "pl": [
+      "οι βαθιές",
+      "των βαθιών",
+      "τις βαθιές",
+      "βαθιές"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "βαθύς (ουδέτερο)",
+      "tr": "derin (nötr)",
+      "en": "deep (neuter)"
+     },
+     "note": null,
+     "sg": [
+      "το βαθύ",
+      "του βαθιού / βαθύ",
+      "το βαθύ",
+      "βαθύ"
+     ],
+     "pl": [
+      "τα βαθιά",
+      "των βαθιών",
+      "τα βαθιά",
+      "βαθιά"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "συνεχής (αρσενικό)",
+      "tr": "sürekli (eril)",
+      "en": "continuous (masculine)"
+     },
+     "note": {
+      "el": "Τύπος -ής/-ής/-ές (λόγιος). Αρσενικό και θηλυκό έχουν ίδια κατάληξη. Έτσι και: ακριβής, σαφής, υγιής. Ο τύπος γενικής «συνεχή» είναι προφορικός.",
+      "tr": "-ής/-ής/-ές türü (resmî kökenli). Eril ve dişil aynı ekleri alır. Aynı şekilde: ακριβής (kesin), σαφής (açık), υγιής (sağlıklı). «συνεχή» -in hâli konuşma diline aittir.",
+      "en": "The -ής/-ής/-ές type (learned). Masculine and feminine share the same endings. Also: ακριβής, σαφής, υγιής. The genitive «συνεχή» is colloquial."
+     },
+     "sg": [
+      "ο συνεχής",
+      "του συνεχούς / συνεχή",
+      "τον συνεχή",
+      "συνεχή / συνεχής"
+     ],
+     "pl": [
+      "οι συνεχείς",
+      "των συνεχών",
+      "τους συνεχείς",
+      "συνεχείς"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "συνεχής (θηλυκό)",
+      "tr": "sürekli (dişil)",
+      "en": "continuous (feminine)"
+     },
+     "note": null,
+     "sg": [
+      "η συνεχής",
+      "της συνεχούς",
+      "τη συνεχή",
+      "συνεχής"
+     ],
+     "pl": [
+      "οι συνεχείς",
+      "των συνεχών",
+      "τις συνεχείς",
+      "συνεχείς"
+     ]
+    },
+    {
+     "type": "decl",
+     "word": {
+      "el": "συνεχής (ουδέτερο)",
+      "tr": "sürekli (nötr)",
+      "en": "continuous (neuter)"
+     },
+     "note": {
+      "el": "Προσοχή: «τα συνεχή» (ουδέτερο πληθ.) αλλά «οι συνεχείς» (αρσ./θηλ. πληθ.).",
+      "tr": "Dikkat: «τα συνεχή» (nötr çoğul) ama «οι συνεχείς» (eril/dişil çoğul).",
+      "en": "Careful: «τα συνεχή» (neuter plural) but «οι συνεχείς» (masc./fem. plural)."
+     },
+     "sg": [
+      "το συνεχές",
+      "του συνεχούς",
+      "το συνεχές",
+      "συνεχές"
+     ],
+     "pl": [
+      "τα συνεχή",
+      "των συνεχών",
+      "τα συνεχή",
+      "συνεχή"
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Η κατάληξη του επιθέτου δεν «ριμάρει» πάντα με του ουσιαστικού: ο καλ**ός** μαθητ**ής**, η ωραί**α** πόλ**η**, ο ζεστ**ός** καφ**ές**.",
+       "tr": "Sıfatın eki her zaman ismin ekiyle «kafiyeli» değildir: ο καλ**ός** μαθητ**ής** (iyi öğrenci), η ωραί**α** πόλ**η** (güzel şehir), ο ζεστ**ός** καφ**ές** (sıcak kahve).",
+       "en": "The adjective's ending does not always “rhyme” with the noun's: ο καλ**ός** μαθητ**ής**, η ωραί**α** πόλ**η**, ο ζεστ**ός** καφ**ές**."
+      },
+      {
+       "el": "Το επίθετο μπαίνει συνήθως πριν από το ουσιαστικό: **ένα μεγάλο σπίτι**. Μετά το «είμαι» συμφωνεί πάλι: Η θάλασσα είναι **βαθιά**. Τα παιδιά είναι **καλά**.",
+       "tr": "Sıfat genellikle ismin önüne gelir: **ένα μεγάλο σπίτι** (büyük bir ev). «είμαι»dan sonra da uyum devam eder: Η θάλασσα είναι **βαθιά** (deniz derin). Τα παιδιά είναι **καλά** (çocuklar iyi).",
+       "en": "The adjective usually comes before the noun: **ένα μεγάλο σπίτι**. After «είμαι» it still agrees: Η θάλασσα είναι **βαθιά**. Τα παιδιά είναι **καλά**."
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Συχνό λάθος των Τούρκων: να χρησιμοποιούν το αρσενικό για όλα («η θάλασσα είναι βαθύς» ✗). Κοιτάξτε πρώτα το άρθρο του ουσιαστικού (η → -η/-α/-ιά, το → -ο/-ύ/-ές) και διαλέξτε την κατάληξη.",
+      "tr": "Türk öğrencilerin sık hatası: her şey için eril biçimi kullanmak («η θάλασσα είναι βαθύς» ✗). Önce ismin artikeline bakın (η → -η/-α/-ιά, το → -ο/-ύ/-ές), sonra eki seçin.",
+      "en": "A common mistake for Turkish speakers: using the masculine for everything («η θάλασσα είναι βαθύς» ✗). Look at the noun's article first (η → -η/-α/-ιά, το → -ο/-ύ/-ές), then pick the ending."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "επίθετο",
+       "tr": "sıfat",
+       "en": "adjective"
+      },
+      {
+       "el": "συμφωνία",
+       "tr": "uyum",
+       "en": "agreement"
+      },
+      {
+       "el": "αρσενικό",
+       "tr": "eril",
+       "en": "masculine"
+      },
+      {
+       "el": "θηλυκό",
+       "tr": "dişil",
+       "en": "feminine"
+      },
+      {
+       "el": "ουδέτερο",
+       "tr": "nötr",
+       "en": "neuter"
+      },
+      {
+       "el": "ενικός",
+       "tr": "tekil",
+       "en": "singular"
+      },
+      {
+       "el": "πληθυντικός",
+       "tr": "çoğul",
+       "en": "plural"
+      }
+     ]
+    }
+   ],
+   "questions": [],
+   "sources": [
+    "https://en.wiktionary.org/wiki/καλός",
+    "https://en.wiktionary.org/wiki/ωραίος",
+    "https://en.wiktionary.org/wiki/βαθύς",
+    "https://el.wiktionary.org/wiki/βαθύς",
+    "https://en.wiktionary.org/wiki/συνεχής",
+    "https://el.wiktionary.org/wiki/συνεχής"
+   ]
+  }
+ ]
+}

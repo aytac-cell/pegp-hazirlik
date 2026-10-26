@@ -743,12 +743,15 @@
     return learnSection(subj, les, sec);
   }
 
+  // lessons also include the grammar course, which has no exam questions
+  const LSUBJECTS = SUBJECTS.concat([{ id: "gram", icon: "📝", el: "Γραμματική" }]);
+
   function readCount(les) { return les.sections.filter(x => Store.data.read[x.id]).length; }
 
   function learnIndex() {
     html(`<h1>📖 ${esc(t("learnTitle"))}</h1>
       <p class="muted">${esc(t("learnIntro"))}</p>
-      <div class="grid grid-2">${SUBJECTS.map(s => {
+      <div class="grid grid-2">${LSUBJECTS.map(s => {
         const les = LES()[s.id];
         if (!les) return "";
         const n = les.sections.length, r = readCount(les);
@@ -763,7 +766,7 @@
   }
 
   function learnToc(subj, les) {
-    const s = SUBJECTS.find(x => x.id === subj);
+    const s = LSUBJECTS.find(x => x.id === subj);
     const next = les.sections.find(x => !Store.data.read[x.id]) || les.sections[0];
     html(`<div class="lesson">
       <div class="card" style="border-top:4px solid var(--${subj});margin-bottom:1rem">
@@ -772,18 +775,23 @@
         ${lessonLangSeg()}
         <div class="row" style="margin-top:.8rem">
           <a class="btn btn-primary" href="#/learn?s=${subj}&sec=${next.id}">▶ ${esc(readCount(les) ? t("continueLesson") : t("readLesson"))}</a>
-          <a class="btn" href="#/study?s=${subj}">${esc(t("studySubject"))}</a>
+          ${subj !== "gram" ? `<a class="btn" href="#/study?s=${subj}">${esc(t("studySubject"))}</a>` : ""}
         </div>
       </div>
       <h2>${esc(t("toc"))}</h2>
       <div class="toc">${les.sections.map((x, i) => `<a class="card" href="#/learn?s=${subj}&sec=${x.id}">
           <span class="ic" aria-hidden="true">${x.icon || "•"}</span>
           <span><b${titleHtml(x.title).mainLang || ""}>${i + 1}. ${titleHtml(x.title).main}</b><span class="s">${rich(x.summary)}</span></span>
-          ${Store.data.read[x.id] ? `<span class="pill ok">✓ ${esc(t("readDone"))}</span>` : `<span class="small muted">${x.questions.length} ${esc(t("questions"))}</span>`}
+          ${Store.data.read[x.id] ? `<span class="pill ok">✓ ${esc(t("readDone"))}</span>` : `${x.questions.length ? `<span class="small muted">${x.questions.length} ${esc(t("questions"))}</span>` : ""}`}
         </a>`).join("")}</div>
       <p class="small muted" style="margin-top:1rem">${esc(t("learnNote"))}</p>
     </div>`);
     bindLessonLang(() => learnToc(subj, les));
+  }
+
+  function inflTitle(G) {
+    const tr = lessonLang() === "el" ? "" : c(G);
+    return `<span lang="el">${esc(G.el)}</span>${tr ? ` <span class="small muted" style="font-family:var(--font)">— ${esc(tr)}</span>` : ""}`;
   }
 
   function blockHtml(b, i) {
@@ -795,6 +803,8 @@
       case "timeline": return `<div><h3>${esc(t("timelineH"))}</h3><ul class="timeline">${b.items.map(x => `<li><span class="date">${esc(x.date)}</span>${rich(x.text)}</li>`).join("")}</ul></div>`;
       case "table": return `<div style="overflow-x:auto"><table class="table"><thead><tr>${b.head.map(h => `<th>${rich(h)}</th>`).join("")}</tr></thead><tbody>${b.rows.map(r => `<tr>${r.map(x => `<td>${rich(x)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
       case "map": return `<div data-map="${i}"></div>`;
+      case "decl": return `<div><div class="infl-title">${inflTitle(b.word)}</div>${b.note ? `<p class="small">${rich(b.note)}</p>` : ""}${Grammar.decl(b.sg, b.pl)}</div>`;
+      case "conj": return `<div><div class="infl-title">${inflTitle(b.verb)}</div>${b.note ? `<p class="small">${rich(b.note)}</p>` : ""}${Grammar.conj(b.tenses)}</div>`;
       default: return "";
     }
   }
@@ -812,9 +822,10 @@
         <div class="actions" style="margin-top:1.4rem">
           ${drillable.length ? `<a class="btn btn-primary" href="#/study?ids=${drillable.map(q => q.id).join(",")}&back=${encodeURIComponent(`#/learn?s=${subj}&sec=${sec.id}`)}">✎ ${esc(t("practiceSection", { n: drillable.length }))}</a>` : ""}
         </div>
-        <details style="margin-top:1rem"><summary class="small">${esc(t("relatedQs"))} (${qs.length})</summary>
+        ${qs.length ? `<details style="margin-top:1rem"><summary class="small">${esc(t("relatedQs"))} (${qs.length})</summary>
           <div class="qlist" style="margin-top:.5rem">${qs.map(q => `<a class="qrow" style="padding:.35rem 0" href="#/browse?id=${q.id}"><span class="num" style="color:var(--${q.subject})">${q.n}</span><span><span class="t-el" lang="el">${esc(trim(q.prompt.el, 110))}</span><span class="t-tr">${esc(trim(c(q.prompt), 110))}</span></span><span></span></a>`).join("")}</div>
-        </details>
+        </details>` : ""}
+        ${sec.sources && sec.sources.length ? `<div class="sources">${esc(t("sourcesH"))}: ${sec.sources.map(u => /^https?:\/\//.test(u) ? `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\//, ""))}</a>` : esc(u)).join(" · ")}</div>` : ""}
       </div>
       <div class="lesson-nav">
         ${prev ? `<a class="btn" href="#/learn?s=${subj}&sec=${prev.id}">${esc(t("prevSection"))}</a>` : "<span></span>"}

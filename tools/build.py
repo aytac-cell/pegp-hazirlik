@@ -91,7 +91,39 @@ def check(q):
 
 LSRC = SRC / "lessons"
 LOUT = ROOT / "data" / "lessons.js"
-BLOCKS = {"p", "list", "terms", "timeline", "map", "tip", "table"}
+BLOCKS = {"p", "list", "terms", "timeline", "map", "tip", "table", "decl", "conj"}
+TENSES = ["present", "imperfect", "aorist", "fut_cont", "fut_simple", "perfect", "pluperfect", "fut_perfect", "subj_simple", "imperative"]
+GRAM_PARTS = ["nouns", "verbs", "irregular"]
+
+def strs(xs, n):
+    return isinstance(xs, list) and len(xs) == n and all(isinstance(x, str) and x.strip() for x in xs)
+
+def check_tenses(where, tenses):
+    """tenses: list of (id, forms)"""
+    if not tenses:
+        errors.append(f"{where}: no tenses")
+    for tid, forms in tenses:
+        if tid not in TENSES:
+            errors.append(f"{where}: unknown tense {tid}")
+        elif not strs(forms, 2 if tid == "imperative" else 6):
+            errors.append(f"{where}: tense {tid} needs {2 if tid == 'imperative' else 6} forms")
+
+def load_lesson(s):
+    """Subject lessons are one file; the grammar course is assembled from part files."""
+    if s != "gram":
+        f = LSRC / f"{s}.json"
+        return json.loads(f.read_text(encoding="utf-8")) if f.exists() else None
+    intro = LSRC / "gram" / "_intro.json"
+    if not intro.exists():
+        return None
+    les = {"subject": "gram", "intro": json.loads(intro.read_text(encoding="utf-8"))["intro"], "sections": []}
+    for part in GRAM_PARTS:
+        f = LSRC / "gram" / f"{part}.json"
+        if not f.exists():
+            errors.append(f"lessons/gram: missing {part}.json")
+            continue
+        les["sections"].extend(json.loads(f.read_text(encoding="utf-8"))["sections"])
+    return les
 
 def is_T(x):
     return isinstance(x, dict) and all(isinstance(x.get(k), str) and x[k].strip() for k in ("tr", "en"))
@@ -100,12 +132,11 @@ def build_lessons(qmap):
     # lesson texts are read in Turkish, English or Greek, so every text needs all three
     is_T = is_L
     out = {}
-    for s in SUBJECTS:
-        f = LSRC / f"{s}.json"
-        if not f.exists():
-            errors.append(f"lessons: missing {f.name}")
+    for s in SUBJECTS + ["gram"]:
+        les = load_lesson(s)
+        if les is None:
+            errors.append(f"lessons: missing {s}")
             continue
-        les = json.loads(f.read_text(encoding="utf-8"))
         where = f"lessons/{s}"
         if not is_T(les.get("intro")):
             errors.append(f"{where}: intro")
@@ -141,6 +172,12 @@ def build_lessons(qmap):
                     for p in b.get("places") or [None]:
                         if not (p and is_L(p.get("name")) and 34.5 <= p.get("lat", 0) <= 42 and 19 <= p.get("lon", 0) <= 30.5):
                             errors.append(f"{bw}: place {p and p.get('name')}")
+                elif bt == "decl" and not (is_L(b.get("word")) and strs(b.get("sg"), 4) and strs(b.get("pl"), 4) and (b.get("note") is None or is_T(b.get("note")))):
+                    errors.append(f"{bw}: decl")
+                elif bt == "conj":
+                    if not is_L(b.get("verb")) or not (b.get("note") is None or is_T(b.get("note"))):
+                        errors.append(f"{bw}: conj verb/note")
+                    check_tenses(bw, [(x.get("id"), x.get("forms")) for x in b.get("tenses") or []])
                 elif bt == "table" and not (all(is_T(x) for x in b.get("head") or [None]) and all(all(is_T(c) for c in r) for r in b.get("rows") or [[None]])):
                     errors.append(f"{bw}: table")
         missing = [q for q in qmap if q.startswith(s + "-") and q not in covered]
@@ -175,6 +212,13 @@ def build_words():
                     errors.append(f"words/{wid}: missing el/pron/tr/en")
                 if not isinstance(w.get("pic", ""), str) or len(w.get("pic", "")) > 12:
                     errors.append(f"words/{wid}: pic")
+                f = w.get("forms")
+                if f is not None:
+                    if "sg" in f or "pl" in f:
+                        if not (strs(f.get("sg"), 4) and strs(f.get("pl"), 4)):
+                            errors.append(f"words/{wid}: noun forms need 4 sg + 4 pl")
+                    else:
+                        check_tenses(f"words/{wid}", list(f.items()))
         out.append(d)
     return out
 

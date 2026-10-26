@@ -1,7 +1,24 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.2.0";
+window.APP_VERSION = "1.3.0";
 window.APP_CHANGES = [
+  {
+    v: "1.3.0", date: "2026-10-26",
+    tr: [
+      "Yeni: Dilbilgisi dersi — artikeller, isim ve sıfatların artikelleriyle dört hâlde çekimi (tekil/çoğul)",
+      "Fiil zamanları: şimdiki, geçmiş sürekli, basit geçmiş (aorist), sürekli ve basit gelecek, perfect zamanlar, dilek ve emir kipi; etken ve edilgen fiiller",
+      "Düzensiz fiiller ve özel çekimleri (είμαι, έχω, πάω, λέω, τρώω, έρχομαι, γίνομαι …)",
+      "Kelime öğreticide isimlerin çekim tablosu ve fiillerin zaman çekimleri",
+      "Çekimler Vikisözlük ve Yunan Dili Portalı gibi kaynaklarla kontrol edildi; kaynaklar derslerde listeleniyor"
+    ],
+    en: [
+      "New: Grammar course — articles, declension of nouns and adjectives with articles in all four cases (singular/plural)",
+      "Verb tenses: present, imperfect, aorist, future continuous and simple, perfect tenses, subjunctive and imperative; active and passive verbs",
+      "Irregular verbs and their special forms (είμαι, έχω, πάω, λέω, τρώω, έρχομαι, γίνομαι …)",
+      "Declension tables for nouns and tense tables for verbs in the vocabulary trainer",
+      "Forms checked against sources such as Wiktionary and the Portal for the Greek Language; sources listed in the lessons"
+    ]
+  },
   {
     v: "1.2.0", date: "2026-10-26",
     tr: [

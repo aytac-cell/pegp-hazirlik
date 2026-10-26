@@ -126,7 +126,8 @@
             ${showPic && w.pic ? `<div class="word-pic sm" aria-hidden="true">${w.pic}</div>` : ""}
             <div class="word-big el" lang="el">${esc(w.el)} <button class="speak" type="button" data-act="say" aria-label="${esc(t("listen"))}">🔊</button></div>
             <div class="muted">[${esc(w.pron)}]</div>
-            <div style="margin-top:.3rem">${esc(w.tr)} · <span class="muted">${esc(w.en)}</span></div></div>`;
+            <div style="margin-top:.3rem">${esc(w.tr)} · <span class="muted">${esc(w.en)}</span></div>
+            ${w.forms ? `<details class="forms-box"><summary>${esc(t("showForms"))}</summary>${Grammar.forWord(w)}</details>` : ""}</div>`;
         body.insertAdjacentHTML("beforeend", card);
         say(w);
         const st = SRS.stateOf(it.id), now = Date.now();

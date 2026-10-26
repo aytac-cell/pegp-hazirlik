@@ -1,239 +1,3839 @@
 {
-  "level": "a2",
-  "cefr": "A2–B1",
-  "icon": "🌿",
-  "name": {"tr": "Orta", "en": "Intermediate"},
-  "blurb": {"tr": "Günlük fiiller, zaman, şehir, ulaşım, alışveriş, sağlık, iş, sıfatlar ve kalıp ifadeler.", "en": "Everyday verbs, time, town, transport, shopping, health, work, adjectives and common phrases."},
-  "cats": [
+ "level": "a2",
+ "cefr": "A2–B1",
+ "icon": "🌿",
+ "name": {
+  "tr": "Orta",
+  "en": "Intermediate"
+ },
+ "blurb": {
+  "tr": "Günlük fiiller, zaman, şehir, ulaşım, alışveriş, sağlık, iş, sıfatlar ve kalıp ifadeler.",
+  "en": "Everyday verbs, time, town, transport, shopping, health, work, adjectives and common phrases."
+ },
+ "cats": [
+  {
+   "id": "verbs",
+   "icon": "🏃",
+   "name": {
+    "el": "Ρήματα",
+    "tr": "Fiiller",
+    "en": "Verbs"
+   },
+   "words": [
     {
-      "id": "verbs",
-      "icon": "🏃",
-      "name": {"el": "Ρήματα", "tr": "Fiiller", "en": "Verbs"},
-      "words": [
-        {"id": "a2-verbs-01", "pic": "", "el": "θέλω", "pron": "thélo", "tr": "istemek", "en": "to want"},
-        {"id": "a2-verbs-02", "pic": "", "el": "μπορώ", "pron": "boró", "tr": "-ebilmek, yapabilmek", "en": "can, to be able"},
-        {"id": "a2-verbs-03", "pic": "", "el": "ξέρω", "pron": "kséro", "tr": "bilmek", "en": "to know"},
-        {"id": "a2-verbs-04", "pic": "", "el": "καταλαβαίνω", "pron": "katalavéno", "tr": "anlamak", "en": "to understand"},
-        {"id": "a2-verbs-05", "pic": "🚶", "el": "πηγαίνω", "pron": "piyéno", "tr": "gitmek", "en": "to go"},
-        {"id": "a2-verbs-06", "pic": "", "el": "έρχομαι", "pron": "érhome", "tr": "gelmek", "en": "to come"},
-        {"id": "a2-verbs-07", "pic": "👀", "el": "βλέπω", "pron": "vlépo", "tr": "görmek", "en": "to see"},
-        {"id": "a2-verbs-08", "pic": "👂", "el": "ακούω", "pron": "akúo", "tr": "duymak, dinlemek", "en": "to hear, to listen"},
-        {"id": "a2-verbs-09", "pic": "🗣️", "el": "μιλάω", "pron": "miláo", "tr": "konuşmak", "en": "to speak, to talk"},
-        {"id": "a2-verbs-10", "pic": "📖", "el": "διαβάζω", "pron": "dhiavázo", "tr": "okumak; ders çalışmak", "en": "to read; to study"},
-        {"id": "a2-verbs-11", "pic": "✍️", "el": "γράφω", "pron": "ghráfo", "tr": "yazmak", "en": "to write"},
-        {"id": "a2-verbs-12", "pic": "", "el": "ανοίγω", "pron": "anígho", "tr": "açmak", "en": "to open"},
-        {"id": "a2-verbs-13", "pic": "", "el": "κλείνω", "pron": "klíno", "tr": "kapatmak", "en": "to close"},
-        {"id": "a2-verbs-14", "pic": "", "el": "αρχίζω", "pron": "arhízo", "tr": "başlamak", "en": "to start, to begin"},
-        {"id": "a2-verbs-15", "pic": "", "el": "τελειώνω", "pron": "telióno", "tr": "bitirmek; bitmek", "en": "to finish"},
-        {"id": "a2-verbs-16", "pic": "⏳", "el": "περιμένω", "pron": "periméno", "tr": "beklemek", "en": "to wait"},
-        {"id": "a2-verbs-17", "pic": "", "el": "βοηθάω", "pron": "voitháo", "tr": "yardım etmek", "en": "to help"},
-        {"id": "a2-verbs-18", "pic": "", "el": "παίρνω", "pron": "pérno", "tr": "almak", "en": "to take, to get"}
+     "id": "a2-verbs-01",
+     "pic": "",
+     "el": "θέλω",
+     "pron": "thélo",
+     "tr": "istemek",
+     "en": "to want",
+     "forms": {
+      "present": [
+       "θέλω",
+       "θέλεις",
+       "θέλει",
+       "θέλουμε",
+       "θέλετε",
+       "θέλουν(ε)"
+      ],
+      "imperfect": [
+       "ήθελα",
+       "ήθελες",
+       "ήθελε",
+       "θέλαμε",
+       "θέλατε",
+       "ήθελαν"
+      ],
+      "aorist": [
+       "θέλησα",
+       "θέλησες",
+       "θέλησε",
+       "θελήσαμε",
+       "θελήσατε",
+       "θέλησαν"
+      ],
+      "fut_cont": [
+       "θα θέλω",
+       "θα θέλεις",
+       "θα θέλει",
+       "θα θέλουμε",
+       "θα θέλετε",
+       "θα θέλουν(ε)"
+      ],
+      "fut_simple": [
+       "θα θελήσω",
+       "θα θελήσεις",
+       "θα θελήσει",
+       "θα θελήσουμε",
+       "θα θελήσετε",
+       "θα θελήσουν(ε)"
+      ],
+      "perfect": [
+       "έχω θελήσει",
+       "έχεις θελήσει",
+       "έχει θελήσει",
+       "έχουμε θελήσει",
+       "έχετε θελήσει",
+       "έχουν(ε) θελήσει"
+      ],
+      "imperative": [
+       "θέλησε",
+       "θελήστε"
       ]
+     }
     },
     {
-      "id": "time",
-      "icon": "⏰",
-      "name": {"el": "Χρόνος", "tr": "Zaman", "en": "Time"},
-      "words": [
-        {"id": "a2-time-01", "pic": "🕐", "el": "η ώρα", "pron": "i óra", "tr": "saat; vakit", "en": "hour; time"},
-        {"id": "a2-time-02", "pic": "", "el": "η μέρα", "pron": "i méra", "tr": "gün", "en": "day"},
-        {"id": "a2-time-03", "pic": "", "el": "η εβδομάδα", "pron": "i evdhomádha", "tr": "hafta", "en": "week"},
-        {"id": "a2-time-04", "pic": "📅", "el": "ο μήνας", "pron": "o mínas", "tr": "ay (takvim)", "en": "month"},
-        {"id": "a2-time-05", "pic": "", "el": "ο χρόνος", "pron": "o hrónos", "tr": "yıl; zaman", "en": "year; time"},
-        {"id": "a2-time-06", "pic": "", "el": "σήμερα", "pron": "símera", "tr": "bugün", "en": "today"},
-        {"id": "a2-time-07", "pic": "", "el": "αύριο", "pron": "ávrio", "tr": "yarın", "en": "tomorrow"},
-        {"id": "a2-time-08", "pic": "", "el": "χθες", "pron": "hthes", "tr": "dün", "en": "yesterday"},
-        {"id": "a2-time-09", "pic": "🌅", "el": "το πρωί", "pron": "to proí", "tr": "sabah", "en": "morning"},
-        {"id": "a2-time-10", "pic": "🌆", "el": "το βράδυ", "pron": "to vrádhi", "tr": "akşam", "en": "evening"},
-        {"id": "a2-time-11", "pic": "🌙", "el": "η νύχτα", "pron": "i níhta", "tr": "gece", "en": "night"},
-        {"id": "a2-time-12", "pic": "", "el": "τώρα", "pron": "tóra", "tr": "şimdi", "en": "now"},
-        {"id": "a2-time-13", "pic": "", "el": "μετά", "pron": "metá", "tr": "sonra", "en": "after, later"},
-        {"id": "a2-time-14", "pic": "", "el": "πάντα", "pron": "pánda", "tr": "her zaman", "en": "always"},
-        {"id": "a2-time-15", "pic": "", "el": "ποτέ", "pron": "poté", "tr": "asla, hiç", "en": "never"},
-        {"id": "a2-time-16", "pic": "", "el": "αργά", "pron": "arghá", "tr": "geç; yavaşça", "en": "late; slowly"}
+     "id": "a2-verbs-02",
+     "pic": "",
+     "el": "μπορώ",
+     "pron": "boró",
+     "tr": "-ebilmek, yapabilmek",
+     "en": "can, to be able",
+     "forms": {
+      "present": [
+       "μπορώ",
+       "μπορείς",
+       "μπορεί",
+       "μπορούμε",
+       "μπορείτε",
+       "μπορούν(ε)"
+      ],
+      "imperfect": [
+       "μπορούσα",
+       "μπορούσες",
+       "μπορούσε",
+       "μπορούσαμε",
+       "μπορούσατε",
+       "μπορούσαν(ε)"
+      ],
+      "aorist": [
+       "μπόρεσα",
+       "μπόρεσες",
+       "μπόρεσε",
+       "μπορέσαμε",
+       "μπορέσατε",
+       "μπόρεσαν"
+      ],
+      "fut_cont": [
+       "θα μπορώ",
+       "θα μπορείς",
+       "θα μπορεί",
+       "θα μπορούμε",
+       "θα μπορείτε",
+       "θα μπορούν(ε)"
+      ],
+      "fut_simple": [
+       "θα μπορέσω",
+       "θα μπορέσεις",
+       "θα μπορέσει",
+       "θα μπορέσουμε",
+       "θα μπορέσετε",
+       "θα μπορέσουν(ε)"
+      ],
+      "perfect": [
+       "έχω μπορέσει",
+       "έχεις μπορέσει",
+       "έχει μπορέσει",
+       "έχουμε μπορέσει",
+       "έχετε μπορέσει",
+       "έχουν(ε) μπορέσει"
+      ],
+      "imperative": [
+       "μπόρεσε",
+       "μπορέστε"
       ]
+     }
     },
     {
-      "id": "town",
-      "icon": "🏙️",
-      "name": {"el": "Στην πόλη", "tr": "Şehirde", "en": "In town"},
-      "words": [
-        {"id": "a2-town-01", "pic": "🏙️", "el": "η πόλη", "pron": "i póli", "tr": "şehir", "en": "city, town"},
-        {"id": "a2-town-02", "pic": "🛣️", "el": "ο δρόμος", "pron": "o dhrómos", "tr": "yol, cadde", "en": "road, street"},
-        {"id": "a2-town-03", "pic": "", "el": "η πλατεία", "pron": "i platía", "tr": "meydan", "en": "square"},
-        {"id": "a2-town-04", "pic": "🏦", "el": "η τράπεζα", "pron": "i trápeza", "tr": "banka", "en": "bank"},
-        {"id": "a2-town-05", "pic": "🏤", "el": "το ταχυδρομείο", "pron": "to tahidhromío", "tr": "postane", "en": "post office"},
-        {"id": "a2-town-06", "pic": "🏥", "el": "το νοσοκομείο", "pron": "to nosokomío", "tr": "hastane", "en": "hospital"},
-        {"id": "a2-town-07", "pic": "💊", "el": "το φαρμακείο", "pron": "to farmakío", "tr": "eczane", "en": "pharmacy"},
-        {"id": "a2-town-08", "pic": "⛪", "el": "η εκκλησία", "pron": "i eklisía", "tr": "kilise", "en": "church"},
-        {"id": "a2-town-09", "pic": "🛒", "el": "το σούπερ μάρκετ", "pron": "to súper márket", "tr": "süpermarket", "en": "supermarket"},
-        {"id": "a2-town-10", "pic": "🥖", "el": "ο φούρνος", "pron": "o fúrnos", "tr": "fırın (dükkân)", "en": "bakery"},
-        {"id": "a2-town-11", "pic": "🍽️", "el": "το εστιατόριο", "pron": "to estiatório", "tr": "restoran", "en": "restaurant"},
-        {"id": "a2-town-12", "pic": "☕", "el": "το καφενείο", "pron": "to kafenío", "tr": "kahvehane", "en": "traditional café"},
-        {"id": "a2-town-13", "pic": "🌳", "el": "το πάρκο", "pron": "to párko", "tr": "park", "en": "park"},
-        {"id": "a2-town-14", "pic": "🏛️", "el": "το μουσείο", "pron": "to musío", "tr": "müze", "en": "museum"},
-        {"id": "a2-town-15", "pic": "🚓", "el": "η αστυνομία", "pron": "i astinomía", "tr": "polis (teşkilat)", "en": "police"},
-        {"id": "a2-town-16", "pic": "", "el": "το περίπτερο", "pron": "to períptero", "tr": "büfe", "en": "kiosk"}
+     "id": "a2-verbs-03",
+     "pic": "",
+     "el": "ξέρω",
+     "pron": "kséro",
+     "tr": "bilmek",
+     "en": "to know",
+     "forms": {
+      "present": [
+       "ξέρω",
+       "ξέρεις",
+       "ξέρει",
+       "ξέρουμε",
+       "ξέρετε",
+       "ξέρουν(ε)"
+      ],
+      "imperfect": [
+       "ήξερα",
+       "ήξερες",
+       "ήξερε",
+       "ξέραμε",
+       "ξέρατε",
+       "ήξεραν"
+      ],
+      "aorist": [
+       "—",
+       "—",
+       "—",
+       "—",
+       "—",
+       "—"
+      ],
+      "fut_cont": [
+       "θα ξέρω",
+       "θα ξέρεις",
+       "θα ξέρει",
+       "θα ξέρουμε",
+       "θα ξέρετε",
+       "θα ξέρουν(ε)"
+      ],
+      "fut_simple": [
+       "—",
+       "—",
+       "—",
+       "—",
+       "—",
+       "—"
+      ],
+      "perfect": [
+       "—",
+       "—",
+       "—",
+       "—",
+       "—",
+       "—"
+      ],
+      "imperative": [
+       "—",
+       "—"
       ]
+     }
     },
     {
-      "id": "travel",
-      "icon": "🚌",
-      "name": {"el": "Μεταφορές και ταξίδια", "tr": "Ulaşım ve seyahat", "en": "Transport & travel"},
-      "words": [
-        {"id": "a2-travel-01", "pic": "🚌", "el": "το λεωφορείο", "pron": "to leoforío", "tr": "otobüs", "en": "bus"},
-        {"id": "a2-travel-02", "pic": "🚕", "el": "το ταξί", "pron": "to taksí", "tr": "taksi", "en": "taxi"},
-        {"id": "a2-travel-03", "pic": "🚆", "el": "το τρένο", "pron": "to tréno", "tr": "tren", "en": "train"},
-        {"id": "a2-travel-04", "pic": "🚇", "el": "το μετρό", "pron": "to metró", "tr": "metro", "en": "metro, subway"},
-        {"id": "a2-travel-05", "pic": "✈️", "el": "το αεροπλάνο", "pron": "to aeropláno", "tr": "uçak", "en": "airplane"},
-        {"id": "a2-travel-06", "pic": "🛫", "el": "το αεροδρόμιο", "pron": "to aerodhrómio", "tr": "havalimanı", "en": "airport"},
-        {"id": "a2-travel-07", "pic": "🚢", "el": "το πλοίο", "pron": "to plío", "tr": "gemi", "en": "ship"},
-        {"id": "a2-travel-08", "pic": "🚏", "el": "η στάση", "pron": "i stási", "tr": "durak", "en": "stop (bus)"},
-        {"id": "a2-travel-09", "pic": "🚉", "el": "ο σταθμός", "pron": "o stathmós", "tr": "istasyon", "en": "station"},
-        {"id": "a2-travel-10", "pic": "🎫", "el": "το εισιτήριο", "pron": "to isitírio", "tr": "bilet", "en": "ticket"},
-        {"id": "a2-travel-11", "pic": "🛂", "el": "το διαβατήριο", "pron": "to dhiavatírio", "tr": "pasaport", "en": "passport"},
-        {"id": "a2-travel-12", "pic": "🧳", "el": "η βαλίτσα", "pron": "i valítsa", "tr": "bavul", "en": "suitcase"},
-        {"id": "a2-travel-13", "pic": "🏨", "el": "το ξενοδοχείο", "pron": "to ksenodhohío", "tr": "otel", "en": "hotel"},
-        {"id": "a2-travel-14", "pic": "🗺️", "el": "ο χάρτης", "pron": "o hártis", "tr": "harita", "en": "map"},
-        {"id": "a2-travel-15", "pic": "⬅️", "el": "αριστερά", "pron": "aristerá", "tr": "sola, solda", "en": "left, on the left"},
-        {"id": "a2-travel-16", "pic": "➡️", "el": "δεξιά", "pron": "dheksiá", "tr": "sağa, sağda", "en": "right, on the right"}
+     "id": "a2-verbs-04",
+     "pic": "",
+     "el": "καταλαβαίνω",
+     "pron": "katalavéno",
+     "tr": "anlamak",
+     "en": "to understand",
+     "forms": {
+      "present": [
+       "καταλαβαίνω",
+       "καταλαβαίνεις",
+       "καταλαβαίνει",
+       "καταλαβαίνουμε",
+       "καταλαβαίνετε",
+       "καταλαβαίνουν(ε)"
+      ],
+      "imperfect": [
+       "καταλάβαινα",
+       "καταλάβαινες",
+       "καταλάβαινε",
+       "καταλαβαίναμε",
+       "καταλαβαίνατε",
+       "καταλάβαιναν"
+      ],
+      "aorist": [
+       "κατάλαβα",
+       "κατάλαβες",
+       "κατάλαβε",
+       "καταλάβαμε",
+       "καταλάβατε",
+       "κατάλαβαν"
+      ],
+      "fut_cont": [
+       "θα καταλαβαίνω",
+       "θα καταλαβαίνεις",
+       "θα καταλαβαίνει",
+       "θα καταλαβαίνουμε",
+       "θα καταλαβαίνετε",
+       "θα καταλαβαίνουν(ε)"
+      ],
+      "fut_simple": [
+       "θα καταλάβω",
+       "θα καταλάβεις",
+       "θα καταλάβει",
+       "θα καταλάβουμε",
+       "θα καταλάβετε",
+       "θα καταλάβουν(ε)"
+      ],
+      "perfect": [
+       "έχω καταλάβει",
+       "έχεις καταλάβει",
+       "έχει καταλάβει",
+       "έχουμε καταλάβει",
+       "έχετε καταλάβει",
+       "έχουν(ε) καταλάβει"
+      ],
+      "imperative": [
+       "κατάλαβε",
+       "καταλάβετε"
       ]
+     }
     },
     {
-      "id": "shopping",
-      "icon": "🛒",
-      "name": {"el": "Ψώνια και χρήματα", "tr": "Alışveriş ve para", "en": "Shopping & money"},
-      "words": [
-        {"id": "a2-shopping-01", "pic": "🛒", "el": "αγοράζω", "pron": "aghorázo", "tr": "satın almak", "en": "to buy"},
-        {"id": "a2-shopping-02", "pic": "", "el": "πληρώνω", "pron": "pliróno", "tr": "ödemek", "en": "to pay"},
-        {"id": "a2-shopping-03", "pic": "💰", "el": "τα λεφτά", "pron": "ta leftá", "tr": "para", "en": "money"},
-        {"id": "a2-shopping-04", "pic": "💶", "el": "το ευρώ", "pron": "to evró", "tr": "avro", "en": "euro"},
-        {"id": "a2-shopping-05", "pic": "🏷️", "el": "η τιμή", "pron": "i timí", "tr": "fiyat", "en": "price"},
-        {"id": "a2-shopping-06", "pic": "", "el": "Πόσο κάνει;", "pron": "póso káni", "tr": "Ne kadar? Kaça?", "en": "How much is it?"},
-        {"id": "a2-shopping-07", "pic": "", "el": "ακριβός, -ή, -ό", "pron": "akrivós", "tr": "pahalı", "en": "expensive"},
-        {"id": "a2-shopping-08", "pic": "", "el": "φθηνός, -ή, -ό", "pron": "fthinós", "tr": "ucuz", "en": "cheap"},
-        {"id": "a2-shopping-09", "pic": "🏪", "el": "το μαγαζί", "pron": "to maghazí", "tr": "dükkân", "en": "shop"},
-        {"id": "a2-shopping-10", "pic": "", "el": "η λαϊκή", "pron": "i laikí", "tr": "semt pazarı", "en": "open-air street market"},
-        {"id": "a2-shopping-11", "pic": "🧾", "el": "η απόδειξη", "pron": "i apódhiksi", "tr": "fiş, makbuz", "en": "receipt"},
-        {"id": "a2-shopping-12", "pic": "💳", "el": "η κάρτα", "pron": "i kárta", "tr": "kart (banka kartı)", "en": "card (bank card)"},
-        {"id": "a2-shopping-13", "pic": "", "el": "τα ρέστα", "pron": "ta résta", "tr": "para üstü", "en": "change (money back)"},
-        {"id": "a2-shopping-14", "pic": "", "el": "η έκπτωση", "pron": "i ékptosi", "tr": "indirim", "en": "discount"},
-        {"id": "a2-shopping-15", "pic": "🛍️", "el": "η σακούλα", "pron": "i sakúla", "tr": "poşet", "en": "bag (shopping)"},
-        {"id": "a2-shopping-16", "pic": "💵", "el": "μετρητά", "pron": "metritá", "tr": "nakit", "en": "cash"}
+     "id": "a2-verbs-05",
+     "pic": "🚶",
+     "el": "πηγαίνω",
+     "pron": "piyéno",
+     "tr": "gitmek",
+     "en": "to go",
+     "forms": {
+      "present": [
+       "πηγαίνω",
+       "πηγαίνεις",
+       "πηγαίνει",
+       "πηγαίνουμε",
+       "πηγαίνετε",
+       "πηγαίνουν(ε)"
+      ],
+      "imperfect": [
+       "πήγαινα",
+       "πήγαινες",
+       "πήγαινε",
+       "πηγαίναμε",
+       "πηγαίνατε",
+       "πήγαιναν"
+      ],
+      "aorist": [
+       "πήγα",
+       "πήγες",
+       "πήγε",
+       "πήγαμε",
+       "πήγατε",
+       "πήγαν(ε)"
+      ],
+      "fut_cont": [
+       "θα πηγαίνω",
+       "θα πηγαίνεις",
+       "θα πηγαίνει",
+       "θα πηγαίνουμε",
+       "θα πηγαίνετε",
+       "θα πηγαίνουν(ε)"
+      ],
+      "fut_simple": [
+       "θα πάω",
+       "θα πας",
+       "θα πάει",
+       "θα πάμε",
+       "θα πάτε",
+       "θα πάνε"
+      ],
+      "perfect": [
+       "έχω πάει",
+       "έχεις πάει",
+       "έχει πάει",
+       "έχουμε πάει",
+       "έχετε πάει",
+       "έχουν(ε) πάει"
+      ],
+      "imperative": [
+       "πήγαινε",
+       "πηγαίνετε"
       ]
+     }
     },
     {
-      "id": "health",
-      "icon": "🩺",
-      "name": {"el": "Υγεία", "tr": "Sağlık ve doktor", "en": "Health & doctor"},
-      "words": [
-        {"id": "a2-health-01", "pic": "🩺", "el": "ο γιατρός", "pron": "o yatrós", "tr": "doktor", "en": "doctor"},
-        {"id": "a2-health-02", "pic": "🦷", "el": "ο οδοντίατρος", "pron": "o odhondíatros", "tr": "diş hekimi", "en": "dentist"},
-        {"id": "a2-health-03", "pic": "", "el": "η νοσοκόμα", "pron": "i nosokóma", "tr": "hemşire", "en": "nurse"},
-        {"id": "a2-health-04", "pic": "🤒", "el": "άρρωστος, -η, -ο", "pron": "árostos", "tr": "hasta", "en": "sick, ill"},
-        {"id": "a2-health-05", "pic": "", "el": "πονάω", "pron": "ponáo", "tr": "ağrımak, acımak", "en": "to hurt, to ache"},
-        {"id": "a2-health-06", "pic": "", "el": "ο πόνος", "pron": "o pónos", "tr": "ağrı", "en": "pain"},
-        {"id": "a2-health-07", "pic": "🌡️", "el": "ο πυρετός", "pron": "o piretós", "tr": "ateş (hastalık)", "en": "fever"},
-        {"id": "a2-health-08", "pic": "🤕", "el": "ο πονοκέφαλος", "pron": "o ponokéfalos", "tr": "baş ağrısı", "en": "headache"},
-        {"id": "a2-health-09", "pic": "", "el": "ο βήχας", "pron": "o víhas", "tr": "öksürük", "en": "cough"},
-        {"id": "a2-health-10", "pic": "🤧", "el": "το κρυολόγημα", "pron": "to kriolóyima", "tr": "soğuk algınlığı", "en": "cold (illness)"},
-        {"id": "a2-health-11", "pic": "💊", "el": "το φάρμακο", "pron": "to fármako", "tr": "ilaç", "en": "medicine"},
-        {"id": "a2-health-12", "pic": "", "el": "η συνταγή", "pron": "i sindayí", "tr": "reçete; yemek tarifi", "en": "prescription; recipe"},
-        {"id": "a2-health-13", "pic": "", "el": "το ραντεβού", "pron": "to randevú", "tr": "randevu", "en": "appointment"},
-        {"id": "a2-health-14", "pic": "", "el": "το στομάχι", "pron": "to stomáhi", "tr": "mide", "en": "stomach"},
-        {"id": "a2-health-15", "pic": "🚑", "el": "το ασθενοφόρο", "pron": "to asthenofóro", "tr": "ambulans", "en": "ambulance"},
-        {"id": "a2-health-16", "pic": "", "el": "Περαστικά!", "pron": "perastiká", "tr": "Geçmiş olsun!", "en": "Get well soon!"}
+     "id": "a2-verbs-06",
+     "pic": "",
+     "el": "έρχομαι",
+     "pron": "érhome",
+     "tr": "gelmek",
+     "en": "to come",
+     "forms": {
+      "present": [
+       "έρχομαι",
+       "έρχεσαι",
+       "έρχεται",
+       "ερχόμαστε",
+       "έρχεστε",
+       "έρχονται"
+      ],
+      "imperfect": [
+       "ερχόμουν",
+       "ερχόσουν",
+       "ερχόταν",
+       "ερχόμασταν",
+       "ερχόσασταν",
+       "έρχονταν"
+      ],
+      "aorist": [
+       "ήρθα",
+       "ήρθες",
+       "ήρθε",
+       "ήρθαμε",
+       "ήρθατε",
+       "ήρθαν(ε)"
+      ],
+      "fut_cont": [
+       "θα έρχομαι",
+       "θα έρχεσαι",
+       "θα έρχεται",
+       "θα ερχόμαστε",
+       "θα έρχεστε",
+       "θα έρχονται"
+      ],
+      "fut_simple": [
+       "θα έρθω",
+       "θα έρθεις",
+       "θα έρθει",
+       "θα έρθουμε",
+       "θα έρθετε",
+       "θα έρθουν(ε)"
+      ],
+      "perfect": [
+       "έχω έρθει",
+       "έχεις έρθει",
+       "έχει έρθει",
+       "έχουμε έρθει",
+       "έχετε έρθει",
+       "έχουν(ε) έρθει"
+      ],
+      "imperative": [
+       "έλα",
+       "ελάτε"
       ]
+     }
     },
     {
-      "id": "work",
-      "icon": "💼",
-      "name": {"el": "Δουλειά και επαγγέλματα", "tr": "İş ve meslekler", "en": "Work & jobs"},
-      "words": [
-        {"id": "a2-work-01", "pic": "💼", "el": "η δουλειά", "pron": "i dhuliá", "tr": "iş", "en": "work, job"},
-        {"id": "a2-work-02", "pic": "", "el": "δουλεύω", "pron": "dhulévo", "tr": "çalışmak", "en": "to work"},
-        {"id": "a2-work-03", "pic": "", "el": "ο μισθός", "pron": "o misthós", "tr": "maaş", "en": "salary"},
-        {"id": "a2-work-04", "pic": "🏢", "el": "το γραφείο", "pron": "to ghrafío", "tr": "ofis; yazı masası", "en": "office; desk"},
-        {"id": "a2-work-05", "pic": "🧑‍🏫", "el": "ο δάσκαλος", "pron": "o dháskalos", "tr": "öğretmen (ilkokul)", "en": "teacher (primary school)"},
-        {"id": "a2-work-06", "pic": "", "el": "ο οδηγός", "pron": "o odhighós", "tr": "şoför, sürücü; rehber", "en": "driver; guide"},
-        {"id": "a2-work-07", "pic": "🧑‍🍳", "el": "ο μάγειρας", "pron": "o máyiras", "tr": "aşçı", "en": "cook"},
-        {"id": "a2-work-08", "pic": "", "el": "ο σερβιτόρος", "pron": "o servitóros", "tr": "garson", "en": "waiter"},
-        {"id": "a2-work-09", "pic": "👮", "el": "ο αστυνομικός", "pron": "o astinomikós", "tr": "polis memuru", "en": "police officer"},
-        {"id": "a2-work-10", "pic": "", "el": "ο δικηγόρος", "pron": "o dhikighóros", "tr": "avukat", "en": "lawyer"},
-        {"id": "a2-work-11", "pic": "", "el": "ο μηχανικός", "pron": "o mihanikós", "tr": "mühendis; tamirci", "en": "engineer; mechanic"},
-        {"id": "a2-work-12", "pic": "", "el": "ο πωλητής", "pron": "o politís", "tr": "satıcı", "en": "salesperson"},
-        {"id": "a2-work-13", "pic": "🧑‍🌾", "el": "ο αγρότης", "pron": "o aghrótis", "tr": "çiftçi", "en": "farmer"},
-        {"id": "a2-work-14", "pic": "", "el": "ο υπάλληλος", "pron": "o ipálilos", "tr": "memur, çalışan", "en": "employee, clerk"},
-        {"id": "a2-work-15", "pic": "", "el": "ο συνάδελφος", "pron": "o sinádhelfos", "tr": "iş arkadaşı", "en": "colleague"},
-        {"id": "a2-work-16", "pic": "", "el": "άνεργος, -η, -ο", "pron": "ánerghos", "tr": "işsiz", "en": "unemployed"}
+     "id": "a2-verbs-07",
+     "pic": "👀",
+     "el": "βλέπω",
+     "pron": "vlépo",
+     "tr": "görmek",
+     "en": "to see",
+     "forms": {
+      "present": [
+       "βλέπω",
+       "βλέπεις",
+       "βλέπει",
+       "βλέπουμε",
+       "βλέπετε",
+       "βλέπουν(ε)"
+      ],
+      "imperfect": [
+       "έβλεπα",
+       "έβλεπες",
+       "έβλεπε",
+       "βλέπαμε",
+       "βλέπατε",
+       "έβλεπαν"
+      ],
+      "aorist": [
+       "είδα",
+       "είδες",
+       "είδε",
+       "είδαμε",
+       "είδατε",
+       "είδαν(ε)"
+      ],
+      "fut_cont": [
+       "θα βλέπω",
+       "θα βλέπεις",
+       "θα βλέπει",
+       "θα βλέπουμε",
+       "θα βλέπετε",
+       "θα βλέπουν(ε)"
+      ],
+      "fut_simple": [
+       "θα δω",
+       "θα δεις",
+       "θα δει",
+       "θα δούμε",
+       "θα δείτε",
+       "θα δουν(ε)"
+      ],
+      "perfect": [
+       "έχω δει",
+       "έχεις δει",
+       "έχει δει",
+       "έχουμε δει",
+       "έχετε δει",
+       "έχουν(ε) δει"
+      ],
+      "imperative": [
+       "δες",
+       "δείτε"
       ]
+     }
     },
     {
-      "id": "adjectives",
-      "icon": "↔️",
-      "name": {"el": "Επίθετα και αντίθετα", "tr": "Sıfatlar ve zıtlar", "en": "Adjectives & opposites"},
-      "words": [
-        {"id": "a2-adjectives-01", "pic": "", "el": "μεγάλος, -η, -ο", "pron": "meghálos", "tr": "büyük", "en": "big"},
-        {"id": "a2-adjectives-02", "pic": "", "el": "μικρός, -ή, -ό", "pron": "mikrós", "tr": "küçük", "en": "small"},
-        {"id": "a2-adjectives-03", "pic": "", "el": "καινούργιος, -α, -ο", "pron": "kenúryos", "tr": "yeni", "en": "new"},
-        {"id": "a2-adjectives-04", "pic": "", "el": "παλιός, -ά, -ό", "pron": "paliós", "tr": "eski", "en": "old (things)"},
-        {"id": "a2-adjectives-05", "pic": "", "el": "νέος, -α, -ο", "pron": "néos", "tr": "genç; yeni", "en": "young; new"},
-        {"id": "a2-adjectives-06", "pic": "", "el": "ψηλός, -ή, -ό", "pron": "psilós", "tr": "uzun boylu; yüksek", "en": "tall; high"},
-        {"id": "a2-adjectives-07", "pic": "", "el": "κοντός, -ή, -ό", "pron": "kondós", "tr": "kısa (boy)", "en": "short"},
-        {"id": "a2-adjectives-08", "pic": "", "el": "ωραίος, -α, -ο", "pron": "oréos", "tr": "güzel, hoş", "en": "nice, beautiful"},
-        {"id": "a2-adjectives-09", "pic": "🔥", "el": "ζεστός, -ή, -ό", "pron": "zestós", "tr": "sıcak", "en": "hot, warm"},
-        {"id": "a2-adjectives-10", "pic": "🧊", "el": "κρύος, -α, -ο", "pron": "kríos", "tr": "soğuk", "en": "cold"},
-        {"id": "a2-adjectives-11", "pic": "", "el": "γρήγορος, -η, -ο", "pron": "ghríghoros", "tr": "hızlı", "en": "fast"},
-        {"id": "a2-adjectives-12", "pic": "🐢", "el": "αργός, -ή, -ό", "pron": "arghós", "tr": "yavaş", "en": "slow"},
-        {"id": "a2-adjectives-13", "pic": "", "el": "εύκολος, -η, -ο", "pron": "éfkolos", "tr": "kolay", "en": "easy"},
-        {"id": "a2-adjectives-14", "pic": "", "el": "δύσκολος, -η, -ο", "pron": "dhískolos", "tr": "zor", "en": "difficult"},
-        {"id": "a2-adjectives-15", "pic": "", "el": "γεμάτος, -η, -ο", "pron": "yemátos", "tr": "dolu", "en": "full"},
-        {"id": "a2-adjectives-16", "pic": "", "el": "άδειος, -α, -ο", "pron": "ádhios", "tr": "boş", "en": "empty"},
-        {"id": "a2-adjectives-17", "pic": "😊", "el": "χαρούμενος, -η, -ο", "pron": "harúmenos", "tr": "mutlu, neşeli", "en": "happy, cheerful"},
-        {"id": "a2-adjectives-18", "pic": "😢", "el": "λυπημένος, -η, -ο", "pron": "lipiménos", "tr": "üzgün", "en": "sad"}
+     "id": "a2-verbs-08",
+     "pic": "👂",
+     "el": "ακούω",
+     "pron": "akúo",
+     "tr": "duymak, dinlemek",
+     "en": "to hear, to listen",
+     "forms": {
+      "present": [
+       "ακούω",
+       "ακούς",
+       "ακούει",
+       "ακούμε",
+       "ακούτε",
+       "ακούν(ε)"
+      ],
+      "imperfect": [
+       "άκουγα",
+       "άκουγες",
+       "άκουγε",
+       "ακούγαμε",
+       "ακούγατε",
+       "άκουγαν"
+      ],
+      "aorist": [
+       "άκουσα",
+       "άκουσες",
+       "άκουσε",
+       "ακούσαμε",
+       "ακούσατε",
+       "άκουσαν"
+      ],
+      "fut_cont": [
+       "θα ακούω",
+       "θα ακούς",
+       "θα ακούει",
+       "θα ακούμε",
+       "θα ακούτε",
+       "θα ακούν(ε)"
+      ],
+      "fut_simple": [
+       "θα ακούσω",
+       "θα ακούσεις",
+       "θα ακούσει",
+       "θα ακούσουμε",
+       "θα ακούσετε",
+       "θα ακούσουν(ε)"
+      ],
+      "perfect": [
+       "έχω ακούσει",
+       "έχεις ακούσει",
+       "έχει ακούσει",
+       "έχουμε ακούσει",
+       "έχετε ακούσει",
+       "έχουν(ε) ακούσει"
+      ],
+      "imperative": [
+       "άκουσε",
+       "ακούστε"
       ]
+     }
     },
     {
-      "id": "phrases",
-      "icon": "💬",
-      "name": {"el": "Καθημερινές φράσεις", "tr": "Günlük ifadeler", "en": "Everyday phrases"},
-      "words": [
-        {"id": "a2-phrases-01", "pic": "", "el": "Τι κάνεις;", "pron": "ti kánis", "tr": "Nasılsın?", "en": "How are you?"},
-        {"id": "a2-phrases-02", "pic": "", "el": "Συγγνώμη", "pron": "sighnómi", "tr": "özür dilerim; pardon", "en": "sorry; excuse me"},
-        {"id": "a2-phrases-03", "pic": "", "el": "Με συγχωρείτε", "pron": "me sinhoríte", "tr": "affedersiniz (kibar)", "en": "excuse me (polite)"},
-        {"id": "a2-phrases-04", "pic": "", "el": "Δεν πειράζει", "pron": "dhen pirázi", "tr": "önemli değil, sorun değil", "en": "never mind, it's OK"},
-        {"id": "a2-phrases-05", "pic": "", "el": "Ορίστε", "pron": "oríste", "tr": "buyurun", "en": "here you are; pardon?"},
-        {"id": "a2-phrases-06", "pic": "👌", "el": "Εντάξει", "pron": "endáksi", "tr": "tamam", "en": "OK, all right"},
-        {"id": "a2-phrases-07", "pic": "", "el": "Δεν καταλαβαίνω", "pron": "dhen katalavéno", "tr": "anlamıyorum", "en": "I don't understand"},
-        {"id": "a2-phrases-08", "pic": "", "el": "Μπορείτε να επαναλάβετε;", "pron": "boríte na epanalávete", "tr": "Tekrar eder misiniz?", "en": "Could you repeat that?"},
-        {"id": "a2-phrases-09", "pic": "", "el": "Πιο σιγά, παρακαλώ", "pron": "pio sighá, parakaló", "tr": "Daha yavaş, lütfen", "en": "More slowly, please"},
-        {"id": "a2-phrases-10", "pic": "", "el": "Τι σημαίνει…;", "pron": "ti siméni", "tr": "… ne demek?", "en": "What does … mean?"},
-        {"id": "a2-phrases-11", "pic": "", "el": "Καλή όρεξη!", "pron": "kalí óreksi", "tr": "Afiyet olsun!", "en": "Enjoy your meal!"},
-        {"id": "a2-phrases-12", "pic": "🥂", "el": "Στην υγειά μας!", "pron": "stin iyiá mas", "tr": "Şerefe!", "en": "Cheers!"},
-        {"id": "a2-phrases-13", "pic": "", "el": "Καλό ταξίδι!", "pron": "kaló taksídhi", "tr": "İyi yolculuklar!", "en": "Have a good trip!"},
-        {"id": "a2-phrases-14", "pic": "🎉", "el": "Χρόνια πολλά!", "pron": "hrónia polá", "tr": "Nice yıllara! (doğum günü, bayram)", "en": "Happy birthday! / Many happy returns!"}
+     "id": "a2-verbs-09",
+     "pic": "🗣️",
+     "el": "μιλάω",
+     "pron": "miláo",
+     "tr": "konuşmak",
+     "en": "to speak, to talk",
+     "forms": {
+      "present": [
+       "μιλάω / μιλώ",
+       "μιλάς",
+       "μιλάει / μιλά",
+       "μιλάμε / μιλούμε",
+       "μιλάτε",
+       "μιλάνε / μιλούν"
+      ],
+      "imperfect": [
+       "μιλούσα",
+       "μιλούσες",
+       "μιλούσε",
+       "μιλούσαμε",
+       "μιλούσατε",
+       "μιλούσαν(ε)"
+      ],
+      "aorist": [
+       "μίλησα",
+       "μίλησες",
+       "μίλησε",
+       "μιλήσαμε",
+       "μιλήσατε",
+       "μίλησαν"
+      ],
+      "fut_cont": [
+       "θα μιλάω / θα μιλώ",
+       "θα μιλάς",
+       "θα μιλάει / θα μιλά",
+       "θα μιλάμε / θα μιλούμε",
+       "θα μιλάτε",
+       "θα μιλάνε / θα μιλούν"
+      ],
+      "fut_simple": [
+       "θα μιλήσω",
+       "θα μιλήσεις",
+       "θα μιλήσει",
+       "θα μιλήσουμε",
+       "θα μιλήσετε",
+       "θα μιλήσουν(ε)"
+      ],
+      "perfect": [
+       "έχω μιλήσει",
+       "έχεις μιλήσει",
+       "έχει μιλήσει",
+       "έχουμε μιλήσει",
+       "έχετε μιλήσει",
+       "έχουν(ε) μιλήσει"
+      ],
+      "imperative": [
+       "μίλησε",
+       "μιλήστε"
       ]
+     }
     },
     {
-      "id": "school-office",
-      "icon": "🏫",
-      "name": {"el": "Σχολείο και γραφείο", "tr": "Okul ve ofis", "en": "School & office"},
-      "words": [
-        {"id": "a2-school-office-01", "pic": "🏫", "el": "το σχολείο", "pron": "to sholío", "tr": "okul", "en": "school"},
-        {"id": "a2-school-office-02", "pic": "", "el": "ο μαθητής", "pron": "o mathitís", "tr": "öğrenci (okul)", "en": "pupil, student"},
-        {"id": "a2-school-office-03", "pic": "🎓", "el": "το πανεπιστήμιο", "pron": "to panepistímio", "tr": "üniversite", "en": "university"},
-        {"id": "a2-school-office-04", "pic": "", "el": "το μάθημα", "pron": "to máthima", "tr": "ders", "en": "lesson"},
-        {"id": "a2-school-office-05", "pic": "", "el": "η τάξη", "pron": "i táksi", "tr": "sınıf", "en": "class, classroom"},
-        {"id": "a2-school-office-06", "pic": "📕", "el": "το βιβλίο", "pron": "to vivlío", "tr": "kitap", "en": "book"},
-        {"id": "a2-school-office-07", "pic": "📓", "el": "το τετράδιο", "pron": "to tetrádhio", "tr": "defter", "en": "notebook"},
-        {"id": "a2-school-office-08", "pic": "✏️", "el": "το μολύβι", "pron": "to molívi", "tr": "kurşun kalem", "en": "pencil"},
-        {"id": "a2-school-office-09", "pic": "🖊️", "el": "το στιλό", "pron": "to stiló", "tr": "tükenmez kalem", "en": "pen"},
-        {"id": "a2-school-office-10", "pic": "💻", "el": "ο υπολογιστής", "pron": "o ipoloyistís", "tr": "bilgisayar", "en": "computer"},
-        {"id": "a2-school-office-11", "pic": "📝", "el": "οι εξετάσεις", "pron": "i eksetásis", "tr": "sınavlar", "en": "exams"},
-        {"id": "a2-school-office-12", "pic": "❓", "el": "η ερώτηση", "pron": "i erótisi", "tr": "soru", "en": "question"},
-        {"id": "a2-school-office-13", "pic": "", "el": "η απάντηση", "pron": "i apándisi", "tr": "cevap", "en": "answer"},
-        {"id": "a2-school-office-14", "pic": "", "el": "το λεξικό", "pron": "to leksikó", "tr": "sözlük", "en": "dictionary"}
+     "id": "a2-verbs-10",
+     "pic": "📖",
+     "el": "διαβάζω",
+     "pron": "dhiavázo",
+     "tr": "okumak; ders çalışmak",
+     "en": "to read; to study",
+     "forms": {
+      "present": [
+       "διαβάζω",
+       "διαβάζεις",
+       "διαβάζει",
+       "διαβάζουμε",
+       "διαβάζετε",
+       "διαβάζουν(ε)"
+      ],
+      "imperfect": [
+       "διάβαζα",
+       "διάβαζες",
+       "διάβαζε",
+       "διαβάζαμε",
+       "διαβάζατε",
+       "διάβαζαν"
+      ],
+      "aorist": [
+       "διάβασα",
+       "διάβασες",
+       "διάβασε",
+       "διαβάσαμε",
+       "διαβάσατε",
+       "διάβασαν"
+      ],
+      "fut_cont": [
+       "θα διαβάζω",
+       "θα διαβάζεις",
+       "θα διαβάζει",
+       "θα διαβάζουμε",
+       "θα διαβάζετε",
+       "θα διαβάζουν(ε)"
+      ],
+      "fut_simple": [
+       "θα διαβάσω",
+       "θα διαβάσεις",
+       "θα διαβάσει",
+       "θα διαβάσουμε",
+       "θα διαβάσετε",
+       "θα διαβάσουν(ε)"
+      ],
+      "perfect": [
+       "έχω διαβάσει",
+       "έχεις διαβάσει",
+       "έχει διαβάσει",
+       "έχουμε διαβάσει",
+       "έχετε διαβάσει",
+       "έχουν(ε) διαβάσει"
+      ],
+      "imperative": [
+       "διάβασε",
+       "διαβάστε"
       ]
+     }
+    },
+    {
+     "id": "a2-verbs-11",
+     "pic": "✍️",
+     "el": "γράφω",
+     "pron": "ghráfo",
+     "tr": "yazmak",
+     "en": "to write",
+     "forms": {
+      "present": [
+       "γράφω",
+       "γράφεις",
+       "γράφει",
+       "γράφουμε",
+       "γράφετε",
+       "γράφουν(ε)"
+      ],
+      "imperfect": [
+       "έγραφα",
+       "έγραφες",
+       "έγραφε",
+       "γράφαμε",
+       "γράφατε",
+       "έγραφαν"
+      ],
+      "aorist": [
+       "έγραψα",
+       "έγραψες",
+       "έγραψε",
+       "γράψαμε",
+       "γράψατε",
+       "έγραψαν"
+      ],
+      "fut_cont": [
+       "θα γράφω",
+       "θα γράφεις",
+       "θα γράφει",
+       "θα γράφουμε",
+       "θα γράφετε",
+       "θα γράφουν(ε)"
+      ],
+      "fut_simple": [
+       "θα γράψω",
+       "θα γράψεις",
+       "θα γράψει",
+       "θα γράψουμε",
+       "θα γράψετε",
+       "θα γράψουν(ε)"
+      ],
+      "perfect": [
+       "έχω γράψει",
+       "έχεις γράψει",
+       "έχει γράψει",
+       "έχουμε γράψει",
+       "έχετε γράψει",
+       "έχουν(ε) γράψει"
+      ],
+      "imperative": [
+       "γράψε",
+       "γράψτε"
+      ]
+     }
+    },
+    {
+     "id": "a2-verbs-12",
+     "pic": "",
+     "el": "ανοίγω",
+     "pron": "anígho",
+     "tr": "açmak",
+     "en": "to open",
+     "forms": {
+      "present": [
+       "ανοίγω",
+       "ανοίγεις",
+       "ανοίγει",
+       "ανοίγουμε",
+       "ανοίγετε",
+       "ανοίγουν(ε)"
+      ],
+      "imperfect": [
+       "άνοιγα",
+       "άνοιγες",
+       "άνοιγε",
+       "ανοίγαμε",
+       "ανοίγατε",
+       "άνοιγαν"
+      ],
+      "aorist": [
+       "άνοιξα",
+       "άνοιξες",
+       "άνοιξε",
+       "ανοίξαμε",
+       "ανοίξατε",
+       "άνοιξαν"
+      ],
+      "fut_cont": [
+       "θα ανοίγω",
+       "θα ανοίγεις",
+       "θα ανοίγει",
+       "θα ανοίγουμε",
+       "θα ανοίγετε",
+       "θα ανοίγουν(ε)"
+      ],
+      "fut_simple": [
+       "θα ανοίξω",
+       "θα ανοίξεις",
+       "θα ανοίξει",
+       "θα ανοίξουμε",
+       "θα ανοίξετε",
+       "θα ανοίξουν(ε)"
+      ],
+      "perfect": [
+       "έχω ανοίξει",
+       "έχεις ανοίξει",
+       "έχει ανοίξει",
+       "έχουμε ανοίξει",
+       "έχετε ανοίξει",
+       "έχουν(ε) ανοίξει"
+      ],
+      "imperative": [
+       "άνοιξε",
+       "ανοίξτε"
+      ]
+     }
+    },
+    {
+     "id": "a2-verbs-13",
+     "pic": "",
+     "el": "κλείνω",
+     "pron": "klíno",
+     "tr": "kapatmak",
+     "en": "to close",
+     "forms": {
+      "present": [
+       "κλείνω",
+       "κλείνεις",
+       "κλείνει",
+       "κλείνουμε",
+       "κλείνετε",
+       "κλείνουν(ε)"
+      ],
+      "imperfect": [
+       "έκλεινα",
+       "έκλεινες",
+       "έκλεινε",
+       "κλείναμε",
+       "κλείνατε",
+       "έκλειναν"
+      ],
+      "aorist": [
+       "έκλεισα",
+       "έκλεισες",
+       "έκλεισε",
+       "κλείσαμε",
+       "κλείσατε",
+       "έκλεισαν"
+      ],
+      "fut_cont": [
+       "θα κλείνω",
+       "θα κλείνεις",
+       "θα κλείνει",
+       "θα κλείνουμε",
+       "θα κλείνετε",
+       "θα κλείνουν(ε)"
+      ],
+      "fut_simple": [
+       "θα κλείσω",
+       "θα κλείσεις",
+       "θα κλείσει",
+       "θα κλείσουμε",
+       "θα κλείσετε",
+       "θα κλείσουν(ε)"
+      ],
+      "perfect": [
+       "έχω κλείσει",
+       "έχεις κλείσει",
+       "έχει κλείσει",
+       "έχουμε κλείσει",
+       "έχετε κλείσει",
+       "έχουν(ε) κλείσει"
+      ],
+      "imperative": [
+       "κλείσε",
+       "κλείστε"
+      ]
+     }
+    },
+    {
+     "id": "a2-verbs-14",
+     "pic": "",
+     "el": "αρχίζω",
+     "pron": "arhízo",
+     "tr": "başlamak",
+     "en": "to start, to begin",
+     "forms": {
+      "present": [
+       "αρχίζω",
+       "αρχίζεις",
+       "αρχίζει",
+       "αρχίζουμε",
+       "αρχίζετε",
+       "αρχίζουν(ε)"
+      ],
+      "imperfect": [
+       "άρχιζα",
+       "άρχιζες",
+       "άρχιζε",
+       "αρχίζαμε",
+       "αρχίζατε",
+       "άρχιζαν"
+      ],
+      "aorist": [
+       "άρχισα",
+       "άρχισες",
+       "άρχισε",
+       "αρχίσαμε",
+       "αρχίσατε",
+       "άρχισαν"
+      ],
+      "fut_cont": [
+       "θα αρχίζω",
+       "θα αρχίζεις",
+       "θα αρχίζει",
+       "θα αρχίζουμε",
+       "θα αρχίζετε",
+       "θα αρχίζουν(ε)"
+      ],
+      "fut_simple": [
+       "θα αρχίσω",
+       "θα αρχίσεις",
+       "θα αρχίσει",
+       "θα αρχίσουμε",
+       "θα αρχίσετε",
+       "θα αρχίσουν(ε)"
+      ],
+      "perfect": [
+       "έχω αρχίσει",
+       "έχεις αρχίσει",
+       "έχει αρχίσει",
+       "έχουμε αρχίσει",
+       "έχετε αρχίσει",
+       "έχουν(ε) αρχίσει"
+      ],
+      "imperative": [
+       "άρχισε",
+       "αρχίστε"
+      ]
+     }
+    },
+    {
+     "id": "a2-verbs-15",
+     "pic": "",
+     "el": "τελειώνω",
+     "pron": "telióno",
+     "tr": "bitirmek; bitmek",
+     "en": "to finish",
+     "forms": {
+      "present": [
+       "τελειώνω",
+       "τελειώνεις",
+       "τελειώνει",
+       "τελειώνουμε",
+       "τελειώνετε",
+       "τελειώνουν(ε)"
+      ],
+      "imperfect": [
+       "τελείωνα",
+       "τελείωνες",
+       "τελείωνε",
+       "τελειώναμε",
+       "τελειώνατε",
+       "τελείωναν"
+      ],
+      "aorist": [
+       "τελείωσα",
+       "τελείωσες",
+       "τελείωσε",
+       "τελειώσαμε",
+       "τελειώσατε",
+       "τελείωσαν"
+      ],
+      "fut_cont": [
+       "θα τελειώνω",
+       "θα τελειώνεις",
+       "θα τελειώνει",
+       "θα τελειώνουμε",
+       "θα τελειώνετε",
+       "θα τελειώνουν(ε)"
+      ],
+      "fut_simple": [
+       "θα τελειώσω",
+       "θα τελειώσεις",
+       "θα τελειώσει",
+       "θα τελειώσουμε",
+       "θα τελειώσετε",
+       "θα τελειώσουν(ε)"
+      ],
+      "perfect": [
+       "έχω τελειώσει",
+       "έχεις τελειώσει",
+       "έχει τελειώσει",
+       "έχουμε τελειώσει",
+       "έχετε τελειώσει",
+       "έχουν(ε) τελειώσει"
+      ],
+      "imperative": [
+       "τελείωσε",
+       "τελειώστε"
+      ]
+     }
+    },
+    {
+     "id": "a2-verbs-16",
+     "pic": "⏳",
+     "el": "περιμένω",
+     "pron": "periméno",
+     "tr": "beklemek",
+     "en": "to wait",
+     "forms": {
+      "present": [
+       "περιμένω",
+       "περιμένεις",
+       "περιμένει",
+       "περιμένουμε",
+       "περιμένετε",
+       "περιμένουν(ε)"
+      ],
+      "imperfect": [
+       "περίμενα",
+       "περίμενες",
+       "περίμενε",
+       "περιμέναμε",
+       "περιμένατε",
+       "περίμεναν"
+      ],
+      "aorist": [
+       "περίμενα",
+       "περίμενες",
+       "περίμενε",
+       "περιμέναμε",
+       "περιμένατε",
+       "περίμεναν"
+      ],
+      "fut_cont": [
+       "θα περιμένω",
+       "θα περιμένεις",
+       "θα περιμένει",
+       "θα περιμένουμε",
+       "θα περιμένετε",
+       "θα περιμένουν(ε)"
+      ],
+      "fut_simple": [
+       "θα περιμένω",
+       "θα περιμένεις",
+       "θα περιμένει",
+       "θα περιμένουμε",
+       "θα περιμένετε",
+       "θα περιμένουν(ε)"
+      ],
+      "perfect": [
+       "έχω περιμένει",
+       "έχεις περιμένει",
+       "έχει περιμένει",
+       "έχουμε περιμένει",
+       "έχετε περιμένει",
+       "έχουν(ε) περιμένει"
+      ],
+      "imperative": [
+       "περίμενε",
+       "περιμένετε"
+      ]
+     }
+    },
+    {
+     "id": "a2-verbs-17",
+     "pic": "",
+     "el": "βοηθάω",
+     "pron": "voitháo",
+     "tr": "yardım etmek",
+     "en": "to help",
+     "forms": {
+      "present": [
+       "βοηθάω / βοηθώ",
+       "βοηθάς",
+       "βοηθάει / βοηθά",
+       "βοηθάμε / βοηθούμε",
+       "βοηθάτε",
+       "βοηθάνε / βοηθούν"
+      ],
+      "imperfect": [
+       "βοηθούσα",
+       "βοηθούσες",
+       "βοηθούσε",
+       "βοηθούσαμε",
+       "βοηθούσατε",
+       "βοηθούσαν(ε)"
+      ],
+      "aorist": [
+       "βοήθησα",
+       "βοήθησες",
+       "βοήθησε",
+       "βοηθήσαμε",
+       "βοηθήσατε",
+       "βοήθησαν"
+      ],
+      "fut_cont": [
+       "θα βοηθάω / θα βοηθώ",
+       "θα βοηθάς",
+       "θα βοηθάει / θα βοηθά",
+       "θα βοηθάμε / θα βοηθούμε",
+       "θα βοηθάτε",
+       "θα βοηθάνε / θα βοηθούν"
+      ],
+      "fut_simple": [
+       "θα βοηθήσω",
+       "θα βοηθήσεις",
+       "θα βοηθήσει",
+       "θα βοηθήσουμε",
+       "θα βοηθήσετε",
+       "θα βοηθήσουν(ε)"
+      ],
+      "perfect": [
+       "έχω βοηθήσει",
+       "έχεις βοηθήσει",
+       "έχει βοηθήσει",
+       "έχουμε βοηθήσει",
+       "έχετε βοηθήσει",
+       "έχουν(ε) βοηθήσει"
+      ],
+      "imperative": [
+       "βοήθησε",
+       "βοηθήστε"
+      ]
+     }
+    },
+    {
+     "id": "a2-verbs-18",
+     "pic": "",
+     "el": "παίρνω",
+     "pron": "pérno",
+     "tr": "almak",
+     "en": "to take, to get",
+     "forms": {
+      "present": [
+       "παίρνω",
+       "παίρνεις",
+       "παίρνει",
+       "παίρνουμε",
+       "παίρνετε",
+       "παίρνουν(ε)"
+      ],
+      "imperfect": [
+       "έπαιρνα",
+       "έπαιρνες",
+       "έπαιρνε",
+       "παίρναμε",
+       "παίρνατε",
+       "έπαιρναν"
+      ],
+      "aorist": [
+       "πήρα",
+       "πήρες",
+       "πήρε",
+       "πήραμε",
+       "πήρατε",
+       "πήραν(ε)"
+      ],
+      "fut_cont": [
+       "θα παίρνω",
+       "θα παίρνεις",
+       "θα παίρνει",
+       "θα παίρνουμε",
+       "θα παίρνετε",
+       "θα παίρνουν(ε)"
+      ],
+      "fut_simple": [
+       "θα πάρω",
+       "θα πάρεις",
+       "θα πάρει",
+       "θα πάρουμε",
+       "θα πάρετε",
+       "θα πάρουν(ε)"
+      ],
+      "perfect": [
+       "έχω πάρει",
+       "έχεις πάρει",
+       "έχει πάρει",
+       "έχουμε πάρει",
+       "έχετε πάρει",
+       "έχουν(ε) πάρει"
+      ],
+      "imperative": [
+       "πάρε",
+       "πάρτε"
+      ]
+     }
     }
-  ]
+   ]
+  },
+  {
+   "id": "time",
+   "icon": "⏰",
+   "name": {
+    "el": "Χρόνος",
+    "tr": "Zaman",
+    "en": "Time"
+   },
+   "words": [
+    {
+     "id": "a2-time-01",
+     "pic": "🕐",
+     "el": "η ώρα",
+     "pron": "i óra",
+     "tr": "saat; vakit",
+     "en": "hour; time",
+     "forms": {
+      "sg": [
+       "η ώρα",
+       "της ώρας",
+       "την ώρα",
+       "ώρα"
+      ],
+      "pl": [
+       "οι ώρες",
+       "των ωρών",
+       "τις ώρες",
+       "ώρες"
+      ]
+     }
+    },
+    {
+     "id": "a2-time-02",
+     "pic": "",
+     "el": "η μέρα",
+     "pron": "i méra",
+     "tr": "gün",
+     "en": "day",
+     "forms": {
+      "sg": [
+       "η μέρα",
+       "της μέρας",
+       "τη μέρα",
+       "μέρα"
+      ],
+      "pl": [
+       "οι μέρες",
+       "των μερών",
+       "τις μέρες",
+       "μέρες"
+      ]
+     }
+    },
+    {
+     "id": "a2-time-03",
+     "pic": "",
+     "el": "η εβδομάδα",
+     "pron": "i evdhomádha",
+     "tr": "hafta",
+     "en": "week",
+     "forms": {
+      "sg": [
+       "η εβδομάδα",
+       "της εβδομάδας",
+       "την εβδομάδα",
+       "εβδομάδα"
+      ],
+      "pl": [
+       "οι εβδομάδες",
+       "των εβδομάδων",
+       "τις εβδομάδες",
+       "εβδομάδες"
+      ]
+     }
+    },
+    {
+     "id": "a2-time-04",
+     "pic": "📅",
+     "el": "ο μήνας",
+     "pron": "o mínas",
+     "tr": "ay (takvim)",
+     "en": "month",
+     "forms": {
+      "sg": [
+       "ο μήνας",
+       "του μήνα",
+       "τον μήνα",
+       "μήνα"
+      ],
+      "pl": [
+       "οι μήνες",
+       "των μηνών",
+       "τους μήνες",
+       "μήνες"
+      ]
+     }
+    },
+    {
+     "id": "a2-time-05",
+     "pic": "",
+     "el": "ο χρόνος",
+     "pron": "o hrónos",
+     "tr": "yıl; zaman",
+     "en": "year; time",
+     "forms": {
+      "sg": [
+       "ο χρόνος",
+       "του χρόνου",
+       "τον χρόνο",
+       "χρόνε"
+      ],
+      "pl": [
+       "οι χρόνοι / τα χρόνια",
+       "των χρόνων / των χρονών",
+       "τους χρόνους / τα χρόνια",
+       "χρόνοι / χρόνια"
+      ]
+     }
+    },
+    {
+     "id": "a2-time-06",
+     "pic": "",
+     "el": "σήμερα",
+     "pron": "símera",
+     "tr": "bugün",
+     "en": "today"
+    },
+    {
+     "id": "a2-time-07",
+     "pic": "",
+     "el": "αύριο",
+     "pron": "ávrio",
+     "tr": "yarın",
+     "en": "tomorrow"
+    },
+    {
+     "id": "a2-time-08",
+     "pic": "",
+     "el": "χθες",
+     "pron": "hthes",
+     "tr": "dün",
+     "en": "yesterday"
+    },
+    {
+     "id": "a2-time-09",
+     "pic": "🌅",
+     "el": "το πρωί",
+     "pron": "to proí",
+     "tr": "sabah",
+     "en": "morning",
+     "forms": {
+      "sg": [
+       "το πρωί",
+       "του πρωινού",
+       "το πρωί",
+       "πρωί"
+      ],
+      "pl": [
+       "τα πρωινά",
+       "των πρωινών",
+       "τα πρωινά",
+       "πρωινά"
+      ]
+     }
+    },
+    {
+     "id": "a2-time-10",
+     "pic": "🌆",
+     "el": "το βράδυ",
+     "pron": "to vrádhi",
+     "tr": "akşam",
+     "en": "evening",
+     "forms": {
+      "sg": [
+       "το βράδυ",
+       "του βραδιού",
+       "το βράδυ",
+       "βράδυ"
+      ],
+      "pl": [
+       "τα βράδια",
+       "των βραδιών",
+       "τα βράδια",
+       "βράδια"
+      ]
+     }
+    },
+    {
+     "id": "a2-time-11",
+     "pic": "🌙",
+     "el": "η νύχτα",
+     "pron": "i níhta",
+     "tr": "gece",
+     "en": "night",
+     "forms": {
+      "sg": [
+       "η νύχτα",
+       "της νύχτας",
+       "τη νύχτα",
+       "νύχτα"
+      ],
+      "pl": [
+       "οι νύχτες",
+       "των νυχτών",
+       "τις νύχτες",
+       "νύχτες"
+      ]
+     }
+    },
+    {
+     "id": "a2-time-12",
+     "pic": "",
+     "el": "τώρα",
+     "pron": "tóra",
+     "tr": "şimdi",
+     "en": "now"
+    },
+    {
+     "id": "a2-time-13",
+     "pic": "",
+     "el": "μετά",
+     "pron": "metá",
+     "tr": "sonra",
+     "en": "after, later"
+    },
+    {
+     "id": "a2-time-14",
+     "pic": "",
+     "el": "πάντα",
+     "pron": "pánda",
+     "tr": "her zaman",
+     "en": "always"
+    },
+    {
+     "id": "a2-time-15",
+     "pic": "",
+     "el": "ποτέ",
+     "pron": "poté",
+     "tr": "asla, hiç",
+     "en": "never"
+    },
+    {
+     "id": "a2-time-16",
+     "pic": "",
+     "el": "αργά",
+     "pron": "arghá",
+     "tr": "geç; yavaşça",
+     "en": "late; slowly"
+    }
+   ]
+  },
+  {
+   "id": "town",
+   "icon": "🏙️",
+   "name": {
+    "el": "Στην πόλη",
+    "tr": "Şehirde",
+    "en": "In town"
+   },
+   "words": [
+    {
+     "id": "a2-town-01",
+     "pic": "🏙️",
+     "el": "η πόλη",
+     "pron": "i póli",
+     "tr": "şehir",
+     "en": "city, town",
+     "forms": {
+      "sg": [
+       "η πόλη",
+       "της πόλης / της πόλεως",
+       "την πόλη",
+       "πόλη"
+      ],
+      "pl": [
+       "οι πόλεις",
+       "των πόλεων",
+       "τις πόλεις",
+       "πόλεις"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-02",
+     "pic": "🛣️",
+     "el": "ο δρόμος",
+     "pron": "o dhrómos",
+     "tr": "yol, cadde",
+     "en": "road, street",
+     "forms": {
+      "sg": [
+       "ο δρόμος",
+       "του δρόμου",
+       "τον δρόμο",
+       "δρόμε"
+      ],
+      "pl": [
+       "οι δρόμοι",
+       "των δρόμων",
+       "τους δρόμους",
+       "δρόμοι"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-03",
+     "pic": "",
+     "el": "η πλατεία",
+     "pron": "i platía",
+     "tr": "meydan",
+     "en": "square",
+     "forms": {
+      "sg": [
+       "η πλατεία",
+       "της πλατείας",
+       "την πλατεία",
+       "πλατεία"
+      ],
+      "pl": [
+       "οι πλατείες",
+       "των πλατειών",
+       "τις πλατείες",
+       "πλατείες"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-04",
+     "pic": "🏦",
+     "el": "η τράπεζα",
+     "pron": "i trápeza",
+     "tr": "banka",
+     "en": "bank",
+     "forms": {
+      "sg": [
+       "η τράπεζα",
+       "της τράπεζας",
+       "την τράπεζα",
+       "τράπεζα"
+      ],
+      "pl": [
+       "οι τράπεζες",
+       "των τραπεζών",
+       "τις τράπεζες",
+       "τράπεζες"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-05",
+     "pic": "🏤",
+     "el": "το ταχυδρομείο",
+     "pron": "to tahidhromío",
+     "tr": "postane",
+     "en": "post office",
+     "forms": {
+      "sg": [
+       "το ταχυδρομείο",
+       "του ταχυδρομείου",
+       "το ταχυδρομείο",
+       "ταχυδρομείο"
+      ],
+      "pl": [
+       "τα ταχυδρομεία",
+       "των ταχυδρομείων",
+       "τα ταχυδρομεία",
+       "ταχυδρομεία"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-06",
+     "pic": "🏥",
+     "el": "το νοσοκομείο",
+     "pron": "to nosokomío",
+     "tr": "hastane",
+     "en": "hospital",
+     "forms": {
+      "sg": [
+       "το νοσοκομείο",
+       "του νοσοκομείου",
+       "το νοσοκομείο",
+       "νοσοκομείο"
+      ],
+      "pl": [
+       "τα νοσοκομεία",
+       "των νοσοκομείων",
+       "τα νοσοκομεία",
+       "νοσοκομεία"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-07",
+     "pic": "💊",
+     "el": "το φαρμακείο",
+     "pron": "to farmakío",
+     "tr": "eczane",
+     "en": "pharmacy",
+     "forms": {
+      "sg": [
+       "το φαρμακείο",
+       "του φαρμακείου",
+       "το φαρμακείο",
+       "φαρμακείο"
+      ],
+      "pl": [
+       "τα φαρμακεία",
+       "των φαρμακείων",
+       "τα φαρμακεία",
+       "φαρμακεία"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-08",
+     "pic": "⛪",
+     "el": "η εκκλησία",
+     "pron": "i eklisía",
+     "tr": "kilise",
+     "en": "church",
+     "forms": {
+      "sg": [
+       "η εκκλησία",
+       "της εκκλησίας",
+       "την εκκλησία",
+       "εκκλησία"
+      ],
+      "pl": [
+       "οι εκκλησίες",
+       "των εκκλησιών",
+       "τις εκκλησίες",
+       "εκκλησίες"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-09",
+     "pic": "🛒",
+     "el": "το σούπερ μάρκετ",
+     "pron": "to súper márket",
+     "tr": "süpermarket",
+     "en": "supermarket",
+     "forms": {
+      "sg": [
+       "το σούπερ μάρκετ",
+       "του σούπερ μάρκετ",
+       "το σούπερ μάρκετ",
+       "σούπερ μάρκετ"
+      ],
+      "pl": [
+       "τα σούπερ μάρκετ",
+       "των σούπερ μάρκετ",
+       "τα σούπερ μάρκετ",
+       "σούπερ μάρκετ"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-10",
+     "pic": "🥖",
+     "el": "ο φούρνος",
+     "pron": "o fúrnos",
+     "tr": "fırın (dükkân)",
+     "en": "bakery",
+     "forms": {
+      "sg": [
+       "ο φούρνος",
+       "του φούρνου",
+       "τον φούρνο",
+       "φούρνε"
+      ],
+      "pl": [
+       "οι φούρνοι",
+       "των φούρνων",
+       "τους φούρνους",
+       "φούρνοι"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-11",
+     "pic": "🍽️",
+     "el": "το εστιατόριο",
+     "pron": "to estiatório",
+     "tr": "restoran",
+     "en": "restaurant",
+     "forms": {
+      "sg": [
+       "το εστιατόριο",
+       "του εστιατορίου",
+       "το εστιατόριο",
+       "εστιατόριο"
+      ],
+      "pl": [
+       "τα εστιατόρια",
+       "των εστιατορίων",
+       "τα εστιατόρια",
+       "εστιατόρια"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-12",
+     "pic": "☕",
+     "el": "το καφενείο",
+     "pron": "to kafenío",
+     "tr": "kahvehane",
+     "en": "traditional café",
+     "forms": {
+      "sg": [
+       "το καφενείο",
+       "του καφενείου",
+       "το καφενείο",
+       "καφενείο"
+      ],
+      "pl": [
+       "τα καφενεία",
+       "των καφενείων",
+       "τα καφενεία",
+       "καφενεία"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-13",
+     "pic": "🌳",
+     "el": "το πάρκο",
+     "pron": "to párko",
+     "tr": "park",
+     "en": "park",
+     "forms": {
+      "sg": [
+       "το πάρκο",
+       "του πάρκου",
+       "το πάρκο",
+       "πάρκο"
+      ],
+      "pl": [
+       "τα πάρκα",
+       "των πάρκων",
+       "τα πάρκα",
+       "πάρκα"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-14",
+     "pic": "🏛️",
+     "el": "το μουσείο",
+     "pron": "to musío",
+     "tr": "müze",
+     "en": "museum",
+     "forms": {
+      "sg": [
+       "το μουσείο",
+       "του μουσείου",
+       "το μουσείο",
+       "μουσείο"
+      ],
+      "pl": [
+       "τα μουσεία",
+       "των μουσείων",
+       "τα μουσεία",
+       "μουσεία"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-15",
+     "pic": "🚓",
+     "el": "η αστυνομία",
+     "pron": "i astinomía",
+     "tr": "polis (teşkilat)",
+     "en": "police",
+     "forms": {
+      "sg": [
+       "η αστυνομία",
+       "της αστυνομίας",
+       "την αστυνομία",
+       "αστυνομία"
+      ],
+      "pl": [
+       "οι αστυνομίες",
+       "των αστυνομιών",
+       "τις αστυνομίες",
+       "αστυνομίες"
+      ]
+     }
+    },
+    {
+     "id": "a2-town-16",
+     "pic": "",
+     "el": "το περίπτερο",
+     "pron": "to períptero",
+     "tr": "büfe",
+     "en": "kiosk",
+     "forms": {
+      "sg": [
+       "το περίπτερο",
+       "του περιπτέρου",
+       "το περίπτερο",
+       "περίπτερο"
+      ],
+      "pl": [
+       "τα περίπτερα",
+       "των περιπτέρων",
+       "τα περίπτερα",
+       "περίπτερα"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "travel",
+   "icon": "🚌",
+   "name": {
+    "el": "Μεταφορές και ταξίδια",
+    "tr": "Ulaşım ve seyahat",
+    "en": "Transport & travel"
+   },
+   "words": [
+    {
+     "id": "a2-travel-01",
+     "pic": "🚌",
+     "el": "το λεωφορείο",
+     "pron": "to leoforío",
+     "tr": "otobüs",
+     "en": "bus",
+     "forms": {
+      "sg": [
+       "το λεωφορείο",
+       "του λεωφορείου",
+       "το λεωφορείο",
+       "λεωφορείο"
+      ],
+      "pl": [
+       "τα λεωφορεία",
+       "των λεωφορείων",
+       "τα λεωφορεία",
+       "λεωφορεία"
+      ]
+     }
+    },
+    {
+     "id": "a2-travel-02",
+     "pic": "🚕",
+     "el": "το ταξί",
+     "pron": "to taksí",
+     "tr": "taksi",
+     "en": "taxi",
+     "forms": {
+      "sg": [
+       "το ταξί",
+       "του ταξί",
+       "το ταξί",
+       "ταξί"
+      ],
+      "pl": [
+       "τα ταξί",
+       "των ταξί",
+       "τα ταξί",
+       "ταξί"
+      ]
+     }
+    },
+    {
+     "id": "a2-travel-03",
+     "pic": "🚆",
+     "el": "το τρένο",
+     "pron": "to tréno",
+     "tr": "tren",
+     "en": "train",
+     "forms": {
+      "sg": [
+       "το τρένο",
+       "του τρένου",
+       "το τρένο",
+       "τρένο"
+      ],
+      "pl": [
+       "τα τρένα",
+       "των τρένων",
+       "τα τρένα",
+       "τρένα"
+      ]
+     }
+    },
+    {
+     "id": "a2-travel-04",
+     "pic": "🚇",
+     "el": "το μετρό",
+     "pron": "to metró",
+     "tr": "metro",
+     "en": "metro, subway",
+     "forms": {
+      "sg": [
+       "το μετρό",
+       "του μετρό",
+       "το μετρό",
+       "μετρό"
+      ],
+      "pl": [
+       "τα μετρό",
+       "των μετρό",
+       "τα μετρό",
+       "μετρό"
+      ]
+     }
+    },
+    {
+     "id": "a2-travel-05",
+     "pic": "✈️",
+     "el": "το αεροπλάνο",
+     "pron": "to aeropláno",
+     "tr": "uçak",
+     "en": "airplane",
+     "forms": {
+      "sg": [
+       "το αεροπλάνο",
+       "του αεροπλάνου",
+       "το αεροπλάνο",
+       "αεροπλάνο"
+      ],
+      "pl": [
+       "τα αεροπλάνα",
+       "των αεροπλάνων",
+       "τα αεροπλάνα",
+       "αεροπλάνα"
+      ]
+     }
+    },
+    {
+     "id": "a2-travel-06",
+     "pic": "🛫",
+     "el": "το αεροδρόμιο",
+     "pron": "to aerodhrómio",
+     "tr": "havalimanı",
+     "en": "airport",
+     "forms": {
+      "sg": [
+       "το αεροδρόμιο",
+       "του αεροδρομίου",
+       "το αεροδρόμιο",
+       "αεροδρόμιο"
+      ],
+      "pl": [
+       "τα αεροδρόμια",
+       "των αεροδρομίων",
+       "τα αεροδρόμια",
+       "αεροδρόμια"
+      ]
+     }
+    },
+    {
+     "id": "a2-travel-07",
+     "pic": "🚢",
+     "el": "το πλοίο",
+     "pron": "to plío",
+     "tr": "gemi",
+     "en": "ship",
+     "forms": {
+      "sg": [
+       "το πλοίο",
+       "του πλοίου",
+       "το πλοίο",
+       "πλοίο"
+      ],
+      "pl": [
+       "τα πλοία",
+       "των πλοίων",
+       "τα πλοία",
+       "πλοία"
+      ]
+     }
+    },
+    {
+     "id": "a2-travel-08",
+     "pic": "🚏",
+     "el": "η στάση",
+     "pron": "i stási",
+     "tr": "durak",
+     "en": "stop (bus)",
+     "forms": {
+      "sg": [
+       "η στάση",
+       "της στάσης",
+       "τη στάση",
+       "στάση"
+      ],
+      "pl": [
+       "οι στάσεις",
+       "των στάσεων",
+       "τις στάσεις",
+       "στάσεις"
+      ]
+     }
+    },
+    {
+     "id": "a2-travel-09",
+     "pic": "🚉",
+     "el": "ο σταθμός",
+     "pron": "o stathmós",
+     "tr": "istasyon",
+     "en": "station",
+     "forms": {
+      "sg": [
+       "ο σταθμός",
+       "του σταθμού",
+       "τον σταθμό",
+       "σταθμέ"
+      ],
+      "pl": [
+       "οι σταθμοί",
+       "των σταθμών",
+       "τους σταθμούς",
+       "σταθμοί"
+      ]
+     }
+    },
+    {
+     "id": "a2-travel-10",
+     "pic": "🎫",
+     "el": "το εισιτήριο",
+     "pron": "to isitírio",
+     "tr": "bilet",
+     "en": "ticket",
+     "forms": {
+      "sg": [
+       "το εισιτήριο",
+       "του εισιτηρίου",
+       "το εισιτήριο",
+       "εισιτήριο"
+      ],
+      "pl": [
+       "τα εισιτήρια",
+       "των εισιτηρίων",
+       "τα εισιτήρια",
+       "εισιτήρια"
+      ]
+     }
+    },
+    {
+     "id": "a2-travel-11",
+     "pic": "🛂",
+     "el": "το διαβατήριο",
+     "pron": "to dhiavatírio",
+     "tr": "pasaport",
+     "en": "passport",
+     "forms": {
+      "sg": [
+       "το διαβατήριο",
+       "του διαβατηρίου",
+       "το διαβατήριο",
+       "διαβατήριο"
+      ],
+      "pl": [
+       "τα διαβατήρια",
+       "των διαβατηρίων",
+       "τα διαβατήρια",
+       "διαβατήρια"
+      ]
+     }
+    },
+    {
+     "id": "a2-travel-12",
+     "pic": "🧳",
+     "el": "η βαλίτσα",
+     "pron": "i valítsa",
+     "tr": "bavul",
+     "en": "suitcase",
+     "forms": {
+      "sg": [
+       "η βαλίτσα",
+       "της βαλίτσας",
+       "τη βαλίτσα",
+       "βαλίτσα"
+      ],
+      "pl": [
+       "οι βαλίτσες",
+       "των βαλιτσών",
+       "τις βαλίτσες",
+       "βαλίτσες"
+      ]
+     }
+    },
+    {
+     "id": "a2-travel-13",
+     "pic": "🏨",
+     "el": "το ξενοδοχείο",
+     "pron": "to ksenodhohío",
+     "tr": "otel",
+     "en": "hotel",
+     "forms": {
+      "sg": [
+       "το ξενοδοχείο",
+       "του ξενοδοχείου",
+       "το ξενοδοχείο",
+       "ξενοδοχείο"
+      ],
+      "pl": [
+       "τα ξενοδοχεία",
+       "των ξενοδοχείων",
+       "τα ξενοδοχεία",
+       "ξενοδοχεία"
+      ]
+     }
+    },
+    {
+     "id": "a2-travel-14",
+     "pic": "🗺️",
+     "el": "ο χάρτης",
+     "pron": "o hártis",
+     "tr": "harita",
+     "en": "map",
+     "forms": {
+      "sg": [
+       "ο χάρτης",
+       "του χάρτη",
+       "τον χάρτη",
+       "χάρτη"
+      ],
+      "pl": [
+       "οι χάρτες",
+       "των χαρτών",
+       "τους χάρτες",
+       "χάρτες"
+      ]
+     }
+    },
+    {
+     "id": "a2-travel-15",
+     "pic": "⬅️",
+     "el": "αριστερά",
+     "pron": "aristerá",
+     "tr": "sola, solda",
+     "en": "left, on the left"
+    },
+    {
+     "id": "a2-travel-16",
+     "pic": "➡️",
+     "el": "δεξιά",
+     "pron": "dheksiá",
+     "tr": "sağa, sağda",
+     "en": "right, on the right"
+    }
+   ]
+  },
+  {
+   "id": "shopping",
+   "icon": "🛒",
+   "name": {
+    "el": "Ψώνια και χρήματα",
+    "tr": "Alışveriş ve para",
+    "en": "Shopping & money"
+   },
+   "words": [
+    {
+     "id": "a2-shopping-01",
+     "pic": "🛒",
+     "el": "αγοράζω",
+     "pron": "aghorázo",
+     "tr": "satın almak",
+     "en": "to buy",
+     "forms": {
+      "present": [
+       "αγοράζω",
+       "αγοράζεις",
+       "αγοράζει",
+       "αγοράζουμε",
+       "αγοράζετε",
+       "αγοράζουν(ε)"
+      ],
+      "imperfect": [
+       "αγόραζα",
+       "αγόραζες",
+       "αγόραζε",
+       "αγοράζαμε",
+       "αγοράζατε",
+       "αγόραζαν"
+      ],
+      "aorist": [
+       "αγόρασα",
+       "αγόρασες",
+       "αγόρασε",
+       "αγοράσαμε",
+       "αγοράσατε",
+       "αγόρασαν"
+      ],
+      "fut_cont": [
+       "θα αγοράζω",
+       "θα αγοράζεις",
+       "θα αγοράζει",
+       "θα αγοράζουμε",
+       "θα αγοράζετε",
+       "θα αγοράζουν(ε)"
+      ],
+      "fut_simple": [
+       "θα αγοράσω",
+       "θα αγοράσεις",
+       "θα αγοράσει",
+       "θα αγοράσουμε",
+       "θα αγοράσετε",
+       "θα αγοράσουν(ε)"
+      ],
+      "perfect": [
+       "έχω αγοράσει",
+       "έχεις αγοράσει",
+       "έχει αγοράσει",
+       "έχουμε αγοράσει",
+       "έχετε αγοράσει",
+       "έχουν(ε) αγοράσει"
+      ],
+      "imperative": [
+       "αγόρασε",
+       "αγοράστε"
+      ]
+     }
+    },
+    {
+     "id": "a2-shopping-02",
+     "pic": "",
+     "el": "πληρώνω",
+     "pron": "pliróno",
+     "tr": "ödemek",
+     "en": "to pay",
+     "forms": {
+      "present": [
+       "πληρώνω",
+       "πληρώνεις",
+       "πληρώνει",
+       "πληρώνουμε",
+       "πληρώνετε",
+       "πληρώνουν(ε)"
+      ],
+      "imperfect": [
+       "πλήρωνα",
+       "πλήρωνες",
+       "πλήρωνε",
+       "πληρώναμε",
+       "πληρώνατε",
+       "πλήρωναν"
+      ],
+      "aorist": [
+       "πλήρωσα",
+       "πλήρωσες",
+       "πλήρωσε",
+       "πληρώσαμε",
+       "πληρώσατε",
+       "πλήρωσαν"
+      ],
+      "fut_cont": [
+       "θα πληρώνω",
+       "θα πληρώνεις",
+       "θα πληρώνει",
+       "θα πληρώνουμε",
+       "θα πληρώνετε",
+       "θα πληρώνουν(ε)"
+      ],
+      "fut_simple": [
+       "θα πληρώσω",
+       "θα πληρώσεις",
+       "θα πληρώσει",
+       "θα πληρώσουμε",
+       "θα πληρώσετε",
+       "θα πληρώσουν(ε)"
+      ],
+      "perfect": [
+       "έχω πληρώσει",
+       "έχεις πληρώσει",
+       "έχει πληρώσει",
+       "έχουμε πληρώσει",
+       "έχετε πληρώσει",
+       "έχουν(ε) πληρώσει"
+      ],
+      "imperative": [
+       "πλήρωσε",
+       "πληρώστε"
+      ]
+     }
+    },
+    {
+     "id": "a2-shopping-03",
+     "pic": "💰",
+     "el": "τα λεφτά",
+     "pron": "ta leftá",
+     "tr": "para",
+     "en": "money",
+     "forms": {
+      "sg": [
+       "—",
+       "—",
+       "—",
+       "—"
+      ],
+      "pl": [
+       "τα λεφτά",
+       "των λεφτών",
+       "τα λεφτά",
+       "λεφτά"
+      ]
+     }
+    },
+    {
+     "id": "a2-shopping-04",
+     "pic": "💶",
+     "el": "το ευρώ",
+     "pron": "to evró",
+     "tr": "avro",
+     "en": "euro",
+     "forms": {
+      "sg": [
+       "το ευρώ",
+       "του ευρώ",
+       "το ευρώ",
+       "ευρώ"
+      ],
+      "pl": [
+       "τα ευρώ",
+       "των ευρώ",
+       "τα ευρώ",
+       "ευρώ"
+      ]
+     }
+    },
+    {
+     "id": "a2-shopping-05",
+     "pic": "🏷️",
+     "el": "η τιμή",
+     "pron": "i timí",
+     "tr": "fiyat",
+     "en": "price",
+     "forms": {
+      "sg": [
+       "η τιμή",
+       "της τιμής",
+       "την τιμή",
+       "τιμή"
+      ],
+      "pl": [
+       "οι τιμές",
+       "των τιμών",
+       "τις τιμές",
+       "τιμές"
+      ]
+     }
+    },
+    {
+     "id": "a2-shopping-06",
+     "pic": "",
+     "el": "Πόσο κάνει;",
+     "pron": "póso káni",
+     "tr": "Ne kadar? Kaça?",
+     "en": "How much is it?"
+    },
+    {
+     "id": "a2-shopping-07",
+     "pic": "",
+     "el": "ακριβός, -ή, -ό",
+     "pron": "akrivós",
+     "tr": "pahalı",
+     "en": "expensive"
+    },
+    {
+     "id": "a2-shopping-08",
+     "pic": "",
+     "el": "φθηνός, -ή, -ό",
+     "pron": "fthinós",
+     "tr": "ucuz",
+     "en": "cheap"
+    },
+    {
+     "id": "a2-shopping-09",
+     "pic": "🏪",
+     "el": "το μαγαζί",
+     "pron": "to maghazí",
+     "tr": "dükkân",
+     "en": "shop",
+     "forms": {
+      "sg": [
+       "το μαγαζί",
+       "του μαγαζιού",
+       "το μαγαζί",
+       "μαγαζί"
+      ],
+      "pl": [
+       "τα μαγαζιά",
+       "των μαγαζιών",
+       "τα μαγαζιά",
+       "μαγαζιά"
+      ]
+     }
+    },
+    {
+     "id": "a2-shopping-10",
+     "pic": "",
+     "el": "η λαϊκή",
+     "pron": "i laikí",
+     "tr": "semt pazarı",
+     "en": "open-air street market",
+     "forms": {
+      "sg": [
+       "η λαϊκή",
+       "της λαϊκής",
+       "τη λαϊκή",
+       "λαϊκή"
+      ],
+      "pl": [
+       "οι λαϊκές",
+       "των λαϊκών",
+       "τις λαϊκές",
+       "λαϊκές"
+      ]
+     }
+    },
+    {
+     "id": "a2-shopping-11",
+     "pic": "🧾",
+     "el": "η απόδειξη",
+     "pron": "i apódhiksi",
+     "tr": "fiş, makbuz",
+     "en": "receipt",
+     "forms": {
+      "sg": [
+       "η απόδειξη",
+       "της απόδειξης",
+       "την απόδειξη",
+       "απόδειξη"
+      ],
+      "pl": [
+       "οι αποδείξεις",
+       "των αποδείξεων",
+       "τις αποδείξεις",
+       "αποδείξεις"
+      ]
+     }
+    },
+    {
+     "id": "a2-shopping-12",
+     "pic": "💳",
+     "el": "η κάρτα",
+     "pron": "i kárta",
+     "tr": "kart (banka kartı)",
+     "en": "card (bank card)",
+     "forms": {
+      "sg": [
+       "η κάρτα",
+       "της κάρτας",
+       "την κάρτα",
+       "κάρτα"
+      ],
+      "pl": [
+       "οι κάρτες",
+       "των καρτών",
+       "τις κάρτες",
+       "κάρτες"
+      ]
+     }
+    },
+    {
+     "id": "a2-shopping-13",
+     "pic": "",
+     "el": "τα ρέστα",
+     "pron": "ta résta",
+     "tr": "para üstü",
+     "en": "change (money back)",
+     "forms": {
+      "sg": [
+       "—",
+       "—",
+       "—",
+       "—"
+      ],
+      "pl": [
+       "τα ρέστα",
+       "των ρέστων",
+       "τα ρέστα",
+       "ρέστα"
+      ]
+     }
+    },
+    {
+     "id": "a2-shopping-14",
+     "pic": "",
+     "el": "η έκπτωση",
+     "pron": "i ékptosi",
+     "tr": "indirim",
+     "en": "discount",
+     "forms": {
+      "sg": [
+       "η έκπτωση",
+       "της έκπτωσης",
+       "την έκπτωση",
+       "έκπτωση"
+      ],
+      "pl": [
+       "οι εκπτώσεις",
+       "των εκπτώσεων",
+       "τις εκπτώσεις",
+       "εκπτώσεις"
+      ]
+     }
+    },
+    {
+     "id": "a2-shopping-15",
+     "pic": "🛍️",
+     "el": "η σακούλα",
+     "pron": "i sakúla",
+     "tr": "poşet",
+     "en": "bag (shopping)",
+     "forms": {
+      "sg": [
+       "η σακούλα",
+       "της σακούλας",
+       "τη σακούλα",
+       "σακούλα"
+      ],
+      "pl": [
+       "οι σακούλες",
+       "των σακουλών",
+       "τις σακούλες",
+       "σακούλες"
+      ]
+     }
+    },
+    {
+     "id": "a2-shopping-16",
+     "pic": "💵",
+     "el": "μετρητά",
+     "pron": "metritá",
+     "tr": "nakit",
+     "en": "cash"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "icon": "🩺",
+   "name": {
+    "el": "Υγεία",
+    "tr": "Sağlık ve doktor",
+    "en": "Health & doctor"
+   },
+   "words": [
+    {
+     "id": "a2-health-01",
+     "pic": "🩺",
+     "el": "ο γιατρός",
+     "pron": "o yatrós",
+     "tr": "doktor",
+     "en": "doctor",
+     "forms": {
+      "sg": [
+       "ο γιατρός",
+       "του γιατρού",
+       "τον γιατρό",
+       "γιατρέ"
+      ],
+      "pl": [
+       "οι γιατροί",
+       "των γιατρών",
+       "τους γιατρούς",
+       "γιατροί"
+      ]
+     }
+    },
+    {
+     "id": "a2-health-02",
+     "pic": "🦷",
+     "el": "ο οδοντίατρος",
+     "pron": "o odhondíatros",
+     "tr": "diş hekimi",
+     "en": "dentist",
+     "forms": {
+      "sg": [
+       "ο οδοντίατρος",
+       "του οδοντιάτρου",
+       "τον οδοντίατρο",
+       "οδοντίατρε"
+      ],
+      "pl": [
+       "οι οδοντίατροι",
+       "των οδοντιάτρων",
+       "τους οδοντιάτρους",
+       "οδοντίατροι"
+      ]
+     }
+    },
+    {
+     "id": "a2-health-03",
+     "pic": "",
+     "el": "η νοσοκόμα",
+     "pron": "i nosokóma",
+     "tr": "hemşire",
+     "en": "nurse",
+     "forms": {
+      "sg": [
+       "η νοσοκόμα",
+       "της νοσοκόμας",
+       "τη νοσοκόμα",
+       "νοσοκόμα"
+      ],
+      "pl": [
+       "οι νοσοκόμες",
+       "των νοσοκόμων",
+       "τις νοσοκόμες",
+       "νοσοκόμες"
+      ]
+     }
+    },
+    {
+     "id": "a2-health-04",
+     "pic": "🤒",
+     "el": "άρρωστος, -η, -ο",
+     "pron": "árostos",
+     "tr": "hasta",
+     "en": "sick, ill"
+    },
+    {
+     "id": "a2-health-05",
+     "pic": "",
+     "el": "πονάω",
+     "pron": "ponáo",
+     "tr": "ağrımak, acımak",
+     "en": "to hurt, to ache",
+     "forms": {
+      "present": [
+       "πονάω / πονώ",
+       "πονάς",
+       "πονάει / πονά",
+       "πονάμε / πονούμε",
+       "πονάτε",
+       "πονάνε / πονούν"
+      ],
+      "imperfect": [
+       "πονούσα",
+       "πονούσες",
+       "πονούσε",
+       "πονούσαμε",
+       "πονούσατε",
+       "πονούσαν(ε)"
+      ],
+      "aorist": [
+       "πόνεσα",
+       "πόνεσες",
+       "πόνεσε",
+       "πονέσαμε",
+       "πονέσατε",
+       "πόνεσαν"
+      ],
+      "fut_cont": [
+       "θα πονάω / θα πονώ",
+       "θα πονάς",
+       "θα πονάει / θα πονά",
+       "θα πονάμε / θα πονούμε",
+       "θα πονάτε",
+       "θα πονάνε / θα πονούν"
+      ],
+      "fut_simple": [
+       "θα πονέσω",
+       "θα πονέσεις",
+       "θα πονέσει",
+       "θα πονέσουμε",
+       "θα πονέσετε",
+       "θα πονέσουν(ε)"
+      ],
+      "perfect": [
+       "έχω πονέσει",
+       "έχεις πονέσει",
+       "έχει πονέσει",
+       "έχουμε πονέσει",
+       "έχετε πονέσει",
+       "έχουν(ε) πονέσει"
+      ],
+      "imperative": [
+       "πόνεσε",
+       "πονέστε"
+      ]
+     }
+    },
+    {
+     "id": "a2-health-06",
+     "pic": "",
+     "el": "ο πόνος",
+     "pron": "o pónos",
+     "tr": "ağrı",
+     "en": "pain",
+     "forms": {
+      "sg": [
+       "ο πόνος",
+       "του πόνου",
+       "τον πόνο",
+       "πόνε"
+      ],
+      "pl": [
+       "οι πόνοι",
+       "των πόνων",
+       "τους πόνους",
+       "πόνοι"
+      ]
+     }
+    },
+    {
+     "id": "a2-health-07",
+     "pic": "🌡️",
+     "el": "ο πυρετός",
+     "pron": "o piretós",
+     "tr": "ateş (hastalık)",
+     "en": "fever",
+     "forms": {
+      "sg": [
+       "ο πυρετός",
+       "του πυρετού",
+       "τον πυρετό",
+       "πυρετέ"
+      ],
+      "pl": [
+       "οι πυρετοί",
+       "των πυρετών",
+       "τους πυρετούς",
+       "πυρετοί"
+      ]
+     }
+    },
+    {
+     "id": "a2-health-08",
+     "pic": "🤕",
+     "el": "ο πονοκέφαλος",
+     "pron": "o ponokéfalos",
+     "tr": "baş ağrısı",
+     "en": "headache",
+     "forms": {
+      "sg": [
+       "ο πονοκέφαλος",
+       "του πονοκεφάλου",
+       "τον πονοκέφαλο",
+       "πονοκέφαλε"
+      ],
+      "pl": [
+       "οι πονοκέφαλοι",
+       "των πονοκεφάλων",
+       "τους πονοκεφάλους",
+       "πονοκέφαλοι"
+      ]
+     }
+    },
+    {
+     "id": "a2-health-09",
+     "pic": "",
+     "el": "ο βήχας",
+     "pron": "o víhas",
+     "tr": "öksürük",
+     "en": "cough",
+     "forms": {
+      "sg": [
+       "ο βήχας",
+       "του βήχα",
+       "τον βήχα",
+       "βήχα"
+      ],
+      "pl": [
+       "οι βήχες",
+       "—",
+       "τους βήχες",
+       "βήχες"
+      ]
+     }
+    },
+    {
+     "id": "a2-health-10",
+     "pic": "🤧",
+     "el": "το κρυολόγημα",
+     "pron": "to kriolóyima",
+     "tr": "soğuk algınlığı",
+     "en": "cold (illness)",
+     "forms": {
+      "sg": [
+       "το κρυολόγημα",
+       "του κρυολογήματος",
+       "το κρυολόγημα",
+       "κρυολόγημα"
+      ],
+      "pl": [
+       "τα κρυολογήματα",
+       "των κρυολογημάτων",
+       "τα κρυολογήματα",
+       "κρυολογήματα"
+      ]
+     }
+    },
+    {
+     "id": "a2-health-11",
+     "pic": "💊",
+     "el": "το φάρμακο",
+     "pron": "to fármako",
+     "tr": "ilaç",
+     "en": "medicine",
+     "forms": {
+      "sg": [
+       "το φάρμακο",
+       "του φαρμάκου",
+       "το φάρμακο",
+       "φάρμακο"
+      ],
+      "pl": [
+       "τα φάρμακα",
+       "των φαρμάκων",
+       "τα φάρμακα",
+       "φάρμακα"
+      ]
+     }
+    },
+    {
+     "id": "a2-health-12",
+     "pic": "",
+     "el": "η συνταγή",
+     "pron": "i sindayí",
+     "tr": "reçete; yemek tarifi",
+     "en": "prescription; recipe",
+     "forms": {
+      "sg": [
+       "η συνταγή",
+       "της συνταγής",
+       "τη συνταγή",
+       "συνταγή"
+      ],
+      "pl": [
+       "οι συνταγές",
+       "των συνταγών",
+       "τις συνταγές",
+       "συνταγές"
+      ]
+     }
+    },
+    {
+     "id": "a2-health-13",
+     "pic": "",
+     "el": "το ραντεβού",
+     "pron": "to randevú",
+     "tr": "randevu",
+     "en": "appointment",
+     "forms": {
+      "sg": [
+       "το ραντεβού",
+       "του ραντεβού",
+       "το ραντεβού",
+       "ραντεβού"
+      ],
+      "pl": [
+       "τα ραντεβού",
+       "των ραντεβού",
+       "τα ραντεβού",
+       "ραντεβού"
+      ]
+     }
+    },
+    {
+     "id": "a2-health-14",
+     "pic": "",
+     "el": "το στομάχι",
+     "pron": "to stomáhi",
+     "tr": "mide",
+     "en": "stomach",
+     "forms": {
+      "sg": [
+       "το στομάχι",
+       "του στομαχιού",
+       "το στομάχι",
+       "στομάχι"
+      ],
+      "pl": [
+       "τα στομάχια",
+       "των στομαχιών",
+       "τα στομάχια",
+       "στομάχια"
+      ]
+     }
+    },
+    {
+     "id": "a2-health-15",
+     "pic": "🚑",
+     "el": "το ασθενοφόρο",
+     "pron": "to asthenofóro",
+     "tr": "ambulans",
+     "en": "ambulance",
+     "forms": {
+      "sg": [
+       "το ασθενοφόρο",
+       "του ασθενοφόρου",
+       "το ασθενοφόρο",
+       "ασθενοφόρο"
+      ],
+      "pl": [
+       "τα ασθενοφόρα",
+       "των ασθενοφόρων",
+       "τα ασθενοφόρα",
+       "ασθενοφόρα"
+      ]
+     }
+    },
+    {
+     "id": "a2-health-16",
+     "pic": "",
+     "el": "Περαστικά!",
+     "pron": "perastiká",
+     "tr": "Geçmiş olsun!",
+     "en": "Get well soon!"
+    }
+   ]
+  },
+  {
+   "id": "work",
+   "icon": "💼",
+   "name": {
+    "el": "Δουλειά και επαγγέλματα",
+    "tr": "İş ve meslekler",
+    "en": "Work & jobs"
+   },
+   "words": [
+    {
+     "id": "a2-work-01",
+     "pic": "💼",
+     "el": "η δουλειά",
+     "pron": "i dhuliá",
+     "tr": "iş",
+     "en": "work, job",
+     "forms": {
+      "sg": [
+       "η δουλειά",
+       "της δουλειάς",
+       "τη δουλειά",
+       "δουλειά"
+      ],
+      "pl": [
+       "οι δουλειές",
+       "των δουλειών",
+       "τις δουλειές",
+       "δουλειές"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-02",
+     "pic": "",
+     "el": "δουλεύω",
+     "pron": "dhulévo",
+     "tr": "çalışmak",
+     "en": "to work",
+     "forms": {
+      "present": [
+       "δουλεύω",
+       "δουλεύεις",
+       "δουλεύει",
+       "δουλεύουμε",
+       "δουλεύετε",
+       "δουλεύουν(ε)"
+      ],
+      "imperfect": [
+       "δούλευα",
+       "δούλευες",
+       "δούλευε",
+       "δουλεύαμε",
+       "δουλεύατε",
+       "δούλευαν"
+      ],
+      "aorist": [
+       "δούλεψα",
+       "δούλεψες",
+       "δούλεψε",
+       "δουλέψαμε",
+       "δουλέψατε",
+       "δούλεψαν"
+      ],
+      "fut_cont": [
+       "θα δουλεύω",
+       "θα δουλεύεις",
+       "θα δουλεύει",
+       "θα δουλεύουμε",
+       "θα δουλεύετε",
+       "θα δουλεύουν(ε)"
+      ],
+      "fut_simple": [
+       "θα δουλέψω",
+       "θα δουλέψεις",
+       "θα δουλέψει",
+       "θα δουλέψουμε",
+       "θα δουλέψετε",
+       "θα δουλέψουν(ε)"
+      ],
+      "perfect": [
+       "έχω δουλέψει",
+       "έχεις δουλέψει",
+       "έχει δουλέψει",
+       "έχουμε δουλέψει",
+       "έχετε δουλέψει",
+       "έχουν(ε) δουλέψει"
+      ],
+      "imperative": [
+       "δούλεψε",
+       "δουλέψτε"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-03",
+     "pic": "",
+     "el": "ο μισθός",
+     "pron": "o misthós",
+     "tr": "maaş",
+     "en": "salary",
+     "forms": {
+      "sg": [
+       "ο μισθός",
+       "του μισθού",
+       "τον μισθό",
+       "μισθέ"
+      ],
+      "pl": [
+       "οι μισθοί",
+       "των μισθών",
+       "τους μισθούς",
+       "μισθοί"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-04",
+     "pic": "🏢",
+     "el": "το γραφείο",
+     "pron": "to ghrafío",
+     "tr": "ofis; yazı masası",
+     "en": "office; desk",
+     "forms": {
+      "sg": [
+       "το γραφείο",
+       "του γραφείου",
+       "το γραφείο",
+       "γραφείο"
+      ],
+      "pl": [
+       "τα γραφεία",
+       "των γραφείων",
+       "τα γραφεία",
+       "γραφεία"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-05",
+     "pic": "🧑‍🏫",
+     "el": "ο δάσκαλος",
+     "pron": "o dháskalos",
+     "tr": "öğretmen (ilkokul)",
+     "en": "teacher (primary school)",
+     "forms": {
+      "sg": [
+       "ο δάσκαλος",
+       "του δασκάλου",
+       "τον δάσκαλο",
+       "δάσκαλε"
+      ],
+      "pl": [
+       "οι δάσκαλοι",
+       "των δασκάλων",
+       "τους δασκάλους",
+       "δάσκαλοι"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-06",
+     "pic": "",
+     "el": "ο οδηγός",
+     "pron": "o odhighós",
+     "tr": "şoför, sürücü; rehber",
+     "en": "driver; guide",
+     "forms": {
+      "sg": [
+       "ο οδηγός",
+       "του οδηγού",
+       "τον οδηγό",
+       "οδηγέ"
+      ],
+      "pl": [
+       "οι οδηγοί",
+       "των οδηγών",
+       "τους οδηγούς",
+       "οδηγοί"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-07",
+     "pic": "🧑‍🍳",
+     "el": "ο μάγειρας",
+     "pron": "o máyiras",
+     "tr": "aşçı",
+     "en": "cook",
+     "forms": {
+      "sg": [
+       "ο μάγειρας",
+       "του μάγειρα",
+       "τον μάγειρα",
+       "μάγειρα"
+      ],
+      "pl": [
+       "οι μάγειρες",
+       "των μαγείρων",
+       "τους μάγειρες",
+       "μάγειρες"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-08",
+     "pic": "",
+     "el": "ο σερβιτόρος",
+     "pron": "o servitóros",
+     "tr": "garson",
+     "en": "waiter",
+     "forms": {
+      "sg": [
+       "ο σερβιτόρος",
+       "του σερβιτόρου",
+       "τον σερβιτόρο",
+       "σερβιτόρε"
+      ],
+      "pl": [
+       "οι σερβιτόροι",
+       "των σερβιτόρων",
+       "τους σερβιτόρους",
+       "σερβιτόροι"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-09",
+     "pic": "👮",
+     "el": "ο αστυνομικός",
+     "pron": "o astinomikós",
+     "tr": "polis memuru",
+     "en": "police officer",
+     "forms": {
+      "sg": [
+       "ο αστυνομικός",
+       "του αστυνομικού",
+       "τον αστυνομικό",
+       "αστυνομικέ"
+      ],
+      "pl": [
+       "οι αστυνομικοί",
+       "των αστυνομικών",
+       "τους αστυνομικούς",
+       "αστυνομικοί"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-10",
+     "pic": "",
+     "el": "ο δικηγόρος",
+     "pron": "o dhikighóros",
+     "tr": "avukat",
+     "en": "lawyer",
+     "forms": {
+      "sg": [
+       "ο δικηγόρος",
+       "του δικηγόρου",
+       "τον δικηγόρο",
+       "δικηγόρε"
+      ],
+      "pl": [
+       "οι δικηγόροι",
+       "των δικηγόρων",
+       "τους δικηγόρους",
+       "δικηγόροι"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-11",
+     "pic": "",
+     "el": "ο μηχανικός",
+     "pron": "o mihanikós",
+     "tr": "mühendis; tamirci",
+     "en": "engineer; mechanic",
+     "forms": {
+      "sg": [
+       "ο μηχανικός",
+       "του μηχανικού",
+       "τον μηχανικό",
+       "μηχανικέ"
+      ],
+      "pl": [
+       "οι μηχανικοί",
+       "των μηχανικών",
+       "τους μηχανικούς",
+       "μηχανικοί"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-12",
+     "pic": "",
+     "el": "ο πωλητής",
+     "pron": "o politís",
+     "tr": "satıcı",
+     "en": "salesperson",
+     "forms": {
+      "sg": [
+       "ο πωλητής",
+       "του πωλητή",
+       "τον πωλητή",
+       "πωλητή"
+      ],
+      "pl": [
+       "οι πωλητές",
+       "των πωλητών",
+       "τους πωλητές",
+       "πωλητές"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-13",
+     "pic": "🧑‍🌾",
+     "el": "ο αγρότης",
+     "pron": "o aghrótis",
+     "tr": "çiftçi",
+     "en": "farmer",
+     "forms": {
+      "sg": [
+       "ο αγρότης",
+       "του αγρότη",
+       "τον αγρότη",
+       "αγρότη"
+      ],
+      "pl": [
+       "οι αγρότες",
+       "των αγροτών",
+       "τους αγρότες",
+       "αγρότες"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-14",
+     "pic": "",
+     "el": "ο υπάλληλος",
+     "pron": "o ipálilos",
+     "tr": "memur, çalışan",
+     "en": "employee, clerk",
+     "forms": {
+      "sg": [
+       "ο υπάλληλος",
+       "του υπαλλήλου",
+       "τον υπάλληλο",
+       "υπάλληλε"
+      ],
+      "pl": [
+       "οι υπάλληλοι",
+       "των υπαλλήλων",
+       "τους υπαλλήλους",
+       "υπάλληλοι"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-15",
+     "pic": "",
+     "el": "ο συνάδελφος",
+     "pron": "o sinádhelfos",
+     "tr": "iş arkadaşı",
+     "en": "colleague",
+     "forms": {
+      "sg": [
+       "ο συνάδελφος",
+       "του συναδέλφου",
+       "τον συνάδελφο",
+       "συνάδελφε"
+      ],
+      "pl": [
+       "οι συνάδελφοι",
+       "των συναδέλφων",
+       "τους συναδέλφους",
+       "συνάδελφοι"
+      ]
+     }
+    },
+    {
+     "id": "a2-work-16",
+     "pic": "",
+     "el": "άνεργος, -η, -ο",
+     "pron": "ánerghos",
+     "tr": "işsiz",
+     "en": "unemployed"
+    }
+   ]
+  },
+  {
+   "id": "adjectives",
+   "icon": "↔️",
+   "name": {
+    "el": "Επίθετα και αντίθετα",
+    "tr": "Sıfatlar ve zıtlar",
+    "en": "Adjectives & opposites"
+   },
+   "words": [
+    {
+     "id": "a2-adjectives-01",
+     "pic": "",
+     "el": "μεγάλος, -η, -ο",
+     "pron": "meghálos",
+     "tr": "büyük",
+     "en": "big"
+    },
+    {
+     "id": "a2-adjectives-02",
+     "pic": "",
+     "el": "μικρός, -ή, -ό",
+     "pron": "mikrós",
+     "tr": "küçük",
+     "en": "small"
+    },
+    {
+     "id": "a2-adjectives-03",
+     "pic": "",
+     "el": "καινούργιος, -α, -ο",
+     "pron": "kenúryos",
+     "tr": "yeni",
+     "en": "new"
+    },
+    {
+     "id": "a2-adjectives-04",
+     "pic": "",
+     "el": "παλιός, -ά, -ό",
+     "pron": "paliós",
+     "tr": "eski",
+     "en": "old (things)"
+    },
+    {
+     "id": "a2-adjectives-05",
+     "pic": "",
+     "el": "νέος, -α, -ο",
+     "pron": "néos",
+     "tr": "genç; yeni",
+     "en": "young; new"
+    },
+    {
+     "id": "a2-adjectives-06",
+     "pic": "",
+     "el": "ψηλός, -ή, -ό",
+     "pron": "psilós",
+     "tr": "uzun boylu; yüksek",
+     "en": "tall; high"
+    },
+    {
+     "id": "a2-adjectives-07",
+     "pic": "",
+     "el": "κοντός, -ή, -ό",
+     "pron": "kondós",
+     "tr": "kısa (boy)",
+     "en": "short"
+    },
+    {
+     "id": "a2-adjectives-08",
+     "pic": "",
+     "el": "ωραίος, -α, -ο",
+     "pron": "oréos",
+     "tr": "güzel, hoş",
+     "en": "nice, beautiful"
+    },
+    {
+     "id": "a2-adjectives-09",
+     "pic": "🔥",
+     "el": "ζεστός, -ή, -ό",
+     "pron": "zestós",
+     "tr": "sıcak",
+     "en": "hot, warm"
+    },
+    {
+     "id": "a2-adjectives-10",
+     "pic": "🧊",
+     "el": "κρύος, -α, -ο",
+     "pron": "kríos",
+     "tr": "soğuk",
+     "en": "cold"
+    },
+    {
+     "id": "a2-adjectives-11",
+     "pic": "",
+     "el": "γρήγορος, -η, -ο",
+     "pron": "ghríghoros",
+     "tr": "hızlı",
+     "en": "fast"
+    },
+    {
+     "id": "a2-adjectives-12",
+     "pic": "🐢",
+     "el": "αργός, -ή, -ό",
+     "pron": "arghós",
+     "tr": "yavaş",
+     "en": "slow"
+    },
+    {
+     "id": "a2-adjectives-13",
+     "pic": "",
+     "el": "εύκολος, -η, -ο",
+     "pron": "éfkolos",
+     "tr": "kolay",
+     "en": "easy"
+    },
+    {
+     "id": "a2-adjectives-14",
+     "pic": "",
+     "el": "δύσκολος, -η, -ο",
+     "pron": "dhískolos",
+     "tr": "zor",
+     "en": "difficult"
+    },
+    {
+     "id": "a2-adjectives-15",
+     "pic": "",
+     "el": "γεμάτος, -η, -ο",
+     "pron": "yemátos",
+     "tr": "dolu",
+     "en": "full"
+    },
+    {
+     "id": "a2-adjectives-16",
+     "pic": "",
+     "el": "άδειος, -α, -ο",
+     "pron": "ádhios",
+     "tr": "boş",
+     "en": "empty"
+    },
+    {
+     "id": "a2-adjectives-17",
+     "pic": "😊",
+     "el": "χαρούμενος, -η, -ο",
+     "pron": "harúmenos",
+     "tr": "mutlu, neşeli",
+     "en": "happy, cheerful"
+    },
+    {
+     "id": "a2-adjectives-18",
+     "pic": "😢",
+     "el": "λυπημένος, -η, -ο",
+     "pron": "lipiménos",
+     "tr": "üzgün",
+     "en": "sad"
+    }
+   ]
+  },
+  {
+   "id": "phrases",
+   "icon": "💬",
+   "name": {
+    "el": "Καθημερινές φράσεις",
+    "tr": "Günlük ifadeler",
+    "en": "Everyday phrases"
+   },
+   "words": [
+    {
+     "id": "a2-phrases-01",
+     "pic": "",
+     "el": "Τι κάνεις;",
+     "pron": "ti kánis",
+     "tr": "Nasılsın?",
+     "en": "How are you?"
+    },
+    {
+     "id": "a2-phrases-02",
+     "pic": "",
+     "el": "Συγγνώμη",
+     "pron": "sighnómi",
+     "tr": "özür dilerim; pardon",
+     "en": "sorry; excuse me"
+    },
+    {
+     "id": "a2-phrases-03",
+     "pic": "",
+     "el": "Με συγχωρείτε",
+     "pron": "me sinhoríte",
+     "tr": "affedersiniz (kibar)",
+     "en": "excuse me (polite)"
+    },
+    {
+     "id": "a2-phrases-04",
+     "pic": "",
+     "el": "Δεν πειράζει",
+     "pron": "dhen pirázi",
+     "tr": "önemli değil, sorun değil",
+     "en": "never mind, it's OK"
+    },
+    {
+     "id": "a2-phrases-05",
+     "pic": "",
+     "el": "Ορίστε",
+     "pron": "oríste",
+     "tr": "buyurun",
+     "en": "here you are; pardon?"
+    },
+    {
+     "id": "a2-phrases-06",
+     "pic": "👌",
+     "el": "Εντάξει",
+     "pron": "endáksi",
+     "tr": "tamam",
+     "en": "OK, all right"
+    },
+    {
+     "id": "a2-phrases-07",
+     "pic": "",
+     "el": "Δεν καταλαβαίνω",
+     "pron": "dhen katalavéno",
+     "tr": "anlamıyorum",
+     "en": "I don't understand"
+    },
+    {
+     "id": "a2-phrases-08",
+     "pic": "",
+     "el": "Μπορείτε να επαναλάβετε;",
+     "pron": "boríte na epanalávete",
+     "tr": "Tekrar eder misiniz?",
+     "en": "Could you repeat that?"
+    },
+    {
+     "id": "a2-phrases-09",
+     "pic": "",
+     "el": "Πιο σιγά, παρακαλώ",
+     "pron": "pio sighá, parakaló",
+     "tr": "Daha yavaş, lütfen",
+     "en": "More slowly, please"
+    },
+    {
+     "id": "a2-phrases-10",
+     "pic": "",
+     "el": "Τι σημαίνει…;",
+     "pron": "ti siméni",
+     "tr": "… ne demek?",
+     "en": "What does … mean?"
+    },
+    {
+     "id": "a2-phrases-11",
+     "pic": "",
+     "el": "Καλή όρεξη!",
+     "pron": "kalí óreksi",
+     "tr": "Afiyet olsun!",
+     "en": "Enjoy your meal!"
+    },
+    {
+     "id": "a2-phrases-12",
+     "pic": "🥂",
+     "el": "Στην υγειά μας!",
+     "pron": "stin iyiá mas",
+     "tr": "Şerefe!",
+     "en": "Cheers!"
+    },
+    {
+     "id": "a2-phrases-13",
+     "pic": "",
+     "el": "Καλό ταξίδι!",
+     "pron": "kaló taksídhi",
+     "tr": "İyi yolculuklar!",
+     "en": "Have a good trip!"
+    },
+    {
+     "id": "a2-phrases-14",
+     "pic": "🎉",
+     "el": "Χρόνια πολλά!",
+     "pron": "hrónia polá",
+     "tr": "Nice yıllara! (doğum günü, bayram)",
+     "en": "Happy birthday! / Many happy returns!"
+    }
+   ]
+  },
+  {
+   "id": "school-office",
+   "icon": "🏫",
+   "name": {
+    "el": "Σχολείο και γραφείο",
+    "tr": "Okul ve ofis",
+    "en": "School & office"
+   },
+   "words": [
+    {
+     "id": "a2-school-office-01",
+     "pic": "🏫",
+     "el": "το σχολείο",
+     "pron": "to sholío",
+     "tr": "okul",
+     "en": "school",
+     "forms": {
+      "sg": [
+       "το σχολείο",
+       "του σχολείου",
+       "το σχολείο",
+       "σχολείο"
+      ],
+      "pl": [
+       "τα σχολεία",
+       "των σχολείων",
+       "τα σχολεία",
+       "σχολεία"
+      ]
+     }
+    },
+    {
+     "id": "a2-school-office-02",
+     "pic": "",
+     "el": "ο μαθητής",
+     "pron": "o mathitís",
+     "tr": "öğrenci (okul)",
+     "en": "pupil, student",
+     "forms": {
+      "sg": [
+       "ο μαθητής",
+       "του μαθητή",
+       "τον μαθητή",
+       "μαθητή"
+      ],
+      "pl": [
+       "οι μαθητές",
+       "των μαθητών",
+       "τους μαθητές",
+       "μαθητές"
+      ]
+     }
+    },
+    {
+     "id": "a2-school-office-03",
+     "pic": "🎓",
+     "el": "το πανεπιστήμιο",
+     "pron": "to panepistímio",
+     "tr": "üniversite",
+     "en": "university",
+     "forms": {
+      "sg": [
+       "το πανεπιστήμιο",
+       "του πανεπιστημίου",
+       "το πανεπιστήμιο",
+       "πανεπιστήμιο"
+      ],
+      "pl": [
+       "τα πανεπιστήμια",
+       "των πανεπιστημίων",
+       "τα πανεπιστήμια",
+       "πανεπιστήμια"
+      ]
+     }
+    },
+    {
+     "id": "a2-school-office-04",
+     "pic": "",
+     "el": "το μάθημα",
+     "pron": "to máthima",
+     "tr": "ders",
+     "en": "lesson",
+     "forms": {
+      "sg": [
+       "το μάθημα",
+       "του μαθήματος",
+       "το μάθημα",
+       "μάθημα"
+      ],
+      "pl": [
+       "τα μαθήματα",
+       "των μαθημάτων",
+       "τα μαθήματα",
+       "μαθήματα"
+      ]
+     }
+    },
+    {
+     "id": "a2-school-office-05",
+     "pic": "",
+     "el": "η τάξη",
+     "pron": "i táksi",
+     "tr": "sınıf",
+     "en": "class, classroom",
+     "forms": {
+      "sg": [
+       "η τάξη",
+       "της τάξης",
+       "την τάξη",
+       "τάξη"
+      ],
+      "pl": [
+       "οι τάξεις",
+       "των τάξεων",
+       "τις τάξεις",
+       "τάξεις"
+      ]
+     }
+    },
+    {
+     "id": "a2-school-office-06",
+     "pic": "📕",
+     "el": "το βιβλίο",
+     "pron": "to vivlío",
+     "tr": "kitap",
+     "en": "book",
+     "forms": {
+      "sg": [
+       "το βιβλίο",
+       "του βιβλίου",
+       "το βιβλίο",
+       "βιβλίο"
+      ],
+      "pl": [
+       "τα βιβλία",
+       "των βιβλίων",
+       "τα βιβλία",
+       "βιβλία"
+      ]
+     }
+    },
+    {
+     "id": "a2-school-office-07",
+     "pic": "📓",
+     "el": "το τετράδιο",
+     "pron": "to tetrádhio",
+     "tr": "defter",
+     "en": "notebook",
+     "forms": {
+      "sg": [
+       "το τετράδιο",
+       "του τετραδίου",
+       "το τετράδιο",
+       "τετράδιο"
+      ],
+      "pl": [
+       "τα τετράδια",
+       "των τετραδίων",
+       "τα τετράδια",
+       "τετράδια"
+      ]
+     }
+    },
+    {
+     "id": "a2-school-office-08",
+     "pic": "✏️",
+     "el": "το μολύβι",
+     "pron": "to molívi",
+     "tr": "kurşun kalem",
+     "en": "pencil",
+     "forms": {
+      "sg": [
+       "το μολύβι",
+       "του μολυβιού",
+       "το μολύβι",
+       "μολύβι"
+      ],
+      "pl": [
+       "τα μολύβια",
+       "των μολυβιών",
+       "τα μολύβια",
+       "μολύβια"
+      ]
+     }
+    },
+    {
+     "id": "a2-school-office-09",
+     "pic": "🖊️",
+     "el": "το στιλό",
+     "pron": "to stiló",
+     "tr": "tükenmez kalem",
+     "en": "pen",
+     "forms": {
+      "sg": [
+       "το στιλό",
+       "του στιλό",
+       "το στιλό",
+       "στιλό"
+      ],
+      "pl": [
+       "τα στιλό",
+       "των στιλό",
+       "τα στιλό",
+       "στιλό"
+      ]
+     }
+    },
+    {
+     "id": "a2-school-office-10",
+     "pic": "💻",
+     "el": "ο υπολογιστής",
+     "pron": "o ipoloyistís",
+     "tr": "bilgisayar",
+     "en": "computer",
+     "forms": {
+      "sg": [
+       "ο υπολογιστής",
+       "του υπολογιστή",
+       "τον υπολογιστή",
+       "υπολογιστή"
+      ],
+      "pl": [
+       "οι υπολογιστές",
+       "των υπολογιστών",
+       "τους υπολογιστές",
+       "υπολογιστές"
+      ]
+     }
+    },
+    {
+     "id": "a2-school-office-11",
+     "pic": "📝",
+     "el": "οι εξετάσεις",
+     "pron": "i eksetásis",
+     "tr": "sınavlar",
+     "en": "exams",
+     "forms": {
+      "sg": [
+       "η εξέταση",
+       "της εξέτασης",
+       "την εξέταση",
+       "εξέταση"
+      ],
+      "pl": [
+       "οι εξετάσεις",
+       "των εξετάσεων",
+       "τις εξετάσεις",
+       "εξετάσεις"
+      ]
+     }
+    },
+    {
+     "id": "a2-school-office-12",
+     "pic": "❓",
+     "el": "η ερώτηση",
+     "pron": "i erótisi",
+     "tr": "soru",
+     "en": "question",
+     "forms": {
+      "sg": [
+       "η ερώτηση",
+       "της ερώτησης",
+       "την ερώτηση",
+       "ερώτηση"
+      ],
+      "pl": [
+       "οι ερωτήσεις",
+       "των ερωτήσεων",
+       "τις ερωτήσεις",
+       "ερωτήσεις"
+      ]
+     }
+    },
+    {
+     "id": "a2-school-office-13",
+     "pic": "",
+     "el": "η απάντηση",
+     "pron": "i apándisi",
+     "tr": "cevap",
+     "en": "answer",
+     "forms": {
+      "sg": [
+       "η απάντηση",
+       "της απάντησης",
+       "την απάντηση",
+       "απάντηση"
+      ],
+      "pl": [
+       "οι απαντήσεις",
+       "των απαντήσεων",
+       "τις απαντήσεις",
+       "απαντήσεις"
+      ]
+     }
+    },
+    {
+     "id": "a2-school-office-14",
+     "pic": "",
+     "el": "το λεξικό",
+     "pron": "to leksikó",
+     "tr": "sözlük",
+     "en": "dictionary",
+     "forms": {
+      "sg": [
+       "το λεξικό",
+       "του λεξικού",
+       "το λεξικό",
+       "λεξικό"
+      ],
+      "pl": [
+       "τα λεξικά",
+       "των λεξικών",
+       "τα λεξικά",
+       "λεξικά"
+      ]
+     }
+    }
+   ]
+  }
+ ]
 }
