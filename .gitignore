@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+
+# Personal, local-only material (copyrighted originals from the official PDFs) — never published
+kaynak-pdf/
+images/local/
+data/local-images.js
+gorseller-*.jpg

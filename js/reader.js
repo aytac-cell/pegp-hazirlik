@@ -8,13 +8,7 @@
   const GREEK_RUN = /([\u0370-\u03FF\u1F00-\u1FFF][\u0370-\u03FF\u1F00-\u1FFF\s,'«»-]*[\u0370-\u03FF\u1F00-\u1FFF])/;
   const SKIP_SEL = ".speak, .infl-wrap, .conj-grid, .tip-label, script, style";
 
-  function voiceFor(lang) {
-    if (!("speechSynthesis" in window)) return null;
-    const vs = speechSynthesis.getVoices();
-    const pre = lang.slice(0, 2).toLowerCase();
-    return vs.find(v => v.lang && v.lang.toLowerCase().replace("_", "-").startsWith(pre) && v.localService) ||
-           vs.find(v => v.lang && v.lang.toLowerCase().replace("_", "-").startsWith(pre)) || null;
-  }
+  const voiceFor = lang => Voices.pick(lang);     // honours the voice / gender chosen in Settings
 
   // walk a unit's DOM and split its text into [{lang, text}] by lang="el" spans
   function segments(node, baseLang) {
@@ -71,15 +65,22 @@
       <button type="button" data-a="play" class="main" aria-label="${opts.labels.play}">▶</button>
       <button type="button" data-a="next" aria-label="${opts.labels.next}" title="${opts.labels.next}">⏭</button>
       <span class="reader-pos" aria-live="off"></span>
-      <select aria-label="${opts.labels.speed}">${[0.75, 1, 1.25, 1.5].map(r => `<option value="${r}" ${r === rate ? "selected" : ""}>${r}×</option>`).join("")}</select>
+      <select class="r-gender" aria-label="${opts.labels.voice}">${[["", "🔊 " + opts.labels.auto], ["f", "♀ " + opts.labels.female], ["m", "♂ " + opts.labels.male]].map(([v, l]) => `<option value="${v}" ${v === (Store.setting("voiceGender") || "") ? "selected" : ""}>${l}</option>`).join("")}</select>
+      <select class="r-speed" aria-label="${opts.labels.speed}">${[0.75, 1, 1.25, 1.5].map(r => `<option value="${r}" ${r === rate ? "selected" : ""}>${r}×</option>`).join("")}</select>
       <button type="button" data-a="close" aria-label="${opts.labels.close}" title="${opts.labels.close}">✕</button>
       <div class="reader-warn"></div>`;
     document.body.appendChild(bar);
     const playBtn = bar.querySelector('[data-a="play"]'), pos = bar.querySelector(".reader-pos"), warn = bar.querySelector(".reader-warn");
 
     const needed = new Set([VOICE_LANG[main], VOICE_LANG[opts.lessonLang === "el+" ? opts.uiLang : main]]);
-    const missing = [...needed].filter(l => !voiceFor(l));
-    if (missing.length) warn.textContent = opts.labels.noVoice.replace("{l}", missing.map(l => l.slice(0, 2).toUpperCase()).join(", "));
+    function checkVoices() {
+      const missing = [...needed].filter(l => !voiceFor(l));
+      const noGender = [...needed].filter(l => voiceFor(l) && Voices.genderMissing(l));
+      warn.textContent = missing.length ? opts.labels.noVoice.replace("{l}", missing.map(l => l.slice(0, 2).toUpperCase()).join(", "))
+        : noGender.length ? opts.labels.noGender.replace("{l}", noGender.map(l => l.slice(0, 2).toUpperCase()).join(", ")) : "";
+    }
+    checkVoices();
+    Voices.onChange(checkVoices);
 
     function mark() {
       units.forEach((u, i) => u.classList.toggle("reading", i === idx && playing));
@@ -126,7 +127,12 @@
       const b = e.target.closest("[data-a]"); if (!b) return;
       ({ prev: () => go(-1), next: () => go(1), close: stop, play: () => (playing ? pause() : play()) })[b.dataset.a]();
     });
-    bar.querySelector("select").addEventListener("change", e => {
+    bar.querySelector(".r-gender").addEventListener("change", e => {
+      Store.setting("voiceGender", e.target.value);
+      checkVoices();
+      if (playing) speakUnit();
+    });
+    bar.querySelector(".r-speed").addEventListener("change", e => {
       rate = parseFloat(e.target.value); Store.setting("readRate", rate);
       if (playing) speakUnit();
     });

@@ -89,6 +89,38 @@ def check(q):
                 err(qid, f"places[{i}] coordinates outside Greece: {lat},{lon}")
         check_L(qid, q.get("answer"), "answer", optional=True)
 
+ISRC = SRC / "images"
+ALLOWED_LICENSE = ("public domain", "pd", "cc0", "cc by", "cc-by")
+
+def attach_images(qmap):
+    """Attach freely licensed replacement images (data/src/images/*.json) to photo-based questions."""
+    n = 0
+    for f in sorted(ISRC.glob("*.json")) if ISRC.exists() else []:
+        for qid, entry in json.loads(f.read_text(encoding="utf-8")).items():
+            q = qmap.get(qid)
+            where = f"images/{f.name}/{qid}"
+            if not q:
+                errors.append(f"{where}: unknown question"); continue
+            imgs = entry.get("images") or []
+            if not imgs:
+                errors.append(f"{where}: no images"); continue
+            for im in imgs:
+                path = ROOT / (im.get("file") or "")
+                lic = (im.get("license") or "").lower()
+                if not im.get("file") or not path.is_file():
+                    errors.append(f"{where}: missing file {im.get('file')}")
+                elif path.stat().st_size > 250_000:
+                    errors.append(f"{where}: {im['file']} is larger than 250 KB")
+                if not lic.startswith(ALLOWED_LICENSE) or "nc" in lic.replace("-", " ").split():
+                    errors.append(f"{where}: license not allowed: {im.get('license')}")
+                if not str(im.get("source", "")).startswith("https://commons.wikimedia.org/wiki/File:"):
+                    errors.append(f"{where}: source must be a Commons file page")
+                if not is_L(im.get("subject")) or not str(im.get("author", "")).strip():
+                    errors.append(f"{where}: subject/author")
+            q["images"] = imgs
+            n += 1
+    return n
+
 LSRC = SRC / "lessons"
 LOUT = ROOT / "data" / "lessons.js"
 BLOCKS = {"p", "list", "terms", "timeline", "map", "tip", "table", "decl", "conj"}
@@ -251,6 +283,8 @@ def main():
         for q in qs:
             counts[q["type"]] = counts.get(q["type"], 0) + 1
         print(f"{s}: {len(qs)} {counts}")
+    with_img = attach_images({q["id"]: q for q in allq})
+    print(f"images: {with_img} questions with free replacement images")
     lessons = build_lessons({q["id"]: q for q in allq})
     words = build_words()
     if errors:

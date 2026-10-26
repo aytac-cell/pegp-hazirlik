@@ -6,6 +6,13 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.6.0 (2026-10-26)
+
+- **Yeni: Ses seçimi.** Kadın, erkek veya otomatik ses seçilebilir. Ayrıca her dil için cihazdaki sesler arasından seçilip denenebilir; Ayarlar'da ve ders oynatıcısında.
+- **Fotoğraflı sorular artık resimli.** 25 soruya Wikimedia Commons'tan aynı konuyu gösteren serbest lisanslı görseller eklendi. Yazar ve lisans her görselin altında ve Hakkında sayfasında yazıyor.
+- Bu sorular artık çalışmaya ve sınav provasına da dahil.
+- **Yerel kopya:** `tools/extract_local_images.py`, resmî PDF'lerdeki orijinal fotoğrafları sadece yerel kopya için çıkarır. Bu dosyalar git dışındadır ve yayımlanmaz.
+
 ## 1.5.0 (2026-10-26)
 
 - **Yeni: Dersi dinle.** Ders seçtiğin dilde sesli okunur: Türkçe, English, Ελληνικά ya da önce Yunanca sonra Türkçe.

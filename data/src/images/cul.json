@@ -1,0 +1,372 @@
+{
+  "cul-9": {
+    "images": [
+      {
+        "slot": "Α",
+        "file": "images/q/cul-9-a.jpg",
+        "w": 800,
+        "h": 514,
+        "subject": {
+          "el": "Πήλινα γυναικεία ειδώλια τύπου Ταναγραίας (ελληνιστική εποχή) — όχι κυκλαδική τέχνη",
+          "tr": "Tanagra tipi pişmiş toprak kadın figürinleri (Helenistik dönem) — Kiklad sanatı değil",
+          "en": "Terracotta female figurines of the Tanagra type (Hellenistic period) — not Cycladic art"
+        },
+        "author": "Photo: Giraudon",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Greece_from_the_Coming_of_the_Hellenes_to_AD._14,_page_265,_Tanagra_figurines.jpg"
+      },
+      {
+        "slot": "Β",
+        "file": "images/q/cul-9-b.jpg",
+        "w": 667,
+        "h": 1000,
+        "subject": {
+          "el": "Μαρμάρινο κυκλαδικό ειδώλιο με σταυρωμένα χέρια (2800–2300 π.Χ.)",
+          "tr": "Kolları kavuşturulmuş mermer Kiklad figürini (MÖ 2800–2300)",
+          "en": "Marble Cycladic figurine with folded arms (2800–2300 BC)"
+        },
+        "author": "Zde",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cycladic_figurine_female,_2800%E2%80%932300_BC,_AshmoleanM,_AE_178,_142428.jpg"
+      },
+      {
+        "slot": "Γ",
+        "file": "images/q/cul-9-c.jpg",
+        "w": 744,
+        "h": 1000,
+        "subject": {
+          "el": "Κυκλαδικό ειδώλιο καθιστού αρπιστή (Πρωτοκυκλαδική εποχή)",
+          "tr": "Oturan arp çalgıcısı Kiklad figürini (Erken Kiklad dönemi)",
+          "en": "Cycladic figurine of a seated harp player (Early Cycladic period)"
+        },
+        "author": "J. Paul Getty Museum",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Male_harp_player_of_the_early_Spedos_type_-_Getty_Museum_(85.AA.103).jpg"
+      },
+      {
+        "slot": "Δ",
+        "file": "images/q/cul-9-d.jpg",
+        "w": 630,
+        "h": 1000,
+        "subject": {
+          "el": "Η μινωική «Θεά των Όφεων» από την Κνωσό — όχι κυκλαδική τέχνη",
+          "tr": "Knossos'tan Minos uygarlığına ait «Yılanlı Tanrıça» — Kiklad sanatı değil",
+          "en": "The Minoan \"Snake Goddess\" from Knossos — not Cycladic art"
+        },
+        "author": "Jebulon",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Snake_goddess_archmus_Heraklion.jpg"
+      }
+    ]
+  },
+  "cul-10": {
+    "images": [
+      {
+        "slot": "Α",
+        "file": "images/q/cul-10-a.jpg",
+        "w": 747,
+        "h": 1000,
+        "subject": {
+          "el": "Η Αίθουσα του Θρόνου στο μινωικό ανάκτορο της Κνωσού, με τοιχογραφία γρυπών",
+          "tr": "Minos uygarlığına ait Knossos Sarayı'ndaki Taht Salonu ve grifon duvar resmi",
+          "en": "The Throne Room of the Minoan palace at Knossos, with its griffin fresco"
+        },
+        "author": "Jebulon",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Throne_of_Minos_at_Knossos_Palace.jpg"
+      },
+      {
+        "slot": "Β",
+        "file": "images/q/cul-10-b.jpg",
+        "w": 366,
+        "h": 1000,
+        "subject": {
+          "el": "Η Κόρη της Φρασίκλειας, αρχαϊκό άγαλμα (περ. 550–540 π.Χ.) — όχι μινωικό",
+          "tr": "Phrasikleia Koresi, arkaik heykel (MÖ y. 550–540) — Minos uygarlığına ait değil",
+          "en": "The Phrasikleia Kore, an Archaic statue (c. 550–540 BC) — not Minoan"
+        },
+        "author": "Francesco Bini",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Aristone_di_paros,_kore_per_la_tomba_di_phrasikleia,_da_merenda_(myrrhinous)_in_attica,_550-540_ac_ca._01,_n._4889.jpg"
+      },
+      {
+        "slot": "Γ",
+        "file": "images/q/cul-10-c.jpg",
+        "w": 800,
+        "h": 532,
+        "subject": {
+          "el": "Η Πύλη των Λεόντων στις Μυκήνες (μυκηναϊκός πολιτισμός) — όχι μινωική",
+          "tr": "Miken'deki Aslanlı Kapı (Miken uygarlığı) — Minos uygarlığına ait değil",
+          "en": "The Lion Gate at Mycenae (Mycenaean civilisation) — not Minoan"
+        },
+        "author": "Zde",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lion_Gate,_Mycenae,_201510.jpg"
+      },
+      {
+        "slot": "Δ",
+        "file": "images/q/cul-10-d.jpg",
+        "w": 679,
+        "h": 1000,
+        "subject": {
+          "el": "Η μινωική «Θεά των Όφεων» από την Κνωσό (Αρχαιολογικό Μουσείο Ηρακλείου)",
+          "tr": "Knossos'tan Minos uygarlığına ait «Yılanlı Tanrıça» (Kandiye Arkeoloji Müzesi)",
+          "en": "The Minoan \"Snake Goddess\" from Knossos (Heraklion Archaeological Museum)"
+        },
+        "author": "Joyofmuseums",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Snake_Goddess_-_Heraklion_Archaeological_Museum_by_Joy_of_Museums.jpg"
+      }
+    ]
+  },
+  "cul-15": {
+    "images": [
+      {
+        "slot": null,
+        "file": "images/q/cul-15.jpg",
+        "w": 800,
+        "h": 800,
+        "subject": {
+          "el": "Η χρυσή «Μάσκα του Αγαμέμνονα» από τις Μυκήνες (Εθνικό Αρχαιολογικό Μουσείο, Αθήνα)",
+          "tr": "Miken'den altın «Agamemnon Maskesi» (Ulusal Arkeoloji Müzesi, Atina)",
+          "en": "The gold \"Mask of Agamemnon\" from Mycenae (National Archaeological Museum, Athens)"
+        },
+        "author": "Jebulon",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Agamemnon_mask_NAMA_Athens_Greece.jpg"
+      }
+    ]
+  },
+  "cul-18": {
+    "images": [
+      {
+        "slot": "Α",
+        "file": "images/q/cul-18-a.jpg",
+        "w": 719,
+        "h": 1000,
+        "subject": {
+          "el": "Κεφαλή του φιλοσόφου Πλάτωνα (ρωμαϊκό αντίγραφο) — όχι ο Αλέξανδρος",
+          "tr": "Filozof Platon'un başı (Roma dönemi kopyası) — İskender değil",
+          "en": "Head of the philosopher Plato (Roman copy) — not Alexander"
+        },
+        "author": "Bibi Saint-Pol (photo); original by Silanion",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "source": "https://commons.wikimedia.org/wiki/File:Head_Platon_Glyptothek_Munich_548.jpg"
+      },
+      {
+        "slot": "Β",
+        "file": "images/q/cul-18-b.jpg",
+        "w": 742,
+        "h": 1000,
+        "subject": {
+          "el": "Κεφαλή του Μεγάλου Αλεξάνδρου (Μουσείο Ακρόπολης)",
+          "tr": "Büyük İskender'in başı (Akropolis Müzesi)",
+          "en": "Head of Alexander the Great (Acropolis Museum)"
+        },
+        "author": "Marsyas",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "https://commons.wikimedia.org/wiki/File:ACMA_1331_Alexander_1.JPG"
+      },
+      {
+        "slot": "Γ",
+        "file": "images/q/cul-18-c.jpg",
+        "w": 663,
+        "h": 1000,
+        "subject": {
+          "el": "Προτομή του Ρωμαίου αυτοκράτορα Αδριανού με θώρακα — όχι ο Αλέξανδρος",
+          "tr": "Zırhlı Roma imparatoru Hadrianus'un büstü — İskender değil",
+          "en": "Bust of the Roman emperor Hadrian in a cuirass — not Alexander"
+        },
+        "author": "Carole Raddato from FRANKFURT, Germany",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hadrian_bust_wearing_the_cuirass,_AD_130,_Naples_National_Archaeological_Museum_(14387475218).jpg"
+      },
+      {
+        "slot": "Δ",
+        "file": "images/q/cul-18-d.jpg",
+        "w": 665,
+        "h": 1000,
+        "subject": {
+          "el": "Προτομή του Ομήρου (ρωμαϊκό αντίγραφο, Βρετανικό Μουσείο) — όχι ο Αλέξανδρος",
+          "tr": "Homeros büstü (Roma dönemi kopyası, British Museum) — İskender değil",
+          "en": "Bust of Homer (Roman copy, British Museum) — not Alexander"
+        },
+        "author": "Marie-Lan Nguyen",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "source": "https://commons.wikimedia.org/wiki/File:Bust_Homer_BM_1825.jpg"
+      }
+    ]
+  },
+  "cul-26": {
+    "images": [
+      {
+        "slot": null,
+        "file": "images/q/cul-26.jpg",
+        "w": 800,
+        "h": 534,
+        "subject": {
+          "el": "Ο Λευκός Πύργος της Θεσσαλονίκης",
+          "tr": "Selanik'teki Beyaz Kule",
+          "en": "The White Tower of Thessaloniki"
+        },
+        "author": "Annatsach",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:The_White_Tower_of_Thessaloniki_-_3.jpg"
+      }
+    ]
+  },
+  "cul-28": {
+    "images": [
+      {
+        "slot": null,
+        "file": "images/q/cul-28.jpg",
+        "w": 751,
+        "h": 1000,
+        "subject": {
+          "el": "Το κωδωνοστάσιο (καμπαναριό) μπροστά στον ναό του Αγίου Νικολάου στον Πολύγυρο",
+          "tr": "Poligiros'taki Aziz Nikolaos Kilisesi'nin önündeki çan kulesi",
+          "en": "The bell tower (belfry) in front of the Church of Saint Nicholas in Polygyros"
+        },
+        "author": "Hombre",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Belfry_of_Saint_Nicholas_Church_in_Polygyros.jpg"
+      }
+    ]
+  },
+  "cul-31": {
+    "images": [
+      {
+        "slot": "1",
+        "file": "images/q/cul-31-1.jpg",
+        "w": 800,
+        "h": 600,
+        "subject": {
+          "el": "Ο Πύργος της Βασιλίσσης στο Ίλιον (1854), σε νεογοτθικό/ρομαντικό ρυθμό — όχι νεοκλασικός",
+          "tr": "İlion'daki Kraliçe Kulesi (1854), neogotik/romantik üslupta — neoklasik değil",
+          "en": "The Queen's Tower (Pyrgos Vasilissis) in Ilion (1854), Gothic Revival / romantic style — not neoclassical"
+        },
+        "author": "Sp!ros",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tower_of_queen_Amalia_(Ilion,_Athens).jpeg"
+      },
+      {
+        "slot": "2",
+        "file": "images/q/cul-31-2.jpg",
+        "w": 800,
+        "h": 800,
+        "subject": {
+          "el": "Η Ακαδημία Αθηνών (Θεόφιλος Χάνσεν), νεοκλασικό κτήριο με ιωνικούς κίονες",
+          "tr": "Atina Akademisi (Theophil Hansen), İyon sütunlu neoklasik bina",
+          "en": "The Academy of Athens (Theophil Hansen), a neoclassical building with Ionic columns"
+        },
+        "author": "A.Savin",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_28_Academy_of_Athens.jpg"
+      },
+      {
+        "slot": "3",
+        "file": "images/q/cul-31-3.jpg",
+        "w": 800,
+        "h": 532,
+        "subject": {
+          "el": "Το Ζάππειο Μέγαρο στην Αθήνα, νεοκλασικό κτήριο με πρόπυλο κιόνων και αέτωμα",
+          "tr": "Atina'daki Zappeion, sütunlu girişi ve alınlığıyla neoklasik bina",
+          "en": "The Zappeion in Athens, a neoclassical building with a columned portico and pediment"
+        },
+        "author": "Jakub Hałun",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Zappeion,_Athens,_20240531_1547_9798.jpg"
+      },
+      {
+        "slot": "4",
+        "file": "images/q/cul-31-4.jpg",
+        "w": 800,
+        "h": 533,
+        "subject": {
+          "el": "Το βυζαντινό Παλάτι των Δεσποτών στον Μυστρά, με τοξωτά παράθυρα — όχι νεοκλασικό",
+          "tr": "Mistra'daki Bizans dönemi Despotlar Sarayı, kemerli pencereli — neoklasik değil",
+          "en": "The Byzantine Palace of the Despots at Mystras, with arched windows — not neoclassical"
+        },
+        "author": "Julien Seguinot from Lille, France",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mystras_despot%27s_palace_(50841912787).jpg"
+      }
+    ]
+  },
+  "cul-32": {
+    "images": [
+      {
+        "slot": null,
+        "file": "images/q/cul-32.jpg",
+        "w": 800,
+        "h": 829,
+        "subject": {
+          "el": "Εύζωνες της Προεδρικής Φρουράς μπροστά στο Μνημείο του Άγνωστου Στρατιώτη, Αθήνα",
+          "tr": "Atina'da Meçhul Asker Anıtı önünde Cumhurbaşkanlığı Muhafızları'ndan Evzonlar",
+          "en": "Evzones of the Presidential Guard at the Tomb of the Unknown Soldier, Athens"
+        },
+        "author": "Jebulon",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Crossing_Evzones_Tomb_Unknown_Soldier_Athens-2.jpg"
+      }
+    ]
+  },
+  "cul-34": {
+    "images": [
+      {
+        "slot": null,
+        "file": "images/q/cul-34.jpg",
+        "w": 800,
+        "h": 597,
+        "subject": {
+          "el": "Το Ιλίου Μέλαθρον (Ερνέστος Τσίλλερ), σήμερα Νομισματικό Μουσείο Αθηνών",
+          "tr": "Iliou Melathron (Ernst Ziller), bugün Atina Nümismatik Müzesi",
+          "en": "The Iliou Melathron (Ernst Ziller), today the Numismatic Museum of Athens"
+        },
+        "author": "C messier",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:%CE%99%CE%BB%CE%AF%CE%BF%CF%85_%CE%9C%CE%AD%CE%BB%CE%B1%CE%B8%CF%81%CE%BF%CE%BD_6649.jpg"
+      }
+    ]
+  },
+  "cul-47": {
+    "images": [
+      {
+        "slot": null,
+        "file": "images/q/cul-47.jpg",
+        "w": 750,
+        "h": 1000,
+        "subject": {
+          "el": "Η ηθοποιός Μελίνα Μερκούρη (1985)",
+          "tr": "Oyuncu Melina Merkuri (1985)",
+          "en": "The actress Melina Mercouri (1985)"
+        },
+        "author": "Bart Molendijk / Anefo",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Melina_Mercouri_(1985).jpg"
+      }
+    ]
+  }
+}

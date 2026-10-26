@@ -22,23 +22,7 @@
     return tr && tr.trim() !== L.el.trim() ? `<span class="${cls} tr-x">${esc(tr)}</span>` : "";
   }
 
-  let voice = null;
-  function pickVoice() {
-    if (!("speechSynthesis" in window)) return null;
-    const vs = speechSynthesis.getVoices();
-    return vs.find(v => /^el(-|_|$)/i.test(v.lang)) || null;
-  }
-  if ("speechSynthesis" in window) {
-    voice = pickVoice();
-    speechSynthesis.onvoiceschanged = () => { voice = pickVoice(); };
-  }
-  function speak(text) {
-    if (!("speechSynthesis" in window)) return;
-    speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = "el-GR"; if (voice) u.voice = voice; u.rate = 0.92;
-    speechSynthesis.speak(u);
-  }
+  function speak(text) { Voices.say(text, "el-GR", 0.92); }
   function canSpeak() { return Store.setting("voice") && "speechSynthesis" in window; }
 
   function header(q, mode) {
@@ -63,11 +47,33 @@
       ${trMode === "tap" ? `<button class="reveal-tr" type="button" data-act="tr">${esc(t("showTr"))}</button>` : ""}`;
   }
 
+  // original exam pictures (local copy only) win over the free replacements
+  function picturesOf(q) {
+    const local = window.LOCAL_IMAGES && window.LOCAL_IMAGES[q.id];
+    if (local && local.length) return local.map(e => Object.assign({ local: true }, e));
+    return q.images || [];
+  }
+
   function noteHtml(q) {
+    // with pictures shown, the old "photo not shown" notes no longer apply
+    if (picturesOf(q).length) return "";
     let s = "";
     if (q.image) s += `<div class="note">📷 ${esc(t("imageNote"))}</div>`;
     if (q.note) s += `<div class="note"><b>${esc(t("noteLabel"))}:</b> <span>${esc(c(q.note))}</span></div>`;
     return s;
+  }
+
+  // freely licensed replacement pictures; what they show is revealed only after answering
+  function figuresHtml(q) {
+    const imgs = picturesOf(q);
+    if (!imgs.length) return "";
+    const one = imgs.length === 1;
+    return `<div class="q-figs ${one ? "one" : ""}">${imgs.map(im => `<figure class="q-fig">
+        ${im.slot ? `<div class="q-slot" lang="el">Εικ. ${esc(im.slot)}</div>` : ""}
+        <img src="${esc(im.file)}" alt="${esc(im.slot ? "Εικ. " + im.slot : t("q"))}" width="${im.w || ""}" height="${im.h || ""}" loading="lazy" decoding="async">
+        <figcaption>${im.local ? `<span class="img-credit">📄 ${esc(t("localPicture"))}</span>`
+          : `<span class="img-subj">${esc(c(im.subject))}<br></span><span class="img-credit">📷 ${esc(im.author)} · <a href="${esc(im.source)}" target="_blank" rel="noopener">${esc(im.license)}</a></span>`}</figcaption>
+      </figure>`).join("")}</div>`;
   }
 
   // ---------- answer box (official answer) ----------
@@ -299,7 +305,7 @@
     };
     const trMode = Store.setting("tr");
     const node = h(`<article class="card qcard fade-in ${trMode === "always" ? "show-tr" : ""}"></article>`);
-    node.innerHTML = header(q, ctl.mode);
+    node.innerHTML = header(q, ctl.mode) + figuresHtml(q);
     let body;
     switch (q.type) {
       case "mc": body = renderMC(q, ctl); break;
@@ -325,6 +331,7 @@
     ctl.showTranslations = () => { if (Store.setting("tr") !== "never") node.classList.add("show-tr"); };
     ctl.showAnswer = () => {
       ctl.locked = true;
+      node.classList.add("answered");
       ctl.paint && ctl.paint();
       if (!after.querySelector(".answer-box") && q.type !== "mc") after.insertAdjacentHTML("beforeend", answerHtml(q));
       if (q.type === "mc" && ctl.answer == null) after.insertAdjacentHTML("beforeend", answerHtml(q));
@@ -333,11 +340,12 @@
     };
     if (ctl.mode === "browse") {
       ctl.locked = true;
+      node.classList.add("answered");
       if (q.type === "mc") ctl.paint();
       after.insertAdjacentHTML("beforeend", (q.type === "mc" ? "" : answerHtml(q)) + noteHtml(q));
     }
     return ctl;
   }
 
-  window.Cards = { render, esc, LETTERS, speak, answerHtml };
+  window.Cards = { render, esc, LETTERS, speak, answerHtml, picturesOf };
 })();

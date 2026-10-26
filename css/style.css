@@ -251,6 +251,16 @@ select.sel {
 .kbd-hint { font-size: .75rem; color: var(--muted); margin-top: .6rem; text-align: center; }
 @media (hover: none) { .kbd-hint { display: none; } }
 
+/* ---------- question pictures ---------- */
+.q-figs { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .6rem; margin: .9rem 0 .2rem; }
+.q-figs.one { grid-template-columns: minmax(0, 420px); justify-content: center; }
+.q-fig { margin: 0; background: var(--surface-2); border-radius: 12px; padding: .45rem; position: relative; }
+.q-fig img { display: block; width: 100%; height: auto; max-height: 340px; object-fit: contain; border-radius: 8px; background: var(--surface); }
+.q-slot { position: absolute; top: .7rem; left: .7rem; background: var(--primary); color: var(--primary-ink); font-weight: 700; font-size: .8rem; padding: .1rem .5rem; border-radius: 999px; z-index: 1; }
+.q-fig figcaption { font-size: .72rem; color: var(--muted); margin-top: .3rem; line-height: 1.35; word-break: break-word; }
+.q-fig .img-subj { color: var(--text); font-size: .82rem; font-weight: 600; }
+.qcard:not(.answered) .img-subj { display: none; }
+
 /* ---------- map ---------- */
 .map-wrap { margin-top: 1rem; border-radius: 12px; overflow: hidden; border: 1px solid var(--line); background: var(--sea); }
 .map-wrap svg { display: block; width: 100%; height: auto; }

@@ -1,7 +1,22 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.5.0";
+window.APP_VERSION = "1.6.0";
 window.APP_CHANGES = [
+  {
+    v: "1.6.0", date: "2026-10-26",
+    tr: [
+      "Yeni: Ses seçimi — kadın / erkek / otomatik; her dil için cihazdaki sesler arasından seçim ve deneme (Ayarlar ve ders oynatıcısı)",
+      "Fotoğraflı sorular artık resimli: 25 soruya Wikimedia Commons'tan aynı konuyu gösteren serbest lisanslı görseller eklendi (yazar ve lisans her görselin altında ve Hakkında sayfasında)",
+      "Bu sorular artık çalışmaya ve sınav provasına da dahil",
+      "Kendi bilgisayarında: resmî soru bankasındaki orijinal sınav fotoğraflarını gösterme desteği (kişisel kopya, yayımlanmaz)"
+    ],
+    en: [
+      "New: voice choice — female / male / auto, plus picking and testing a specific device voice per language (Settings and the lesson player)",
+      "Photo-based questions now have pictures: 25 questions got freely licensed images of the same subject from Wikimedia Commons (author and licence under each image and on the About page)",
+      "These questions are now included in study and the mock exam",
+      "On your own computer: support for showing the original pictures from the official bank (personal copy, never published)"
+    ]
+  },
   {
     v: "1.5.0", date: "2026-10-26",
     tr: [

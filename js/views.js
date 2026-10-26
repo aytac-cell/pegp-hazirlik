@@ -4,8 +4,10 @@
   const c = L => I18N.c(L);
   const esc = s => Cards.esc(s);
   const QS = () => window.QUESTIONS || [];
-  // questions that rely on a photo we can't show stay browsable but are left out of study and exams
-  const STUDY = () => QS().filter(q => !q.image);
+  // a question that relies on a photo is studied only once it has a free replacement image (q.images);
+  // otherwise it stays browsable but is left out of study and exams
+  const usable = q => !q.image || Cards.picturesOf(q).length > 0;
+  const STUDY = () => QS().filter(usable);
   const SUBJECTS = [
     { id: "geo", icon: "🗺️", el: "Γεωγραφία", exam: 4 },
     { id: "cul", icon: "🏛️", el: "Πολιτισμός", exam: 4 },
@@ -115,7 +117,7 @@
     // ids = drill a fixed set (a lesson section's questions), regardless of what is due; grading still feeds SRS
     const ids = params.get("ids"), back = params.get("back");
     const backOk = back && back.startsWith("#/learn") ? back : null;
-    const pool = ids ? ids.split(",").map(id => QS().find(q => q.id === id)).filter(q => q && !q.image)
+    const pool = ids ? ids.split(",").map(id => QS().find(q => q.id === id)).filter(q => q && usable(q))
                      : STUDY().filter(q => !subj || q.subject === subj);
     const queue = ids ? shuffle(pool) : SRS.buildQueue(pool, { extra: params.get("extra") === "1" });
     let done = 0, firstOk = 0, current = null, keyHandler = null;
@@ -269,14 +271,14 @@
     const all = QS();
     const subjObj = SUBJECTS.find(s => s.id === subj);
     const pool = all.filter(q => !subj || q.subject === subj);
-    const k = SRS.counts(pool.filter(q => !q.image));
+    const k = SRS.counts(pool.filter(usable));
     const types = ["mc", "tf", "fill", "match", "open", "map"].filter(ty => pool.some(q => q.type === ty));
 
     html(`
       ${subjObj ? `<div class="card" style="border-top:4px solid var(--${subj});margin-bottom:1rem">
           <div class="row"><span style="font-size:1.6rem">${subjObj.icon}</span><div><h1 style="margin:0">${esc(t("subj_" + subj))}</h1><div class="muted" lang="el">${esc(subjObj.el)}</div></div>
           <span class="spacer"></span>${LES()[subj] ? `<a class="btn" href="#/learn?s=${subj}">📖 ${esc(t("readLesson"))}</a>` : ""}<a class="btn btn-primary" href="#/study?s=${subj}">▶ ${esc(t("studySubject"))}</a></div>
-          <div style="margin-top:.8rem">${stackBar(k.cat, pool.filter(q => !q.image).length)}</div>
+          <div style="margin-top:.8rem">${stackBar(k.cat, pool.filter(usable).length)}</div>
           ${legend(k.cat)}
         </div>` : `<h1>${esc(t("browseAll"))}</h1>`}
       <div class="toolbar">
@@ -403,7 +405,7 @@
     const autoOk = q => !(q.type === "open" || (q.type === "fill" && !(q.bank && q.bank.length)));
     const qs = [];
     for (const s of SUBJECTS) {
-      const pool = QS().filter(q => q.subject === s.id && !q.image && (!onlyAuto || autoOk(q)));
+      const pool = QS().filter(q => q.subject === s.id && usable(q) && (!onlyAuto || autoOk(q)));
       qs.push(...shuffle(pool).slice(0, s.exam));
     }
     // official order of subjects in the paper: geography, culture, history, institutions
@@ -618,11 +620,33 @@
       <div class="field"><label for="np">${esc(t("setNew"))}</label><input type="number" id="np" min="5" max="100" value="${Store.setting("newPerDay")}"><span class="hint">${esc(t("setNewHint"))}</span></div>
       <div class="field"><label>${esc(t("setTheme"))}</label>${seg("theme", [["auto", t("themeAuto")], ["light", t("themeLight")], ["dark", t("themeDark")]])}</div>
       <div class="field"><label>${esc(t("setVoice"))}</label>${seg("voice", [["true", t("voiceOn")], ["false", t("voiceOff")]])}${hasGreekVoice ? "" : `<span class="hint">${esc(t("voiceMissing"))}</span>`}</div>
+      <div class="field"><label>${esc(t("setVoiceChoice"))}</label>${seg("voiceGender", [["", t("voiceAuto")], ["f", "♀ " + t("voiceFemale")], ["m", "♂ " + t("voiceMale")]])}
+        <span class="hint">${esc(t("voiceChoiceHint"))}</span>
+        <div id="voiceLists" class="stack" style="margin-top:.6rem"></div></div>
       <div class="field"><label>${esc(t("backup"))}</label>
         <div class="row"><button class="btn" id="exp">⬇ ${esc(t("exportBtn"))}</button>
         <label class="btn" style="cursor:pointer">⬆ ${esc(t("importBtn"))}<input type="file" id="imp" accept="application/json,.json" hidden></label></div></div>
       <div class="field"><button class="btn" id="reset" style="color:var(--bad)">${esc(t("resetBtn"))}</button></div>
     </div>`);
+    const SAMPLE = { el: "Καλημέρα! Αυτή είναι η φωνή μου.", tr: "Merhaba! Bu benim sesim.", en: "Hello! This is my voice." };
+    const LANGS = [["el", "el-GR", "Ελληνικά"], ["tr", "tr-TR", "Türkçe"], ["en", "en-US", "English"]];
+    function drawVoiceLists() {
+      const box = document.getElementById("voiceLists"); if (!box) return;
+      box.innerHTML = LANGS.map(([k, code, name]) => {
+        const vs = Voices.list(code), cur = Store.setting("voice_" + k) || "";
+        const sign = v => ({ f: "♀ ", m: "♂ " }[Voices.gender(v)] || "");
+        return `<div class="row"><span style="min-width:80px">${name}</span>
+          <select class="sel" data-vl="${k}" ${vs.length ? "" : "disabled"}><option value="">${esc(vs.length ? t("voiceAutoPick") : t("voiceNone"))}</option>${vs.map(v => `<option value="${esc(v.name)}" ${v.name === cur ? "selected" : ""}>${sign(v)}${esc(v.name)}</option>`).join("")}</select>
+          <button class="btn btn-sm" type="button" data-try="${k}" ${vs.length ? "" : "disabled"}>▶ ${esc(t("voiceTry"))}</button>
+          ${Voices.genderMissing(code) ? `<span class="hint">${esc(t("voiceNoGender").replace("{l}", name))}</span>` : ""}</div>`;
+      }).join("");
+      box.querySelectorAll("[data-vl]").forEach(s => s.addEventListener("change", () => { Store.setting("voice_" + s.dataset.vl, s.value); toast(t("saved")); }));
+      box.querySelectorAll("[data-try]").forEach(b => b.addEventListener("click", () => {
+        const [k, code] = LANGS.find(x => x[0] === b.dataset.try); Voices.say(SAMPLE[k], code, 1);
+      }));
+    }
+    drawVoiceLists();
+    Voices.onChange(() => { if (location.hash.startsWith("#/settings")) drawVoiceLists(); });
     app().querySelectorAll(".seg").forEach(s => s.addEventListener("click", e => {
       const b = e.target.closest("button"); if (!b) return;
       let v = b.dataset.v; if (v === "true") v = true; if (v === "false") v = false;
@@ -681,6 +705,7 @@
         <p><b>Spaced repetition:</b> after each question you rate how hard it was. Questions you know come back less and less often (1 day, 3 days, a week, …); the ones you struggle with come back sooner. Each day you get your due reviews first, then the number of new questions set in Settings.</p>
         <p><b>Mock exam:</b> 20 questions with the real distribution (4 geography, 4 culture, 6 history, 6 institutions), 2 points each. Per the official guide you need at least 20/40 in the subject part and at least 70/100 overall (including the Greek language part). Partial credit on multi-part questions is our own estimate.</p>
         <p><b>Privacy:</b> your progress is stored only in this browser on this device; nothing is sent to a server. You can export a backup in Settings.</p>`}
+      ${imageCreditsHtml()}
       <h2 id="changes">${esc(t("changesTitle"))}</h2>
       ${(window.APP_CHANGES || []).map(r => `<div><h3 style="margin-bottom:.2rem">${esc(t("version", { v: r.v }))} <span class="small muted">· ${esc(r.date)}</span>${r.v === window.APP_VERSION ? ' <span class="pill ok">✓</span>' : ""}</h3>
         <ul style="margin:.2rem 0 0;padding-left:1.2rem">${(r[I18N.lang] || r.tr).map(x => `<li>${esc(x)}</li>`).join("")}</ul></div>`).join("")}
@@ -816,7 +841,7 @@
     stopReader();
     const idx = les.sections.indexOf(sec), prev = les.sections[idx - 1], next = les.sections[idx + 1];
     const qs = sec.questions.map(id => QS().find(q => q.id === id)).filter(Boolean);
-    const drillable = qs.filter(q => !q.image);
+    const drillable = qs.filter(usable);
     const quizRec = Store.data.quiz[sec.id];
     html(`<article class="lesson">
       <div class="row small" style="margin-bottom:.6rem"><a href="#/learn">${esc(t("learnTitle"))}</a> › <a href="#/learn?s=${subj}">${esc(t("subj_" + subj))}</a> › <span class="muted">${idx + 1}/${les.sections.length}</span></div>
@@ -855,7 +880,7 @@
       listenBtn.textContent = "⏹ " + t("stopListening");
       activeReader = LessonReader.create(app().querySelector(".lesson"), {
         lessonLang: lessonLang(), uiLang: I18N.lang,
-        labels: { listen: t("listenLesson"), prev: t("readerPrev"), next: t("readerNext"), play: t("readerPlay"), pause: t("readerPause"), speed: t("readerSpeed"), close: t("readerClose"), noVoice: t("readerNoVoice") },
+        labels: { voice: t("setVoiceChoice"), auto: t("voiceAuto"), female: t("voiceFemale"), male: t("voiceMale"), noGender: t("voiceNoGender"), listen: t("listenLesson"), prev: t("readerPrev"), next: t("readerNext"), play: t("readerPlay"), pause: t("readerPause"), speed: t("readerSpeed"), close: t("readerClose"), noVoice: t("readerNoVoice") },
         onStop() { activeReader = null; if (listenBtn.isConnected) listenBtn.textContent = "🎧 " + t("listenLesson"); }
       });
     });
@@ -883,6 +908,13 @@
       });
     });
     return () => { io.disconnect(); stopReader(); };
+  }
+
+  function imageCreditsHtml() {
+    const rows = QS().filter(q => q.images && q.images.length).flatMap(q => q.images.map(im => ({ q, im })));
+    if (!rows.length) return "";
+    return `<h2>${esc(t("imageCredits"))}</h2><p class="small muted">${esc(t("imageCreditsText"))}</p>
+      <ul class="small" style="padding-left:1.1rem">${rows.map(({ q, im }) => `<li><a href="#/browse?id=${q.id}">${esc(t("subj_" + q.subject))} ${q.n}${im.slot ? " · Εικ. " + esc(im.slot) : ""}</a> — ${esc(c(im.subject))} · ${esc(im.author)} · <a href="${esc(im.source)}" target="_blank" rel="noopener">${esc(im.license)}</a>${im.licenseUrl ? ` (<a href="${esc(im.licenseUrl)}" target="_blank" rel="noopener">${esc(t("licenseText"))}</a>)` : ""}</li>`).join("")}</ul>`;
   }
 
   function notFound() { html(`<div class="card empty"><div class="big">🧭</div><p>${esc(t("notFound"))}</p><a class="btn" href="#/">${esc(t("backHome"))}</a></div>`); }
