@@ -6,6 +6,13 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.5.0 (2026-10-26)
+
+- **Yeni: Dersi dinle.** Ders seçtiğin dilde sesli okunur: Türkçe, English, Ελληνικά ya da önce Yunanca sonra Türkçe.
+- **Oynatıcı:** önceki/sonraki paragraf, oynat/duraklat ve okuma hızı (0.75×–1.5×).
+- Okunan paragraf vurgulanır ve sayfa onu takip eder. Bir paragrafa dokununca okuma oradan devam eder.
+- Türkçe/İngilizce metindeki Yunanca kelimeler Yunanca sesle okunur.
+
 ## 1.4.1 (2026-10-26)
 
 - **Düzeltme:** Bölüm sınavı soruları artık yalnızca o bölümde anlatılan bilgilerden geliyor. Her bölüm için en az 15 soruluk bir havuz var.

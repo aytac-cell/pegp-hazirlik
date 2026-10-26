@@ -1,7 +1,22 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.4.1";
+window.APP_VERSION = "1.5.0";
 window.APP_CHANGES = [
+  {
+    v: "1.5.0", date: "2026-10-26",
+    tr: [
+      "Yeni: Dersi dinle — ders seçtiğin dilde sesli okunur (Türkçe, English, Ελληνικά veya önce Yunanca sonra Türkçe)",
+      "Oynatıcı: önceki/sonraki paragraf, oynat/duraklat, okuma hızı (0.75×–1.5×)",
+      "Okunan paragraf vurgulanır ve sayfa onu takip eder; bir paragrafa dokununca oradan devam eder",
+      "Türkçe/İngilizce metindeki Yunanca kelimeler Yunanca sesle okunur"
+    ],
+    en: [
+      "New: Listen to the lesson — read aloud in your chosen language (Turkish, English, Greek, or Greek followed by the translation)",
+      "Player: previous/next paragraph, play/pause, reading speed (0.75×–1.5×)",
+      "The paragraph being read is highlighted and followed; tap a paragraph to continue from there",
+      "Greek words inside Turkish/English text are spoken with a Greek voice"
+    ]
+  },
   {
     v: "1.4.1", date: "2026-10-26",
     tr: [

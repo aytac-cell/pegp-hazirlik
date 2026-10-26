@@ -6,6 +6,7 @@ Yunan vatandaşlık sınavının (Π.Ε.Γ.Π.) konu bölümü için çalışma 
 
 - **Dersler:** Dört konunun anlatımı, toplam 48 bölüm. Her bölümde Yunanca terim sözlüğü, zaman çizelgeleri, tablolar ve haritalar var; sonunda o bölümün sorularını çalışma bağlantısı bulunur.
 - **Dilbilgisi dersi:** Artikeller, isim ve sıfatların dört hâlde çekimi, fiillerin bütün zamanları (etken/edilgen) ve düzensiz fiiller; çekim tabloları Vikisözlük gibi kaynaklarla doğrulandı.
+- **Dersi dinle:** Ders seçilen dilde sesli okunur. Önceki/sonraki paragraf, duraklatma ve hız ayarı var; cihazın konuşma sentezini kullanır.
 - **Bölüm sınavları:** Her ders bölümünün sonunda 10 soruluk sınav var. 9/10 alınamazsa bölüm tamamlanmış sayılmaz ve ders yeniden okunur.
 - **Kelime öğretici:** A1–B2 seviyelerinde konu bazında Yunanca kelimeler, 4 yönde sorulur. Türkçe veya İngilizceden Yunancaya sorulurken resim gösterilir, Yunancadan sorulurken gösterilmez. İsimlerin çekim tablosu ve fiillerin zaman çekimleri cevaptan sonra açılabilir.
 - **Akıllı tekrar (SRS):** Anki benzeri bir sistem. Kısa öğrenme adımlarıyla başlar, sonra artan aralıklarla tekrar ettirir. Günlük yeni kart sayısı ayarlanabilir.

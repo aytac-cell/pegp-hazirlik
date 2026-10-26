@@ -798,7 +798,7 @@
     switch (b.type) {
       case "p": return `<p>${rich(b.text, true)}</p>`;
       case "list": return `<ul>${b.items.map(x => `<li>${rich(x, true)}</li>`).join("")}</ul>`;
-      case "tip": return `<div class="tip"><b>💡 ${esc(t("tipH"))}:</b> ${rich(b.text, true)}</div>`;
+      case "tip": return `<div class="tip"><b class="tip-label">💡 ${esc(t("tipH"))}:</b> ${rich(b.text, true)}</div>`;
       case "terms": return `<div><h3>${esc(t("glossary"))}</h3><div class="terms">${b.items.map(x => `<div class="term"><span class="el" lang="el">${esc(x.el)}</span><small>${esc(c(x))}</small></div>`).join("")}</div></div>`;
       case "timeline": return `<div><h3>${esc(t("timelineH"))}</h3><ul class="timeline">${b.items.map(x => `<li><span class="date">${esc(x.date)}</span>${rich(x.text)}</li>`).join("")}</ul></div>`;
       case "table": return `<div style="overflow-x:auto"><table class="table"><thead><tr>${b.head.map(h => `<th>${rich(h)}</th>`).join("")}</tr></thead><tbody>${b.rows.map(r => `<tr>${r.map(x => `<td>${rich(x)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
@@ -809,7 +809,11 @@
     }
   }
 
+  let activeReader = null;
+  function stopReader() { if (activeReader) { const r = activeReader; activeReader = null; r.stop(); } }
+
   function learnSection(subj, les, sec) {
+    stopReader();
     const idx = les.sections.indexOf(sec), prev = les.sections[idx - 1], next = les.sections[idx + 1];
     const qs = sec.questions.map(id => QS().find(q => q.id === id)).filter(Boolean);
     const drillable = qs.filter(q => !q.image);
@@ -818,7 +822,7 @@
       <div class="row small" style="margin-bottom:.6rem"><a href="#/learn">${esc(t("learnTitle"))}</a> › <a href="#/learn?s=${subj}">${esc(t("subj_" + subj))}</a> › <span class="muted">${idx + 1}/${les.sections.length}</span></div>
       <div class="card">
         <div class="lesson-head"><h1${titleHtml(sec.title).mainLang || ""}>${sec.icon || ""} ${titleHtml(sec.title).main}</h1><div class="el-title"${titleHtml(sec.title).subLang || ""}>${titleHtml(sec.title).sub}</div></div>
-        <div style="margin-top:.8rem">${lessonLangSeg()}</div>
+        <div class="row" style="margin-top:.8rem;justify-content:space-between">${lessonLangSeg()}${LessonReader.supported() ? `<button class="btn btn-sm" type="button" id="listenBtn">🎧 ${esc(t("listenLesson"))}</button>` : ""}</div>
         ${quizRec && quizRec.needReread ? `<div class="note" style="margin-top:.8rem">🔁 ${esc(t("quizRereadBanner", { s: quizRec.last, n: SectionQuiz.N, p: SectionQuiz.PASS }))}</div>` : ""}
         <div class="lesson-body" style="margin-top:1rem">${sec.blocks.map(blockHtml).join("")}</div>
         <div id="readEnd" aria-hidden="true"></div>
@@ -845,6 +849,16 @@
       slot.appendChild(m.node);
     });
     bindLessonLang(() => learnSection(subj, les, sec));
+    const listenBtn = document.getElementById("listenBtn");
+    if (listenBtn) listenBtn.addEventListener("click", () => {
+      if (activeReader) return stopReader();
+      listenBtn.textContent = "⏹ " + t("stopListening");
+      activeReader = LessonReader.create(app().querySelector(".lesson"), {
+        lessonLang: lessonLang(), uiLang: I18N.lang,
+        labels: { listen: t("listenLesson"), prev: t("readerPrev"), next: t("readerNext"), play: t("readerPlay"), pause: t("readerPause"), speed: t("readerSpeed"), close: t("readerClose"), noVoice: t("readerNoVoice") },
+        onStop() { activeReader = null; if (listenBtn.isConnected) listenBtn.textContent = "🎧 " + t("listenLesson"); }
+      });
+    });
     // the section quiz unlocks once the learner has scrolled to the end of the lesson
     const quizBtn = document.getElementById("quizBtn");
     const unlock = () => { quizBtn.disabled = false; quizBtn.textContent = "📝 " + t(Store.data.read[sec.id] ? "quizRetake" : "quizStart", { n: SectionQuiz.N }); };
@@ -852,6 +866,7 @@
     io.observe(document.getElementById("readEnd"));
     quizBtn.addEventListener("click", () => {
       io.disconnect();
+      stopReader();
       html(`<div class="lesson"><div class="row small" style="margin-bottom:.6rem"><a href="#/learn?s=${subj}&sec=${sec.id}&back=1">← ${esc(c(sec.title))}</a></div>
         <h2>📝 ${esc(t("quizTitle"))}: ${esc(c(sec.title))}</h2><p class="small muted">${esc(t("quizRule", { n: SectionQuiz.N, p: SectionQuiz.PASS }))}</p><div id="quizSlot"></div></div>`);
       SectionQuiz.run(document.getElementById("quizSlot"), {
@@ -867,7 +882,7 @@
         }
       });
     });
-    return () => io.disconnect();
+    return () => { io.disconnect(); stopReader(); };
   }
 
   function notFound() { html(`<div class="card empty"><div class="big">🧭</div><p>${esc(t("notFound"))}</p><a class="btn" href="#/">${esc(t("backHome"))}</a></div>`); }
