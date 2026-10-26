@@ -4,7 +4,7 @@ One file per subject: `data/src/lessons/{geo,cul,his,ins}.json`. UTF-8, valid JS
 Lessons are OUR OWN teaching material (not official). They exist to help a learner (Turkish-speaking,
 also English UI) understand and remember everything the official question bank asks about.
 
-`T` = `{"tr": "...", "en": "..."}` (Turkish + English, both required)
+`T` = `{"el": "...", "tr": "...", "en": "..."}` (Greek + Turkish + English, all required; learners can read lessons in any of them)
 `G` = `{"el": "...", "tr": "...", "en": "..."}` (Greek term + translations)
 
 ```

@@ -1,7 +1,20 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.1.1";
+window.APP_VERSION = "1.2.0";
 window.APP_CHANGES = [
+  {
+    v: "1.2.0", date: "2026-10-26",
+    tr: [
+      "Yeni: Dersler Yunanca da okunabiliyor — ders dili seçici: Türkçe, English, Ελληνικά, Ελληνικά + Türkçe",
+      "İki dilli modda her paragrafın Yunancası ve altında çevirisi",
+      "Yunanca modlarda paragrafları sesli dinleme (🔊)"
+    ],
+    en: [
+      "New: lessons can be read in Greek — lesson language picker: Türkçe, English, Ελληνικά, Ελληνικά + English",
+      "Bilingual mode shows each paragraph in Greek with the translation underneath",
+      "Listen to paragraphs in Greek (🔊)"
+    ]
+  },
   {
     v: "1.1.1", date: "2026-10-26",
     tr: ["Sürüm numarası sol üst köşede, logonun yanında gösteriliyor; tıklayınca sürüm notları açılır"],

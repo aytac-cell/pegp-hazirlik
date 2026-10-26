@@ -97,6 +97,8 @@ def is_T(x):
     return isinstance(x, dict) and all(isinstance(x.get(k), str) and x[k].strip() for k in ("tr", "en"))
 
 def build_lessons(qmap):
+    # lesson texts are read in Turkish, English or Greek, so every text needs all three
+    is_T = is_L
     out = {}
     for s in SUBJECTS:
         f = LSRC / f"{s}.json"

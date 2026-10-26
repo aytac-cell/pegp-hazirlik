@@ -690,8 +690,49 @@
 
   // ======================= LESSONS =======================
   const LES = () => window.LESSONS || {};
-  // lesson text: escape, then allow **bold**
-  const rich = T => esc(c(T)).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>");
+  // lesson language: "tr" | "en" | "el" | "el+" (Greek with the interface-language translation under it)
+  const lessonLang = () => Store.setting("lessonLang") || I18N.lang;
+  const fmt = s => esc(s).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>");
+  const plain = s => String(s || "").replace(/\*\*/g, "");
+  // say = put a 🔊 right after the Greek sentence (before its translation line)
+  function rich(T, say) {
+    const L = lessonLang();
+    if ((L === "el" || L === "el+") && T.el) {
+      return `<span lang="el">${fmt(T.el)}</span>${say ? sayBtn(T) : ""}` + (L === "el+" ? `<span class="tr-sub">${fmt(c(T))}</span>` : "");
+    }
+    return fmt(T[L] || c(T));
+  }
+  // 🔊 for a Greek paragraph (only when reading in Greek)
+  function sayBtn(T) {
+    const L = lessonLang();
+    return (L === "el" || L === "el+") && T.el && Store.setting("voice") && "speechSynthesis" in window
+      ? ` <button class="speak" type="button" data-say="${esc(plain(T.el))}" aria-label="${esc(t("listen"))}">🔊</button>` : "";
+  }
+  function lessonLangSeg() {
+    const cur = lessonLang();
+    const opts = [["tr", "Türkçe"], ["en", "English"], ["el", "Ελληνικά"], ["el+", "Ελληνικά + " + (I18N.lang === "en" ? "EN" : "TR")]];
+    return `<div class="row lesson-lang"><span class="small muted">${esc(t("lessonLang"))}</span>
+      <div class="seg" id="lessonLang">${opts.map(([v, l]) => `<button type="button" data-v="${v}" aria-pressed="${v === cur}">${esc(l)}</button>`).join("")}</div></div>`;
+  }
+  function bindLessonLang(rerender) {
+    const seg = document.getElementById("lessonLang");
+    if (seg) seg.addEventListener("click", e => {
+      const b = e.target.closest("button"); if (!b) return;
+      Store.setting("lessonLang", b.dataset.v);
+      const y = window.scrollY; rerender(); window.scrollTo(0, y);
+    });
+  }
+  // one delegated listener for every lesson 🔊 button (views re-render, so don't bind per render)
+  document.addEventListener("click", e => {
+    const b = e.target.closest("[data-say]");
+    if (b) Cards.speak(b.dataset.say);
+  });
+  function titleHtml(G) {
+    const L = lessonLang();
+    return L === "el" || L === "el+"
+      ? { main: esc(G.el), sub: esc(c(G)), mainLang: ' lang="el"' }
+      : { main: esc(G[L] || c(G)), sub: esc(G.el), subLang: ' lang="el"' };
+  }
 
   function learn(params) {
     const subj = params.get("s"), secId = params.get("sec");
@@ -728,7 +769,8 @@
       <div class="card" style="border-top:4px solid var(--${subj});margin-bottom:1rem">
         <div class="row"><span style="font-size:1.6rem">${s.icon}</span><div><h1 style="margin:0">${esc(t("subj_" + subj))}</h1><div class="muted" lang="el">${esc(s.el)}</div></div></div>
         <p style="margin-top:.8rem">${rich(les.intro)}</p>
-        <div class="row">
+        ${lessonLangSeg()}
+        <div class="row" style="margin-top:.8rem">
           <a class="btn btn-primary" href="#/learn?s=${subj}&sec=${next.id}">▶ ${esc(readCount(les) ? t("continueLesson") : t("readLesson"))}</a>
           <a class="btn" href="#/study?s=${subj}">${esc(t("studySubject"))}</a>
         </div>
@@ -736,21 +778,22 @@
       <h2>${esc(t("toc"))}</h2>
       <div class="toc">${les.sections.map((x, i) => `<a class="card" href="#/learn?s=${subj}&sec=${x.id}">
           <span class="ic" aria-hidden="true">${x.icon || "•"}</span>
-          <span><b>${i + 1}. ${esc(c(x.title))}</b><span class="s">${esc(c(x.summary))}</span></span>
+          <span><b${titleHtml(x.title).mainLang || ""}>${i + 1}. ${titleHtml(x.title).main}</b><span class="s">${rich(x.summary)}</span></span>
           ${Store.data.read[x.id] ? `<span class="pill ok">✓ ${esc(t("readDone"))}</span>` : `<span class="small muted">${x.questions.length} ${esc(t("questions"))}</span>`}
         </a>`).join("")}</div>
       <p class="small muted" style="margin-top:1rem">${esc(t("learnNote"))}</p>
     </div>`);
+    bindLessonLang(() => learnToc(subj, les));
   }
 
   function blockHtml(b, i) {
     switch (b.type) {
-      case "p": return `<p>${rich(b.text)}</p>`;
-      case "list": return `<ul>${b.items.map(x => `<li>${rich(x)}</li>`).join("")}</ul>`;
-      case "tip": return `<div class="tip"><b>💡 ${esc(t("tipH"))}:</b> ${rich(b.text)}</div>`;
+      case "p": return `<p>${rich(b.text, true)}</p>`;
+      case "list": return `<ul>${b.items.map(x => `<li>${rich(x, true)}</li>`).join("")}</ul>`;
+      case "tip": return `<div class="tip"><b>💡 ${esc(t("tipH"))}:</b> ${rich(b.text, true)}</div>`;
       case "terms": return `<div><h3>${esc(t("glossary"))}</h3><div class="terms">${b.items.map(x => `<div class="term"><span class="el" lang="el">${esc(x.el)}</span><small>${esc(c(x))}</small></div>`).join("")}</div></div>`;
       case "timeline": return `<div><h3>${esc(t("timelineH"))}</h3><ul class="timeline">${b.items.map(x => `<li><span class="date">${esc(x.date)}</span>${rich(x.text)}</li>`).join("")}</ul></div>`;
-      case "table": return `<div style="overflow-x:auto"><table class="table"><thead><tr>${b.head.map(h => `<th>${esc(c(h))}</th>`).join("")}</tr></thead><tbody>${b.rows.map(r => `<tr>${r.map(x => `<td>${rich(x)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
+      case "table": return `<div style="overflow-x:auto"><table class="table"><thead><tr>${b.head.map(h => `<th>${rich(h)}</th>`).join("")}</tr></thead><tbody>${b.rows.map(r => `<tr>${r.map(x => `<td>${rich(x)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
       case "map": return `<div data-map="${i}"></div>`;
       default: return "";
     }
@@ -763,7 +806,8 @@
     html(`<article class="lesson">
       <div class="row small" style="margin-bottom:.6rem"><a href="#/learn">${esc(t("learnTitle"))}</a> › <a href="#/learn?s=${subj}">${esc(t("subj_" + subj))}</a> › <span class="muted">${idx + 1}/${les.sections.length}</span></div>
       <div class="card">
-        <div class="lesson-head"><h1>${sec.icon || ""} ${esc(c(sec.title))}</h1><div class="el-title" lang="el">${esc(sec.title.el)}</div></div>
+        <div class="lesson-head"><h1${titleHtml(sec.title).mainLang || ""}>${sec.icon || ""} ${titleHtml(sec.title).main}</h1><div class="el-title"${titleHtml(sec.title).subLang || ""}>${titleHtml(sec.title).sub}</div></div>
+        <div style="margin-top:.8rem">${lessonLangSeg()}</div>
         <div class="lesson-body" style="margin-top:1rem">${sec.blocks.map(blockHtml).join("")}</div>
         <div class="actions" style="margin-top:1.4rem">
           ${drillable.length ? `<a class="btn btn-primary" href="#/study?ids=${drillable.map(q => q.id).join(",")}&back=${encodeURIComponent(`#/learn?s=${subj}&sec=${sec.id}`)}">✎ ${esc(t("practiceSection", { n: drillable.length }))}</a>` : ""}
@@ -785,6 +829,7 @@
       m.reveal();
       slot.appendChild(m.node);
     });
+    bindLessonLang(() => learnSection(subj, les, sec));
     document.getElementById("markRead").addEventListener("click", () => {
       Store.data.read[sec.id] = Date.now(); Store.save();
       location.hash = next ? `#/learn?s=${subj}&sec=${next.id}` : `#/learn?s=${subj}`;

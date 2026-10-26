@@ -6,6 +6,12 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.2.0 (2026-10-26)
+
+- **Yeni:** Dersler Yunanca da okunabiliyor. Ders dili seçicisinde dört seçenek var: Türkçe, English, Ελληνικά, Ελληνικά + Türkçe.
+- İki dilli modda her paragrafın Yunancası üstte, çevirisi altında gösteriliyor.
+- Yunanca modlarda paragraflar sesli dinlenebiliyor (🔊).
+
 ## 1.1.1 (2026-10-26)
 
 - Sürüm numarası sol üst köşede, logonun yanında gösteriliyor. Tıklayınca sürüm notları açılır.

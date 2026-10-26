@@ -1,881 +1,2680 @@
 {
-  "subject": "his",
-  "intro": {
-    "tr": "Tarih bölümü, antik Yunan şehir devletlerinden Bizans'a, Osmanlı hâkimiyeti dönemine, 1821 Devrimi'ne ve modern Yunan devletinin 20. ve 21. yüzyıldaki serüvenine kadar uzanır. Sınav; önemli tarihleri, kişileri, muharebeleri ve Yunanca terimleri sorar. Konuları kronolojik sırayla çalışın, her bölümdeki zaman çizelgesini ve Yunanca terim listesini ezberleyin; sınav Yunanca olduğu için isimlerin Yunanca yazılışını tanımak çok önemlidir.",
-    "en": "The history part runs from the ancient Greek city-states through Byzantium, the period of Ottoman rule and the 1821 Revolution to the story of the modern Greek state in the 20th and 21st centuries. The exam asks about key dates, people, battles and Greek terms. Study the topics in chronological order, learn each section's timeline and Greek term list; since the exam is in Greek, recognising names in their Greek spelling is essential."
-  },
-  "sections": [
+ "subject": "his",
+ "intro": {
+  "el": "Το μέρος της Ιστορίας ξεκινά από τις αρχαίες ελληνικές πόλεις-κράτη και περνά από το Βυζάντιο, την Τουρκοκρατία και την Επανάσταση του 1821 μέχρι την ιστορία του σύγχρονου ελληνικού κράτους τον 20ό και τον 21ο αιώνα. Η εξέταση ρωτά για βασικές ημερομηνίες, πρόσωπα, μάχες και ελληνικούς όρους. Μελετήστε τις ενότητες με χρονολογική σειρά και μάθετε το χρονολόγιο και τη λίστα όρων κάθε ενότητας· επειδή η εξέταση γίνεται στα ελληνικά, είναι απαραίτητο να αναγνωρίζετε τα ονόματα στην ελληνική τους γραφή.",
+  "tr": "Tarih bölümü, antik Yunan şehir devletlerinden Bizans'a, Osmanlı hâkimiyeti dönemine, 1821 Devrimi'ne ve modern Yunan devletinin 20. ve 21. yüzyıldaki serüvenine kadar uzanır. Sınav; önemli tarihleri, kişileri, muharebeleri ve Yunanca terimleri sorar. Konuları kronolojik sırayla çalışın, her bölümdeki zaman çizelgesini ve Yunanca terim listesini ezberleyin; sınav Yunanca olduğu için isimlerin Yunanca yazılışını tanımak çok önemlidir.",
+  "en": "The history part runs from the ancient Greek city-states through Byzantium, the period of Ottoman rule and the 1821 Revolution to the story of the modern Greek state in the 20th and 21st centuries. The exam asks about key dates, people, battles and Greek terms. Study the topics in chronological order, learn each section's timeline and Greek term list; since the exam is in Greek, recognising names in their Greek spelling is essential."
+ },
+ "sections": [
+  {
+   "id": "his-ancient-world",
+   "title": {
+    "el": "Ο αρχαίος ελληνικός κόσμος: πόλεις-κράτη, Σπάρτη, Αθήνα, θρησκεία",
+    "tr": "Antik Yunan dünyası: şehir devletleri, Sparta, Atina, din",
+    "en": "The ancient Greek world: city-states, Sparta, Athens, religion"
+   },
+   "icon": "🏛️",
+   "summary": {
+    "el": "Πόλεις-κράτη, αποικισμός, οι θεσμοί της Σπάρτης και της Αθήνας, οι Ολυμπιακοί Αγώνες και το μαντείο των Δελφών.",
+    "tr": "Şehir devletleri, kolonizasyon, Sparta ve Atina'nın kurumları, Olimpiyat Oyunları ve Delfi kehanet merkezi.",
+    "en": "City-states, colonisation, the institutions of Sparta and Athens, the Olympic Games and the oracle of Delphi."
+   },
+   "blocks": [
     {
-      "id": "his-ancient-world",
-      "title": {
-        "el": "Ο αρχαίος ελληνικός κόσμος: πόλεις-κράτη, Σπάρτη, Αθήνα, θρησκεία",
-        "tr": "Antik Yunan dünyası: şehir devletleri, Sparta, Atina, din",
-        "en": "The ancient Greek world: city-states, Sparta, Athens, religion"
-      },
-      "icon": "🏛️",
-      "summary": {
-        "tr": "Şehir devletleri, kolonizasyon, Sparta ve Atina'nın kurumları, Olimpiyat Oyunları ve Delfi kehanet merkezi.",
-        "en": "City-states, colonisation, the institutions of Sparta and Athens, the Olympic Games and the oracle of Delphi."
-      },
-      "blocks": [
-        {
-          "type": "p",
-          "text": {
-            "tr": "Antik Yunanlar tek bir devlette değil, her biri kendi yasaları ve yönetimi olan **şehir devletlerinde** (polis) yaşıyordu. En ünlüleri **Atina** ve **Sparta**'ydı. Ortak dil, ortak din ve ortak oyunlar onları birbirine bağlıyordu.",
-            "en": "The ancient Greeks did not live in a single state but in **city-states** (polis), each with its own laws and government. The most famous were **Athens** and **Sparta**. A common language, common religion and common games bound them together."
-          }
-        },
-        {
-          "type": "list",
-          "items": [
-            {
-              "tr": "**Birinci Yunan kolonizasyonu**: Yunanlar Küçük Asya kıyılarına, örneğin **İyonya**'ya yerleşti.",
-              "en": "**First Greek colonisation**: Greeks settled the coasts of Asia Minor, e.g. **Ionia**."
-            },
-            {
-              "tr": "**İkinci kolonizasyon**: Güney İtalya ve Sicilya'da o kadar çok Yunan şehri kuruldu ki bölgeye **Büyük Yunanistan (Magna Graecia)** dendi. **Siraküza** Sicilya'daydı, Peloponez'de değil.",
-              "en": "**Second colonisation**: so many Greek cities were founded in southern Italy and Sicily that the area was called **Magna Graecia (Greater Greece)**. **Syracuse** was in Sicily, not in the Peloponnese."
-            }
-          ]
-        },
-        {
-          "type": "table",
-          "head": [
-            { "tr": "Konu", "en": "Topic" },
-            { "tr": "Sparta", "en": "Sparta" },
-            { "tr": "Atina", "en": "Athens" }
-          ],
-          "rows": [
-            [
-              { "tr": "Yurttaş meclisi", "en": "Citizens' assembly" },
-              { "tr": "**Apella**", "en": "**Apella**" },
-              { "tr": "Ekklesia (Halk Meclisi)", "en": "Ecclesia (Assembly of the people)" }
-            ],
-            [
-              { "tr": "Yurttaşların hayatı", "en": "Citizens' life" },
-              { "tr": "Asıl Spartalıların **çalışması yasaktı**; yalnızca askerlik ve devlet işleriyle uğraşırlardı.", "en": "The true Spartiates were **forbidden to work**; they dealt only with military matters and the state." },
-              { "tr": "Ticaret, zanaat, siyaset, sanat; demokrasi geliştirildi.", "en": "Trade, crafts, politics, the arts; democracy developed." }
-            ],
-            [
-              { "tr": "Kadınlar", "en": "Women" },
-              { "tr": "Daha özgürdü, spor yaparlardı.", "en": "Freer; they took part in sport." },
-              { "tr": "Gündelik hayatta **daha fazla kısıtlama** vardı, çoğunlukla evde kalırlardı.", "en": "**More restrictions** in daily life; they mostly stayed at home." }
-            ]
-          ]
-        },
-        {
-          "type": "list",
-          "items": [
-            {
-              "tr": "**Seisakhtheia** (Σεισάχθεια): Atinalı yasa koyucu **Solon**'un (MÖ 6. yüzyıl başı) borçları silen ve **borç yüzünden köleliği yasaklayan** yasasıdır. Dikkat: Bizans'taki Justinianos'un değil!",
-              "en": "**Seisachtheia**: the law of the Athenian lawgiver **Solon** (early 6th century BC) that cancelled debts and **banned slavery for debt**. Careful: it was not a law of Justinian in Byzantium!"
-            },
-            {
-              "tr": "**Koregia** (Χορηγία): Atina'da bir vergi türü (leitourgia); varlıklı bir yurttaş, bir tragedyanın tiyatroda sahnelenmesinin masraflarını üstlenirdi.",
-              "en": "**Choregia**: a form of tax (liturgy) in Athens; a wealthy citizen paid the costs of staging a tragedy in the theatre."
-            }
-          ]
-        },
-        {
-          "type": "p",
-          "text": {
-            "tr": "Yunanlar, **12 tanrının Olimpos dağında** yaşadığına inanırdı. Antik dünyanın en ünlü **kehanet merkezi** (Μαντείο) **Delfi**'deydi; orada kâhinler (Pythia) insanların doğru kararlar alması için kehanetlerde bulunurdu. **Olimpiyat Oyunları** Olimpia'da **her dört yılda bir** yapılırdı; **kadınların katılması yasaktı**; en önemli dallardan biri **pentatlon**du (beş yarışma).",
-            "en": "The Greeks believed that **the 12 gods lived on Mount Olympus**. The most famous **oracle** of the ancient world was at **Delphi**, where the seers (the Pythia) gave oracles to help people make the right decisions. The **Olympic Games** were held at Olympia **every four years**; **women were forbidden to take part**; one of the most important events was the **pentathlon** (five contests)."
-          }
-        },
-        {
-          "type": "map",
-          "places": [
-            { "name": { "el": "Αθήνα", "tr": "Atina", "en": "Athens" }, "lat": 37.97, "lon": 23.73 },
-            { "name": { "el": "Σπάρτη", "tr": "Sparta", "en": "Sparta" }, "lat": 37.07, "lon": 22.43 },
-            { "name": { "el": "Δελφοί", "tr": "Delfi", "en": "Delphi" }, "lat": 38.48, "lon": 22.50 },
-            { "name": { "el": "Ολυμπία", "tr": "Olimpia", "en": "Olympia" }, "lat": 37.64, "lon": 21.63 },
-            { "name": { "el": "Όλυμπος", "tr": "Olimpos", "en": "Mount Olympus" }, "lat": 40.09, "lon": 22.36 }
-          ]
-        },
-        {
-          "type": "tip",
-          "text": {
-            "tr": "Olimpiyatlar = 4 yıl, Delfi = kehanet, Olimpos = 12 tanrı, Apella = Sparta meclisi. Magna Graecia = Güney İtalya ve Sicilya (İyonya değil!).",
-            "en": "Olympics = every 4 years, Delphi = oracle, Olympus = 12 gods, Apella = Spartan assembly. Magna Graecia = southern Italy and Sicily (not Ionia!)."
-          }
-        },
-        {
-          "type": "terms",
-          "items": [
-            { "el": "Μαντείο", "tr": "kehanet merkezi", "en": "oracle" },
-            { "el": "Δελφοί", "tr": "Delfi", "en": "Delphi" },
-            { "el": "Ολυμπιακοί Αγώνες", "tr": "Olimpiyat Oyunları", "en": "Olympic Games" },
-            { "el": "Πένταθλο", "tr": "pentatlon", "en": "pentathlon" },
-            { "el": "Όλυμπος", "tr": "Olimpos", "en": "Olympus" },
-            { "el": "Απέλλα", "tr": "Apella (Sparta meclisi)", "en": "Apella (Spartan assembly)" },
-            { "el": "Σεισάχθεια", "tr": "Seisakhtheia (borçların silinmesi)", "en": "Seisachtheia (cancellation of debts)" },
-            { "el": "Χορηγία", "tr": "Koregia", "en": "Choregia" },
-            { "el": "Μεγάλη Ελλάδα", "tr": "Büyük Yunanistan (Magna Graecia)", "en": "Magna Graecia (Greater Greece)" },
-            { "el": "Συρακούσες", "tr": "Siraküza", "en": "Syracuse" }
-          ]
-        }
-      ],
-      "questions": ["his-30", "his-65", "his-66", "his-68", "his-70", "his-72", "his-74", "his-75", "his-76", "his-79"]
+     "type": "p",
+     "text": {
+      "el": "Οι αρχαίοι Έλληνες δεν ζούσαν σε ένα ενιαίο κράτος αλλά σε **πόλεις-κράτη**, καθεμία με τους δικούς της νόμους και τη δική της διακυβέρνηση. Οι πιο γνωστές ήταν η **Αθήνα** και η **Σπάρτη**. Τις ένωναν η κοινή γλώσσα, η κοινή θρησκεία και οι κοινοί αγώνες.",
+      "tr": "Antik Yunanlar tek bir devlette değil, her biri kendi yasaları ve yönetimi olan **şehir devletlerinde** (polis) yaşıyordu. En ünlüleri **Atina** ve **Sparta**'ydı. Ortak dil, ortak din ve ortak oyunlar onları birbirine bağlıyordu.",
+      "en": "The ancient Greeks did not live in a single state but in **city-states** (polis), each with its own laws and government. The most famous were **Athens** and **Sparta**. A common language, common religion and common games bound them together."
+     }
     },
     {
-      "id": "his-classical-athens",
-      "title": {
-        "el": "Περσικοί Πόλεμοι, Χρυσός Αιώνας και Πελοποννησιακός Πόλεμος",
-        "tr": "Pers Savaşları, Altın Çağ ve Peloponez Savaşı",
-        "en": "Persian Wars, Golden Age and Peloponnesian War"
+     "type": "list",
+     "items": [
+      {
+       "el": "**Α΄ ελληνικός αποικισμός**: οι Έλληνες εγκαταστάθηκαν στα παράλια της Μικράς Ασίας, π.χ. στην **Ιωνία**.",
+       "tr": "**Birinci Yunan kolonizasyonu**: Yunanlar Küçük Asya kıyılarına, örneğin **İyonya**'ya yerleşti.",
+       "en": "**First Greek colonisation**: Greeks settled the coasts of Asia Minor, e.g. **Ionia**."
       },
-      "icon": "🛡️",
-      "summary": {
-        "tr": "Maraton ve Termopylai'den Perikles'in Altın Çağı'na, Peloponez Savaşı'na ve Sokrates'e.",
-        "en": "From Marathon and Thermopylae to the Golden Age of Pericles, the Peloponnesian War and Socrates."
-      },
-      "blocks": [
-        {
-          "type": "timeline",
-          "items": [
-            { "date": "502–449 π.Χ.", "text": { "tr": "**Pers Savaşları** (sınav bankasındaki tarih aralığı): Yunan şehirleri Pers İmparatorluğu'na karşı savaştı.", "en": "**Persian Wars** (the dates used in the question bank): the Greek cities fought the Persian Empire." } },
-            { "date": "490 π.Χ.", "text": { "tr": "**Maraton Muharebesi**: **Atinalılar ve Plataialılar** Persleri yendi.", "en": "**Battle of Marathon**: the **Athenians and Plataeans** defeated the Persians." } },
-            { "date": "480 π.Χ.", "text": { "tr": "**Termopylai**: Sparta kralı **Leonidas**, silahlarını teslim etmelerini isteyen Pers kralı **Kserkses**'e «**Molon labe**» (gel de al) diye cevap verdi. Aynı yıl Salamis deniz muharebesi (Themistokles).", "en": "**Thermopylae**: the Spartan king **Leonidas** answered the Persian king **Xerxes**, who demanded that the Greeks surrender their arms, with “**Molon labe**” (come and take them). Same year: the naval battle of Salamis (Themistocles)." } },
-            { "date": "5ος αι. π.Χ.", "text": { "tr": "**Altın Çağ**: Perikles döneminde Atina'da demokrasi gelişti, edebiyat ve sanatlar doruğa ulaştı, **Akropolis**'teki büyük eserler (Parthenon) yapıldı.", "en": "**Golden Age**: under Pericles democracy flourished in Athens, letters and the arts peaked, and the great works on the **Acropolis** (the Parthenon) were built." } },
-            { "date": "431–404 π.Χ.", "text": { "tr": "**Peloponez Savaşı**: Atina ile Sparta arasındaki büyük savaş (antik çağda, Bizans döneminde değil). Sparta kazandı.", "en": "**Peloponnesian War**: the great war between Athens and Sparta (in antiquity, not in the Byzantine era). Sparta won." } },
-            { "date": "404 π.Χ.", "text": { "tr": "Savaştan sonra Atina'ya **30 oligarktan** oluşan bir yönetim dayatıldı: **Otuz Tiran** (40 değil!).", "en": "After the war a government of **30 oligarchs** was imposed on Athens: the **Thirty Tyrants** (not 40!)." } },
-            { "date": "399 π.Χ.", "text": { "tr": "Filozof **Sokrates** ölüme mahkûm edildi ve **baldıran zehri** (κώνειο) içerek öldü.", "en": "The philosopher **Socrates** was sentenced to death and died by drinking **hemlock** (κώνειο)." } }
-          ]
-        },
-        {
-          "type": "list",
-          "items": [
-            { "tr": "**Adil Aristeides**: Atinalı devlet adamı, **Themistokles'in siyasi rakibi**.", "en": "**Aristides the Just**: Athenian statesman, **political opponent of Themistocles**." },
-            { "tr": "**Perikles**: Altın Çağ'da Atina'nın en güçlü siyasetçisi.", "en": "**Pericles**: the most powerful statesman of Athens in the Golden Age." },
-            { "tr": "**Herodotos**: «**tarihin babası**» (Pers Savaşları'nı yazdı). Thukydides ise Peloponez Savaşı'nı yazdı.", "en": "**Herodotus**: “**the father of history**” (wrote about the Persian Wars). Thucydides wrote about the Peloponnesian War." }
-          ]
-        },
-        {
-          "type": "p",
-          "text": {
-            "tr": "**Parthenon heykelleri** Altın Çağ'daki **antik Atina**'ya aittir. **Sounion'daki Poseidon Tapınağı** da Atinalılar tarafından yapılmıştır, Spartalılar tarafından değil.",
-            "en": "The **Parthenon Sculptures** belong to **ancient Athens** of the Golden Age. The **Temple of Poseidon at Sounion** was also built by the Athenians, not by the Spartans."
-          }
-        },
-        {
-          "type": "map",
-          "places": [
-            { "name": { "el": "Μαραθώνας", "tr": "Maraton", "en": "Marathon" }, "lat": 38.15, "lon": 23.96 },
-            { "name": { "el": "Θερμοπύλες", "tr": "Termopylai", "en": "Thermopylae" }, "lat": 38.80, "lon": 22.53 },
-            { "name": { "el": "Ακρόπολη", "tr": "Akropolis", "en": "Acropolis" }, "lat": 37.97, "lon": 23.73 },
-            { "name": { "el": "Σούνιο", "tr": "Sounion", "en": "Sounion" }, "lat": 37.65, "lon": 24.02 }
-          ]
-        },
-        {
-          "type": "tip",
-          "text": {
-            "tr": "Dikkat edilecek yanlış ifadeler: «40 Tiran» → doğrusu 30; «Peloponez Savaşı Bizans döneminde» → antik çağda; «Sounion tapınağını Spartalılar yaptı» → Atinalılar.",
-            "en": "False statements to watch for: “40 Tyrants” → correct is 30; “the Peloponnesian War was Byzantine” → it was ancient; “Sounion temple built by Spartans” → by Athenians."
-          }
-        },
-        {
-          "type": "terms",
-          "items": [
-            { "el": "Περσικοί Πόλεμοι", "tr": "Pers Savaşları", "en": "Persian Wars" },
-            { "el": "Μάχη του Μαραθώνα", "tr": "Maraton Muharebesi", "en": "Battle of Marathon" },
-            { "el": "Μολών λαβέ", "tr": "Gel de al", "en": "Come and take them" },
-            { "el": "Χρυσός Αιώνας", "tr": "Altın Çağ", "en": "Golden Age" },
-            { "el": "Γλυπτά του Παρθενώνα", "tr": "Parthenon heykelleri", "en": "Parthenon Sculptures" },
-            { "el": "Πελοποννησιακός Πόλεμος", "tr": "Peloponez Savaşı", "en": "Peloponnesian War" },
-            { "el": "Δίκαιος Αριστείδης", "tr": "Adil Aristeides", "en": "Aristides the Just" },
-            { "el": "Θεμιστοκλής", "tr": "Themistokles", "en": "Themistocles" },
-            { "el": "Περικλής", "tr": "Perikles", "en": "Pericles" },
-            { "el": "Ηρόδοτος", "tr": "Herodotos", "en": "Herodotus" },
-            { "el": "Σωκράτης", "tr": "Sokrates", "en": "Socrates" },
-            { "el": "κώνειο", "tr": "baldıran zehri", "en": "hemlock" }
-          ]
-        }
-      ],
-      "questions": ["his-18", "his-29", "his-56", "his-59", "his-62", "his-67", "his-71", "his-72", "his-73", "his-78", "his-79"]
+      {
+       "el": "**Β΄ αποικισμός**: ιδρύθηκαν τόσες πολλές ελληνικές πόλεις στη Νότια Ιταλία και τη Σικελία, ώστε η περιοχή ονομάστηκε **Μεγάλη Ελλάδα**. Οι **Συρακούσες** βρίσκονταν στη Σικελία, όχι στην Πελοπόννησο.",
+       "tr": "**İkinci kolonizasyon**: Güney İtalya ve Sicilya'da o kadar çok Yunan şehri kuruldu ki bölgeye **Büyük Yunanistan (Magna Graecia)** dendi. **Siraküza** Sicilya'daydı, Peloponez'de değil.",
+       "en": "**Second colonisation**: so many Greek cities were founded in southern Italy and Sicily that the area was called **Magna Graecia (Greater Greece)**. **Syracuse** was in Sicily, not in the Peloponnese."
+      }
+     ]
     },
     {
-      "id": "his-macedonia-hellenistic",
-      "title": {
-        "el": "Η αρχαία Μακεδονία, ο Μέγας Αλέξανδρος και τα ελληνιστικά βασίλεια",
-        "tr": "Antik Makedonya, Büyük İskender ve Helenistik krallıklar",
-        "en": "Ancient Macedonia, Alexander the Great and the Hellenistic kingdoms"
+     "type": "table",
+     "head": [
+      {
+       "el": "Θέμα",
+       "tr": "Konu",
+       "en": "Topic"
       },
-      "icon": "🐎",
-      "summary": {
-        "tr": "II. Filip şehir devletlerini birleştirdi; Büyük İskender bir imparatorluk kurdu; ölümünden sonra Helenistik krallıklar doğdu.",
-        "en": "Philip II united the city-states; Alexander the Great built an empire; after his death the Hellenistic kingdoms arose."
+      {
+       "el": "Σπάρτη",
+       "tr": "Sparta",
+       "en": "Sparta"
       },
-      "blocks": [
-        {
-          "type": "timeline",
-          "items": [
-            { "date": "4ος αι. π.Χ.", "text": { "tr": "**Panhelen idea**: Yunanların siyasi birliği ve barbarlara (Perslere) karşı ortak savaş fikri.", "en": "**Panhellenic idea**: the idea of the political union of the Greeks and a common war against the barbarians (Persians)." } },
-            { "date": "338 π.Χ.", "text": { "tr": "Makedonya kralı **II. Filip**, diğer antik Yunan şehir devletlerini boyunduruğu altına alıp birleştirdi.", "en": "King **Philip II** of Macedonia subjugated and united the other ancient Greek city-states." } },
-            { "date": "336–323 π.Χ.", "text": { "tr": "**Büyük İskender**'in hükümdarlığı: Pers İmparatorluğu'nu fethetti, Mısır'dan Hindistan'a uzanan bir imparatorluk kurdu.", "en": "Reign of **Alexander the Great**: he conquered the Persian Empire and built an empire from Egypt to India." } },
-            { "date": "323 π.Χ.", "text": { "tr": "İskender'in ölümü; imparatorluğu bölündü → **Helenistik krallıklar** (ör. Mısır'da Ptolemaioslar, Asya'da Selevkoslar, Makedonya).", "en": "Death of Alexander; his empire broke up → the **Hellenistic kingdoms** (e.g. the Ptolemies in Egypt, the Seleucids in Asia, Macedonia)." } }
-          ]
-        },
-        {
-          "type": "list",
-          "items": [
-            { "tr": "İskender'in öğretmeni filozof **Aristoteles**'ti.", "en": "Alexander's teacher was the philosopher **Aristotle**." },
-            { "tr": "Politikasının amacı: imparatorluğundaki herkesin, hangi ulustan olursa olsun, **kendini boyun eğdirilmiş hissetmemesi**.", "en": "The aim of his policy: that everyone in his empire, of whatever nation, **should not feel subjugated**." },
-            { "tr": "İskender'in **çocukları oldu** (ör. Roksana'dan olan oğlu IV. İskender). «Hiç çocuğu olmadı» ifadesi yanlıştır.", "en": "Alexander **did have children** (e.g. his son Alexander IV by Roxana). “He never had children” is false." },
-            { "tr": "**Sarissa**: Makedon **falanksının** kullandığı çok uzun mızrak.", "en": "**Sarissa**: the very long spear used by the Macedonian **phalanx**." },
-            { "tr": "Antik Makedonya'nın başkenti **Aigai (bugünkü Vergina)**, sonra **Pella**'ydı; Teb (Thebes) değil. Vergina Sarayı antik Makedon eseridir, Bizans eseri değil.", "en": "The capital of ancient Macedonia was **Aigai (today's Vergina)** and later **Pella** — not Thebes. The Palace of Vergina is ancient Macedonian, not Byzantine." }
-          ]
-        },
-        {
-          "type": "map",
-          "places": [
-            { "name": { "el": "Βεργίνα", "tr": "Vergina", "en": "Vergina" }, "lat": 40.49, "lon": 22.32 },
-            { "name": { "el": "Πέλλα", "tr": "Pella", "en": "Pella" }, "lat": 40.76, "lon": 22.52 }
-          ]
-        },
-        {
-          "type": "tip",
-          "text": {
-            "tr": "Fotoğraflı soru: Büyük İskender'in portresi gösterilebilir — seçenekler arasında Büyük Konstantin, Napolyon ve Perikles de var. **Trabzon İmparatorluğu** İskender'in fethettiği bir devlet değil, 1204'ten sonra kurulan bir **Bizans** devletidir.",
-            "en": "Picture question: a portrait of Alexander the Great may be shown — the options also include Constantine the Great, Napoleon and Pericles. The **Empire of Trebizond** was not conquered by Alexander; it was a **Byzantine** state founded after 1204."
-          }
-        },
-        {
-          "type": "terms",
-          "items": [
-            { "el": "Φίλιππος Β΄", "tr": "II. Filip", "en": "Philip II" },
-            { "el": "Μέγας Αλέξανδρος", "tr": "Büyük İskender", "en": "Alexander the Great" },
-            { "el": "Αριστοτέλης", "tr": "Aristoteles", "en": "Aristotle" },
-            { "el": "Σάρισα", "tr": "sarissa (uzun mızrak)", "en": "sarissa (long spear)" },
-            { "el": "μακεδονική φάλαγγα", "tr": "Makedon falanksı", "en": "Macedonian phalanx" },
-            { "el": "Ελληνιστικά βασίλεια", "tr": "Helenistik krallıklar", "en": "Hellenistic kingdoms" },
-            { "el": "Πανελλήνια ιδέα", "tr": "Panhelen idea", "en": "Panhellenic idea" }
-          ]
-        }
+      {
+       "el": "Αθήνα",
+       "tr": "Atina",
+       "en": "Athens"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Συνέλευση των πολιτών",
+        "tr": "Yurttaş meclisi",
+        "en": "Citizens' assembly"
+       },
+       {
+        "el": "**Απέλλα**",
+        "tr": "**Apella**",
+        "en": "**Apella**"
+       },
+       {
+        "el": "Εκκλησία του Δήμου",
+        "tr": "Ekklesia (Halk Meclisi)",
+        "en": "Ecclesia (Assembly of the people)"
+       }
       ],
-      "questions": ["his-36", "his-46", "his-61", "his-71", "his-73", "his-74", "his-75", "his-77", "his-78", "his-79"]
+      [
+       {
+        "el": "Ζωή των πολιτών",
+        "tr": "Yurttaşların hayatı",
+        "en": "Citizens' life"
+       },
+       {
+        "el": "Στους γνήσιους Σπαρτιάτες **απαγορευόταν να εργάζονται**· ασχολούνταν μόνο με τα στρατιωτικά και τα θέματα της πολιτείας.",
+        "tr": "Asıl Spartalıların **çalışması yasaktı**; yalnızca askerlik ve devlet işleriyle uğraşırlardı.",
+        "en": "The true Spartiates were **forbidden to work**; they dealt only with military matters and the state."
+       },
+       {
+        "el": "Εμπόριο, βιοτεχνία, πολιτική, τέχνες· αναπτύχθηκε η δημοκρατία.",
+        "tr": "Ticaret, zanaat, siyaset, sanat; demokrasi geliştirildi.",
+        "en": "Trade, crafts, politics, the arts; democracy developed."
+       }
+      ],
+      [
+       {
+        "el": "Γυναίκες",
+        "tr": "Kadınlar",
+        "en": "Women"
+       },
+       {
+        "el": "Πιο ελεύθερες· έπαιρναν μέρος στον αθλητισμό.",
+        "tr": "Daha özgürdü, spor yaparlardı.",
+        "en": "Freer; they took part in sport."
+       },
+       {
+        "el": "**Περισσότεροι περιορισμοί** στην καθημερινή ζωή· έμεναν κυρίως στο σπίτι.",
+        "tr": "Gündelik hayatta **daha fazla kısıtlama** vardı, çoğunlukla evde kalırlardı.",
+        "en": "**More restrictions** in daily life; they mostly stayed at home."
+       }
+      ]
+     ]
     },
     {
-      "id": "his-byzantium",
-      "title": {
-        "el": "Η Βυζαντινή Αυτοκρατορία (330-1453)",
-        "tr": "Bizans İmparatorluğu (330-1453)",
-        "en": "The Byzantine Empire (330-1453)"
+     "type": "list",
+     "items": [
+      {
+       "el": "**Σεισάχθεια**: ο νόμος του Αθηναίου νομοθέτη **Σόλωνα** (αρχές του 6ου αι. π.Χ.), που καταργούσε τα χρέη και **απαγόρευε να γίνεται κανείς δούλος από χρέη**. Προσοχή: δεν ήταν νόμος του Ιουστινιανού στο Βυζάντιο!",
+       "tr": "**Seisakhtheia** (Σεισάχθεια): Atinalı yasa koyucu **Solon**'un (MÖ 6. yüzyıl başı) borçları silen ve **borç yüzünden köleliği yasaklayan** yasasıdır. Dikkat: Bizans'taki Justinianos'un değil!",
+       "en": "**Seisachtheia**: the law of the Athenian lawgiver **Solon** (early 6th century BC) that cancelled debts and **banned slavery for debt**. Careful: it was not a law of Justinian in Byzantium!"
       },
-      "icon": "☦️",
-      "summary": {
-        "tr": "Roma İmparatorluğu'nun doğu kısmı: Konstantinopolis, Justinianos, Ayasofya, Malazgirt, Dördüncü Haçlı Seferi ve 1453.",
-        "en": "The eastern part of the Roman Empire: Constantinople, Justinian, Hagia Sophia, Manzikert, the Fourth Crusade and 1453."
-      },
-      "blocks": [
-        {
-          "type": "p",
-          "text": {
-            "tr": "**Bizans İmparatorluğu, Roma İmparatorluğu'nun Doğu kısmıydı.** Başkenti **Konstantinopolis**'ti. Bizans dönemi **MS 330–1453** yılları arasıdır.",
-            "en": "**The Byzantine Empire was the Eastern part of the Roman Empire.** Its capital was **Constantinople**. The Byzantine period runs **AD 330–1453**."
-          }
-        },
-        {
-          "type": "timeline",
-          "items": [
-            { "date": "330", "text": { "tr": "**Büyük Konstantin** başkenti Konstantinopolis'e taşıdı: Bizans döneminin başlangıcı.", "en": "**Constantine the Great** moved the capital to Constantinople: start of the Byzantine period." } },
-            { "date": "532", "text": { "tr": "**Nika İsyanı**: Konstantinopolis'te **I. Justinianos**'a karşı ayaklanma; hipodromdaki takım taraftarlarının çatışmasıyla başladı.", "en": "**Nika riot**: uprising against **Justinian I** in Constantinople, which began with a clash of team supporters in the hippodrome." } },
-            { "date": "537", "text": { "tr": "Justinianos döneminde **Ayasofya** tamamlandı — Bizans döneminin en ünlü mimari eseri.", "en": "Under Justinian **Hagia Sophia** was completed — the most famous architectural work of the Byzantine era." } },
-            { "date": "7ος αι.", "text": { "tr": "**Sıvı ateş (Rum ateşi)**: Bizans donanmasının denizde bile yanan gizli silahı.", "en": "**Liquid fire (Greek fire)**: the Byzantine navy's secret weapon that burned even on water." } },
-            { "date": "9ος αι.", "text": { "tr": "**Selanikli** kardeşler **Kiril ve Metodiy**, «Slavları Hristiyanlaştıranlar».", "en": "The brothers **Cyril and Methodius**, from **Thessaloniki**, the “Christianisers of the Slavs”." } },
-            { "date": "1071", "text": { "tr": "**Malazgirt Muharebesi**: Selçuklular, imparator **IV. Romanos Diogenes**'in ordusunu yendi.", "en": "**Battle of Manzikert**: the Seljuks defeated the army of Emperor **Romanos IV Diogenes**." } },
-            { "date": "1204", "text": { "tr": "**Dördüncü Haçlı Seferi**'nde Haçlılar Konstantinopolis'i ele geçirdi. Bizans devletleri kuruldu: İznik İmparatorluğu, Epir Despotluğu, **Trabzon İmparatorluğu**.", "en": "In the **Fourth Crusade** the Crusaders captured Constantinople. Byzantine successor states arose: the Empire of Nicaea, the Despotate of Epirus, the **Empire of Trebizond**." } },
-            { "date": "29.05.1453", "text": { "tr": "**Konstantinopolis'in Osmanlılar tarafından ele geçirilmesi (Άλωση)**. Son imparator **XI. Konstantinos Palaiologos** savaşarak öldü.", "en": "**The Fall (Άλωση) of Constantinople to the Ottomans**. The last emperor, **Constantine XI Palaiologos**, died fighting." } }
-          ]
-        },
-        {
-          "type": "list",
-          "items": [
-            { "tr": "**Justinianos** Bizans'ın en önemli imparatorlarından biridir (Ayasofya, hukuk derlemesi).", "en": "**Justinian** was one of the greatest Byzantine emperors (Hagia Sophia, codification of law)." },
-            { "tr": "**Akritler**: Bizans sınırlarındaki («uçlar», άκρα) muhafızlar.", "en": "**Akritai**: guards on the Byzantine frontiers (“akra”)." },
-            { "tr": "**Hiçbir zaman bir Girit Despotluğu olmadı** (despotluklar örneğin Epir'de ve Mora'da vardı).", "en": "**There was never a Despotate of Crete** (despotates existed e.g. in Epirus and the Morea)." }
-          ]
-        },
-        {
-          "type": "tip",
-          "text": {
-            "tr": "Haçlılar Konstantinopolis'i **Dördüncü** Haçlı Seferi'nde (1204), Osmanlılar ise **29 Mayıs 1453**'te aldı. Konstantinos Palaiologos ↔ 1453.",
-            "en": "The Crusaders took Constantinople in the **Fourth** Crusade (1204); the Ottomans on **29 May 1453**. Constantine Palaiologos ↔ 1453."
-          }
-        },
-        {
-          "type": "terms",
-          "items": [
-            { "el": "Βυζαντινή Αυτοκρατορία", "tr": "Bizans İmparatorluğu", "en": "Byzantine Empire" },
-            { "el": "Βυζαντινή περίοδος", "tr": "Bizans dönemi", "en": "Byzantine period" },
-            { "el": "Κωνσταντινούπολη", "tr": "Konstantinopolis", "en": "Constantinople" },
-            { "el": "Μέγας Κωνσταντίνος", "tr": "Büyük Konstantin", "en": "Constantine the Great" },
-            { "el": "Ιουστινιανός", "tr": "Justinianos", "en": "Justinian" },
-            { "el": "Αγία Σοφία", "tr": "Ayasofya", "en": "Hagia Sophia" },
-            { "el": "Στάση του Νίκα", "tr": "Nika İsyanı", "en": "Nika riot" },
-            { "el": "Υγρό Πυρ", "tr": "Sıvı ateş (Rum ateşi)", "en": "Liquid fire (Greek fire)" },
-            { "el": "ακρίτες", "tr": "akritler (sınır muhafızları)", "en": "akritai (frontier guards)" },
-            { "el": "Ματζικέρτ", "tr": "Malazgirt", "en": "Manzikert" },
-            { "el": "Δ΄ Σταυροφορία", "tr": "Dördüncü Haçlı Seferi", "en": "Fourth Crusade" },
-            { "el": "Άλωση", "tr": "(şehrin) ele geçirilmesi / düşüşü", "en": "Fall (capture)" },
-            { "el": "Κωνσταντίνος ΙΑ΄ Παλαιολόγος", "tr": "XI. Konstantinos Palaiologos", "en": "Constantine XI Palaiologos" },
-            { "el": "Κύριλλος και Μεθόδιος", "tr": "Kiril ve Metodiy", "en": "Cyril and Methodius" }
-          ]
-        }
-      ],
-      "questions": ["his-1", "his-19", "his-20", "his-36", "his-56", "his-59", "his-60", "his-61", "his-62", "his-63", "his-68", "his-71", "his-73", "his-74", "his-75", "his-78"]
+      {
+       "el": "**Χορηγία**: μορφή φόρου (λειτουργία) στην Αθήνα· ένας πλούσιος πολίτης πλήρωνε τα έξοδα για να ανέβει μια τραγωδία στο θέατρο.",
+       "tr": "**Koregia** (Χορηγία): Atina'da bir vergi türü (leitourgia); varlıklı bir yurttaş, bir tragedyanın tiyatroda sahnelenmesinin masraflarını üstlenirdi.",
+       "en": "**Choregia**: a form of tax (liturgy) in Athens; a wealthy citizen paid the costs of staging a tragedy in the theatre."
+      }
+     ]
     },
     {
-      "id": "his-ottoman-rule",
-      "title": {
-        "el": "Η Τουρκοκρατία και ο Νεοελληνικός Διαφωτισμός (1453-1821)",
-        "tr": "Osmanlı hâkimiyeti dönemi ve Modern Yunan Aydınlanması (1453-1821)",
-        "en": "Ottoman rule and the Modern Greek Enlightenment (1453-1821)"
-      },
-      "icon": "📜",
-      "summary": {
-        "tr": "Osmanlı hâkimiyeti altında vergiler, Patrik, kocabaşılar, armatoloslar, Fenerliler ve Aydınlanma'nın aydınları.",
-        "en": "Taxes, the Patriarch, notables, armatoloi, Phanariots and the scholars of the Enlightenment under Ottoman rule."
-      },
-      "blocks": [
-        {
-          "type": "p",
-          "text": {
-            "tr": "1453'ten 1821 Devrimi'ne kadar olan döneme Yunanlar **Τουρκοκρατία** (Osmanlı hâkimiyeti dönemi) der. **Osmanlı İmparatorluğu**'nda boyunduruk altındaki Yunanlar pek çok vergi öderdi; örneğin **haraç** (χαράτσι) olarak da bilinen **baş vergisi** (κεφαλικός φόρος).",
-            "en": "Greeks call the period from 1453 to the 1821 Revolution **Τουρκοκρατία** (Ottoman rule). In the **Ottoman Empire** the subjugated Greeks paid many taxes, such as the **head (poll) tax** (κεφαλικός φόρος), also known as **charatsi** (haraç)."
-          }
-        },
-        {
-          "type": "table",
-          "head": [
-            { "tr": "Terim", "en": "Term" },
-            { "tr": "Anlamı", "en": "Meaning" }
-          ],
-          "rows": [
-            [ { "tr": "Patrik", "en": "Patriarch" }, { "tr": "**Ortodoks Kilisesi'nin başı**; dinî lider olmasının yanı sıra boyunduruk altındaki Ortodoks Hristiyanların **temsilcisi**.", "en": "**Head of the Orthodox Church**; besides being a religious leader, also the **representative** of the subjugated Orthodox Christians." } ],
-            [ { "tr": "Kocabaşılar (προεστοί)", "en": "Notables (proestoi)" }, { "tr": "Rum Ortodoks toplulukları yönetir, vergileri toplar ve Osmanlı yönetimine teslim ederdi — **yukarıdakilerin hepsi**.", "en": "Administered the Greek Orthodox communities, collected the taxes and handed them to the Ottoman administration — **all of the above**." } ],
-            [ { "tr": "Demogerontlar", "en": "Demogerontes" }, { "tr": "**Topluluk yöneticileri** (topluluk ihtiyarları).", "en": "**Community leaders** (community elders)." } ],
-            [ { "tr": "Armatoloslar", "en": "Armatoloi" }, { "tr": "Osmanlı döneminin dağlardaki silahlı Yunan birlikleri; sınav bunları «**Türklere boyun eğmeyenler**» ile eşleştirir (kleftlerle birlikte). İkinci Dünya Savaşı'yla ilgisi yoktur.", "en": "Armed Greek bands of the mountains in the Ottoman period; the exam matches them with “**those who did not submit to the Turks**” (together with the klephts). Nothing to do with WWII." } ],
-            [ { "tr": "Fenerliler", "en": "Phanariots" }, { "tr": "**Konstantinopolis'in Fener semtinde** yaşayan soylu Yunan aileleri; yabancı dil bilir, Batı'da okur, Osmanlı yönetiminde yüksek görevler alırlardı. (Güney İtalya değil!)", "en": "Noble Greek families living in the **Phanar district of Constantinople**; they knew foreign languages, studied in the West and held high posts in the Ottoman administration. (Not southern Italy!)" } ]
-          ]
-        },
-        {
-          "type": "list",
-          "items": [
-            { "tr": "**Mani** ve **Sfakia** (Girit) özerk bölgelerdi; yalnızca **tabiiyet vergisi** öderlerdi.", "en": "**Mani** and **Sfakia** (Crete) were autonomous regions that paid only a **tribute**." },
-            { "tr": "**Ulusun Öğretmenleri** (Δάσκαλοι του Γένους): Osmanlı döneminin **eğitimli Yunanları**.", "en": "**Teachers of the Nation** (Δάσκαλοι του Γένους): the **educated Greeks** of the Ottoman period." },
-            { "tr": "**Odessa**: önemli bir **Yunan diaspora topluluğu** (παροικία); 1814'te Filiki Eteria burada kuruldu.", "en": "**Odessa**: an important **Greek diaspora community** (παροικία); the Filiki Etaireia was founded there in 1814." },
-            { "tr": "**Ali Paşa** ↔ **Ioannina** (Epir'in güçlü Osmanlı yöneticisi).", "en": "**Ali Pasha** ↔ **Ioannina** (powerful Ottoman ruler of Epirus)." }
-          ]
-        },
-        {
-          "type": "p",
-          "text": {
-            "tr": "**Modern Yunan Aydınlanması** (18. yüzyıl sonu – 19. yüzyıl başı) Yunanların eğitimini ve ulusal bilincini güçlendirdi. En önemli simaları: **Rigas Velestinlis (Rigas Feraios)** — özgürlük şiiri «Thourios»un yazarı, 1798'de idam edildi — ve **Adamantios Korais** — Paris'te yaşayan büyük bilgin.",
-            "en": "The **Modern Greek Enlightenment** (late 18th – early 19th century) strengthened the education and national consciousness of the Greeks. Its key figures: **Rigas Velestinlis (Rigas Feraios)** — author of the freedom song “Thourios”, executed in 1798 — and **Adamantios Korais** — the great scholar who lived in Paris."
-          }
-        },
-        {
-          "type": "tip",
-          "text": {
-            "tr": "Rigas Velestinlis = Rigas Feraios = aynı kişi: bir **aydın**dı (general ya da 1821 kahramanı değil). Odisseas Androutsos da **Osmanlı hâkimiyeti döneminde** yaşadı (1825'te, Otto'dan önce öldü).",
-            "en": "Rigas Velestinlis = Rigas Feraios = the same person: a **scholar** (not a general or a hero of 1821). Odysseas Androutsos also lived **during Ottoman rule** (he died in 1825, before Otto)."
-          }
-        },
-        {
-          "type": "terms",
-          "items": [
-            { "el": "Τουρκοκρατία", "tr": "Osmanlı hâkimiyeti dönemi", "en": "Ottoman rule" },
-            { "el": "Οθωμανική Αυτοκρατορία", "tr": "Osmanlı İmparatorluğu", "en": "Ottoman Empire" },
-            { "el": "κεφαλικός φόρος", "tr": "baş vergisi", "en": "head (poll) tax" },
-            { "el": "χαράτσι", "tr": "haraç", "en": "charatsi (haraç)" },
-            { "el": "Πατριάρχης", "tr": "Patrik", "en": "Patriarch" },
-            { "el": "προεστοί", "tr": "kocabaşılar", "en": "notables" },
-            { "el": "Δημογέροντες", "tr": "Demogerontlar (topluluk ihtiyarları)", "en": "Demogerontes (community elders)" },
-            { "el": "Αρματολοί", "tr": "Armatoloslar", "en": "Armatoloi" },
-            { "el": "Φαναριώτες", "tr": "Fenerliler", "en": "Phanariots" },
-            { "el": "Δάσκαλοι του Γένους", "tr": "Ulusun Öğretmenleri", "en": "Teachers of the Nation" },
-            { "el": "Ελληνική παροικία", "tr": "Yunan diaspora topluluğu", "en": "Greek diaspora community" },
-            { "el": "Νεοελληνικός Διαφωτισμός", "tr": "Modern Yunan Aydınlanması", "en": "Modern Greek Enlightenment" },
-            { "el": "Ρήγας Βελεστινλής / Ρήγας Φεραίος", "tr": "Rigas Velestinlis / Rigas Feraios", "en": "Rigas Velestinlis / Rigas Feraios" },
-            { "el": "Αδαμάντιος Κοραής", "tr": "Adamantios Korais", "en": "Adamantios Korais" },
-            { "el": "Αλή Πασάς", "tr": "Ali Paşa", "en": "Ali Pasha" }
-          ]
-        }
-      ],
-      "questions": ["his-7", "his-22", "his-24", "his-27", "his-56", "his-57", "his-58", "his-63", "his-64", "his-70", "his-72", "his-76"]
+     "type": "p",
+     "text": {
+      "el": "Οι Έλληνες πίστευαν ότι **οι 12 θεοί κατοικούσαν στον Όλυμπο**. Το πιο γνωστό **μαντείο** του αρχαίου κόσμου ήταν στους **Δελφούς**, όπου οι μάντεις (η Πυθία) έδιναν χρησμούς για να βοηθήσουν τους ανθρώπους να πάρουν σωστές αποφάσεις. Οι **Ολυμπιακοί Αγώνες** γίνονταν στην Ολυμπία **κάθε τέσσερα χρόνια**· **απαγορευόταν η συμμετοχή των γυναικών**· ένα από τα σημαντικότερα αθλήματα ήταν το **πένταθλο** (πέντε αγωνίσματα).",
+      "tr": "Yunanlar, **12 tanrının Olimpos dağında** yaşadığına inanırdı. Antik dünyanın en ünlü **kehanet merkezi** (Μαντείο) **Delfi**'deydi; orada kâhinler (Pythia) insanların doğru kararlar alması için kehanetlerde bulunurdu. **Olimpiyat Oyunları** Olimpia'da **her dört yılda bir** yapılırdı; **kadınların katılması yasaktı**; en önemli dallardan biri **pentatlon**du (beş yarışma).",
+      "en": "The Greeks believed that **the 12 gods lived on Mount Olympus**. The most famous **oracle** of the ancient world was at **Delphi**, where the seers (the Pythia) gave oracles to help people make the right decisions. The **Olympic Games** were held at Olympia **every four years**; **women were forbidden to take part**; one of the most important events was the **pentathlon** (five contests)."
+     }
     },
     {
-      "id": "his-revolution-1821",
-      "title": {
-        "el": "Η Ελληνική Επανάσταση του 1821",
-        "tr": "1821 Yunan Devrimi",
-        "en": "The Greek Revolution of 1821"
+     "type": "map",
+     "places": [
+      {
+       "name": {
+        "el": "Αθήνα",
+        "tr": "Atina",
+        "en": "Athens"
+       },
+       "lat": 37.97,
+       "lon": 23.73
       },
-      "icon": "⚔️",
-      "summary": {
-        "tr": "«Özgürlük ya da Ölüm»: Eflak-Boğdan'dan Tripoliçe'ye, Sakız'dan Mesolongi'ye, Filhelenizm ve devrimin kahramanları.",
-        "en": "“Freedom or Death”: from Moldavia-Wallachia to Tripolitsa, from Chios to Missolonghi, Philhellenism and the heroes of the Revolution."
+      {
+       "name": {
+        "el": "Σπάρτη",
+        "tr": "Sparta",
+        "en": "Sparta"
+       },
+       "lat": 37.07,
+       "lon": 22.43
       },
-      "blocks": [
-        {
-          "type": "timeline",
-          "items": [
-            { "date": "1814", "text": { "tr": "Odessa'da gizli örgüt **Filiki Eteria** kuruldu.", "en": "The secret society **Filiki Etaireia** was founded in Odessa." } },
-            { "date": "02.1821", "text": { "tr": "**Aleksandros İpsilantis** Yunan Devrimi'ni **Eflak-Boğdan**'dan başlattı.", "en": "**Alexandros Ypsilantis** started the Greek Revolution from **Moldavia-Wallachia**." } },
-            { "date": "25.03.1821", "text": { "tr": "Devrimin sembolik başlangıç tarihi; bugün **ulusal bayram** (Eski Patras Metropoliti **Germanos** ile özdeşleşir).", "en": "Symbolic start of the Revolution; today a **national holiday** (associated with **Germanos, Metropolitan of Old Patras**)." } },
-            { "date": "04.1821", "text": { "tr": "Konstantinopolis'te **Patrik V. Grigorios** Türkler tarafından asıldı.", "en": "In Constantinople **Patriarch Gregory V** was hanged by the Turks." } },
-            { "date": "04.1821", "text": { "tr": "**Athanasios Diakos** **Alamana Muharebesi**'nde esir alındı ve idam edildi.", "en": "**Athanasios Diakos** was captured at the **Battle of Alamana** and executed." } },
-            { "date": "05.1821", "text": { "tr": "**Odisseas Androutsos**, **Gravia Hanı**'nda Osmanlı ordusunu durdurdu.", "en": "**Odysseas Androutsos** held off the Ottoman army at the **Inn of Gravia**." } },
-            { "date": "1821", "text": { "tr": "**Dimitrios İpsilantis**, devrime önderlik etmek için Peloponez'e geldi.", "en": "**Demetrios Ypsilantis** arrived in the Peloponnese to lead the Revolution." } },
-            { "date": "09.1821", "text": { "tr": "**Theodoros Kolokotronis** («Mora'nın İhtiyarı») **Tripoliçe'yi kurtardı**.", "en": "**Theodoros Kolokotronis** (“the Old Man of the Morea”) **liberated Tripolitsa**." } },
-            { "date": "1822", "text": { "tr": "Epidavros'ta Birinci Ulusal Meclis ve ilk anayasa (**Epidavros Anayasası**). Aynı yıl **Sakız'ın yıkımı**; olay **Avrupa kamuoyunu derinden etkiledi** (Delacroix'nın ünlü tablosu Louvre'dadır).", "en": "First National Assembly at Epidaurus and the first constitution (**Constitution of Epidaurus**). Same year: the **destruction of Chios**, which **deeply moved European public opinion** (Delacroix's famous painting is in the Louvre)." } },
-            { "date": "1824", "text": { "tr": "Büyük filhelen **Lord Byron** **Mesolongi**'de öldü.", "en": "The great Philhellene **Lord Byron** died in **Missolonghi**." } },
-            { "date": "05.1825", "text": { "tr": "**Papaflessas** **Maniaki**'de öldürüldü.", "en": "**Papaflessas** was killed at **Maniaki**." } },
-            { "date": "1826", "text": { "tr": "Mesolongi'nin düşüşü ve çıkışı (Mesolongi Holokostu).", "en": "Fall and Exodus of Missolonghi (the Holocaust of Missolonghi)." } },
-            { "date": "1827", "text": { "tr": "**Georgios Karaiskakis** **Faliro Muharebesi**'nde ölümcül şekilde yaralandı. Ekim'de Navarin deniz muharebesi.", "en": "**Georgios Karaiskakis** was mortally wounded at the **Battle of Phaleron**. In October: the naval battle of Navarino." } }
-          ]
-        },
-        {
-          "type": "table",
-          "head": [
-            { "tr": "Kahraman", "en": "Hero" },
-            { "tr": "Neyle hatırlanır", "en": "Remembered for" }
-          ],
-          "rows": [
-            [ { "tr": "Athanasios Diakos", "en": "Athanasios Diakos" }, { "tr": "Alamana Muharebesi", "en": "Battle of Alamana" } ],
-            [ { "tr": "Odisseas Androutsos", "en": "Odysseas Androutsos" }, { "tr": "Gravia Hanı", "en": "Inn of Gravia" } ],
-            [ { "tr": "Georgios Karaiskakis", "en": "Georgios Karaiskakis" }, { "tr": "Faliro Muharebesi", "en": "Battle of Phaleron" } ],
-            [ { "tr": "Theodoros Kolokotronis", "en": "Theodoros Kolokotronis" }, { "tr": "Tripoliçe'nin kurtarılması; «Mora'nın İhtiyarı»", "en": "Liberation of Tripolitsa; “Old Man of the Morea”" } ],
-            [ { "tr": "Ioannis Makriyannis", "en": "Ioannis Makriyannis" }, { "tr": "Devrimin generali; ünlü **Anıları** (Hatıralar) ile tanınır", "en": "General of the Revolution; known for his famous **Memoirs**" } ],
-            [ { "tr": "Papaflessas", "en": "Papaflessas" }, { "tr": "Maniaki'de öldü (1825)", "en": "Killed at Maniaki (1825)" } ]
-          ]
-        },
-        {
-          "type": "p",
-          "text": {
-            "tr": "Devrimin sloganı «**Özgürlük ya da Ölüm**»dü. Yunanlara destek veren dünya çapındaki harekete **Filhelenizm** denir. Bu dönemin kahramanları **Yunan Devrimi'nin kahramanları**dır; Georgios Karaiskakis de bunlardan biridir (sporcu, tüccar ya da Ulusal Direniş kahramanı değil).",
-            "en": "The slogan of the Revolution was “**Freedom or Death**”. The worldwide movement of support for the Greeks is called **Philhellenism**. The heroes of this period are **heroes of the Greek Revolution**; Georgios Karaiskakis is one of them (not an athlete, merchant or hero of the National Resistance)."
-          }
-        },
-        {
-          "type": "map",
-          "places": [
-            { "name": { "el": "Τριπολιτσά", "tr": "Tripoliçe", "en": "Tripolitsa" }, "lat": 37.51, "lon": 22.37 },
-            { "name": { "el": "Αλαμάνα", "tr": "Alamana", "en": "Alamana" }, "lat": 38.83, "lon": 22.48 },
-            { "name": { "el": "Χάνι της Γραβιάς", "tr": "Gravia Hanı", "en": "Inn of Gravia" }, "lat": 38.66, "lon": 22.43 },
-            { "name": { "el": "Μεσολόγγι", "tr": "Mesolongi", "en": "Missolonghi" }, "lat": 38.37, "lon": 21.43 },
-            { "name": { "el": "Μανιάκι", "tr": "Maniaki", "en": "Maniaki" }, "lat": 37.07, "lon": 21.80 },
-            { "name": { "el": "Φάληρο", "tr": "Faliro", "en": "Phaleron" }, "lat": 37.93, "lon": 23.69 },
-            { "name": { "el": "Χίος", "tr": "Sakız", "en": "Chios" }, "lat": 38.37, "lon": 26.05 }
-          ]
-        },
-        {
-          "type": "tip",
-          "text": {
-            "tr": "Fotoğraflı sorular: portrelerde **Athanasios Diakos, Georgios Karaiskakis, Odisseas Androutsos** ve **Ioannis Makriyannis** sorulur — isimleri ve neyle tanındıklarını iyi bilin. Dikkat: **Epidavros Anayasası 1822**'dir; Otto'nun 3 Eylül 1843'ten sonra verdiği anayasa değildir. Sakız'ın yıkımı bir **katliamdı**, Yunan başarısı ya da deprem değil.",
-            "en": "Picture questions: portraits of **Athanasios Diakos, Georgios Karaiskakis, Odysseas Androutsos** and **Ioannis Makriyannis** appear — know their names and what they are known for. Careful: the **Constitution of Epidaurus is from 1822**; it is not the constitution Otto granted after 3 September 1843. The destruction of Chios was a **massacre**, not a Greek success or an earthquake."
-          }
-        },
-        {
-          "type": "terms",
-          "items": [
-            { "el": "Ελληνική Επανάσταση", "tr": "Yunan Devrimi", "en": "Greek Revolution" },
-            { "el": "Ελευθερία ή Θάνατος", "tr": "Özgürlük ya da Ölüm", "en": "Freedom or Death" },
-            { "el": "Αλέξανδρος Υψηλάντης", "tr": "Aleksandros İpsilantis", "en": "Alexandros Ypsilantis" },
-            { "el": "Δημήτριος Υψηλάντης", "tr": "Dimitrios İpsilantis", "en": "Demetrios Ypsilantis" },
-            { "el": "Πατριάρχης Γρηγόριος Ε΄", "tr": "Patrik V. Grigorios", "en": "Patriarch Gregory V" },
-            { "el": "Παλαιών Πατρών Γερμανός", "tr": "Eski Patras Metropoliti Germanos", "en": "Germanos of Old Patras" },
-            { "el": "Αθανάσιος Διάκος", "tr": "Athanasios Diakos", "en": "Athanasios Diakos" },
-            { "el": "Οδυσσέας Ανδρούτσος", "tr": "Odisseas Androutsos", "en": "Odysseas Androutsos" },
-            { "el": "Γεώργιος Καραϊσκάκης", "tr": "Georgios Karaiskakis", "en": "Georgios Karaiskakis" },
-            { "el": "Θεόδωρος Κολοκοτρώνης", "tr": "Theodoros Kolokotronis", "en": "Theodoros Kolokotronis" },
-            { "el": "Ιωάννης Μακρυγιάννης", "tr": "Ioannis Makriyannis", "en": "Ioannis Makriyannis" },
-            { "el": "Παπαφλέσσας", "tr": "Papaflessas", "en": "Papaflessas" },
-            { "el": "Φιλελληνισμός", "tr": "Filhelenizm", "en": "Philhellenism" },
-            { "el": "Λόρδος Βύρωνας", "tr": "Lord Byron", "en": "Lord Byron" },
-            { "el": "η καταστροφή της Χίου", "tr": "Sakız'ın yıkımı", "en": "the destruction of Chios" },
-            { "el": "Σύνταγμα της Επιδαύρου", "tr": "Epidavros Anayasası", "en": "Constitution of Epidaurus" }
-          ]
-        }
-      ],
-      "questions": ["his-8", "his-15", "his-16", "his-27", "his-35", "his-41", "his-42", "his-43", "his-44", "his-54", "his-59", "his-61", "his-62", "his-64", "his-67", "his-69", "his-75"]
+      {
+       "name": {
+        "el": "Δελφοί",
+        "tr": "Delfi",
+        "en": "Delphi"
+       },
+       "lat": 38.48,
+       "lon": 22.5
+      },
+      {
+       "name": {
+        "el": "Ολυμπία",
+        "tr": "Olimpia",
+        "en": "Olympia"
+       },
+       "lat": 37.64,
+       "lon": 21.63
+      },
+      {
+       "name": {
+        "el": "Όλυμπος",
+        "tr": "Olimpos",
+        "en": "Mount Olympus"
+       },
+       "lat": 40.09,
+       "lon": 22.36
+      }
+     ]
     },
     {
-      "id": "his-modern-state",
-      "title": {
-        "el": "Το νέο ελληνικό κράτος: Καποδίστριας, Όθωνας, Γεώργιος Α΄, Τρικούπης",
-        "tr": "Yeni Yunan devleti: Kapodistrias, Otto, I. Georgios, Trikoupis",
-        "en": "The new Greek state: Kapodistrias, Otto, George I, Trikoupis"
-      },
-      "icon": "👑",
-      "summary": {
-        "tr": "1830 bağımsızlığı, ilk yönetici Kapodistrias, Bavyera yönetimi, Otto ve I. Georgios dönemleri, Trikoupis ve Megali Idea.",
-        "en": "Independence in 1830, the first governor Kapodistrias, the Bavarian regency, the reigns of Otto and George I, Trikoupis and the Megali Idea."
-      },
-      "blocks": [
-        {
-          "type": "timeline",
-          "items": [
-            { "date": "1828", "text": { "tr": "**Ioannis Kapodistrias**, Yunanistan'ın **ilk yöneticisi** (κυβερνήτης) olarak geldi; aynı yıl **Egina'da Yetimhane'yi** kurdu.", "en": "**Ioannis Kapodistrias** arrived as **first governor** (κυβερνήτης) of Greece; the same year he founded **the Orphanage on Aegina**." } },
-            { "date": "1830", "text": { "tr": "Yunanistan **bağımsız bir devlet** oldu: **Balkanlar'daki ilk bağımsız ulus devlet**.", "en": "Greece became an **independent state**: the **first independent nation-state in the Balkans**." } },
-            { "date": "1831", "text": { "tr": "Kapodistrias Nafplio'da suikasta kurban gitti.", "en": "Kapodistrias was assassinated in Nafplio." } },
-            { "date": "1833", "text": { "tr": "Bavyeralı **Kral Otto** Yunanistan'a geldi (1821'de değil!).", "en": "The Bavarian **King Otto** arrived in Greece (not in 1821!)." } },
-            { "date": "1833–1835", "text": { "tr": "**Bavyera yönetimi** (Βαυαροκρατία): Otto reşit olana kadar devleti, babasının atadığı üç Bavyeralı naip (**Armansperg, Maurer, Heideck**) yönetti.", "en": "**Bavarian rule** (Βαυαροκρατία): until Otto came of age the state was run by three Bavarian regents appointed by his father (**Armansperg, Maurer, Heideck**)." } },
-            { "date": "03.09.1843", "text": { "tr": "Ayaklanma; Otto anayasa vermek zorunda kaldı (1844 Anayasası).", "en": "Uprising; Otto was forced to grant a constitution (Constitution of 1844)." } },
-            { "date": "1833–1862", "text": { "tr": "**Kral Otto'nun hükümdarlık dönemi** (1862'de devrildi).", "en": "**Period of rule of King Otto** (deposed in 1862)." } },
-            { "date": "1863–1913", "text": { "tr": "**I. Georgios'un krallık dönemi**. 1864'te İyon Adaları, 1881'de **Teselya** Yunanistan'a katıldı.", "en": "**Reign of King George I**. The Ionian Islands joined Greece in 1864 and **Thessaly** in 1881." } },
-            { "date": "1873", "text": { "tr": "**Lavreotika**: Fransız-İtalyan şirketi Roux-Serpieri-Fressynet ile Yunan devleti arasında **Lavrio madenleri** anlaşmazlığı; bir **borsa skandalına** yol açtı.", "en": "**Lavreotika**: the dispute between the Franco-Italian company Roux-Serpieri-Fressynet and the Greek state over the **Lavrio mines**; it led to a **stock-market scandal**." } },
-            { "date": "1893", "text": { "tr": "Başbakan **Charilaos Trikoupis** **Yunanistan'ın iflasını** ilan etti. Aynı yıl **Korint Kanalı** açıldı (Trikoupis'in eseri).", "en": "Prime Minister **Charilaos Trikoupis** announced **the bankruptcy of Greece**. The same year the **Corinth Canal** opened (the work of Trikoupis)." } }
-          ]
-        },
-        {
-          "type": "list",
-          "items": [
-            { "tr": "**Charilaos Trikoupis**: 19. yüzyılın en önemli başbakanı; demiryolları, yollar ve **Korint Kanalı** gibi büyük modernleşme projeleri. Rakibi **Theodoros Diligiannis**'ti.", "en": "**Charilaos Trikoupis**: the most important prime minister of the 19th century; major modernisation projects such as railways, roads and the **Corinth Canal**. His rival was **Theodoros Deligiannis**." },
-            { "tr": "**Megali Idea (Büyük İdea)**: 19. yüzyıl boyunca ve **Küçük Asya Felaketi'ne (1922) kadar** Yunanları, henüz kurtarılmamış soydaşlarını özgürleştirmek için harekete geçiren ideoloji.", "en": "**Megali Idea (Great Idea)**: the ideology that mobilised the Greeks during the 19th century and **up to the Asia Minor Catastrophe (1922)** to liberate their unredeemed compatriots." },
-            { "tr": "Teselya katıldıktan sonra bölgedeki büyük **çiftlikler** (τσιφλίκια) **yurt dışındaki zengin Yunanlar tarafından satın alındı**.", "en": "After Thessaly's annexation its large **estates** (chiftliks) **were bought by wealthy Greeks from abroad**." },
-            { "tr": "**Georgios Averof (1815-1899)**: **en büyük ulusal hayırseverlerden** biri (ör. 1896 Olimpiyatları için Panathinaiko Stadı'nın yenilenmesi). Ünlü «Averof» zırhlısı onun adını taşır.", "en": "**Georgios Averof (1815-1899)**: one of the **greatest national benefactors** (e.g. restoring the Panathenaic Stadium for the 1896 Olympics). The famous cruiser “Averof” bears his name." }
-          ]
-        },
-        {
-          "type": "tip",
-          "text": {
-            "tr": "Eşleştirme: **1833-1862 = Otto**, **1863-1913 = I. Georgios**. Fotoğraflı sorular: **Charilaos Trikoupis** ve **Ioannis Kapodistrias** portreleri. «İlk yönetici» sorulursa cevap her zaman **Ioannis Kapodistrias**.",
-            "en": "Matching: **1833-1862 = Otto**, **1863-1913 = George I**. Picture questions: portraits of **Charilaos Trikoupis** and **Ioannis Kapodistrias**. If asked for the “first governor”, the answer is always **Ioannis Kapodistrias**."
-          }
-        },
-        {
-          "type": "terms",
-          "items": [
-            { "el": "Ιωάννης Καποδίστριας", "tr": "Ioannis Kapodistrias", "en": "Ioannis Kapodistrias" },
-            { "el": "κράτος", "tr": "devlet", "en": "state" },
-            { "el": "Όθωνας", "tr": "Otto", "en": "Otto" },
-            { "el": "Βαυαροκρατία", "tr": "Bavyera yönetimi", "en": "Bavarian rule" },
-            { "el": "Γεώργιος Α΄", "tr": "I. Georgios", "en": "George I" },
-            { "el": "Χαρίλαος Τρικούπης", "tr": "Charilaos Trikoupis", "en": "Charilaos Trikoupis" },
-            { "el": "Θεόδωρος Δηλιγιάννης", "tr": "Theodoros Diligiannis", "en": "Theodoros Deligiannis" },
-            { "el": "η πτώχευση της Ελλάδας", "tr": "Yunanistan'ın iflası", "en": "the bankruptcy of Greece" },
-            { "el": "διώρυγα της Κορίνθου", "tr": "Korint Kanalı", "en": "Corinth Canal" },
-            { "el": "Μεγάλη Ιδέα", "tr": "Megali Idea (Büyük İdea)", "en": "Megali Idea (Great Idea)" },
-            { "el": "τσιφλίκια", "tr": "çiftlikler", "en": "chiftliks (estates)" },
-            { "el": "Γεώργιος Αβέρωφ", "tr": "Georgios Averof", "en": "Georgios Averof" },
-            { "el": "εθνικός ευεργέτης", "tr": "ulusal hayırsever", "en": "national benefactor" },
-            { "el": "Λαυρεωτικά", "tr": "Lavreotika", "en": "Lavreotika" }
-          ]
-        }
-      ],
-      "questions": ["his-3", "his-10", "his-12", "his-13", "his-34", "his-37", "his-38", "his-47", "his-55", "his-61", "his-64", "his-66", "his-68", "his-76", "his-78", "his-80"]
+     "type": "tip",
+     "text": {
+      "el": "Ολυμπιακοί Αγώνες = κάθε 4 χρόνια, Δελφοί = μαντείο, Όλυμπος = 12 θεοί, Απέλλα = συνέλευση της Σπάρτης. Μεγάλη Ελλάδα = Νότια Ιταλία και Σικελία (όχι η Ιωνία!).",
+      "tr": "Olimpiyatlar = 4 yıl, Delfi = kehanet, Olimpos = 12 tanrı, Apella = Sparta meclisi. Magna Graecia = Güney İtalya ve Sicilya (İyonya değil!).",
+      "en": "Olympics = every 4 years, Delphi = oracle, Olympus = 12 gods, Apella = Spartan assembly. Magna Graecia = southern Italy and Sicily (not Ionia!)."
+     }
     },
     {
-      "id": "his-balkan-wars",
-      "title": {
-        "el": "Μακεδονικός Αγώνας και Βαλκανικοί Πόλεμοι (1904-1913)",
-        "tr": "Makedonya Mücadelesi ve Balkan Savaşları (1904-1913)",
-        "en": "The Macedonian Struggle and the Balkan Wars (1904-1913)"
+     "type": "terms",
+     "items": [
+      {
+       "el": "Μαντείο",
+       "tr": "kehanet merkezi",
+       "en": "oracle"
       },
-      "icon": "🗺️",
-      "summary": {
-        "tr": "Makedonya'da Yunan-Bulgar çatışması, Venizelos, Elassona'dan Selanik'e kurtuluş ve Girit'in katılımı.",
-        "en": "The Greek–Bulgarian conflict in Macedonia, Venizelos, the liberation from Elassona to Thessaloniki and the union of Crete."
+      {
+       "el": "Δελφοί",
+       "tr": "Delfi",
+       "en": "Delphi"
       },
-      "blocks": [
-        {
-          "type": "p",
-          "text": {
-            "tr": "**Makedonya Mücadelesi** (1904-1908), o dönemde Osmanlıların elinde bulunan Makedonya topraklarında **Yunan ve Bulgar** çeteciler arasındaki çatışmadır. Sembolü **Pavlos Melas**'tır (1904'te öldü). Diplomat ve yazar **Ion Dragoumis** de mücadelenin önemli isimlerindendir.",
-            "en": "The **Macedonian Struggle** (1904-1908) was the conflict between **Greek and Bulgarian** guerrillas in the territories of Macedonia then held by the Ottomans. Its symbol is **Pavlos Melas** (killed in 1904). The diplomat and writer **Ion Dragoumis** was also a key figure of the struggle."
-          }
-        },
-        {
-          "type": "p",
-          "text": {
-            "tr": "**Eleftherios Venizelos** (Giritli devlet adamı) 1910'da başbakan oldu; Balkan Savaşları'nda ve Birinci Dünya Savaşı'nda Yunanistan'ı yönetti. Modern Yunan tarihinin en önemli siyasetçilerinden biridir.",
-            "en": "**Eleftherios Venizelos** (a Cretan statesman) became prime minister in 1910; he led Greece in the Balkan Wars and the First World War. He is one of the most important politicians of modern Greek history."
-          }
-        },
-        {
-          "type": "timeline",
-          "items": [
-            { "date": "10.1912", "text": { "tr": "Birinci Balkan Savaşı başladı. **Kurtarılan ilk şehir Elassona** oldu.", "en": "The First Balkan War began. **The first city liberated was Elassona**." } },
-            { "date": "10.1912", "text": { "tr": "**Sarantaporo Muharebesi**: Makedonya'nın kurtarılmasının yolunu açtı.", "en": "**Battle of Sarantaporo**: it opened the way to the liberation of Macedonia." } },
-            { "date": "10.1912", "text": { "tr": "**Yenice (Giannitsa) Muharebesi** → **Selanik'in kurtarılması**; Osmanlılar şehri Ekim 1912'de (26 Ekim) Yunan ordusuna teslim etti.", "en": "**Battle of Giannitsa** → **liberation of Thessaloniki**; the Ottomans surrendered the city to the Greek army in October 1912 (26 October)." } },
-            { "date": "02.1913", "text": { "tr": "Bizani Muharebesi → Ioannina'nın kurtarılması.", "en": "Battle of Bizani → liberation of Ioannina." } },
-            { "date": "1913", "text": { "tr": "**Kral I. Georgios Selanik'te suikasta kurban gitti**. İkinci Balkan Savaşı (Bulgaristan'a karşı). **Girit Yunanistan'a katıldı**.", "en": "**King George I was assassinated in Thessaloniki**. Second Balkan War (against Bulgaria). **Crete was incorporated into Greece**." } }
-          ]
-        },
-        {
-          "type": "map",
-          "places": [
-            { "name": { "el": "Ελασσόνα", "tr": "Elassona", "en": "Elassona" }, "lat": 39.89, "lon": 22.19 },
-            { "name": { "el": "Σαραντάπορο", "tr": "Sarantaporo", "en": "Sarantaporo" }, "lat": 40.04, "lon": 22.03 },
-            { "name": { "el": "Γιαννιτσά", "tr": "Yenice (Giannitsa)", "en": "Giannitsa" }, "lat": 40.79, "lon": 22.41 },
-            { "name": { "el": "Θεσσαλονίκη", "tr": "Selanik", "en": "Thessaloniki" }, "lat": 40.64, "lon": 22.94 },
-            { "name": { "el": "Μπιζάνι", "tr": "Bizani", "en": "Bizani" }, "lat": 39.58, "lon": 20.84 }
-          ]
-        },
-        {
-          "type": "tip",
-          "text": {
-            "tr": "Selanik **1912**'de kurtarıldı, 1830'da değil (1830'daki ilk devlet yalnızca Peloponez, Orta Yunanistan ve bazı adaları kapsıyordu). Girit = **1913**. Bir tablo sorusunda **Ekim 1912'de Selanik'in Osmanlılar tarafından Yunanlara teslimi** tasvir edilir. Fotoğraflı sorularda **Eleftherios Venizelos** ve **Ion Dragoumis** portreleri çıkar.",
-            "en": "Thessaloniki was liberated in **1912**, not 1830 (the 1830 state covered only the Peloponnese, Central Greece and some islands). Crete = **1913**. A painting question shows **the surrender of Thessaloniki by the Ottomans to the Greeks in October 1912**. Picture questions show portraits of **Eleftherios Venizelos** and **Ion Dragoumis**."
-          }
-        },
-        {
-          "type": "terms",
-          "items": [
-            { "el": "Μακεδονικός Αγώνας", "tr": "Makedonya Mücadelesi", "en": "Macedonian Struggle" },
-            { "el": "Παύλος Μελάς", "tr": "Pavlos Melas", "en": "Pavlos Melas" },
-            { "el": "Ίων Δραγούμης", "tr": "Ion Dragoumis", "en": "Ion Dragoumis" },
-            { "el": "Ελευθέριος Βενιζέλος", "tr": "Eleftherios Venizelos", "en": "Eleftherios Venizelos" },
-            { "el": "Βαλκανικοί Πόλεμοι", "tr": "Balkan Savaşları", "en": "Balkan Wars" },
-            { "el": "Ελασσόνα", "tr": "Elassona", "en": "Elassona" },
-            { "el": "Μάχη του Σαρανταπόρου", "tr": "Sarantaporo Muharebesi", "en": "Battle of Sarantaporo" },
-            { "el": "Μάχη των Γιαννιτσών", "tr": "Yenice (Giannitsa) Muharebesi", "en": "Battle of Giannitsa" },
-            { "el": "Μπιζάνι", "tr": "Bizani", "en": "Bizani" },
-            { "el": "Κρήτη", "tr": "Girit", "en": "Crete" }
-          ]
-        }
-      ],
-      "questions": ["his-4", "his-11", "his-14", "his-17", "his-39", "his-40", "his-53", "his-62", "his-67", "his-69"]
-    },
-    {
-      "id": "his-schism-asia-minor",
-      "title": {
-        "el": "Εθνικός Διχασμός, Α΄ Παγκόσμιος Πόλεμος, Μικρασιατική Καταστροφή, Μεσοπόλεμος",
-        "tr": "Ulusal Bölünme, Birinci Dünya Savaşı, Küçük Asya Felaketi, iki savaş arası dönem",
-        "en": "National Schism, First World War, Asia Minor Catastrophe, interwar years"
+      {
+       "el": "Ολυμπιακοί Αγώνες",
+       "tr": "Olimpiyat Oyunları",
+       "en": "Olympic Games"
       },
-      "icon": "🔥",
-      "summary": {
-        "tr": "Venizelos ile Kral Konstantinos'un çatışması, İtilaf saflarında savaş, 1919-1922 Küçük Asya Seferi ve 1922 felaketi, Metaksas diktatörlüğü.",
-        "en": "The clash between Venizelos and King Constantine, war on the Entente side, the 1919-1922 Asia Minor Campaign and the 1922 catastrophe, the Metaxas dictatorship."
+      {
+       "el": "Πένταθλο",
+       "tr": "pentatlon",
+       "en": "pentathlon"
       },
-      "blocks": [
-        {
-          "type": "timeline",
-          "items": [
-            { "date": "1915–1917", "text": { "tr": "**Ulusal Bölünme** (Εθνικός Διχασμός): Yunanistan'ın Birinci Dünya Savaşı'na katılıp katılmayacağı konusunda iç çekişme. Başlıca aktörleri **Eleftherios Venizelos** (İtilaf yanlısı) ve **Kral Konstantinos** (tarafsızlık yanlısı). Bölünmenin etkileri 1922'ye kadar sürdü.", "en": "**National Schism** (Εθνικός Διχασμός): the internal conflict over whether Greece would join the First World War. Its protagonists were **Eleftherios Venizelos** (pro-Entente) and **King Constantine** (pro-neutrality). Its effects lasted until 1922." } },
-            { "date": "1917–1918", "text": { "tr": "Yunanistan **İtilaf Devletleri (Antant)** saflarında savaştı ve **galipler** tarafında yer aldı.", "en": "Greece fought on the side of the **Entente** and was among the **victors**." } },
-            { "date": "05.1919", "text": { "tr": "Yunan ordusu **İzmir'e çıktı**.", "en": "The Greek army **landed in Smyrna**." } },
-            { "date": "1919–1922", "text": { "tr": "**Küçük Asya Seferi**.", "en": "**Asia Minor Campaign**." } },
-            { "date": "1922", "text": { "tr": "**Küçük Asya Felaketi**: Yunan cephesinin çöküşü, **İzmir'in yıkımı**, yüz binlerce Rum'un Yunanistan'a mülteci olarak gelmesi. **Megali Idea** bu felaketle sona erdi.", "en": "**Asia Minor Catastrophe**: collapse of the Greek front, **destruction of Smyrna**, hundreds of thousands of Greeks arriving in Greece as refugees. The **Megali Idea** ended with this catastrophe." } },
-            { "date": "1923", "text": { "tr": "Lozan Antlaşması ve Yunan-Türk nüfus mübadelesi.", "en": "Treaty of Lausanne and the Greek–Turkish population exchange." } },
-            { "date": "1924", "text": { "tr": "Cumhuriyet ilan edildi; başbakan **Aleksandros Papanastasiou** (muhafazakâr değil, **demokrat/ilerici** bir politikacıydı).", "en": "The Republic was proclaimed; prime minister **Alexandros Papanastasiou** (not a conservative, but a **democratic/progressive** politician)." } },
-            { "date": "04.08.1936", "text": { "tr": "**Ioannis Metaksas diktatörlük ilan etti**.", "en": "**Ioannis Metaxas declared a dictatorship**." } }
-          ]
-        },
-        {
-          "type": "list",
-          "items": [
-            { "tr": "**Mülteciler 1922'den önce de geldi**: Balkan Savaşları ve Birinci Dünya Savaşı sırasında da Yunan mülteciler Yunanistan'a sığınmıştı.", "en": "**Refugees came before 1922 too**: Greek refugees had already arrived in Greece during the Balkan Wars and the First World War." },
-            { "tr": "**Georgios Hatzanestis**: 1922'de Küçük Asya'daki Yunan ordusunun başkomutanı (1940-41'in değil!). **Nikolaos Plastiras**: 1922 devrimini yöneten subay.", "en": "**Georgios Hatzianestis**: commander-in-chief of the Greek army in Asia Minor in 1922 (not in 1940-41!). **Nikolaos Plastiras**: the officer who led the 1922 revolution." }
-          ]
-        },
-        {
-          "type": "tip",
-          "text": {
-            "tr": "Eşleştirme: **1919-1922 = Küçük Asya Seferi**. Fotoğraflı sorularda **İzmir'in yıkımı (1922)** ve **Mayıs 1919'da İzmir'e çıkış kutlamaları** seçenekleri bulunur. Ulusal Bölünme = **Venizelos – Kral Konstantinos**.",
-            "en": "Matching: **1919-1922 = Asia Minor Campaign**. Picture questions include **the destruction of Smyrna (1922)** and **the celebrations for the Smyrna landing in May 1919** as options. National Schism = **Venizelos – King Constantine**."
-          }
-        },
-        {
-          "type": "terms",
-          "items": [
-            { "el": "Εθνικός Διχασμός", "tr": "Ulusal Bölünme", "en": "National Schism" },
-            { "el": "Βασιλιάς Κωνσταντίνος", "tr": "Kral Konstantinos", "en": "King Constantine" },
-            { "el": "Εγκάρδια Συνεννόηση (Αντάντ)", "tr": "İtilaf Devletleri (Antant)", "en": "Entente" },
-            { "el": "Κεντρικές Αυτοκρατορίες", "tr": "İttifak Devletleri", "en": "Central Powers" },
-            { "el": "Μικρασιατική Εκστρατεία", "tr": "Küçük Asya Seferi", "en": "Asia Minor Campaign" },
-            { "el": "Μικρασιατική Καταστροφή", "tr": "Küçük Asya Felaketi", "en": "Asia Minor Catastrophe" },
-            { "el": "Σμύρνη", "tr": "İzmir", "en": "Smyrna" },
-            { "el": "πρόσφυγες", "tr": "mülteciler", "en": "refugees" },
-            { "el": "Αλέξανδρος Παπαναστασίου", "tr": "Aleksandros Papanastasiou", "en": "Alexandros Papanastasiou" },
-            { "el": "Ιωάννης Μεταξάς", "tr": "Ioannis Metaksas", "en": "Ioannis Metaxas" },
-            { "el": "Γεώργιος Χατζανέστης", "tr": "Georgios Hatzanestis", "en": "Georgios Hatzianestis" }
-          ]
-        }
-      ],
-      "questions": ["his-5", "his-6", "his-13", "his-23", "his-50", "his-52", "his-55", "his-69", "his-70", "his-72", "his-76", "his-80"]
-    },
-    {
-      "id": "his-ww2-occupation",
-      "title": {
-        "el": "Β΄ Παγκόσμιος Πόλεμος: το Έπος του 1940, Κατοχή και Εθνική Αντίσταση",
-        "tr": "İkinci Dünya Savaşı: 1940 Destanı, İşgal ve Ulusal Direniş",
-        "en": "Second World War: the Epic of 1940, Occupation and National Resistance"
+      {
+       "el": "Όλυμπος",
+       "tr": "Olimpos",
+       "en": "Olympus"
       },
-      "icon": "🎖️",
-      "summary": {
-        "tr": "«Elli»nin torpillenmesi, 28 Ekim 1940, Papagos, Mihver işgali, Gorgopotamos, Yunan Yahudileri ve 1944 kurtuluşu.",
-        "en": "The torpedoing of the “Elli”, 28 October 1940, Papagos, the Axis occupation, Gorgopotamos, the Greek Jews and the 1944 liberation."
+      {
+       "el": "Απέλλα",
+       "tr": "Apella (Sparta meclisi)",
+       "en": "Apella (Spartan assembly)"
       },
-      "blocks": [
-        {
-          "type": "timeline",
-          "items": [
-            { "date": "15.08.1940", "text": { "tr": "**«Elli» kruvazörünün torpillenmesi** (Tinos limanında, bir İtalyan denizaltısı tarafından) — İtalyan saldırısından önce gelen olay.", "en": "**Torpedoing of the cruiser “Elli”** (in the harbour of Tinos, by an Italian submarine) — the event that preceded the Italian attack." } },
-            { "date": "28.10.1940", "text": { "tr": "**İtalya Yunanistan'a savaş ilan etti**; Metaksas «Hayır» (ΟΧΙ) dedi. Başkomutan **Aleksandros Papagos**; Yunan ordusu Arnavutluk cephesinde İtalyanları geri püskürttü.", "en": "**Italy declared war on Greece**; Metaxas said “No” (ΟΧΙ). Commander-in-chief **Alexandros Papagos**; the Greek army pushed the Italians back on the Albanian front." } },
-            { "date": "04.1941", "text": { "tr": "Almanya Yunanistan'a saldırdı.", "en": "Germany attacked Greece." } },
-            { "date": "1941–1944", "text": { "tr": "**Mihver kuvvetlerinin işgali** (Almanya, İtalya, Bulgaristan); büyük kıtlık; **Ulusal Direniş**.", "en": "**Occupation by the Axis powers** (Germany, Italy, Bulgaria); great famine; **National Resistance**." } },
-            { "date": "1942", "text": { "tr": "Selanik'te Almanlar **Yunan Yahudilerini alenen aşağıladı**; 1943'te Yunan Yahudilerinin büyük kısmı ölüm kamplarına sürüldü.", "en": "In Thessaloniki the Germans **publicly humiliated the Greek Jews**; in 1943 most Greek Jews were deported to the death camps." } },
-            { "date": "25.11.1942", "text": { "tr": "**Gorgopotamos köprüsünün havaya uçurulması**: İşgal döneminde Yunanların **en önemli ortak direniş eylemi**.", "en": "**Blowing up of the Gorgopotamos bridge**: **the foremost joint resistance action** of the Greeks during the Occupation." } },
-            { "date": "10.1944", "text": { "tr": "**Atina'nın Kurtuluşu**. **Georgios Papandreou** savaş sonrası ilk başbakan olarak hükümeti yönetti.", "en": "**Liberation of Athens**. **Georgios Papandreou** headed the government as the first prime minister after the war." } }
-          ]
-        },
-        {
-          "type": "list",
-          "items": [
-            { "tr": "**28 Ekim** ve **25 Mart** Yunanistan'ın **en önemli iki ulusal yıldönümüdür**.", "en": "**28 October** and **25 March** are Greece's **two most important national anniversaries**." },
-            { "tr": "Eşleştirme: **Ioannis Metaksas ↔ 1940**; **1941-1944 = Mihver işgali**; «İşgal ve Direniş» = **20. yüzyıl Yunan tarihi**.", "en": "Matching: **Ioannis Metaxas ↔ 1940**; **1941-1944 = Axis occupation**; “Occupation and Resistance” = **20th-century Greek history**." },
-            { "tr": "Yunanistan **hem Birinci hem İkinci Dünya Savaşı'nda galipler tarafındaydı**.", "en": "Greece was **on the side of the victors in both World Wars**." },
-            { "tr": "**Başpiskopos Damaskinos**: işgal döneminde Atina Başpiskoposu, savaştan sonra kısa süre naip.", "en": "**Archbishop Damaskinos**: Archbishop of Athens during the Occupation, briefly regent after the war." }
-          ]
-        },
-        {
-          "type": "tip",
-          "text": {
-            "tr": "Fotoğraflı sorular: **İkinci Dünya Savaşı'nda Yunan Yahudilerinin Almanlar tarafından alenen aşağılanması** ve **Ekim 1944'te Atina'nın Kurtuluşu** seçenek olarak çıkar. Gorgopotamos = İşgal dönemi (Balkan Savaşları ya da cunta değil). 1940-41 başkomutanı = **Papagos** (Hatzanestis 1922'dir).",
-            "en": "Picture questions: **the public humiliation of Greek Jews by the Germans in WWII** and **the Liberation of Athens in October 1944** appear as options. Gorgopotamos = Occupation (not the Balkan Wars or the junta). Commander-in-chief 1940-41 = **Papagos** (Hatzianestis is 1922)."
-          }
-        },
-        {
-          "type": "terms",
-          "items": [
-            { "el": "«Έλλη»", "tr": "«Elli» kruvazörü", "en": "the cruiser “Elli”" },
-            { "el": "28η Οκτωβρίου", "tr": "28 Ekim", "en": "28 October" },
-            { "el": "Αλέξανδρος Παπάγος", "tr": "Aleksandros Papagos", "en": "Alexandros Papagos" },
-            { "el": "Κατοχή", "tr": "İşgal", "en": "Occupation" },
-            { "el": "Άξονας", "tr": "Mihver", "en": "Axis" },
-            { "el": "Εθνική Αντίσταση", "tr": "Ulusal Direniş", "en": "National Resistance" },
-            { "el": "γέφυρα του Γοργοποτάμου", "tr": "Gorgopotamos köprüsü", "en": "Gorgopotamos bridge" },
-            { "el": "Έλληνες Εβραίοι", "tr": "Yunan Yahudileri", "en": "Greek Jews" },
-            { "el": "Απελευθέρωση της Αθήνας", "tr": "Atina'nın Kurtuluşu", "en": "Liberation of Athens" },
-            { "el": "Αρχιεπίσκοπος Δαμασκηνός", "tr": "Başpiskopos Damaskinos", "en": "Archbishop Damaskinos" }
-          ]
-        }
-      ],
-      "questions": ["his-21", "his-25", "his-26", "his-28", "his-32", "his-35", "his-51", "his-52", "his-55", "his-59", "his-60", "his-80"]
-    },
-    {
-      "id": "his-civil-war-postwar",
-      "title": {
-        "el": "Εμφύλιος Πόλεμος και μεταπολεμική Ελλάδα (1946-1967)",
-        "tr": "İç Savaş ve savaş sonrası Yunanistan (1946-1967)",
-        "en": "Civil War and post-war Greece (1946-1967)"
+      {
+       "el": "Σεισάχθεια",
+       "tr": "Seisakhtheia (borçların silinmesi)",
+       "en": "Seisachtheia (cancellation of debts)"
       },
-      "icon": "🕊️",
-      "summary": {
-        "tr": "İç Savaş, göç dalgası, Papagos ve Karamanlis, ilk kadın milletvekili, Kıbrıs'ın bağımsızlığı, Georgios Papandreou ve 1965 Iouliana.",
-        "en": "The Civil War, emigration, Papagos and Karamanlis, the first woman MP, Cypriot independence, Georgios Papandreou and the 1965 Iouliana."
+      {
+       "el": "Χορηγία",
+       "tr": "Koregia",
+       "en": "Choregia"
       },
-      "blocks": [
-        {
-          "type": "timeline",
-          "items": [
-            { "date": "1946–1949", "text": { "tr": "**İç Savaş**: hükümet ordusu ile komünist Demokratik Ordu arasında. Sonrasında yaklaşık **80.000 siyasi mülteci** Doğu Avrupa ülkelerine sığındı.", "en": "**Civil War**: between the government army and the communist Democratic Army. Afterwards about **80,000 political refugees** fled to Eastern European countries." } },
-            { "date": "1950–1960", "text": { "tr": "Yoksulluk nedeniyle **pek çok Yunan göç etti** (Batı Almanya, Avustralya, ABD…).", "en": "Because of poverty **many Greeks emigrated** (West Germany, Australia, the USA…)." } },
-            { "date": "1951–1952", "text": { "tr": "Mareşal **Aleksandros Papagos** **Yunan Seferberliği** (Ελληνικός Συναγερμός) partisini kurdu ve **seçimleri kazanarak** başbakan oldu — diktatör olmadı.", "en": "Field Marshal **Alexandros Papagos** founded the **Greek Rally** (Ελληνικός Συναγερμός) party and became prime minister **by winning elections** — he did not become a dictator." } },
-            { "date": "1953", "text": { "tr": "**Eleni Skoura** ilk kadın Yunan milletvekili olarak seçildi.", "en": "**Eleni Skoura** was elected as the first Greek woman MP." } },
-            { "date": "1955–1963", "text": { "tr": "**Konstantinos Karamanlis** başbakan.", "en": "**Konstantinos Karamanlis** prime minister." } },
-            { "date": "1960", "text": { "tr": "**Kıbrıs bağımsız oldu**; garantör güçler **Yunanistan, Türkiye ve Birleşik Krallık** (ABD değil). İlk cumhurbaşkanı **Başpiskopos Makarios**.", "en": "**Cyprus became independent**; the guarantor powers were **Greece, Turkey and the United Kingdom** (not the USA). Its first president was **Archbishop Makarios**." } },
-            { "date": "1961", "text": { "tr": "**Merkez Birliği** kuruldu; başında **Georgios Papandreou** vardı (Andreas değil).", "en": "The **Centre Union** was founded; its leader was **Georgios Papandreou** (not Andreas)." } },
-            { "date": "1964", "text": { "tr": "Georgios Papandreou seçimleri büyük farkla kazandı.", "en": "Georgios Papandreou won the elections by a large margin." } },
-            { "date": "07.1965", "text": { "tr": "**Iouliana (Temmuz Olayları)**: kral, G. Papandreou hükümetini istifaya zorladı; dev gösteriler yapıldı.", "en": "**Iouliana (July Events)**: the king forced the G. Papandreou government to resign; huge demonstrations followed." } }
-          ]
-        },
-        {
-          "type": "p",
-          "text": {
-            "tr": "**Georgios Papandreou** «**Demokrasinin İhtiyarı**» olarak tanınır (Kolokotronis ise «Mora'nın İhtiyarı»dır). Hem 1944'te savaş sonrası ilk başbakan hem de 1964 seçimlerinin galibidir.",
-            "en": "**Georgios Papandreou** is known as “**the Old Man of Democracy**” (Kolokotronis is “the Old Man of the Morea”). He was both the first post-war prime minister in 1944 and the winner of the 1964 elections."
-          }
-        },
-        {
-          "type": "tip",
-          "text": {
-            "tr": "Fotoğraflı sorularda **Konstantinos Karamanlis**, **Georgios Papandreou** ve **Kıbrıs Başpiskoposu Makarios** portreleri çıkar. Eşleştirme: **Georgios Papandreou ↔ 1964**, **1946-1949 = İç Savaş**. 1950'lerde Yunanistan henüz AET üyesi değildi ve Kıbrıs ile birleşik değildi.",
-            "en": "Picture questions show portraits of **Konstantinos Karamanlis**, **Georgios Papandreou** and **Archbishop Makarios of Cyprus**. Matching: **Georgios Papandreou ↔ 1964**, **1946-1949 = Civil War**. In the 1950s Greece was not yet an EEC member and was not united with Cyprus."
-          }
-        },
-        {
-          "type": "terms",
-          "items": [
-            { "el": "Εμφύλιος Πόλεμος", "tr": "İç Savaş", "en": "Civil War" },
-            { "el": "πολιτικοί πρόσφυγες", "tr": "siyasi mülteciler", "en": "political refugees" },
-            { "el": "μετανάστευση", "tr": "göç", "en": "emigration" },
-            { "el": "Ελληνικός Συναγερμός", "tr": "Yunan Seferberliği", "en": "Greek Rally" },
-            { "el": "Ελένη Σκούρα", "tr": "Eleni Skoura", "en": "Eleni Skoura" },
-            { "el": "Κωνσταντίνος Καραμανλής", "tr": "Konstantinos Karamanlis", "en": "Konstantinos Karamanlis" },
-            { "el": "Αρχιεπίσκοπος Κύπρου Μακάριος", "tr": "Kıbrıs Başpiskoposu Makarios", "en": "Archbishop Makarios of Cyprus" },
-            { "el": "εγγυήτριες δυνάμεις", "tr": "garantör güçler", "en": "guarantor powers" },
-            { "el": "Ένωση Κέντρου", "tr": "Merkez Birliği", "en": "Centre Union" },
-            { "el": "Γεώργιος Παπανδρέου", "tr": "Georgios Papandreou", "en": "Georgios Papandreou" },
-            { "el": "ο γέρος της Δημοκρατίας", "tr": "Demokrasinin İhtiyarı", "en": "the Old Man of Democracy" },
-            { "el": "Ιουλιανά", "tr": "Iouliana (Temmuz Olayları)", "en": "Iouliana (July Events)" }
-          ]
-        }
-      ],
-      "questions": ["his-2", "his-33", "his-45", "his-48", "his-49", "his-56", "his-60", "his-66", "his-70", "his-71", "his-77", "his-80"]
-    },
-    {
-      "id": "his-junta-metapolitefsi",
-      "title": {
-        "el": "Δικτατορία των Συνταγματαρχών, Μεταπολίτευση και Ευρώπη (1967-σήμερα)",
-        "tr": "Albaylar Cuntası, Metapolitefsi ve Avrupa (1967-günümüz)",
-        "en": "The Colonels' dictatorship, Metapolitefsi and Europe (1967-today)"
+      {
+       "el": "Μεγάλη Ελλάδα",
+       "tr": "Büyük Yunanistan (Magna Graecia)",
+       "en": "Magna Graecia (Greater Greece)"
       },
-      "icon": "🇪🇺",
-      "summary": {
-        "tr": "Papadopoulos cuntası, Panagoulis, Politeknik ayaklanması, Kıbrıs 1974, demokrasinin yeniden kurulması, AET üyeliği ve 2015.",
-        "en": "The Papadopoulos junta, Panagoulis, the Polytechnic uprising, Cyprus 1974, the restoration of democracy, EEC membership and 2015."
-      },
-      "blocks": [
-        {
-          "type": "timeline",
-          "items": [
-            { "date": "21.04.1967", "text": { "tr": "Albaylar darbesi; diktatör **Georgios Papadopoulos**.", "en": "The Colonels' coup; dictator **Georgios Papadopoulos**." } },
-            { "date": "1968", "text": { "tr": "**Alekos Panagoulis** diktatör Papadopoulos'a **suikast girişiminde** bulundu.", "en": "**Alekos Panagoulis** made an **assassination attempt** on the dictator Papadopoulos." } },
-            { "date": "17.11.1973", "text": { "tr": "Atina'da **Politeknik öğrenci ayaklanması** cuntaya karşı; tanklarla bastırıldı.", "en": "The **student uprising at the Polytechnic** in Athens against the junta; crushed with tanks." } },
-            { "date": "20.07.1974", "text": { "tr": "Atina cuntasının Makarios'a karşı darbesinin ardından **Kıbrıs'a Türk istilası**.", "en": "After the Athens junta's coup against Makarios, **the Turkish invasion of Cyprus**." } },
-            { "date": "07.1974", "text": { "tr": "Diktatörlük çöktü; **Konstantinos Karamanlis** sürgünden döndü; Yunanistan'da **demokrasi yeniden kuruldu**. Bu andan itibaren olan döneme **Metapolitefsi** denir.", "en": "The dictatorship fell; **Konstantinos Karamanlis** returned from exile; **democracy was restored** in Greece. The period from then on is called the **Metapolitefsi**." } },
-            { "date": "12.1974", "text": { "tr": "Halk oylamasıyla monarşi kaldırıldı.", "en": "A referendum abolished the monarchy." } },
-            { "date": "1981", "text": { "tr": "Yunanistan **AET**'ye (bugünkü Avrupa Birliği) üye oldu. Andreas Papandreou (PASOK) başbakan.", "en": "Greece joined the **EEC** (today's European Union). Andreas Papandreou (PASOK) prime minister." } },
-            { "date": "2002", "text": { "tr": "Avro (euro) kullanılmaya başlandı.", "en": "The euro came into use." } },
-            { "date": "2015", "text": { "tr": "**Aleksis Tsipras** başbakan oldu (borç krizi yılları).", "en": "**Alexis Tsipras** became prime minister (years of the debt crisis)." } }
-          ]
-        },
-        {
-          "type": "list",
-          "items": [
-            { "tr": "Diğer önemli isimler: **Konstantinos Mitsotakis** (başbakan 1990-1993), **Evangelos Averof** (Yeni Demokrasi politikacısı) — bunlar fotoğraflı sorularda yanlış seçenek olarak çıkar.", "en": "Other important names: **Konstantinos Mitsotakis** (prime minister 1990-1993), **Evangelos Averoff** (New Democracy politician) — they appear as wrong options in picture questions." },
-            { "tr": "Eşleştirme: **Aleksis Tsipras ↔ 2015**.", "en": "Matching: **Alexis Tsipras ↔ 2015**." }
-          ]
-        },
-        {
-          "type": "tip",
-          "text": {
-            "tr": "Fotoğraflı soru: **Kasım 1973 Politeknik ayaklanması**. Kıbrıs istilası = **20 Temmuz 1974**. Cuntanın düşüşünden sonraki dönem = **Metapolitefsi**; 1974'te **demokrasi** yeniden kuruldu.",
-            "en": "Picture question: **the Polytechnic uprising of November 1973**. Invasion of Cyprus = **20 July 1974**. The period after the junta fell = **Metapolitefsi**; in 1974 **democracy** was restored."
-          }
-        },
-        {
-          "type": "terms",
-          "items": [
-            { "el": "Χούντα των Συνταγματαρχών", "tr": "Albaylar Cuntası", "en": "Colonels' Junta" },
-            { "el": "Παπαδόπουλος", "tr": "Papadopoulos", "en": "Papadopoulos" },
-            { "el": "Αλέκος Παναγούλης", "tr": "Alekos Panagoulis", "en": "Alekos Panagoulis" },
-            { "el": "Πολυτεχνείο", "tr": "Politeknik", "en": "Polytechnic" },
-            { "el": "τουρκική εισβολή στην Κύπρο", "tr": "Kıbrıs'a Türk istilası", "en": "Turkish invasion of Cyprus" },
-            { "el": "Μεταπολίτευση", "tr": "Metapolitefsi (Rejim Değişikliği)", "en": "Metapolitefsi (regime change)" },
-            { "el": "Δημοκρατία", "tr": "Demokrasi", "en": "Democracy" },
-            { "el": "ΕΟΚ", "tr": "AET", "en": "EEC" },
-            { "el": "Κωνσταντίνος Μητσοτάκης", "tr": "Konstantinos Mitsotakis", "en": "Konstantinos Mitsotakis" },
-            { "el": "Αλέξης Τσίπρας", "tr": "Aleksis Tsipras", "en": "Alexis Tsipras" }
-          ]
-        }
-      ],
-      "questions": ["his-9", "his-31", "his-33", "his-45", "his-49", "his-52", "his-60", "his-67", "his-68"]
+      {
+       "el": "Συρακούσες",
+       "tr": "Siraküza",
+       "en": "Syracuse"
+      }
+     ]
     }
-  ]
+   ],
+   "questions": [
+    "his-30",
+    "his-65",
+    "his-66",
+    "his-68",
+    "his-70",
+    "his-72",
+    "his-74",
+    "his-75",
+    "his-76",
+    "his-79"
+   ]
+  },
+  {
+   "id": "his-classical-athens",
+   "title": {
+    "el": "Περσικοί Πόλεμοι, Χρυσός Αιώνας και Πελοποννησιακός Πόλεμος",
+    "tr": "Pers Savaşları, Altın Çağ ve Peloponez Savaşı",
+    "en": "Persian Wars, Golden Age and Peloponnesian War"
+   },
+   "icon": "🛡️",
+   "summary": {
+    "el": "Από τον Μαραθώνα και τις Θερμοπύλες στον Χρυσό Αιώνα του Περικλή, τον Πελοποννησιακό Πόλεμο και τον Σωκράτη.",
+    "tr": "Maraton ve Termopylai'den Perikles'in Altın Çağı'na, Peloponez Savaşı'na ve Sokrates'e.",
+    "en": "From Marathon and Thermopylae to the Golden Age of Pericles, the Peloponnesian War and Socrates."
+   },
+   "blocks": [
+    {
+     "type": "timeline",
+     "items": [
+      {
+       "date": "502–449 π.Χ.",
+       "text": {
+        "el": "**Περσικοί Πόλεμοι** (οι χρονολογίες που χρησιμοποιεί η τράπεζα θεμάτων): οι ελληνικές πόλεις πολέμησαν την Περσική Αυτοκρατορία.",
+        "tr": "**Pers Savaşları** (sınav bankasındaki tarih aralığı): Yunan şehirleri Pers İmparatorluğu'na karşı savaştı.",
+        "en": "**Persian Wars** (the dates used in the question bank): the Greek cities fought the Persian Empire."
+       }
+      },
+      {
+       "date": "490 π.Χ.",
+       "text": {
+        "el": "**Μάχη του Μαραθώνα**: οι **Αθηναίοι και οι Πλαταιείς** νίκησαν τους Πέρσες.",
+        "tr": "**Maraton Muharebesi**: **Atinalılar ve Plataialılar** Persleri yendi.",
+        "en": "**Battle of Marathon**: the **Athenians and Plataeans** defeated the Persians."
+       }
+      },
+      {
+       "date": "480 π.Χ.",
+       "text": {
+        "el": "**Θερμοπύλες**: ο βασιλιάς των Σπαρτιατών **Λεωνίδας** απάντησε στον Πέρση βασιλιά **Ξέρξη**, που ζητούσε από τους Έλληνες να παραδώσουν τα όπλα τους, με το «**Μολών λαβέ**» (έλα να τα πάρεις). Την ίδια χρονιά: η ναυμαχία της Σαλαμίνας (Θεμιστοκλής).",
+        "tr": "**Termopylai**: Sparta kralı **Leonidas**, silahlarını teslim etmelerini isteyen Pers kralı **Kserkses**'e «**Molon labe**» (gel de al) diye cevap verdi. Aynı yıl Salamis deniz muharebesi (Themistokles).",
+        "en": "**Thermopylae**: the Spartan king **Leonidas** answered the Persian king **Xerxes**, who demanded that the Greeks surrender their arms, with “**Molon labe**” (come and take them). Same year: the naval battle of Salamis (Themistocles)."
+       }
+      },
+      {
+       "date": "5ος αι. π.Χ.",
+       "text": {
+        "el": "**Χρυσός Αιώνας**: επί Περικλή άνθισε η Δημοκρατία στην Αθήνα, άκμασαν τα γράμματα και οι τέχνες και έγιναν τα μεγάλα έργα στην **Ακρόπολη** (ο Παρθενώνας).",
+        "tr": "**Altın Çağ**: Perikles döneminde Atina'da demokrasi gelişti, edebiyat ve sanatlar doruğa ulaştı, **Akropolis**'teki büyük eserler (Parthenon) yapıldı.",
+        "en": "**Golden Age**: under Pericles democracy flourished in Athens, letters and the arts peaked, and the great works on the **Acropolis** (the Parthenon) were built."
+       }
+      },
+      {
+       "date": "431–404 π.Χ.",
+       "text": {
+        "el": "**Πελοποννησιακός Πόλεμος**: ο μεγάλος πόλεμος ανάμεσα στην Αθήνα και τη Σπάρτη (στην αρχαιότητα, όχι στη βυζαντινή εποχή). Νίκησε η Σπάρτη.",
+        "tr": "**Peloponez Savaşı**: Atina ile Sparta arasındaki büyük savaş (antik çağda, Bizans döneminde değil). Sparta kazandı.",
+        "en": "**Peloponnesian War**: the great war between Athens and Sparta (in antiquity, not in the Byzantine era). Sparta won."
+       }
+      },
+      {
+       "date": "404 π.Χ.",
+       "text": {
+        "el": "Μετά τον πόλεμο επιβλήθηκε στην Αθήνα μια κυβέρνηση **30 ολιγαρχικών**: οι **Τριάκοντα Τύραννοι** (όχι 40!).",
+        "tr": "Savaştan sonra Atina'ya **30 oligarktan** oluşan bir yönetim dayatıldı: **Otuz Tiran** (40 değil!).",
+        "en": "After the war a government of **30 oligarchs** was imposed on Athens: the **Thirty Tyrants** (not 40!)."
+       }
+      },
+      {
+       "date": "399 π.Χ.",
+       "text": {
+        "el": "Ο φιλόσοφος **Σωκράτης** καταδικάστηκε σε θάνατο και πέθανε πίνοντας το **κώνειο**.",
+        "tr": "Filozof **Sokrates** ölüme mahkûm edildi ve **baldıran zehri** (κώνειο) içerek öldü.",
+        "en": "The philosopher **Socrates** was sentenced to death and died by drinking **hemlock** (κώνειο)."
+       }
+      }
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "**Ο δίκαιος Αριστείδης**: Αθηναίος πολιτικός, **πολιτικός αντίπαλος του Θεμιστοκλή**.",
+       "tr": "**Adil Aristeides**: Atinalı devlet adamı, **Themistokles'in siyasi rakibi**.",
+       "en": "**Aristides the Just**: Athenian statesman, **political opponent of Themistocles**."
+      },
+      {
+       "el": "**Περικλής**: ο ισχυρότερος πολιτικός άνδρας της Αθήνας στον Χρυσό Αιώνα.",
+       "tr": "**Perikles**: Altın Çağ'da Atina'nın en güçlü siyasetçisi.",
+       "en": "**Pericles**: the most powerful statesman of Athens in the Golden Age."
+      },
+      {
+       "el": "**Ηρόδοτος**: «**ο πατέρας της ιστορίας**» (έγραψε για τους Περσικούς Πολέμους). Ο Θουκυδίδης έγραψε για τον Πελοποννησιακό Πόλεμο.",
+       "tr": "**Herodotos**: «**tarihin babası**» (Pers Savaşları'nı yazdı). Thukydides ise Peloponez Savaşı'nı yazdı.",
+       "en": "**Herodotus**: “**the father of history**” (wrote about the Persian Wars). Thucydides wrote about the Peloponnesian War."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "Τα **Γλυπτά του Παρθενώνα** ανήκουν στην **αρχαία Αθήνα** του Χρυσού Αιώνα. Και ο **ναός του Ποσειδώνα στο Σούνιο** κτίστηκε από τους Αθηναίους, όχι από τους Σπαρτιάτες.",
+      "tr": "**Parthenon heykelleri** Altın Çağ'daki **antik Atina**'ya aittir. **Sounion'daki Poseidon Tapınağı** da Atinalılar tarafından yapılmıştır, Spartalılar tarafından değil.",
+      "en": "The **Parthenon Sculptures** belong to **ancient Athens** of the Golden Age. The **Temple of Poseidon at Sounion** was also built by the Athenians, not by the Spartans."
+     }
+    },
+    {
+     "type": "map",
+     "places": [
+      {
+       "name": {
+        "el": "Μαραθώνας",
+        "tr": "Maraton",
+        "en": "Marathon"
+       },
+       "lat": 38.15,
+       "lon": 23.96
+      },
+      {
+       "name": {
+        "el": "Θερμοπύλες",
+        "tr": "Termopylai",
+        "en": "Thermopylae"
+       },
+       "lat": 38.8,
+       "lon": 22.53
+      },
+      {
+       "name": {
+        "el": "Ακρόπολη",
+        "tr": "Akropolis",
+        "en": "Acropolis"
+       },
+       "lat": 37.97,
+       "lon": 23.73
+      },
+      {
+       "name": {
+        "el": "Σούνιο",
+        "tr": "Sounion",
+        "en": "Sounion"
+       },
+       "lat": 37.65,
+       "lon": 24.02
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Λάθος προτάσεις που πρέπει να προσέξετε: «40 τύραννοι» → σωστό είναι 30· «ο Πελοποννησιακός Πόλεμος ήταν βυζαντινός» → ήταν στην αρχαιότητα· «ο ναός του Σουνίου κτίστηκε από τους Σπαρτιάτες» → από τους Αθηναίους.",
+      "tr": "Dikkat edilecek yanlış ifadeler: «40 Tiran» → doğrusu 30; «Peloponez Savaşı Bizans döneminde» → antik çağda; «Sounion tapınağını Spartalılar yaptı» → Atinalılar.",
+      "en": "False statements to watch for: “40 Tyrants” → correct is 30; “the Peloponnesian War was Byzantine” → it was ancient; “Sounion temple built by Spartans” → by Athenians."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Περσικοί Πόλεμοι",
+       "tr": "Pers Savaşları",
+       "en": "Persian Wars"
+      },
+      {
+       "el": "Μάχη του Μαραθώνα",
+       "tr": "Maraton Muharebesi",
+       "en": "Battle of Marathon"
+      },
+      {
+       "el": "Μολών λαβέ",
+       "tr": "Gel de al",
+       "en": "Come and take them"
+      },
+      {
+       "el": "Χρυσός Αιώνας",
+       "tr": "Altın Çağ",
+       "en": "Golden Age"
+      },
+      {
+       "el": "Γλυπτά του Παρθενώνα",
+       "tr": "Parthenon heykelleri",
+       "en": "Parthenon Sculptures"
+      },
+      {
+       "el": "Πελοποννησιακός Πόλεμος",
+       "tr": "Peloponez Savaşı",
+       "en": "Peloponnesian War"
+      },
+      {
+       "el": "Δίκαιος Αριστείδης",
+       "tr": "Adil Aristeides",
+       "en": "Aristides the Just"
+      },
+      {
+       "el": "Θεμιστοκλής",
+       "tr": "Themistokles",
+       "en": "Themistocles"
+      },
+      {
+       "el": "Περικλής",
+       "tr": "Perikles",
+       "en": "Pericles"
+      },
+      {
+       "el": "Ηρόδοτος",
+       "tr": "Herodotos",
+       "en": "Herodotus"
+      },
+      {
+       "el": "Σωκράτης",
+       "tr": "Sokrates",
+       "en": "Socrates"
+      },
+      {
+       "el": "κώνειο",
+       "tr": "baldıran zehri",
+       "en": "hemlock"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "his-18",
+    "his-29",
+    "his-56",
+    "his-59",
+    "his-62",
+    "his-67",
+    "his-71",
+    "his-72",
+    "his-73",
+    "his-78",
+    "his-79"
+   ]
+  },
+  {
+   "id": "his-macedonia-hellenistic",
+   "title": {
+    "el": "Η αρχαία Μακεδονία, ο Μέγας Αλέξανδρος και τα ελληνιστικά βασίλεια",
+    "tr": "Antik Makedonya, Büyük İskender ve Helenistik krallıklar",
+    "en": "Ancient Macedonia, Alexander the Great and the Hellenistic kingdoms"
+   },
+   "icon": "🐎",
+   "summary": {
+    "el": "Ο Φίλιππος Β΄ ένωσε τις πόλεις-κράτη· ο Μέγας Αλέξανδρος δημιούργησε μια αυτοκρατορία· μετά τον θάνατό του προέκυψαν τα ελληνιστικά βασίλεια.",
+    "tr": "II. Filip şehir devletlerini birleştirdi; Büyük İskender bir imparatorluk kurdu; ölümünden sonra Helenistik krallıklar doğdu.",
+    "en": "Philip II united the city-states; Alexander the Great built an empire; after his death the Hellenistic kingdoms arose."
+   },
+   "blocks": [
+    {
+     "type": "timeline",
+     "items": [
+      {
+       "date": "4ος αι. π.Χ.",
+       "text": {
+        "el": "**Πανελλήνια ιδέα**: η ιδέα της πολιτικής ένωσης των Ελλήνων και του κοινού πολέμου κατά των βαρβάρων (Περσών).",
+        "tr": "**Panhelen idea**: Yunanların siyasi birliği ve barbarlara (Perslere) karşı ortak savaş fikri.",
+        "en": "**Panhellenic idea**: the idea of the political union of the Greeks and a common war against the barbarians (Persians)."
+       }
+      },
+      {
+       "date": "338 π.Χ.",
+       "text": {
+        "el": "Ο βασιλιάς της Μακεδονίας **Φίλιππος Β΄** υπέταξε και ένωσε τις υπόλοιπες αρχαιοελληνικές πόλεις-κράτη.",
+        "tr": "Makedonya kralı **II. Filip**, diğer antik Yunan şehir devletlerini boyunduruğu altına alıp birleştirdi.",
+        "en": "King **Philip II** of Macedonia subjugated and united the other ancient Greek city-states."
+       }
+      },
+      {
+       "date": "336–323 π.Χ.",
+       "text": {
+        "el": "Βασιλεία του **Μεγάλου Αλεξάνδρου**: κατέκτησε την Περσική Αυτοκρατορία και δημιούργησε μια αυτοκρατορία από την Αίγυπτο μέχρι την Ινδία.",
+        "tr": "**Büyük İskender**'in hükümdarlığı: Pers İmparatorluğu'nu fethetti, Mısır'dan Hindistan'a uzanan bir imparatorluk kurdu.",
+        "en": "Reign of **Alexander the Great**: he conquered the Persian Empire and built an empire from Egypt to India."
+       }
+      },
+      {
+       "date": "323 π.Χ.",
+       "text": {
+        "el": "Θάνατος του Αλεξάνδρου· η αυτοκρατορία του διασπάστηκε → τα **ελληνιστικά βασίλεια** (π.χ. οι Πτολεμαίοι στην Αίγυπτο, οι Σελευκίδες στην Ασία, η Μακεδονία).",
+        "tr": "İskender'in ölümü; imparatorluğu bölündü → **Helenistik krallıklar** (ör. Mısır'da Ptolemaioslar, Asya'da Selevkoslar, Makedonya).",
+        "en": "Death of Alexander; his empire broke up → the **Hellenistic kingdoms** (e.g. the Ptolemies in Egypt, the Seleucids in Asia, Macedonia)."
+       }
+      }
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Δάσκαλος του Αλεξάνδρου ήταν ο φιλόσοφος **Αριστοτέλης**.",
+       "tr": "İskender'in öğretmeni filozof **Aristoteles**'ti.",
+       "en": "Alexander's teacher was the philosopher **Aristotle**."
+      },
+      {
+       "el": "Στόχος της πολιτικής του: όλοι μέσα στην αυτοκρατορία του, ανεξαρτήτως έθνους, **να μην αισθάνονται υποταγμένοι**.",
+       "tr": "Politikasının amacı: imparatorluğundaki herkesin, hangi ulustan olursa olsun, **kendini boyun eğdirilmiş hissetmemesi**.",
+       "en": "The aim of his policy: that everyone in his empire, of whatever nation, **should not feel subjugated**."
+      },
+      {
+       "el": "Ο Αλέξανδρος **απέκτησε παιδιά** (π.χ. τον γιο του Αλέξανδρο Δ΄ από τη Ρωξάνη). Η πρόταση «δεν απέκτησε ποτέ παιδιά» είναι λάθος.",
+       "tr": "İskender'in **çocukları oldu** (ör. Roksana'dan olan oğlu IV. İskender). «Hiç çocuğu olmadı» ifadesi yanlıştır.",
+       "en": "Alexander **did have children** (e.g. his son Alexander IV by Roxana). “He never had children” is false."
+      },
+      {
+       "el": "**Σάρισα**: το πολύ μακρύ δόρυ που χρησιμοποιούσε η μακεδονική **φάλαγγα**.",
+       "tr": "**Sarissa**: Makedon **falanksının** kullandığı çok uzun mızrak.",
+       "en": "**Sarissa**: the very long spear used by the Macedonian **phalanx**."
+      },
+      {
+       "el": "Πρωτεύουσα της αρχαίας Μακεδονίας ήταν οι **Αιγές (σημερινή Βεργίνα)** και αργότερα η **Πέλλα** — όχι η Θήβα. Το Ανάκτορο της Βεργίνας είναι αρχαίο μακεδονικό, όχι βυζαντινό.",
+       "tr": "Antik Makedonya'nın başkenti **Aigai (bugünkü Vergina)**, sonra **Pella**'ydı; Teb (Thebes) değil. Vergina Sarayı antik Makedon eseridir, Bizans eseri değil.",
+       "en": "The capital of ancient Macedonia was **Aigai (today's Vergina)** and later **Pella** — not Thebes. The Palace of Vergina is ancient Macedonian, not Byzantine."
+      }
+     ]
+    },
+    {
+     "type": "map",
+     "places": [
+      {
+       "name": {
+        "el": "Βεργίνα",
+        "tr": "Vergina",
+        "en": "Vergina"
+       },
+       "lat": 40.49,
+       "lon": 22.32
+      },
+      {
+       "name": {
+        "el": "Πέλλα",
+        "tr": "Pella",
+        "en": "Pella"
+       },
+       "lat": 40.76,
+       "lon": 22.52
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Ερώτηση με εικόνα: μπορεί να εμφανιστεί πορτρέτο του Μεγάλου Αλεξάνδρου — στις επιλογές υπάρχουν επίσης ο Μέγας Κωνσταντίνος, ο Ναπολέων και ο Περικλής. Η **Αυτοκρατορία της Τραπεζούντας** δεν κατακτήθηκε από τον Αλέξανδρο· ήταν **βυζαντινό** κράτος που ιδρύθηκε μετά το 1204.",
+      "tr": "Fotoğraflı soru: Büyük İskender'in portresi gösterilebilir — seçenekler arasında Büyük Konstantin, Napolyon ve Perikles de var. **Trabzon İmparatorluğu** İskender'in fethettiği bir devlet değil, 1204'ten sonra kurulan bir **Bizans** devletidir.",
+      "en": "Picture question: a portrait of Alexander the Great may be shown — the options also include Constantine the Great, Napoleon and Pericles. The **Empire of Trebizond** was not conquered by Alexander; it was a **Byzantine** state founded after 1204."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Φίλιππος Β΄",
+       "tr": "II. Filip",
+       "en": "Philip II"
+      },
+      {
+       "el": "Μέγας Αλέξανδρος",
+       "tr": "Büyük İskender",
+       "en": "Alexander the Great"
+      },
+      {
+       "el": "Αριστοτέλης",
+       "tr": "Aristoteles",
+       "en": "Aristotle"
+      },
+      {
+       "el": "Σάρισα",
+       "tr": "sarissa (uzun mızrak)",
+       "en": "sarissa (long spear)"
+      },
+      {
+       "el": "μακεδονική φάλαγγα",
+       "tr": "Makedon falanksı",
+       "en": "Macedonian phalanx"
+      },
+      {
+       "el": "Ελληνιστικά βασίλεια",
+       "tr": "Helenistik krallıklar",
+       "en": "Hellenistic kingdoms"
+      },
+      {
+       "el": "Πανελλήνια ιδέα",
+       "tr": "Panhelen idea",
+       "en": "Panhellenic idea"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "his-36",
+    "his-46",
+    "his-61",
+    "his-71",
+    "his-73",
+    "his-74",
+    "his-75",
+    "his-77",
+    "his-78",
+    "his-79"
+   ]
+  },
+  {
+   "id": "his-byzantium",
+   "title": {
+    "el": "Η Βυζαντινή Αυτοκρατορία (330-1453)",
+    "tr": "Bizans İmparatorluğu (330-1453)",
+    "en": "The Byzantine Empire (330-1453)"
+   },
+   "icon": "☦️",
+   "summary": {
+    "el": "Το Ανατολικό τμήμα της Ρωμαϊκής Αυτοκρατορίας: Κωνσταντινούπολη, Ιουστινιανός, Αγία Σοφία, Ματζικέρτ, Δ΄ Σταυροφορία και 1453.",
+    "tr": "Roma İmparatorluğu'nun doğu kısmı: Konstantinopolis, Justinianos, Ayasofya, Malazgirt, Dördüncü Haçlı Seferi ve 1453.",
+    "en": "The eastern part of the Roman Empire: Constantinople, Justinian, Hagia Sophia, Manzikert, the Fourth Crusade and 1453."
+   },
+   "blocks": [
+    {
+     "type": "p",
+     "text": {
+      "el": "**Η Βυζαντινή Αυτοκρατορία ήταν το Ανατολικό τμήμα της Ρωμαϊκής Αυτοκρατορίας.** Πρωτεύουσά της ήταν η **Κωνσταντινούπολη**. Η Βυζαντινή περίοδος διαρκεί από το **330 έως το 1453 μ.Χ.**",
+      "tr": "**Bizans İmparatorluğu, Roma İmparatorluğu'nun Doğu kısmıydı.** Başkenti **Konstantinopolis**'ti. Bizans dönemi **MS 330–1453** yılları arasıdır.",
+      "en": "**The Byzantine Empire was the Eastern part of the Roman Empire.** Its capital was **Constantinople**. The Byzantine period runs **AD 330–1453**."
+     }
+    },
+    {
+     "type": "timeline",
+     "items": [
+      {
+       "date": "330",
+       "text": {
+        "el": "Ο **Μέγας Κωνσταντίνος** μετέφερε την πρωτεύουσα στην Κωνσταντινούπολη: αρχή της Βυζαντινής περιόδου.",
+        "tr": "**Büyük Konstantin** başkenti Konstantinopolis'e taşıdı: Bizans döneminin başlangıcı.",
+        "en": "**Constantine the Great** moved the capital to Constantinople: start of the Byzantine period."
+       }
+      },
+      {
+       "date": "532",
+       "text": {
+        "el": "**Στάση του Νίκα**: εξέγερση εναντίον του **Ιουστινιανού Α΄** στην Κωνσταντινούπολη, που ξεκίνησε από σύγκρουση οπαδών ομάδων στο ιπποδρόμιο.",
+        "tr": "**Nika İsyanı**: Konstantinopolis'te **I. Justinianos**'a karşı ayaklanma; hipodromdaki takım taraftarlarının çatışmasıyla başladı.",
+        "en": "**Nika riot**: uprising against **Justinian I** in Constantinople, which began with a clash of team supporters in the hippodrome."
+       }
+      },
+      {
+       "date": "537",
+       "text": {
+        "el": "Επί Ιουστινιανού ολοκληρώθηκε η **Αγία Σοφία** — το πιο γνωστό αρχιτεκτονικό δημιούργημα της Βυζαντινής εποχής.",
+        "tr": "Justinianos döneminde **Ayasofya** tamamlandı — Bizans döneminin en ünlü mimari eseri.",
+        "en": "Under Justinian **Hagia Sophia** was completed — the most famous architectural work of the Byzantine era."
+       }
+      },
+      {
+       "date": "7ος αι.",
+       "text": {
+        "el": "**Υγρό πυρ**: το μυστικό όπλο του βυζαντινού ναυτικού, που έκαιγε ακόμη και πάνω στο νερό.",
+        "tr": "**Sıvı ateş (Rum ateşi)**: Bizans donanmasının denizde bile yanan gizli silahı.",
+        "en": "**Liquid fire (Greek fire)**: the Byzantine navy's secret weapon that burned even on water."
+       }
+      },
+      {
+       "date": "9ος αι.",
+       "text": {
+        "el": "Οι αδελφοί **Κύριλλος και Μεθόδιος**, από τη **Θεσσαλονίκη**, οι «εκχριστιανιστές των Σλάβων».",
+        "tr": "**Selanikli** kardeşler **Kiril ve Metodiy**, «Slavları Hristiyanlaştıranlar».",
+        "en": "The brothers **Cyril and Methodius**, from **Thessaloniki**, the “Christianisers of the Slavs”."
+       }
+      },
+      {
+       "date": "1071",
+       "text": {
+        "el": "**Μάχη στο Ματζικέρτ**: οι Σελτζούκοι νίκησαν τον στρατό του αυτοκράτορα **Ρωμανού Δ΄ Διογένη**.",
+        "tr": "**Malazgirt Muharebesi**: Selçuklular, imparator **IV. Romanos Diogenes**'in ordusunu yendi.",
+        "en": "**Battle of Manzikert**: the Seljuks defeated the army of Emperor **Romanos IV Diogenes**."
+       }
+      },
+      {
+       "date": "1204",
+       "text": {
+        "el": "Κατά τη **Δ΄ Σταυροφορία** οι Σταυροφόροι κατέλαβαν την Κωνσταντινούπολη. Προέκυψαν βυζαντινά κράτη-διάδοχοι: η Αυτοκρατορία της Νίκαιας, το Δεσποτάτο της Ηπείρου, η **Αυτοκρατορία της Τραπεζούντας**.",
+        "tr": "**Dördüncü Haçlı Seferi**'nde Haçlılar Konstantinopolis'i ele geçirdi. Bizans devletleri kuruldu: İznik İmparatorluğu, Epir Despotluğu, **Trabzon İmparatorluğu**.",
+        "en": "In the **Fourth Crusade** the Crusaders captured Constantinople. Byzantine successor states arose: the Empire of Nicaea, the Despotate of Epirus, the **Empire of Trebizond**."
+       }
+      },
+      {
+       "date": "29.05.1453",
+       "text": {
+        "el": "**Η Άλωση της Κωνσταντινούπολης από τους Οθωμανούς**. Ο τελευταίος αυτοκράτορας, **Κωνσταντίνος ΙΑ΄ Παλαιολόγος**, σκοτώθηκε πολεμώντας.",
+        "tr": "**Konstantinopolis'in Osmanlılar tarafından ele geçirilmesi (Άλωση)**. Son imparator **XI. Konstantinos Palaiologos** savaşarak öldü.",
+        "en": "**The Fall (Άλωση) of Constantinople to the Ottomans**. The last emperor, **Constantine XI Palaiologos**, died fighting."
+       }
+      }
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Ο **Ιουστινιανός** ήταν ένας από τους σπουδαιότερους αυτοκράτορες του Βυζαντίου (Αγία Σοφία, κωδικοποίηση των νόμων).",
+       "tr": "**Justinianos** Bizans'ın en önemli imparatorlarından biridir (Ayasofya, hukuk derlemesi).",
+       "en": "**Justinian** was one of the greatest Byzantine emperors (Hagia Sophia, codification of law)."
+      },
+      {
+       "el": "**Ακρίτες**: φύλακες στα βυζαντινά σύνορα («άκρα»).",
+       "tr": "**Akritler**: Bizans sınırlarındaki («uçlar», άκρα) muhafızlar.",
+       "en": "**Akritai**: guards on the Byzantine frontiers (“akra”)."
+      },
+      {
+       "el": "**Δεν υπήρξε ποτέ Δεσποτάτο της Κρήτης** (δεσποτάτα υπήρχαν π.χ. στην Ήπειρο και στον Μοριά).",
+       "tr": "**Hiçbir zaman bir Girit Despotluğu olmadı** (despotluklar örneğin Epir'de ve Mora'da vardı).",
+       "en": "**There was never a Despotate of Crete** (despotates existed e.g. in Epirus and the Morea)."
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Οι Σταυροφόροι κατέλαβαν την Κωνσταντινούπολη κατά τη **Δ΄** Σταυροφορία (1204)· οι Οθωμανοί στις **29 Μαΐου 1453**. Κωνσταντίνος Παλαιολόγος ↔ 1453.",
+      "tr": "Haçlılar Konstantinopolis'i **Dördüncü** Haçlı Seferi'nde (1204), Osmanlılar ise **29 Mayıs 1453**'te aldı. Konstantinos Palaiologos ↔ 1453.",
+      "en": "The Crusaders took Constantinople in the **Fourth** Crusade (1204); the Ottomans on **29 May 1453**. Constantine Palaiologos ↔ 1453."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Βυζαντινή Αυτοκρατορία",
+       "tr": "Bizans İmparatorluğu",
+       "en": "Byzantine Empire"
+      },
+      {
+       "el": "Βυζαντινή περίοδος",
+       "tr": "Bizans dönemi",
+       "en": "Byzantine period"
+      },
+      {
+       "el": "Κωνσταντινούπολη",
+       "tr": "Konstantinopolis",
+       "en": "Constantinople"
+      },
+      {
+       "el": "Μέγας Κωνσταντίνος",
+       "tr": "Büyük Konstantin",
+       "en": "Constantine the Great"
+      },
+      {
+       "el": "Ιουστινιανός",
+       "tr": "Justinianos",
+       "en": "Justinian"
+      },
+      {
+       "el": "Αγία Σοφία",
+       "tr": "Ayasofya",
+       "en": "Hagia Sophia"
+      },
+      {
+       "el": "Στάση του Νίκα",
+       "tr": "Nika İsyanı",
+       "en": "Nika riot"
+      },
+      {
+       "el": "Υγρό Πυρ",
+       "tr": "Sıvı ateş (Rum ateşi)",
+       "en": "Liquid fire (Greek fire)"
+      },
+      {
+       "el": "ακρίτες",
+       "tr": "akritler (sınır muhafızları)",
+       "en": "akritai (frontier guards)"
+      },
+      {
+       "el": "Ματζικέρτ",
+       "tr": "Malazgirt",
+       "en": "Manzikert"
+      },
+      {
+       "el": "Δ΄ Σταυροφορία",
+       "tr": "Dördüncü Haçlı Seferi",
+       "en": "Fourth Crusade"
+      },
+      {
+       "el": "Άλωση",
+       "tr": "(şehrin) ele geçirilmesi / düşüşü",
+       "en": "Fall (capture)"
+      },
+      {
+       "el": "Κωνσταντίνος ΙΑ΄ Παλαιολόγος",
+       "tr": "XI. Konstantinos Palaiologos",
+       "en": "Constantine XI Palaiologos"
+      },
+      {
+       "el": "Κύριλλος και Μεθόδιος",
+       "tr": "Kiril ve Metodiy",
+       "en": "Cyril and Methodius"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "his-1",
+    "his-19",
+    "his-20",
+    "his-36",
+    "his-56",
+    "his-59",
+    "his-60",
+    "his-61",
+    "his-62",
+    "his-63",
+    "his-68",
+    "his-71",
+    "his-73",
+    "his-74",
+    "his-75",
+    "his-78"
+   ]
+  },
+  {
+   "id": "his-ottoman-rule",
+   "title": {
+    "el": "Η Τουρκοκρατία και ο Νεοελληνικός Διαφωτισμός (1453-1821)",
+    "tr": "Osmanlı hâkimiyeti dönemi ve Modern Yunan Aydınlanması (1453-1821)",
+    "en": "Ottoman rule and the Modern Greek Enlightenment (1453-1821)"
+   },
+   "icon": "📜",
+   "summary": {
+    "el": "Φόροι, ο Πατριάρχης, οι προεστοί, οι αρματολοί, οι Φαναριώτες και οι λόγιοι του Διαφωτισμού κατά την Τουρκοκρατία.",
+    "tr": "Osmanlı hâkimiyeti altında vergiler, Patrik, kocabaşılar, armatoloslar, Fenerliler ve Aydınlanma'nın aydınları.",
+    "en": "Taxes, the Patriarch, notables, armatoloi, Phanariots and the scholars of the Enlightenment under Ottoman rule."
+   },
+   "blocks": [
+    {
+     "type": "p",
+     "text": {
+      "el": "Οι Έλληνες ονομάζουν **Τουρκοκρατία** την περίοδο από το 1453 έως την Επανάσταση του 1821. Στην **Οθωμανική Αυτοκρατορία** οι υπόδουλοι Έλληνες πλήρωναν πολλούς φόρους, όπως τον **κεφαλικό φόρο**, γνωστό και ως **χαράτσι**.",
+      "tr": "1453'ten 1821 Devrimi'ne kadar olan döneme Yunanlar **Τουρκοκρατία** (Osmanlı hâkimiyeti dönemi) der. **Osmanlı İmparatorluğu**'nda boyunduruk altındaki Yunanlar pek çok vergi öderdi; örneğin **haraç** (χαράτσι) olarak da bilinen **baş vergisi** (κεφαλικός φόρος).",
+      "en": "Greeks call the period from 1453 to the 1821 Revolution **Τουρκοκρατία** (Ottoman rule). In the **Ottoman Empire** the subjugated Greeks paid many taxes, such as the **head (poll) tax** (κεφαλικός φόρος), also known as **charatsi** (haraç)."
+     }
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Όρος",
+       "tr": "Terim",
+       "en": "Term"
+      },
+      {
+       "el": "Σημασία",
+       "tr": "Anlamı",
+       "en": "Meaning"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Πατριάρχης",
+        "tr": "Patrik",
+        "en": "Patriarch"
+       },
+       {
+        "el": "**Επικεφαλής της Ορθόδοξης Εκκλησίας**· εκτός από θρησκευτικός ηγέτης ήταν και **εκπρόσωπος** των υπόδουλων ορθόδοξων Χριστιανών.",
+        "tr": "**Ortodoks Kilisesi'nin başı**; dinî lider olmasının yanı sıra boyunduruk altındaki Ortodoks Hristiyanların **temsilcisi**.",
+        "en": "**Head of the Orthodox Church**; besides being a religious leader, also the **representative** of the subjugated Orthodox Christians."
+       }
+      ],
+      [
+       {
+        "el": "Προεστοί",
+        "tr": "Kocabaşılar (προεστοί)",
+        "en": "Notables (proestoi)"
+       },
+       {
+        "el": "Διοικούσαν τις ελληνορθόδοξες κοινότητες, συγκέντρωναν τους φόρους και τους απέδιδαν στην οθωμανική διοίκηση — **όλα τα παραπάνω**.",
+        "tr": "Rum Ortodoks toplulukları yönetir, vergileri toplar ve Osmanlı yönetimine teslim ederdi — **yukarıdakilerin hepsi**.",
+        "en": "Administered the Greek Orthodox communities, collected the taxes and handed them to the Ottoman administration — **all of the above**."
+       }
+      ],
+      [
+       {
+        "el": "Δημογέροντες",
+        "tr": "Demogerontlar",
+        "en": "Demogerontes"
+       },
+       {
+        "el": "**Κοινοτικοί Άρχοντες** (γέροντες της κοινότητας).",
+        "tr": "**Topluluk yöneticileri** (topluluk ihtiyarları).",
+        "en": "**Community leaders** (community elders)."
+       }
+      ],
+      [
+       {
+        "el": "Αρματολοί",
+        "tr": "Armatoloslar",
+        "en": "Armatoloi"
+       },
+       {
+        "el": "Ένοπλα ελληνικά σώματα των βουνών την περίοδο της Τουρκοκρατίας· η εξέταση τους αντιστοιχίζει με τους «**Ανυπότακτους στους Τούρκους**» (μαζί με τους κλέφτες). Καμία σχέση με τον Β΄ Παγκόσμιο Πόλεμο.",
+        "tr": "Osmanlı döneminin dağlardaki silahlı Yunan birlikleri; sınav bunları «**Türklere boyun eğmeyenler**» ile eşleştirir (kleftlerle birlikte). İkinci Dünya Savaşı'yla ilgisi yoktur.",
+        "en": "Armed Greek bands of the mountains in the Ottoman period; the exam matches them with “**those who did not submit to the Turks**” (together with the klephts). Nothing to do with WWII."
+       }
+      ],
+      [
+       {
+        "el": "Φαναριώτες",
+        "tr": "Fenerliler",
+        "en": "Phanariots"
+       },
+       {
+        "el": "Ελληνικές αρχοντικές οικογένειες που κατοικούσαν στη **συνοικία Φανάρι της Κωνσταντινούπολης**· ήξεραν ξένες γλώσσες, σπούδαζαν στη Δύση και κατείχαν υψηλές θέσεις στην οθωμανική διοίκηση. (Όχι στην Κάτω Ιταλία!)",
+        "tr": "**Konstantinopolis'in Fener semtinde** yaşayan soylu Yunan aileleri; yabancı dil bilir, Batı'da okur, Osmanlı yönetiminde yüksek görevler alırlardı. (Güney İtalya değil!)",
+        "en": "Noble Greek families living in the **Phanar district of Constantinople**; they knew foreign languages, studied in the West and held high posts in the Ottoman administration. (Not southern Italy!)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Η **Μάνη** και τα **Σφακιά** (Κρήτη) ήταν αυτόνομες περιοχές που πλήρωναν μόνο **φόρο υποτέλειας**.",
+       "tr": "**Mani** ve **Sfakia** (Girit) özerk bölgelerdi; yalnızca **tabiiyet vergisi** öderlerdi.",
+       "en": "**Mani** and **Sfakia** (Crete) were autonomous regions that paid only a **tribute**."
+      },
+      {
+       "el": "**Δάσκαλοι του Γένους**: οι **μορφωμένοι Έλληνες** της Τουρκοκρατίας.",
+       "tr": "**Ulusun Öğretmenleri** (Δάσκαλοι του Γένους): Osmanlı döneminin **eğitimli Yunanları**.",
+       "en": "**Teachers of the Nation** (Δάσκαλοι του Γένους): the **educated Greeks** of the Ottoman period."
+      },
+      {
+       "el": "**Οδησσός**: σημαντική **ελληνική παροικία**· εκεί ιδρύθηκε η Φιλική Εταιρεία το 1814.",
+       "tr": "**Odessa**: önemli bir **Yunan diaspora topluluğu** (παροικία); 1814'te Filiki Eteria burada kuruldu.",
+       "en": "**Odessa**: an important **Greek diaspora community** (παροικία); the Filiki Etaireia was founded there in 1814."
+      },
+      {
+       "el": "**Αλή Πασάς** ↔ **Ιωάννινα** (ισχυρός Οθωμανός ηγεμόνας της Ηπείρου).",
+       "tr": "**Ali Paşa** ↔ **Ioannina** (Epir'in güçlü Osmanlı yöneticisi).",
+       "en": "**Ali Pasha** ↔ **Ioannina** (powerful Ottoman ruler of Epirus)."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "Ο **Νεοελληνικός Διαφωτισμός** (τέλη 18ου – αρχές 19ου αιώνα) ενίσχυσε την παιδεία και την εθνική συνείδηση των Ελλήνων. Βασικές του μορφές: ο **Ρήγας Βελεστινλής (Ρήγας Φεραίος)** — συγγραφέας του επαναστατικού τραγουδιού «Θούριος», εκτελέστηκε το 1798 — και ο **Αδαμάντιος Κοραής** — ο μεγάλος λόγιος που έζησε στο Παρίσι.",
+      "tr": "**Modern Yunan Aydınlanması** (18. yüzyıl sonu – 19. yüzyıl başı) Yunanların eğitimini ve ulusal bilincini güçlendirdi. En önemli simaları: **Rigas Velestinlis (Rigas Feraios)** — özgürlük şiiri «Thourios»un yazarı, 1798'de idam edildi — ve **Adamantios Korais** — Paris'te yaşayan büyük bilgin.",
+      "en": "The **Modern Greek Enlightenment** (late 18th – early 19th century) strengthened the education and national consciousness of the Greeks. Its key figures: **Rigas Velestinlis (Rigas Feraios)** — author of the freedom song “Thourios”, executed in 1798 — and **Adamantios Korais** — the great scholar who lived in Paris."
+     }
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Ρήγας Βελεστινλής = Ρήγας Φεραίος = το ίδιο πρόσωπο: **λόγιος** (όχι στρατηγός ούτε ήρωας του 1821). Και ο Οδυσσέας Ανδρούτσος έζησε **την περίοδο της Τουρκοκρατίας** (πέθανε το 1825, πριν από τον Όθωνα).",
+      "tr": "Rigas Velestinlis = Rigas Feraios = aynı kişi: bir **aydın**dı (general ya da 1821 kahramanı değil). Odisseas Androutsos da **Osmanlı hâkimiyeti döneminde** yaşadı (1825'te, Otto'dan önce öldü).",
+      "en": "Rigas Velestinlis = Rigas Feraios = the same person: a **scholar** (not a general or a hero of 1821). Odysseas Androutsos also lived **during Ottoman rule** (he died in 1825, before Otto)."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Τουρκοκρατία",
+       "tr": "Osmanlı hâkimiyeti dönemi",
+       "en": "Ottoman rule"
+      },
+      {
+       "el": "Οθωμανική Αυτοκρατορία",
+       "tr": "Osmanlı İmparatorluğu",
+       "en": "Ottoman Empire"
+      },
+      {
+       "el": "κεφαλικός φόρος",
+       "tr": "baş vergisi",
+       "en": "head (poll) tax"
+      },
+      {
+       "el": "χαράτσι",
+       "tr": "haraç",
+       "en": "charatsi (haraç)"
+      },
+      {
+       "el": "Πατριάρχης",
+       "tr": "Patrik",
+       "en": "Patriarch"
+      },
+      {
+       "el": "προεστοί",
+       "tr": "kocabaşılar",
+       "en": "notables"
+      },
+      {
+       "el": "Δημογέροντες",
+       "tr": "Demogerontlar (topluluk ihtiyarları)",
+       "en": "Demogerontes (community elders)"
+      },
+      {
+       "el": "Αρματολοί",
+       "tr": "Armatoloslar",
+       "en": "Armatoloi"
+      },
+      {
+       "el": "Φαναριώτες",
+       "tr": "Fenerliler",
+       "en": "Phanariots"
+      },
+      {
+       "el": "Δάσκαλοι του Γένους",
+       "tr": "Ulusun Öğretmenleri",
+       "en": "Teachers of the Nation"
+      },
+      {
+       "el": "Ελληνική παροικία",
+       "tr": "Yunan diaspora topluluğu",
+       "en": "Greek diaspora community"
+      },
+      {
+       "el": "Νεοελληνικός Διαφωτισμός",
+       "tr": "Modern Yunan Aydınlanması",
+       "en": "Modern Greek Enlightenment"
+      },
+      {
+       "el": "Ρήγας Βελεστινλής / Ρήγας Φεραίος",
+       "tr": "Rigas Velestinlis / Rigas Feraios",
+       "en": "Rigas Velestinlis / Rigas Feraios"
+      },
+      {
+       "el": "Αδαμάντιος Κοραής",
+       "tr": "Adamantios Korais",
+       "en": "Adamantios Korais"
+      },
+      {
+       "el": "Αλή Πασάς",
+       "tr": "Ali Paşa",
+       "en": "Ali Pasha"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "his-7",
+    "his-22",
+    "his-24",
+    "his-27",
+    "his-56",
+    "his-57",
+    "his-58",
+    "his-63",
+    "his-64",
+    "his-70",
+    "his-72",
+    "his-76"
+   ]
+  },
+  {
+   "id": "his-revolution-1821",
+   "title": {
+    "el": "Η Ελληνική Επανάσταση του 1821",
+    "tr": "1821 Yunan Devrimi",
+    "en": "The Greek Revolution of 1821"
+   },
+   "icon": "⚔️",
+   "summary": {
+    "el": "«Ελευθερία ή Θάνατος»: από τη Μολδοβλαχία στην Τριπολιτσά, από τη Χίο στο Μεσολόγγι, ο Φιλελληνισμός και οι ήρωες της Επανάστασης.",
+    "tr": "«Özgürlük ya da Ölüm»: Eflak-Boğdan'dan Tripoliçe'ye, Sakız'dan Mesolongi'ye, Filhelenizm ve devrimin kahramanları.",
+    "en": "“Freedom or Death”: from Moldavia-Wallachia to Tripolitsa, from Chios to Missolonghi, Philhellenism and the heroes of the Revolution."
+   },
+   "blocks": [
+    {
+     "type": "timeline",
+     "items": [
+      {
+       "date": "1814",
+       "text": {
+        "el": "Η μυστική οργάνωση **Φιλική Εταιρεία** ιδρύθηκε στην Οδησσό.",
+        "tr": "Odessa'da gizli örgüt **Filiki Eteria** kuruldu.",
+        "en": "The secret society **Filiki Etaireia** was founded in Odessa."
+       }
+      },
+      {
+       "date": "02.1821",
+       "text": {
+        "el": "Ο **Αλέξανδρος Υψηλάντης** άρχισε την Ελληνική Επανάσταση από τη **Μολδοβλαχία**.",
+        "tr": "**Aleksandros İpsilantis** Yunan Devrimi'ni **Eflak-Boğdan**'dan başlattı.",
+        "en": "**Alexandros Ypsilantis** started the Greek Revolution from **Moldavia-Wallachia**."
+       }
+      },
+      {
+       "date": "25.03.1821",
+       "text": {
+        "el": "Συμβολική αρχή της Επανάστασης· σήμερα **εθνική επέτειος** (συνδέεται με τον **Παλαιών Πατρών Γερμανό**).",
+        "tr": "Devrimin sembolik başlangıç tarihi; bugün **ulusal bayram** (Eski Patras Metropoliti **Germanos** ile özdeşleşir).",
+        "en": "Symbolic start of the Revolution; today a **national holiday** (associated with **Germanos, Metropolitan of Old Patras**)."
+       }
+      },
+      {
+       "date": "04.1821",
+       "text": {
+        "el": "Στην Κωνσταντινούπολη οι Τούρκοι κρέμασαν τον **Πατριάρχη Γρηγόριο Ε΄**.",
+        "tr": "Konstantinopolis'te **Patrik V. Grigorios** Türkler tarafından asıldı.",
+        "en": "In Constantinople **Patriarch Gregory V** was hanged by the Turks."
+       }
+      },
+      {
+       "date": "04.1821",
+       "text": {
+        "el": "Ο **Αθανάσιος Διάκος** αιχμαλωτίστηκε στη **μάχη της Αλαμάνας** και εκτελέστηκε.",
+        "tr": "**Athanasios Diakos** **Alamana Muharebesi**'nde esir alındı ve idam edildi.",
+        "en": "**Athanasios Diakos** was captured at the **Battle of Alamana** and executed."
+       }
+      },
+      {
+       "date": "05.1821",
+       "text": {
+        "el": "Ο **Οδυσσέας Ανδρούτσος** αναχαίτισε τον οθωμανικό στρατό στο **Χάνι της Γραβιάς**.",
+        "tr": "**Odisseas Androutsos**, **Gravia Hanı**'nda Osmanlı ordusunu durdurdu.",
+        "en": "**Odysseas Androutsos** held off the Ottoman army at the **Inn of Gravia**."
+       }
+      },
+      {
+       "date": "1821",
+       "text": {
+        "el": "Ο **Δημήτριος Υψηλάντης** έφθασε στην Πελοπόννησο για να ηγηθεί της Επανάστασης.",
+        "tr": "**Dimitrios İpsilantis**, devrime önderlik etmek için Peloponez'e geldi.",
+        "en": "**Demetrios Ypsilantis** arrived in the Peloponnese to lead the Revolution."
+       }
+      },
+      {
+       "date": "09.1821",
+       "text": {
+        "el": "Ο **Θεόδωρος Κολοκοτρώνης** («ο γέρος του Μοριά») **απελευθέρωσε την Τριπολιτσά**.",
+        "tr": "**Theodoros Kolokotronis** («Mora'nın İhtiyarı») **Tripoliçe'yi kurtardı**.",
+        "en": "**Theodoros Kolokotronis** (“the Old Man of the Morea”) **liberated Tripolitsa**."
+       }
+      },
+      {
+       "date": "1822",
+       "text": {
+        "el": "Α΄ Εθνοσυνέλευση στην Επίδαυρο και το πρώτο σύνταγμα (**Σύνταγμα της Επιδαύρου**). Την ίδια χρονιά: η **καταστροφή της Χίου**, που **συγκίνησε πολύ την ευρωπαϊκή κοινή γνώμη** (ο γνωστός πίνακας του Ντελακρουά βρίσκεται στο Λούβρο).",
+        "tr": "Epidavros'ta Birinci Ulusal Meclis ve ilk anayasa (**Epidavros Anayasası**). Aynı yıl **Sakız'ın yıkımı**; olay **Avrupa kamuoyunu derinden etkiledi** (Delacroix'nın ünlü tablosu Louvre'dadır).",
+        "en": "First National Assembly at Epidaurus and the first constitution (**Constitution of Epidaurus**). Same year: the **destruction of Chios**, which **deeply moved European public opinion** (Delacroix's famous painting is in the Louvre)."
+       }
+      },
+      {
+       "date": "1824",
+       "text": {
+        "el": "Ο σπουδαίος Φιλέλληνας **Λόρδος Βύρωνας** πέθανε στο **Μεσολόγγι**.",
+        "tr": "Büyük filhelen **Lord Byron** **Mesolongi**'de öldü.",
+        "en": "The great Philhellene **Lord Byron** died in **Missolonghi**."
+       }
+      },
+      {
+       "date": "05.1825",
+       "text": {
+        "el": "Ο **Παπαφλέσσας** σκοτώθηκε στο **Μανιάκι**.",
+        "tr": "**Papaflessas** **Maniaki**'de öldürüldü.",
+        "en": "**Papaflessas** was killed at **Maniaki**."
+       }
+      },
+      {
+       "date": "1826",
+       "text": {
+        "el": "Πτώση και Έξοδος του Μεσολογγίου (το Ολοκαύτωμα του Μεσολογγίου).",
+        "tr": "Mesolongi'nin düşüşü ve çıkışı (Mesolongi Holokostu).",
+        "en": "Fall and Exodus of Missolonghi (the Holocaust of Missolonghi)."
+       }
+      },
+      {
+       "date": "1827",
+       "text": {
+        "el": "Ο **Γεώργιος Καραϊσκάκης** τραυματίστηκε θανάσιμα στη **μάχη του Φαλήρου**. Τον Οκτώβριο: η ναυμαχία του Ναβαρίνου.",
+        "tr": "**Georgios Karaiskakis** **Faliro Muharebesi**'nde ölümcül şekilde yaralandı. Ekim'de Navarin deniz muharebesi.",
+        "en": "**Georgios Karaiskakis** was mortally wounded at the **Battle of Phaleron**. In October: the naval battle of Navarino."
+       }
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Ήρωας",
+       "tr": "Kahraman",
+       "en": "Hero"
+      },
+      {
+       "el": "Γνωστός για",
+       "tr": "Neyle hatırlanır",
+       "en": "Remembered for"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Αθανάσιος Διάκος",
+        "tr": "Athanasios Diakos",
+        "en": "Athanasios Diakos"
+       },
+       {
+        "el": "Μάχη της Αλαμάνας",
+        "tr": "Alamana Muharebesi",
+        "en": "Battle of Alamana"
+       }
+      ],
+      [
+       {
+        "el": "Οδυσσέας Ανδρούτσος",
+        "tr": "Odisseas Androutsos",
+        "en": "Odysseas Androutsos"
+       },
+       {
+        "el": "Χάνι της Γραβιάς",
+        "tr": "Gravia Hanı",
+        "en": "Inn of Gravia"
+       }
+      ],
+      [
+       {
+        "el": "Γεώργιος Καραϊσκάκης",
+        "tr": "Georgios Karaiskakis",
+        "en": "Georgios Karaiskakis"
+       },
+       {
+        "el": "Μάχη του Φαλήρου",
+        "tr": "Faliro Muharebesi",
+        "en": "Battle of Phaleron"
+       }
+      ],
+      [
+       {
+        "el": "Θεόδωρος Κολοκοτρώνης",
+        "tr": "Theodoros Kolokotronis",
+        "en": "Theodoros Kolokotronis"
+       },
+       {
+        "el": "Απελευθέρωση της Τριπολιτσάς· «ο γέρος του Μοριά»",
+        "tr": "Tripoliçe'nin kurtarılması; «Mora'nın İhtiyarı»",
+        "en": "Liberation of Tripolitsa; “Old Man of the Morea”"
+       }
+      ],
+      [
+       {
+        "el": "Ιωάννης Μακρυγιάννης",
+        "tr": "Ioannis Makriyannis",
+        "en": "Ioannis Makriyannis"
+       },
+       {
+        "el": "Στρατηγός της Επανάστασης· γνωστός για τα περίφημα **Απομνημονεύματά** του",
+        "tr": "Devrimin generali; ünlü **Anıları** (Hatıralar) ile tanınır",
+        "en": "General of the Revolution; known for his famous **Memoirs**"
+       }
+      ],
+      [
+       {
+        "el": "Παπαφλέσσας",
+        "tr": "Papaflessas",
+        "en": "Papaflessas"
+       },
+       {
+        "el": "Σκοτώθηκε στο Μανιάκι (1825)",
+        "tr": "Maniaki'de öldü (1825)",
+        "en": "Killed at Maniaki (1825)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "Το σύνθημα της Επανάστασης ήταν «**Ελευθερία ή Θάνατος**». Το παγκόσμιο κίνημα συμπαράστασης στους Έλληνες ονομάζεται **Φιλελληνισμός**. Οι ήρωες αυτής της περιόδου είναι **ήρωες της Ελληνικής Επανάστασης**· ένας από αυτούς είναι ο Γεώργιος Καραϊσκάκης (όχι αθλητής, έμπορος ή ήρωας της Εθνικής Αντίστασης).",
+      "tr": "Devrimin sloganı «**Özgürlük ya da Ölüm**»dü. Yunanlara destek veren dünya çapındaki harekete **Filhelenizm** denir. Bu dönemin kahramanları **Yunan Devrimi'nin kahramanları**dır; Georgios Karaiskakis de bunlardan biridir (sporcu, tüccar ya da Ulusal Direniş kahramanı değil).",
+      "en": "The slogan of the Revolution was “**Freedom or Death**”. The worldwide movement of support for the Greeks is called **Philhellenism**. The heroes of this period are **heroes of the Greek Revolution**; Georgios Karaiskakis is one of them (not an athlete, merchant or hero of the National Resistance)."
+     }
+    },
+    {
+     "type": "map",
+     "places": [
+      {
+       "name": {
+        "el": "Τριπολιτσά",
+        "tr": "Tripoliçe",
+        "en": "Tripolitsa"
+       },
+       "lat": 37.51,
+       "lon": 22.37
+      },
+      {
+       "name": {
+        "el": "Αλαμάνα",
+        "tr": "Alamana",
+        "en": "Alamana"
+       },
+       "lat": 38.83,
+       "lon": 22.48
+      },
+      {
+       "name": {
+        "el": "Χάνι της Γραβιάς",
+        "tr": "Gravia Hanı",
+        "en": "Inn of Gravia"
+       },
+       "lat": 38.66,
+       "lon": 22.43
+      },
+      {
+       "name": {
+        "el": "Μεσολόγγι",
+        "tr": "Mesolongi",
+        "en": "Missolonghi"
+       },
+       "lat": 38.37,
+       "lon": 21.43
+      },
+      {
+       "name": {
+        "el": "Μανιάκι",
+        "tr": "Maniaki",
+        "en": "Maniaki"
+       },
+       "lat": 37.07,
+       "lon": 21.8
+      },
+      {
+       "name": {
+        "el": "Φάληρο",
+        "tr": "Faliro",
+        "en": "Phaleron"
+       },
+       "lat": 37.93,
+       "lon": 23.69
+      },
+      {
+       "name": {
+        "el": "Χίος",
+        "tr": "Sakız",
+        "en": "Chios"
+       },
+       "lat": 38.37,
+       "lon": 26.05
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Ερωτήσεις με εικόνα: εμφανίζονται πορτρέτα των **Αθανάσιου Διάκου, Γεωργίου Καραϊσκάκη, Οδυσσέα Ανδρούτσου** και **Ιωάννη Μακρυγιάννη** — μάθετε τα ονόματά τους και για τι είναι γνωστοί. Προσοχή: το **Σύνταγμα της Επιδαύρου είναι του 1822**· δεν είναι το σύνταγμα που παραχώρησε ο Όθωνας μετά την 3η Σεπτεμβρίου 1843. Η καταστροφή της Χίου ήταν **σφαγή**, όχι επιτυχία των Ελλήνων ούτε σεισμός.",
+      "tr": "Fotoğraflı sorular: portrelerde **Athanasios Diakos, Georgios Karaiskakis, Odisseas Androutsos** ve **Ioannis Makriyannis** sorulur — isimleri ve neyle tanındıklarını iyi bilin. Dikkat: **Epidavros Anayasası 1822**'dir; Otto'nun 3 Eylül 1843'ten sonra verdiği anayasa değildir. Sakız'ın yıkımı bir **katliamdı**, Yunan başarısı ya da deprem değil.",
+      "en": "Picture questions: portraits of **Athanasios Diakos, Georgios Karaiskakis, Odysseas Androutsos** and **Ioannis Makriyannis** appear — know their names and what they are known for. Careful: the **Constitution of Epidaurus is from 1822**; it is not the constitution Otto granted after 3 September 1843. The destruction of Chios was a **massacre**, not a Greek success or an earthquake."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Ελληνική Επανάσταση",
+       "tr": "Yunan Devrimi",
+       "en": "Greek Revolution"
+      },
+      {
+       "el": "Ελευθερία ή Θάνατος",
+       "tr": "Özgürlük ya da Ölüm",
+       "en": "Freedom or Death"
+      },
+      {
+       "el": "Αλέξανδρος Υψηλάντης",
+       "tr": "Aleksandros İpsilantis",
+       "en": "Alexandros Ypsilantis"
+      },
+      {
+       "el": "Δημήτριος Υψηλάντης",
+       "tr": "Dimitrios İpsilantis",
+       "en": "Demetrios Ypsilantis"
+      },
+      {
+       "el": "Πατριάρχης Γρηγόριος Ε΄",
+       "tr": "Patrik V. Grigorios",
+       "en": "Patriarch Gregory V"
+      },
+      {
+       "el": "Παλαιών Πατρών Γερμανός",
+       "tr": "Eski Patras Metropoliti Germanos",
+       "en": "Germanos of Old Patras"
+      },
+      {
+       "el": "Αθανάσιος Διάκος",
+       "tr": "Athanasios Diakos",
+       "en": "Athanasios Diakos"
+      },
+      {
+       "el": "Οδυσσέας Ανδρούτσος",
+       "tr": "Odisseas Androutsos",
+       "en": "Odysseas Androutsos"
+      },
+      {
+       "el": "Γεώργιος Καραϊσκάκης",
+       "tr": "Georgios Karaiskakis",
+       "en": "Georgios Karaiskakis"
+      },
+      {
+       "el": "Θεόδωρος Κολοκοτρώνης",
+       "tr": "Theodoros Kolokotronis",
+       "en": "Theodoros Kolokotronis"
+      },
+      {
+       "el": "Ιωάννης Μακρυγιάννης",
+       "tr": "Ioannis Makriyannis",
+       "en": "Ioannis Makriyannis"
+      },
+      {
+       "el": "Παπαφλέσσας",
+       "tr": "Papaflessas",
+       "en": "Papaflessas"
+      },
+      {
+       "el": "Φιλελληνισμός",
+       "tr": "Filhelenizm",
+       "en": "Philhellenism"
+      },
+      {
+       "el": "Λόρδος Βύρωνας",
+       "tr": "Lord Byron",
+       "en": "Lord Byron"
+      },
+      {
+       "el": "η καταστροφή της Χίου",
+       "tr": "Sakız'ın yıkımı",
+       "en": "the destruction of Chios"
+      },
+      {
+       "el": "Σύνταγμα της Επιδαύρου",
+       "tr": "Epidavros Anayasası",
+       "en": "Constitution of Epidaurus"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "his-8",
+    "his-15",
+    "his-16",
+    "his-27",
+    "his-35",
+    "his-41",
+    "his-42",
+    "his-43",
+    "his-44",
+    "his-54",
+    "his-59",
+    "his-61",
+    "his-62",
+    "his-64",
+    "his-67",
+    "his-69",
+    "his-75"
+   ]
+  },
+  {
+   "id": "his-modern-state",
+   "title": {
+    "el": "Το νέο ελληνικό κράτος: Καποδίστριας, Όθωνας, Γεώργιος Α΄, Τρικούπης",
+    "tr": "Yeni Yunan devleti: Kapodistrias, Otto, I. Georgios, Trikoupis",
+    "en": "The new Greek state: Kapodistrias, Otto, George I, Trikoupis"
+   },
+   "icon": "👑",
+   "summary": {
+    "el": "Η ανεξαρτησία το 1830, ο πρώτος κυβερνήτης Καποδίστριας, η Βαυαροκρατία, οι βασιλείες του Όθωνα και του Γεωργίου Α΄, ο Τρικούπης και η Μεγάλη Ιδέα.",
+    "tr": "1830 bağımsızlığı, ilk yönetici Kapodistrias, Bavyera yönetimi, Otto ve I. Georgios dönemleri, Trikoupis ve Megali Idea.",
+    "en": "Independence in 1830, the first governor Kapodistrias, the Bavarian regency, the reigns of Otto and George I, Trikoupis and the Megali Idea."
+   },
+   "blocks": [
+    {
+     "type": "timeline",
+     "items": [
+      {
+       "date": "1828",
+       "text": {
+        "el": "Ο **Ιωάννης Καποδίστριας** έφθασε ως **πρώτος κυβερνήτης** της Ελλάδας· την ίδια χρονιά ίδρυσε **το Ορφανοτροφείο στην Αίγινα**.",
+        "tr": "**Ioannis Kapodistrias**, Yunanistan'ın **ilk yöneticisi** (κυβερνήτης) olarak geldi; aynı yıl **Egina'da Yetimhane'yi** kurdu.",
+        "en": "**Ioannis Kapodistrias** arrived as **first governor** (κυβερνήτης) of Greece; the same year he founded **the Orphanage on Aegina**."
+       }
+      },
+      {
+       "date": "1830",
+       "text": {
+        "el": "Η Ελλάδα έγινε **ανεξάρτητο κράτος**: το **πρώτο ανεξάρτητο εθνικό κράτος στα Βαλκάνια**.",
+        "tr": "Yunanistan **bağımsız bir devlet** oldu: **Balkanlar'daki ilk bağımsız ulus devlet**.",
+        "en": "Greece became an **independent state**: the **first independent nation-state in the Balkans**."
+       }
+      },
+      {
+       "date": "1831",
+       "text": {
+        "el": "Ο Καποδίστριας δολοφονήθηκε στο Ναύπλιο.",
+        "tr": "Kapodistrias Nafplio'da suikasta kurban gitti.",
+        "en": "Kapodistrias was assassinated in Nafplio."
+       }
+      },
+      {
+       "date": "1833",
+       "text": {
+        "el": "Ο Βαυαρός **Βασιλιάς Όθωνας** ήρθε στην Ελλάδα (όχι το 1821!).",
+        "tr": "Bavyeralı **Kral Otto** Yunanistan'a geldi (1821'de değil!).",
+        "en": "The Bavarian **King Otto** arrived in Greece (not in 1821!)."
+       }
+      },
+      {
+       "date": "1833–1835",
+       "text": {
+        "el": "**Βαυαροκρατία**: μέχρι να ενηλικιωθεί ο Όθωνας, το κράτος το κυβερνούσαν τρεις Βαυαροί αντιβασιλείς που είχε διορίσει ο πατέρας του (**Άρμανσμπεργκ, Μάουρερ, Χάιντεκ**).",
+        "tr": "**Bavyera yönetimi** (Βαυαροκρατία): Otto reşit olana kadar devleti, babasının atadığı üç Bavyeralı naip (**Armansperg, Maurer, Heideck**) yönetti.",
+        "en": "**Bavarian rule** (Βαυαροκρατία): until Otto came of age the state was run by three Bavarian regents appointed by his father (**Armansperg, Maurer, Heideck**)."
+       }
+      },
+      {
+       "date": "03.09.1843",
+       "text": {
+        "el": "Επανάσταση· ο Όθωνας αναγκάστηκε να παραχωρήσει σύνταγμα (Σύνταγμα του 1844).",
+        "tr": "Ayaklanma; Otto anayasa vermek zorunda kaldı (1844 Anayasası).",
+        "en": "Uprising; Otto was forced to grant a constitution (Constitution of 1844)."
+       }
+      },
+      {
+       "date": "1833–1862",
+       "text": {
+        "el": "**Περίοδος διακυβέρνησης του Βασιλιά Όθωνα** (εκθρονίστηκε το 1862).",
+        "tr": "**Kral Otto'nun hükümdarlık dönemi** (1862'de devrildi).",
+        "en": "**Period of rule of King Otto** (deposed in 1862)."
+       }
+      },
+      {
+       "date": "1863–1913",
+       "text": {
+        "el": "**Περίοδος Βασιλείας Γεωργίου Α΄**. Τα Επτάνησα ενώθηκαν με την Ελλάδα το 1864 και η **Θεσσαλία** το 1881.",
+        "tr": "**I. Georgios'un krallık dönemi**. 1864'te İyon Adaları, 1881'de **Teselya** Yunanistan'a katıldı.",
+        "en": "**Reign of King George I**. The Ionian Islands joined Greece in 1864 and **Thessaly** in 1881."
+       }
+      },
+      {
+       "date": "1873",
+       "text": {
+        "el": "**Λαυρεωτικά**: η διαφορά μεταξύ της γαλλοϊταλικής εταιρείας Roux-Serpieri-Fressynet και του ελληνικού δημοσίου για τα **μεταλλεία του Λαυρίου**· οδήγησε σε **χρηματιστηριακό σκάνδαλο**.",
+        "tr": "**Lavreotika**: Fransız-İtalyan şirketi Roux-Serpieri-Fressynet ile Yunan devleti arasında **Lavrio madenleri** anlaşmazlığı; bir **borsa skandalına** yol açtı.",
+        "en": "**Lavreotika**: the dispute between the Franco-Italian company Roux-Serpieri-Fressynet and the Greek state over the **Lavrio mines**; it led to a **stock-market scandal**."
+       }
+      },
+      {
+       "date": "1893",
+       "text": {
+        "el": "Ο Πρωθυπουργός **Χαρίλαος Τρικούπης** ανακοίνωσε **την πτώχευση της Ελλάδας**. Την ίδια χρονιά άνοιξε η **διώρυγα της Κορίνθου** (έργο του Τρικούπη).",
+        "tr": "Başbakan **Charilaos Trikoupis** **Yunanistan'ın iflasını** ilan etti. Aynı yıl **Korint Kanalı** açıldı (Trikoupis'in eseri).",
+        "en": "Prime Minister **Charilaos Trikoupis** announced **the bankruptcy of Greece**. The same year the **Corinth Canal** opened (the work of Trikoupis)."
+       }
+      }
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "**Χαρίλαος Τρικούπης**: ο σημαντικότερος πρωθυπουργός του 19ου αιώνα· μεγάλα έργα εκσυγχρονισμού, όπως σιδηρόδρομοι, δρόμοι και η **διώρυγα της Κορίνθου**. Αντίπαλός του ήταν ο **Θεόδωρος Δηλιγιάννης**.",
+       "tr": "**Charilaos Trikoupis**: 19. yüzyılın en önemli başbakanı; demiryolları, yollar ve **Korint Kanalı** gibi büyük modernleşme projeleri. Rakibi **Theodoros Diligiannis**'ti.",
+       "en": "**Charilaos Trikoupis**: the most important prime minister of the 19th century; major modernisation projects such as railways, roads and the **Corinth Canal**. His rival was **Theodoros Deligiannis**."
+      },
+      {
+       "el": "**Μεγάλη Ιδέα**: η ιδεολογία που κινητοποίησε τους Έλληνες στη διάρκεια του 19ου αιώνα και **έως τη Μικρασιατική Καταστροφή (1922)**, για να απελευθερώσουν τους αλύτρωτους ομοεθνείς τους.",
+       "tr": "**Megali Idea (Büyük İdea)**: 19. yüzyıl boyunca ve **Küçük Asya Felaketi'ne (1922) kadar** Yunanları, henüz kurtarılmamış soydaşlarını özgürleştirmek için harekete geçiren ideoloji.",
+       "en": "**Megali Idea (Great Idea)**: the ideology that mobilised the Greeks during the 19th century and **up to the Asia Minor Catastrophe (1922)** to liberate their unredeemed compatriots."
+      },
+      {
+       "el": "Μετά την προσάρτηση της Θεσσαλίας, τα μεγάλα **αγροκτήματα** (τσιφλίκια) της περιοχής **αγοράστηκαν από πλούσιους Έλληνες του εξωτερικού**.",
+       "tr": "Teselya katıldıktan sonra bölgedeki büyük **çiftlikler** (τσιφλίκια) **yurt dışındaki zengin Yunanlar tarafından satın alındı**.",
+       "en": "After Thessaly's annexation its large **estates** (chiftliks) **were bought by wealthy Greeks from abroad**."
+      },
+      {
+       "el": "**Γεώργιος Αβέρωφ (1815-1899)**: ένας από τους **μεγαλύτερους εθνικούς ευεργέτες** (π.χ. αναστήλωση του Παναθηναϊκού Σταδίου για τους Ολυμπιακούς Αγώνες του 1896). Το γνωστό θωρηκτό «Αβέρωφ» φέρει το όνομά του.",
+       "tr": "**Georgios Averof (1815-1899)**: **en büyük ulusal hayırseverlerden** biri (ör. 1896 Olimpiyatları için Panathinaiko Stadı'nın yenilenmesi). Ünlü «Averof» zırhlısı onun adını taşır.",
+       "en": "**Georgios Averof (1815-1899)**: one of the **greatest national benefactors** (e.g. restoring the Panathenaic Stadium for the 1896 Olympics). The famous cruiser “Averof” bears his name."
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Αντιστοίχιση: **1833-1862 = Όθωνας**, **1863-1913 = Γεώργιος Α΄**. Ερωτήσεις με εικόνα: πορτρέτα του **Χαρίλαου Τρικούπη** και του **Ιωάννη Καποδίστρια**. Αν ρωτούν για τον «πρώτο κυβερνήτη», η απάντηση είναι πάντα ο **Ιωάννης Καποδίστριας**.",
+      "tr": "Eşleştirme: **1833-1862 = Otto**, **1863-1913 = I. Georgios**. Fotoğraflı sorular: **Charilaos Trikoupis** ve **Ioannis Kapodistrias** portreleri. «İlk yönetici» sorulursa cevap her zaman **Ioannis Kapodistrias**.",
+      "en": "Matching: **1833-1862 = Otto**, **1863-1913 = George I**. Picture questions: portraits of **Charilaos Trikoupis** and **Ioannis Kapodistrias**. If asked for the “first governor”, the answer is always **Ioannis Kapodistrias**."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Ιωάννης Καποδίστριας",
+       "tr": "Ioannis Kapodistrias",
+       "en": "Ioannis Kapodistrias"
+      },
+      {
+       "el": "κράτος",
+       "tr": "devlet",
+       "en": "state"
+      },
+      {
+       "el": "Όθωνας",
+       "tr": "Otto",
+       "en": "Otto"
+      },
+      {
+       "el": "Βαυαροκρατία",
+       "tr": "Bavyera yönetimi",
+       "en": "Bavarian rule"
+      },
+      {
+       "el": "Γεώργιος Α΄",
+       "tr": "I. Georgios",
+       "en": "George I"
+      },
+      {
+       "el": "Χαρίλαος Τρικούπης",
+       "tr": "Charilaos Trikoupis",
+       "en": "Charilaos Trikoupis"
+      },
+      {
+       "el": "Θεόδωρος Δηλιγιάννης",
+       "tr": "Theodoros Diligiannis",
+       "en": "Theodoros Deligiannis"
+      },
+      {
+       "el": "η πτώχευση της Ελλάδας",
+       "tr": "Yunanistan'ın iflası",
+       "en": "the bankruptcy of Greece"
+      },
+      {
+       "el": "διώρυγα της Κορίνθου",
+       "tr": "Korint Kanalı",
+       "en": "Corinth Canal"
+      },
+      {
+       "el": "Μεγάλη Ιδέα",
+       "tr": "Megali Idea (Büyük İdea)",
+       "en": "Megali Idea (Great Idea)"
+      },
+      {
+       "el": "τσιφλίκια",
+       "tr": "çiftlikler",
+       "en": "chiftliks (estates)"
+      },
+      {
+       "el": "Γεώργιος Αβέρωφ",
+       "tr": "Georgios Averof",
+       "en": "Georgios Averof"
+      },
+      {
+       "el": "εθνικός ευεργέτης",
+       "tr": "ulusal hayırsever",
+       "en": "national benefactor"
+      },
+      {
+       "el": "Λαυρεωτικά",
+       "tr": "Lavreotika",
+       "en": "Lavreotika"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "his-3",
+    "his-10",
+    "his-12",
+    "his-13",
+    "his-34",
+    "his-37",
+    "his-38",
+    "his-47",
+    "his-55",
+    "his-61",
+    "his-64",
+    "his-66",
+    "his-68",
+    "his-76",
+    "his-78",
+    "his-80"
+   ]
+  },
+  {
+   "id": "his-balkan-wars",
+   "title": {
+    "el": "Μακεδονικός Αγώνας και Βαλκανικοί Πόλεμοι (1904-1913)",
+    "tr": "Makedonya Mücadelesi ve Balkan Savaşları (1904-1913)",
+    "en": "The Macedonian Struggle and the Balkan Wars (1904-1913)"
+   },
+   "icon": "🗺️",
+   "summary": {
+    "el": "Η ελληνοβουλγαρική σύγκρουση στη Μακεδονία, ο Βενιζέλος, η απελευθέρωση από την Ελασσόνα έως τη Θεσσαλονίκη και η ένωση της Κρήτης.",
+    "tr": "Makedonya'da Yunan-Bulgar çatışması, Venizelos, Elassona'dan Selanik'e kurtuluş ve Girit'in katılımı.",
+    "en": "The Greek–Bulgarian conflict in Macedonia, Venizelos, the liberation from Elassona to Thessaloniki and the union of Crete."
+   },
+   "blocks": [
+    {
+     "type": "p",
+     "text": {
+      "el": "Ο **Μακεδονικός Αγώνας** (1904-1908) ήταν η σύγκρουση ανάμεσα σε **Έλληνες και Βουλγάρους** αντάρτες στα εδάφη της Μακεδονίας που τότε κατείχαν οι Οθωμανοί. Σύμβολό του είναι ο **Παύλος Μελάς** (σκοτώθηκε το 1904). Σημαντική μορφή του Αγώνα ήταν επίσης ο διπλωμάτης και συγγραφέας **Ίων Δραγούμης**.",
+      "tr": "**Makedonya Mücadelesi** (1904-1908), o dönemde Osmanlıların elinde bulunan Makedonya topraklarında **Yunan ve Bulgar** çeteciler arasındaki çatışmadır. Sembolü **Pavlos Melas**'tır (1904'te öldü). Diplomat ve yazar **Ion Dragoumis** de mücadelenin önemli isimlerindendir.",
+      "en": "The **Macedonian Struggle** (1904-1908) was the conflict between **Greek and Bulgarian** guerrillas in the territories of Macedonia then held by the Ottomans. Its symbol is **Pavlos Melas** (killed in 1904). The diplomat and writer **Ion Dragoumis** was also a key figure of the struggle."
+     }
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "Ο **Ελευθέριος Βενιζέλος** (Κρητικός πολιτικός) έγινε πρωθυπουργός το 1910· οδήγησε την Ελλάδα στους Βαλκανικούς Πολέμους και στον Α΄ Παγκόσμιο Πόλεμο. Είναι ένας από τους σημαντικότερους πολιτικούς της νεότερης ελληνικής ιστορίας.",
+      "tr": "**Eleftherios Venizelos** (Giritli devlet adamı) 1910'da başbakan oldu; Balkan Savaşları'nda ve Birinci Dünya Savaşı'nda Yunanistan'ı yönetti. Modern Yunan tarihinin en önemli siyasetçilerinden biridir.",
+      "en": "**Eleftherios Venizelos** (a Cretan statesman) became prime minister in 1910; he led Greece in the Balkan Wars and the First World War. He is one of the most important politicians of modern Greek history."
+     }
+    },
+    {
+     "type": "timeline",
+     "items": [
+      {
+       "date": "10.1912",
+       "text": {
+        "el": "Άρχισε ο Α΄ Βαλκανικός Πόλεμος. **Η πρώτη πόλη που απελευθερώθηκε ήταν η Ελασσόνα**.",
+        "tr": "Birinci Balkan Savaşı başladı. **Kurtarılan ilk şehir Elassona** oldu.",
+        "en": "The First Balkan War began. **The first city liberated was Elassona**."
+       }
+      },
+      {
+       "date": "10.1912",
+       "text": {
+        "el": "**Μάχη του Σαρανταπόρου**: άνοιξε τον δρόμο για την απελευθέρωση της Μακεδονίας.",
+        "tr": "**Sarantaporo Muharebesi**: Makedonya'nın kurtarılmasının yolunu açtı.",
+        "en": "**Battle of Sarantaporo**: it opened the way to the liberation of Macedonia."
+       }
+      },
+      {
+       "date": "10.1912",
+       "text": {
+        "el": "**Μάχη των Γιαννιτσών** → **απελευθέρωση της Θεσσαλονίκης**· οι Οθωμανοί παρέδωσαν την πόλη στον ελληνικό στρατό τον Οκτώβριο του 1912 (26 Οκτωβρίου).",
+        "tr": "**Yenice (Giannitsa) Muharebesi** → **Selanik'in kurtarılması**; Osmanlılar şehri Ekim 1912'de (26 Ekim) Yunan ordusuna teslim etti.",
+        "en": "**Battle of Giannitsa** → **liberation of Thessaloniki**; the Ottomans surrendered the city to the Greek army in October 1912 (26 October)."
+       }
+      },
+      {
+       "date": "02.1913",
+       "text": {
+        "el": "Μάχη του Μπιζανίου → απελευθέρωση των Ιωαννίνων.",
+        "tr": "Bizani Muharebesi → Ioannina'nın kurtarılması.",
+        "en": "Battle of Bizani → liberation of Ioannina."
+       }
+      },
+      {
+       "date": "1913",
+       "text": {
+        "el": "**Ο Βασιλιάς Γεώργιος Α΄ δολοφονήθηκε στη Θεσσαλονίκη**. Β΄ Βαλκανικός Πόλεμος (κατά της Βουλγαρίας). **Η Κρήτη ενσωματώθηκε στην Ελλάδα**.",
+        "tr": "**Kral I. Georgios Selanik'te suikasta kurban gitti**. İkinci Balkan Savaşı (Bulgaristan'a karşı). **Girit Yunanistan'a katıldı**.",
+        "en": "**King George I was assassinated in Thessaloniki**. Second Balkan War (against Bulgaria). **Crete was incorporated into Greece**."
+       }
+      }
+     ]
+    },
+    {
+     "type": "map",
+     "places": [
+      {
+       "name": {
+        "el": "Ελασσόνα",
+        "tr": "Elassona",
+        "en": "Elassona"
+       },
+       "lat": 39.89,
+       "lon": 22.19
+      },
+      {
+       "name": {
+        "el": "Σαραντάπορο",
+        "tr": "Sarantaporo",
+        "en": "Sarantaporo"
+       },
+       "lat": 40.04,
+       "lon": 22.03
+      },
+      {
+       "name": {
+        "el": "Γιαννιτσά",
+        "tr": "Yenice (Giannitsa)",
+        "en": "Giannitsa"
+       },
+       "lat": 40.79,
+       "lon": 22.41
+      },
+      {
+       "name": {
+        "el": "Θεσσαλονίκη",
+        "tr": "Selanik",
+        "en": "Thessaloniki"
+       },
+       "lat": 40.64,
+       "lon": 22.94
+      },
+      {
+       "name": {
+        "el": "Μπιζάνι",
+        "tr": "Bizani",
+        "en": "Bizani"
+       },
+       "lat": 39.58,
+       "lon": 20.84
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Η Θεσσαλονίκη απελευθερώθηκε το **1912**, όχι το 1830 (το κράτος του 1830 περιλάμβανε μόνο την Πελοπόννησο, τη Στερεά Ελλάδα και μερικά νησιά). Κρήτη = **1913**. Μια ερώτηση με πίνακα δείχνει **την παράδοση της Θεσσαλονίκης από τους Οθωμανούς στους Έλληνες τον Οκτώβριο του 1912**. Ερωτήσεις με εικόνα δείχνουν πορτρέτα του **Ελευθερίου Βενιζέλου** και του **Ίωνα Δραγούμη**.",
+      "tr": "Selanik **1912**'de kurtarıldı, 1830'da değil (1830'daki ilk devlet yalnızca Peloponez, Orta Yunanistan ve bazı adaları kapsıyordu). Girit = **1913**. Bir tablo sorusunda **Ekim 1912'de Selanik'in Osmanlılar tarafından Yunanlara teslimi** tasvir edilir. Fotoğraflı sorularda **Eleftherios Venizelos** ve **Ion Dragoumis** portreleri çıkar.",
+      "en": "Thessaloniki was liberated in **1912**, not 1830 (the 1830 state covered only the Peloponnese, Central Greece and some islands). Crete = **1913**. A painting question shows **the surrender of Thessaloniki by the Ottomans to the Greeks in October 1912**. Picture questions show portraits of **Eleftherios Venizelos** and **Ion Dragoumis**."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Μακεδονικός Αγώνας",
+       "tr": "Makedonya Mücadelesi",
+       "en": "Macedonian Struggle"
+      },
+      {
+       "el": "Παύλος Μελάς",
+       "tr": "Pavlos Melas",
+       "en": "Pavlos Melas"
+      },
+      {
+       "el": "Ίων Δραγούμης",
+       "tr": "Ion Dragoumis",
+       "en": "Ion Dragoumis"
+      },
+      {
+       "el": "Ελευθέριος Βενιζέλος",
+       "tr": "Eleftherios Venizelos",
+       "en": "Eleftherios Venizelos"
+      },
+      {
+       "el": "Βαλκανικοί Πόλεμοι",
+       "tr": "Balkan Savaşları",
+       "en": "Balkan Wars"
+      },
+      {
+       "el": "Ελασσόνα",
+       "tr": "Elassona",
+       "en": "Elassona"
+      },
+      {
+       "el": "Μάχη του Σαρανταπόρου",
+       "tr": "Sarantaporo Muharebesi",
+       "en": "Battle of Sarantaporo"
+      },
+      {
+       "el": "Μάχη των Γιαννιτσών",
+       "tr": "Yenice (Giannitsa) Muharebesi",
+       "en": "Battle of Giannitsa"
+      },
+      {
+       "el": "Μπιζάνι",
+       "tr": "Bizani",
+       "en": "Bizani"
+      },
+      {
+       "el": "Κρήτη",
+       "tr": "Girit",
+       "en": "Crete"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "his-4",
+    "his-11",
+    "his-14",
+    "his-17",
+    "his-39",
+    "his-40",
+    "his-53",
+    "his-62",
+    "his-67",
+    "his-69"
+   ]
+  },
+  {
+   "id": "his-schism-asia-minor",
+   "title": {
+    "el": "Εθνικός Διχασμός, Α΄ Παγκόσμιος Πόλεμος, Μικρασιατική Καταστροφή, Μεσοπόλεμος",
+    "tr": "Ulusal Bölünme, Birinci Dünya Savaşı, Küçük Asya Felaketi, iki savaş arası dönem",
+    "en": "National Schism, First World War, Asia Minor Catastrophe, interwar years"
+   },
+   "icon": "🔥",
+   "summary": {
+    "el": "Η σύγκρουση Βενιζέλου και Βασιλιά Κωνσταντίνου, ο πόλεμος στο πλευρό της Αντάντ, η Μικρασιατική Εκστρατεία 1919-1922 και η Καταστροφή του 1922, η δικτατορία του Μεταξά.",
+    "tr": "Venizelos ile Kral Konstantinos'un çatışması, İtilaf saflarında savaş, 1919-1922 Küçük Asya Seferi ve 1922 felaketi, Metaksas diktatörlüğü.",
+    "en": "The clash between Venizelos and King Constantine, war on the Entente side, the 1919-1922 Asia Minor Campaign and the 1922 catastrophe, the Metaxas dictatorship."
+   },
+   "blocks": [
+    {
+     "type": "timeline",
+     "items": [
+      {
+       "date": "1915–1917",
+       "text": {
+        "el": "**Εθνικός Διχασμός**: η εσωτερική διαμάχη για το αν η Ελλάδα θα συμμετείχε στον Α΄ Παγκόσμιο Πόλεμο. Πρωταγωνιστές του ήταν ο **Ελευθέριος Βενιζέλος** (υπέρ της Αντάντ) και ο **Βασιλιάς Κωνσταντίνος** (υπέρ της ουδετερότητας). Οι συνέπειές του κράτησαν μέχρι το 1922.",
+        "tr": "**Ulusal Bölünme** (Εθνικός Διχασμός): Yunanistan'ın Birinci Dünya Savaşı'na katılıp katılmayacağı konusunda iç çekişme. Başlıca aktörleri **Eleftherios Venizelos** (İtilaf yanlısı) ve **Kral Konstantinos** (tarafsızlık yanlısı). Bölünmenin etkileri 1922'ye kadar sürdü.",
+        "en": "**National Schism** (Εθνικός Διχασμός): the internal conflict over whether Greece would join the First World War. Its protagonists were **Eleftherios Venizelos** (pro-Entente) and **King Constantine** (pro-neutrality). Its effects lasted until 1922."
+       }
+      },
+      {
+       "date": "1917–1918",
+       "text": {
+        "el": "Η Ελλάδα πολέμησε στο πλευρό της **Εγκάρδιας Συνεννόησης (Αντάντ)** και ήταν με τους **νικητές**.",
+        "tr": "Yunanistan **İtilaf Devletleri (Antant)** saflarında savaştı ve **galipler** tarafında yer aldı.",
+        "en": "Greece fought on the side of the **Entente** and was among the **victors**."
+       }
+      },
+      {
+       "date": "05.1919",
+       "text": {
+        "el": "Ο ελληνικός στρατός **αποβιβάστηκε στη Σμύρνη**.",
+        "tr": "Yunan ordusu **İzmir'e çıktı**.",
+        "en": "The Greek army **landed in Smyrna**."
+       }
+      },
+      {
+       "date": "1919–1922",
+       "text": {
+        "el": "**Μικρασιατική Εκστρατεία**.",
+        "tr": "**Küçük Asya Seferi**.",
+        "en": "**Asia Minor Campaign**."
+       }
+      },
+      {
+       "date": "1922",
+       "text": {
+        "el": "**Μικρασιατική Καταστροφή**: κατάρρευση του ελληνικού μετώπου, **καταστροφή της Σμύρνης**, εκατοντάδες χιλιάδες Έλληνες έφθασαν στην Ελλάδα ως πρόσφυγες. Η **Μεγάλη Ιδέα** τελείωσε με αυτή την καταστροφή.",
+        "tr": "**Küçük Asya Felaketi**: Yunan cephesinin çöküşü, **İzmir'in yıkımı**, yüz binlerce Rum'un Yunanistan'a mülteci olarak gelmesi. **Megali Idea** bu felaketle sona erdi.",
+        "en": "**Asia Minor Catastrophe**: collapse of the Greek front, **destruction of Smyrna**, hundreds of thousands of Greeks arriving in Greece as refugees. The **Megali Idea** ended with this catastrophe."
+       }
+      },
+      {
+       "date": "1923",
+       "text": {
+        "el": "Συνθήκη της Λωζάνης και η ελληνοτουρκική ανταλλαγή πληθυσμών.",
+        "tr": "Lozan Antlaşması ve Yunan-Türk nüfus mübadelesi.",
+        "en": "Treaty of Lausanne and the Greek–Turkish population exchange."
+       }
+      },
+      {
+       "date": "1924",
+       "text": {
+        "el": "Ανακηρύχθηκε η Δημοκρατία· πρωθυπουργός ο **Αλέξανδρος Παπαναστασίου** (όχι συντηρητικός, αλλά **δημοκρατικός/προοδευτικός** πολιτικός).",
+        "tr": "Cumhuriyet ilan edildi; başbakan **Aleksandros Papanastasiou** (muhafazakâr değil, **demokrat/ilerici** bir politikacıydı).",
+        "en": "The Republic was proclaimed; prime minister **Alexandros Papanastasiou** (not a conservative, but a **democratic/progressive** politician)."
+       }
+      },
+      {
+       "date": "04.08.1936",
+       "text": {
+        "el": "**Ο Ιωάννης Μεταξάς κήρυξε δικτατορία**.",
+        "tr": "**Ioannis Metaksas diktatörlük ilan etti**.",
+        "en": "**Ioannis Metaxas declared a dictatorship**."
+       }
+      }
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "**Πρόσφυγες ήρθαν και πριν από το 1922**: Έλληνες πρόσφυγες είχαν φθάσει στην Ελλάδα ήδη κατά τους Βαλκανικούς Πολέμους και τον Α΄ Παγκόσμιο Πόλεμο.",
+       "tr": "**Mülteciler 1922'den önce de geldi**: Balkan Savaşları ve Birinci Dünya Savaşı sırasında da Yunan mülteciler Yunanistan'a sığınmıştı.",
+       "en": "**Refugees came before 1922 too**: Greek refugees had already arrived in Greece during the Balkan Wars and the First World War."
+      },
+      {
+       "el": "**Γεώργιος Χατζανέστης**: αρχιστράτηγος του ελληνικού στρατού στη Μικρά Ασία το 1922 (όχι το 1940-41!). **Νικόλαος Πλαστήρας**: ο αξιωματικός που ηγήθηκε της επανάστασης του 1922.",
+       "tr": "**Georgios Hatzanestis**: 1922'de Küçük Asya'daki Yunan ordusunun başkomutanı (1940-41'in değil!). **Nikolaos Plastiras**: 1922 devrimini yöneten subay.",
+       "en": "**Georgios Hatzianestis**: commander-in-chief of the Greek army in Asia Minor in 1922 (not in 1940-41!). **Nikolaos Plastiras**: the officer who led the 1922 revolution."
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Αντιστοίχιση: **1919-1922 = Μικρασιατική Εκστρατεία**. Στις ερωτήσεις με εικόνα εμφανίζονται ως επιλογές **η καταστροφή της Σμύρνης (1922)** και **οι πανηγυρισμοί για την αποβίβαση στη Σμύρνη τον Μάιο του 1919**. Εθνικός Διχασμός = **Βενιζέλος – Βασιλιάς Κωνσταντίνος**.",
+      "tr": "Eşleştirme: **1919-1922 = Küçük Asya Seferi**. Fotoğraflı sorularda **İzmir'in yıkımı (1922)** ve **Mayıs 1919'da İzmir'e çıkış kutlamaları** seçenekleri bulunur. Ulusal Bölünme = **Venizelos – Kral Konstantinos**.",
+      "en": "Matching: **1919-1922 = Asia Minor Campaign**. Picture questions include **the destruction of Smyrna (1922)** and **the celebrations for the Smyrna landing in May 1919** as options. National Schism = **Venizelos – King Constantine**."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Εθνικός Διχασμός",
+       "tr": "Ulusal Bölünme",
+       "en": "National Schism"
+      },
+      {
+       "el": "Βασιλιάς Κωνσταντίνος",
+       "tr": "Kral Konstantinos",
+       "en": "King Constantine"
+      },
+      {
+       "el": "Εγκάρδια Συνεννόηση (Αντάντ)",
+       "tr": "İtilaf Devletleri (Antant)",
+       "en": "Entente"
+      },
+      {
+       "el": "Κεντρικές Αυτοκρατορίες",
+       "tr": "İttifak Devletleri",
+       "en": "Central Powers"
+      },
+      {
+       "el": "Μικρασιατική Εκστρατεία",
+       "tr": "Küçük Asya Seferi",
+       "en": "Asia Minor Campaign"
+      },
+      {
+       "el": "Μικρασιατική Καταστροφή",
+       "tr": "Küçük Asya Felaketi",
+       "en": "Asia Minor Catastrophe"
+      },
+      {
+       "el": "Σμύρνη",
+       "tr": "İzmir",
+       "en": "Smyrna"
+      },
+      {
+       "el": "πρόσφυγες",
+       "tr": "mülteciler",
+       "en": "refugees"
+      },
+      {
+       "el": "Αλέξανδρος Παπαναστασίου",
+       "tr": "Aleksandros Papanastasiou",
+       "en": "Alexandros Papanastasiou"
+      },
+      {
+       "el": "Ιωάννης Μεταξάς",
+       "tr": "Ioannis Metaksas",
+       "en": "Ioannis Metaxas"
+      },
+      {
+       "el": "Γεώργιος Χατζανέστης",
+       "tr": "Georgios Hatzanestis",
+       "en": "Georgios Hatzianestis"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "his-5",
+    "his-6",
+    "his-13",
+    "his-23",
+    "his-50",
+    "his-52",
+    "his-55",
+    "his-69",
+    "his-70",
+    "his-72",
+    "his-76",
+    "his-80"
+   ]
+  },
+  {
+   "id": "his-ww2-occupation",
+   "title": {
+    "el": "Β΄ Παγκόσμιος Πόλεμος: το Έπος του 1940, Κατοχή και Εθνική Αντίσταση",
+    "tr": "İkinci Dünya Savaşı: 1940 Destanı, İşgal ve Ulusal Direniş",
+    "en": "Second World War: the Epic of 1940, Occupation and National Resistance"
+   },
+   "icon": "🎖️",
+   "summary": {
+    "el": "Ο τορπιλισμός της «Έλλης», η 28η Οκτωβρίου 1940, ο Παπάγος, η Κατοχή από τις δυνάμεις του Άξονα, ο Γοργοπόταμος, οι Έλληνες Εβραίοι και η απελευθέρωση του 1944.",
+    "tr": "«Elli»nin torpillenmesi, 28 Ekim 1940, Papagos, Mihver işgali, Gorgopotamos, Yunan Yahudileri ve 1944 kurtuluşu.",
+    "en": "The torpedoing of the “Elli”, 28 October 1940, Papagos, the Axis occupation, Gorgopotamos, the Greek Jews and the 1944 liberation."
+   },
+   "blocks": [
+    {
+     "type": "timeline",
+     "items": [
+      {
+       "date": "15.08.1940",
+       "text": {
+        "el": "**Τορπιλισμός του καταδρομικού «Έλλη»** (στο λιμάνι της Τήνου, από ιταλικό υποβρύχιο) — το γεγονός που προηγήθηκε της ιταλικής επίθεσης.",
+        "tr": "**«Elli» kruvazörünün torpillenmesi** (Tinos limanında, bir İtalyan denizaltısı tarafından) — İtalyan saldırısından önce gelen olay.",
+        "en": "**Torpedoing of the cruiser “Elli”** (in the harbour of Tinos, by an Italian submarine) — the event that preceded the Italian attack."
+       }
+      },
+      {
+       "date": "28.10.1940",
+       "text": {
+        "el": "**Η Ιταλία κήρυξε τον πόλεμο στην Ελλάδα**· ο Μεταξάς είπε «ΟΧΙ». Αρχιστράτηγος ο **Αλέξανδρος Παπάγος**· ο ελληνικός στρατός απώθησε τους Ιταλούς στο αλβανικό μέτωπο.",
+        "tr": "**İtalya Yunanistan'a savaş ilan etti**; Metaksas «Hayır» (ΟΧΙ) dedi. Başkomutan **Aleksandros Papagos**; Yunan ordusu Arnavutluk cephesinde İtalyanları geri püskürttü.",
+        "en": "**Italy declared war on Greece**; Metaxas said “No” (ΟΧΙ). Commander-in-chief **Alexandros Papagos**; the Greek army pushed the Italians back on the Albanian front."
+       }
+      },
+      {
+       "date": "04.1941",
+       "text": {
+        "el": "Η Γερμανία επιτέθηκε στην Ελλάδα.",
+        "tr": "Almanya Yunanistan'a saldırdı.",
+        "en": "Germany attacked Greece."
+       }
+      },
+      {
+       "date": "1941–1944",
+       "text": {
+        "el": "**Κατοχή από τις δυνάμεις του Άξονα** (Γερμανία, Ιταλία, Βουλγαρία)· μεγάλος λιμός· **Εθνική Αντίσταση**.",
+        "tr": "**Mihver kuvvetlerinin işgali** (Almanya, İtalya, Bulgaristan); büyük kıtlık; **Ulusal Direniş**.",
+        "en": "**Occupation by the Axis powers** (Germany, Italy, Bulgaria); great famine; **National Resistance**."
+       }
+      },
+      {
+       "date": "1942",
+       "text": {
+        "el": "Στη Θεσσαλονίκη οι Γερμανοί **εξευτέλισαν δημόσια τους Έλληνες Εβραίους**· το 1943 οι περισσότεροι Έλληνες Εβραίοι στάλθηκαν στα στρατόπεδα θανάτου.",
+        "tr": "Selanik'te Almanlar **Yunan Yahudilerini alenen aşağıladı**; 1943'te Yunan Yahudilerinin büyük kısmı ölüm kamplarına sürüldü.",
+        "en": "In Thessaloniki the Germans **publicly humiliated the Greek Jews**; in 1943 most Greek Jews were deported to the death camps."
+       }
+      },
+      {
+       "date": "25.11.1942",
+       "text": {
+        "el": "**Ανατίναξη της γέφυρας του Γοργοποτάμου**: **η κορυφαία κοινή αντιστασιακή δράση** των Ελλήνων στη διάρκεια της Κατοχής.",
+        "tr": "**Gorgopotamos köprüsünün havaya uçurulması**: İşgal döneminde Yunanların **en önemli ortak direniş eylemi**.",
+        "en": "**Blowing up of the Gorgopotamos bridge**: **the foremost joint resistance action** of the Greeks during the Occupation."
+       }
+      },
+      {
+       "date": "10.1944",
+       "text": {
+        "el": "**Απελευθέρωση της Αθήνας**. Ο **Γεώργιος Παπανδρέου** ήταν επικεφαλής της κυβέρνησης ως ο πρώτος πρωθυπουργός μετά τον πόλεμο.",
+        "tr": "**Atina'nın Kurtuluşu**. **Georgios Papandreou** savaş sonrası ilk başbakan olarak hükümeti yönetti.",
+        "en": "**Liberation of Athens**. **Georgios Papandreou** headed the government as the first prime minister after the war."
+       }
+      }
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Η **28η Οκτωβρίου** και η **25η Μαρτίου** είναι οι **δύο πιο σημαντικές εθνικές επέτειοι** της Ελλάδας.",
+       "tr": "**28 Ekim** ve **25 Mart** Yunanistan'ın **en önemli iki ulusal yıldönümüdür**.",
+       "en": "**28 October** and **25 March** are Greece's **two most important national anniversaries**."
+      },
+      {
+       "el": "Αντιστοίχιση: **Ιωάννης Μεταξάς ↔ 1940**· **1941-1944 = Κατοχή από τις δυνάμεις του Άξονα**· «Κατοχή και Αντίσταση» = **Ελληνική Ιστορία 20ου αιώνα**.",
+       "tr": "Eşleştirme: **Ioannis Metaksas ↔ 1940**; **1941-1944 = Mihver işgali**; «İşgal ve Direniş» = **20. yüzyıl Yunan tarihi**.",
+       "en": "Matching: **Ioannis Metaxas ↔ 1940**; **1941-1944 = Axis occupation**; “Occupation and Resistance” = **20th-century Greek history**."
+      },
+      {
+       "el": "Η Ελλάδα ήταν **με τη μεριά των νικητών και στους δύο Παγκόσμιους Πολέμους**.",
+       "tr": "Yunanistan **hem Birinci hem İkinci Dünya Savaşı'nda galipler tarafındaydı**.",
+       "en": "Greece was **on the side of the victors in both World Wars**."
+      },
+      {
+       "el": "**Αρχιεπίσκοπος Δαμασκηνός**: Αρχιεπίσκοπος Αθηνών κατά την Κατοχή, για λίγο αντιβασιλέας μετά τον πόλεμο.",
+       "tr": "**Başpiskopos Damaskinos**: işgal döneminde Atina Başpiskoposu, savaştan sonra kısa süre naip.",
+       "en": "**Archbishop Damaskinos**: Archbishop of Athens during the Occupation, briefly regent after the war."
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Ερωτήσεις με εικόνα: ως επιλογές εμφανίζονται **ο δημόσιος εξευτελισμός των Ελλήνων Εβραίων από τους Γερμανούς στον Β΄ Παγκόσμιο Πόλεμο** και **η Απελευθέρωση της Αθήνας τον Οκτώβριο του 1944**. Γοργοπόταμος = Κατοχή (όχι Βαλκανικοί Πόλεμοι ούτε Χούντα). Αρχιστράτηγος 1940-41 = **Παπάγος** (ο Χατζανέστης είναι του 1922).",
+      "tr": "Fotoğraflı sorular: **İkinci Dünya Savaşı'nda Yunan Yahudilerinin Almanlar tarafından alenen aşağılanması** ve **Ekim 1944'te Atina'nın Kurtuluşu** seçenek olarak çıkar. Gorgopotamos = İşgal dönemi (Balkan Savaşları ya da cunta değil). 1940-41 başkomutanı = **Papagos** (Hatzanestis 1922'dir).",
+      "en": "Picture questions: **the public humiliation of Greek Jews by the Germans in WWII** and **the Liberation of Athens in October 1944** appear as options. Gorgopotamos = Occupation (not the Balkan Wars or the junta). Commander-in-chief 1940-41 = **Papagos** (Hatzianestis is 1922)."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "«Έλλη»",
+       "tr": "«Elli» kruvazörü",
+       "en": "the cruiser “Elli”"
+      },
+      {
+       "el": "28η Οκτωβρίου",
+       "tr": "28 Ekim",
+       "en": "28 October"
+      },
+      {
+       "el": "Αλέξανδρος Παπάγος",
+       "tr": "Aleksandros Papagos",
+       "en": "Alexandros Papagos"
+      },
+      {
+       "el": "Κατοχή",
+       "tr": "İşgal",
+       "en": "Occupation"
+      },
+      {
+       "el": "Άξονας",
+       "tr": "Mihver",
+       "en": "Axis"
+      },
+      {
+       "el": "Εθνική Αντίσταση",
+       "tr": "Ulusal Direniş",
+       "en": "National Resistance"
+      },
+      {
+       "el": "γέφυρα του Γοργοποτάμου",
+       "tr": "Gorgopotamos köprüsü",
+       "en": "Gorgopotamos bridge"
+      },
+      {
+       "el": "Έλληνες Εβραίοι",
+       "tr": "Yunan Yahudileri",
+       "en": "Greek Jews"
+      },
+      {
+       "el": "Απελευθέρωση της Αθήνας",
+       "tr": "Atina'nın Kurtuluşu",
+       "en": "Liberation of Athens"
+      },
+      {
+       "el": "Αρχιεπίσκοπος Δαμασκηνός",
+       "tr": "Başpiskopos Damaskinos",
+       "en": "Archbishop Damaskinos"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "his-21",
+    "his-25",
+    "his-26",
+    "his-28",
+    "his-32",
+    "his-35",
+    "his-51",
+    "his-52",
+    "his-55",
+    "his-59",
+    "his-60",
+    "his-80"
+   ]
+  },
+  {
+   "id": "his-civil-war-postwar",
+   "title": {
+    "el": "Εμφύλιος Πόλεμος και μεταπολεμική Ελλάδα (1946-1967)",
+    "tr": "İç Savaş ve savaş sonrası Yunanistan (1946-1967)",
+    "en": "Civil War and post-war Greece (1946-1967)"
+   },
+   "icon": "🕊️",
+   "summary": {
+    "el": "Ο Εμφύλιος Πόλεμος, η μετανάστευση, ο Παπάγος και ο Καραμανλής, η πρώτη γυναίκα βουλευτής, η ανεξαρτησία της Κύπρου, ο Γεώργιος Παπανδρέου και τα Ιουλιανά του 1965.",
+    "tr": "İç Savaş, göç dalgası, Papagos ve Karamanlis, ilk kadın milletvekili, Kıbrıs'ın bağımsızlığı, Georgios Papandreou ve 1965 Iouliana.",
+    "en": "The Civil War, emigration, Papagos and Karamanlis, the first woman MP, Cypriot independence, Georgios Papandreou and the 1965 Iouliana."
+   },
+   "blocks": [
+    {
+     "type": "timeline",
+     "items": [
+      {
+       "date": "1946–1949",
+       "text": {
+        "el": "**Εμφύλιος Πόλεμος**: ανάμεσα στον κυβερνητικό στρατό και τον κομμουνιστικό Δημοκρατικό Στρατό. Μετά από αυτόν περίπου **80.000 πολιτικοί πρόσφυγες** κατέφυγαν σε χώρες της Ανατολικής Ευρώπης.",
+        "tr": "**İç Savaş**: hükümet ordusu ile komünist Demokratik Ordu arasında. Sonrasında yaklaşık **80.000 siyasi mülteci** Doğu Avrupa ülkelerine sığındı.",
+        "en": "**Civil War**: between the government army and the communist Democratic Army. Afterwards about **80,000 political refugees** fled to Eastern European countries."
+       }
+      },
+      {
+       "date": "1950–1960",
+       "text": {
+        "el": "Εξαιτίας της φτώχειας **πολλοί Έλληνες μετανάστευσαν** (Δυτική Γερμανία, Αυστραλία, ΗΠΑ…).",
+        "tr": "Yoksulluk nedeniyle **pek çok Yunan göç etti** (Batı Almanya, Avustralya, ABD…).",
+        "en": "Because of poverty **many Greeks emigrated** (West Germany, Australia, the USA…)."
+       }
+      },
+      {
+       "date": "1951–1952",
+       "text": {
+        "el": "Ο Στρατάρχης **Αλέξανδρος Παπάγος** ίδρυσε το κόμμα **Ελληνικός Συναγερμός** και έγινε πρωθυπουργός **κερδίζοντας τις εκλογές** — δεν έγινε δικτάτορας.",
+        "tr": "Mareşal **Aleksandros Papagos** **Yunan Seferberliği** (Ελληνικός Συναγερμός) partisini kurdu ve **seçimleri kazanarak** başbakan oldu — diktatör olmadı.",
+        "en": "Field Marshal **Alexandros Papagos** founded the **Greek Rally** (Ελληνικός Συναγερμός) party and became prime minister **by winning elections** — he did not become a dictator."
+       }
+      },
+      {
+       "date": "1953",
+       "text": {
+        "el": "Η **Ελένη Σκούρα** εκλέχθηκε η πρώτη Ελληνίδα βουλευτής.",
+        "tr": "**Eleni Skoura** ilk kadın Yunan milletvekili olarak seçildi.",
+        "en": "**Eleni Skoura** was elected as the first Greek woman MP."
+       }
+      },
+      {
+       "date": "1955–1963",
+       "text": {
+        "el": "Πρωθυπουργός ο **Κωνσταντίνος Καραμανλής**.",
+        "tr": "**Konstantinos Karamanlis** başbakan.",
+        "en": "**Konstantinos Karamanlis** prime minister."
+       }
+      },
+      {
+       "date": "1960",
+       "text": {
+        "el": "**Η Κύπρος έγινε ανεξάρτητη**· εγγυήτριες δυνάμεις ορίστηκαν **η Ελλάδα, η Τουρκία και το Ηνωμένο Βασίλειο** (όχι οι ΗΠΑ). Πρώτος πρόεδρός της ήταν ο **Αρχιεπίσκοπος Μακάριος**.",
+        "tr": "**Kıbrıs bağımsız oldu**; garantör güçler **Yunanistan, Türkiye ve Birleşik Krallık** (ABD değil). İlk cumhurbaşkanı **Başpiskopos Makarios**.",
+        "en": "**Cyprus became independent**; the guarantor powers were **Greece, Turkey and the United Kingdom** (not the USA). Its first president was **Archbishop Makarios**."
+       }
+      },
+      {
+       "date": "1961",
+       "text": {
+        "el": "Ιδρύθηκε η **Ένωση Κέντρου**· επικεφαλής της ήταν ο **Γεώργιος Παπανδρέου** (όχι ο Ανδρέας).",
+        "tr": "**Merkez Birliği** kuruldu; başında **Georgios Papandreou** vardı (Andreas değil).",
+        "en": "The **Centre Union** was founded; its leader was **Georgios Papandreou** (not Andreas)."
+       }
+      },
+      {
+       "date": "1964",
+       "text": {
+        "el": "Ο Γεώργιος Παπανδρέου κέρδισε τις εκλογές με μεγάλη διαφορά.",
+        "tr": "Georgios Papandreou seçimleri büyük farkla kazandı.",
+        "en": "Georgios Papandreou won the elections by a large margin."
+       }
+      },
+      {
+       "date": "07.1965",
+       "text": {
+        "el": "**Ιουλιανά**: ο βασιλιάς ανάγκασε σε παραίτηση την κυβέρνηση Γ. Παπανδρέου· ακολούθησαν τεράστιες διαδηλώσεις.",
+        "tr": "**Iouliana (Temmuz Olayları)**: kral, G. Papandreou hükümetini istifaya zorladı; dev gösteriler yapıldı.",
+        "en": "**Iouliana (July Events)**: the king forced the G. Papandreou government to resign; huge demonstrations followed."
+       }
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "Ο **Γεώργιος Παπανδρέου** είναι γνωστός ως «**ο γέρος της Δημοκρατίας**» (ο Κολοκοτρώνης είναι «ο γέρος του Μοριά»). Ήταν και ο πρώτος μεταπολεμικός πρωθυπουργός το 1944 και ο νικητής των εκλογών του 1964.",
+      "tr": "**Georgios Papandreou** «**Demokrasinin İhtiyarı**» olarak tanınır (Kolokotronis ise «Mora'nın İhtiyarı»dır). Hem 1944'te savaş sonrası ilk başbakan hem de 1964 seçimlerinin galibidir.",
+      "en": "**Georgios Papandreou** is known as “**the Old Man of Democracy**” (Kolokotronis is “the Old Man of the Morea”). He was both the first post-war prime minister in 1944 and the winner of the 1964 elections."
+     }
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Ερωτήσεις με εικόνα δείχνουν πορτρέτα του **Κωνσταντίνου Καραμανλή**, του **Γεωργίου Παπανδρέου** και του **Αρχιεπισκόπου Κύπρου Μακαρίου**. Αντιστοίχιση: **Γεώργιος Παπανδρέου ↔ 1964**, **1946-1949 = Εμφύλιος Πόλεμος**. Τη δεκαετία του 1950 η Ελλάδα δεν ήταν ακόμη μέλος της ΕΟΚ και δεν ήταν ενωμένη με την Κύπρο.",
+      "tr": "Fotoğraflı sorularda **Konstantinos Karamanlis**, **Georgios Papandreou** ve **Kıbrıs Başpiskoposu Makarios** portreleri çıkar. Eşleştirme: **Georgios Papandreou ↔ 1964**, **1946-1949 = İç Savaş**. 1950'lerde Yunanistan henüz AET üyesi değildi ve Kıbrıs ile birleşik değildi.",
+      "en": "Picture questions show portraits of **Konstantinos Karamanlis**, **Georgios Papandreou** and **Archbishop Makarios of Cyprus**. Matching: **Georgios Papandreou ↔ 1964**, **1946-1949 = Civil War**. In the 1950s Greece was not yet an EEC member and was not united with Cyprus."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Εμφύλιος Πόλεμος",
+       "tr": "İç Savaş",
+       "en": "Civil War"
+      },
+      {
+       "el": "πολιτικοί πρόσφυγες",
+       "tr": "siyasi mülteciler",
+       "en": "political refugees"
+      },
+      {
+       "el": "μετανάστευση",
+       "tr": "göç",
+       "en": "emigration"
+      },
+      {
+       "el": "Ελληνικός Συναγερμός",
+       "tr": "Yunan Seferberliği",
+       "en": "Greek Rally"
+      },
+      {
+       "el": "Ελένη Σκούρα",
+       "tr": "Eleni Skoura",
+       "en": "Eleni Skoura"
+      },
+      {
+       "el": "Κωνσταντίνος Καραμανλής",
+       "tr": "Konstantinos Karamanlis",
+       "en": "Konstantinos Karamanlis"
+      },
+      {
+       "el": "Αρχιεπίσκοπος Κύπρου Μακάριος",
+       "tr": "Kıbrıs Başpiskoposu Makarios",
+       "en": "Archbishop Makarios of Cyprus"
+      },
+      {
+       "el": "εγγυήτριες δυνάμεις",
+       "tr": "garantör güçler",
+       "en": "guarantor powers"
+      },
+      {
+       "el": "Ένωση Κέντρου",
+       "tr": "Merkez Birliği",
+       "en": "Centre Union"
+      },
+      {
+       "el": "Γεώργιος Παπανδρέου",
+       "tr": "Georgios Papandreou",
+       "en": "Georgios Papandreou"
+      },
+      {
+       "el": "ο γέρος της Δημοκρατίας",
+       "tr": "Demokrasinin İhtiyarı",
+       "en": "the Old Man of Democracy"
+      },
+      {
+       "el": "Ιουλιανά",
+       "tr": "Iouliana (Temmuz Olayları)",
+       "en": "Iouliana (July Events)"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "his-2",
+    "his-33",
+    "his-45",
+    "his-48",
+    "his-49",
+    "his-56",
+    "his-60",
+    "his-66",
+    "his-70",
+    "his-71",
+    "his-77",
+    "his-80"
+   ]
+  },
+  {
+   "id": "his-junta-metapolitefsi",
+   "title": {
+    "el": "Δικτατορία των Συνταγματαρχών, Μεταπολίτευση και Ευρώπη (1967-σήμερα)",
+    "tr": "Albaylar Cuntası, Metapolitefsi ve Avrupa (1967-günümüz)",
+    "en": "The Colonels' dictatorship, Metapolitefsi and Europe (1967-today)"
+   },
+   "icon": "🇪🇺",
+   "summary": {
+    "el": "Η Χούντα του Παπαδόπουλου, ο Παναγούλης, η εξέγερση του Πολυτεχνείου, η Κύπρος το 1974, η αποκατάσταση της Δημοκρατίας, η ένταξη στην ΕΟΚ και το 2015.",
+    "tr": "Papadopoulos cuntası, Panagoulis, Politeknik ayaklanması, Kıbrıs 1974, demokrasinin yeniden kurulması, AET üyeliği ve 2015.",
+    "en": "The Papadopoulos junta, Panagoulis, the Polytechnic uprising, Cyprus 1974, the restoration of democracy, EEC membership and 2015."
+   },
+   "blocks": [
+    {
+     "type": "timeline",
+     "items": [
+      {
+       "date": "21.04.1967",
+       "text": {
+        "el": "Το πραξικόπημα των Συνταγματαρχών· δικτάτορας ο **Γεώργιος Παπαδόπουλος**.",
+        "tr": "Albaylar darbesi; diktatör **Georgios Papadopoulos**.",
+        "en": "The Colonels' coup; dictator **Georgios Papadopoulos**."
+       }
+      },
+      {
+       "date": "1968",
+       "text": {
+        "el": "Ο **Αλέκος Παναγούλης** **αποπειράθηκε να δολοφονήσει** τον δικτάτορα Παπαδόπουλο.",
+        "tr": "**Alekos Panagoulis** diktatör Papadopoulos'a **suikast girişiminde** bulundu.",
+        "en": "**Alekos Panagoulis** made an **assassination attempt** on the dictator Papadopoulos."
+       }
+      },
+      {
+       "date": "17.11.1973",
+       "text": {
+        "el": "Η **εξέγερση των φοιτητών στο Πολυτεχνείο** της Αθήνας κατά της Χούντας· καταπνίγηκε με τανκς.",
+        "tr": "Atina'da **Politeknik öğrenci ayaklanması** cuntaya karşı; tanklarla bastırıldı.",
+        "en": "The **student uprising at the Polytechnic** in Athens against the junta; crushed with tanks."
+       }
+      },
+      {
+       "date": "20.07.1974",
+       "text": {
+        "el": "Μετά το πραξικόπημα της Χούντας των Αθηνών κατά του Μακαρίου, **η τουρκική εισβολή στην Κύπρο**.",
+        "tr": "Atina cuntasının Makarios'a karşı darbesinin ardından **Kıbrıs'a Türk istilası**.",
+        "en": "After the Athens junta's coup against Makarios, **the Turkish invasion of Cyprus**."
+       }
+      },
+      {
+       "date": "07.1974",
+       "text": {
+        "el": "Η δικτατορία έπεσε· ο **Κωνσταντίνος Καραμανλής** επέστρεψε από την αυτοεξορία· **αποκαταστάθηκε η Δημοκρατία** στην Ελλάδα. Η περίοδος από τότε και μετά ονομάζεται **Μεταπολίτευση**.",
+        "tr": "Diktatörlük çöktü; **Konstantinos Karamanlis** sürgünden döndü; Yunanistan'da **demokrasi yeniden kuruldu**. Bu andan itibaren olan döneme **Metapolitefsi** denir.",
+        "en": "The dictatorship fell; **Konstantinos Karamanlis** returned from exile; **democracy was restored** in Greece. The period from then on is called the **Metapolitefsi**."
+       }
+      },
+      {
+       "date": "12.1974",
+       "text": {
+        "el": "Με δημοψήφισμα καταργήθηκε η μοναρχία.",
+        "tr": "Halk oylamasıyla monarşi kaldırıldı.",
+        "en": "A referendum abolished the monarchy."
+       }
+      },
+      {
+       "date": "1981",
+       "text": {
+        "el": "Η Ελλάδα έγινε μέλος της **ΕΟΚ** (σημερινή Ευρωπαϊκή Ένωση). Πρωθυπουργός ο Ανδρέας Παπανδρέου (ΠΑΣΟΚ).",
+        "tr": "Yunanistan **AET**'ye (bugünkü Avrupa Birliği) üye oldu. Andreas Papandreou (PASOK) başbakan.",
+        "en": "Greece joined the **EEC** (today's European Union). Andreas Papandreou (PASOK) prime minister."
+       }
+      },
+      {
+       "date": "2002",
+       "text": {
+        "el": "Άρχισε να χρησιμοποιείται το ευρώ.",
+        "tr": "Avro (euro) kullanılmaya başlandı.",
+        "en": "The euro came into use."
+       }
+      },
+      {
+       "date": "2015",
+       "text": {
+        "el": "Ο **Αλέξης Τσίπρας** έγινε πρωθυπουργός (χρόνια της κρίσης χρέους).",
+        "tr": "**Aleksis Tsipras** başbakan oldu (borç krizi yılları).",
+        "en": "**Alexis Tsipras** became prime minister (years of the debt crisis)."
+       }
+      }
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Άλλα σημαντικά ονόματα: **Κωνσταντίνος Μητσοτάκης** (πρωθυπουργός 1990-1993), **Ευάγγελος Αβέρωφ** (πολιτικός της Νέας Δημοκρατίας) — εμφανίζονται ως λάθος επιλογές σε ερωτήσεις με εικόνα.",
+       "tr": "Diğer önemli isimler: **Konstantinos Mitsotakis** (başbakan 1990-1993), **Evangelos Averof** (Yeni Demokrasi politikacısı) — bunlar fotoğraflı sorularda yanlış seçenek olarak çıkar.",
+       "en": "Other important names: **Konstantinos Mitsotakis** (prime minister 1990-1993), **Evangelos Averoff** (New Democracy politician) — they appear as wrong options in picture questions."
+      },
+      {
+       "el": "Αντιστοίχιση: **Αλέξης Τσίπρας ↔ 2015**.",
+       "tr": "Eşleştirme: **Aleksis Tsipras ↔ 2015**.",
+       "en": "Matching: **Alexis Tsipras ↔ 2015**."
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Ερώτηση με εικόνα: **η εξέγερση των φοιτητών στο Πολυτεχνείο τον Νοέμβριο του 1973**. Τουρκική εισβολή στην Κύπρο = **20 Ιουλίου 1974**. Η περίοδος μετά την πτώση της Χούντας = **Μεταπολίτευση**· το 1974 αποκαταστάθηκε η **Δημοκρατία**.",
+      "tr": "Fotoğraflı soru: **Kasım 1973 Politeknik ayaklanması**. Kıbrıs istilası = **20 Temmuz 1974**. Cuntanın düşüşünden sonraki dönem = **Metapolitefsi**; 1974'te **demokrasi** yeniden kuruldu.",
+      "en": "Picture question: **the Polytechnic uprising of November 1973**. Invasion of Cyprus = **20 July 1974**. The period after the junta fell = **Metapolitefsi**; in 1974 **democracy** was restored."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Χούντα των Συνταγματαρχών",
+       "tr": "Albaylar Cuntası",
+       "en": "Colonels' Junta"
+      },
+      {
+       "el": "Παπαδόπουλος",
+       "tr": "Papadopoulos",
+       "en": "Papadopoulos"
+      },
+      {
+       "el": "Αλέκος Παναγούλης",
+       "tr": "Alekos Panagoulis",
+       "en": "Alekos Panagoulis"
+      },
+      {
+       "el": "Πολυτεχνείο",
+       "tr": "Politeknik",
+       "en": "Polytechnic"
+      },
+      {
+       "el": "τουρκική εισβολή στην Κύπρο",
+       "tr": "Kıbrıs'a Türk istilası",
+       "en": "Turkish invasion of Cyprus"
+      },
+      {
+       "el": "Μεταπολίτευση",
+       "tr": "Metapolitefsi (Rejim Değişikliği)",
+       "en": "Metapolitefsi (regime change)"
+      },
+      {
+       "el": "Δημοκρατία",
+       "tr": "Demokrasi",
+       "en": "Democracy"
+      },
+      {
+       "el": "ΕΟΚ",
+       "tr": "AET",
+       "en": "EEC"
+      },
+      {
+       "el": "Κωνσταντίνος Μητσοτάκης",
+       "tr": "Konstantinos Mitsotakis",
+       "en": "Konstantinos Mitsotakis"
+      },
+      {
+       "el": "Αλέξης Τσίπρας",
+       "tr": "Aleksis Tsipras",
+       "en": "Alexis Tsipras"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "his-9",
+    "his-31",
+    "his-33",
+    "his-45",
+    "his-49",
+    "his-52",
+    "his-60",
+    "his-67",
+    "his-68"
+   ]
+  }
+ ]
 }

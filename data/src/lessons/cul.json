@@ -1,582 +1,3162 @@
 {
-  "subject": "cul",
-  "intro": {
-    "tr": "Kültür sınavı iki bölümden oluşur: A) Antik eserler ve kültürel miras (mitoloji, antik uygarlıklar, müzeler, Bizans anıtları) ve B) Çağdaş kültür (müzik, sinema, edebiyat, spor, gelenekler). Sorular çoğunlukla eşleştirme ve kim/ne/nerede türündedir: tabloları ezberleyin ve Yunanca adları tanımayı öğrenin, çünkü sınav Yunancadır. Fotoğraflı sorularda resmi değil, arkasındaki bilgiyi öğrenin.",
-    "en": "The culture exam has two parts: A) Antiquities and cultural heritage (mythology, ancient civilisations, museums, Byzantine monuments) and B) Contemporary culture (music, cinema, literature, sport, customs). Questions are mostly matching and who/what/where questions: memorise the tables and learn to recognise the Greek names, because the exam is in Greek. For photo-based questions, learn the facts behind the picture."
-  },
-  "sections": [
+ "subject": "cul",
+ "intro": {
+  "el": "Η εξέταση στον Πολιτισμό έχει δύο ενότητες: Α) Αρχαιότητες και πολιτιστική κληρονομιά (μυθολογία, αρχαίοι πολιτισμοί, μουσεία, βυζαντινά μνημεία) και Β) Σύγχρονος πολιτισμός (μουσική, κινηματογράφος, λογοτεχνία, αθλητισμός, έθιμα). Οι ερωτήσεις είναι κυρίως αντιστοίχισης και του τύπου ποιος/τι/πού: μάθετε καλά τους πίνακες και μάθετε να αναγνωρίζετε τα ελληνικά ονόματα, γιατί η εξέταση γίνεται στα ελληνικά. Στις ερωτήσεις με φωτογραφίες, μάθετε τις πληροφορίες πίσω από την εικόνα, όχι την ίδια την εικόνα.",
+  "tr": "Kültür sınavı iki bölümden oluşur: A) Antik eserler ve kültürel miras (mitoloji, antik uygarlıklar, müzeler, Bizans anıtları) ve B) Çağdaş kültür (müzik, sinema, edebiyat, spor, gelenekler). Sorular çoğunlukla eşleştirme ve kim/ne/nerede türündedir: tabloları ezberleyin ve Yunanca adları tanımayı öğrenin, çünkü sınav Yunancadır. Fotoğraflı sorularda resmi değil, arkasındaki bilgiyi öğrenin.",
+  "en": "The culture exam has two parts: A) Antiquities and cultural heritage (mythology, ancient civilisations, museums, Byzantine monuments) and B) Contemporary culture (music, cinema, literature, sport, customs). Questions are mostly matching and who/what/where questions: memorise the tables and learn to recognise the Greek names, because the exam is in Greek. For photo-based questions, learn the facts behind the picture."
+ },
+ "sections": [
+  {
+   "id": "cul-olympian-gods",
+   "title": {
+    "el": "Οι Δώδεκα Θεοί του Ολύμπου",
+    "tr": "Olimpos'un On İki Tanrısı",
+    "en": "The Twelve Gods of Olympus"
+   },
+   "icon": "⚡",
+   "summary": {
+    "el": "Οι δώδεκα θεοί του Ολύμπου, οι τομείς τους, τα σύμβολά τους και ο μύθος για την προστασία της Αθήνας.",
+    "tr": "On iki Olimpos tanrısı, görev alanları, simgeleri ve Atina'nın koruyuculuğu mitosu.",
+    "en": "The twelve Olympian gods, their domains, their symbols and the myth of the patronage of Athens."
+   },
+   "blocks": [
     {
-      "id": "cul-olympian-gods",
-      "title": {"el": "Οι Δώδεκα Θεοί του Ολύμπου", "tr": "Olimpos'un On İki Tanrısı", "en": "The Twelve Gods of Olympus"},
-      "icon": "⚡",
-      "summary": {"tr": "On iki Olimpos tanrısı, görev alanları, simgeleri ve Atina'nın koruyuculuğu mitosu.", "en": "The twelve Olympian gods, their domains, their symbols and the myth of the patronage of Athens."},
-      "blocks": [
-        {"type": "p", "text": {
-          "tr": "Yunan mitolojisine göre tanrılar Olimpos Dağı'nda yaşardı. **On İki Tanrı** şunlardır: **Zeus, Hera, Poseidon, Apollon, Athena, Afrodit, Ares, Hermes, Artemis, Demeter, Hestia, Hefaistos**. Sınavda bunlardan dördünü yazmanız istenebilir.",
-          "en": "According to Greek mythology the gods lived on Mount Olympus. The **Twelve Gods** are: **Zeus, Hera, Poseidon, Apollo, Athena, Aphrodite, Ares, Hermes, Artemis, Demeter, Hestia, Hephaestus**. The exam may ask you to write four of them."}},
-        {"type": "table",
-          "head": [{"tr": "Tanrı", "en": "God"}, {"tr": "Alanı", "en": "Domain"}, {"tr": "Simge", "en": "Symbol"}],
-          "rows": [
-            [{"tr": "Zeus (Δίας)", "en": "Zeus (Δίας)"}, {"tr": "tanrıların babası, gök ve şimşek", "en": "father of the gods, sky and thunder"}, {"tr": "yıldırım, kartal", "en": "thunderbolt, eagle"}],
-            [{"tr": "Hera (Ήρα)", "en": "Hera (Ήρα)"}, {"tr": "Zeus'un eşi, evlilik", "en": "wife of Zeus, marriage"}, {"tr": "taç", "en": "crown"}],
-            [{"tr": "Poseidon (Ποσειδώνας)", "en": "Poseidon (Ποσειδώνας)"}, {"tr": "denizin tanrısı", "en": "god of the sea"}, {"tr": "üç dişli mızrak (τρίαινα)", "en": "trident (τρίαινα)"}],
-            [{"tr": "Athena (Αθηνά)", "en": "Athena (Αθηνά)"}, {"tr": "bilgelik tanrıçası, Atina'nın koruyucusu", "en": "goddess of wisdom, protector of Athens"}, {"tr": "zeytin ağacı, baykuş", "en": "olive tree, owl"}],
-            [{"tr": "Apollon (Απόλλωνας)", "en": "Apollo (Απόλλωνας)"}, {"tr": "ışık, müzik ve uyum, kehanet (Delfi)", "en": "light, music and harmony, prophecy (Delphi)"}, {"tr": "lir", "en": "lyre"}],
-            [{"tr": "Artemis (Άρτεμις)", "en": "Artemis (Άρτεμις)"}, {"tr": "av ve doğa", "en": "hunting and nature"}, {"tr": "yay ve ok", "en": "bow and arrow"}],
-            [{"tr": "Afrodit (Αφροδίτη)", "en": "Aphrodite (Αφροδίτη)"}, {"tr": "aşk ve güzellik", "en": "love and beauty"}, {"tr": "güvercin", "en": "dove"}],
-            [{"tr": "Ares (Άρης)", "en": "Ares (Άρης)"}, {"tr": "savaş", "en": "war"}, {"tr": "mızrak (δόρυ)", "en": "spear (δόρυ)"}],
-            [{"tr": "Hermes (Ερμής)", "en": "Hermes (Ερμής)"}, {"tr": "tanrıların habercisi, ticaret", "en": "messenger of the gods, trade"}, {"tr": "kanatlı sandaletler", "en": "winged sandals"}],
-            [{"tr": "Hefaistos (Ήφαιστος)", "en": "Hephaestus (Ήφαιστος)"}, {"tr": "ateş ve demircilik", "en": "fire and metalworking"}, {"tr": "çekiç, örs", "en": "hammer, anvil"}],
-            [{"tr": "Demeter (Δήμητρα)", "en": "Demeter (Δήμητρα)"}, {"tr": "tarım ve bereket", "en": "agriculture and harvest"}, {"tr": "başak", "en": "ear of wheat"}],
-            [{"tr": "Hestia (Εστία)", "en": "Hestia (Εστία)"}, {"tr": "ev ocağı", "en": "the hearth"}, {"tr": "ocak ateşi", "en": "hearth fire"}]
-          ]},
-        {"type": "p", "text": {
-          "tr": "**Dionysos (Διόνυσος)** şarabın tanrısıdır; simgesi **asma / bağ (αμπέλι)**'dır. Sınav eşleştirmesi: Poseidon → üç dişli mızrak, Hermes → kanatlı sandaletler, Ares → mızrak, Dionysos → asma.",
-          "en": "**Dionysus (Διόνυσος)** is the god of wine; his symbol is the **vine (αμπέλι)**. Exam matching: Poseidon → trident, Hermes → winged sandals, Ares → spear, Dionysus → vine."}},
-        {"type": "p", "text": {
-          "tr": "**Atina'nın koruyuculuğu:** Mitosa göre **Athena ve Poseidon** Atina'nın koruyuculuğu için yarıştı. Poseidon Akropolis'ten tuzlu su fışkırttı, Athena ise bir **zeytin ağacı** hediye etti. Atinalılar Athena'yı seçti ve şehir onun adını aldı.",
-          "en": "**The patronage of Athens:** According to myth, **Athena and Poseidon** contended for the patronage of Athens. Poseidon made salt water spring from the Acropolis, Athena offered an **olive tree**. The Athenians chose Athena and the city took her name."}},
-        {"type": "tip", "text": {
-          "tr": "Dikkat: Müziğin ve uyumun tanrısı **Apollon**'dur, Hefaistos değil (Hefaistos ateş ve demircilik tanrısıdır). Denizin tanrısı Poseidon'dur — bu doğrudur.",
-          "en": "Watch out: the god of music and harmony is **Apollo**, not Hephaestus (Hephaestus is the god of fire and metalworking). Poseidon is the god of the sea — that is true."}},
-        {"type": "terms", "items": [
-          {"el": "Δώδεκα Θεοί του Ολύμπου", "tr": "Olimpos'un On İki Tanrısı", "en": "Twelve Gods of Olympus"},
-          {"el": "Δίας", "tr": "Zeus", "en": "Zeus"},
-          {"el": "Ποσειδώνας", "tr": "Poseidon", "en": "Poseidon"},
-          {"el": "Αθηνά", "tr": "Athena", "en": "Athena"},
-          {"el": "Ήφαιστος", "tr": "Hefaistos", "en": "Hephaestus"},
-          {"el": "Διόνυσος", "tr": "Dionysos", "en": "Dionysus"},
-          {"el": "τρίαινα", "tr": "üç dişli mızrak", "en": "trident"},
-          {"el": "δόρυ", "tr": "mızrak", "en": "spear"},
-          {"el": "φτερωτά σανδάλια", "tr": "kanatlı sandaletler", "en": "winged sandals"},
-          {"el": "αμπέλι", "tr": "asma (bağ)", "en": "vine"}
-        ]}
-      ],
-      "questions": ["cul-1", "cul-4", "cul-5", "cul-11", "cul-19"]
+     "type": "p",
+     "text": {
+      "el": "Σύμφωνα με την ελληνική μυθολογία, οι θεοί ζούσαν στον Όλυμπο. Οι **Δώδεκα Θεοί** είναι: **Δίας, Ήρα, Ποσειδώνας, Απόλλωνας, Αθηνά, Αφροδίτη, Άρης, Ερμής, Άρτεμις, Δήμητρα, Εστία, Ήφαιστος**. Στην εξέταση μπορεί να σας ζητηθεί να γράψετε τέσσερις από αυτούς.",
+      "tr": "Yunan mitolojisine göre tanrılar Olimpos Dağı'nda yaşardı. **On İki Tanrı** şunlardır: **Zeus, Hera, Poseidon, Apollon, Athena, Afrodit, Ares, Hermes, Artemis, Demeter, Hestia, Hefaistos**. Sınavda bunlardan dördünü yazmanız istenebilir.",
+      "en": "According to Greek mythology the gods lived on Mount Olympus. The **Twelve Gods** are: **Zeus, Hera, Poseidon, Apollo, Athena, Aphrodite, Ares, Hermes, Artemis, Demeter, Hestia, Hephaestus**. The exam may ask you to write four of them."
+     }
     },
     {
-      "id": "cul-myths",
-      "title": {"el": "Μύθοι, ήρωες και θεότητες", "tr": "Mitler, kahramanlar ve tanrısal varlıklar", "en": "Myths, heroes and minor deities"},
-      "icon": "🏺",
-      "summary": {"tr": "Tufan, Europa, Argonotlar, Truva Atı ve Nymphalar, Kharisler, Erinyesler, Musalar.", "en": "The flood, Europa, the Argonauts, the Trojan Horse and the Nymphs, Graces, Erinyes and Muses."},
-      "blocks": [
-        {"type": "list", "items": [
-          {"tr": "**Büyük tufan:** Zeus insanları bir tufanla cezalandırdı; kurtulan tek insanlar **Deukalion ve Pyrrha (Δευκαλίων και Πύρρα)** idi. Onlar insan soyunu yeniden başlattı.", "en": "**The great flood:** Zeus punished mankind with a flood; the only survivors were **Deucalion and Pyrrha (Δευκαλίων και Πύρρα)**, who started the human race again."},
-          {"tr": "**Europa mitosu:** **Zeus** beyaz bir boğa kılığına girerek Fenikeli prenses Europa'yı kaçırdı ve Girit'e götürdü. Avrupa kıtası adını ondan alır.", "en": "**The myth of Europa:** **Zeus**, disguised as a white bull, carried off the Phoenician princess Europa to Crete. The continent of Europe is named after her."},
-          {"tr": "**Argonotlar seferi:** Iason ve arkadaşları Altın Post'u bulmak için Kolhis'e yelken açtı. Sefer adını Iason'un gemisi **Argo (Αργώ)**'dan alır (Argonot = Argo'nun denizcisi).", "en": "**The Argonautic expedition:** Jason and his companions sailed to Colchis for the Golden Fleece. The expedition is named after Jason's ship, the **Argo (Αργώ)** (Argonaut = sailor of the Argo)."},
-          {"tr": "**Truva Savaşı:** Yunanlar Truva'yı içine askerlerin saklandığı tahta bir atla, **Truva Atı (Δούρειος Ίππος)** ile ele geçirdi.", "en": "**The Trojan War:** The Greeks captured Troy with a wooden horse with soldiers hidden inside, the **Trojan Horse (Δούρειος Ίππος)**."}
-        ]},
-        {"type": "table",
-          "head": [{"tr": "Tanrısal varlıklar", "en": "Deities"}, {"tr": "Ne ile ilgilidirler", "en": "What they are associated with"}],
-          "rows": [
-            [{"tr": "Nymphalar (Νύμφες)", "en": "Nymphs (Νύμφες)"}, {"tr": "nehirler, göller ve bitki örtüsüyle ilişkili yarı tanrıçalar", "en": "demi-goddesses associated with rivers, lakes and vegetation"}],
-            [{"tr": "Kharisler (Χάριτες)", "en": "Graces (Χάριτες)"}, {"tr": "çekiciliğin, yaratıcılığın ve doğurganlığın tanrıçaları", "en": "goddesses of charm, creation and fertility"}],
-            [{"tr": "Erinyesler (Ερινύες)", "en": "Erinyes / Furies (Ερινύες)"}, {"tr": "ahlaki ve doğal düzene karşı suç işleyenleri cezalandıran tanrısallıklar", "en": "avenging deities who punished crimes against the moral and natural order"}],
-            [{"tr": "Musalar (Μούσες)", "en": "Muses (Μούσες)"}, {"tr": "sanatların ve edebiyatın tanrısallıkları", "en": "deities of the arts and letters"}]
-          ]},
-        {"type": "tip", "text": {
-          "tr": "Hatırlatma: **Musa** → müzik/müze (sanat); **Erinyes** → intikam; **Nympha** → su ve doğa; **Kharis** → çekicilik (charisma kelimesi buradan gelir).",
-          "en": "Memory aid: **Muse** → music/museum (arts); **Erinyes** → revenge; **Nymph** → water and nature; **Charis** → charm (the word charisma comes from it)."}},
-        {"type": "tip", "text": {
-          "tr": "Çeldiriciler: «Από μηχανής Θεός» (makineden tanrı) bir tiyatro tekniğidir, «Υγρόν Πυρ» (Rum ateşi) Bizans silahıdır, koçbaşı ise kuşatma aracıdır. Truva'yı alan **Δούρειος Ίππος**'tur.",
-          "en": "Distractors: «Από μηχανής Θεός» (deus ex machina) is a theatre device, «Υγρόν Πυρ» (Greek fire) is a Byzantine weapon and the battering ram is a siege engine. Troy was taken with the **Δούρειος Ίππος**."}},
-        {"type": "terms", "items": [
-          {"el": "Δευκαλίων και Πύρρα", "tr": "Deukalion ve Pyrrha", "en": "Deucalion and Pyrrha"},
-          {"el": "κατακλυσμός", "tr": "tufan", "en": "flood"},
-          {"el": "Ευρώπη", "tr": "Europa", "en": "Europa"},
-          {"el": "αργοναυτική εκστρατεία", "tr": "Argonotlar seferi", "en": "Argonautic expedition"},
-          {"el": "Αργώ", "tr": "Argo (Iason'un gemisi)", "en": "Argo (Jason's ship)"},
-          {"el": "Δούρειος Ίππος", "tr": "Truva Atı", "en": "Trojan Horse"},
-          {"el": "Νύμφες", "tr": "Nymphalar", "en": "Nymphs"},
-          {"el": "Χάριτες", "tr": "Kharisler", "en": "Graces"},
-          {"el": "Ερινύες", "tr": "Erinyesler", "en": "Erinyes"},
-          {"el": "Μούσες", "tr": "Musalar", "en": "Muses"}
-        ]}
+     "type": "table",
+     "head": [
+      {
+       "el": "Θεός",
+       "tr": "Tanrı",
+       "en": "God"
+      },
+      {
+       "el": "Τομέας",
+       "tr": "Alanı",
+       "en": "Domain"
+      },
+      {
+       "el": "Σύμβολο",
+       "tr": "Simge",
+       "en": "Symbol"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Δίας",
+        "tr": "Zeus (Δίας)",
+        "en": "Zeus (Δίας)"
+       },
+       {
+        "el": "πατέρας των θεών, ουρανός και κεραυνοί",
+        "tr": "tanrıların babası, gök ve şimşek",
+        "en": "father of the gods, sky and thunder"
+       },
+       {
+        "el": "κεραυνός, αετός",
+        "tr": "yıldırım, kartal",
+        "en": "thunderbolt, eagle"
+       }
       ],
-      "questions": ["cul-2", "cul-6", "cul-7", "cul-8", "cul-21"]
+      [
+       {
+        "el": "Ήρα",
+        "tr": "Hera (Ήρα)",
+        "en": "Hera (Ήρα)"
+       },
+       {
+        "el": "σύζυγος του Δία, γάμος",
+        "tr": "Zeus'un eşi, evlilik",
+        "en": "wife of Zeus, marriage"
+       },
+       {
+        "el": "στέμμα",
+        "tr": "taç",
+        "en": "crown"
+       }
+      ],
+      [
+       {
+        "el": "Ποσειδώνας",
+        "tr": "Poseidon (Ποσειδώνας)",
+        "en": "Poseidon (Ποσειδώνας)"
+       },
+       {
+        "el": "θεός της θάλασσας",
+        "tr": "denizin tanrısı",
+        "en": "god of the sea"
+       },
+       {
+        "el": "τρίαινα",
+        "tr": "üç dişli mızrak (τρίαινα)",
+        "en": "trident (τρίαινα)"
+       }
+      ],
+      [
+       {
+        "el": "Αθηνά",
+        "tr": "Athena (Αθηνά)",
+        "en": "Athena (Αθηνά)"
+       },
+       {
+        "el": "θεά της σοφίας, προστάτιδα της Αθήνας",
+        "tr": "bilgelik tanrıçası, Atina'nın koruyucusu",
+        "en": "goddess of wisdom, protector of Athens"
+       },
+       {
+        "el": "ελιά, κουκουβάγια",
+        "tr": "zeytin ağacı, baykuş",
+        "en": "olive tree, owl"
+       }
+      ],
+      [
+       {
+        "el": "Απόλλωνας",
+        "tr": "Apollon (Απόλλωνας)",
+        "en": "Apollo (Απόλλωνας)"
+       },
+       {
+        "el": "φως, μουσική και αρμονία, μαντική (Δελφοί)",
+        "tr": "ışık, müzik ve uyum, kehanet (Delfi)",
+        "en": "light, music and harmony, prophecy (Delphi)"
+       },
+       {
+        "el": "λύρα",
+        "tr": "lir",
+        "en": "lyre"
+       }
+      ],
+      [
+       {
+        "el": "Άρτεμις",
+        "tr": "Artemis (Άρτεμις)",
+        "en": "Artemis (Άρτεμις)"
+       },
+       {
+        "el": "κυνήγι και φύση",
+        "tr": "av ve doğa",
+        "en": "hunting and nature"
+       },
+       {
+        "el": "τόξο και βέλος",
+        "tr": "yay ve ok",
+        "en": "bow and arrow"
+       }
+      ],
+      [
+       {
+        "el": "Αφροδίτη",
+        "tr": "Afrodit (Αφροδίτη)",
+        "en": "Aphrodite (Αφροδίτη)"
+       },
+       {
+        "el": "έρωτας και ομορφιά",
+        "tr": "aşk ve güzellik",
+        "en": "love and beauty"
+       },
+       {
+        "el": "περιστέρι",
+        "tr": "güvercin",
+        "en": "dove"
+       }
+      ],
+      [
+       {
+        "el": "Άρης",
+        "tr": "Ares (Άρης)",
+        "en": "Ares (Άρης)"
+       },
+       {
+        "el": "πόλεμος",
+        "tr": "savaş",
+        "en": "war"
+       },
+       {
+        "el": "δόρυ",
+        "tr": "mızrak (δόρυ)",
+        "en": "spear (δόρυ)"
+       }
+      ],
+      [
+       {
+        "el": "Ερμής",
+        "tr": "Hermes (Ερμής)",
+        "en": "Hermes (Ερμής)"
+       },
+       {
+        "el": "αγγελιοφόρος των θεών, εμπόριο",
+        "tr": "tanrıların habercisi, ticaret",
+        "en": "messenger of the gods, trade"
+       },
+       {
+        "el": "φτερωτά σανδάλια",
+        "tr": "kanatlı sandaletler",
+        "en": "winged sandals"
+       }
+      ],
+      [
+       {
+        "el": "Ήφαιστος",
+        "tr": "Hefaistos (Ήφαιστος)",
+        "en": "Hephaestus (Ήφαιστος)"
+       },
+       {
+        "el": "φωτιά και σιδηρουργία",
+        "tr": "ateş ve demircilik",
+        "en": "fire and metalworking"
+       },
+       {
+        "el": "σφυρί, αμόνι",
+        "tr": "çekiç, örs",
+        "en": "hammer, anvil"
+       }
+      ],
+      [
+       {
+        "el": "Δήμητρα",
+        "tr": "Demeter (Δήμητρα)",
+        "en": "Demeter (Δήμητρα)"
+       },
+       {
+        "el": "γεωργία και σοδειά",
+        "tr": "tarım ve bereket",
+        "en": "agriculture and harvest"
+       },
+       {
+        "el": "στάχυ",
+        "tr": "başak",
+        "en": "ear of wheat"
+       }
+      ],
+      [
+       {
+        "el": "Εστία",
+        "tr": "Hestia (Εστία)",
+        "en": "Hestia (Εστία)"
+       },
+       {
+        "el": "η εστία του σπιτιού",
+        "tr": "ev ocağı",
+        "en": "the hearth"
+       },
+       {
+        "el": "η φωτιά της εστίας",
+        "tr": "ocak ateşi",
+        "en": "hearth fire"
+       }
+      ]
+     ]
     },
     {
-      "id": "cul-prehistoric",
-      "title": {"el": "Κυκλαδικός, Μινωικός και Μυκηναϊκός πολιτισμός", "tr": "Kiklad, Minos ve Miken uygarlıkları", "en": "Cycladic, Minoan and Mycenaean civilisations"},
-      "icon": "🗿",
-      "summary": {"tr": "Ege'nin tarih öncesi uygarlıkları ve onları tanımaya yarayan eserler.", "en": "The prehistoric civilisations of the Aegean and the artworks that identify them."},
-      "blocks": [
-        {"type": "table",
-          "head": [{"tr": "Uygarlık", "en": "Civilisation"}, {"tr": "Nerede", "en": "Where"}, {"tr": "Tipik eserler", "en": "Typical works"}],
-          "rows": [
-            [{"tr": "Kiklad (Κυκλαδικός)", "en": "Cycladic (Κυκλαδικός)"}, {"tr": "Kiklad adaları", "en": "Cyclades islands"}, {"tr": "beyaz **mermer figürinler**: kolları göğsünde kavuşturulmuş sade figürler, oturan figürler (ör. arp çalan)", "en": "white **marble figurines**: simple figures with arms folded across the chest, seated figures (e.g. the harpist)"}],
-            [{"tr": "Minos (Μινωικός)", "en": "Minoan (Μινωικός)"}, {"tr": "Girit – merkezi **Knossos Sarayı**", "en": "Crete – centre: the **Palace of Knossos**"}, {"tr": "saray **duvar resimleri (freskler)**, **Yılanlı Tanrıça** heykelcikleri", "en": "palace **frescoes**, the **Snake Goddess** figurines"}],
-            [{"tr": "Miken (Μυκηναϊκός)", "en": "Mycenaean (Μυκηναϊκός)"}, {"tr": "Mora – Miken", "en": "Peloponnese – Mycenae"}, {"tr": "**Aslanlı Kapı**, mezarlardaki altın eşyalar, **Agamemnon'un altın maskesi**", "en": "the **Lion Gate**, gold objects from the tombs, the **gold Mask of Agamemnon**"}]
-          ]},
-        {"type": "tip", "text": {
-          "tr": "Resim sorularında ayırt etme: kolları kavuşturulmuş veya oturan **mermer** figür → Kiklad. Fresk ve Yılanlı Tanrıça → Minos. Aslanlı Kapı → Miken (Minos değil!). Pişmiş toprak **Tanagra** figürinleri ve arkaik **kore** heykelleri ne Kiklad ne Minos'tur.",
-          "en": "Telling them apart in picture questions: **marble** figure with folded arms or seated → Cycladic. Fresco and Snake Goddess → Minoan. Lion Gate → Mycenaean (not Minoan!). Terracotta **Tanagra** figurines and Archaic **kore** statues are neither Cycladic nor Minoan."}},
-        {"type": "p", "text": {
-          "tr": "**Knossos Sarayı Girit'tedir** (Kandiye yakınında). Minos uygarlığının şaheserleri bugün başta **Kandiye (Heraklion) Arkeoloji Müzesi**'nde sergilenir.",
-          "en": "**The Palace of Knossos is in Crete** (near Heraklion). The masterpieces of the Minoan civilisation are displayed mainly in the **Heraklion Archaeological Museum**."}},
-        {"type": "p", "text": {
-          "tr": "**Agamemnon'un maskesi:** **Miken** kazılarında (Heinrich Schliemann) bulunan altın maskenin, Truva Savaşı'nda Yunanların lideri **Agamemnon**'u tasvir ettiğine inanılır. Bir **mezarın** içinde bulunmuştur ve bugün **Atina** Ulusal Arkeoloji Müzesi'ndedir.",
-          "en": "**The Mask of Agamemnon:** the gold mask found in the excavations at **Mycenae** (Heinrich Schliemann) is believed to depict **Agamemnon**, leader of the Greeks in the Trojan War. It was found inside a **tomb** and is today in the National Archaeological Museum of **Athens**."}},
-        {"type": "map", "places": [
-          {"name": {"el": "Κνωσός", "tr": "Knossos", "en": "Knossos"}, "lat": 35.298, "lon": 25.163},
-          {"name": {"el": "Μυκήνες", "tr": "Miken", "en": "Mycenae"}, "lat": 37.731, "lon": 22.756},
-          {"name": {"el": "Κυκλάδες (Νάξος)", "tr": "Kiklad adaları (Naksos)", "en": "Cyclades (Naxos)"}, "lat": 37.06, "lon": 25.47}
-        ]},
-        {"type": "terms", "items": [
-          {"el": "Κυκλαδικός πολιτισμός", "tr": "Kiklad uygarlığı", "en": "Cycladic civilisation"},
-          {"el": "Μινωικός πολιτισμός", "tr": "Minos uygarlığı", "en": "Minoan civilisation"},
-          {"el": "Ανάκτορο της Κνωσού", "tr": "Knossos Sarayı", "en": "Palace of Knossos"},
-          {"el": "Μυκηνών", "tr": "Miken (-in)", "en": "of Mycenae"},
-          {"el": "χρυσή προσωπίδα", "tr": "altın mask", "en": "gold mask"},
-          {"el": "Αγαμέμνονα", "tr": "Agamemnon", "en": "Agamemnon"},
-          {"el": "τάφο", "tr": "mezar", "en": "tomb"},
-          {"el": "Αρχαιολογικό Μουσείο Ηρακλείου", "tr": "Kandiye Arkeoloji Müzesi", "en": "Heraklion Archaeological Museum"}
-        ]}
-      ],
-      "questions": ["cul-9", "cul-10", "cul-11", "cul-15"]
+     "type": "p",
+     "text": {
+      "el": "Ο **Διόνυσος** είναι ο θεός του κρασιού· σύμβολό του είναι το **αμπέλι**. Αντιστοίχιση της εξέτασης: Ποσειδώνας → τρίαινα, Ερμής → φτερωτά σανδάλια, Άρης → δόρυ, Διόνυσος → αμπέλι.",
+      "tr": "**Dionysos (Διόνυσος)** şarabın tanrısıdır; simgesi **asma / bağ (αμπέλι)**'dır. Sınav eşleştirmesi: Poseidon → üç dişli mızrak, Hermes → kanatlı sandaletler, Ares → mızrak, Dionysos → asma.",
+      "en": "**Dionysus (Διόνυσος)** is the god of wine; his symbol is the **vine (αμπέλι)**. Exam matching: Poseidon → trident, Hermes → winged sandals, Ares → spear, Dionysus → vine."
+     }
     },
     {
-      "id": "cul-sites-oracles",
-      "title": {"el": "Αρχαιολογικοί χώροι, μαντεία και αγώνες", "tr": "Arkeolojik alanlar, kehanet merkezleri ve yarışmalar", "en": "Archaeological sites, oracles and contests"},
-      "icon": "🏛️",
-      "summary": {"tr": "Delfi, Dodona ve diğer kehanet merkezleri; büyük arkeolojik alanların bölgeleri; antik müzik yarışmaları.", "en": "Delphi, Dodona and the other oracles; the regions of the major archaeological sites; ancient musical contests."},
-      "blocks": [
-        {"type": "table",
-          "head": [{"tr": "Kehanet merkezi", "en": "Oracle"}, {"tr": "Yer", "en": "Place"}, {"tr": "Not", "en": "Note"}],
-          "rows": [
-            [{"tr": "Apollon'un kehanet merkezi", "en": "Oracle of Apollo"}, {"tr": "Delfi", "en": "Delphi"}, {"tr": "antik çağın **en ünlüsü**", "en": "the **most famous** of antiquity"}],
-            [{"tr": "Zeus'un kehanet merkezi", "en": "Oracle of Zeus"}, {"tr": "Dodona (Epir)", "en": "Dodona (Epirus)"}, {"tr": "**en eskisi**", "en": "the **oldest**"}],
-            [{"tr": "Zeus Ammon'un kehanet merkezi", "en": "Oracle of Zeus Ammon"}, {"tr": "Mısır", "en": "Egypt"}, {"tr": "Yunanlar için de önemliydi", "en": "also important for the Greeks"}],
-            [{"tr": "Nekromanteion (Ölüler Kehanet Merkezi)", "en": "Necromanteion (Oracle of the Dead)"}, {"tr": "Mesopotamos, Preveze", "en": "Mesopotamos, Preveza"}, {"tr": "yakınlar ölülerin ruhlarıyla iletişim kurardı", "en": "relatives communicated with the souls of the dead"}]
-          ]},
-        {"type": "table",
-          "head": [{"tr": "Arkeolojik alan", "en": "Archaeological site"}, {"tr": "Bölge", "en": "Region"}],
-          "rows": [
-            [{"tr": "Vergina (Makedon kral mezarları)", "en": "Vergina (Macedonian royal tombs)"}, {"tr": "Makedonya", "en": "Macedonia"}],
-            [{"tr": "Olimpiya (Olimpiyat Oyunları'nın doğduğu yer)", "en": "Olympia (birthplace of the Olympic Games)"}, {"tr": "Mora Yarımadası", "en": "Peloponnese"}],
-            [{"tr": "Delfi", "en": "Delphi"}, {"tr": "Orta Yunanistan", "en": "Central Greece"}],
-            [{"tr": "Knossos", "en": "Knossos"}, {"tr": "Girit", "en": "Crete"}]
-          ]},
-        {"type": "map", "places": [
-          {"name": {"el": "Δελφοί", "tr": "Delfi", "en": "Delphi"}, "lat": 38.482, "lon": 22.501},
-          {"name": {"el": "Δωδώνη", "tr": "Dodona", "en": "Dodona"}, "lat": 39.546, "lon": 20.788},
-          {"name": {"el": "Νεκρομαντείο (Μεσοπόταμος Πρεβέζης)", "tr": "Nekromanteion (Mesopotamos, Preveze)", "en": "Necromanteion (Mesopotamos, Preveza)"}, "lat": 39.236, "lon": 20.535},
-          {"name": {"el": "Ολυμπία", "tr": "Olimpiya", "en": "Olympia"}, "lat": 37.638, "lon": 21.630},
-          {"name": {"el": "Βεργίνα", "tr": "Vergina", "en": "Vergina"}, "lat": 40.486, "lon": 22.318},
-          {"name": {"el": "Κνωσός", "tr": "Knossos", "en": "Knossos"}, "lat": 35.298, "lon": 25.163}
-        ]},
-        {"type": "p", "text": {
-          "tr": "**Müzik yarışmaları:** Antik Yunan'daki müzik yarışmalarında **şarkı, aulos (nefesli çalgı) ve kithara (telli çalgı)** yer alırdı. Keman, lavta, santur veya üçgen antik yarışmaların çalgıları değildir.",
-          "en": "**Musical contests:** The musical contests of ancient Greece included **song, the aulos (a wind instrument) and the kithara (a string instrument)**. Violin, lute, santouri or triangle were not instruments of the ancient contests."}},
-        {"type": "tip", "text": {
-          "tr": "Delfi = **Apollon** ve en ünlü; Dodona = **Zeus** ve en eski. Kısaca: «Apollon ünlü, Zeus yaşlı».",
-          "en": "Delphi = **Apollo** and most famous; Dodona = **Zeus** and oldest. In short: «Apollo is famous, Zeus is old»."}},
-        {"type": "terms", "items": [
-          {"el": "Μαντείο", "tr": "kehanet merkezi", "en": "oracle"},
-          {"el": "Δελφοί / στους Δελφούς", "tr": "Delfi / Delfi'de", "en": "Delphi / at Delphi"},
-          {"el": "του Απόλλωνα", "tr": "Apollon'un", "en": "of Apollo"},
-          {"el": "Δωδώνη", "tr": "Dodona", "en": "Dodona"},
-          {"el": "του Άμμωνος Δία", "tr": "Zeus Ammon'un", "en": "of Zeus Ammon"},
-          {"el": "το Νεκρομαντείο", "tr": "Nekromanteion", "en": "the Necromanteion"},
-          {"el": "Βεργίνα", "tr": "Vergina", "en": "Vergina"},
-          {"el": "Στερεά Ελλάδα", "tr": "Orta Yunanistan", "en": "Central Greece"},
-          {"el": "τραγούδι, αυλός και κιθάρα", "tr": "şarkı, aulos ve kithara", "en": "song, aulos and kithara"}
-        ]}
-      ],
-      "questions": ["cul-16", "cul-17", "cul-22", "cul-25"]
+     "type": "p",
+     "text": {
+      "el": "**Η προστασία της Αθήνας:** Σύμφωνα με τον μύθο, η **Αθηνά και ο Ποσειδώνας** διεκδίκησαν την προστασία της πόλης. Ο Ποσειδώνας έκανε να αναβλύσει θαλασσινό νερό από την Ακρόπολη, ενώ η Αθηνά χάρισε μια **ελιά**. Οι Αθηναίοι διάλεξαν την Αθηνά και η πόλη πήρε το όνομά της.",
+      "tr": "**Atina'nın koruyuculuğu:** Mitosa göre **Athena ve Poseidon** Atina'nın koruyuculuğu için yarıştı. Poseidon Akropolis'ten tuzlu su fışkırttı, Athena ise bir **zeytin ağacı** hediye etti. Atinalılar Athena'yı seçti ve şehir onun adını aldı.",
+      "en": "**The patronage of Athens:** According to myth, **Athena and Poseidon** contended for the patronage of Athens. Poseidon made salt water spring from the Acropolis, Athena offered an **olive tree**. The Athenians chose Athena and the city took her name."
+     }
     },
     {
-      "id": "cul-classical",
-      "title": {"el": "Κλασική αρχαιότητα: μνημεία, γλυπτά και γράμματα", "tr": "Klasik antik çağ: anıtlar, heykeller ve edebiyat", "en": "Classical antiquity: monuments, sculptures and letters"},
-      "icon": "🏛",
-      "summary": {"tr": "Parthenon ve heykelleri, ünlü heykellerin bugün bulunduğu müzeler, Büyük İskender, antik yazarlar.", "en": "The Parthenon and its sculptures, the museums that hold famous statues today, Alexander the Great, ancient authors."},
-      "blocks": [
-        {"type": "p", "text": {
-          "tr": "Antik Atina ile özdeşleşen anıt Akropolis'teki **Parthenon**'dur (Athena tapınağı). Akropolis'in güney yamacında **Herodes Atticus Tiyatrosu (Odeonu)** bulunur — o da **Atina**'dadır.",
-          "en": "The monument identified with ancient Athens is the **Parthenon** on the Acropolis (temple of Athena). On the south slope of the Acropolis stands the **Odeon of Herodes Atticus** — it too is in **Athens**."}},
-        {"type": "list", "items": [
-          {"tr": "**Parthenon heykelleri** Parthenon'dan gelir (Olimpiya'daki Zeus Tapınağı'ndan değil).", "en": "**The Parthenon sculptures** come from the Parthenon (not from the Temple of Zeus at Olympia)."},
-          {"tr": "Sınavın cevabına göre İngiliz **Lord Thomas Elgin** tarafından **çalınmıştır** (19. yüzyıl başı); Yunanistan bunların iadesini talep eder.", "en": "According to the exam answer they **were stolen** by the British **Lord Thomas Elgin** (early 19th century); Greece demands their return."},
-          {"tr": "Bugün **Londra'daki British Museum**'dadır ve **halkın ziyaretine açıktır**.", "en": "Today they are in the **British Museum in London** and **are open to the public**."},
-          {"tr": "Daha sonraki dönemde Parthenon'un içinde bir **Meryem Ana kilisesi** yapılmıştır (doğru ifade).", "en": "In a later period a **church of the Virgin Mary** was built inside the Parthenon (a true statement)."}
-        ]},
-        {"type": "table",
-          "head": [{"tr": "Eser", "en": "Work"}, {"tr": "Bugün bulunduğu yer", "en": "Where it is today"}],
-          "rows": [
-            [{"tr": "Semadirek Nikesi (Νίκη της Σαμοθράκης)", "en": "Winged Victory of Samothrace (Νίκη της Σαμοθράκης)"}, {"tr": "Louvre Müzesi, Paris", "en": "Louvre Museum, Paris"}],
-            [{"tr": "Milos Afroditi (1820'de Milos'ta bulundu, 1821'de kaçırıldı; Helenistik)", "en": "Venus de Milo (found on Milos in 1820, taken away in 1821; Hellenistic)"}, {"tr": "Louvre Müzesi, Paris", "en": "Louvre Museum, Paris"}],
-            [{"tr": "Myron'un Diskobolos'u (Δισκοβόλος)", "en": "Discobolus of Myron (Δισκοβόλος)"}, {"tr": "British Museum, Londra", "en": "British Museum, London"}],
-            [{"tr": "Parthenon heykelleri", "en": "Parthenon sculptures"}, {"tr": "British Museum, Londra", "en": "British Museum, London"}],
-            [{"tr": "Praksiteles'in Hermes'i", "en": "Hermes of Praxiteles"}, {"tr": "Antik Olimpiya Arkeoloji Müzesi", "en": "Archaeological Museum of Ancient Olympia"}],
-            [{"tr": "Arabacı (Ηνίοχος)", "en": "The Charioteer (Ηνίοχος)"}, {"tr": "Delfi Arkeoloji Müzesi", "en": "Archaeological Museum of Delphi"}]
-          ]},
-        {"type": "tip", "text": {
-          "tr": "Hatırlatma: Arabacı **Delfi**'de bulundu ve orada kaldı; Hermes **Olimpiya**'da bulundu ve orada kaldı. Yurt dışındakiler: iki kadın heykeli (Nike, Afrodit) Paris'te, Diskobolos ve Parthenon heykelleri Londra'da.",
-          "en": "Memory aid: the Charioteer was found at **Delphi** and stayed there; Hermes was found at **Olympia** and stayed there. Abroad: the two female statues (Nike, Aphrodite) are in Paris, the Discobolus and Parthenon sculptures in London."}},
-        {"type": "p", "text": {
-          "tr": "**Büyük İskender** (Makedonya kralı) heykellerde genellikle **genç, sakalsız ve kıvırcık saçlı** olarak tasvir edilir; sakallı yaşlı figürler ise genellikle Homeros veya filozoflardır. İskender'in öğretmeni **Aristoteles**'ti — **Platon değil**.",
-          "en": "**Alexander the Great** (king of Macedon) is usually depicted in sculpture as **young, beardless and with curly hair**; bearded elderly figures are usually Homer or philosophers. Alexander's teacher was **Aristotle** — **not Plato**."}},
-        {"type": "list", "items": [
-          {"tr": "**Homeros** «İlyada» ve «Odysseia» destanlarını yazdı.", "en": "**Homer** wrote the epics «Iliad» and «Odyssey»."},
-          {"tr": "«**Kral Oidipus**» **Sofokles**'in bir tragedyasıdır.", "en": "«**Oedipus Rex**» is a tragedy by **Sophocles**."},
-          {"tr": "**Tyrtaios** (Sparta) bir **elegeia şairiydi**.", "en": "**Tyrtaeus** (Sparta) was an **elegiac poet**."}
-        ]},
-        {"type": "p", "text": {
-          "tr": "**Antik dünyanın yedi harikası:** Giza Piramidi, Babil'in Asma Bahçeleri, Olimpiya'daki Zeus heykeli, Efes'teki Artemis Tapınağı, Halikarnas Mozolesi, Rodos Heykeli (Kolossos) ve İskenderiye Feneri. **Thebai surları bunlardan biri değildir.**",
-          "en": "**The seven wonders of the ancient world:** the Pyramid of Giza, the Hanging Gardens of Babylon, the statue of Zeus at Olympia, the Temple of Artemis at Ephesus, the Mausoleum at Halicarnassus, the Colossus of Rhodes and the Lighthouse of Alexandria. **The walls of Thebes are not one of them.**"}},
-        {"type": "terms", "items": [
-          {"el": "Παρθενώνας", "tr": "Parthenon", "en": "Parthenon"},
-          {"el": "Θέατρο Ηρώδου Αττικού", "tr": "Herodes Atticus Tiyatrosu", "en": "Odeon of Herodes Atticus"},
-          {"el": "Λόρδος Τόμας Έλγιν", "tr": "Lord Thomas Elgin", "en": "Lord Thomas Elgin"},
-          {"el": "Βρετανικό Μουσείο", "tr": "British Museum", "en": "British Museum"},
-          {"el": "Μουσείο του Λούβρου", "tr": "Louvre Müzesi", "en": "Louvre Museum"},
-          {"el": "Νίκη της Σαμοθράκης", "tr": "Semadirek Nikesi", "en": "Winged Victory of Samothrace"},
-          {"el": "Δισκοβόλος του Μύρωνα", "tr": "Myron'un Diskobolos'u", "en": "Discobolus of Myron"},
-          {"el": "Ερμής του Πραξιτέλη", "tr": "Praksiteles'in Hermes'i", "en": "Hermes of Praxiteles"},
-          {"el": "Ο Ηνίοχος", "tr": "Arabacı", "en": "The Charioteer"},
-          {"el": "Μήλος", "tr": "Milos", "en": "Milos"},
-          {"el": "Μέγας Αλέξανδρος", "tr": "Büyük İskender", "en": "Alexander the Great"},
-          {"el": "Όμηρος, Σοφοκλής, Τυρταίος", "tr": "Homeros, Sofokles, Tyrtaios", "en": "Homer, Sophocles, Tyrtaeus"}
-        ]}
-      ],
-      "questions": ["cul-3", "cul-11", "cul-12", "cul-14", "cul-18", "cul-20", "cul-23", "cul-24"]
+     "type": "tip",
+     "text": {
+      "el": "Προσοχή: θεός της μουσικής και της αρμονίας είναι ο **Απόλλωνας**, όχι ο Ήφαιστος (ο Ήφαιστος είναι θεός της φωτιάς και της σιδηρουργίας). Ο Ποσειδώνας είναι ο θεός της θάλασσας — αυτό είναι σωστό.",
+      "tr": "Dikkat: Müziğin ve uyumun tanrısı **Apollon**'dur, Hefaistos değil (Hefaistos ateş ve demircilik tanrısıdır). Denizin tanrısı Poseidon'dur — bu doğrudur.",
+      "en": "Watch out: the god of music and harmony is **Apollo**, not Hephaestus (Hephaestus is the god of fire and metalworking). Poseidon is the god of the sea — that is true."
+     }
     },
     {
-      "id": "cul-byzantium",
-      "title": {"el": "Βυζάντιο και ορθόδοξη παράδοση", "tr": "Bizans ve Ortodoks gelenek", "en": "Byzantium and the Orthodox tradition"},
-      "icon": "☦️",
-      "summary": {"tr": "Konstantinopolis'in yapıları, Mistra, Bizans kiliseleri, ikonalar ve çan kulesi.", "en": "The buildings of Constantinople, Mystras, Byzantine churches, icons and the bell tower."},
-      "blocks": [
-        {"type": "table",
-          "head": [{"tr": "İfade (sınav)", "en": "Statement (exam)"}, {"tr": "Doğru/Yanlış", "en": "True/False"}, {"tr": "Doğrusu", "en": "The correct fact"}],
-          "rows": [
-            [{"tr": "Ayasofya Justinianus döneminde inşa edildi", "en": "Hagia Sophia was erected under Justinian"}, {"tr": "Doğru", "en": "True"}, {"tr": "Justinianus (6. yy, 537)", "en": "Justinian (6th c., 537)"}],
-            [{"tr": "Aya İrini Büyük Konstantin tarafından inşa edildi", "en": "Hagia Irene was built by Constantine the Great"}, {"tr": "Doğru", "en": "True"}, {"tr": "Büyük Konstantin", "en": "Constantine the Great"}],
-            [{"tr": "Theodosius Konstantinopolis'in ilk surlarını yaptı", "en": "Theodosius built the first walls of Constantinople"}, {"tr": "Yanlış", "en": "False"}, {"tr": "İlk surlar şehrin kurucusu Büyük Konstantin'indir; Theodosius surları daha sonra yapılmıştır", "en": "The first walls belong to the city's founder, Constantine the Great; the Theodosian Walls came later"}],
-            [{"tr": "Justinianus Hipodrom'u inşa etti", "en": "Justinian erected the Hippodrome"}, {"tr": "Yanlış", "en": "False"}, {"tr": "Hipodrom Justinianus'tan çok önce vardı (Büyük Konstantin tarafından genişletildi)", "en": "The Hippodrome existed long before Justinian (it was enlarged by Constantine the Great)"}],
-            [{"tr": "Hipodrom Konstantinopolis'in karakteristik yapılarından biriydi", "en": "The Hippodrome was one of the characteristic buildings of Constantinople"}, {"tr": "Doğru", "en": "True"}, {"tr": "araba yarışlarının ve halk toplantılarının yeri", "en": "the venue of chariot races and public gatherings"}]
-          ]},
-        {"type": "p", "text": {
-          "tr": "**Mistra (Μυστράς)**, Sparta yakınında, Mora'daki ortaçağ (Bizans) kale-şehridir — **tarih öncesi bir kale değildir**. **Mora Despotluğu'nun başkentiydi**. Yunanistan'da **Bizans sarayları** (Despotlar Sarayı) **Mistra'da** günümüze ulaşmıştır; orada Justinianus'un sarayı yoktur. **6 Ocak 1449**'da son Bizans imparatoru **XI. Konstantinos Palaiologos**, Mistra'daki **Aziz Dimitrios metropolit kilisesinde** taç giydi.",
-          "en": "**Mystras (Μυστράς)**, near Sparta, is a medieval (Byzantine) castle-town in the Peloponnese — **not a prehistoric castle**. It was **the capital of the Despotate of the Morea**. In Greece **Byzantine palaces** (the Palace of the Despots) survive **at Mystras**; there is no palace of Justinian there. On **6 January 1449** the last Byzantine emperor, **Constantine XI Palaiologos**, was crowned in the **metropolitan church of Agios Dimitrios** at Mystras."}},
-        {"type": "list", "items": [
-          {"tr": "**Panagia Kapnikarea**, Atina'nın merkezinde (Ermou Caddesi) bir Bizans kilisesidir.", "en": "**Panagia Kapnikarea** is a Byzantine church in the centre of Athens (Ermou Street)."},
-          {"tr": "**Sümela Manastırı (Panagia Soumela)** Pontus'ta, Trabzon yakınındaydı — Mora'da değil.", "en": "**The Monastery of Panagia Soumela** was in Pontus, near Trabzon — not in the Peloponnese."},
-          {"tr": "14. yüzyıl **ikonalarını** görmek için Atina'da **Bizans ve Hristiyan Müzesi**'ne gidilir (Ulusal Resim Galerisi, Ulusal Arkeoloji Müzesi veya Akropolis Müzesi'ne değil).", "en": "To see 14th-century **icons** in Athens you visit the **Byzantine and Christian Museum** (not the National Gallery, the National Archaeological Museum or the Acropolis Museum)."},
-          {"tr": "Selanik'te de bir **Bizans Kültürü Müzesi** vardır.", "en": "Thessaloniki also has a **Museum of Byzantine Culture**."},
-          {"tr": "Ortodoks kilisesinin önündeki yüksek yapı **çan kulesidir (κωδωνοστάσιο / καμπαναριό)**.", "en": "The tall structure in front of an Orthodox church is the **bell tower (κωδωνοστάσιο / καμπαναριό)**."}
-        ]},
-        {"type": "map", "places": [
-          {"name": {"el": "Μυστράς", "tr": "Mistra", "en": "Mystras"}, "lat": 37.074, "lon": 22.367},
-          {"name": {"el": "Καπνικαρέα (Αθήνα)", "tr": "Kapnikarea (Atina)", "en": "Kapnikarea (Athens)"}, "lat": 37.976, "lon": 23.728}
-        ]},
-        {"type": "terms", "items": [
-          {"el": "Αγία Σοφία", "tr": "Ayasofya", "en": "Hagia Sophia"},
-          {"el": "Αγία Ειρήνη", "tr": "Aya İrini", "en": "Hagia Irene"},
-          {"el": "Ιουστινιανός", "tr": "Justinianus", "en": "Justinian"},
-          {"el": "Μέγας Κωνσταντίνος", "tr": "Büyük Konstantin", "en": "Constantine the Great"},
-          {"el": "Ιππόδρομος", "tr": "Hipodrom", "en": "Hippodrome"},
-          {"el": "Μυστράς", "tr": "Mistra", "en": "Mystras"},
-          {"el": "Δεσποτάτο του Μωρέως", "tr": "Mora Despotluğu", "en": "Despotate of the Morea"},
-          {"el": "Κωνσταντίνος ΙΑ΄ Παλαιολόγος", "tr": "XI. Konstantinos Palaiologos", "en": "Constantine XI Palaiologos"},
-          {"el": "Παναγία Καπνικαρέα", "tr": "Panagia Kapnikarea", "en": "Panagia Kapnikarea"},
-          {"el": "Παναγία Σουμελά", "tr": "Sümela Manastırı", "en": "Panagia Soumela"},
-          {"el": "Βυζαντινό και Χριστιανικό Μουσείο", "tr": "Bizans ve Hristiyan Müzesi", "en": "Byzantine and Christian Museum"},
-          {"el": "Κωδωνοστάσιο (Καμπαναριό)", "tr": "çan kulesi", "en": "bell tower"}
-        ]}
-      ],
-      "questions": ["cul-13", "cul-24", "cul-27", "cul-28", "cul-29", "cul-30", "cul-41", "cul-58"]
-    },
-    {
-      "id": "cul-modern-heritage",
-      "title": {"el": "Νεότερη Ελλάδα: κτίρια, μουσεία, γλυπτική και ζωγραφική", "tr": "Modern Yunanistan: binalar, müzeler, heykel ve resim", "en": "Modern Greece: buildings, museums, sculpture and painting"},
-      "icon": "🎨",
-      "summary": {"tr": "Beyaz Kule, Neoklasik Atina, Evzonlar, müzeler ile modern heykeltıraşlar ve ressamlar.", "en": "The White Tower, Neoclassical Athens, the Evzones, museums, and modern sculptors and painters."},
-      "blocks": [
-        {"type": "list", "items": [
-          {"tr": "**Beyaz Kule (Λευκός Πύργος)** Selanik'in simgesidir. **Bizans imparatorlarının eseri değildir** — Osmanlı döneminde inşa edilmiştir.", "en": "**The White Tower (Λευκός Πύργος)** is the symbol of Thessaloniki. It is **not the work of Byzantine emperors** — it was built in the Ottoman period."},
-          {"tr": "Karıştırılmaması gerekenler: Filopappos Anıtı (Atina), Burtzi (Nafplio), Şövalyeler Sarayı (Rodos).", "en": "Not to be confused with: the Philopappos Monument (Athens), the Bourtzi (Nafplio), the Palace of the Knights (Rhodes)."}
-        ]},
-        {"type": "p", "text": {
-          "tr": "**Neoklasisizm** Atina'ya bağımsızlıkla (1830 civarı) geldi. Antik Yunan mimarisini taklit eder: **sütunlar (çoğunlukla İyon başlıklı), alınlık (üçgen çatı cephesi), simetri**. Örnek: **Atina Akademisi**. Kuleli, ortaçağ tarzı köşkler veya sütunsuz kemerli binalar neoklasik değildir.",
-          "en": "**Neoclassicism** came to Athens with independence (around 1830). It imitates ancient Greek architecture: **columns (mostly with Ionic capitals), a pediment, symmetry**. Example: **the Academy of Athens**. Turreted medieval-style mansions or arched buildings without columns are not neoclassical."}},
-        {"type": "p", "text": {
-          "tr": "**Iliou Melathron**: Mimar **Ernst Ziller**, 1878-1879'da Truva'nın kazıcısı **Heinrich Schliemann** için bu konağı inşa etti. Bugün **Nümismatik Müzesi**'dir (madeni para müzesi).",
-          "en": "**Iliou Melathron**: architect **Ernst Ziller** built this mansion in 1878-1879 for **Heinrich Schliemann**, the excavator of Troy. Today it houses the **Numismatic Museum** (coin museum)."}},
-        {"type": "p", "text": {
-          "tr": "**Cumhurbaşkanlığı Muhafızları (Προεδρική Φρουρά)** — **Evzonlar**: geleneksel fustanella eteği ve ponponlu çarıklarla Atina'da Meçhul Asker Anıtı'nı ve Cumhurbaşkanlığı Konağı'nı korurlar.",
-          "en": "**The Presidential Guard (Προεδρική Φρουρά)** — the **Evzones**: in the traditional foustanella kilt and pom-pom shoes they guard the Tomb of the Unknown Soldier and the Presidential Mansion in Athens."}},
-        {"type": "list", "items": [
-          {"tr": "**Ulusal Tarih Müzesi** Atina'daki **Eski Parlamento** binasındadır.", "en": "The **National Historical Museum** is housed in the **Old Parliament** building in Athens."},
-          {"tr": "**Yunanistan Ulusal Kütüphanesi** 2018'den beri **Stavros Niarchos Vakfı Kültür Merkezi**'ndedir.", "en": "Since 2018 the **National Library of Greece** has been housed in the **Stavros Niarchos Foundation Cultural Center**."},
-          {"tr": "Selanik'te **Bizans Kültürü Müzesi** vardır; Kandiye Arkeoloji Müzesi'nde başta Minos şaheserleri sergilenir.", "en": "Thessaloniki has a **Museum of Byzantine Culture**; the Heraklion Archaeological Museum mainly displays Minoan masterpieces."}
-        ]},
-        {"type": "table",
-          "head": [{"tr": "Sanatçı", "en": "Artist"}, {"tr": "Eser", "en": "Work"}],
-          "rows": [
-            [{"tr": "Yannulis Halepas (heykeltıraş)", "en": "Yannoulis Chalepas (sculptor)"}, {"tr": "«Uyuyan Kız» (Η Κοιμωμένη) – mezar anıtı üzerinde uzanmış kız", "en": "«The Sleeping Girl» (Η Κοιμωμένη) – a girl lying on a tomb monument"}],
-            [{"tr": "Yorgos Zongolopulos (heykeltıraş)", "en": "Giorgos Zongolopoulos (sculptor)"}, {"tr": "«Şemsiyeler» (Ομπρέλες) – Selanik sahilinde metal heykel", "en": "«Umbrellas» (Ομπρέλες) – metal sculpture on the Thessaloniki waterfront"}],
-            [{"tr": "Vasos Falireas (heykeltıraş)", "en": "Vasos Falireas (sculptor)"}, {"tr": "«Kostis Palamas» – oturan şair heykeli", "en": "«Kostis Palamas» – seated statue of the poet"}],
-            [{"tr": "Mihalis Tombros (heykeltıraş)", "en": "Michalis Tombros (sculptor)"}, {"tr": "«Ioannis Kapodistrias» – ayakta duran heykel", "en": "«Ioannis Kapodistrias» – standing statue"}],
-            [{"tr": "Alekos Fasianos (ressam)", "en": "Alekos Fassianos (painter)"}, {"tr": "«Bisikletçi» (Ποδηλάτης)", "en": "«Cyclist» (Ποδηλάτης)"}],
-            [{"tr": "Yannis Moralis (ressam)", "en": "Yannis Moralis (painter)"}, {"tr": "«Erotik» (Ερωτικό)", "en": "«Erotic» (Ερωτικό)"}],
-            [{"tr": "Yannis Tsaruhis (ressam)", "en": "Yannis Tsarouchis (painter)"}, {"tr": "«Denizci» (Ναύτης)", "en": "«Sailor» (Ναύτης)"}],
-            [{"tr": "Nikos Engonopulos (ressam)", "en": "Nikos Engonopoulos (painter)"}, {"tr": "«Aziz Yorgi» (Αϊ Γιώργης)", "en": "«Saint George» (Αϊ Γιώργης)"}]
-          ]},
-        {"type": "tip", "text": {
-          "tr": "Tuzak: «Uyuyan Kız» **Halepas**'ındır, Zongolopulos'un değil (Zongolopulos = Şemsiyeler). Ressamlar için: Fasianos – Bisikletçi, Tsaruhis – Denizci, Engonopulos – Aziz Yorgi, Moralis – Erotik.",
-          "en": "Trap: «The Sleeping Girl» is by **Chalepas**, not Zongolopoulos (Zongolopoulos = Umbrellas). For the painters: Fassianos – Cyclist, Tsarouchis – Sailor, Engonopoulos – Saint George, Moralis – Erotic."}},
-        {"type": "terms", "items": [
-          {"el": "Λευκός Πύργος", "tr": "Beyaz Kule", "en": "White Tower"},
-          {"el": "Νεοκλασικισμός", "tr": "Neoklasisizm", "en": "Neoclassicism"},
-          {"el": "ιωνικά κιονόκρανα", "tr": "İyon sütun başlıkları", "en": "Ionic capitals"},
-          {"el": "Ερνέστος Τσίλλερ", "tr": "Ernst Ziller", "en": "Ernst Ziller"},
-          {"el": "Ερρίκος Σλήμαν", "tr": "Heinrich Schliemann", "en": "Heinrich Schliemann"},
-          {"el": "Νομισματικό Μουσείο", "tr": "Nümismatik Müzesi", "en": "Numismatic Museum"},
-          {"el": "Προεδρική Φρουρά", "tr": "Cumhurbaşkanlığı Muhafızları", "en": "Presidential Guard"},
-          {"el": "Εθνικό Ιστορικό Μουσείο / Παλαιά Βουλή", "tr": "Ulusal Tarih Müzesi / Eski Parlamento", "en": "National Historical Museum / Old Parliament"},
-          {"el": "Εθνική Βιβλιοθήκη της Ελλάδος", "tr": "Yunanistan Ulusal Kütüphanesi", "en": "National Library of Greece"},
-          {"el": "Γιαννούλης Χαλεπάς, «Η Κοιμωμένη»", "tr": "Yannulis Halepas, «Uyuyan Kız»", "en": "Yannoulis Chalepas, «The Sleeping Girl»"},
-          {"el": "Γιώργου Ζογγολόπουλου, «Ομπρέλες»", "tr": "Yorgos Zongolopulos, «Şemsiyeler»", "en": "Giorgos Zongolopoulos, «Umbrellas»"},
-          {"el": "Φασιανός, Μώραλης, Τσαρούχης, Εγγονόπουλος", "tr": "Fasianos, Moralis, Tsaruhis, Engonopulos", "en": "Fassianos, Moralis, Tsarouchis, Engonopoulos"}
-        ]}
-      ],
-      "questions": ["cul-26", "cul-31", "cul-32", "cul-33", "cul-34", "cul-41", "cul-62", "cul-65"]
-    },
-    {
-      "id": "cul-music",
-      "title": {"el": "Ελληνική μουσική", "tr": "Yunan müziği", "en": "Greek music"},
-      "icon": "🎼",
-      "summary": {"tr": "Besteciler, söz yazarları, şarkıcılar, rebetiko ve milli marş.", "en": "Composers, lyricists, singers, rebetiko and the national anthem."},
-      "blocks": [
-        {"type": "table",
-          "head": [{"tr": "Kişi", "en": "Person"}, {"tr": "Rolü", "en": "Role"}, {"tr": "Sınavda bilinmesi gereken", "en": "What to know for the exam"}],
-          "rows": [
-            [{"tr": "Mikis Theodorakis", "en": "Mikis Theodorakis"}, {"tr": "besteci", "en": "composer"}, {"tr": "Yannis **Ritsos**'un şiirlerini besteledi; Elitis'in **«Aksion Esti»**sini besteledi; Kostas Gavras'ın **«Z»** filminin müziği", "en": "set **Ritsos**'s poetry to music; set Elytis's **«Axion Esti»**; music for Costa-Gavras's film **«Z»**"}],
-            [{"tr": "Manos Hadjidakis", "en": "Manos Hadjidakis"}, {"tr": "besteci", "en": "composer"}, {"tr": "**«Pire'nin Çocukları»** – Melina Merkuri seslendirdi", "en": "**«The Children of Piraeus»** – sung by Melina Mercouri"}],
-            [{"tr": "Eftihia Papagiannopulu", "en": "Eftychia Papagiannopoulou"}, {"tr": "söz yazarı", "en": "lyricist"}, {"tr": "**ilk Yunan kadın söz yazarı**, popüler şarkının en önemlisi", "en": "**the first Greek woman lyricist**, the most important in popular song"}],
-            [{"tr": "Evanthia Reboutsika", "en": "Evanthia Reboutsika"}, {"tr": "besteci", "en": "composer"}, {"tr": "**«Politiki Kouzina»** (Bir Tutam Baharat) film müziği", "en": "music for the film **«Politiki Kouzina»** (A Touch of Spice)"}],
-            [{"tr": "Yannis Markopulos", "en": "Yannis Markopoulos"}, {"tr": "besteci", "en": "composer"}, {"tr": "**«Malamatenia Logia»** (Altın Sözler)", "en": "**«Malamatenia Logia»** (Golden Words)"}],
-            [{"tr": "Nikolaos Mantzaros", "en": "Nikolaos Mantzaros"}, {"tr": "besteci", "en": "composer"}, {"tr": "Solomos'un **«Özgürlüğe Övgü»**sünü besteledi = **milli marş**", "en": "set Solomos's **«Hymn to Liberty»** to music = **national anthem**"}],
-            [{"tr": "Markos Vamvakaris", "en": "Markos Vamvakaris"}, {"tr": "müzisyen", "en": "musician"}, {"tr": "**rebetiko**da öne çıktı", "en": "excelled in **rebetiko**"}]
-          ]},
-        {"type": "table",
-          "head": [{"tr": "Kişi", "en": "Person"}, {"tr": "Meslek", "en": "Profession"}],
-          "rows": [
-            [{"tr": "Stelios Kazancidis", "en": "Stelios Kazantzidis"}, {"tr": "şarkıcı", "en": "singer"}],
-            [{"tr": "Stavros Kuyumcis", "en": "Stavros Kougioumtzis"}, {"tr": "besteci", "en": "composer"}],
-            [{"tr": "Lefteris Papadopulos", "en": "Lefteris Papadopoulos"}, {"tr": "söz yazarı", "en": "lyricist"}],
-            [{"tr": "Leonidas Kavakos", "en": "Leonidas Kavakos"}, {"tr": "kemancı", "en": "violinist"}],
-            [{"tr": "Glykeria", "en": "Glykeria"}, {"tr": "şarkıcı (besteci değil!)", "en": "singer (not a composer!)"}],
-            [{"tr": "Maria Callas", "en": "Maria Callas"}, {"tr": "uluslararası üne sahip soprano", "en": "internationally renowned soprano"}],
-            [{"tr": "Sotiria Bellou", "en": "Sotiria Bellou"}, {"tr": "rebetiko şarkıcısı (en iyi temsilcilerinden)", "en": "rebetiko singer (one of its best exponents)"}],
-            [{"tr": "Dionisis Savvopulos", "en": "Dionysis Savvopoulos"}, {"tr": "besteci ve şarkıcı", "en": "composer and singer"}]
-          ]},
-        {"type": "p", "text": {
-          "tr": "**Yunan Ulusal Müzik Ekolü** 20. yüzyıl başında Batı Avrupa örneğinde kuruldu ve ulusal bir müzik yaratmayı amaçladı. İlk adımlarında **geleneksel Yunan müziğine, halk türkülerine (δημοτικά) ve Bizans ilahilerine** dayandı — **Osmanlı müziğine değil**. (Önde gelen temsilcisi Manolis Kalomiris'tir.)",
-          "en": "The **Greek National School of Music** was founded at the beginning of the 20th century on the Western European model and aimed at creating a national music. In its first steps it was based on **traditional Greek music, folk (demotic) songs and Byzantine hymnody** — **not on Ottoman music**. (Its leading figure is Manolis Kalomiris.)"}},
-        {"type": "tip", "text": {
-          "tr": "«Pire'nin Çocukları»nı **Melina Merkuri** söyledi, Aliki Vuyuklaki değil. Theodorakis üç büyük şeyle hatırlanır: Ritsos, «Aksion Esti», «Z» (ve Zorba).",
-          "en": "«The Children of Piraeus» was sung by **Melina Mercouri**, not Aliki Vougiouklaki. Remember Theodorakis for three big things: Ritsos, «Axion Esti», «Z» (and Zorba)."}},
-        {"type": "terms", "items": [
-          {"el": "Μίκης Θεοδωράκης", "tr": "Mikis Theodorakis", "en": "Mikis Theodorakis"},
-          {"el": "Μάνος Χατζηδάκις", "tr": "Manos Hadjidakis", "en": "Manos Hadjidakis"},
-          {"el": "Ευτυχία Παπαγιαννοπούλου", "tr": "Eftihia Papagiannopulu", "en": "Eftychia Papagiannopoulou"},
-          {"el": "Ευανθία Ρεμπούτσικα", "tr": "Evanthia Reboutsika", "en": "Evanthia Reboutsika"},
-          {"el": "Γιάννης Μαρκόπουλος", "tr": "Yannis Markopulos", "en": "Yannis Markopoulos"},
-          {"el": "Νικόλαος Μάντζαρος", "tr": "Nikolaos Mantzaros", "en": "Nikolaos Mantzaros"},
-          {"el": "Ύμνος εις την Ελευθερίαν", "tr": "Özgürlüğe Övgü (milli marş)", "en": "Hymn to Liberty (national anthem)"},
-          {"el": "Ρεμπέτικο τραγούδι", "tr": "rebetiko şarkısı", "en": "rebetiko song"},
-          {"el": "στιχουργός / συνθέτης / βιολιστής / τραγουδιστής", "tr": "söz yazarı / besteci / kemancı / şarkıcı", "en": "lyricist / composer / violinist / singer"},
-          {"el": "υψίφωνος", "tr": "soprano", "en": "soprano"},
-          {"el": "βυζαντινή υμνωδία", "tr": "Bizans ilahileri", "en": "Byzantine hymnody"}
-        ]}
-      ],
-      "questions": ["cul-35", "cul-36", "cul-37", "cul-38", "cul-39", "cul-40", "cul-42", "cul-43", "cul-53", "cul-58", "cul-65"]
-    },
-    {
-      "id": "cul-cinema",
-      "title": {"el": "Ελληνικός κινηματογράφος", "tr": "Yunan sineması", "en": "Greek cinema"},
-      "icon": "🎬",
-      "summary": {"tr": "Yönetmenler, ünlü oyuncular ve klasik filmler.", "en": "Directors, famous actors and classic films."},
-      "blocks": [
-        {"type": "table",
-          "head": [{"tr": "Yönetmen", "en": "Director"}, {"tr": "Film", "en": "Film"}],
-          "rows": [
-            [{"tr": "Mihalis Kakoyannis", "en": "Michael Cacoyannis"}, {"tr": "«Zorba» (7 Oscar adaylığı), «Stella» (Melina Merkuri ile)", "en": "«Zorba the Greek» (7 Oscar nominations), «Stella» (with Melina Mercouri)"}],
-            [{"tr": "Yorgos Lanthimos", "en": "Yorgos Lanthimos"}, {"tr": "«Köpekdişi» – 2011'de En İyi Yabancı Dilde Film Oscar adayı", "en": "«Dogtooth» – 2011 Oscar nominee for Best Foreign Language Film"}],
-            [{"tr": "Kostas Gavras", "en": "Costa-Gavras"}, {"tr": "«Z» (müzik: Mikis Theodorakis)", "en": "«Z» (music: Mikis Theodorakis)"}],
-            [{"tr": "Theo Angelopoulos", "en": "Theo Angelopoulos"}, {"tr": "«Megaleksandros» – adı antik kahraman Büyük İskender'e gönderme yapar; ayrıca «Arıcı», «Leyleğin Askıdaki Adımı»", "en": "«Megalexandros» – the title refers to the ancient hero Alexander the Great; also «The Beekeeper», «The Suspended Step of the Stork»"}]
-          ]},
-        {"type": "table",
-          "head": [{"tr": "Film", "en": "Film"}, {"tr": "Başrol", "en": "Star"}],
-          "rows": [
-            [{"tr": "«Pazar Uyanışı» (Κυριακάτικο ξύπνημα)", "en": "«Sunday Awakening» (Κυριακάτικο ξύπνημα)"}, {"tr": "Elli Lambeti", "en": "Elli Lambeti"}],
-            [{"tr": "«Aliki Donanmada»", "en": "«Aliki in the Navy»"}, {"tr": "Aliki Vuyuklaki", "en": "Aliki Vougiouklaki"}],
-            [{"tr": "«Jenny, Jenny»", "en": "«Jenny, Jenny»"}, {"tr": "Jenny Karezi", "en": "Jenny Karezi"}],
-            [{"tr": "«Kırmızı Fenerler»", "en": "«The Red Lanterns»"}, {"tr": "Despo Diamantidu", "en": "Despo Diamantidou"}],
-            [{"tr": "«Stella»", "en": "«Stella»"}, {"tr": "Melina Merkuri", "en": "Melina Mercouri"}],
-            [{"tr": "«Vay Gençlerin Haline» (Αλλοίμονο στους νέους)", "en": "«Woe to the Young» (Αλλοίμονο στους νέους)"}, {"tr": "Dimitris Horn", "en": "Dimitris Horn"}],
-            [{"tr": "«Kalp Lira» (Κάλπικη Λίρα)", "en": "«The Counterfeit Coin» (Κάλπικη Λίρα)"}, {"tr": "Dimitris Horn – Elli Lambeti", "en": "Dimitris Horn – Elli Lambeti"}],
-            [{"tr": "«Navarone Topları»", "en": "«The Guns of Navarone»"}, {"tr": "İrini Papa", "en": "Irene Papas"}]
-          ]},
-        {"type": "tip", "text": {
-          "tr": "Dört başlıkta isim ipucu: «**Aliki** Donanmada» → **Aliki** Vuyuklaki; «**Jenny**, Jenny» → **Jenny** Karezi. Kalan ikisi: Pazar Uyanışı → Lambeti, Kırmızı Fenerler → Diamantidu.",
-          "en": "Name clues in two titles: «**Aliki** in the Navy» → **Aliki** Vougiouklaki; «**Jenny**, Jenny» → **Jenny** Karezi. The other two: Sunday Awakening → Lambeti, The Red Lanterns → Diamantidou."}},
-        {"type": "p", "text": {
-          "tr": "«Zorba» filmi Nikos Kazancakis'in romanına dayanır ve müziği Mikis Theodorakis'indir.",
-          "en": "The film «Zorba the Greek» is based on Nikos Kazantzakis's novel and its music is by Mikis Theodorakis."}},
-        {"type": "terms", "items": [
-          {"el": "Μιχάλης Κακογιάννης", "tr": "Mihalis Kakoyannis", "en": "Michael Cacoyannis"},
-          {"el": "Γιώργος Λάνθιμος", "tr": "Yorgos Lanthimos", "en": "Yorgos Lanthimos"},
-          {"el": "Κώστας Γαβράς", "tr": "Kostas Gavras", "en": "Costa-Gavras"},
-          {"el": "Θόδωρος Αγγελόπουλος", "tr": "Theo Angelopoulos", "en": "Theo Angelopoulos"},
-          {"el": "Ο Μεγαλέξανδρος", "tr": "Megaleksandros", "en": "Megalexandros"},
-          {"el": "Κυνόδοντας", "tr": "Köpekdişi", "en": "Dogtooth"},
-          {"el": "Αλέξης Ζορμπάς", "tr": "Zorba", "en": "Zorba the Greek"},
-          {"el": "Μελίνα Μερκούρη", "tr": "Melina Merkuri", "en": "Melina Mercouri"},
-          {"el": "Έλλη Λαμπέτη", "tr": "Elli Lambeti", "en": "Elli Lambeti"},
-          {"el": "Δημήτρης Χορν", "tr": "Dimitris Horn", "en": "Dimitris Horn"},
-          {"el": "Ειρήνη Παπά", "tr": "İrini Papa", "en": "Irene Papas"},
-          {"el": "Κάλπικη Λίρα", "tr": "Kalp Lira", "en": "The Counterfeit Coin"}
-        ]}
-      ],
-      "questions": ["cul-44", "cul-45", "cul-46", "cul-47", "cul-48", "cul-49", "cul-50", "cul-51", "cul-58"]
-    },
-    {
-      "id": "cul-literature",
-      "title": {"el": "Νεοελληνική λογοτεχνία", "tr": "Modern Yunan edebiyatı", "en": "Modern Greek literature"},
-      "icon": "📚",
-      "summary": {"tr": "Nobel ödüllü şairler, yazarlar ve eserleri, tiyatro ve çocuk edebiyatı.", "en": "Nobel-winning poets, writers and their works, theatre and children's literature."},
-      "blocks": [
-        {"type": "p", "text": {
-          "tr": "**Nobel Edebiyat Ödülü** alan iki Yunan şair: **Yorgos Seferis** (1963) ve **Odisseas Elitis** (1979). Palamas, Ritsos, Kalvos, Varnalis, Kariotakis ve Kavafis büyük şairlerdir ama Nobel almamışlardır.",
-          "en": "The two Greek poets who won the **Nobel Prize in Literature**: **Giorgos Seferis** (1963) and **Odysseas Elytis** (1979). Palamas, Ritsos, Kalvos, Varnalis, Karyotakis and Cavafy are great poets but did not win the Nobel."}},
-        {"type": "table",
-          "head": [{"tr": "Yazar", "en": "Author"}, {"tr": "Eser", "en": "Work"}],
-          "rows": [
-            [{"tr": "Pinelopi Delta", "en": "Penelope Delta"}, {"tr": "«Bataklığın Sırları»", "en": "«The Secrets of the Swamp»"}],
-            [{"tr": "Maria Yordanidu", "en": "Maria Iordanidou"}, {"tr": "«Loksandra»", "en": "«Loxandra»"}],
-            [{"tr": "Nikos Kazancakis", "en": "Nikos Kazantzakis"}, {"tr": "«Aleksis Zorba'nın Hayatı ve Maceraları» (Zorba)", "en": "«Life and Times of Alexis Zorba» (Zorba the Greek)"}],
-            [{"tr": "Aleksandros Papadiamantis", "en": "Alexandros Papadiamantis"}, {"tr": "«Katil Kadın», «Milletlerin Tüccarları»", "en": "«The Murderess», «The Merchants of Nations»"}],
-            [{"tr": "Alki Zei", "en": "Alki Zei"}, {"tr": "«Ahilleas'ın Nişanlısı»", "en": "«Achilles' Fiancée»"}],
-            [{"tr": "Tasos Athanasiadis", "en": "Tasos Athanasiadis"}, {"tr": "«Pantheoi»", "en": "«The Pantheoi»"}],
-            [{"tr": "İlias Venezis", "en": "Ilias Venezis"}, {"tr": "«31328 Numara»", "en": "«Number 31328»"}]
-          ]},
-        {"type": "list", "items": [
-          {"tr": "**Evyenios Trivizas** çocuk edebiyatı yazarıdır (ör. «Üç Küçük Kurt ve Kötü Domuz»). Yorgos Ioannu, İsidoros Zurgos ve Antonis Samarakis yetişkin edebiyatı yazarlarıdır.", "en": "**Eugene Trivizas** is a children's literature author (e.g. «The Three Little Wolves and the Big Bad Pig»). Giorgos Ioannou, Isidoros Zourgos and Antonis Samarakis write for adults."},
-          {"tr": "**İakovos Kambanellis** en önemli modern Yunan tiyatro yazarlarından biridir.", "en": "**Iakovos Kambanellis** is one of the most important modern Greek playwrights."},
-          {"tr": "**Dionisios Solomos** «Özgürlüğe Övgü»yü yazdı (milli marşın sözleri).", "en": "**Dionysios Solomos** wrote the «Hymn to Liberty» (the words of the national anthem)."}
-        ]},
-        {"type": "tip", "text": {
-          "tr": "Papadiamantis iki kez çıkar: «Katil Kadın» ve «Milletlerin Tüccarları». Venezis'in romanı bir sayıdır: «31328» (onun esirlik numarası).",
-          "en": "Papadiamantis appears twice: «The Murderess» and «The Merchants of Nations». Venezis's novel is a number: «31328» (his prisoner number)."}},
-        {"type": "terms", "items": [
-          {"el": "Νόμπελ Λογοτεχνίας", "tr": "Nobel Edebiyat Ödülü", "en": "Nobel Prize in Literature"},
-          {"el": "Γιώργος Σεφέρης και Οδυσσέας Ελύτης", "tr": "Yorgos Seferis ve Odisseas Elitis", "en": "Giorgos Seferis and Odysseas Elytis"},
-          {"el": "Πηνελόπη Δέλτα – Τα μυστικά του βάλτου", "tr": "Pinelopi Delta – Bataklığın Sırları", "en": "Penelope Delta – The Secrets of the Swamp"},
-          {"el": "Μαρία Ιορδανίδου – Λωξάντρα", "tr": "Maria Yordanidu – Loksandra", "en": "Maria Iordanidou – Loxandra"},
-          {"el": "Νίκος Καζαντζάκης – Βίος και Πολιτεία του Αλέξη Ζορμπά", "tr": "Nikos Kazancakis – Zorba", "en": "Nikos Kazantzakis – Zorba"},
-          {"el": "Αλέξανδρος Παπαδιαμάντης – Η Φόνισσα, Οι Έμποροι των Εθνών", "tr": "Papadiamantis – Katil Kadın, Milletlerin Tüccarları", "en": "Papadiamantis – The Murderess, The Merchants of Nations"},
-          {"el": "Άλκη Ζέη – Η Αρραβωνιαστικιά του Αχιλλέα", "tr": "Alki Zei – Ahilleas'ın Nişanlısı", "en": "Alki Zei – Achilles' Fiancée"},
-          {"el": "Τάσος Αθανασιάδης – Οι Πανθέοι", "tr": "Tasos Athanasiadis – Pantheoi", "en": "Tasos Athanasiadis – The Pantheoi"},
-          {"el": "Ηλίας Βενέζης – Το νούμερο 31328", "tr": "İlias Venezis – 31328 Numara", "en": "Ilias Venezis – Number 31328"},
-          {"el": "Ευγένιος Τριβιζάς", "tr": "Evyenios Trivizas", "en": "Eugene Trivizas"},
-          {"el": "Ιάκωβος Καμπανέλλης", "tr": "İakovos Kambanellis", "en": "Iakovos Kambanellis"}
-        ]}
-      ],
-      "questions": ["cul-52", "cul-54", "cul-55", "cul-56", "cul-58"]
-    },
-    {
-      "id": "cul-sport",
-      "title": {"el": "Αθλητισμός", "tr": "Spor", "en": "Sport"},
-      "icon": "🏅",
-      "summary": {"tr": "Olimpiyatlar, ünlü sporcular, spor tarihindeki tarihler ve kulüpler.", "en": "The Olympics, famous athletes, key dates in sport and the clubs."},
-      "blocks": [
-        {"type": "timeline", "items": [
-          {"date": "1896", "text": {"tr": "İlk modern Olimpiyat Oyunları'nın Atina'da yeniden canlandırılması. **Spiros Luis** maraton **koşusunu** kazandı.", "en": "Revival of the first modern Olympic Games in Athens. **Spyros Louis** won the marathon **race**."}},
-          {"date": "1953", "text": {"tr": "Atina'da uluslararası **Akropolis Rallisi** otomobil yarışı başladı.", "en": "The international **Acropolis Rally** motor race began in Athens."}},
-          {"date": "1987", "text": {"tr": "Yunanistan **Avrupa Basketbol Şampiyonası (Eurobasket)**'nda şampiyon oldu.", "en": "Greece became champion of the **European Basketball Championship (EuroBasket)**."}},
-          {"date": "2004", "text": {"tr": "**Atina Olimpiyat Oyunları**'na ev sahipliği yaptı.", "en": "**Athens hosted the Olympic Games**."}}
-        ]},
-        {"type": "p", "text": {
-          "tr": "**Panagis Kutalianos** (1847-1916), Marmara Denizi'ndeki Ekinlik Adası'nda (Κούταλη) doğdu ve **güreşte** büyük ün kazandı.",
-          "en": "**Panagis Koutalianos** (1847-1916) was born on Koutali in the Sea of Marmara (Propontis) and became famous in **wrestling**."}},
-        {"type": "table",
-          "head": [{"tr": "Kulüp", "en": "Club"}, {"tr": "Şehir", "en": "City"}, {"tr": "Kökeni", "en": "Origin"}],
-          "rows": [
-            [{"tr": "PANAHAİKİ", "en": "PANACHAIKI"}, {"tr": "Patra", "en": "Patras"}, {"tr": "büyük liman (19. yy sonu – 20. yy başı)", "en": "large port (late 19th – early 20th c.)"}],
-            [{"tr": "OLYMPİAKOS", "en": "OLYMPIACOS"}, {"tr": "Pire", "en": "Piraeus"}, {"tr": "büyük liman", "en": "large port"}],
-            [{"tr": "AEK", "en": "AEK"}, {"tr": "Nea Filadelfia (Atina)", "en": "Nea Filadelfeia (Athens)"}, {"tr": "1922 Küçük Asyalı mülteciler", "en": "1922 refugees from Asia Minor"}],
-            [{"tr": "PAOK", "en": "PAOK"}, {"tr": "Selanik", "en": "Thessaloniki"}, {"tr": "1922 Küçük Asyalı mülteciler", "en": "1922 refugees from Asia Minor"}]
-          ]},
-        {"type": "tip", "text": {
-          "tr": "Boşluk doldurmada **Panathinaikos** fazladır (artan kelime). AEK ve PAOK adlarındaki «K» Konstantinopolis'i hatırlatır: mülteci kulüpleri.",
-          "en": "In the fill-in question **Panathinaikos** is the leftover word. The «K» in AEK and PAOK recalls Constantinople: the refugee clubs."}},
-        {"type": "terms", "items": [
-          {"el": "Ολυμπιακοί Αγώνες", "tr": "Olimpiyat Oyunları", "en": "Olympic Games"},
-          {"el": "Σπύρος Λούης", "tr": "Spiros Luis", "en": "Spyros Louis"},
-          {"el": "του δρόμου", "tr": "koşu", "en": "running (race)"},
-          {"el": "Παναγής Κουταλιανός", "tr": "Panagis Kutalianos", "en": "Panagis Koutalianos"},
-          {"el": "στην πάλη", "tr": "güreşte", "en": "in wrestling"},
-          {"el": "Ευρωμπάσκετ", "tr": "Eurobasket", "en": "EuroBasket"},
-          {"el": "Ράλλυ Ακρόπολις", "tr": "Akropolis Rallisi", "en": "Acropolis Rally"},
-          {"el": "ΠΑΝΑΧΑΪΚΗ, ΟΛΥΜΠΙΑΚΟΣ, ΑΕΚ, ΠΑΟΚ", "tr": "Panahaiki, Olympiakos, AEK, PAOK", "en": "Panachaiki, Olympiacos, AEK, PAOK"}
-        ]}
-      ],
-      "questions": ["cul-57", "cul-59", "cul-60", "cul-61"]
-    },
-    {
-      "id": "cul-customs",
-      "title": {"el": "Έθιμα και γιορτές", "tr": "Gelenekler ve bayramlar", "en": "Customs and holidays"},
-      "icon": "🥚",
-      "summary": {"tr": "Paskalya, Yılbaşı, Epifani, Temiz Pazartesi ve günlük hayattaki dini gelenekler.", "en": "Easter, New Year, Epiphany, Clean Monday and religious customs of everyday life."},
-      "blocks": [
-        {"type": "timeline", "items": [
-          {"date": "Καθαρά Δευτέρα", "text": {"tr": "**Temiz Pazartesi** (Büyük Perhizin ilk günü): aileler kırlara gezintiye çıkar, çocuklar **uçurtma** uçurur.", "en": "**Clean Monday** (first day of Lent): families go out to the countryside, children fly **kites**."}},
-          {"date": "Μεγάλη Πέμπτη", "text": {"tr": "Kutsal Perşembe: **kırmızı yumurtalar** boyanır.", "en": "Holy Thursday: **red eggs** are dyed."}},
-          {"date": "Μεγάλη Παρασκευή", "text": {"tr": "Kutsal Cuma: İsa'nın mezarını simgeleyen **Epitafios** mahallelerde dolaştırılır.", "en": "Good Friday: the **Epitaphios**, symbolising the tomb of Christ, is carried in procession through the neighbourhoods."}},
-          {"date": "Μεγάλο Σάββατο", "text": {"tr": "Kutsal Cumartesi gecesi: inananlar kiliselerde toplanır, mumlarla **Kutsal Işığı** alır, gece yarısı havai fişekler atılır; ardından etli geleneksel çorba **mayiritsa** yenir. Kutsal Haftanın doruk noktasıdır.", "en": "Holy Saturday night: the faithful gather in churches, receive the **Holy Light** on candles, fireworks at midnight; then the traditional meat soup **magiritsa** is eaten. The culmination of Holy Week."}},
-          {"date": "Πάσχα", "text": {"tr": "Paskalya Pazarı: kuzu çevirme, yumurta tokuşturma; Paskalya çörekleri (tsureki).", "en": "Easter Sunday: spit-roast lamb, cracking eggs; Easter sweet breads (tsourekia)."}}
-        ]},
-        {"type": "table",
-          "head": [{"tr": "Gelenek", "en": "Custom"}, {"tr": "Bayram", "en": "Holiday"}],
-          "rows": [
-            [{"tr": "kırmızı yumurta boyama", "en": "dyeing red eggs"}, {"tr": "Paskalya", "en": "Easter"}],
-            [{"tr": "Epitafios alayı", "en": "the Epitaphios procession"}, {"tr": "Paskalya", "en": "Easter"}],
-            [{"tr": "haçın denize atılması (suların kutsanması, 6 Ocak)", "en": "throwing the cross into the sea (blessing of the waters, 6 January)"}, {"tr": "Epifani (Θεοφάνια / Φώτα)", "en": "Epiphany (Θεοφάνια / Φώτα)"}],
-            [{"tr": "nar kırma (bereket için)", "en": "breaking a pomegranate (for good luck)"}, {"tr": "Yılbaşı", "en": "New Year"}],
-            [{"tr": "**Vasilopita** kesmek (içinde para saklı çörek; yılbaşı gecesi)", "en": "cutting the **Vasilopita** (cake with a hidden coin; New Year's Eve)"}, {"tr": "Yılbaşı", "en": "New Year"}],
-            [{"tr": "Hristopsomo (Noel ekmeği)", "en": "Christopsomo (Christmas bread)"}, {"tr": "Noel", "en": "Christmas"}]
-          ]},
-        {"type": "list", "items": [
-          {"tr": "Ölümden **kırk gün sonra** anma ayini (μνημόσυνο) yapılır ve **kollyva** (haşlanmış buğday) hazırlanır. — Doğru", "en": "**Forty days after a death** a memorial service (μνημόσυνο) is held and **kollyva** (boiled wheat) is made. — True"},
-          {"tr": "Yeni okul yılı başlarken **kutsama ayini (αγιασμός)** yapılır. — Doğru", "en": "When the new school year starts a **blessing service (αγιασμός)** is held. — True"},
-          {"tr": "**Kalikantzarlar** iyi ruhlar değildir: gelenekte Noel ile Epifani arasındaki on iki gün ortaya çıkan **yaramaz/kötü cinlerdir**. — «iyi ruhlar» ifadesi Yanlış", "en": "The **Kallikantzaroi** are not good spirits: in tradition they are **mischievous/evil goblins** that appear in the twelve days between Christmas and Epiphany. — «good spirits» is False"},
-          {"tr": "**Fanuropita** hastalık için değil, Aziz Fanurios adına, **kaybolan bir şeyin bulunması** için yapılır. — «hasta iyileşsin diye» ifadesi Yanlış", "en": "**Fanouropita** is made not for illness but in honour of Saint Fanourios, **to find something lost**. — «so that a sick person gets well» is False"}
-        ]},
-        {"type": "tip", "text": {
-          "tr": "Gece mi soruyor? Kutsal Işık ve mayiritsa → **Kutsal Cumartesi** gecesi. Epitafios → Kutsal **Cuma**. Uçurtma → **Temiz Pazartesi**. Vasilopita → **Yılbaşı**.",
-          "en": "Asking about a night? Holy Light and magiritsa → **Holy Saturday** night. Epitaphios → Good **Friday**. Kites → **Clean Monday**. Vasilopita → **New Year**."}},
-        {"type": "terms", "items": [
-          {"el": "Πάσχα", "tr": "Paskalya", "en": "Easter"},
-          {"el": "Επιτάφιος", "tr": "Epitafios", "en": "Epitaphios"},
-          {"el": "Μεγάλη Παρασκευή", "tr": "Kutsal Cuma", "en": "Good Friday"},
-          {"el": "Μεγάλο Σάββατο", "tr": "Kutsal Cumartesi", "en": "Holy Saturday"},
-          {"el": "άγιο Φως", "tr": "Kutsal Işık", "en": "Holy Light"},
-          {"el": "μαγειρίτσα", "tr": "mayiritsa (Paskalya çorbası)", "en": "magiritsa (Easter soup)"},
-          {"el": "Καθαρά Δευτέρα", "tr": "Temiz Pazartesi", "en": "Clean Monday"},
-          {"el": "χαρταετός", "tr": "uçurtma", "en": "kite"},
-          {"el": "Πρωτοχρονιά", "tr": "Yılbaşı", "en": "New Year's Day"},
-          {"el": "Βασιλόπιττα", "tr": "Vasilopita", "en": "Vasilopita"},
-          {"el": "Θεοφάνια / τα Φώτα", "tr": "Epifani", "en": "Epiphany"},
-          {"el": "κόλλυβα", "tr": "kollyva", "en": "kollyva"},
-          {"el": "Καλικάντζαροι", "tr": "Kalikantzarlar", "en": "Kallikantzaroi"},
-          {"el": "αγιασμός", "tr": "kutsama ayini", "en": "blessing service"},
-          {"el": "Φανουρόπιτα", "tr": "Fanuropita", "en": "Fanouropita"}
-        ]}
-      ],
-      "questions": ["cul-63", "cul-64", "cul-66", "cul-67", "cul-68", "cul-69", "cul-70"]
+     "type": "terms",
+     "items": [
+      {
+       "el": "Δώδεκα Θεοί του Ολύμπου",
+       "tr": "Olimpos'un On İki Tanrısı",
+       "en": "Twelve Gods of Olympus"
+      },
+      {
+       "el": "Δίας",
+       "tr": "Zeus",
+       "en": "Zeus"
+      },
+      {
+       "el": "Ποσειδώνας",
+       "tr": "Poseidon",
+       "en": "Poseidon"
+      },
+      {
+       "el": "Αθηνά",
+       "tr": "Athena",
+       "en": "Athena"
+      },
+      {
+       "el": "Ήφαιστος",
+       "tr": "Hefaistos",
+       "en": "Hephaestus"
+      },
+      {
+       "el": "Διόνυσος",
+       "tr": "Dionysos",
+       "en": "Dionysus"
+      },
+      {
+       "el": "τρίαινα",
+       "tr": "üç dişli mızrak",
+       "en": "trident"
+      },
+      {
+       "el": "δόρυ",
+       "tr": "mızrak",
+       "en": "spear"
+      },
+      {
+       "el": "φτερωτά σανδάλια",
+       "tr": "kanatlı sandaletler",
+       "en": "winged sandals"
+      },
+      {
+       "el": "αμπέλι",
+       "tr": "asma (bağ)",
+       "en": "vine"
+      }
+     ]
     }
-  ]
+   ],
+   "questions": [
+    "cul-1",
+    "cul-4",
+    "cul-5",
+    "cul-11",
+    "cul-19"
+   ]
+  },
+  {
+   "id": "cul-myths",
+   "title": {
+    "el": "Μύθοι, ήρωες και θεότητες",
+    "tr": "Mitler, kahramanlar ve tanrısal varlıklar",
+    "en": "Myths, heroes and minor deities"
+   },
+   "icon": "🏺",
+   "summary": {
+    "el": "Ο κατακλυσμός, η Ευρώπη, οι Αργοναύτες, ο Δούρειος Ίππος, καθώς και οι Νύμφες, οι Χάριτες, οι Ερινύες και οι Μούσες.",
+    "tr": "Tufan, Europa, Argonotlar, Truva Atı ve Nymphalar, Kharisler, Erinyesler, Musalar.",
+    "en": "The flood, Europa, the Argonauts, the Trojan Horse and the Nymphs, Graces, Erinyes and Muses."
+   },
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "**Ο μεγάλος κατακλυσμός:** Ο Δίας τιμώρησε τους ανθρώπους με κατακλυσμό· οι μόνοι άνθρωποι που σώθηκαν ήταν ο **Δευκαλίων και η Πύρρα**. Αυτοί ξεκίνησαν ξανά το ανθρώπινο γένος.",
+       "tr": "**Büyük tufan:** Zeus insanları bir tufanla cezalandırdı; kurtulan tek insanlar **Deukalion ve Pyrrha (Δευκαλίων και Πύρρα)** idi. Onlar insan soyunu yeniden başlattı.",
+       "en": "**The great flood:** Zeus punished mankind with a flood; the only survivors were **Deucalion and Pyrrha (Δευκαλίων και Πύρρα)**, who started the human race again."
+      },
+      {
+       "el": "**Ο μύθος της Ευρώπης:** Ο **Δίας**, μεταμορφωμένος σε λευκό ταύρο, άρπαξε τη Φοίνισσα πριγκίπισσα Ευρώπη και την έφερε στην Κρήτη. Η ήπειρος Ευρώπη πήρε το όνομά της από αυτήν.",
+       "tr": "**Europa mitosu:** **Zeus** beyaz bir boğa kılığına girerek Fenikeli prenses Europa'yı kaçırdı ve Girit'e götürdü. Avrupa kıtası adını ondan alır.",
+       "en": "**The myth of Europa:** **Zeus**, disguised as a white bull, carried off the Phoenician princess Europa to Crete. The continent of Europe is named after her."
+      },
+      {
+       "el": "**Η αργοναυτική εκστρατεία:** Ο Ιάσονας και οι σύντροφοί του έπλευσαν στην Κολχίδα για να βρουν το Χρυσόμαλλο Δέρας. Η εκστρατεία πήρε το όνομά της από το καράβι του Ιάσονα, την **Αργώ** (Αργοναύτης = ναύτης της Αργώς).",
+       "tr": "**Argonotlar seferi:** Iason ve arkadaşları Altın Post'u bulmak için Kolhis'e yelken açtı. Sefer adını Iason'un gemisi **Argo (Αργώ)**'dan alır (Argonot = Argo'nun denizcisi).",
+       "en": "**The Argonautic expedition:** Jason and his companions sailed to Colchis for the Golden Fleece. The expedition is named after Jason's ship, the **Argo (Αργώ)** (Argonaut = sailor of the Argo)."
+      },
+      {
+       "el": "**Ο Τρωικός Πόλεμος:** Οι Έλληνες κατέλαβαν την Τροία με ένα ξύλινο άλογο, μέσα στο οποίο ήταν κρυμμένοι στρατιώτες: τον **Δούρειο Ίππο**.",
+       "tr": "**Truva Savaşı:** Yunanlar Truva'yı içine askerlerin saklandığı tahta bir atla, **Truva Atı (Δούρειος Ίππος)** ile ele geçirdi.",
+       "en": "**The Trojan War:** The Greeks captured Troy with a wooden horse with soldiers hidden inside, the **Trojan Horse (Δούρειος Ίππος)**."
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Θεότητες",
+       "tr": "Tanrısal varlıklar",
+       "en": "Deities"
+      },
+      {
+       "el": "Με τι σχετίζονται",
+       "tr": "Ne ile ilgilidirler",
+       "en": "What they are associated with"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Νύμφες",
+        "tr": "Nymphalar (Νύμφες)",
+        "en": "Nymphs (Νύμφες)"
+       },
+       {
+        "el": "ημίθεες σχετιζόμενες με τα ποτάμια, τις λίμνες και τη βλάστηση",
+        "tr": "nehirler, göller ve bitki örtüsüyle ilişkili yarı tanrıçalar",
+        "en": "demi-goddesses associated with rivers, lakes and vegetation"
+       }
+      ],
+      [
+       {
+        "el": "Χάριτες",
+        "tr": "Kharisler (Χάριτες)",
+        "en": "Graces (Χάριτες)"
+       },
+       {
+        "el": "θεές της γοητείας, της δημιουργίας και της γονιμότητος",
+        "tr": "çekiciliğin, yaratıcılığın ve doğurganlığın tanrıçaları",
+        "en": "goddesses of charm, creation and fertility"
+       }
+      ],
+      [
+       {
+        "el": "Ερινύες",
+        "tr": "Erinyesler (Ερινύες)",
+        "en": "Erinyes / Furies (Ερινύες)"
+       },
+       {
+        "el": "θεότητες-τιμωροί εγκληματιών ηθικής και φυσικής τάξεως πραγμάτων",
+        "tr": "ahlaki ve doğal düzene karşı suç işleyenleri cezalandıran tanrısallıklar",
+        "en": "avenging deities who punished crimes against the moral and natural order"
+       }
+      ],
+      [
+       {
+        "el": "Μούσες",
+        "tr": "Musalar (Μούσες)",
+        "en": "Muses (Μούσες)"
+       },
+       {
+        "el": "θεότητες των Τεχνών και των Γραμμάτων",
+        "tr": "sanatların ve edebiyatın tanrısallıkları",
+        "en": "deities of the arts and letters"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Βοήθημα μνήμης: **Μούσα** → μουσική/μουσείο (τέχνες)· **Ερινύες** → εκδίκηση· **Νύμφη** → νερό και φύση· **Χάρις** → γοητεία (από εδώ βγαίνει η λέξη «χάρισμα»).",
+      "tr": "Hatırlatma: **Musa** → müzik/müze (sanat); **Erinyes** → intikam; **Nympha** → su ve doğa; **Kharis** → çekicilik (charisma kelimesi buradan gelir).",
+      "en": "Memory aid: **Muse** → music/museum (arts); **Erinyes** → revenge; **Nymph** → water and nature; **Charis** → charm (the word charisma comes from it)."
+     }
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Λάθος επιλογές: ο «Από μηχανής Θεός» είναι θεατρικό τέχνασμα, το «Υγρόν Πυρ» είναι βυζαντινό όπλο και ο πολιορκητικός κριός είναι μηχανή πολιορκίας. Η Τροία κυριεύτηκε με τον **Δούρειο Ίππο**.",
+      "tr": "Çeldiriciler: «Από μηχανής Θεός» (makineden tanrı) bir tiyatro tekniğidir, «Υγρόν Πυρ» (Rum ateşi) Bizans silahıdır, koçbaşı ise kuşatma aracıdır. Truva'yı alan **Δούρειος Ίππος**'tur.",
+      "en": "Distractors: «Από μηχανής Θεός» (deus ex machina) is a theatre device, «Υγρόν Πυρ» (Greek fire) is a Byzantine weapon and the battering ram is a siege engine. Troy was taken with the **Δούρειος Ίππος**."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Δευκαλίων και Πύρρα",
+       "tr": "Deukalion ve Pyrrha",
+       "en": "Deucalion and Pyrrha"
+      },
+      {
+       "el": "κατακλυσμός",
+       "tr": "tufan",
+       "en": "flood"
+      },
+      {
+       "el": "Ευρώπη",
+       "tr": "Europa",
+       "en": "Europa"
+      },
+      {
+       "el": "αργοναυτική εκστρατεία",
+       "tr": "Argonotlar seferi",
+       "en": "Argonautic expedition"
+      },
+      {
+       "el": "Αργώ",
+       "tr": "Argo (Iason'un gemisi)",
+       "en": "Argo (Jason's ship)"
+      },
+      {
+       "el": "Δούρειος Ίππος",
+       "tr": "Truva Atı",
+       "en": "Trojan Horse"
+      },
+      {
+       "el": "Νύμφες",
+       "tr": "Nymphalar",
+       "en": "Nymphs"
+      },
+      {
+       "el": "Χάριτες",
+       "tr": "Kharisler",
+       "en": "Graces"
+      },
+      {
+       "el": "Ερινύες",
+       "tr": "Erinyesler",
+       "en": "Erinyes"
+      },
+      {
+       "el": "Μούσες",
+       "tr": "Musalar",
+       "en": "Muses"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "cul-2",
+    "cul-6",
+    "cul-7",
+    "cul-8",
+    "cul-21"
+   ]
+  },
+  {
+   "id": "cul-prehistoric",
+   "title": {
+    "el": "Κυκλαδικός, Μινωικός και Μυκηναϊκός πολιτισμός",
+    "tr": "Kiklad, Minos ve Miken uygarlıkları",
+    "en": "Cycladic, Minoan and Mycenaean civilisations"
+   },
+   "icon": "🗿",
+   "summary": {
+    "el": "Οι προϊστορικοί πολιτισμοί του Αιγαίου και τα έργα τέχνης από τα οποία τους αναγνωρίζουμε.",
+    "tr": "Ege'nin tarih öncesi uygarlıkları ve onları tanımaya yarayan eserler.",
+    "en": "The prehistoric civilisations of the Aegean and the artworks that identify them."
+   },
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Πολιτισμός",
+       "tr": "Uygarlık",
+       "en": "Civilisation"
+      },
+      {
+       "el": "Πού",
+       "tr": "Nerede",
+       "en": "Where"
+      },
+      {
+       "el": "Χαρακτηριστικά έργα",
+       "tr": "Tipik eserler",
+       "en": "Typical works"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Κυκλαδικός",
+        "tr": "Kiklad (Κυκλαδικός)",
+        "en": "Cycladic (Κυκλαδικός)"
+       },
+       {
+        "el": "Κυκλάδες",
+        "tr": "Kiklad adaları",
+        "en": "Cyclades islands"
+       },
+       {
+        "el": "λευκά **μαρμάρινα ειδώλια**: απλές μορφές με σταυρωμένα χέρια στο στήθος, καθιστές μορφές (π.χ. ο αρπιστής)",
+        "tr": "beyaz **mermer figürinler**: kolları göğsünde kavuşturulmuş sade figürler, oturan figürler (ör. arp çalan)",
+        "en": "white **marble figurines**: simple figures with arms folded across the chest, seated figures (e.g. the harpist)"
+       }
+      ],
+      [
+       {
+        "el": "Μινωικός",
+        "tr": "Minos (Μινωικός)",
+        "en": "Minoan (Μινωικός)"
+       },
+       {
+        "el": "Κρήτη – κέντρο: το **Ανάκτορο της Κνωσού**",
+        "tr": "Girit – merkezi **Knossos Sarayı**",
+        "en": "Crete – centre: the **Palace of Knossos**"
+       },
+       {
+        "el": "**τοιχογραφίες** των ανακτόρων, τα ειδώλια της **Θεάς των Όφεων**",
+        "tr": "saray **duvar resimleri (freskler)**, **Yılanlı Tanrıça** heykelcikleri",
+        "en": "palace **frescoes**, the **Snake Goddess** figurines"
+       }
+      ],
+      [
+       {
+        "el": "Μυκηναϊκός",
+        "tr": "Miken (Μυκηναϊκός)",
+        "en": "Mycenaean (Μυκηναϊκός)"
+       },
+       {
+        "el": "Πελοπόννησος – Μυκήνες",
+        "tr": "Mora – Miken",
+        "en": "Peloponnese – Mycenae"
+       },
+       {
+        "el": "η **Πύλη των Λεόντων**, χρυσά αντικείμενα από τους τάφους, η **χρυσή προσωπίδα του Αγαμέμνονα**",
+        "tr": "**Aslanlı Kapı**, mezarlardaki altın eşyalar, **Agamemnon'un altın maskesi**",
+        "en": "the **Lion Gate**, gold objects from the tombs, the **gold Mask of Agamemnon**"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Πώς τους ξεχωρίζουμε στις ερωτήσεις με εικόνες: **μαρμάρινη** μορφή με σταυρωμένα χέρια ή καθιστή → Κυκλαδικός. Τοιχογραφία και Θεά των Όφεων → Μινωικός. Πύλη των Λεόντων → Μυκηναϊκός (όχι Μινωικός!). Τα πήλινα ειδώλια τύπου **Ταναγραίας** και τα αρχαϊκά αγάλματα **κορών** δεν είναι ούτε κυκλαδικά ούτε μινωικά.",
+      "tr": "Resim sorularında ayırt etme: kolları kavuşturulmuş veya oturan **mermer** figür → Kiklad. Fresk ve Yılanlı Tanrıça → Minos. Aslanlı Kapı → Miken (Minos değil!). Pişmiş toprak **Tanagra** figürinleri ve arkaik **kore** heykelleri ne Kiklad ne Minos'tur.",
+      "en": "Telling them apart in picture questions: **marble** figure with folded arms or seated → Cycladic. Fresco and Snake Goddess → Minoan. Lion Gate → Mycenaean (not Minoan!). Terracotta **Tanagra** figurines and Archaic **kore** statues are neither Cycladic nor Minoan."
+     }
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "**Το Ανάκτορο της Κνωσού βρίσκεται στην Κρήτη** (κοντά στο Ηράκλειο). Τα αριστουργήματα του Μινωικού πολιτισμού εκτίθενται σήμερα κυρίως στο **Αρχαιολογικό Μουσείο Ηρακλείου**.",
+      "tr": "**Knossos Sarayı Girit'tedir** (Kandiye yakınında). Minos uygarlığının şaheserleri bugün başta **Kandiye (Heraklion) Arkeoloji Müzesi**'nde sergilenir.",
+      "en": "**The Palace of Knossos is in Crete** (near Heraklion). The masterpieces of the Minoan civilisation are displayed mainly in the **Heraklion Archaeological Museum**."
+     }
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "**Η προσωπίδα του Αγαμέμνονα:** Η χρυσή προσωπίδα που βρέθηκε στις ανασκαφές των **Μυκηνών** (Ερρίκος Σλήμαν) πιστεύεται ότι απεικονίζει τον **Αγαμέμνονα**, αρχηγό των Ελλήνων στον Τρωικό Πόλεμο. Βρέθηκε μέσα σε **τάφο** και βρίσκεται σήμερα στο Εθνικό Αρχαιολογικό Μουσείο των **Αθηνών**.",
+      "tr": "**Agamemnon'un maskesi:** **Miken** kazılarında (Heinrich Schliemann) bulunan altın maskenin, Truva Savaşı'nda Yunanların lideri **Agamemnon**'u tasvir ettiğine inanılır. Bir **mezarın** içinde bulunmuştur ve bugün **Atina** Ulusal Arkeoloji Müzesi'ndedir.",
+      "en": "**The Mask of Agamemnon:** the gold mask found in the excavations at **Mycenae** (Heinrich Schliemann) is believed to depict **Agamemnon**, leader of the Greeks in the Trojan War. It was found inside a **tomb** and is today in the National Archaeological Museum of **Athens**."
+     }
+    },
+    {
+     "type": "map",
+     "places": [
+      {
+       "name": {
+        "el": "Κνωσός",
+        "tr": "Knossos",
+        "en": "Knossos"
+       },
+       "lat": 35.298,
+       "lon": 25.163
+      },
+      {
+       "name": {
+        "el": "Μυκήνες",
+        "tr": "Miken",
+        "en": "Mycenae"
+       },
+       "lat": 37.731,
+       "lon": 22.756
+      },
+      {
+       "name": {
+        "el": "Κυκλάδες (Νάξος)",
+        "tr": "Kiklad adaları (Naksos)",
+        "en": "Cyclades (Naxos)"
+       },
+       "lat": 37.06,
+       "lon": 25.47
+      }
+     ]
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Κυκλαδικός πολιτισμός",
+       "tr": "Kiklad uygarlığı",
+       "en": "Cycladic civilisation"
+      },
+      {
+       "el": "Μινωικός πολιτισμός",
+       "tr": "Minos uygarlığı",
+       "en": "Minoan civilisation"
+      },
+      {
+       "el": "Ανάκτορο της Κνωσού",
+       "tr": "Knossos Sarayı",
+       "en": "Palace of Knossos"
+      },
+      {
+       "el": "Μυκηνών",
+       "tr": "Miken (-in)",
+       "en": "of Mycenae"
+      },
+      {
+       "el": "χρυσή προσωπίδα",
+       "tr": "altın mask",
+       "en": "gold mask"
+      },
+      {
+       "el": "Αγαμέμνονα",
+       "tr": "Agamemnon",
+       "en": "Agamemnon"
+      },
+      {
+       "el": "τάφο",
+       "tr": "mezar",
+       "en": "tomb"
+      },
+      {
+       "el": "Αρχαιολογικό Μουσείο Ηρακλείου",
+       "tr": "Kandiye Arkeoloji Müzesi",
+       "en": "Heraklion Archaeological Museum"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "cul-9",
+    "cul-10",
+    "cul-11",
+    "cul-15"
+   ]
+  },
+  {
+   "id": "cul-sites-oracles",
+   "title": {
+    "el": "Αρχαιολογικοί χώροι, μαντεία και αγώνες",
+    "tr": "Arkeolojik alanlar, kehanet merkezleri ve yarışmalar",
+    "en": "Archaeological sites, oracles and contests"
+   },
+   "icon": "🏛️",
+   "summary": {
+    "el": "Οι Δελφοί, η Δωδώνη και τα άλλα μαντεία· οι περιοχές των μεγάλων αρχαιολογικών χώρων· οι μουσικοί αγώνες της αρχαιότητας.",
+    "tr": "Delfi, Dodona ve diğer kehanet merkezleri; büyük arkeolojik alanların bölgeleri; antik müzik yarışmaları.",
+    "en": "Delphi, Dodona and the other oracles; the regions of the major archaeological sites; ancient musical contests."
+   },
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Μαντείο",
+       "tr": "Kehanet merkezi",
+       "en": "Oracle"
+      },
+      {
+       "el": "Τόπος",
+       "tr": "Yer",
+       "en": "Place"
+      },
+      {
+       "el": "Σημείωση",
+       "tr": "Not",
+       "en": "Note"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Μαντείο του Απόλλωνα",
+        "tr": "Apollon'un kehanet merkezi",
+        "en": "Oracle of Apollo"
+       },
+       {
+        "el": "Δελφοί",
+        "tr": "Delfi",
+        "en": "Delphi"
+       },
+       {
+        "el": "το **πιο φημισμένο** της αρχαιότητας",
+        "tr": "antik çağın **en ünlüsü**",
+        "en": "the **most famous** of antiquity"
+       }
+      ],
+      [
+       {
+        "el": "Μαντείο του Δία",
+        "tr": "Zeus'un kehanet merkezi",
+        "en": "Oracle of Zeus"
+       },
+       {
+        "el": "Δωδώνη (Ήπειρος)",
+        "tr": "Dodona (Epir)",
+        "en": "Dodona (Epirus)"
+       },
+       {
+        "el": "το **παλαιότερο**",
+        "tr": "**en eskisi**",
+        "en": "the **oldest**"
+       }
+      ],
+      [
+       {
+        "el": "Μαντείο του Άμμωνος Δία",
+        "tr": "Zeus Ammon'un kehanet merkezi",
+        "en": "Oracle of Zeus Ammon"
+       },
+       {
+        "el": "Αίγυπτος",
+        "tr": "Mısır",
+        "en": "Egypt"
+       },
+       {
+        "el": "σπουδαίο και για τους Έλληνες",
+        "tr": "Yunanlar için de önemliydi",
+        "en": "also important for the Greeks"
+       }
+      ],
+      [
+       {
+        "el": "Νεκρομαντείο (μαντείο των νεκρών)",
+        "tr": "Nekromanteion (Ölüler Kehanet Merkezi)",
+        "en": "Necromanteion (Oracle of the Dead)"
+       },
+       {
+        "el": "Μεσοπόταμος Πρεβέζης",
+        "tr": "Mesopotamos, Preveze",
+        "en": "Mesopotamos, Preveza"
+       },
+       {
+        "el": "οι συγγενείς επικοινωνούσαν με τις ψυχές των νεκρών",
+        "tr": "yakınlar ölülerin ruhlarıyla iletişim kurardı",
+        "en": "relatives communicated with the souls of the dead"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Αρχαιολογικός χώρος",
+       "tr": "Arkeolojik alan",
+       "en": "Archaeological site"
+      },
+      {
+       "el": "Περιοχή",
+       "tr": "Bölge",
+       "en": "Region"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Βεργίνα (βασιλικοί τάφοι των Μακεδόνων)",
+        "tr": "Vergina (Makedon kral mezarları)",
+        "en": "Vergina (Macedonian royal tombs)"
+       },
+       {
+        "el": "Μακεδονία",
+        "tr": "Makedonya",
+        "en": "Macedonia"
+       }
+      ],
+      [
+       {
+        "el": "Ολυμπία (γενέτειρα των Ολυμπιακών Αγώνων)",
+        "tr": "Olimpiya (Olimpiyat Oyunları'nın doğduğu yer)",
+        "en": "Olympia (birthplace of the Olympic Games)"
+       },
+       {
+        "el": "Πελοπόννησος",
+        "tr": "Mora Yarımadası",
+        "en": "Peloponnese"
+       }
+      ],
+      [
+       {
+        "el": "Δελφοί",
+        "tr": "Delfi",
+        "en": "Delphi"
+       },
+       {
+        "el": "Στερεά Ελλάδα",
+        "tr": "Orta Yunanistan",
+        "en": "Central Greece"
+       }
+      ],
+      [
+       {
+        "el": "Κνωσός",
+        "tr": "Knossos",
+        "en": "Knossos"
+       },
+       {
+        "el": "Κρήτη",
+        "tr": "Girit",
+        "en": "Crete"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "map",
+     "places": [
+      {
+       "name": {
+        "el": "Δελφοί",
+        "tr": "Delfi",
+        "en": "Delphi"
+       },
+       "lat": 38.482,
+       "lon": 22.501
+      },
+      {
+       "name": {
+        "el": "Δωδώνη",
+        "tr": "Dodona",
+        "en": "Dodona"
+       },
+       "lat": 39.546,
+       "lon": 20.788
+      },
+      {
+       "name": {
+        "el": "Νεκρομαντείο (Μεσοπόταμος Πρεβέζης)",
+        "tr": "Nekromanteion (Mesopotamos, Preveze)",
+        "en": "Necromanteion (Mesopotamos, Preveza)"
+       },
+       "lat": 39.236,
+       "lon": 20.535
+      },
+      {
+       "name": {
+        "el": "Ολυμπία",
+        "tr": "Olimpiya",
+        "en": "Olympia"
+       },
+       "lat": 37.638,
+       "lon": 21.63
+      },
+      {
+       "name": {
+        "el": "Βεργίνα",
+        "tr": "Vergina",
+        "en": "Vergina"
+       },
+       "lat": 40.486,
+       "lon": 22.318
+      },
+      {
+       "name": {
+        "el": "Κνωσός",
+        "tr": "Knossos",
+        "en": "Knossos"
+       },
+       "lat": 35.298,
+       "lon": 25.163
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "**Μουσικοί αγώνες:** Στους μουσικούς αγώνες της αρχαίας Ελλάδας περιλαμβάνονταν **τραγούδι, αυλός (πνευστό όργανο) και κιθάρα (έγχορδο όργανο)**. Το βιολί, το λαούτο, το σαντούρι ή το τρίγωνο δεν ήταν όργανα των αρχαίων αγώνων.",
+      "tr": "**Müzik yarışmaları:** Antik Yunan'daki müzik yarışmalarında **şarkı, aulos (nefesli çalgı) ve kithara (telli çalgı)** yer alırdı. Keman, lavta, santur veya üçgen antik yarışmaların çalgıları değildir.",
+      "en": "**Musical contests:** The musical contests of ancient Greece included **song, the aulos (a wind instrument) and the kithara (a string instrument)**. Violin, lute, santouri or triangle were not instruments of the ancient contests."
+     }
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Δελφοί = **Απόλλωνας** και το πιο φημισμένο· Δωδώνη = **Δίας** και το παλαιότερο. Με λίγα λόγια: «ο Απόλλωνας φημισμένος, ο Δίας γέρος».",
+      "tr": "Delfi = **Apollon** ve en ünlü; Dodona = **Zeus** ve en eski. Kısaca: «Apollon ünlü, Zeus yaşlı».",
+      "en": "Delphi = **Apollo** and most famous; Dodona = **Zeus** and oldest. In short: «Apollo is famous, Zeus is old»."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Μαντείο",
+       "tr": "kehanet merkezi",
+       "en": "oracle"
+      },
+      {
+       "el": "Δελφοί / στους Δελφούς",
+       "tr": "Delfi / Delfi'de",
+       "en": "Delphi / at Delphi"
+      },
+      {
+       "el": "του Απόλλωνα",
+       "tr": "Apollon'un",
+       "en": "of Apollo"
+      },
+      {
+       "el": "Δωδώνη",
+       "tr": "Dodona",
+       "en": "Dodona"
+      },
+      {
+       "el": "του Άμμωνος Δία",
+       "tr": "Zeus Ammon'un",
+       "en": "of Zeus Ammon"
+      },
+      {
+       "el": "το Νεκρομαντείο",
+       "tr": "Nekromanteion",
+       "en": "the Necromanteion"
+      },
+      {
+       "el": "Βεργίνα",
+       "tr": "Vergina",
+       "en": "Vergina"
+      },
+      {
+       "el": "Στερεά Ελλάδα",
+       "tr": "Orta Yunanistan",
+       "en": "Central Greece"
+      },
+      {
+       "el": "τραγούδι, αυλός και κιθάρα",
+       "tr": "şarkı, aulos ve kithara",
+       "en": "song, aulos and kithara"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "cul-16",
+    "cul-17",
+    "cul-22",
+    "cul-25"
+   ]
+  },
+  {
+   "id": "cul-classical",
+   "title": {
+    "el": "Κλασική αρχαιότητα: μνημεία, γλυπτά και γράμματα",
+    "tr": "Klasik antik çağ: anıtlar, heykeller ve edebiyat",
+    "en": "Classical antiquity: monuments, sculptures and letters"
+   },
+   "icon": "🏛",
+   "summary": {
+    "el": "Ο Παρθενώνας και τα γλυπτά του, τα μουσεία όπου βρίσκονται σήμερα διάσημα αγάλματα, ο Μέγας Αλέξανδρος, αρχαίοι συγγραφείς.",
+    "tr": "Parthenon ve heykelleri, ünlü heykellerin bugün bulunduğu müzeler, Büyük İskender, antik yazarlar.",
+    "en": "The Parthenon and its sculptures, the museums that hold famous statues today, Alexander the Great, ancient authors."
+   },
+   "blocks": [
+    {
+     "type": "p",
+     "text": {
+      "el": "Το μνημείο που έχει ταυτιστεί με την αρχαία Αθήνα είναι ο **Παρθενώνας** στην Ακρόπολη (ναός της Αθηνάς). Στη νότια πλαγιά της Ακρόπολης βρίσκεται το **Θέατρο Ηρώδου Αττικού (Ωδείο)** — βρίσκεται κι αυτό στην **Αθήνα**.",
+      "tr": "Antik Atina ile özdeşleşen anıt Akropolis'teki **Parthenon**'dur (Athena tapınağı). Akropolis'in güney yamacında **Herodes Atticus Tiyatrosu (Odeonu)** bulunur — o da **Atina**'dadır.",
+      "en": "The monument identified with ancient Athens is the **Parthenon** on the Acropolis (temple of Athena). On the south slope of the Acropolis stands the **Odeon of Herodes Atticus** — it too is in **Athens**."
+     }
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Τα **γλυπτά του Παρθενώνα** προέρχονται από τον Παρθενώνα (όχι από τον Ναό του Δία στην Ολυμπία).",
+       "tr": "**Parthenon heykelleri** Parthenon'dan gelir (Olimpiya'daki Zeus Tapınağı'ndan değil).",
+       "en": "**The Parthenon sculptures** come from the Parthenon (not from the Temple of Zeus at Olympia)."
+      },
+      {
+       "el": "Σύμφωνα με την απάντηση της εξέτασης, **κλάπηκαν** από τον Βρετανό **Λόρδο Τόμας Έλγιν** (αρχές του 19ου αιώνα)· η Ελλάδα ζητά την επιστροφή τους.",
+       "tr": "Sınavın cevabına göre İngiliz **Lord Thomas Elgin** tarafından **çalınmıştır** (19. yüzyıl başı); Yunanistan bunların iadesini talep eder.",
+       "en": "According to the exam answer they **were stolen** by the British **Lord Thomas Elgin** (early 19th century); Greece demands their return."
+      },
+      {
+       "el": "Σήμερα βρίσκονται στο **Βρετανικό Μουσείο στο Λονδίνο** και **είναι επισκέψιμα για το κοινό**.",
+       "tr": "Bugün **Londra'daki British Museum**'dadır ve **halkın ziyaretine açıktır**.",
+       "en": "Today they are in the **British Museum in London** and **are open to the public**."
+      },
+      {
+       "el": "Σε μεταγενέστερη περίοδο κτίστηκε μέσα στον Παρθενώνα **ναός της Παναγίας** (σωστή πρόταση).",
+       "tr": "Daha sonraki dönemde Parthenon'un içinde bir **Meryem Ana kilisesi** yapılmıştır (doğru ifade).",
+       "en": "In a later period a **church of the Virgin Mary** was built inside the Parthenon (a true statement)."
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Έργο",
+       "tr": "Eser",
+       "en": "Work"
+      },
+      {
+       "el": "Πού βρίσκεται σήμερα",
+       "tr": "Bugün bulunduğu yer",
+       "en": "Where it is today"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Νίκη της Σαμοθράκης",
+        "tr": "Semadirek Nikesi (Νίκη της Σαμοθράκης)",
+        "en": "Winged Victory of Samothrace (Νίκη της Σαμοθράκης)"
+       },
+       {
+        "el": "Μουσείο του Λούβρου, Παρίσι",
+        "tr": "Louvre Müzesi, Paris",
+        "en": "Louvre Museum, Paris"
+       }
+      ],
+      [
+       {
+        "el": "Αφροδίτη της Μήλου (βρέθηκε στη Μήλο το 1820, φυγαδεύτηκε το 1821· ελληνιστική περίοδος)",
+        "tr": "Milos Afroditi (1820'de Milos'ta bulundu, 1821'de kaçırıldı; Helenistik)",
+        "en": "Venus de Milo (found on Milos in 1820, taken away in 1821; Hellenistic)"
+       },
+       {
+        "el": "Μουσείο του Λούβρου, Παρίσι",
+        "tr": "Louvre Müzesi, Paris",
+        "en": "Louvre Museum, Paris"
+       }
+      ],
+      [
+       {
+        "el": "Δισκοβόλος του Μύρωνα",
+        "tr": "Myron'un Diskobolos'u (Δισκοβόλος)",
+        "en": "Discobolus of Myron (Δισκοβόλος)"
+       },
+       {
+        "el": "Βρετανικό Μουσείο, Λονδίνο",
+        "tr": "British Museum, Londra",
+        "en": "British Museum, London"
+       }
+      ],
+      [
+       {
+        "el": "Γλυπτά του Παρθενώνα",
+        "tr": "Parthenon heykelleri",
+        "en": "Parthenon sculptures"
+       },
+       {
+        "el": "Βρετανικό Μουσείο, Λονδίνο",
+        "tr": "British Museum, Londra",
+        "en": "British Museum, London"
+       }
+      ],
+      [
+       {
+        "el": "Ερμής του Πραξιτέλη",
+        "tr": "Praksiteles'in Hermes'i",
+        "en": "Hermes of Praxiteles"
+       },
+       {
+        "el": "Αρχαιολογικό Μουσείο Αρχαίας Ολυμπίας",
+        "tr": "Antik Olimpiya Arkeoloji Müzesi",
+        "en": "Archaeological Museum of Ancient Olympia"
+       }
+      ],
+      [
+       {
+        "el": "Ο Ηνίοχος",
+        "tr": "Arabacı (Ηνίοχος)",
+        "en": "The Charioteer (Ηνίοχος)"
+       },
+       {
+        "el": "Αρχαιολογικό Μουσείο Δελφών",
+        "tr": "Delfi Arkeoloji Müzesi",
+        "en": "Archaeological Museum of Delphi"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Βοήθημα μνήμης: ο Ηνίοχος βρέθηκε στους **Δελφούς** και έμεινε εκεί· ο Ερμής βρέθηκε στην **Ολυμπία** και έμεινε εκεί. Στο εξωτερικό: τα δύο γυναικεία αγάλματα (Νίκη, Αφροδίτη) είναι στο Παρίσι, ο Δισκοβόλος και τα γλυπτά του Παρθενώνα στο Λονδίνο.",
+      "tr": "Hatırlatma: Arabacı **Delfi**'de bulundu ve orada kaldı; Hermes **Olimpiya**'da bulundu ve orada kaldı. Yurt dışındakiler: iki kadın heykeli (Nike, Afrodit) Paris'te, Diskobolos ve Parthenon heykelleri Londra'da.",
+      "en": "Memory aid: the Charioteer was found at **Delphi** and stayed there; Hermes was found at **Olympia** and stayed there. Abroad: the two female statues (Nike, Aphrodite) are in Paris, the Discobolus and Parthenon sculptures in London."
+     }
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "Ο **Μέγας Αλέξανδρος** (βασιλιάς της Μακεδονίας) απεικονίζεται συνήθως στη γλυπτική **νέος, αγένειος και με σγουρά μαλλιά**· οι ηλικιωμένες γενειοφόρες μορφές είναι συνήθως ο Όμηρος ή φιλόσοφοι. Δάσκαλος του Αλεξάνδρου ήταν ο **Αριστοτέλης** — **όχι ο Πλάτωνας**.",
+      "tr": "**Büyük İskender** (Makedonya kralı) heykellerde genellikle **genç, sakalsız ve kıvırcık saçlı** olarak tasvir edilir; sakallı yaşlı figürler ise genellikle Homeros veya filozoflardır. İskender'in öğretmeni **Aristoteles**'ti — **Platon değil**.",
+      "en": "**Alexander the Great** (king of Macedon) is usually depicted in sculpture as **young, beardless and with curly hair**; bearded elderly figures are usually Homer or philosophers. Alexander's teacher was **Aristotle** — **not Plato**."
+     }
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Ο **Όμηρος** έγραψε τα έπη «Ιλιάδα» και «Οδύσσεια».",
+       "tr": "**Homeros** «İlyada» ve «Odysseia» destanlarını yazdı.",
+       "en": "**Homer** wrote the epics «Iliad» and «Odyssey»."
+      },
+      {
+       "el": "Ο «**Οιδίπους Τύραννος**» είναι τραγωδία του **Σοφοκλή**.",
+       "tr": "«**Kral Oidipus**» **Sofokles**'in bir tragedyasıdır.",
+       "en": "«**Oedipus Rex**» is a tragedy by **Sophocles**."
+      },
+      {
+       "el": "Ο **Τυρταίος** (Σπάρτη) ήταν **ελεγειακός ποιητής**.",
+       "tr": "**Tyrtaios** (Sparta) bir **elegeia şairiydi**.",
+       "en": "**Tyrtaeus** (Sparta) was an **elegiac poet**."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "**Τα 7 θαύματα του αρχαίου κόσμου:** η Πυραμίδα της Γκίζας, οι Κρεμαστοί Κήποι της Βαβυλώνας, το άγαλμα του Δία στην Ολυμπία, ο Ναός της Αρτέμιδας στην Έφεσο, το Μαυσωλείο της Αλικαρνασσού, ο Κολοσσός της Ρόδου και ο Φάρος της Αλεξάνδρειας. **Τα τείχη των Θηβών δεν είναι ένα από αυτά.**",
+      "tr": "**Antik dünyanın yedi harikası:** Giza Piramidi, Babil'in Asma Bahçeleri, Olimpiya'daki Zeus heykeli, Efes'teki Artemis Tapınağı, Halikarnas Mozolesi, Rodos Heykeli (Kolossos) ve İskenderiye Feneri. **Thebai surları bunlardan biri değildir.**",
+      "en": "**The seven wonders of the ancient world:** the Pyramid of Giza, the Hanging Gardens of Babylon, the statue of Zeus at Olympia, the Temple of Artemis at Ephesus, the Mausoleum at Halicarnassus, the Colossus of Rhodes and the Lighthouse of Alexandria. **The walls of Thebes are not one of them.**"
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Παρθενώνας",
+       "tr": "Parthenon",
+       "en": "Parthenon"
+      },
+      {
+       "el": "Θέατρο Ηρώδου Αττικού",
+       "tr": "Herodes Atticus Tiyatrosu",
+       "en": "Odeon of Herodes Atticus"
+      },
+      {
+       "el": "Λόρδος Τόμας Έλγιν",
+       "tr": "Lord Thomas Elgin",
+       "en": "Lord Thomas Elgin"
+      },
+      {
+       "el": "Βρετανικό Μουσείο",
+       "tr": "British Museum",
+       "en": "British Museum"
+      },
+      {
+       "el": "Μουσείο του Λούβρου",
+       "tr": "Louvre Müzesi",
+       "en": "Louvre Museum"
+      },
+      {
+       "el": "Νίκη της Σαμοθράκης",
+       "tr": "Semadirek Nikesi",
+       "en": "Winged Victory of Samothrace"
+      },
+      {
+       "el": "Δισκοβόλος του Μύρωνα",
+       "tr": "Myron'un Diskobolos'u",
+       "en": "Discobolus of Myron"
+      },
+      {
+       "el": "Ερμής του Πραξιτέλη",
+       "tr": "Praksiteles'in Hermes'i",
+       "en": "Hermes of Praxiteles"
+      },
+      {
+       "el": "Ο Ηνίοχος",
+       "tr": "Arabacı",
+       "en": "The Charioteer"
+      },
+      {
+       "el": "Μήλος",
+       "tr": "Milos",
+       "en": "Milos"
+      },
+      {
+       "el": "Μέγας Αλέξανδρος",
+       "tr": "Büyük İskender",
+       "en": "Alexander the Great"
+      },
+      {
+       "el": "Όμηρος, Σοφοκλής, Τυρταίος",
+       "tr": "Homeros, Sofokles, Tyrtaios",
+       "en": "Homer, Sophocles, Tyrtaeus"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "cul-3",
+    "cul-11",
+    "cul-12",
+    "cul-14",
+    "cul-18",
+    "cul-20",
+    "cul-23",
+    "cul-24"
+   ]
+  },
+  {
+   "id": "cul-byzantium",
+   "title": {
+    "el": "Βυζάντιο και ορθόδοξη παράδοση",
+    "tr": "Bizans ve Ortodoks gelenek",
+    "en": "Byzantium and the Orthodox tradition"
+   },
+   "icon": "☦️",
+   "summary": {
+    "el": "Τα οικοδομήματα της Κωνσταντινούπολης, ο Μυστράς, βυζαντινοί ναοί, εικόνες και το κωδωνοστάσιο.",
+    "tr": "Konstantinopolis'in yapıları, Mistra, Bizans kiliseleri, ikonalar ve çan kulesi.",
+    "en": "The buildings of Constantinople, Mystras, Byzantine churches, icons and the bell tower."
+   },
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Πρόταση (εξέταση)",
+       "tr": "İfade (sınav)",
+       "en": "Statement (exam)"
+      },
+      {
+       "el": "Σωστό/Λάθος",
+       "tr": "Doğru/Yanlış",
+       "en": "True/False"
+      },
+      {
+       "el": "Το σωστό",
+       "tr": "Doğrusu",
+       "en": "The correct fact"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Ο ναός της Αγίας Σοφίας ανεγέρθη επί Ιουστινιανού",
+        "tr": "Ayasofya Justinianus döneminde inşa edildi",
+        "en": "Hagia Sophia was erected under Justinian"
+       },
+       {
+        "el": "Σωστό",
+        "tr": "Doğru",
+        "en": "True"
+       },
+       {
+        "el": "Ιουστινιανός (6ος αι., 537)",
+        "tr": "Justinianus (6. yy, 537)",
+        "en": "Justinian (6th c., 537)"
+       }
+      ],
+      [
+       {
+        "el": "Ο ναός της Αγίας Ειρήνης κτίστηκε από τον Μεγάλο Κωνσταντίνο",
+        "tr": "Aya İrini Büyük Konstantin tarafından inşa edildi",
+        "en": "Hagia Irene was built by Constantine the Great"
+       },
+       {
+        "el": "Σωστό",
+        "tr": "Doğru",
+        "en": "True"
+       },
+       {
+        "el": "Μέγας Κωνσταντίνος",
+        "tr": "Büyük Konstantin",
+        "en": "Constantine the Great"
+       }
+      ],
+      [
+       {
+        "el": "Ο Θεοδόσιος έκτισε τα πρώτα τείχη της Κωνσταντινουπόλεως",
+        "tr": "Theodosius Konstantinopolis'in ilk surlarını yaptı",
+        "en": "Theodosius built the first walls of Constantinople"
+       },
+       {
+        "el": "Λάθος",
+        "tr": "Yanlış",
+        "en": "False"
+       },
+       {
+        "el": "Τα πρώτα τείχη είναι του ιδρυτή της πόλης, του Μεγάλου Κωνσταντίνου· τα Θεοδοσιανά τείχη κτίστηκαν αργότερα",
+        "tr": "İlk surlar şehrin kurucusu Büyük Konstantin'indir; Theodosius surları daha sonra yapılmıştır",
+        "en": "The first walls belong to the city's founder, Constantine the Great; the Theodosian Walls came later"
+       }
+      ],
+      [
+       {
+        "el": "Ο Ιουστινιανός ανήγειρε τον Ιππόδρομο",
+        "tr": "Justinianus Hipodrom'u inşa etti",
+        "en": "Justinian erected the Hippodrome"
+       },
+       {
+        "el": "Λάθος",
+        "tr": "Yanlış",
+        "en": "False"
+       },
+       {
+        "el": "Ο Ιππόδρομος υπήρχε πολύ πριν από τον Ιουστινιανό (τον επέκτεινε ο Μέγας Κωνσταντίνος)",
+        "tr": "Hipodrom Justinianus'tan çok önce vardı (Büyük Konstantin tarafından genişletildi)",
+        "en": "The Hippodrome existed long before Justinian (it was enlarged by Constantine the Great)"
+       }
+      ],
+      [
+       {
+        "el": "Ο Ιππόδρομος ήταν ένα από τα χαρακτηριστικά οικοδομήματα στην Κωνσταντινούπολη",
+        "tr": "Hipodrom Konstantinopolis'in karakteristik yapılarından biriydi",
+        "en": "The Hippodrome was one of the characteristic buildings of Constantinople"
+       },
+       {
+        "el": "Σωστό",
+        "tr": "Doğru",
+        "en": "True"
+       },
+       {
+        "el": "χώρος για αρματοδρομίες και λαϊκές συγκεντρώσεις",
+        "tr": "araba yarışlarının ve halk toplantılarının yeri",
+        "en": "the venue of chariot races and public gatherings"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "Ο **Μυστράς**, κοντά στη Σπάρτη, είναι μεσαιωνική (βυζαντινή) καστροπολιτεία στην Πελοπόννησο — **όχι προϊστορικό κάστρο**. Ήταν **η πρωτεύουσα του Δεσποτάτου του Μωρέως**. Στην Ελλάδα **βυζαντινά παλάτια** (το Παλάτι των Δεσποτών) σώζονται **στον Μυστρά**· εκεί δεν υπάρχει παλάτι του Ιουστινιανού. Στις **6 Ιανουαρίου 1449** ο τελευταίος βυζαντινός αυτοκράτορας, ο **Κωνσταντίνος ΙΑ΄ Παλαιολόγος**, στέφτηκε στον **μητροπολιτικό ναό του Αγίου Δημητρίου** στον Μυστρά.",
+      "tr": "**Mistra (Μυστράς)**, Sparta yakınında, Mora'daki ortaçağ (Bizans) kale-şehridir — **tarih öncesi bir kale değildir**. **Mora Despotluğu'nun başkentiydi**. Yunanistan'da **Bizans sarayları** (Despotlar Sarayı) **Mistra'da** günümüze ulaşmıştır; orada Justinianus'un sarayı yoktur. **6 Ocak 1449**'da son Bizans imparatoru **XI. Konstantinos Palaiologos**, Mistra'daki **Aziz Dimitrios metropolit kilisesinde** taç giydi.",
+      "en": "**Mystras (Μυστράς)**, near Sparta, is a medieval (Byzantine) castle-town in the Peloponnese — **not a prehistoric castle**. It was **the capital of the Despotate of the Morea**. In Greece **Byzantine palaces** (the Palace of the Despots) survive **at Mystras**; there is no palace of Justinian there. On **6 January 1449** the last Byzantine emperor, **Constantine XI Palaiologos**, was crowned in the **metropolitan church of Agios Dimitrios** at Mystras."
+     }
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Η **Παναγία Καπνικαρέα** είναι βυζαντινός ναός στο κέντρο της Αθήνας (οδός Ερμού).",
+       "tr": "**Panagia Kapnikarea**, Atina'nın merkezinde (Ermou Caddesi) bir Bizans kilisesidir.",
+       "en": "**Panagia Kapnikarea** is a Byzantine church in the centre of Athens (Ermou Street)."
+      },
+      {
+       "el": "Η **Μονή της Παναγίας Σουμελά** βρισκόταν στον Πόντο, κοντά στην Τραπεζούντα — όχι στην Πελοπόννησο.",
+       "tr": "**Sümela Manastırı (Panagia Soumela)** Pontus'ta, Trabzon yakınındaydı — Mora'da değil.",
+       "en": "**The Monastery of Panagia Soumela** was in Pontus, near Trabzon — not in the Peloponnese."
+      },
+      {
+       "el": "Για να δείτε **εικόνες** του 14ου αιώνα στην Αθήνα, επισκέπτεστε το **Βυζαντινό και Χριστιανικό Μουσείο** (όχι την Εθνική Πινακοθήκη, το Εθνικό Αρχαιολογικό Μουσείο ή το Νέο Μουσείο της Ακρόπολης).",
+       "tr": "14. yüzyıl **ikonalarını** görmek için Atina'da **Bizans ve Hristiyan Müzesi**'ne gidilir (Ulusal Resim Galerisi, Ulusal Arkeoloji Müzesi veya Akropolis Müzesi'ne değil).",
+       "en": "To see 14th-century **icons** in Athens you visit the **Byzantine and Christian Museum** (not the National Gallery, the National Archaeological Museum or the Acropolis Museum)."
+      },
+      {
+       "el": "Και στη Θεσσαλονίκη υπάρχει **Μουσείο Βυζαντινού Πολιτισμού**.",
+       "tr": "Selanik'te de bir **Bizans Kültürü Müzesi** vardır.",
+       "en": "Thessaloniki also has a **Museum of Byzantine Culture**."
+      },
+      {
+       "el": "Το ψηλό κτίσμα μπροστά από έναν ορθόδοξο ναό είναι το **κωδωνοστάσιο (καμπαναριό)**.",
+       "tr": "Ortodoks kilisesinin önündeki yüksek yapı **çan kulesidir (κωδωνοστάσιο / καμπαναριό)**.",
+       "en": "The tall structure in front of an Orthodox church is the **bell tower (κωδωνοστάσιο / καμπαναριό)**."
+      }
+     ]
+    },
+    {
+     "type": "map",
+     "places": [
+      {
+       "name": {
+        "el": "Μυστράς",
+        "tr": "Mistra",
+        "en": "Mystras"
+       },
+       "lat": 37.074,
+       "lon": 22.367
+      },
+      {
+       "name": {
+        "el": "Καπνικαρέα (Αθήνα)",
+        "tr": "Kapnikarea (Atina)",
+        "en": "Kapnikarea (Athens)"
+       },
+       "lat": 37.976,
+       "lon": 23.728
+      }
+     ]
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Αγία Σοφία",
+       "tr": "Ayasofya",
+       "en": "Hagia Sophia"
+      },
+      {
+       "el": "Αγία Ειρήνη",
+       "tr": "Aya İrini",
+       "en": "Hagia Irene"
+      },
+      {
+       "el": "Ιουστινιανός",
+       "tr": "Justinianus",
+       "en": "Justinian"
+      },
+      {
+       "el": "Μέγας Κωνσταντίνος",
+       "tr": "Büyük Konstantin",
+       "en": "Constantine the Great"
+      },
+      {
+       "el": "Ιππόδρομος",
+       "tr": "Hipodrom",
+       "en": "Hippodrome"
+      },
+      {
+       "el": "Μυστράς",
+       "tr": "Mistra",
+       "en": "Mystras"
+      },
+      {
+       "el": "Δεσποτάτο του Μωρέως",
+       "tr": "Mora Despotluğu",
+       "en": "Despotate of the Morea"
+      },
+      {
+       "el": "Κωνσταντίνος ΙΑ΄ Παλαιολόγος",
+       "tr": "XI. Konstantinos Palaiologos",
+       "en": "Constantine XI Palaiologos"
+      },
+      {
+       "el": "Παναγία Καπνικαρέα",
+       "tr": "Panagia Kapnikarea",
+       "en": "Panagia Kapnikarea"
+      },
+      {
+       "el": "Παναγία Σουμελά",
+       "tr": "Sümela Manastırı",
+       "en": "Panagia Soumela"
+      },
+      {
+       "el": "Βυζαντινό και Χριστιανικό Μουσείο",
+       "tr": "Bizans ve Hristiyan Müzesi",
+       "en": "Byzantine and Christian Museum"
+      },
+      {
+       "el": "Κωδωνοστάσιο (Καμπαναριό)",
+       "tr": "çan kulesi",
+       "en": "bell tower"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "cul-13",
+    "cul-24",
+    "cul-27",
+    "cul-28",
+    "cul-29",
+    "cul-30",
+    "cul-41",
+    "cul-58"
+   ]
+  },
+  {
+   "id": "cul-modern-heritage",
+   "title": {
+    "el": "Νεότερη Ελλάδα: κτίρια, μουσεία, γλυπτική και ζωγραφική",
+    "tr": "Modern Yunanistan: binalar, müzeler, heykel ve resim",
+    "en": "Modern Greece: buildings, museums, sculpture and painting"
+   },
+   "icon": "🎨",
+   "summary": {
+    "el": "Ο Λευκός Πύργος, η νεοκλασική Αθήνα, οι Εύζωνες, μουσεία, καθώς και νεότεροι γλύπτες και ζωγράφοι.",
+    "tr": "Beyaz Kule, Neoklasik Atina, Evzonlar, müzeler ile modern heykeltıraşlar ve ressamlar.",
+    "en": "The White Tower, Neoclassical Athens, the Evzones, museums, and modern sculptors and painters."
+   },
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Ο **Λευκός Πύργος** είναι το σύμβολο της Θεσσαλονίκης. **Δεν είναι έργο βυζαντινών αυτοκρατόρων** — κτίστηκε κατά την οθωμανική περίοδο.",
+       "tr": "**Beyaz Kule (Λευκός Πύργος)** Selanik'in simgesidir. **Bizans imparatorlarının eseri değildir** — Osmanlı döneminde inşa edilmiştir.",
+       "en": "**The White Tower (Λευκός Πύργος)** is the symbol of Thessaloniki. It is **not the work of Byzantine emperors** — it was built in the Ottoman period."
+      },
+      {
+       "el": "Να μην τον μπερδεύετε με: το Μνημείο του Φιλοπάππου (Αθήνα), το Μπούρτζι (Ναύπλιο), το Παλάτι των Ιπποτών (Ρόδος).",
+       "tr": "Karıştırılmaması gerekenler: Filopappos Anıtı (Atina), Burtzi (Nafplio), Şövalyeler Sarayı (Rodos).",
+       "en": "Not to be confused with: the Philopappos Monument (Athens), the Bourtzi (Nafplio), the Palace of the Knights (Rhodes)."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "Ο **Νεοκλασικισμός** ήρθε στην Αθήνα με την ανεξαρτησία (γύρω στο 1830). Μιμείται την αρχαιοελληνική αρχιτεκτονική: **κίονες (κυρίως με ιωνικά κιονόκρανα), αέτωμα, συμμετρία**. Παράδειγμα: **η Ακαδημία Αθηνών**. Οι επαύλεις με πυργίσκους σε μεσαιωνικό ρυθμό ή τα κτίρια με τόξα χωρίς κίονες δεν είναι νεοκλασικά.",
+      "tr": "**Neoklasisizm** Atina'ya bağımsızlıkla (1830 civarı) geldi. Antik Yunan mimarisini taklit eder: **sütunlar (çoğunlukla İyon başlıklı), alınlık (üçgen çatı cephesi), simetri**. Örnek: **Atina Akademisi**. Kuleli, ortaçağ tarzı köşkler veya sütunsuz kemerli binalar neoklasik değildir.",
+      "en": "**Neoclassicism** came to Athens with independence (around 1830). It imitates ancient Greek architecture: **columns (mostly with Ionic capitals), a pediment, symmetry**. Example: **the Academy of Athens**. Turreted medieval-style mansions or arched buildings without columns are not neoclassical."
+     }
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "**Ιλίου Μέλαθρον**: Ο αρχιτέκτονας **Ερνέστος Τσίλλερ** έκτισε αυτό το μέγαρο το 1878-1879 ως κατοικία του **Ερρίκου Σλήμαν**, του ανασκαφέα της Τροίας. Σήμερα στεγάζει το **Νομισματικό Μουσείο** (μουσείο νομισμάτων).",
+      "tr": "**Iliou Melathron**: Mimar **Ernst Ziller**, 1878-1879'da Truva'nın kazıcısı **Heinrich Schliemann** için bu konağı inşa etti. Bugün **Nümismatik Müzesi**'dir (madeni para müzesi).",
+      "en": "**Iliou Melathron**: architect **Ernst Ziller** built this mansion in 1878-1879 for **Heinrich Schliemann**, the excavator of Troy. Today it houses the **Numismatic Museum** (coin museum)."
+     }
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "Η **Προεδρική Φρουρά** — οι **Εύζωνες**: με την παραδοσιακή φουστανέλα και τα τσαρούχια με τις φούντες φρουρούν το Μνημείο του Άγνωστου Στρατιώτη και το Προεδρικό Μέγαρο στην Αθήνα.",
+      "tr": "**Cumhurbaşkanlığı Muhafızları (Προεδρική Φρουρά)** — **Evzonlar**: geleneksel fustanella eteği ve ponponlu çarıklarla Atina'da Meçhul Asker Anıtı'nı ve Cumhurbaşkanlığı Konağı'nı korurlar.",
+      "en": "**The Presidential Guard (Προεδρική Φρουρά)** — the **Evzones**: in the traditional foustanella kilt and pom-pom shoes they guard the Tomb of the Unknown Soldier and the Presidential Mansion in Athens."
+     }
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Το **Εθνικό Ιστορικό Μουσείο** στεγάζεται στο κτίριο της **Παλαιάς Βουλής** στην Αθήνα.",
+       "tr": "**Ulusal Tarih Müzesi** Atina'daki **Eski Parlamento** binasındadır.",
+       "en": "The **National Historical Museum** is housed in the **Old Parliament** building in Athens."
+      },
+      {
+       "el": "Από το 2018 η **Εθνική Βιβλιοθήκη της Ελλάδος** στεγάζεται στο **Κέντρο Πολιτισμού Ίδρυμα Σταύρος Νιάρχος**.",
+       "tr": "**Yunanistan Ulusal Kütüphanesi** 2018'den beri **Stavros Niarchos Vakfı Kültür Merkezi**'ndedir.",
+       "en": "Since 2018 the **National Library of Greece** has been housed in the **Stavros Niarchos Foundation Cultural Center**."
+      },
+      {
+       "el": "Στη Θεσσαλονίκη υπάρχει **Μουσείο Βυζαντινού Πολιτισμού**· στο Αρχαιολογικό Μουσείο Ηρακλείου εκτίθενται κυρίως τα αριστουργήματα του Μινωικού πολιτισμού.",
+       "tr": "Selanik'te **Bizans Kültürü Müzesi** vardır; Kandiye Arkeoloji Müzesi'nde başta Minos şaheserleri sergilenir.",
+       "en": "Thessaloniki has a **Museum of Byzantine Culture**; the Heraklion Archaeological Museum mainly displays Minoan masterpieces."
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Καλλιτέχνης",
+       "tr": "Sanatçı",
+       "en": "Artist"
+      },
+      {
+       "el": "Έργο",
+       "tr": "Eser",
+       "en": "Work"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Γιαννούλης Χαλεπάς (γλύπτης)",
+        "tr": "Yannulis Halepas (heykeltıraş)",
+        "en": "Yannoulis Chalepas (sculptor)"
+       },
+       {
+        "el": "«Η Κοιμωμένη» – κοπέλα ξαπλωμένη σε ταφικό μνημείο",
+        "tr": "«Uyuyan Kız» (Η Κοιμωμένη) – mezar anıtı üzerinde uzanmış kız",
+        "en": "«The Sleeping Girl» (Η Κοιμωμένη) – a girl lying on a tomb monument"
+       }
+      ],
+      [
+       {
+        "el": "Γιώργος Ζογγολόπουλος (γλύπτης)",
+        "tr": "Yorgos Zongolopulos (heykeltıraş)",
+        "en": "Giorgos Zongolopoulos (sculptor)"
+       },
+       {
+        "el": "«Ομπρέλες» – μεταλλικό γλυπτό στην παραλία της Θεσσαλονίκης",
+        "tr": "«Şemsiyeler» (Ομπρέλες) – Selanik sahilinde metal heykel",
+        "en": "«Umbrellas» (Ομπρέλες) – metal sculpture on the Thessaloniki waterfront"
+       }
+      ],
+      [
+       {
+        "el": "Βάσος Φαληρέας (γλύπτης)",
+        "tr": "Vasos Falireas (heykeltıraş)",
+        "en": "Vasos Falireas (sculptor)"
+       },
+       {
+        "el": "«Ο Κωστής Παλαμάς» – καθιστός ανδριάντας του ποιητή",
+        "tr": "«Kostis Palamas» – oturan şair heykeli",
+        "en": "«Kostis Palamas» – seated statue of the poet"
+       }
+      ],
+      [
+       {
+        "el": "Μιχάλης Τόμπρος (γλύπτης)",
+        "tr": "Mihalis Tombros (heykeltıraş)",
+        "en": "Michalis Tombros (sculptor)"
+       },
+       {
+        "el": "«Ο Ιωάννης Καποδίστριας» – όρθιος ανδριάντας",
+        "tr": "«Ioannis Kapodistrias» – ayakta duran heykel",
+        "en": "«Ioannis Kapodistrias» – standing statue"
+       }
+      ],
+      [
+       {
+        "el": "Αλέκος Φασιανός (ζωγράφος)",
+        "tr": "Alekos Fasianos (ressam)",
+        "en": "Alekos Fassianos (painter)"
+       },
+       {
+        "el": "«Ποδηλάτης»",
+        "tr": "«Bisikletçi» (Ποδηλάτης)",
+        "en": "«Cyclist» (Ποδηλάτης)"
+       }
+      ],
+      [
+       {
+        "el": "Γιάννης Μώραλης (ζωγράφος)",
+        "tr": "Yannis Moralis (ressam)",
+        "en": "Yannis Moralis (painter)"
+       },
+       {
+        "el": "«Ερωτικό»",
+        "tr": "«Erotik» (Ερωτικό)",
+        "en": "«Erotic» (Ερωτικό)"
+       }
+      ],
+      [
+       {
+        "el": "Γιάννης Τσαρούχης (ζωγράφος)",
+        "tr": "Yannis Tsaruhis (ressam)",
+        "en": "Yannis Tsarouchis (painter)"
+       },
+       {
+        "el": "«Ναύτης»",
+        "tr": "«Denizci» (Ναύτης)",
+        "en": "«Sailor» (Ναύτης)"
+       }
+      ],
+      [
+       {
+        "el": "Νίκος Εγγονόπουλος (ζωγράφος)",
+        "tr": "Nikos Engonopulos (ressam)",
+        "en": "Nikos Engonopoulos (painter)"
+       },
+       {
+        "el": "«Αϊ Γιώργης»",
+        "tr": "«Aziz Yorgi» (Αϊ Γιώργης)",
+        "en": "«Saint George» (Αϊ Γιώργης)"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Παγίδα: η «Κοιμωμένη» είναι του **Χαλεπά**, όχι του Ζογγολόπουλου (Ζογγολόπουλος = Ομπρέλες). Για τους ζωγράφους: Φασιανός – Ποδηλάτης, Τσαρούχης – Ναύτης, Εγγονόπουλος – Αϊ Γιώργης, Μώραλης – Ερωτικό.",
+      "tr": "Tuzak: «Uyuyan Kız» **Halepas**'ındır, Zongolopulos'un değil (Zongolopulos = Şemsiyeler). Ressamlar için: Fasianos – Bisikletçi, Tsaruhis – Denizci, Engonopulos – Aziz Yorgi, Moralis – Erotik.",
+      "en": "Trap: «The Sleeping Girl» is by **Chalepas**, not Zongolopoulos (Zongolopoulos = Umbrellas). For the painters: Fassianos – Cyclist, Tsarouchis – Sailor, Engonopoulos – Saint George, Moralis – Erotic."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Λευκός Πύργος",
+       "tr": "Beyaz Kule",
+       "en": "White Tower"
+      },
+      {
+       "el": "Νεοκλασικισμός",
+       "tr": "Neoklasisizm",
+       "en": "Neoclassicism"
+      },
+      {
+       "el": "ιωνικά κιονόκρανα",
+       "tr": "İyon sütun başlıkları",
+       "en": "Ionic capitals"
+      },
+      {
+       "el": "Ερνέστος Τσίλλερ",
+       "tr": "Ernst Ziller",
+       "en": "Ernst Ziller"
+      },
+      {
+       "el": "Ερρίκος Σλήμαν",
+       "tr": "Heinrich Schliemann",
+       "en": "Heinrich Schliemann"
+      },
+      {
+       "el": "Νομισματικό Μουσείο",
+       "tr": "Nümismatik Müzesi",
+       "en": "Numismatic Museum"
+      },
+      {
+       "el": "Προεδρική Φρουρά",
+       "tr": "Cumhurbaşkanlığı Muhafızları",
+       "en": "Presidential Guard"
+      },
+      {
+       "el": "Εθνικό Ιστορικό Μουσείο / Παλαιά Βουλή",
+       "tr": "Ulusal Tarih Müzesi / Eski Parlamento",
+       "en": "National Historical Museum / Old Parliament"
+      },
+      {
+       "el": "Εθνική Βιβλιοθήκη της Ελλάδος",
+       "tr": "Yunanistan Ulusal Kütüphanesi",
+       "en": "National Library of Greece"
+      },
+      {
+       "el": "Γιαννούλης Χαλεπάς, «Η Κοιμωμένη»",
+       "tr": "Yannulis Halepas, «Uyuyan Kız»",
+       "en": "Yannoulis Chalepas, «The Sleeping Girl»"
+      },
+      {
+       "el": "Γιώργου Ζογγολόπουλου, «Ομπρέλες»",
+       "tr": "Yorgos Zongolopulos, «Şemsiyeler»",
+       "en": "Giorgos Zongolopoulos, «Umbrellas»"
+      },
+      {
+       "el": "Φασιανός, Μώραλης, Τσαρούχης, Εγγονόπουλος",
+       "tr": "Fasianos, Moralis, Tsaruhis, Engonopulos",
+       "en": "Fassianos, Moralis, Tsarouchis, Engonopoulos"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "cul-26",
+    "cul-31",
+    "cul-32",
+    "cul-33",
+    "cul-34",
+    "cul-41",
+    "cul-62",
+    "cul-65"
+   ]
+  },
+  {
+   "id": "cul-music",
+   "title": {
+    "el": "Ελληνική μουσική",
+    "tr": "Yunan müziği",
+    "en": "Greek music"
+   },
+   "icon": "🎼",
+   "summary": {
+    "el": "Συνθέτες, στιχουργοί, τραγουδιστές, το ρεμπέτικο και ο εθνικός ύμνος.",
+    "tr": "Besteciler, söz yazarları, şarkıcılar, rebetiko ve milli marş.",
+    "en": "Composers, lyricists, singers, rebetiko and the national anthem."
+   },
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Πρόσωπο",
+       "tr": "Kişi",
+       "en": "Person"
+      },
+      {
+       "el": "Ρόλος",
+       "tr": "Rolü",
+       "en": "Role"
+      },
+      {
+       "el": "Τι πρέπει να ξέρετε για την εξέταση",
+       "tr": "Sınavda bilinmesi gereken",
+       "en": "What to know for the exam"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Μίκης Θεοδωράκης",
+        "tr": "Mikis Theodorakis",
+        "en": "Mikis Theodorakis"
+       },
+       {
+        "el": "συνθέτης",
+        "tr": "besteci",
+        "en": "composer"
+       },
+       {
+        "el": "μελοποίησε ποίηση του Γιάννη **Ρίτσου**· μελοποίησε το **«Άξιον Εστί»** του Ελύτη· έγραψε τη μουσική της ταινίας **«Ζ»** του Κώστα Γαβρά",
+        "tr": "Yannis **Ritsos**'un şiirlerini besteledi; Elitis'in **«Aksion Esti»**sini besteledi; Kostas Gavras'ın **«Z»** filminin müziği",
+        "en": "set **Ritsos**'s poetry to music; set Elytis's **«Axion Esti»**; music for Costa-Gavras's film **«Z»**"
+       }
+      ],
+      [
+       {
+        "el": "Μάνος Χατζηδάκις",
+        "tr": "Manos Hadjidakis",
+        "en": "Manos Hadjidakis"
+       },
+       {
+        "el": "συνθέτης",
+        "tr": "besteci",
+        "en": "composer"
+       },
+       {
+        "el": "**«Τα παιδιά του Πειραιά»** – το ερμήνευσε η Μελίνα Μερκούρη",
+        "tr": "**«Pire'nin Çocukları»** – Melina Merkuri seslendirdi",
+        "en": "**«The Children of Piraeus»** – sung by Melina Mercouri"
+       }
+      ],
+      [
+       {
+        "el": "Ευτυχία Παπαγιαννοπούλου",
+        "tr": "Eftihia Papagiannopulu",
+        "en": "Eftychia Papagiannopoulou"
+       },
+       {
+        "el": "στιχουργός",
+        "tr": "söz yazarı",
+        "en": "lyricist"
+       },
+       {
+        "el": "**η πρώτη Ελληνίδα γυναίκα στιχουργός**, η σημαντικότερη του λαϊκού τραγουδιού",
+        "tr": "**ilk Yunan kadın söz yazarı**, popüler şarkının en önemlisi",
+        "en": "**the first Greek woman lyricist**, the most important in popular song"
+       }
+      ],
+      [
+       {
+        "el": "Ευανθία Ρεμπούτσικα",
+        "tr": "Evanthia Reboutsika",
+        "en": "Evanthia Reboutsika"
+       },
+       {
+        "el": "συνθέτης",
+        "tr": "besteci",
+        "en": "composer"
+       },
+       {
+        "el": "μουσική για την ταινία **«Πολίτικη Κουζίνα»**",
+        "tr": "**«Politiki Kouzina»** (Bir Tutam Baharat) film müziği",
+        "en": "music for the film **«Politiki Kouzina»** (A Touch of Spice)"
+       }
+      ],
+      [
+       {
+        "el": "Γιάννης Μαρκόπουλος",
+        "tr": "Yannis Markopulos",
+        "en": "Yannis Markopoulos"
+       },
+       {
+        "el": "συνθέτης",
+        "tr": "besteci",
+        "en": "composer"
+       },
+       {
+        "el": "**«Μαλαματένια λόγια»**",
+        "tr": "**«Malamatenia Logia»** (Altın Sözler)",
+        "en": "**«Malamatenia Logia»** (Golden Words)"
+       }
+      ],
+      [
+       {
+        "el": "Νικόλαος Μάντζαρος",
+        "tr": "Nikolaos Mantzaros",
+        "en": "Nikolaos Mantzaros"
+       },
+       {
+        "el": "συνθέτης",
+        "tr": "besteci",
+        "en": "composer"
+       },
+       {
+        "el": "μελοποίησε τον **«Ύμνον εις την Ελευθερίαν»** του Σολωμού = **εθνικός ύμνος**",
+        "tr": "Solomos'un **«Özgürlüğe Övgü»**sünü besteledi = **milli marş**",
+        "en": "set Solomos's **«Hymn to Liberty»** to music = **national anthem**"
+       }
+      ],
+      [
+       {
+        "el": "Μάρκος Βαμβακάρης",
+        "tr": "Markos Vamvakaris",
+        "en": "Markos Vamvakaris"
+       },
+       {
+        "el": "μουσικός",
+        "tr": "müzisyen",
+        "en": "musician"
+       },
+       {
+        "el": "διέπρεψε στο **ρεμπέτικο τραγούδι**",
+        "tr": "**rebetiko**da öne çıktı",
+        "en": "excelled in **rebetiko**"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Πρόσωπο",
+       "tr": "Kişi",
+       "en": "Person"
+      },
+      {
+       "el": "Επάγγελμα",
+       "tr": "Meslek",
+       "en": "Profession"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Στέλιος Καζαντζίδης",
+        "tr": "Stelios Kazancidis",
+        "en": "Stelios Kazantzidis"
+       },
+       {
+        "el": "τραγουδιστής",
+        "tr": "şarkıcı",
+        "en": "singer"
+       }
+      ],
+      [
+       {
+        "el": "Σταύρος Κουγιουμτζής",
+        "tr": "Stavros Kuyumcis",
+        "en": "Stavros Kougioumtzis"
+       },
+       {
+        "el": "συνθέτης",
+        "tr": "besteci",
+        "en": "composer"
+       }
+      ],
+      [
+       {
+        "el": "Λευτέρης Παπαδόπουλος",
+        "tr": "Lefteris Papadopulos",
+        "en": "Lefteris Papadopoulos"
+       },
+       {
+        "el": "στιχουργός",
+        "tr": "söz yazarı",
+        "en": "lyricist"
+       }
+      ],
+      [
+       {
+        "el": "Λεωνίδας Καβάκος",
+        "tr": "Leonidas Kavakos",
+        "en": "Leonidas Kavakos"
+       },
+       {
+        "el": "βιολιστής",
+        "tr": "kemancı",
+        "en": "violinist"
+       }
+      ],
+      [
+       {
+        "el": "Γλυκερία",
+        "tr": "Glykeria",
+        "en": "Glykeria"
+       },
+       {
+        "el": "τραγουδίστρια (όχι μουσικοσυνθέτρια!)",
+        "tr": "şarkıcı (besteci değil!)",
+        "en": "singer (not a composer!)"
+       }
+      ],
+      [
+       {
+        "el": "Μαρία Κάλλας",
+        "tr": "Maria Callas",
+        "en": "Maria Callas"
+       },
+       {
+        "el": "υψίφωνος διεθνούς φήμης",
+        "tr": "uluslararası üne sahip soprano",
+        "en": "internationally renowned soprano"
+       }
+      ],
+      [
+       {
+        "el": "Σωτηρία Μπέλλου",
+        "tr": "Sotiria Bellou",
+        "en": "Sotiria Bellou"
+       },
+       {
+        "el": "τραγουδίστρια του ρεμπέτικου (από τις καλύτερες εκπροσώπους του)",
+        "tr": "rebetiko şarkıcısı (en iyi temsilcilerinden)",
+        "en": "rebetiko singer (one of its best exponents)"
+       }
+      ],
+      [
+       {
+        "el": "Διονύσης Σαββόπουλος",
+        "tr": "Dionisis Savvopulos",
+        "en": "Dionysis Savvopoulos"
+       },
+       {
+        "el": "συνθέτης και τραγουδιστής",
+        "tr": "besteci ve şarkıcı",
+        "en": "composer and singer"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "Η **Ελληνική Εθνική Σχολή Μουσικής** ιδρύθηκε στις αρχές του 20ού αιώνα στα πρότυπα της Δυτικής Ευρώπης και στόχευε στη δημιουργία εθνικής μουσικής. Στα πρώτα της βήματα βασίστηκε **στην παραδοσιακή ελληνική μουσική, στα δημοτικά τραγούδια και στη βυζαντινή υμνωδία** — **όχι στην οθωμανική μουσική**. (Κορυφαίος εκπρόσωπός της είναι ο Μανώλης Καλομοίρης.)",
+      "tr": "**Yunan Ulusal Müzik Ekolü** 20. yüzyıl başında Batı Avrupa örneğinde kuruldu ve ulusal bir müzik yaratmayı amaçladı. İlk adımlarında **geleneksel Yunan müziğine, halk türkülerine (δημοτικά) ve Bizans ilahilerine** dayandı — **Osmanlı müziğine değil**. (Önde gelen temsilcisi Manolis Kalomiris'tir.)",
+      "en": "The **Greek National School of Music** was founded at the beginning of the 20th century on the Western European model and aimed at creating a national music. In its first steps it was based on **traditional Greek music, folk (demotic) songs and Byzantine hymnody** — **not on Ottoman music**. (Its leading figure is Manolis Kalomiris.)"
+     }
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "«Τα παιδιά του Πειραιά» τα τραγούδησε η **Μελίνα Μερκούρη**, όχι η Αλίκη Βουγιουκλάκη. Τον Θεοδωράκη τον θυμόμαστε για τρία μεγάλα έργα: Ρίτσος, «Άξιον Εστί», «Ζ» (και «Αλέξης Ζορμπάς»).",
+      "tr": "«Pire'nin Çocukları»nı **Melina Merkuri** söyledi, Aliki Vuyuklaki değil. Theodorakis üç büyük şeyle hatırlanır: Ritsos, «Aksion Esti», «Z» (ve Zorba).",
+      "en": "«The Children of Piraeus» was sung by **Melina Mercouri**, not Aliki Vougiouklaki. Remember Theodorakis for three big things: Ritsos, «Axion Esti», «Z» (and Zorba)."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Μίκης Θεοδωράκης",
+       "tr": "Mikis Theodorakis",
+       "en": "Mikis Theodorakis"
+      },
+      {
+       "el": "Μάνος Χατζηδάκις",
+       "tr": "Manos Hadjidakis",
+       "en": "Manos Hadjidakis"
+      },
+      {
+       "el": "Ευτυχία Παπαγιαννοπούλου",
+       "tr": "Eftihia Papagiannopulu",
+       "en": "Eftychia Papagiannopoulou"
+      },
+      {
+       "el": "Ευανθία Ρεμπούτσικα",
+       "tr": "Evanthia Reboutsika",
+       "en": "Evanthia Reboutsika"
+      },
+      {
+       "el": "Γιάννης Μαρκόπουλος",
+       "tr": "Yannis Markopulos",
+       "en": "Yannis Markopoulos"
+      },
+      {
+       "el": "Νικόλαος Μάντζαρος",
+       "tr": "Nikolaos Mantzaros",
+       "en": "Nikolaos Mantzaros"
+      },
+      {
+       "el": "Ύμνος εις την Ελευθερίαν",
+       "tr": "Özgürlüğe Övgü (milli marş)",
+       "en": "Hymn to Liberty (national anthem)"
+      },
+      {
+       "el": "Ρεμπέτικο τραγούδι",
+       "tr": "rebetiko şarkısı",
+       "en": "rebetiko song"
+      },
+      {
+       "el": "στιχουργός / συνθέτης / βιολιστής / τραγουδιστής",
+       "tr": "söz yazarı / besteci / kemancı / şarkıcı",
+       "en": "lyricist / composer / violinist / singer"
+      },
+      {
+       "el": "υψίφωνος",
+       "tr": "soprano",
+       "en": "soprano"
+      },
+      {
+       "el": "βυζαντινή υμνωδία",
+       "tr": "Bizans ilahileri",
+       "en": "Byzantine hymnody"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "cul-35",
+    "cul-36",
+    "cul-37",
+    "cul-38",
+    "cul-39",
+    "cul-40",
+    "cul-42",
+    "cul-43",
+    "cul-53",
+    "cul-58",
+    "cul-65"
+   ]
+  },
+  {
+   "id": "cul-cinema",
+   "title": {
+    "el": "Ελληνικός κινηματογράφος",
+    "tr": "Yunan sineması",
+    "en": "Greek cinema"
+   },
+   "icon": "🎬",
+   "summary": {
+    "el": "Σκηνοθέτες, διάσημοι ηθοποιοί και κλασικές ταινίες.",
+    "tr": "Yönetmenler, ünlü oyuncular ve klasik filmler.",
+    "en": "Directors, famous actors and classic films."
+   },
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Σκηνοθέτης",
+       "tr": "Yönetmen",
+       "en": "Director"
+      },
+      {
+       "el": "Ταινία",
+       "tr": "Film",
+       "en": "Film"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Μιχάλης Κακογιάννης",
+        "tr": "Mihalis Kakoyannis",
+        "en": "Michael Cacoyannis"
+       },
+       {
+        "el": "«Αλέξης Ζορμπάς» (υποψήφια για 7 βραβεία Όσκαρ), «Στέλλα» (με τη Μελίνα Μερκούρη)",
+        "tr": "«Zorba» (7 Oscar adaylığı), «Stella» (Melina Merkuri ile)",
+        "en": "«Zorba the Greek» (7 Oscar nominations), «Stella» (with Melina Mercouri)"
+       }
+      ],
+      [
+       {
+        "el": "Γιώργος Λάνθιμος",
+        "tr": "Yorgos Lanthimos",
+        "en": "Yorgos Lanthimos"
+       },
+       {
+        "el": "«Κυνόδοντας» – υποψήφια το 2011 για Όσκαρ καλύτερης ξενόγλωσσης ταινίας",
+        "tr": "«Köpekdişi» – 2011'de En İyi Yabancı Dilde Film Oscar adayı",
+        "en": "«Dogtooth» – 2011 Oscar nominee for Best Foreign Language Film"
+       }
+      ],
+      [
+       {
+        "el": "Κώστας Γαβράς",
+        "tr": "Kostas Gavras",
+        "en": "Costa-Gavras"
+       },
+       {
+        "el": "«Ζ» (μουσική: Μίκης Θεοδωράκης)",
+        "tr": "«Z» (müzik: Mikis Theodorakis)",
+        "en": "«Z» (music: Mikis Theodorakis)"
+       }
+      ],
+      [
+       {
+        "el": "Θόδωρος Αγγελόπουλος",
+        "tr": "Theo Angelopoulos",
+        "en": "Theo Angelopoulos"
+       },
+       {
+        "el": "«Ο Μεγαλέξανδρος» – ο τίτλος αναφέρεται στον αρχαίο ήρωα Μέγα Αλέξανδρο· επίσης «Ο Μελισσοκόμος», «Το Μετέωρο Βήμα του πελαργού»",
+        "tr": "«Megaleksandros» – adı antik kahraman Büyük İskender'e gönderme yapar; ayrıca «Arıcı», «Leyleğin Askıdaki Adımı»",
+        "en": "«Megalexandros» – the title refers to the ancient hero Alexander the Great; also «The Beekeeper», «The Suspended Step of the Stork»"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Ταινία",
+       "tr": "Film",
+       "en": "Film"
+      },
+      {
+       "el": "Πρωταγωνιστής",
+       "tr": "Başrol",
+       "en": "Star"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "«Κυριακάτικο ξύπνημα»",
+        "tr": "«Pazar Uyanışı» (Κυριακάτικο ξύπνημα)",
+        "en": "«Sunday Awakening» (Κυριακάτικο ξύπνημα)"
+       },
+       {
+        "el": "Έλλη Λαμπέτη",
+        "tr": "Elli Lambeti",
+        "en": "Elli Lambeti"
+       }
+      ],
+      [
+       {
+        "el": "«Η Αλίκη στο Ναυτικό»",
+        "tr": "«Aliki Donanmada»",
+        "en": "«Aliki in the Navy»"
+       },
+       {
+        "el": "Αλίκη Βουγιουκλάκη",
+        "tr": "Aliki Vuyuklaki",
+        "en": "Aliki Vougiouklaki"
+       }
+      ],
+      [
+       {
+        "el": "«Τζένη, Τζένη»",
+        "tr": "«Jenny, Jenny»",
+        "en": "«Jenny, Jenny»"
+       },
+       {
+        "el": "Τζένη Καρέζη",
+        "tr": "Jenny Karezi",
+        "en": "Jenny Karezi"
+       }
+      ],
+      [
+       {
+        "el": "«Τα κόκκινα φανάρια»",
+        "tr": "«Kırmızı Fenerler»",
+        "en": "«The Red Lanterns»"
+       },
+       {
+        "el": "Δέσπω Διαμαντίδου",
+        "tr": "Despo Diamantidu",
+        "en": "Despo Diamantidou"
+       }
+      ],
+      [
+       {
+        "el": "«Στέλλα»",
+        "tr": "«Stella»",
+        "en": "«Stella»"
+       },
+       {
+        "el": "Μελίνα Μερκούρη",
+        "tr": "Melina Merkuri",
+        "en": "Melina Mercouri"
+       }
+      ],
+      [
+       {
+        "el": "«Αλλοίμονο στους νέους»",
+        "tr": "«Vay Gençlerin Haline» (Αλλοίμονο στους νέους)",
+        "en": "«Woe to the Young» (Αλλοίμονο στους νέους)"
+       },
+       {
+        "el": "Δημήτρης Χορν",
+        "tr": "Dimitris Horn",
+        "en": "Dimitris Horn"
+       }
+      ],
+      [
+       {
+        "el": "«Κάλπικη Λίρα»",
+        "tr": "«Kalp Lira» (Κάλπικη Λίρα)",
+        "en": "«The Counterfeit Coin» (Κάλπικη Λίρα)"
+       },
+       {
+        "el": "Δημήτρης Χορν – Έλλη Λαμπέτη",
+        "tr": "Dimitris Horn – Elli Lambeti",
+        "en": "Dimitris Horn – Elli Lambeti"
+       }
+      ],
+      [
+       {
+        "el": "«Τα κανόνια του Ναβαρόνε»",
+        "tr": "«Navarone Topları»",
+        "en": "«The Guns of Navarone»"
+       },
+       {
+        "el": "Ειρήνη Παπά",
+        "tr": "İrini Papa",
+        "en": "Irene Papas"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Το όνομα κρύβεται στον τίτλο: «Η **Αλίκη** στο Ναυτικό» → **Αλίκη** Βουγιουκλάκη· «**Τζένη**, Τζένη» → **Τζένη** Καρέζη. Τα άλλα δύο: Κυριακάτικο ξύπνημα → Λαμπέτη, Τα κόκκινα φανάρια → Διαμαντίδου.",
+      "tr": "Dört başlıkta isim ipucu: «**Aliki** Donanmada» → **Aliki** Vuyuklaki; «**Jenny**, Jenny» → **Jenny** Karezi. Kalan ikisi: Pazar Uyanışı → Lambeti, Kırmızı Fenerler → Diamantidu.",
+      "en": "Name clues in two titles: «**Aliki** in the Navy» → **Aliki** Vougiouklaki; «**Jenny**, Jenny» → **Jenny** Karezi. The other two: Sunday Awakening → Lambeti, The Red Lanterns → Diamantidou."
+     }
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "Η ταινία «Αλέξης Ζορμπάς» βασίζεται στο μυθιστόρημα του Νίκου Καζαντζάκη και η μουσική της είναι του Μίκη Θεοδωράκη.",
+      "tr": "«Zorba» filmi Nikos Kazancakis'in romanına dayanır ve müziği Mikis Theodorakis'indir.",
+      "en": "The film «Zorba the Greek» is based on Nikos Kazantzakis's novel and its music is by Mikis Theodorakis."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Μιχάλης Κακογιάννης",
+       "tr": "Mihalis Kakoyannis",
+       "en": "Michael Cacoyannis"
+      },
+      {
+       "el": "Γιώργος Λάνθιμος",
+       "tr": "Yorgos Lanthimos",
+       "en": "Yorgos Lanthimos"
+      },
+      {
+       "el": "Κώστας Γαβράς",
+       "tr": "Kostas Gavras",
+       "en": "Costa-Gavras"
+      },
+      {
+       "el": "Θόδωρος Αγγελόπουλος",
+       "tr": "Theo Angelopoulos",
+       "en": "Theo Angelopoulos"
+      },
+      {
+       "el": "Ο Μεγαλέξανδρος",
+       "tr": "Megaleksandros",
+       "en": "Megalexandros"
+      },
+      {
+       "el": "Κυνόδοντας",
+       "tr": "Köpekdişi",
+       "en": "Dogtooth"
+      },
+      {
+       "el": "Αλέξης Ζορμπάς",
+       "tr": "Zorba",
+       "en": "Zorba the Greek"
+      },
+      {
+       "el": "Μελίνα Μερκούρη",
+       "tr": "Melina Merkuri",
+       "en": "Melina Mercouri"
+      },
+      {
+       "el": "Έλλη Λαμπέτη",
+       "tr": "Elli Lambeti",
+       "en": "Elli Lambeti"
+      },
+      {
+       "el": "Δημήτρης Χορν",
+       "tr": "Dimitris Horn",
+       "en": "Dimitris Horn"
+      },
+      {
+       "el": "Ειρήνη Παπά",
+       "tr": "İrini Papa",
+       "en": "Irene Papas"
+      },
+      {
+       "el": "Κάλπικη Λίρα",
+       "tr": "Kalp Lira",
+       "en": "The Counterfeit Coin"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "cul-44",
+    "cul-45",
+    "cul-46",
+    "cul-47",
+    "cul-48",
+    "cul-49",
+    "cul-50",
+    "cul-51",
+    "cul-58"
+   ]
+  },
+  {
+   "id": "cul-literature",
+   "title": {
+    "el": "Νεοελληνική λογοτεχνία",
+    "tr": "Modern Yunan edebiyatı",
+    "en": "Modern Greek literature"
+   },
+   "icon": "📚",
+   "summary": {
+    "el": "Ποιητές βραβευμένοι με Νόμπελ, συγγραφείς και τα έργα τους, θέατρο και παιδική λογοτεχνία.",
+    "tr": "Nobel ödüllü şairler, yazarlar ve eserleri, tiyatro ve çocuk edebiyatı.",
+    "en": "Nobel-winning poets, writers and their works, theatre and children's literature."
+   },
+   "blocks": [
+    {
+     "type": "p",
+     "text": {
+      "el": "Οι δύο Έλληνες ποιητές που πήραν το **Νόμπελ Λογοτεχνίας**: ο **Γιώργος Σεφέρης** (1963) και ο **Οδυσσέας Ελύτης** (1979). Ο Παλαμάς, ο Ρίτσος, ο Κάλβος, ο Βάρναλης, ο Καρυωτάκης και ο Καβάφης είναι μεγάλοι ποιητές, αλλά δεν πήραν Νόμπελ.",
+      "tr": "**Nobel Edebiyat Ödülü** alan iki Yunan şair: **Yorgos Seferis** (1963) ve **Odisseas Elitis** (1979). Palamas, Ritsos, Kalvos, Varnalis, Kariotakis ve Kavafis büyük şairlerdir ama Nobel almamışlardır.",
+      "en": "The two Greek poets who won the **Nobel Prize in Literature**: **Giorgos Seferis** (1963) and **Odysseas Elytis** (1979). Palamas, Ritsos, Kalvos, Varnalis, Karyotakis and Cavafy are great poets but did not win the Nobel."
+     }
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Συγγραφέας",
+       "tr": "Yazar",
+       "en": "Author"
+      },
+      {
+       "el": "Έργο",
+       "tr": "Eser",
+       "en": "Work"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "Πηνελόπη Δέλτα",
+        "tr": "Pinelopi Delta",
+        "en": "Penelope Delta"
+       },
+       {
+        "el": "«Τα μυστικά του βάλτου»",
+        "tr": "«Bataklığın Sırları»",
+        "en": "«The Secrets of the Swamp»"
+       }
+      ],
+      [
+       {
+        "el": "Μαρία Ιορδανίδου",
+        "tr": "Maria Yordanidu",
+        "en": "Maria Iordanidou"
+       },
+       {
+        "el": "«Λωξάντρα»",
+        "tr": "«Loksandra»",
+        "en": "«Loxandra»"
+       }
+      ],
+      [
+       {
+        "el": "Νίκος Καζαντζάκης",
+        "tr": "Nikos Kazancakis",
+        "en": "Nikos Kazantzakis"
+       },
+       {
+        "el": "«Βίος και Πολιτεία του Αλέξη Ζορμπά» (Αλέξης Ζορμπάς)",
+        "tr": "«Aleksis Zorba'nın Hayatı ve Maceraları» (Zorba)",
+        "en": "«Life and Times of Alexis Zorba» (Zorba the Greek)"
+       }
+      ],
+      [
+       {
+        "el": "Αλέξανδρος Παπαδιαμάντης",
+        "tr": "Aleksandros Papadiamantis",
+        "en": "Alexandros Papadiamantis"
+       },
+       {
+        "el": "«Η Φόνισσα», «Οι Έμποροι των Εθνών»",
+        "tr": "«Katil Kadın», «Milletlerin Tüccarları»",
+        "en": "«The Murderess», «The Merchants of Nations»"
+       }
+      ],
+      [
+       {
+        "el": "Άλκη Ζέη",
+        "tr": "Alki Zei",
+        "en": "Alki Zei"
+       },
+       {
+        "el": "«Η Αρραβωνιαστικιά του Αχιλλέα»",
+        "tr": "«Ahilleas'ın Nişanlısı»",
+        "en": "«Achilles' Fiancée»"
+       }
+      ],
+      [
+       {
+        "el": "Τάσος Αθανασιάδης",
+        "tr": "Tasos Athanasiadis",
+        "en": "Tasos Athanasiadis"
+       },
+       {
+        "el": "«Οι Πανθέοι»",
+        "tr": "«Pantheoi»",
+        "en": "«The Pantheoi»"
+       }
+      ],
+      [
+       {
+        "el": "Ηλίας Βενέζης",
+        "tr": "İlias Venezis",
+        "en": "Ilias Venezis"
+       },
+       {
+        "el": "«Το νούμερο 31328»",
+        "tr": "«31328 Numara»",
+        "en": "«Number 31328»"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "Ο **Ευγένιος Τριβιζάς** είναι συγγραφέας παιδικής λογοτεχνίας (π.χ. «Τα τρία μικρά λυκάκια»). Ο Γιώργος Ιωάννου, ο Ισίδωρος Ζουργός και ο Αντώνης Σαμαράκης είναι συγγραφείς λογοτεχνίας για ενήλικες.",
+       "tr": "**Evyenios Trivizas** çocuk edebiyatı yazarıdır (ör. «Üç Küçük Kurt ve Kötü Domuz»). Yorgos Ioannu, İsidoros Zurgos ve Antonis Samarakis yetişkin edebiyatı yazarlarıdır.",
+       "en": "**Eugene Trivizas** is a children's literature author (e.g. «The Three Little Wolves and the Big Bad Pig»). Giorgos Ioannou, Isidoros Zourgos and Antonis Samarakis write for adults."
+      },
+      {
+       "el": "Ο **Ιάκωβος Καμπανέλλης** είναι από τους σημαντικότερους νεοέλληνες θεατρικούς συγγραφείς.",
+       "tr": "**İakovos Kambanellis** en önemli modern Yunan tiyatro yazarlarından biridir.",
+       "en": "**Iakovos Kambanellis** is one of the most important modern Greek playwrights."
+      },
+      {
+       "el": "Ο **Διονύσιος Σολωμός** έγραψε τον «Ύμνον εις την Ελευθερίαν» (οι στίχοι του εθνικού ύμνου).",
+       "tr": "**Dionisios Solomos** «Özgürlüğe Övgü»yü yazdı (milli marşın sözleri).",
+       "en": "**Dionysios Solomos** wrote the «Hymn to Liberty» (the words of the national anthem)."
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Ο Παπαδιαμάντης εμφανίζεται δύο φορές: «Η Φόνισσα» και «Οι Έμποροι των Εθνών». Το μυθιστόρημα του Βενέζη είναι ένας αριθμός: «Το νούμερο 31328» (ο αριθμός του ως αιχμαλώτου).",
+      "tr": "Papadiamantis iki kez çıkar: «Katil Kadın» ve «Milletlerin Tüccarları». Venezis'in romanı bir sayıdır: «31328» (onun esirlik numarası).",
+      "en": "Papadiamantis appears twice: «The Murderess» and «The Merchants of Nations». Venezis's novel is a number: «31328» (his prisoner number)."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Νόμπελ Λογοτεχνίας",
+       "tr": "Nobel Edebiyat Ödülü",
+       "en": "Nobel Prize in Literature"
+      },
+      {
+       "el": "Γιώργος Σεφέρης και Οδυσσέας Ελύτης",
+       "tr": "Yorgos Seferis ve Odisseas Elitis",
+       "en": "Giorgos Seferis and Odysseas Elytis"
+      },
+      {
+       "el": "Πηνελόπη Δέλτα – Τα μυστικά του βάλτου",
+       "tr": "Pinelopi Delta – Bataklığın Sırları",
+       "en": "Penelope Delta – The Secrets of the Swamp"
+      },
+      {
+       "el": "Μαρία Ιορδανίδου – Λωξάντρα",
+       "tr": "Maria Yordanidu – Loksandra",
+       "en": "Maria Iordanidou – Loxandra"
+      },
+      {
+       "el": "Νίκος Καζαντζάκης – Βίος και Πολιτεία του Αλέξη Ζορμπά",
+       "tr": "Nikos Kazancakis – Zorba",
+       "en": "Nikos Kazantzakis – Zorba"
+      },
+      {
+       "el": "Αλέξανδρος Παπαδιαμάντης – Η Φόνισσα, Οι Έμποροι των Εθνών",
+       "tr": "Papadiamantis – Katil Kadın, Milletlerin Tüccarları",
+       "en": "Papadiamantis – The Murderess, The Merchants of Nations"
+      },
+      {
+       "el": "Άλκη Ζέη – Η Αρραβωνιαστικιά του Αχιλλέα",
+       "tr": "Alki Zei – Ahilleas'ın Nişanlısı",
+       "en": "Alki Zei – Achilles' Fiancée"
+      },
+      {
+       "el": "Τάσος Αθανασιάδης – Οι Πανθέοι",
+       "tr": "Tasos Athanasiadis – Pantheoi",
+       "en": "Tasos Athanasiadis – The Pantheoi"
+      },
+      {
+       "el": "Ηλίας Βενέζης – Το νούμερο 31328",
+       "tr": "İlias Venezis – 31328 Numara",
+       "en": "Ilias Venezis – Number 31328"
+      },
+      {
+       "el": "Ευγένιος Τριβιζάς",
+       "tr": "Evyenios Trivizas",
+       "en": "Eugene Trivizas"
+      },
+      {
+       "el": "Ιάκωβος Καμπανέλλης",
+       "tr": "İakovos Kambanellis",
+       "en": "Iakovos Kambanellis"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "cul-52",
+    "cul-54",
+    "cul-55",
+    "cul-56",
+    "cul-58"
+   ]
+  },
+  {
+   "id": "cul-sport",
+   "title": {
+    "el": "Αθλητισμός",
+    "tr": "Spor",
+    "en": "Sport"
+   },
+   "icon": "🏅",
+   "summary": {
+    "el": "Οι Ολυμπιακοί Αγώνες, διάσημοι αθλητές, σημαντικές χρονολογίες του αθλητισμού και οι ομάδες.",
+    "tr": "Olimpiyatlar, ünlü sporcular, spor tarihindeki tarihler ve kulüpler.",
+    "en": "The Olympics, famous athletes, key dates in sport and the clubs."
+   },
+   "blocks": [
+    {
+     "type": "timeline",
+     "items": [
+      {
+       "date": "1896",
+       "text": {
+        "el": "Αναβίωση των πρώτων σύγχρονων Ολυμπιακών Αγώνων στην Αθήνα. Ο **Σπύρος Λούης** κέρδισε τον μαραθώνιο **δρόμο**.",
+        "tr": "İlk modern Olimpiyat Oyunları'nın Atina'da yeniden canlandırılması. **Spiros Luis** maraton **koşusunu** kazandı.",
+        "en": "Revival of the first modern Olympic Games in Athens. **Spyros Louis** won the marathon **race**."
+       }
+      },
+      {
+       "date": "1953",
+       "text": {
+        "el": "Ξεκίνησε στην Αθήνα ο διεθνής αγώνας αυτοκινήτου **«Ράλλυ Ακρόπολις»**.",
+        "tr": "Atina'da uluslararası **Akropolis Rallisi** otomobil yarışı başladı.",
+        "en": "The international **Acropolis Rally** motor race began in Athens."
+       }
+      },
+      {
+       "date": "1987",
+       "text": {
+        "el": "Η Ελλάδα έγινε πρωταθλήτρια στους **Πανευρωπαϊκούς αγώνες καλαθοσφαίρισης (Ευρωμπάσκετ)**.",
+        "tr": "Yunanistan **Avrupa Basketbol Şampiyonası (Eurobasket)**'nda şampiyon oldu.",
+        "en": "Greece became champion of the **European Basketball Championship (EuroBasket)**."
+       }
+      },
+      {
+       "date": "2004",
+       "text": {
+        "el": "**Η Αθήνα διοργάνωσε τους Ολυμπιακούς Αγώνες**.",
+        "tr": "**Atina Olimpiyat Oyunları**'na ev sahipliği yaptı.",
+        "en": "**Athens hosted the Olympic Games**."
+       }
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text": {
+      "el": "Ο **Παναγής Κουταλιανός** (1847-1916) γεννήθηκε στην Κούταλη της Προποντίδας (Θάλασσα του Μαρμαρά) και έγινε πολύ διάσημος **στην πάλη**.",
+      "tr": "**Panagis Kutalianos** (1847-1916), Marmara Denizi'ndeki Ekinlik Adası'nda (Κούταλη) doğdu ve **güreşte** büyük ün kazandı.",
+      "en": "**Panagis Koutalianos** (1847-1916) was born on Koutali in the Sea of Marmara (Propontis) and became famous in **wrestling**."
+     }
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Ομάδα",
+       "tr": "Kulüp",
+       "en": "Club"
+      },
+      {
+       "el": "Πόλη",
+       "tr": "Şehir",
+       "en": "City"
+      },
+      {
+       "el": "Προέλευση",
+       "tr": "Kökeni",
+       "en": "Origin"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "ΠΑΝΑΧΑΪΚΗ",
+        "tr": "PANAHAİKİ",
+        "en": "PANACHAIKI"
+       },
+       {
+        "el": "Πάτρα",
+        "tr": "Patra",
+        "en": "Patras"
+       },
+       {
+        "el": "μεγάλο λιμάνι (τέλη 19ου – αρχές 20ού αι.)",
+        "tr": "büyük liman (19. yy sonu – 20. yy başı)",
+        "en": "large port (late 19th – early 20th c.)"
+       }
+      ],
+      [
+       {
+        "el": "ΟΛΥΜΠΙΑΚΟΣ",
+        "tr": "OLYMPİAKOS",
+        "en": "OLYMPIACOS"
+       },
+       {
+        "el": "Πειραιάς",
+        "tr": "Pire",
+        "en": "Piraeus"
+       },
+       {
+        "el": "μεγάλο λιμάνι",
+        "tr": "büyük liman",
+        "en": "large port"
+       }
+      ],
+      [
+       {
+        "el": "ΑΕΚ",
+        "tr": "AEK",
+        "en": "AEK"
+       },
+       {
+        "el": "Νέα Φιλαδέλφεια (Αθήνα)",
+        "tr": "Nea Filadelfia (Atina)",
+        "en": "Nea Filadelfeia (Athens)"
+       },
+       {
+        "el": "Μικρασιάτες πρόσφυγες του 1922",
+        "tr": "1922 Küçük Asyalı mülteciler",
+        "en": "1922 refugees from Asia Minor"
+       }
+      ],
+      [
+       {
+        "el": "ΠΑΟΚ",
+        "tr": "PAOK",
+        "en": "PAOK"
+       },
+       {
+        "el": "Θεσσαλονίκη",
+        "tr": "Selanik",
+        "en": "Thessaloniki"
+       },
+       {
+        "el": "Μικρασιάτες πρόσφυγες του 1922",
+        "tr": "1922 Küçük Asyalı mülteciler",
+        "en": "1922 refugees from Asia Minor"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Στη συμπλήρωση των κενών περισσεύει ο **ΠΑΝΑΘΗΝΑΪΚΟΣ**. Το «Κ» στα ονόματα ΑΕΚ και ΠΑΟΚ θυμίζει την Κωνσταντινούπολη: είναι οι ομάδες των προσφύγων.",
+      "tr": "Boşluk doldurmada **Panathinaikos** fazladır (artan kelime). AEK ve PAOK adlarındaki «K» Konstantinopolis'i hatırlatır: mülteci kulüpleri.",
+      "en": "In the fill-in question **Panathinaikos** is the leftover word. The «K» in AEK and PAOK recalls Constantinople: the refugee clubs."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Ολυμπιακοί Αγώνες",
+       "tr": "Olimpiyat Oyunları",
+       "en": "Olympic Games"
+      },
+      {
+       "el": "Σπύρος Λούης",
+       "tr": "Spiros Luis",
+       "en": "Spyros Louis"
+      },
+      {
+       "el": "του δρόμου",
+       "tr": "koşu",
+       "en": "running (race)"
+      },
+      {
+       "el": "Παναγής Κουταλιανός",
+       "tr": "Panagis Kutalianos",
+       "en": "Panagis Koutalianos"
+      },
+      {
+       "el": "στην πάλη",
+       "tr": "güreşte",
+       "en": "in wrestling"
+      },
+      {
+       "el": "Ευρωμπάσκετ",
+       "tr": "Eurobasket",
+       "en": "EuroBasket"
+      },
+      {
+       "el": "Ράλλυ Ακρόπολις",
+       "tr": "Akropolis Rallisi",
+       "en": "Acropolis Rally"
+      },
+      {
+       "el": "ΠΑΝΑΧΑΪΚΗ, ΟΛΥΜΠΙΑΚΟΣ, ΑΕΚ, ΠΑΟΚ",
+       "tr": "Panahaiki, Olympiakos, AEK, PAOK",
+       "en": "Panachaiki, Olympiacos, AEK, PAOK"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "cul-57",
+    "cul-59",
+    "cul-60",
+    "cul-61"
+   ]
+  },
+  {
+   "id": "cul-customs",
+   "title": {
+    "el": "Έθιμα και γιορτές",
+    "tr": "Gelenekler ve bayramlar",
+    "en": "Customs and holidays"
+   },
+   "icon": "🥚",
+   "summary": {
+    "el": "Το Πάσχα, η Πρωτοχρονιά, τα Θεοφάνια, η Καθαρά Δευτέρα και θρησκευτικά έθιμα της καθημερινής ζωής.",
+    "tr": "Paskalya, Yılbaşı, Epifani, Temiz Pazartesi ve günlük hayattaki dini gelenekler.",
+    "en": "Easter, New Year, Epiphany, Clean Monday and religious customs of everyday life."
+   },
+   "blocks": [
+    {
+     "type": "timeline",
+     "items": [
+      {
+       "date": "Καθαρά Δευτέρα",
+       "text": {
+        "el": "**Καθαρά Δευτέρα** (πρώτη μέρα της Σαρακοστής): οι οικογένειες πηγαίνουν εκδρομή στην εξοχή και τα παιδιά πετούν **χαρταετούς**.",
+        "tr": "**Temiz Pazartesi** (Büyük Perhizin ilk günü): aileler kırlara gezintiye çıkar, çocuklar **uçurtma** uçurur.",
+        "en": "**Clean Monday** (first day of Lent): families go out to the countryside, children fly **kites**."
+       }
+      },
+      {
+       "date": "Μεγάλη Πέμπτη",
+       "text": {
+        "el": "Μεγάλη Πέμπτη: βάφονται τα **κόκκινα αβγά**.",
+        "tr": "Kutsal Perşembe: **kırmızı yumurtalar** boyanır.",
+        "en": "Holy Thursday: **red eggs** are dyed."
+       }
+      },
+      {
+       "date": "Μεγάλη Παρασκευή",
+       "text": {
+        "el": "Μεγάλη Παρασκευή: ο **Επιτάφιος**, που συμβολίζει τον τάφο του Χριστού, περιφέρεται στις γειτονιές.",
+        "tr": "Kutsal Cuma: İsa'nın mezarını simgeleyen **Epitafios** mahallelerde dolaştırılır.",
+        "en": "Good Friday: the **Epitaphios**, symbolising the tomb of Christ, is carried in procession through the neighbourhoods."
+       }
+      },
+      {
+       "date": "Μεγάλο Σάββατο",
+       "text": {
+        "el": "Βράδυ του Μεγάλου Σαββάτου: οι πιστοί συγκεντρώνονται στους ναούς, παίρνουν σε λαμπάδες το **άγιο Φως** και τα μεσάνυχτα ακολουθούν πυροτεχνήματα· μετά τρώμε την παραδοσιακή σούπα με κρέας, τη **μαγειρίτσα**. Είναι η αποκορύφωση της Μεγάλης Εβδομάδας.",
+        "tr": "Kutsal Cumartesi gecesi: inananlar kiliselerde toplanır, mumlarla **Kutsal Işığı** alır, gece yarısı havai fişekler atılır; ardından etli geleneksel çorba **mayiritsa** yenir. Kutsal Haftanın doruk noktasıdır.",
+        "en": "Holy Saturday night: the faithful gather in churches, receive the **Holy Light** on candles, fireworks at midnight; then the traditional meat soup **magiritsa** is eaten. The culmination of Holy Week."
+       }
+      },
+      {
+       "date": "Πάσχα",
+       "text": {
+        "el": "Κυριακή του Πάσχα: αρνί στη σούβλα, τσούγκρισμα αβγών· πασχαλινά τσουρέκια.",
+        "tr": "Paskalya Pazarı: kuzu çevirme, yumurta tokuşturma; Paskalya çörekleri (tsureki).",
+        "en": "Easter Sunday: spit-roast lamb, cracking eggs; Easter sweet breads (tsourekia)."
+       }
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      {
+       "el": "Έθιμο",
+       "tr": "Gelenek",
+       "en": "Custom"
+      },
+      {
+       "el": "Γιορτή",
+       "tr": "Bayram",
+       "en": "Holiday"
+      }
+     ],
+     "rows": [
+      [
+       {
+        "el": "βάψιμο κόκκινων αβγών",
+        "tr": "kırmızı yumurta boyama",
+        "en": "dyeing red eggs"
+       },
+       {
+        "el": "Πάσχα",
+        "tr": "Paskalya",
+        "en": "Easter"
+       }
+      ],
+      [
+       {
+        "el": "περιφορά επιταφίου",
+        "tr": "Epitafios alayı",
+        "en": "the Epitaphios procession"
+       },
+       {
+        "el": "Πάσχα",
+        "tr": "Paskalya",
+        "en": "Easter"
+       }
+      ],
+      [
+       {
+        "el": "ρίξιμο σταυρού στη θάλασσα (αγιασμός των υδάτων, 6 Ιανουαρίου)",
+        "tr": "haçın denize atılması (suların kutsanması, 6 Ocak)",
+        "en": "throwing the cross into the sea (blessing of the waters, 6 January)"
+       },
+       {
+        "el": "Θεοφάνια / Φώτα",
+        "tr": "Epifani (Θεοφάνια / Φώτα)",
+        "en": "Epiphany (Θεοφάνια / Φώτα)"
+       }
+      ],
+      [
+       {
+        "el": "σπάσιμο ροδιού (για καλοτυχία)",
+        "tr": "nar kırma (bereket için)",
+        "en": "breaking a pomegranate (for good luck)"
+       },
+       {
+        "el": "Πρωτοχρονιά",
+        "tr": "Yılbaşı",
+        "en": "New Year"
+       }
+      ],
+      [
+       {
+        "el": "κόψιμο της **Βασιλόπιττας** (με κρυμμένο νόμισμα· παραμονή Πρωτοχρονιάς)",
+        "tr": "**Vasilopita** kesmek (içinde para saklı çörek; yılbaşı gecesi)",
+        "en": "cutting the **Vasilopita** (cake with a hidden coin; New Year's Eve)"
+       },
+       {
+        "el": "Πρωτοχρονιά",
+        "tr": "Yılbaşı",
+        "en": "New Year"
+       }
+      ],
+      [
+       {
+        "el": "Χριστόψωμο (ψωμί των Χριστουγέννων)",
+        "tr": "Hristopsomo (Noel ekmeği)",
+        "en": "Christopsomo (Christmas bread)"
+       },
+       {
+        "el": "Χριστούγεννα",
+        "tr": "Noel",
+        "en": "Christmas"
+       }
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      {
+       "el": "**Σαράντα ημέρες μετά τον θάνατο** τελείται μνημόσυνο και φτιάχνουμε **κόλλυβα** (βρασμένο σιτάρι). — Σωστό",
+       "tr": "Ölümden **kırk gün sonra** anma ayini (μνημόσυνο) yapılır ve **kollyva** (haşlanmış buğday) hazırlanır. — Doğru",
+       "en": "**Forty days after a death** a memorial service (μνημόσυνο) is held and **kollyva** (boiled wheat) is made. — True"
+      },
+      {
+       "el": "Όταν ξεκινάει η καινούρια σχολική χρονιά, τελούμε **αγιασμό**. — Σωστό",
+       "tr": "Yeni okul yılı başlarken **kutsama ayini (αγιασμός)** yapılır. — Doğru",
+       "en": "When the new school year starts a **blessing service (αγιασμός)** is held. — True"
+      },
+      {
+       "el": "Οι **Καλικάντζαροι** δεν είναι καλά πνεύματα: σύμφωνα με την παράδοση είναι **άτακτα/κακά δαιμόνια** που εμφανίζονται στο δωδεκαήμερο από τα Χριστούγεννα ως τα Θεοφάνια. — Η πρόταση «καλά πνεύματα» είναι Λάθος",
+       "tr": "**Kalikantzarlar** iyi ruhlar değildir: gelenekte Noel ile Epifani arasındaki on iki gün ortaya çıkan **yaramaz/kötü cinlerdir**. — «iyi ruhlar» ifadesi Yanlış",
+       "en": "The **Kallikantzaroi** are not good spirits: in tradition they are **mischievous/evil goblins** that appear in the twelve days between Christmas and Epiphany. — «good spirits» is False"
+      },
+      {
+       "el": "Τη **Φανουρόπιτα** δεν τη φτιάχνουμε για αρρώστια, αλλά προς τιμήν του Αγίου Φανουρίου, **για να βρεθεί κάτι χαμένο**. — Η πρόταση «για να γίνει καλά ο άρρωστος» είναι Λάθος",
+       "tr": "**Fanuropita** hastalık için değil, Aziz Fanurios adına, **kaybolan bir şeyin bulunması** için yapılır. — «hasta iyileşsin diye» ifadesi Yanlış",
+       "en": "**Fanouropita** is made not for illness but in honour of Saint Fanourios, **to find something lost**. — «so that a sick person gets well» is False"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "text": {
+      "el": "Ρωτάει για βράδυ; Άγιο Φως και μαγειρίτσα → το βράδυ του **Μεγάλου Σαββάτου**. Επιτάφιος → Μεγάλη **Παρασκευή**. Χαρταετός → **Καθαρά Δευτέρα**. Βασιλόπιττα → **Πρωτοχρονιά**.",
+      "tr": "Gece mi soruyor? Kutsal Işık ve mayiritsa → **Kutsal Cumartesi** gecesi. Epitafios → Kutsal **Cuma**. Uçurtma → **Temiz Pazartesi**. Vasilopita → **Yılbaşı**.",
+      "en": "Asking about a night? Holy Light and magiritsa → **Holy Saturday** night. Epitaphios → Good **Friday**. Kites → **Clean Monday**. Vasilopita → **New Year**."
+     }
+    },
+    {
+     "type": "terms",
+     "items": [
+      {
+       "el": "Πάσχα",
+       "tr": "Paskalya",
+       "en": "Easter"
+      },
+      {
+       "el": "Επιτάφιος",
+       "tr": "Epitafios",
+       "en": "Epitaphios"
+      },
+      {
+       "el": "Μεγάλη Παρασκευή",
+       "tr": "Kutsal Cuma",
+       "en": "Good Friday"
+      },
+      {
+       "el": "Μεγάλο Σάββατο",
+       "tr": "Kutsal Cumartesi",
+       "en": "Holy Saturday"
+      },
+      {
+       "el": "άγιο Φως",
+       "tr": "Kutsal Işık",
+       "en": "Holy Light"
+      },
+      {
+       "el": "μαγειρίτσα",
+       "tr": "mayiritsa (Paskalya çorbası)",
+       "en": "magiritsa (Easter soup)"
+      },
+      {
+       "el": "Καθαρά Δευτέρα",
+       "tr": "Temiz Pazartesi",
+       "en": "Clean Monday"
+      },
+      {
+       "el": "χαρταετός",
+       "tr": "uçurtma",
+       "en": "kite"
+      },
+      {
+       "el": "Πρωτοχρονιά",
+       "tr": "Yılbaşı",
+       "en": "New Year's Day"
+      },
+      {
+       "el": "Βασιλόπιττα",
+       "tr": "Vasilopita",
+       "en": "Vasilopita"
+      },
+      {
+       "el": "Θεοφάνια / τα Φώτα",
+       "tr": "Epifani",
+       "en": "Epiphany"
+      },
+      {
+       "el": "κόλλυβα",
+       "tr": "kollyva",
+       "en": "kollyva"
+      },
+      {
+       "el": "Καλικάντζαροι",
+       "tr": "Kalikantzarlar",
+       "en": "Kallikantzaroi"
+      },
+      {
+       "el": "αγιασμός",
+       "tr": "kutsama ayini",
+       "en": "blessing service"
+      },
+      {
+       "el": "Φανουρόπιτα",
+       "tr": "Fanuropita",
+       "en": "Fanouropita"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    "cul-63",
+    "cul-64",
+    "cul-66",
+    "cul-67",
+    "cul-68",
+    "cul-69",
+    "cul-70"
+   ]
+  }
+ ]
 }

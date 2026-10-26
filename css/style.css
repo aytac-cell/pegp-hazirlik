@@ -353,6 +353,12 @@ input[type="number"] { min-height: 42px; width: 110px; padding: .4rem .6rem; bor
 .timeline .date { font-weight: 700; color: var(--primary); margin-right: .4rem; font-variant-numeric: tabular-nums; }
 .tip { padding: .75rem .9rem; border-radius: 12px; background: var(--primary-soft); border-left: 4px solid var(--primary); }
 .lesson-body .table td, .lesson-body .table th { font-size: .9rem; vertical-align: top; }
+.tr-sub { display: block; color: var(--muted); font-size: .88em; line-height: 1.5; margin-top: .15rem; }
+.lesson-body [lang="el"] { font-family: var(--font-el); }
+.lesson-lang { gap: .5rem; }
+.lesson-lang .seg { flex-wrap: wrap; }
+.lesson-lang .seg button { padding: .4rem .7rem; font-size: .85rem; min-height: 36px; }
+.lesson-body .speak { font-size: .9rem; vertical-align: baseline; }
 .toc { display: grid; gap: .5rem; }
 .toc a { display: grid; grid-template-columns: 38px 1fr auto; gap: .7rem; align-items: center; padding: .75rem .9rem; text-decoration: none; color: var(--text); }
 .toc .ic { font-size: 1.4rem; text-align: center; }
