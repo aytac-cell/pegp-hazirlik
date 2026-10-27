@@ -388,6 +388,16 @@ input[type="number"] { min-height: 42px; width: 110px; padding: .4rem .6rem; bor
 .quiz-prompt .blank { color: var(--primary); }
 #quizBtn:disabled { opacity: .6; }
 
+/* ---------- example sentences ---------- */
+.examples { background: color-mix(in srgb, var(--gram, var(--primary)) 7%, var(--surface)); border: 1px solid color-mix(in srgb, var(--gram, var(--primary)) 25%, var(--line)); border-radius: 12px; padding: .7rem .9rem; }
+.examples h3 { margin-bottom: .3rem; }
+.ex-list { list-style: none; padding: 0 !important; margin: 0; }
+.ex-item { padding: .45rem 0; border-bottom: 1px dashed var(--line); }
+.ex-item:last-child { border-bottom: 0; }
+.ex-el { font-family: var(--font-el); font-size: 1.05rem; }
+.ex-el b { color: var(--gram, var(--primary)); }
+.ex-note { display: block; font-size: .8rem; color: var(--muted); margin-top: .15rem; }
+
 /* ---------- lessons ---------- */
 .lesson { max-width: 760px; margin: 0 auto; }
 .lesson-head .el-title { font-family: var(--font-el); color: var(--muted); font-size: 1.05rem; margin-top: -.2rem; }

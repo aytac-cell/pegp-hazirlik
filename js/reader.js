@@ -27,7 +27,8 @@
         return;
       }
       if (n.nodeType !== 1 || n.matches(SKIP_SEL)) return;
-      const l = n.getAttribute("lang") === "el" ? "el" : (n.classList.contains("tr-sub") ? baseLang.ui : lang);
+      const tag = n.getAttribute("lang");
+      const l = tag === "el" ? "el" : (tag === "tr" || tag === "en") ? tag : (n.classList.contains("tr-sub") ? baseLang.ui : lang);
       // table cells / list separators: keep words apart
       n.childNodes.forEach(ch => walk(ch, l));
       if (/^(TD|TH|LI|DIV|SMALL)$/.test(n.tagName)) push(l, ". ");

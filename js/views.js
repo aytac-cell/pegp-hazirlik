@@ -814,6 +814,15 @@
     bindLessonLang(() => learnToc(subj, les));
   }
 
+  // example sentences: always Greek, with the translation (lesson language, or interface language when reading in Greek)
+  function examplesHtml(b) {
+    const L = lessonLang(), tl = L === "tr" || L === "en" ? L : I18N.lang;
+    const voice = Store.setting("voice") && "speechSynthesis" in window;
+    return `<div class="examples"><h3>✍️ ${esc(b.title ? (b.title[tl] || c(b.title)) : t("examplesH"))}</h3><ul class="ex-list">${b.items.map(x => `<li class="ex-item">
+        <span lang="el" class="ex-el">${fmt(x.el)}</span>${voice ? ` <button class="speak" type="button" data-say="${esc(plain(x.el))}" aria-label="${esc(t("listen"))}">🔊</button>` : ""}
+        <span class="tr-sub" lang="${tl}">${fmt(x[tl] || c(x))}</span>${x.note ? `<span class="ex-note">💡 ${fmt(x.note[tl] || c(x.note))}</span>` : ""}</li>`).join("")}</ul></div>`;
+  }
+
   function inflTitle(G) {
     const tr = lessonLang() === "el" ? "" : c(G);
     return `<span lang="el">${esc(G.el)}</span>${tr ? ` <span class="small muted" style="font-family:var(--font)">— ${esc(tr)}</span>` : ""}`;
@@ -828,6 +837,7 @@
       case "timeline": return `<div><h3>${esc(t("timelineH"))}</h3><ul class="timeline">${b.items.map(x => `<li><span class="date">${esc(x.date)}</span>${rich(x.text)}</li>`).join("")}</ul></div>`;
       case "table": return `<div style="overflow-x:auto"><table class="table"><thead><tr>${b.head.map(h => `<th>${rich(h)}</th>`).join("")}</tr></thead><tbody>${b.rows.map(r => `<tr>${r.map(x => `<td>${rich(x)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
       case "map": return `<div data-map="${i}"></div>`;
+      case "examples": return examplesHtml(b);
       case "decl": return `<div><div class="infl-title">${inflTitle(b.word)}</div>${b.note ? `<p class="small">${rich(b.note)}</p>` : ""}${Grammar.decl(b.sg, b.pl)}</div>`;
       case "conj": return `<div><div class="infl-title">${inflTitle(b.verb)}</div>${b.note ? `<p class="small">${rich(b.note)}</p>` : ""}${Grammar.conj(b.tenses)}</div>`;
       default: return "";

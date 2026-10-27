@@ -79,10 +79,11 @@
     return out;
   }
 
-  // 10 questions from this section only; grammar sections mix in questions on their own tables
+  // 10 questions from this section's own pool (usage questions written from the lesson);
+  // questions generated from its inflection tables only fill in if the pool is too small
   function build(les, sec) {
     const text = shuffle(fromAuthored(sec)), forms = shuffle(formsFor(sec));
-    const nForms = forms.length ? Math.min(forms.length, Math.max(N - text.length, 4)) : 0;
+    const nForms = Math.min(forms.length, Math.max(N - text.length, 0));
     const qs = forms.slice(0, nForms).concat(text.slice(0, N - nForms));
     if (qs.length < N) qs.push(...forms.slice(nForms, nForms + N - qs.length));
     return shuffle(qs).slice(0, N);

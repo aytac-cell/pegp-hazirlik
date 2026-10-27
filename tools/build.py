@@ -123,7 +123,7 @@ def attach_images(qmap):
 
 LSRC = SRC / "lessons"
 LOUT = ROOT / "data" / "lessons.js"
-BLOCKS = {"p", "list", "terms", "timeline", "map", "tip", "table", "decl", "conj"}
+BLOCKS = {"p", "list", "terms", "timeline", "map", "tip", "table", "decl", "conj", "examples"}
 TENSES = ["present", "imperfect", "aorist", "fut_cont", "fut_simple", "perfect", "pluperfect", "fut_perfect", "subj_simple", "imperative"]
 GRAM_PARTS = ["nouns", "verbs", "irregular"]
 
@@ -213,6 +213,8 @@ def build_lessons(qmap):
                     for p in b.get("places") or [None]:
                         if not (p and is_L(p.get("name")) and 34.5 <= p.get("lat", 0) <= 42 and 19 <= p.get("lon", 0) <= 30.5):
                             errors.append(f"{bw}: place {p and p.get('name')}")
+                elif bt == "examples" and not (b.get("items") and all(is_L(x) and (x.get("note") is None or is_T(x.get("note"))) for x in b["items"]) and (b.get("title") is None or is_T(b.get("title")))):
+                    errors.append(f"{bw}: examples")
                 elif bt == "decl" and not (is_L(b.get("word")) and strs(b.get("sg"), 4) and strs(b.get("pl"), 4) and (b.get("note") is None or is_T(b.get("note")))):
                     errors.append(f"{bw}: decl")
                 elif bt == "conj":

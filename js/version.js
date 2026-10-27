@@ -1,7 +1,20 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.6.0";
+window.APP_VERSION = "1.7.0";
 window.APP_CHANGES = [
+  {
+    v: "1.7.0", date: "2026-10-27",
+    tr: [
+      "Dilbilgisi derslerinde çok daha fazla örnek: her bölümde günlük hayattan Yunanca örnek cümleler, çevirileri ve açıklamalarıyla (🔊 ile dinlenebilir)",
+      "Dilbilgisi bölüm sınavları artık kullanım üzerine: cümle içinde doğru biçimi/zamanı/hâli seçme, doğru cümleyi bulma, hatayı yakalama",
+      "Alıştırmalar, Yunanca öğretim sitelerindeki alıştırma türlerinden uyarlandı; kaynaklar bölüm altında"
+    ],
+    en: [
+      "Many more examples in the grammar lessons: everyday Greek sentences in every section, with translations and notes (listen with 🔊)",
+      "Grammar section quizzes now test usage: pick the right form/tense/case in a sentence, find the correct sentence, spot the error",
+      "Exercises adapted from the exercise types of Greek-teaching sites; sources listed under each section"
+    ]
+  },
   {
     v: "1.6.0", date: "2026-10-26",
     tr: [

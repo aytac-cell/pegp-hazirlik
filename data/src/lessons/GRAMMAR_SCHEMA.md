@@ -50,3 +50,36 @@ Words in `data/src/words/{a1,a2,b1}.json` may get an optional `forms` object:
 - verbs: `"forms": {"present": [6], "imperfect": [6], "aorist": [6], "fut_cont": [6], "fut_simple": [6], "perfect": [6], "imperative": [2]}`
   (deponent / -ομαι verbs: their real forms, e.g. έρχομαι → ήρθα).
 Other parts of speech: no `forms`.
+
+# Example sentences block: `examples`
+
+```
+{"type": "examples",
+ "title": T | null,                       // optional heading, e.g. {"el":"Παραδείγματα","tr":"Örnekler","en":"Examples"}
+ "items": [
+   {"el": "Χθες **έγραψα** ένα γράμμα.",    // Greek sentence; **bold** the form being taught
+    "tr": "Dün bir mektup **yazdım**.",
+    "en": "Yesterday I **wrote** a letter.",
+    "note": T | null}                        // optional short explanation (why this form)
+ ]}
+```
+Examples are always shown in Greek with the translation underneath, whatever lesson language is chosen.
+Use everyday, natural modern Greek (A2–B1), short sentences, real-life contexts (shopping, family, work,
+travel, the citizenship process…). Every example must be grammatically correct.
+
+# Grammar quiz questions (usage-based)
+
+Grammar sections use the same `quiz` format as QUIZ_SCHEMA.md, but the questions must test USE of the
+grammar point, mostly inside a sentence:
+- gap-fill in context: q.el = "Χθες ___ ένα γράμμα. (γράφω)", options = 4 Greek forms;
+- choose the tense/aspect/case that fits the context (e.g. "Κάθε μέρα ___ καφέ" vs "Αύριο θα ___");
+- choose the correct article / case form after a preposition or verb;
+- which sentence is correct; spot the error;
+- meaning: what does the sentence express (habit, single completed action, plan …).
+At least 70 % of the questions must contain a Greek sentence. Pure "give the form from the table" questions
+at most 30 %.
+The Greek sentence must be visible in every language version: q.tr / q.en contain the Greek sentence
+(in «…») followed by the instruction in Turkish/English, e.g.
+q.tr = "«Χθες ___ ένα γράμμα.» (γράφω) — Boşluğa hangi biçim gelir?"
+Options that are Greek forms/sentences carry the same Greek string in el/tr/en.
+`explain` states the rule that decides the answer (1–2 sentences), in el/tr/en.

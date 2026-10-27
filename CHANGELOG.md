@@ -6,6 +6,12 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.7.0 (2026-10-27)
+
+- **Dilbilgisi derslerinde çok daha fazla örnek.** Her bölümde günlük hayattan Yunanca örnek cümleler var; çevirileri ve açıklamalarıyla birlikte, 🔊 ile dinlenebiliyor.
+- **Dilbilgisi bölüm sınavları artık kullanım üzerine.** Sorularda cümle içinde doğru biçim, zaman ya da hâl seçiliyor, doğru cümle bulunuyor, hata yakalanıyor.
+- Alıştırmalar, Yunanca öğretim sitelerindeki alıştırma türlerinden uyarlandı. Kaynaklar her bölümün altında listeleniyor.
+
 ## 1.6.0 (2026-10-26)
 
 - **Yeni: Ses seçimi.** Kadın, erkek veya otomatik ses seçilebilir. Ayrıca her dil için cihazdaki sesler arasından seçilip denenebilir; Ayarlar'da ve ders oynatıcısında.
