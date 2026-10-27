@@ -123,7 +123,7 @@ def attach_images(qmap):
 
 LSRC = SRC / "lessons"
 LOUT = ROOT / "data" / "lessons.js"
-BLOCKS = {"p", "list", "terms", "timeline", "map", "tip", "table", "decl", "conj", "examples"}
+BLOCKS = {"p", "list", "terms", "timeline", "map", "tip", "table", "decl", "conj", "examples", "gallery", "exam"}
 TENSES = ["present", "imperfect", "aorist", "fut_cont", "fut_simple", "perfect", "pluperfect", "fut_perfect", "subj_simple", "imperative"]
 GRAM_PARTS = ["nouns", "verbs", "irregular"]
 
@@ -139,6 +139,22 @@ def check_tenses(where, tenses):
             errors.append(f"{where}: unknown tense {tid}")
         elif not strs(forms, 2 if tid == "imperative" else 6):
             errors.append(f"{where}: tense {tid} needs {2 if tid == 'imperative' else 6} forms")
+
+def check_lesson_image(where, im):
+    if not isinstance(im, dict):
+        errors.append(f"{where}: image missing"); return
+    path = ROOT / (im.get("file") or "")
+    lic = (im.get("license") or "").lower()
+    if not im.get("file") or not path.is_file():
+        errors.append(f"{where}: missing file {im.get('file')}")
+    elif path.stat().st_size > 160_000:
+        errors.append(f"{where}: {im['file']} larger than 160 KB")
+    if not lic.startswith(ALLOWED_LICENSE) or "nc" in lic.replace("-", " ").split():
+        errors.append(f"{where}: license not allowed: {im.get('license')}")
+    if not str(im.get("source", "")).startswith("https://commons.wikimedia.org/wiki/File:"):
+        errors.append(f"{where}: source must be a Commons file page")
+    if not is_L(im.get("caption")) or not str(im.get("author", "")).strip():
+        errors.append(f"{where}: caption/author")
 
 def load_lesson(s):
     """Subject lessons are one file; the grammar course is assembled from part files."""
@@ -187,6 +203,8 @@ def build_lessons(qmap):
                 if qid not in qmap:
                     errors.append(f"{w}: unknown question {qid}")
                 covered.add(qid)
+            if sec.get("cover") is not None:
+                check_lesson_image(f"{w} cover", sec["cover"])
             quiz = sec.get("quiz") or []
             if len(quiz) < 15:
                 errors.append(f"{w}: quiz needs at least 15 questions (has {len(quiz)})")
@@ -215,6 +233,13 @@ def build_lessons(qmap):
                     for p in b.get("places") or [None]:
                         if not (p and is_L(p.get("name")) and 34.5 <= p.get("lat", 0) <= 42 and 19 <= p.get("lon", 0) <= 30.5):
                             errors.append(f"{bw}: place {p and p.get('name')}")
+                elif bt == "exam":
+                    for x in b.get("items") or [None]:
+                        if not is_L(x) or not all(q in sec.get("questions", []) for q in (x or {}).get("q", [])):
+                            errors.append(f"{bw}: exam item needs el/tr/en and q ids from this section")
+                elif bt == "gallery":
+                    for im in b.get("items") or [None]:
+                        check_lesson_image(f"{bw}", im)
                 elif bt == "examples" and not (b.get("items") and all(is_L(x) and (x.get("note") is None or is_T(x.get("note"))) for x in b["items"]) and (b.get("title") is None or is_T(b.get("title")))):
                     errors.append(f"{bw}: examples")
                 elif bt == "decl" and not (is_L(b.get("word")) and strs(b.get("sg"), 4) and strs(b.get("pl"), 4) and (b.get("note") is None or is_T(b.get("note")))):

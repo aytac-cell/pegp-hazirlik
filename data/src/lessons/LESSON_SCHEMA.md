@@ -55,3 +55,24 @@ Rules:
 
 Every section also needs a `quiz` array (≥ 15 multiple-choice questions written from the section's own text);
 see QUIZ_SCHEMA.md.
+
+# Exam facts block: `exam`
+
+Rule: **every official bank question linked to a section (its `questions` list) must be fully answerable from
+that section's own text.** For true/false questions this means EVERY statement (true ones taught as facts, false
+ones taught in their correct form); for matching every pair; for fill-ins every answer; for open questions the
+listed items; for map questions where each place is; for photo questions who/what is pictured and why it matters.
+
+When a needed fact is not already stated clearly in the section, add it to the section's `exam` block — one per
+section, placed at the end of `blocks` (before nothing else; create it if missing):
+
+```
+{"type": "exam", "items": [
+   {"el": "Η **Σεισάχθεια** ήταν ο νόμος του **Σόλωνα** στην αρχαία Αθήνα (594 π.Χ.) που κατάργησε τη δουλεία για χρέη.",
+    "tr": "**Seisachtheia**, **Solon**'un antik Atina'daki (MÖ 594) borç köleliğini kaldıran yasasıdır.",
+    "en": "The **Seisachtheia** was **Solon**'s law in ancient Athens (594 BC) abolishing debt slavery.",
+    "q": ["his-75"]}            // the bank question id(s) this fact answers
+]}
+```
+Facts must agree with the official answers (data/src/<subject>.json); dates/names as in the bank. Short, one fact
+per item, **bold** the key words. Use the bank's Greek terms in `el`.

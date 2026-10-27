@@ -37,3 +37,26 @@ Rules
 - If you cannot find a faithful, freely licensed image for every slot of a question, leave that question out
   entirely (it stays text-only). Never guess.
 - Do not add text to images, do not crop away important parts, do not include watermarks.
+
+# Images inside lessons
+
+Lesson sections (data/src/lessons/{geo,cul,his,ins}.json) get pictures to make them visual and memorable.
+Same source/licence rules as above (Wikimedia Commons only; PD / CC0 / CC BY / CC BY-SA; check the file really
+shows the subject; no watermarks; JPEG ≤ 800 px wide, ≤ 120 KB, quality ~80).
+Files: images/lessons/<section-id>-<n>.jpg (n = 1, 2, 3 …).
+
+Image object `I`:
+```
+{"file": "images/lessons/cul-olympian-gods-1.jpg", "w": 600, "h": 800,
+ "caption": {"el": "Δίας — κεραυνός, αετός", "tr": "Zeus — yıldırım, kartal", "en": "Zeus — thunderbolt, eagle"},
+ "author": "…", "license": "CC BY-SA 4.0", "licenseUrl": "https://…" | null,
+ "source": "https://commons.wikimedia.org/wiki/File:…"}
+```
+Captions are short and teach something (name + the key fact/symbol/date from the lesson), in el/tr/en.
+
+1. `cover`: every section gets a `"cover": I` — one striking, representative landscape-format picture.
+2. `gallery` blocks inserted into `blocks` right after the paragraph/list/table they illustrate:
+   `{"type": "gallery", "items": [I, I, …]}` — 1–12 images. Typical: 2–6 per section, more where pictures
+   ARE the content (the Twelve Gods: one image per god with its symbol in the caption; famous people;
+   monuments; islands; artworks).
+Only add pictures that match what the section teaches. Never change the text, quiz or other blocks.

@@ -1,7 +1,22 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.8.0";
+window.APP_VERSION = "1.9.0";
 window.APP_CHANGES = [
+  {
+    v: "1.9.0", date: "2026-10-27",
+    tr: [
+      "Derslerde görseller: 48 konu bölümünde 317 görsel, her bölümde kapak resmi ve altyazılı galeriler (On İki Tanrı sembolleriyle, anıtlar, kişiler, adalar, eserler); tıklayınca büyür",
+      "Her dersin sonunda «📌 Sınavda sorulanlar»: derse bağlı her resmî sınav sorusunun cevabı artık o derste anlatılıyor (tüm doğru/yanlış ifadeleri dahil)",
+      "Yol haritasında ve içindekilerde küçük kapak resimleri",
+      "Orta boy ekranlarda menü taşması düzeltildi"
+    ],
+    en: [
+      "Pictures in lessons: 317 images across the 48 subject sections — a cover for each section and captioned galleries (the Twelve Gods with their symbols, monuments, people, islands, artworks); tap to enlarge",
+      "«📌 Asked in the exam» at the end of each lesson: every official question linked to a lesson is now answered in that lesson (including every true/false statement)",
+      "Small cover pictures on the roadmap and in the table of contents",
+      "Fixed the menu overflowing on medium-size screens"
+    ]
+  },
   {
     v: "1.8.0", date: "2026-10-27",
     tr: [

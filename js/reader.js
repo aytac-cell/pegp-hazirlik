@@ -6,7 +6,7 @@
   const VOICE_LANG = { tr: "tr-TR", en: "en-US", el: "el-GR" };
   const UNIT_SEL = ".lesson-head h1, .lesson-body > p, .lesson-body li, .lesson-body .tip, .lesson-body .infl-title, .lesson-body table:not(.infl) tr, .lesson-body .term";
   const GREEK_RUN = /([\u0370-\u03FF\u1F00-\u1FFF][\u0370-\u03FF\u1F00-\u1FFF\s,'«»-]*[\u0370-\u03FF\u1F00-\u1FFF])/;
-  const SKIP_SEL = ".speak, .infl-wrap, .conj-grid, .tip-label, script, style";
+  const SKIP_SEL = ".speak, .infl-wrap, .conj-grid, .tip-label, .exam-ref, .img-credit, script, style";
 
   const voiceFor = lang => Voices.pick(lang);     // honours the voice / gender chosen in Settings
 

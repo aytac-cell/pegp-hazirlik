@@ -19,6 +19,20 @@
     "tr": "Konum, yüzölçümü, nüfus, denizler, komşular ve dört uç nokta.",
     "en": "Location, area, population, seas, neighbours and the four extreme points."
    },
+   "cover": {
+    "file": "images/lessons/geo-overview-1.jpg",
+    "w": 800,
+    "h": 600,
+    "caption": {
+     "el": "Η Ελλάδα από δορυφόρο — Νοτιοανατολική Ευρώπη, νότιο άκρο της Βαλκανικής",
+     "tr": "Uydudan Yunanistan — Güneydoğu Avrupa, Balkan Yarımadası'nın güney ucu",
+     "en": "Greece from space — South-Eastern Europe, southern tip of the Balkans"
+    },
+    "author": "Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Greece_(MODIS_2018-04-11).jpg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -50,6 +64,25 @@
        "el": "Χερσαίοι γείτονες: Αλβανία, Δημοκρατία της Βόρειας Μακεδονίας, Βουλγαρία, Τουρκία",
        "tr": "Kara komşuları: Arnavutluk, Kuzey Makedonya Cumhuriyeti, Bulgaristan, Türkiye",
        "en": "Land neighbours: Albania, the Republic of North Macedonia, Bulgaria, Turkey"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-overview-2.jpg",
+       "w": 800,
+       "h": 684,
+       "caption": {
+        "el": "Η θέση της Ελλάδας στην Ευρώπη — ανάμεσα σε Ιόνιο, Αιγαίο και Λιβυκό Πέλαγος",
+        "tr": "Yunanistan'ın Avrupa'daki yeri — İyon, Ege ve Libya Denizi arasında",
+        "en": "Greece in Europe — between the Ionian, Aegean and Libyan Seas"
+       },
+       "author": "TUBS",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Greece_in_Europe_(relief).svg"
       }
      ]
     },
@@ -206,6 +239,67 @@
         "en": "Small islet of the Regional Unit of Corfu"
        }
       ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-overview-3.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Ορμένιο (Έβρος) — το βορειότερο σημείο της Ελλάδας",
+        "tr": "Ormenio (Meriç) — Yunanistan'ın en kuzey noktası",
+        "en": "Ormenio (Evros) — Greece's northernmost point"
+       },
+       "author": "Jon Worth",
+       "license": "CC BY 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Ormenio_station.jpg"
+      },
+      {
+       "file": "images/lessons/geo-overview-4.jpg",
+       "w": 800,
+       "h": 573,
+       "caption": {
+        "el": "Οθωνοί (Φανοί) — το δυτικότερο σημείο, ανήκει στην Κέρκυρα",
+        "tr": "Othoni (Fani) — en batı nokta, Korfu'ya bağlı",
+        "en": "Othonoi (Fanoi) — the westernmost point, part of Corfu"
+       },
+       "author": "Sebleouf",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Greece_-_View_of_Othoni_island_from_an_aircraft_(sept_2018).jpg"
+      },
+      {
+       "file": "images/lessons/geo-overview-5.jpg",
+       "w": 800,
+       "h": 378,
+       "caption": {
+        "el": "Καστελλόριζο (Μεγίστη) — το ανατολικότερο σημείο",
+        "tr": "Meis (Megisti) — en doğu nokta",
+        "en": "Kastellorizo (Megisti) — the easternmost point"
+       },
+       "author": "Yair-haklai",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Kastellorizo.jpg"
+      },
+      {
+       "file": "images/lessons/geo-overview-6.jpg",
+       "w": 800,
+       "h": 536,
+       "caption": {
+        "el": "Γαύδος — το νοτιότερο σημείο, νότια της Κρήτης",
+        "tr": "Gavdos — en güney nokta, Girit'in güneyinde",
+        "en": "Gavdos — the southernmost point, south of Crete"
+       },
+       "author": "Artemis Katsadoura",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Gavdos_Island.jpg"
+      }
      ]
     },
     {
@@ -1009,6 +1103,20 @@
     "tr": "13 İdari Bölge, 74 Bölgesel Birim, geleneksel coğrafi bölgeler ve nüfus yoğunluğu.",
     "en": "13 Administrative Regions, 74 Regional Units, the traditional geographical regions and population density."
    },
+   "cover": {
+    "file": "images/lessons/geo-regions-1.jpg",
+    "w": 800,
+    "h": 658,
+    "caption": {
+     "el": "Οι 13 Περιφέρειες της Ελλάδας",
+     "tr": "Yunanistan'ın 13 Bölgesi (Περιφέρειες)",
+     "en": "The 13 Regions of Greece"
+    },
+    "author": "TUBS",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Greece,_administrative_divisions_-_el_-_colored.svg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -1017,6 +1125,25 @@
       "tr": "Yunanistan idari olarak **13 Bölgeye (Περιφέρειες)** ve **74 Bölgesel Birime (Περιφερειακές Ενότητες)** ayrılır. Bunun yanında geleneksel **coğrafi bölgeler (γεωγραφικά διαμερίσματα)** de kullanılır.",
       "en": "Administratively, Greece is divided into **13 Regions (Περιφέρειες)** and **74 Regional Units (Περιφερειακές Ενότητες)**. The traditional **geographical regions (γεωγραφικά διαμερίσματα)** are also used."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-regions-2.jpg",
+       "w": 800,
+       "h": 675,
+       "caption": {
+        "el": "Τα όρια των Περιφερειακών Ενοτήτων (74)",
+        "tr": "Bölgesel Birimlerin (74) sınırları",
+        "en": "The borders of the Regional Units (74)"
+       },
+       "author": "Pitichinaccio derivative work: Phailoteam",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Regional_units_of_Greece_blank.svg"
+      }
+     ]
     },
     {
      "type": "list",
@@ -1085,6 +1212,25 @@
        "el": "Κρήτη",
        "tr": "Girit",
        "en": "Crete"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-regions-3.jpg",
+       "w": 800,
+       "h": 658,
+       "caption": {
+        "el": "Οι 13 Περιφέρειες στον χάρτη (λατινικοί χαρακτήρες)",
+        "tr": "Haritada 13 Bölge (Latin harfleriyle)",
+        "en": "The 13 Regions on the map (English labels)"
+       },
+       "author": "TUBS",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Greece,_administrative_divisions_-_en_-_colored.svg"
       }
      ]
     },
@@ -1217,6 +1363,25 @@
       "tr": "Geleneksel coğrafi bölgeler: **Makedonya, Trakya, Epir, Teselya, Orta Yunanistan-Eğriboz, Mora, İyon Adaları (Yedi Adalar), Ege Adaları (Onikiadalar dahil) ve Girit**. Haritada sorulabilecekler: Mora, İyon Adaları/Yedi Adalar, Onikiadalar ve Trakya.",
       "en": "Traditional geographical regions: **Macedonia, Thrace, Epirus, Thessaly, Central Greece-Euboea, the Peloponnese, the Ionian Islands (Heptanese), the Aegean Islands (including the Dodecanese) and Crete**. On the map you may be asked for: the Peloponnese, the Ionian Islands/Heptanese, the Dodecanese and Thrace."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-regions-4.jpg",
+       "w": 620,
+       "h": 513,
+       "caption": {
+        "el": "Τα παραδοσιακά γεωγραφικά διαμερίσματα — Μακεδονία, Θράκη, Ήπειρος, Θεσσαλία, Στερεά, Πελοπόννησος, νησιά, Κρήτη",
+        "tr": "Geleneksel coğrafi bölgeler — Makedonya, Trakya, Epir, Teselya, Orta Yunanistan, Mora, adalar, Girit",
+        "en": "The traditional geographical regions — Macedonia, Thrace, Epirus, Thessaly, Central Greece, Peloponnese, islands, Crete"
+       },
+       "author": "Contributor175 (English Wikipedia)",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+       "source": "https://commons.wikimedia.org/wiki/File:GreeceRegionsEnglish_corrected2.png"
+      }
+     ]
     },
     {
      "type": "map",
@@ -1365,6 +1530,25 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-regions-5.jpg",
+       "w": 800,
+       "h": 482,
+       "caption": {
+        "el": "Καβάλα — Περιφέρεια Ανατολικής Μακεδονίας και Θράκης, γεωγραφικά όμως Μακεδονία",
+        "tr": "Kavala — Doğu Makedonya ve Trakya Bölgesi, ama coğrafi bölgesi Makedonya",
+        "en": "Kavala — Region of Eastern Macedonia and Thrace, but geographically Macedonia"
+       },
+       "author": "DocWoKav",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Kavala_Panorama.jpg"
+      }
+     ]
+    },
+    {
      "type": "terms",
      "items": [
       {
@@ -1461,6 +1645,35 @@
        "el": "πυκνοκατοικημένες / αραιοκατοικημένες",
        "tr": "yoğun nüfuslu / seyrek nüfuslu",
        "en": "densely / sparsely populated"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Στον χάρτη: η **Πελοπόννησος** είναι η μεγάλη χερσόνησος στο νότιο άκρο της ηπειρωτικής Ελλάδας· τα **Νησιά Ιονίου (Επτάνησα)** βρίσκονται κατά μήκος της δυτικής ακτής· τα **Δωδεκάνησα** στο νοτιοανατολικό Αιγαίο, κοντά στις τουρκικές ακτές (Ρόδος, Κως)· η **Θράκη** στο βορειοανατολικό άκρο της χώρας, ανάμεσα στους ποταμούς Νέστο και Έβρο.",
+       "tr": "Haritada: **Mora**, anakara Yunanistan'ın güney ucundaki büyük yarımadadır; **İyon Adaları (Yedi Adalar)** batı kıyısı boyunca uzanır; **Onikiadalar** güneydoğu Ege'de, Türkiye kıyısına yakındır (Rodos, İstanköy); **Trakya** ülkenin kuzeydoğu ucunda, Nestos ile Meriç nehirleri arasındadır.",
+       "en": "On the map: the **Peloponnese** is the large peninsula at the southern end of mainland Greece; the **Ionian Islands (Heptanese)** lie along the west coast; the **Dodecanese** are in the south-eastern Aegean, near the Turkish coast (Rhodes, Kos); **Thrace** is the north-eastern tip of the country, between the Nestos and Evros rivers.",
+       "q": [
+        "geo-61"
+       ]
+      },
+      {
+       "el": "Στον χάρτη, οι 4 πιο **αραιοκατοικημένες** Περιφέρειες: **Βόρειο Αιγαίο** (Λέσβος, Χίος, Σάμος, Λήμνος, Ικαρία, στο βορειοανατολικό Αιγαίο)· **Ιόνια Νησιά** (τα νησιά κατά μήκος της δυτικής ακτής)· **Δυτική Μακεδονία** (βορειοδυτικό ορεινό εσωτερικό: Κοζάνη, Καστοριά, Φλώρινα, Γρεβενά)· **Ήπειρος** (βορειοδυτικά, στα σύνορα με την Αλβανία· Ιωάννινα).",
+       "tr": "Haritada en **seyrek nüfuslu** 4 Bölge: **Kuzey Ege** (Midilli, Sakız, Sisam, Limni, İkarya; kuzeydoğu Ege'de); **İyon Adaları** (batı kıyısı boyunca uzanan adalar); **Batı Makedonya** (kuzeybatıdaki dağlık iç bölge: Kozani, Kastorya, Florina, Grevena); **Epir** (kuzeybatıda, Arnavutluk sınırında; Ioannina).",
+       "en": "On the map, the 4 most **sparsely populated** Regions: **North Aegean** (Lesbos, Chios, Samos, Lemnos, Ikaria, in the north-eastern Aegean); **Ionian Islands** (the islands along the west coast); **Western Macedonia** (the mountainous north-western interior: Kozani, Kastoria, Florina, Grevena); **Epirus** (north-west, on the Albanian border; Ioannina).",
+       "q": [
+        "geo-62"
+       ]
+      },
+      {
+       "el": "Στον χάρτη, οι 4 πιο **πυκνοκατοικημένες** Περιφέρειες: **Αττική** (η Αθήνα και η γύρω περιοχή)· **Κεντρική Μακεδονία** (βόρεια Ελλάδα: Θεσσαλονίκη, Χαλκιδική)· **Θεσσαλία** (κεντρική Ελλάδα: Λάρισα, Βόλος, θεσσαλική πεδιάδα)· **Δυτική Ελλάδα** (δυτικά: Αιτωλοακαρνανία, Αχαΐα με την Πάτρα, Ηλεία).",
+       "tr": "Haritada en **yoğun nüfuslu** 4 Bölge: **Atika** (Atina ve çevresi); **Orta Makedonya** (kuzey Yunanistan: Selanik, Halkidiki); **Teselya** (orta Yunanistan: Larisa, Volos, Teselya ovası); **Batı Yunanistan** (batıda: Etolya-Akarnanya, Patra ile Ahaya, İlia).",
+       "en": "On the map, the 4 most **densely populated** Regions: **Attica** (Athens and its surroundings); **Central Macedonia** (northern Greece: Thessaloniki, Chalkidiki); **Thessaly** (central Greece: Larissa, Volos, the Thessalian plain); **Western Greece** (the west: Aetolia-Acarnania, Achaea with Patras, Elis).",
+       "q": [
+        "geo-63"
+       ]
       }
      ]
     }
@@ -2085,6 +2298,20 @@
     "tr": "Sınavda sorulan başkentler, Girit, Epir ve Mora'nın birimleri, denize kıyısı olmayan birimler.",
     "en": "Capitals asked in the exam, the units of Crete, Epirus and the Peloponnese, and the landlocked units."
    },
+   "cover": {
+    "file": "images/lessons/geo-capitals-1.jpg",
+    "w": 800,
+    "h": 533,
+    "caption": {
+     "el": "Ναύπλιο — πρωτεύουσα της Αργολίδας (όχι το Άργος)",
+     "tr": "Nafplio — Argolida'nın başkenti (Argos değil)",
+     "en": "Nafplio — capital of Argolis (not Argos)"
+    },
+    "author": "George E. Koronaios",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Castle_of_Palamidi,_the_Akronafplia_and_the_town_of_Nafplio_from_the_Argolic_Gulf_on_30_March_2019.jpg"
+   },
    "blocks": [
     {
      "type": "table",
@@ -2432,6 +2659,53 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-capitals-2.jpg",
+       "w": 800,
+       "h": 465,
+       "caption": {
+        "el": "Ερμούπολη — πρωτεύουσα της Σύρου (όχι της Νάξου)",
+        "tr": "Ermupoli — Siros'un başkenti (Naksos'un değil)",
+        "en": "Ermoupoli — capital of Syros (not Naxos)"
+       },
+       "author": "Leeturtle",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:View_of_Ermoupoli_from_Ano_Syros_2.jpg"
+      },
+      {
+       "file": "images/lessons/geo-capitals-3.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Σπάρτη, με τον Ταΰγετο — πρωτεύουσα της Λακωνίας (όχι το Γύθειο)",
+        "tr": "Sparta ve Tayetos — Lakonya'nın başkenti (Gythio değil)",
+        "en": "Sparta, with Taygetus — capital of Laconia (not Gytheio)"
+       },
+       "author": "George E. Koronaios",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:View_of_Mount_Taygetus_from_the_ruins_of_the_ancient_theatre_of_Sparta_on_15_May_2019.jpg"
+      },
+      {
+       "file": "images/lessons/geo-capitals-4.jpg",
+       "w": 720,
+       "h": 960,
+       "caption": {
+        "el": "Λιβαδειά (Κρύα) — πρωτεύουσα της Βοιωτίας (όχι η Θήβα)",
+        "tr": "Livadia (Kria) — Beotya'nın başkenti (Thiva değil)",
+        "en": "Livadeia (Krya springs) — capital of Boeotia (not Thebes)"
+       },
+       "author": "Pavlos1988",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:River_Herkyna_in_Krya_-_Livadeia.jpg"
+      }
+     ]
+    },
+    {
      "type": "table",
      "head": [
       {
@@ -2491,6 +2765,39 @@
       "tr": "**Denize kıyısı olmayan Bölgesel Birimler** (tam liste): Drama, İmathia, Kozani, Kastorya, Florina, Pella, Evritanya, Kilkis, Grevena, Trikala, Ioannina, Karditsa ve Atina'nın üç kesimi (Kuzey, Batı, Merkez).",
       "en": "**Regional Units with no coastline** (full list): Drama, Imathia, Kozani, Kastoria, Florina, Pella, Evrytania, Kilkis, Grevena, Trikala, Ioannina, Karditsa and three sectors of Athens (North, West, Central)."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-capitals-5.jpg",
+       "w": 800,
+       "h": 716,
+       "caption": {
+        "el": "Καρπενήσι — πρωτεύουσα της Ευρυτανίας, χωρίς θάλασσα",
+        "tr": "Karpenisi — Evritanya'nın başkenti, denize kıyısı yok",
+        "en": "Karpenisi — capital of Evrytania, no coastline"
+       },
+       "author": "G Da",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Karpenissi,_Greece_-_panoramio.jpg"
+      },
+      {
+       "file": "images/lessons/geo-capitals-6.jpg",
+       "w": 800,
+       "h": 548,
+       "caption": {
+        "el": "Μετέωρα (Καλαμπάκα, Τρίκαλα) — τα Τρίκαλα δεν βρέχονται από θάλασσα",
+        "tr": "Meteora (Kalambaka, Trikala) — Trikala'nın denize kıyısı yok",
+        "en": "Meteora (Kalambaka, Trikala) — Trikala has no coastline"
+       },
+       "author": "LBM1948",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Meteora,_Kalambaka_01.jpg"
+      }
+     ]
     },
     {
      "type": "map",
@@ -2669,6 +2976,35 @@
        "el": "δεν βρέχονται από θάλασσα",
        "tr": "denize kıyısı yok",
        "en": "have no coastline"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Ο **πορθμός του Ευρίπου** βρίσκεται στη **Χαλκίδα** (εκεί η γέφυρα ενώνει την Εύβοια με τη στεριά).",
+       "tr": "**Evripos Boğazı** **Halkida**'dadır (burada köprü Eğriboz'u anakaraya bağlar).",
+       "en": "The **Euripus Strait** is at **Chalkida** (where the bridge links Euboea to the mainland).",
+       "q": [
+        "geo-29"
+       ]
+      },
+      {
+       "el": "Το κλίμα της Ελλάδας είναι **εύκρατο μεσογειακό**.",
+       "tr": "Yunanistan'ın iklimi **ılıman Akdeniz iklimidir**.",
+       "en": "Greece's climate is **temperate Mediterranean**.",
+       "q": [
+        "geo-29"
+       ]
+      },
+      {
+       "el": "Τα **Καλάβρυτα** βρίσκονται στην Περιφερειακή Ενότητα **Αχαΐας**.",
+       "tr": "**Kalavrita**, **Ahaya** Bölgesel Birimindedir.",
+       "en": "**Kalavryta** is in the Regional Unit of **Achaea**.",
+       "q": [
+        "geo-40"
+       ]
       }
      ]
     }
@@ -3506,6 +3842,20 @@
     "tr": "Doğru/yanlış sorularındaki kasabaların ait olduğu birimler; anakara mı ada mı?",
     "en": "The units of the towns in true/false questions; mainland or island?"
    },
+   "cover": {
+    "file": "images/lessons/geo-towns-1.jpg",
+    "w": 800,
+    "h": 532,
+    "caption": {
+     "el": "Πάργα — Περιφερειακή Ενότητα Πρέβεζας",
+     "tr": "Parga — Preveze Bölgesel Birimi",
+     "en": "Parga — Regional Unit of Preveza"
+    },
+    "author": "Bgabel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:GR-parga-badestrand-bucht.jpg"
+   },
    "blocks": [
     {
      "type": "table",
@@ -3785,6 +4135,67 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-towns-2.jpg",
+       "w": 800,
+       "h": 518,
+       "caption": {
+        "el": "Αράχωβα — Βοιωτία (όχι Φωκίδα)",
+        "tr": "Arahova — Beotya (Fokida değil)",
+        "en": "Arachova — Boeotia (not Phocis)"
+       },
+       "author": "Jebulon",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Arachova._Greece.jpg"
+      },
+      {
+       "file": "images/lessons/geo-towns-3.jpg",
+       "w": 800,
+       "h": 571,
+       "caption": {
+        "el": "Μέτσοβο — Ιωάννινα (όχι Θεσπρωτία)",
+        "tr": "Metsovo — Ioannina (Thesprotia değil)",
+        "en": "Metsovo — Ioannina (not Thesprotia)"
+       },
+       "author": "Ginak97",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Metsovo_town.jpg"
+      },
+      {
+       "file": "images/lessons/geo-towns-4.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Γαλαξίδι — Φωκίδα",
+        "tr": "Galaksidi — Fokida",
+        "en": "Galaxidi — Phocis"
+       },
+       "author": "Jc8136",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Galaxidi_harbour.JPG"
+      },
+      {
+       "file": "images/lessons/geo-towns-5.jpg",
+       "w": 800,
+       "h": 552,
+       "caption": {
+        "el": "Γύθειο — Λακωνία (όχι Μεσσηνία· δεν είναι η πρωτεύουσα)",
+        "tr": "Gythio — Lakonya (Messinia değil; başkent de değil)",
+        "en": "Gytheio — Laconia (not Messinia; not the capital)"
+       },
+       "author": "Konstantinos Ntougkas",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%B8%D1%82%D0%B8%D0%BE.jpg"
+      }
+     ]
+    },
+    {
      "type": "map",
      "places": [
       {
@@ -4060,6 +4471,67 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-towns-6.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Ιωάννινα (λίμνη Παμβώτιδα) — Ήπειρος",
+        "tr": "Ioannina (Pamvotida Gölü) — Epir",
+        "en": "Ioannina (Lake Pamvotida) — Epirus"
+       },
+       "author": "Cosal",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Ioannina,_Lake_Pamvotis_and_Fethiye_Mosque.JPG"
+      },
+      {
+       "file": "images/lessons/geo-towns-7.jpg",
+       "w": 800,
+       "h": 383,
+       "caption": {
+        "el": "Βόλος — Μαγνησία, Θεσσαλία",
+        "tr": "Volos — Magnisia, Teselya",
+        "en": "Volos — Magnesia, Thessaly"
+       },
+       "author": "Hajotthu",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+       "source": "https://commons.wikimedia.org/wiki/File:Volos_Promenade_City%4020171022.JPG"
+      },
+      {
+       "file": "images/lessons/geo-towns-8.jpg",
+       "w": 800,
+       "h": 566,
+       "caption": {
+        "el": "Καστοριά (λίμνη Ορεστιάδα) — Δυτική Μακεδονία",
+        "tr": "Kastorya (Orestiada Gölü) — Batı Makedonya",
+        "en": "Kastoria (Lake Orestiada) — Western Macedonia"
+       },
+       "author": "Pvasiliadis",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+       "source": "https://commons.wikimedia.org/wiki/File:Kastoria1_200704.JPG"
+      },
+      {
+       "file": "images/lessons/geo-towns-9.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Ρέθυμνο (ενετικό λιμάνι) — Κρήτη, νησιωτική Ελλάδα",
+        "tr": "Resmo (Venedik limanı) — Girit, adalar Yunanistan'ı",
+        "en": "Rethymno (Venetian harbour) — Crete, insular Greece"
+       },
+       "author": "JopkeB",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Venetian_harbour_of_Rethymno_2009.jpg"
+      }
+     ]
+    },
+    {
      "type": "map",
      "places": [
       {
@@ -4258,6 +4730,43 @@
        "el": "Σητεία",
        "tr": "Sitia",
        "en": "Sitia"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Η **Κορωνησία** είναι νησάκι στον **Αμβρακικό κόλπο**, ο οποίος παράγει μεγάλη ποσότητα **αλιευμάτων**.",
+       "tr": "**Koronisia**, büyük miktarda **balık ve deniz ürünü** üreten **Amvrakikos Körfezi**'ndeki küçük bir adadır.",
+       "en": "**Koronisia** is an islet in the **Ambracian Gulf**, which produces a large quantity of **fish catch**.",
+       "q": [
+        "geo-9"
+       ]
+      },
+      {
+       "el": "Στον χάρτη: **Ιωάννινα**: πρωτεύουσα της Ηπείρου, στη βορειοδυτική Ελλάδα, στις όχθες της λίμνης Παμβώτιδας· **Ρέθυμνο**: στη βόρεια ακτή της Κρήτης, ανάμεσα στα Χανιά και το Ηράκλειο· **Καβάλα**: λιμάνι της Ανατολικής Μακεδονίας στη βόρεια ακτή του Αιγαίου, απέναντι από τη Θάσο· **Μεσολόγγι**: στην Αιτωλοακαρνανία (Δυτική Ελλάδα), στη λιμνοθάλασσα της βόρειας ακτής του Πατραϊκού κόλπου.",
+       "tr": "Haritada: **Ioannina**: Epir'in merkezi, kuzeybatı Yunanistan'da, Pamvotida Gölü kıyısında; **Resmo**: Girit'in kuzey kıyısında, Hanya ile Iraklio arasında; **Kavala**: Doğu Makedonya'nın Kuzey Ege kıyısındaki limanı, Taşoz'un karşısında; **Mesolongi**: Etolya-Akarnanya'da (Batı Yunanistan), Patra Körfezi'nin kuzey kıyısındaki lagünde.",
+       "en": "On the map: **Ioannina**: capital of Epirus, in north-western Greece, on Lake Pamvotida; **Rethymno**: on the north coast of Crete, between Chania and Heraklion; **Kavala**: East Macedonia's port on the northern Aegean coast, opposite Thasos; **Mesolongi**: in Aetolia-Acarnania (Western Greece), on the lagoon on the north shore of the Gulf of Patras.",
+       "q": [
+        "geo-54"
+       ]
+      },
+      {
+       "el": "Στον χάρτη: **Βόλος**: λιμάνι της Μαγνησίας (Θεσσαλία) στον Παγασητικό κόλπο, στην ανατολική ακτή· **Ηγουμενίτσα**: λιμάνι της Θεσπρωτίας (Ήπειρος) στην ακτή του Ιονίου, απέναντι από την Κέρκυρα· **Πύργος**: πρωτεύουσα της Ηλείας, στη δυτική Πελοπόννησο· **Καστοριά**: στη Δυτική Μακεδονία, στη λίμνη Ορεστιάδα, κοντά στα σύνορα με την Αλβανία.",
+       "tr": "Haritada: **Volos**: Magnisia'nın (Teselya) Pagasitikos Körfezi'ndeki limanı, doğu kıyısında; **Igumenitsa**: Thesprotia'nın (Epir) İyon kıyısındaki limanı, Korfu'nun karşısında; **Pirgos**: İlia'nın merkezi, batı Mora'da; **Kastorya**: Batı Makedonya'da, Orestiada Gölü kıyısında, Arnavutluk sınırına yakın.",
+       "en": "On the map: **Volos**: Magnesia's (Thessaly) port on the Pagasetic Gulf, on the east coast; **Igoumenitsa**: Thesprotia's (Epirus) port on the Ionian coast, opposite Corfu; **Pyrgos**: capital of Elis, in the western Peloponnese; **Kastoria**: in Western Macedonia, on Lake Orestiada, near the Albanian border.",
+       "q": [
+        "geo-55"
+       ]
+      },
+      {
+       "el": "Στον χάρτη: **Καρδίτσα**: στη δυτική πλευρά της θεσσαλικής πεδιάδας (Θεσσαλία)· **Ιωάννινα**: πρωτεύουσα της Ηπείρου, στη βορειοδυτική Ελλάδα, στις όχθες της λίμνης Παμβώτιδας· **Άρτα**: στη νότια Ήπειρο, στον ποταμό Άραχθο, βόρεια του Αμβρακικού κόλπου· **Τρίπολη**: πρωτεύουσα της Αρκαδίας, στο κέντρο της Πελοποννήσου.",
+       "tr": "Haritada: **Karditsa**: Teselya ovasının batı kenarında (Teselya); **Ioannina**: Epir'in merkezi, kuzeybatı Yunanistan'da, Pamvotida Gölü kıyısında; **Arta**: güney Epir'de, Arahthos Nehri üzerinde, Amvrakikos Körfezi'nin kuzeyinde; **Tripoli**: Arkadya'nın merkezi, Mora'nın ortasında.",
+       "en": "On the map: **Karditsa**: on the western side of the Thessalian plain (Thessaly); **Ioannina**: capital of Epirus, in north-western Greece, on Lake Pamvotida; **Arta**: in southern Epirus, on the Arachthos river, north of the Ambracian Gulf; **Tripoli**: capital of Arcadia, in the centre of the Peloponnese.",
+       "q": [
+        "geo-56"
+       ]
       }
      ]
     }
@@ -5095,6 +5604,20 @@
     "tr": "Yedi Adalar (Eptanisa) ve Girit'i çevreleyen denizler.",
     "en": "The seven Ionian islands (Heptanese) and the seas around Crete."
    },
+   "cover": {
+    "file": "images/lessons/geo-ionian-crete-1.jpg",
+    "w": 800,
+    "h": 536,
+    "caption": {
+     "el": "Κεφαλονιά (Μύρτος) — το μεγαλύτερο από τα Επτάνησα",
+     "tr": "Kefalonya (Mirtos) — Yedi Adalar'ın en büyüğü",
+     "en": "Kefalonia (Myrtos) — the largest of the Heptanese"
+    },
+    "author": "Matt Sims",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Myrtos_Beach,_Kefalonia.jpg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -5103,6 +5626,95 @@
       "tr": "İyon Denizi'ndeki **yedi ana ada** (Yedi Adalar / Επτάνησα), büyüklük sırasına göre: **Kefalonya, Korfu, Zakintos, Lefkada, Kitira, İthaki ve Paksi**. Yunanistan'ın en batı noktası Othoni (Fani) de Korfu'ya bağlıdır.",
       "en": "The **seven main islands** of the Ionian Sea (the Heptanese / Επτάνησα), in order of size: **Kefalonia, Corfu, Zakynthos, Lefkada, Kythira, Ithaca and Paxoi**. Greece's westernmost point, Othonoi (Fanoi), also belongs to Corfu."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-ionian-crete-2.jpg",
+       "w": 800,
+       "h": 421,
+       "caption": {
+        "el": "Κέρκυρα — δεύτερη σε μέγεθος· σε αυτήν ανήκουν οι Οθωνοί",
+        "tr": "Korfu — büyüklükte ikinci; Othoni de ona bağlı",
+        "en": "Corfu — second largest; Othonoi belongs to it"
+       },
+       "author": "Martin Falbisoner",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:The_Old_Fortress_and_the_Old_Town_of_Corfu_-_September_2017.jpg"
+      },
+      {
+       "file": "images/lessons/geo-ionian-crete-3.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Ζάκυνθος (Ναυάγιο) — τρίτη σε μέγεθος",
+        "tr": "Zakintos (Navagio) — büyüklükte üçüncü",
+        "en": "Zakynthos (Navagio) — third largest"
+       },
+       "author": "kallerna",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Navagio_beach_Zakynthos_3.jpg"
+      },
+      {
+       "file": "images/lessons/geo-ionian-crete-4.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Λευκάδα (Πόρτο Κατσίκι) — Ιόνιο Πέλαγος",
+        "tr": "Lefkada (Porto Katsiki) — İyon Denizi",
+        "en": "Lefkada (Porto Katsiki) — Ionian Sea"
+       },
+       "author": "Dimitra Papadimitriou",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Porto_Katsiki_Beach,_Lefkada,_Ionian_Islands,_Greece.jpg"
+      },
+      {
+       "file": "images/lessons/geo-ionian-crete-5.jpg",
+       "w": 800,
+       "h": 536,
+       "caption": {
+        "el": "Κύθηρα (Χώρα) — ένα από τα Επτάνησα",
+        "tr": "Kitira (Hora) — Yedi Adalar'dan biri",
+        "en": "Kythira (Chora) — one of the Heptanese"
+       },
+       "author": "Comzeradd",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Cythera_Capital_and_the_Castle.jpg"
+      },
+      {
+       "file": "images/lessons/geo-ionian-crete-6.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Ιθάκη (Βαθύ) — Ιόνιο Πέλαγος",
+        "tr": "İthaki (Vathi) — İyon Denizi",
+        "en": "Ithaca (Vathy) — Ionian Sea"
+       },
+       "author": "auteur",
+       "license": "CC BY-SA 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Ithaki-Vathy.jpg"
+      },
+      {
+       "file": "images/lessons/geo-ionian-crete-7.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Παξοί (Γάιος) — το μικρότερο από τα επτά κύρια νησιά",
+        "tr": "Paksi (Gaios) — yedi ana adanın en küçüğü",
+        "en": "Paxoi (Gaios) — the smallest of the seven main islands"
+       },
+       "author": "Pibwl",
+       "license": "CC BY-SA 2.5",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+       "source": "https://commons.wikimedia.org/wiki/File:Gaios_harbour_in_Paxi.jpg"
+      }
+     ]
     },
     {
      "type": "map",
@@ -5187,6 +5799,39 @@
       "tr": "**Girit** Yunanistan'ın en büyük adasıdır. Kuzey kıyıları **Girit Denizi**, güney kıyıları **Libya Denizi** ile çevrilidir. 4 Bölgesel Birimi vardır: **Hanya, Resmo, Iraklio, Lasithi** (batıdan doğuya). Güneyindeki Gavdos ülkenin en güney noktasıdır.",
       "en": "**Crete** is Greece's largest island. Its north coast is washed by the **Cretan Sea**, its south coast by the **Libyan Sea**. It has 4 Regional Units: **Chania, Rethymno, Heraklion, Lasithi** (west to east). Gavdos, to its south, is the country's southernmost point."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-ionian-crete-8.jpg",
+       "w": 800,
+       "h": 532,
+       "caption": {
+        "el": "Κρήτη από το διάστημα — το μεγαλύτερο νησί της Ελλάδας",
+        "tr": "Uzaydan Girit — Yunanistan'ın en büyük adası",
+        "en": "Crete from space — Greece's largest island"
+       },
+       "author": "ISS Expedition 28 crew",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Island_of_Crete,_Greece.JPG"
+      },
+      {
+       "file": "images/lessons/geo-ionian-crete-9.jpg",
+       "w": 800,
+       "h": 362,
+       "caption": {
+        "el": "Χανιά (παλιό λιμάνι) — η δυτικότερη από τις 4 Περιφερειακές Ενότητες της Κρήτης",
+        "tr": "Hanya (eski liman) — Girit'in 4 Bölgesel Biriminin en batıdakisi",
+        "en": "Chania (old harbour) — the westernmost of Crete's 4 Regional Units"
+       },
+       "author": "Cayambe",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Chania,_old_harbour_2019a.jpg"
+      }
+     ]
     },
     {
      "type": "map",
@@ -5323,6 +5968,35 @@
        "el": "βρέχεται",
        "tr": "(denizle) çevrilidir",
        "en": "is washed (by a sea)"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Η **Κάσος** και η **Αστυπάλαια** είναι νησιά των Δωδεκανήσων και βρίσκονται στο **Αιγαίο Πέλαγος**.",
+       "tr": "**Kasos** ve **Astipalea** Onikiadalar'a ait adalardır ve **Ege Denizi**'ndedir.",
+       "en": "**Kasos** and **Astypalaia** are Dodecanese islands in the **Aegean Sea**.",
+       "q": [
+        "geo-37"
+       ]
+      },
+      {
+       "el": "Στον χάρτη: **Ιθάκη**: μικρό νησί του Ιονίου, ακριβώς βορειοανατολικά της Κεφαλονιάς· **Λευκάδα**: νησί του Ιονίου πολύ κοντά στην ακτή της Αιτωλοακαρνανίας, βόρεια της Ιθάκης· **Άνδρος**: το βορειότερο μεγάλο νησί των Κυκλάδων, νοτιοανατολικά της Εύβοιας· **Κάρπαθος**: νησί των Δωδεκανήσων ανάμεσα στην Κρήτη και τη Ρόδο.",
+       "tr": "Haritada: **İthaki**: Kefalonya'nın hemen kuzeydoğusunda küçük bir İyon adası; **Lefkada**: Etolya-Akarnanya kıyısına çok yakın bir İyon adası, İthaki'nin kuzeyinde; **Andros**: Kiklad Adaları'nın en kuzeydeki büyük adası, Eğriboz'un güneydoğusunda; **Karpathos**: Girit ile Rodos arasında bir Onikiadalar adası.",
+       "en": "On the map: **Ithaca**: a small Ionian island just north-east of Kefalonia; **Lefkada**: an Ionian island right off the coast of Aetolia-Acarnania, north of Ithaca; **Andros**: the northernmost large island of the Cyclades, south-east of Euboea; **Karpathos**: a Dodecanese island between Crete and Rhodes.",
+       "q": [
+        "geo-58"
+       ]
+      },
+      {
+       "el": "Στον χάρτη: **Πάτμος**: μικρό νησί στο βόρειο άκρο των Δωδεκανήσων, νοτιοδυτικά της Σάμου· **Σύμη**: μικρό νησί των Δωδεκανήσων βορειοδυτικά της Ρόδου, κοντά στις τουρκικές ακτές· **Νάξος**: το μεγαλύτερο νησί των Κυκλάδων, στο κέντρο τους, ανατολικά της Πάρου· **Κεφαλονιά**: το μεγαλύτερο νησί του Ιονίου, δυτικά της εισόδου του Πατραϊκού κόλπου.",
+       "tr": "Haritada: **Patmos**: Onikiadalar'ın kuzey ucunda, Sisam'ın güneybatısında küçük bir ada; **Simi**: Rodos'un kuzeybatısında, Türkiye kıyısına yakın küçük bir Onikiadalar adası; **Naksos**: Kiklad Adaları'nın en büyüğü, grubun ortasında, Paros'un doğusunda; **Kefalonya**: İyon Denizi'nin en büyük adası, Patra Körfezi girişinin batısında.",
+       "en": "On the map: **Patmos**: a small island at the northern end of the Dodecanese, south-west of Samos; **Symi**: a small Dodecanese island north-west of Rhodes, close to the Turkish coast; **Naxos**: the largest Cycladic island, in the middle of the group, east of Paros; **Kefalonia**: the largest Ionian island, west of the entrance to the Gulf of Patras.",
+       "q": [
+        "geo-59"
+       ]
       }
      ]
     }
@@ -5946,6 +6620,20 @@
     "tr": "Kiklad Adaları, Onikiadalar, Kuzey Ege adaları, Sporadlar ve volkanik adalar.",
     "en": "The Cyclades, the Dodecanese, the North Aegean islands, the Sporades and the volcanic islands."
    },
+   "cover": {
+    "file": "images/lessons/geo-aegean-islands-1.jpg",
+    "w": 800,
+    "h": 530,
+    "caption": {
+     "el": "Η καλντέρα της Σαντορίνης (Θήρας) — νησί με ηφαίστειο, Κυκλάδες",
+     "tr": "Santorini (Thira) kalderası — volkanlı ada, Kiklad Adaları",
+     "en": "The caldera of Santorini (Thira) — a volcanic island, Cyclades"
+    },
+    "author": "Norbert Nagel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Caldera_of_Santorini_-_Nea_Kameni_-_seen_from_Fira_Thira.jpg"
+   },
    "blocks": [
     {
      "type": "table",
@@ -6052,6 +6740,81 @@
         "en": "Euboea Regional Unit → **Central Greece** Region"
        }
       ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-aegean-islands-2.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Νάξος (Πορτάρα) — το μεγαλύτερο νησί των Κυκλάδων",
+        "tr": "Naksos (Portara) — Kiklad Adaları'nın en büyüğü",
+        "en": "Naxos (Portara) — the largest of the Cyclades"
+       },
+       "author": "Manfred Werner (Tsui)",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Naxos_%CE%9D%CE%AC%CE%BE%CE%BF%CF%82_Chora_2020-08-20_28_Portara_%CE%A0%CE%BF%CF%81%CF%84%CE%AC%CF%81%CE%B1.jpg"
+      },
+      {
+       "file": "images/lessons/geo-aegean-islands-3.jpg",
+       "w": 800,
+       "h": 501,
+       "caption": {
+        "el": "Μύκονος (ανεμόμυλοι) — Κυκλάδες, Νότιο Αιγαίο",
+        "tr": "Mikonos (yel değirmenleri) — Kiklad Adaları, Güney Ege",
+        "en": "Mykonos (windmills) — Cyclades, South Aegean"
+       },
+       "author": "Julian Lupyan",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Windmills_of_Mykonos.jpg"
+      },
+      {
+       "file": "images/lessons/geo-aegean-islands-4.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Ρόδος — Δωδεκάνησα, Νότιο Αιγαίο",
+        "tr": "Rodos — Onikiadalar, Güney Ege",
+        "en": "Rhodes — Dodecanese, South Aegean"
+       },
+       "author": "Wknight94 talk",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Rhodes_Harbor_2010.jpg"
+      },
+      {
+       "file": "images/lessons/geo-aegean-islands-5.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Μυτιλήνη (Λέσβος) — νησιά του Βορείου Αιγαίου",
+        "tr": "Midilli (Lesvos) — Kuzey Ege adaları",
+        "en": "Mytilene (Lesbos) — North Aegean islands"
+       },
+       "author": "Bj.schoenmakers",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Mytilini_harbour,_view_from_the_air,_Mytilini,_Lesbos,_Greece.jpg"
+      },
+      {
+       "file": "images/lessons/geo-aegean-islands-6.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Σκόπελος — Σποράδες (Περιφέρεια Θεσσαλίας), όχι Κυκλάδες",
+        "tr": "Skopelos — Sporadlar (Teselya Bölgesi), Kiklad değil",
+        "en": "Skopelos — Sporades (Thessaly Region), not the Cyclades"
+       },
+       "author": "dronepicr",
+       "license": "CC BY 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Skopelos_Town,_Greece_(51694951792).jpg"
+      }
      ]
     },
     {
@@ -6356,6 +7119,53 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-aegean-islands-7.jpg",
+       "w": 800,
+       "h": 419,
+       "caption": {
+        "el": "Νέα Καμένη — το ηφαίστειο στην καλντέρα της Σαντορίνης",
+        "tr": "Nea Kameni — Santorini kalderasındaki volkan",
+        "en": "Nea Kameni — the volcano in Santorini's caldera"
+       },
+       "author": "Norbert Nagel",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Nea_Kameni_volcanic_island_-_Santorini_-_Greece_-_19.jpg"
+      },
+      {
+       "file": "images/lessons/geo-aegean-islands-8.jpg",
+       "w": 800,
+       "h": 450,
+       "caption": {
+        "el": "Μήλος (Σαρακήνικο) — ηφαιστειακό νησί των Κυκλάδων",
+        "tr": "Milos (Sarakiniko) — Kiklad Adaları'nda volkanik ada",
+        "en": "Milos (Sarakiniko) — a volcanic island of the Cyclades"
+       },
+       "author": "Zde",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Sarakiniko_beach,_Milos,_15M6421.jpg"
+      },
+      {
+       "file": "images/lessons/geo-aegean-islands-9.jpg",
+       "w": 800,
+       "h": 534,
+       "caption": {
+        "el": "Νίσυρος (κρατήρας Στέφανος) — ηφαίστειο στα Δωδεκάνησα",
+        "tr": "Nisiros (Stefanos krateri) — Onikiadalar'da volkan",
+        "en": "Nisyros (Stefanos crater) — a volcano in the Dodecanese"
+       },
+       "author": "Ввласенко",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:View_of_the_crater_Stefanos_from_the_north-east._Nisyros,_Greece.jpg"
+      }
+     ]
+    },
+    {
      "type": "map",
      "places": [
       {
@@ -6512,6 +7322,75 @@
        "el": "Περιφερειακή Ενότητα Σποράδων",
        "tr": "Sporadlar Bölgesel Birimi",
        "en": "Regional Unit of the Sporades"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Στο **Θαλάσσιο Πάρκο Αλοννήσου** βρίσκεται το καταφύγιο της **μεσογειακής φώκιας (monachus monachus)**.",
+       "tr": "**Alonisos Deniz Parkı**'nda **Akdeniz foku (monachus monachus)** koruma alanı bulunur.",
+       "en": "The **Alonissos Marine Park** is home to the refuge of the **Mediterranean monk seal (Monachus monachus)**.",
+       "q": [
+        "geo-31"
+       ]
+      },
+      {
+       "el": "Στη **Σκύρο** ζει μία από τις **πιο σπάνιες φυλές αλόγων** στον κόσμο.",
+       "tr": "**Skiros**'ta dünyanın **en nadir at ırklarından** biri yaşar.",
+       "en": "One of the **rarest horse breeds** in the world lives on **Skyros**.",
+       "q": [
+        "geo-31"
+       ]
+      },
+      {
+       "el": "Στο **Αιγαίο Πέλαγος** βρίσκονται οι **Κυκλάδες** και τα **Δωδεκάνησα**.",
+       "tr": "**Kiklad Adaları** ve **Onikiadalar** **Ege Denizi**'ndedir.",
+       "en": "The **Cyclades** and the **Dodecanese** are in the **Aegean Sea**.",
+       "q": [
+        "geo-33"
+       ]
+      },
+      {
+       "el": "Η **Ύδρα** **δεν** βρίσκεται στο Ιόνιο Πέλαγος· είναι νησί του **Αιγαίου** (Αργοσαρωνικός).",
+       "tr": "**Hidra** İyon Denizi'nde **değildir**; **Ege**'deki (Argosaronik) bir adadır.",
+       "en": "**Hydra** is **not** in the Ionian Sea; it is an **Aegean** island (Argo-Saronic).",
+       "q": [
+        "geo-33"
+       ]
+      },
+      {
+       "el": "Η **Ιθάκη** και οι **Παξοί** είναι νησιά των Επτανήσων και βρίσκονται στο **Ιόνιο Πέλαγος**.",
+       "tr": "**İthaki** ve **Paksi** Yedi Adalar'a ait adalardır ve **İyon Denizi**'ndedir.",
+       "en": "**Ithaca** and **Paxoi** are Ionian Islands (Heptanese), in the **Ionian Sea**.",
+       "q": [
+        "geo-37"
+       ]
+      },
+      {
+       "el": "Στον χάρτη (νησιά του ανατολικού Αιγαίου κοντά στις τουρκικές ακτές, από βορρά προς νότο): **Μυτιλήνη**: η πρωτεύουσα της **Λέσβου**, στο βορειοανατολικό Αιγαίο· **Χίος**: νότια της Λέσβου· **Σάμος**: νότια της Χίου, πολύ κοντά στην τουρκική ακτή· **Ρόδος**: το μεγαλύτερο νησί των Δωδεκανήσων, στο νοτιοανατολικό άκρο του Αιγαίου.",
+       "tr": "Haritada (Türkiye kıyısına yakın doğu Ege adaları, kuzeyden güneye): **Midilli** şehri: aynı adlı adanın (Lesvos) merkezi, kuzeydoğu Ege'de; **Sakız**: Midilli'nin güneyinde; **Sisam**: Sakız'ın güneyinde, Türkiye kıyısına çok yakın; **Rodos**: Onikiadalar'ın en büyük adası, Ege'nin güneydoğu ucunda.",
+       "en": "On the map (eastern Aegean islands near the Turkish coast, north to south): **Mytilene**: the capital of **Lesbos**, in the north-eastern Aegean; **Chios**: south of Lesbos; **Samos**: south of Chios, very close to the Turkish coast; **Rhodes**: the largest Dodecanese island, at the south-eastern corner of the Aegean.",
+       "q": [
+        "geo-51"
+       ]
+      },
+      {
+       "el": "Στον χάρτη: **Ιθάκη**: μικρό νησί του Ιονίου, ακριβώς βορειοανατολικά της Κεφαλονιάς· **Λευκάδα**: νησί του Ιονίου πολύ κοντά στην ακτή της Αιτωλοακαρνανίας, βόρεια της Ιθάκης· **Άνδρος**: το βορειότερο μεγάλο νησί των Κυκλάδων, νοτιοανατολικά της Εύβοιας· **Κάρπαθος**: νησί των Δωδεκανήσων ανάμεσα στην Κρήτη και τη Ρόδο.",
+       "tr": "Haritada: **İthaki**: Kefalonya'nın hemen kuzeydoğusunda küçük bir İyon adası; **Lefkada**: Etolya-Akarnanya kıyısına çok yakın bir İyon adası, İthaki'nin kuzeyinde; **Andros**: Kiklad Adaları'nın en kuzeydeki büyük adası, Eğriboz'un güneydoğusunda; **Karpathos**: Girit ile Rodos arasında bir Onikiadalar adası.",
+       "en": "On the map: **Ithaca**: a small Ionian island just north-east of Kefalonia; **Lefkada**: an Ionian island right off the coast of Aetolia-Acarnania, north of Ithaca; **Andros**: the northernmost large island of the Cyclades, south-east of Euboea; **Karpathos**: a Dodecanese island between Crete and Rhodes.",
+       "q": [
+        "geo-58"
+       ]
+      },
+      {
+       "el": "Στον χάρτη: **Πάτμος**: μικρό νησί στο βόρειο άκρο των Δωδεκανήσων, νοτιοδυτικά της Σάμου· **Σύμη**: μικρό νησί των Δωδεκανήσων βορειοδυτικά της Ρόδου, κοντά στις τουρκικές ακτές· **Νάξος**: το μεγαλύτερο νησί των Κυκλάδων, στο κέντρο τους, ανατολικά της Πάρου· **Κεφαλονιά**: το μεγαλύτερο νησί του Ιονίου, δυτικά της εισόδου του Πατραϊκού κόλπου.",
+       "tr": "Haritada: **Patmos**: Onikiadalar'ın kuzey ucunda, Sisam'ın güneybatısında küçük bir ada; **Simi**: Rodos'un kuzeybatısında, Türkiye kıyısına yakın küçük bir Onikiadalar adası; **Naksos**: Kiklad Adaları'nın en büyüğü, grubun ortasında, Paros'un doğusunda; **Kefalonya**: İyon Denizi'nin en büyük adası, Patra Körfezi girişinin batısında.",
+       "en": "On the map: **Patmos**: a small island at the northern end of the Dodecanese, south-west of Samos; **Symi**: a small Dodecanese island north-west of Rhodes, close to the Turkish coast; **Naxos**: the largest Cycladic island, in the middle of the group, east of Paros; **Kefalonia**: the largest Ionian island, west of the entrance to the Gulf of Patras.",
+       "q": [
+        "geo-59"
+       ]
       }
      ]
     }
@@ -7244,6 +8123,20 @@
     "tr": "Başlıca dağlar, Magnisia ve Halkidiki yarımadaları, balıkçılığın yoğun olduğu körfezler.",
     "en": "Main mountains, the Magnesia and Chalkidiki peninsulas, and the gulfs with the largest fish catches."
    },
+   "cover": {
+    "file": "images/lessons/geo-relief-1.jpg",
+    "w": 800,
+    "h": 530,
+    "caption": {
+     "el": "Όλυμπος — το ψηλότερο βουνό της Ελλάδας, 2.918 m",
+     "tr": "Olimpos — Yunanistan'ın en yüksek dağı, 2.918 m",
+     "en": "Olympus — Greece's highest mountain, 2,918 m"
+    },
+    "author": "E.asphyx",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mount_Olympus_from_Litochoro.jpg"
+   },
    "blocks": [
     {
      "type": "list",
@@ -7282,6 +8175,67 @@
        "el": "**Ψηλορείτης (Ίδη)** — Κρήτη",
        "tr": "**Psiloritis (İda)** — Girit",
        "en": "**Psiloritis (Ida)** — Crete"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-relief-2.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Μύτικας — η ψηλότερη κορυφή του Ολύμπου (όρια Θεσσαλίας-Μακεδονίας)",
+        "tr": "Mitikas — Olimpos'un en yüksek zirvesi (Teselya-Makedonya sınırı)",
+        "en": "Mytikas — Olympus's highest peak (Thessaly-Macedonia border)"
+       },
+       "author": "Olympus_Mytikas_from_Skala_Explained.jpg: Melkov derivative work: Hike395",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Olympus_Mytikas_from_Skala.jpg"
+      },
+      {
+       "file": "images/lessons/geo-relief-3.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Παρνασσός — Στερεά Ελλάδα",
+        "tr": "Parnassos — Orta Yunanistan",
+        "en": "Parnassus — Central Greece"
+       },
+       "author": "Chavakismanolis",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Mt._Parnassus-%CE%A0%CE%B1%CF%81%CE%BD%CE%B1%CF%83%CF%83%CF%8C%CF%82_%CE%BC%CE%B5_%CF%87%CE%B9%CF%8C%CE%BD%CE%B9%CE%B1.jpg"
+      },
+      {
+       "file": "images/lessons/geo-relief-4.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Ταΰγετος — Πελοπόννησος",
+        "tr": "Tayetos — Mora",
+        "en": "Taygetus — Peloponnese"
+       },
+       "author": "George E. Koronaios",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:View_of_Mount_Taygetus_from_the_Menelaion)_on_15_May_2019.jpg"
+      },
+      {
+       "file": "images/lessons/geo-relief-5.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Ψηλορείτης (Ίδη) — το ψηλότερο βουνό της Κρήτης",
+        "tr": "Psiloritis (İda) — Girit'in en yüksek dağı",
+        "en": "Psiloritis (Ida) — Crete's highest mountain"
+       },
+       "author": "Uoaei1",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Psiloritis_view_from_Thronos_01.JPG"
       }
      ]
     },
@@ -7389,6 +8343,53 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-relief-6.jpg",
+       "w": 639,
+       "h": 422,
+       "caption": {
+        "el": "Χαλκιδική από το διάστημα — τρεις χερσόνησοι: Κασσάνδρα, Σιθωνία, Άγιον Όρος",
+        "tr": "Uzaydan Halkidiki — üç yarımada: Kasandra, Sitonya, Aynaroz",
+        "en": "Chalkidiki from space — three peninsulas: Kassandra, Sithonia, Mount Athos"
+       },
+       "author": "NASA",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Chalcidice._Peninsulas_of_Pallene,_Sithonia_and_Mount_Athos._Aerial_photograph_(NASA).jpg"
+      },
+      {
+       "file": "images/lessons/geo-relief-7.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Άγιον Όρος — η ανατολική χερσόνησος της Χαλκιδικής",
+        "tr": "Aynaroz — Halkidiki'nin doğudaki yarımadası",
+        "en": "Mount Athos — Chalkidiki's eastern peninsula"
+       },
+       "author": "Kritzolina",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Mount_Athos_seen_from_Sarti_02.jpg"
+      },
+      {
+       "file": "images/lessons/geo-relief-8.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Βόλος και Παγασητικός κόλπος — ο κυκλικός κόλπος της Μαγνησίας",
+        "tr": "Volos ve Pagasitikos Körfezi — Magnisia'nın yuvarlak körfezi",
+        "en": "Volos and the Pagasetic Gulf — Magnesia's circular gulf"
+       },
+       "author": "Luu",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Volos_view_from_Makrinitsa.JPG"
+      }
+     ]
+    },
+    {
      "type": "map",
      "places": [
       {
@@ -7445,6 +8446,25 @@
       "tr": "**En çok balık avlanan körfezler:** Thermaikos, Kasandra, Aynaroz, İerisos, Strimonikos, Kavala, Kuzey ve Güney Eğriboz, Amvrakikos. **Amvrakikos Körfezi** büyük miktarda balık ve deniz ürünü üretir; içindeki küçük ada **Koronisia**'dır. Körfez kıyısındaki **Vonitsa**, Batı Yunanistan'da, Etolya-Akarnanya Bölgesel Birimindedir.",
       "en": "**Gulfs with the largest fish catches:** the Thermaic, Kassandra, Mount Athos, Ierissos, Strymonian, Kavala, North and South Euboean and Ambracian Gulfs. The **Ambracian Gulf** produces a large fish catch; **Koronisia** is a small island in it. **Vonitsa**, on its shore, is in Western Greece, in the Regional Unit of Aetolia-Acarnania."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-relief-9.jpg",
+       "w": 800,
+       "h": 572,
+       "caption": {
+        "el": "Αμβρακικός κόλπος (λιμνοθάλασσα Τσουκαλιό) — μεγάλη αλιευτική παραγωγή",
+        "tr": "Amvrakikos Körfezi (Tsukalio lagünü) — büyük balık üretimi",
+        "en": "Ambracian Gulf (Tsoukalio lagoon) — a large fish catch"
+       },
+       "author": "ArtaMania",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Tsoukalio_lagoon,_Ambracian_(Amvrakikos)_gulf,_Arta,_Epirus,_Greece_1.jpg"
+      }
+     ]
     },
     {
      "type": "map",
@@ -8307,6 +9327,20 @@
     "tr": "Büyük nehirler nereye dökülür, göller hangi bölgededir?",
     "en": "Where the main rivers flow and where the lakes are."
    },
+   "cover": {
+    "file": "images/lessons/geo-rivers-lakes-1.jpg",
+    "w": 800,
+    "h": 533,
+    "caption": {
+     "el": "Μαίανδροι του Νέστου — φυσικό όριο Μακεδονίας και Θράκης, εκβάλλει στο Αιγαίο",
+     "tr": "Nestos menderesleri — Makedonya ile Trakya arasında doğal sınır, Ege'ye dökülür",
+     "en": "Meanders of the Nestos — natural boundary of Macedonia and Thrace, flows into the Aegean"
+    },
+    "author": "Agis Kothalis",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%CE%9C%CE%B1%CE%AF%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CE%B9_%CF%83%CF%84%CE%B1_%CF%83%CF%84%CE%B5%CE%BD%CE%AC_%CF%84%CE%BF%CF%85_%CE%9D%CE%AD%CF%83%CF%84%CE%BF%CF%85.jpg"
+   },
    "blocks": [
     {
      "type": "table",
@@ -8430,6 +9464,81 @@
         "en": "Natural boundary between Macedonia and Thrace (both inside the Eastern Macedonia-Thrace Region) — not with Central Macedonia"
        }
       ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-rivers-lakes-2.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Πηνειός στα Τέμπη — ποταμός της Θεσσαλίας, εκβάλλει στον Θερμαϊκό",
+        "tr": "Tempi'de Pinios — Teselya nehri, Thermaikos Körfezi'ne dökülür",
+        "en": "Pineios at Tempe — Thessaly's river, flows into the Thermaic Gulf"
+       },
+       "author": "Filos96",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Pineios_River_(Thessaly)_through_the_Vale_of_Tempe.JPG"
+      },
+      {
+       "file": "images/lessons/geo-rivers-lakes-3.jpg",
+       "w": 800,
+       "h": 536,
+       "caption": {
+        "el": "Αλιάκμονας — διασχίζει τη Δυτική Μακεδονία, εκβάλλει στον Θερμαϊκό",
+        "tr": "Aliakmonas — Batı Makedonya'dan geçer, Thermaikos Körfezi'ne dökülür",
+        "en": "Aliakmonas — crosses Western Macedonia, flows into the Thermaic Gulf"
+       },
+       "author": "N. DALAVAGAS",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Haliacmon_Gorge_Greece.jpg"
+      },
+      {
+       "file": "images/lessons/geo-rivers-lakes-4.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Δέλτα του Αξιού — ο Αξιός πηγάζει στη Βόρεια Μακεδονία",
+        "tr": "Vardar (Aksios) deltası — Vardar Kuzey Makedonya'da doğar",
+        "en": "Axios Delta — the Axios rises in North Macedonia"
+       },
+       "author": "Foteini Kyriakopoulou",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Axios_Delta_National_Park.jpg"
+      },
+      {
+       "file": "images/lessons/geo-rivers-lakes-5.jpg",
+       "w": 800,
+       "h": 495,
+       "caption": {
+        "el": "Έβρος — εκβάλλει στο Αιγαίο· σύνορο με την Τουρκία μόνο σε ένα μέρος της ροής του",
+        "tr": "Meriç (Evros) — Ege'ye dökülür; Türkiye ile sınırı yalnızca bir bölümünde oluşturur",
+        "en": "Evros — flows into the Aegean; the border with Turkey along only part of its course"
+       },
+       "author": "Dimitra Papadimitriou",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:River_Evros.jpg"
+      },
+      {
+       "file": "images/lessons/geo-rivers-lakes-6.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Δέλτα του Αχελώου — εκβάλλει στο Ιόνιο, Δυτική Ελλάδα",
+        "tr": "Aheloos deltası — İyon Denizi'ne dökülür, Batı Yunanistan",
+        "en": "Acheloos Delta — flows into the Ionian, Western Greece"
+       },
+       "author": "Dimitrios Tzortzis",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Sunset_at_Acheloos_river_delta_01.jpg"
+      }
      ]
     },
     {
@@ -8664,6 +9773,67 @@
         "en": "Thrace"
        }
       ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-rivers-lakes-7.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Λίμνη Κερκίνη — Σέρρες, Μακεδονία",
+        "tr": "Kerkini Gölü — Serez, Makedonya",
+        "en": "Lake Kerkini — Serres, Macedonia"
+       },
+       "author": "Vassilios Vescoukis",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Kerkini_lake_in_May_11.jpg"
+      },
+      {
+       "file": "images/lessons/geo-rivers-lakes-8.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Μικρή Πρέσπα (νησί του Αγίου Αχιλλείου) — Φλώρινα, Μακεδονία",
+        "tr": "Küçük Prespa (Agios Ahillios adası) — Florina, Makedonya",
+        "en": "Lesser Prespa (Agios Achillios island) — Florina, Macedonia"
+       },
+       "author": "Christaras A",
+       "license": "CC BY 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Lesser_Lake_Prespa_with_Agios_Achillios_island,_Florina_prefecture,_Greece_-_seen_from_National_Road_15_(southwest)_-_01.jpg"
+      },
+      {
+       "file": "images/lessons/geo-rivers-lakes-9.jpg",
+       "w": 800,
+       "h": 536,
+       "caption": {
+        "el": "Τριχωνίδα (στο κέντρο) — Αιτωλοακαρνανία, Δυτική Ελλάδα",
+        "tr": "Trihonida (ortada) — Etolya-Akarnanya, Batı Yunanistan",
+        "en": "Trichonida (centre) — Aetolia-Acarnania, Western Greece"
+       },
+       "author": "Durutomo",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Lake_Trichonida_from_the_air.jpg"
+      },
+      {
+       "file": "images/lessons/geo-rivers-lakes-10.jpg",
+       "w": 800,
+       "h": 450,
+       "caption": {
+        "el": "Βεγορίτιδα — Πέλλα / Φλώρινα, Μακεδονία",
+        "tr": "Vegoritida — Pella / Florina, Makedonya",
+        "en": "Vegoritida — Pella / Florina, Macedonia"
+       },
+       "author": "Esslet",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Lake_Vegoritida,_Macedonia,_Greece.jpg"
+      }
      ]
     },
     {
@@ -9706,6 +10876,20 @@
     "tr": "Haritada sorulan lagünler, barajlı göller, şelaleler ve kaplıcalar.",
     "en": "The lagoons, dam lakes, waterfalls and thermal spas asked on the map."
    },
+   "cover": {
+    "file": "images/lessons/geo-waters-1.jpg",
+    "w": 800,
+    "h": 532,
+    "caption": {
+     "el": "Καταρράκτες της Έδεσσας — μέσα στην πόλη",
+     "tr": "Edessa şelaleleri — şehrin içinde",
+     "en": "The waterfalls of Edessa — inside the town"
+    },
+    "author": "Annatsach",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_waterfalls_of_Edessa_in_autumn.jpg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -9714,6 +10898,39 @@
       "tr": "**Lagünler (λιμνοθάλασσες):** Mesolongi (Batı Yunanistan), Vistonida-Porto Lagos (Trakya), Lefkada ve Girit'teki Agios Nikolaos.",
       "en": "**Lagoons (λιμνοθάλασσες):** Missolonghi (Western Greece), Vistonida-Porto Lagos (Thrace), Lefkada and Agios Nikolaos (Crete)."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-waters-2.jpg",
+       "w": 800,
+       "h": 450,
+       "caption": {
+        "el": "Λιμνοθάλασσα Μεσολογγίου — Δυτική Ελλάδα",
+        "tr": "Mesolongi lagünü — Batı Yunanistan",
+        "en": "Missolonghi lagoon — Western Greece"
+       },
+       "author": "Ava Babili",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:%CE%9B%CE%B9%CE%BC%CE%BD%CE%BF%CE%B8%CE%AC%CE%BB%CE%B1%CF%83%CF%83%CE%B1_%CE%9C%CE%B5%CF%83%CE%BF%CE%BB%CE%BF%CE%B3%CE%B3%CE%AF%CE%BF%CF%85_-_%CE%91%CE%B9%CF%84%CF%89%CE%BB%CE%B9%CE%BA%CE%BF%CF%8D_2.jpg"
+      },
+      {
+       "file": "images/lessons/geo-waters-3.jpg",
+       "w": 800,
+       "h": 215,
+       "caption": {
+        "el": "Πόρτο Λάγος — λιμνοθάλασσα Βιστωνίδας, Θράκη",
+        "tr": "Porto Lagos — Vistonida lagünü, Trakya",
+        "en": "Porto Lagos — Vistonida lagoon, Thrace"
+       },
+       "author": "Ggia",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:20101016_Agios_Nikolaos_Metoxi_Batopediou_Porto_Lagos_Vistonida_Lake_Rhodope_Greece.jpg"
+      }
+     ]
     },
     {
      "type": "map",
@@ -9765,6 +10982,67 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-waters-4.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Τεχνητή λίμνη Πολυφύτου — Κοζάνη, στον Αλιάκμονα",
+        "tr": "Polifitos yapay gölü — Kozani, Aliakmonas üzerinde",
+        "en": "Polyfytos artificial lake — Kozani, on the Aliakmonas"
+       },
+       "author": "Knop92",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Polyfytos_lake.jpg"
+      },
+      {
+       "file": "images/lessons/geo-waters-5.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Τεχνητή λίμνη Πλαστήρα — Καρδίτσα",
+        "tr": "Plastiras yapay gölü — Karditsa",
+        "en": "Lake Plastiras (artificial) — Karditsa"
+       },
+       "author": "Stefanos Charitos",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Lake_Plastiras.jpg"
+      },
+      {
+       "file": "images/lessons/geo-waters-6.jpg",
+       "w": 800,
+       "h": 572,
+       "caption": {
+        "el": "Λίμνη Μόρνου — Φωκίδα· τροφοδοτεί την Αθήνα με νερό",
+        "tr": "Mornos Gölü — Fokida; Atina'ya su sağlar",
+        "en": "Lake Mornos — Phocis; supplies Athens with water"
+       },
+       "author": "George Kypreos",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:%CE%A4%CE%B1_%CE%92%CE%B1%CF%81%CE%B4%CE%BF%CF%8D%CF%83%CE%B9%CE%B1_%CE%BA%CE%B1%CE%B8%CF%81%CE%B5%CF%80%CF%84%CE%AF%CE%B6%CE%BF%CE%BD%CF%84%CE%B1%CE%B9_%CF%83%CF%84%CE%B7%CE%BD_%CE%9B%CE%AF%CE%BC%CE%BD%CE%B7_%CF%84%CE%BF%CF%85_%CE%9C%CF%8C%CF%81%CE%BD%CE%BF%CF%85.jpg"
+      },
+      {
+       "file": "images/lessons/geo-waters-7.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Φράγμα του Μαραθώνα — Αττική· τροφοδοτεί την Αθήνα με νερό",
+        "tr": "Maraton Barajı — Atika; Atina'ya su sağlar",
+        "en": "Marathon Dam — Attica; supplies Athens with water"
+       },
+       "author": "Vitaly",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Lake_Marathon_Dam,_Greece.jpg"
+      }
+     ]
+    },
+    {
      "type": "map",
      "places": [
       {
@@ -9814,6 +11092,25 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-waters-8.jpg",
+       "w": 583,
+       "h": 901,
+       "caption": {
+        "el": "Σαμοθράκη — καταρράκτης του Φονιά",
+        "tr": "Semadirek — Fonias şelalesi",
+        "en": "Samothrace — the Fonias waterfall"
+       },
+       "author": "Ggia",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:20020800_Fonias_waterfall,_Samothrace_island_Thrace_Greece.jpg"
+      }
+     ]
+    },
+    {
      "type": "map",
      "places": [
       {
@@ -9861,6 +11158,25 @@
       "tr": "**Kaplıcalar (ιαματικά λουτρά):** Kamena Vurla (Ftiotida), Edipsos (kuzey Eğriboz), Korintiya'daki Loutraki ve Aridea (Pella, Pozar kaplıcaları).",
       "en": "**Thermal spas (ιαματικά λουτρά):** Kamena Vourla (Phthiotis), Aidipsos (northern Euboea), Loutraki (Corinthia) and Aridaia (Pella, the Pozar baths)."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-waters-9.jpg",
+       "w": 800,
+       "h": 592,
+       "caption": {
+        "el": "Αιδηψός (βόρεια Εύβοια) — ιαματικές πηγές",
+        "tr": "Edipsos (kuzey Eğriboz) — kaplıca kaynakları",
+        "en": "Aidipsos (northern Euboea) — thermal springs"
+       },
+       "author": "Jebulon",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Water_spring_in_Aidipsos_Evia_Greece.jpg"
+      }
+     ]
     },
     {
      "type": "map",
@@ -9975,6 +11291,27 @@
        "el": "Αριδαία",
        "tr": "Aridea",
        "en": "Aridaia"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Στον χάρτη: λιμνοθάλασσα **Μεσολογγίου**: Αιτωλοακαρνανία, βόρεια ακτή του Πατραϊκού κόλπου· **Βιστωνίδας-Πόρτο Λάγος**: στην ακτή της Θράκης, ανάμεσα στην Ξάνθη και τη Ροδόπη· **Λευκάδας**: στο βόρειο άκρο του νησιού Λευκάδα (Ιόνιο), δίπλα στην πόλη· **Αγίου Νικολάου**: ανατολική Κρήτη, πρωτεύουσα της Περιφερειακής Ενότητας Λασιθίου.",
+       "tr": "Haritada: **Mesolongi** lagünü: Etolya-Akarnanya, Patra Körfezi'nin kuzey kıyısı; **Vistonida-Porto Lagos**: Trakya kıyısında, İskeçe ile Rodopi arasında; **Lefkada**: Lefkada adasının (İyon) kuzey ucunda, şehrin yanında; **Agios Nikolaos**: doğu Girit'te, Lasithi Bölgesel Biriminin merkezi.",
+       "en": "On the map: the **Mesolongi** lagoon: Aetolia-Acarnania, on the north shore of the Gulf of Patras; **Vistonida-Porto Lagos**: on the coast of Thrace, between Xanthi and Rhodope; **Lefkada**: at the northern tip of the island of Lefkada (Ionian), by the town; **Agios Nikolaos**: eastern Crete, capital of the Regional Unit of Lasithi.",
+       "q": [
+        "geo-53"
+       ]
+      },
+      {
+       "el": "Στον χάρτη (καταρράκτες): **Σαμοθράκη**: νησί του βόρειου Αιγαίου, νότια της Αλεξανδρούπολης (Περιφερειακή Ενότητα Έβρου)· **Ξάνθη**: πόλη της Θράκης, ανατολικά του Νέστου· **Έδεσσα**: πρωτεύουσα της Πέλλας, στην κεντρική Μακεδονία· **Καρπενήσι**: πρωτεύουσα της Ευρυτανίας, στα βουνά της Στερεάς Ελλάδας.",
+       "tr": "Haritada (şelaleler): **Semadirek**: Kuzey Ege'de, Dedeağaç'ın güneyinde bir ada (Evros Bölgesel Birimi); **İskeçe**: Trakya'da, Nestos'un doğusunda bir şehir; **Edessa**: Pella'nın merkezi, Orta Makedonya'da; **Karpenisi**: Evritanya'nın merkezi, Orta Yunanistan'ın dağlarında.",
+       "en": "On the map (waterfalls): **Samothrace**: a northern Aegean island south of Alexandroupoli (Regional Unit of Evros); **Xanthi**: a town in Thrace, east of the Nestos; **Edessa**: capital of Pella, in central Macedonia; **Karpenisi**: capital of Evrytania, in the mountains of Central Greece.",
+       "q": [
+        "geo-57"
+       ]
       }
      ]
     }
@@ -10666,6 +12003,20 @@
     "tr": "Akdeniz iklimi, rüzgârlar, yağış ve Yunanistan'ın koruma altındaki hayvanları.",
     "en": "The Mediterranean climate, winds, rainfall and Greece's protected animals."
    },
+   "cover": {
+    "file": "images/lessons/geo-climate-nature-1.jpg",
+    "w": 800,
+    "h": 400,
+    "caption": {
+     "el": "Αργυροπελεκάνοι στην Κερκίνη — χιλιάδες πουλιά μεταναστεύουν στους υγροτόπους",
+     "tr": "Kerkini'de tepeli pelikanlar — binlerce kuş sulak alanlara göç eder",
+     "en": "Dalmatian pelicans at Kerkini — thousands of birds migrate to the wetlands"
+    },
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dalmatian_pelicans_(Pelecanus_crispus)_roost_Kerkini.jpg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -10674,6 +12025,25 @@
       "tr": "Yunanistan'ın büyük bölümünde **ılıman Akdeniz iklimi (εύκρατο μεσογειακό)** hâkimdir: kışlar ılık ve yağışlı, yazlar sıcak ve kurak. **Batı Makedonya**, soğuk kışlarıyla **karasal iklim** özelliklerinin en belirgin olduğu bölgedir.",
       "en": "A **temperate Mediterranean climate (εύκρατο μεσογειακό)** prevails over most of Greece: mild, rainy winters and hot, dry summers. **Western Macedonia** is the area with the most pronounced **continental climate**, with cold winters."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-climate-nature-2.jpg",
+       "w": 800,
+       "h": 559,
+       "caption": {
+        "el": "Χειμώνας στο Νυμφαίο (Φλώρινα) — ηπειρωτικό κλίμα της Δυτικής Μακεδονίας",
+        "tr": "Nimfeo'da kış (Florina) — Batı Makedonya'nın karasal iklimi",
+        "en": "Winter at Nymfaio (Florina) — Western Macedonia's continental climate"
+       },
+       "author": "Vagrand",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Winter_capture_at_Nymfaio,_Florina.png"
+      }
+     ]
     },
     {
      "type": "list",
@@ -10699,12 +12069,106 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-climate-nature-3.jpg",
+       "w": 800,
+       "h": 536,
+       "caption": {
+        "el": "Κρι-κρι — το αγριόγιδο της Κρήτης",
+        "tr": "Kri-kri — Girit'in yaban keçisi",
+        "en": "Kri-kri — the wild goat of Crete"
+       },
+       "author": "Eigen werk",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Kri-Kri,_Samaria_Gorge,_Crete.jpg"
+      },
+      {
+       "file": "images/lessons/geo-climate-nature-4.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Μεσογειακή φώκια (Monachus monachus) — προστατεύεται στο Θαλάσσιο Πάρκο Αλοννήσου",
+        "tr": "Akdeniz foku (Monachus monachus) — Alonisos Deniz Parkı'nda korunur",
+        "en": "Mediterranean monk seal — protected in the Alonissos Marine Park"
+       },
+       "author": "Wanax01",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Young_monk_seal.jpg"
+      },
+      {
+       "file": "images/lessons/geo-climate-nature-5.jpg",
+       "w": 320,
+       "h": 240,
+       "caption": {
+        "el": "Αρκούδα στον Αρκτούρο — καταφύγιο αρκούδας στο Νυμφαίο (Φλώρινα)",
+        "tr": "Arcturos'ta bir ayı — Nimfeo'daki ayı barınağı (Florina)",
+        "en": "A bear at Arcturos — the bear sanctuary at Nymfaio (Florina)"
+       },
+       "author": "Audiohazel",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Ushko_in_the_Arcturos_Sanctuary.jpg"
+      },
+      {
+       "file": "images/lessons/geo-climate-nature-6.jpg",
+       "w": 800,
+       "h": 530,
+       "caption": {
+        "el": "Αλογάκι της Σκύρου — από τις σπανιότερες ράτσες αλόγων στον κόσμο",
+        "tr": "Skiros midillisi — dünyanın en nadir at ırklarından",
+        "en": "Skyros pony — one of the rarest horse breeds in the world"
+       },
+       "author": "Andrew Frey-Lempicki",
+       "license": "CC BY-SA 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:The_Skyros_pony_(cropped).jpg"
+      }
+     ]
+    },
+    {
      "type": "tip",
      "text": {
       "el": "Παγίδα: το θαλάσσιο πάρκο της Αλοννήσου είναι για τη **μεσογειακή φώκια**, όχι για τη χελώνα **καρέτα καρέτα (Caretta caretta)**. Η πιο γνωστή περιοχή όπου γεννά τα αυγά της η χελώνα καρέτα είναι η **Ζάκυνθος** (κόλπος του Λαγανά).",
       "tr": "Tuzak: Alonisos deniz parkı **fokun** yeridir, **caretta caretta** kaplumbağasının değil. Caretta caretta'nın bilinen en önemli üreme yeri **Zakintos**'tur (Laganas Körfezi).",
       "en": "Trap: the Alonissos marine park is for the **monk seal**, not the **Caretta caretta** turtle. The best-known nesting site of the loggerhead turtle is **Zakynthos** (Laganas Bay)."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-climate-nature-7.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Χελώνα καρέτα καρέτα (Caretta caretta) — Ζάκυνθος",
+        "tr": "Caretta caretta deniz kaplumbağası — Zakintos",
+        "en": "Loggerhead turtle (Caretta caretta) — Zakynthos"
+       },
+       "author": "Dionysisa303",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Loggerhead_Turtle_Caretta_Caretta.jpg"
+      },
+      {
+       "file": "images/lessons/geo-climate-nature-8.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Κόλπος του Λαγανά (Μαραθωνήσι) — εδώ γεννά τα αυγά της η καρέτα",
+        "tr": "Laganas Körfezi (Marathonisi) — caretta burada yumurtlar",
+        "en": "Laganas Bay (Marathonisi) — where the loggerhead lays its eggs"
+       },
+       "author": "Jimzoun",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Marathonisi,_in_Laganas_Bay,_Zakynthos_(1).jpg"
+      }
+     ]
     },
     {
      "type": "map",
@@ -10832,6 +12296,51 @@
        "el": "φυλή αλόγων",
        "tr": "at ırkı",
        "en": "horse breed"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Ο **πορθμός του Ευρίπου** βρίσκεται στη **Χαλκίδα** (εκεί η γέφυρα ενώνει την Εύβοια με τη στεριά).",
+       "tr": "**Evripos Boğazı** **Halkida**'dadır (burada köprü Eğriboz'u anakaraya bağlar).",
+       "en": "The **Euripus Strait** is at **Chalkida** (where the bridge links Euboea to the mainland).",
+       "q": [
+        "geo-29"
+       ]
+      },
+      {
+       "el": "Η Περιφερειακή Ενότητα **Ροδόπης** έχει πρωτεύουσα την **Κομοτηνή**.",
+       "tr": "**Rodopi** Bölgesel Biriminin başkenti **Gümülcine**'dir.",
+       "en": "The capital of the Regional Unit of **Rhodope** is **Komotini**.",
+       "q": [
+        "geo-29"
+       ]
+      },
+      {
+       "el": "Η Περιφερειακή Ενότητα **Βοιωτίας** έχει πρωτεύουσα τη **Λιβαδειά** — **όχι** τη Θήβα.",
+       "tr": "**Beotya** Bölgesel Biriminin başkenti **Livadia**'dır — Thiva **değil**.",
+       "en": "The capital of the Regional Unit of **Boeotia** is **Livadeia** — **not** Thebes.",
+       "q": [
+        "geo-29"
+       ]
+      },
+      {
+       "el": "Η **Περιφερειακή Ενότητα Σποράδων** ανήκει στην Περιφέρεια **Θεσσαλίας** — **όχι** της Κεντρικής Μακεδονίας.",
+       "tr": "**Sporadlar Bölgesel Birimi** **Teselya** Bölgesine bağlıdır — Orta Makedonya'ya **değil**.",
+       "en": "The **Regional Unit of the Sporades** belongs to the Region of **Thessaly** — **not** Central Macedonia.",
+       "q": [
+        "geo-31"
+       ]
+      },
+      {
+       "el": "Η **Σκύρος** ανήκει διοικητικά στην Περιφέρεια **Στερεάς Ελλάδας** (Περιφερειακή Ενότητα Εύβοιας).",
+       "tr": "**Skiros** idari olarak **Orta Yunanistan** Bölgesine (Eğriboz Bölgesel Birimi) bağlıdır.",
+       "en": "**Skyros** belongs administratively to the Region of **Central Greece** (Regional Unit of Euboea).",
+       "q": [
+        "geo-31"
+       ]
       }
      ]
     }
@@ -11418,6 +12927,20 @@
     "tr": "Şarap, bal, tahıl, turunçgil, deniz ürünleri, linyit ve mermer bölgeleri.",
     "en": "Areas of wine, honey, cereals, citrus, seafood, lignite and marble."
    },
+   "cover": {
+    "file": "images/lessons/geo-economy-1.jpg",
+    "w": 800,
+    "h": 530,
+    "caption": {
+     "el": "Αμπέλια στη Σαντορίνη (Θήρα) — περιοχή παραγωγής κρασιού",
+     "tr": "Santorini'de (Thira) bağlar — şarap bölgesi",
+     "en": "Vineyards on Santorini (Thira) — a wine area"
+    },
+    "author": "Norbert Nagel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Winegrowing_between_crater_rim_and_Megalochori_-_Santorini_-_Greece.jpg"
+   },
    "blocks": [
     {
      "type": "table",
@@ -11494,6 +13017,25 @@
         "en": "Kiwifruit in Pieria; bananas on Crete; sponge harvesting on Kalymnos"
        }
       ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-economy-2.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Νεμέα (Κορινθία) — κρασί",
+        "tr": "Nemea (Korintiya) — şarap",
+        "en": "Nemea (Corinthia) — wine"
+       },
+       "author": "ulrichstill",
+       "license": "CC BY-SA 3.0 de",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Nemea_Wine-Olives_Corinthia_Peloponnese.jpg"
+      }
      ]
     },
     {
@@ -11623,6 +13165,25 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-economy-3.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Σφουγγάρια της Καλύμνου — γνωστή για την αλιεία σφουγγαριών",
+        "tr": "Kalimnos süngerleri — sünger avcılığıyla ünlü",
+        "en": "Sponges of Kalymnos — famous for sponge harvesting"
+       },
+       "author": "kallerna",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Kalymnos_sponges_1.jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "**Ενέργεια και βιομηχανία:** Στην **Πτολεμαΐδα** υπάρχουν εγκαταστάσεις παραγωγής ηλεκτρικής ενέργειας από λιγνίτη· στο υπέδαφος της **Μεγαλόπολης** και του **Αλιβερίου** υπάρχουν κοιτάσματα λιγνίτη. Ωστόσο, **το μεγαλύτερο μέρος της ηλεκτρικής ενέργειας που καταναλώνουμε σήμερα δεν παράγεται από λιγνίτη**. Οι μεγαλύτερες βιομηχανικές μονάδες **δεν** βρίσκονται στην Πελοπόννησο· η βιομηχανία συγκεντρώνεται κυρίως γύρω από την Αττική και τη Θεσσαλονίκη.",
@@ -11631,12 +13192,50 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-economy-4.jpg",
+       "w": 800,
+       "h": 525,
+       "caption": {
+        "el": "Ορυχείο λιγνίτη στην Πτολεμαΐδα — παραγωγή ηλεκτρικής ενέργειας",
+        "tr": "Ptolemaida'da linyit ocağı — elektrik üretimi",
+        "en": "Lignite mine at Ptolemaida — electricity production"
+       },
+       "author": "Mvlaxou",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Extracting_coals_at_ptolemaida_mines.JPG"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "**Περιοχές εξόρυξης μαρμάρων:** Θάσος, Δράμα, Κοζάνη και Τήνος.",
       "tr": "**Mermer çıkarılan yerler:** Taşoz, Drama, Kozani ve Tinos.",
       "en": "**Marble quarrying areas:** Thasos, Drama, Kozani and Tinos."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-economy-5.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Λατομείο μαρμάρου στη Θάσο",
+        "tr": "Taşoz'da mermer ocağı",
+        "en": "Marble quarry on Thasos"
+       },
+       "author": "Dr Peter Tzeferis",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Marble_quarry_Thasos_island.jpg"
+      }
+     ]
     },
     {
      "type": "map",
@@ -11797,6 +13396,35 @@
        "el": "Κάλυμνος",
        "tr": "Kalimnos",
        "en": "Kalymnos"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "**Κόλποι με τις μεγαλύτερες ποσότητες αλιευμάτων:** **Θερμαϊκός**, **Κασσάνδρας**, **Αγίου Όρους**, **Ιερισσού**, **Στρυμονικός**, **Καβάλας**, **Βόρειος** και **Νότιος Ευβοϊκός**, **Αμβρακικός**.",
+       "tr": "**En çok balık avlanan körfezler:** **Thermaikos**, **Kasandra**, **Aynaroz**, **İerisos**, **Strimonikos**, **Kavala**, **Kuzey** ve **Güney Eğriboz**, **Amvrakikos**.",
+       "en": "**Gulfs with the largest fish catch:** the **Thermaic**, **Kassandra**, **Mount Athos**, **Ierissos**, **Strymonian**, **Kavala**, **North** and **South Euboean** and **Ambracian** gulfs.",
+       "q": [
+        "geo-50"
+       ]
+      },
+      {
+       "el": "Στον χάρτη (μάρμαρα): **Θάσος**: νησί του βόρειου Αιγαίου, απέναντι από την Καβάλα· **Δράμα**: πόλη της Ανατολικής Μακεδονίας, στην ενδοχώρα βόρεια της Καβάλας· **Κοζάνη**: πόλη της Δυτικής Μακεδονίας· **Τήνος**: νησί των Κυκλάδων, ανάμεσα στην Άνδρο και τη Μύκονο.",
+       "tr": "Haritada (mermer): **Taşoz**: Kuzey Ege'de, Kavala'nın karşısında bir ada; **Drama**: Doğu Makedonya'da, Kavala'nın kuzeyinde iç kesimde bir şehir; **Kozani**: Batı Makedonya'da bir şehir; **Tinos**: Andros ile Mikonos arasında bir Kiklad adası.",
+       "en": "On the map (marble): **Thasos**: a northern Aegean island opposite Kavala; **Drama**: a town in East Macedonia, inland north of Kavala; **Kozani**: a town in Western Macedonia; **Tinos**: a Cycladic island between Andros and Mykonos.",
+       "q": [
+        "geo-66"
+       ]
+      },
+      {
+       "el": "Στον χάρτη (εσπεριδοειδή): **Αργολίδα**: βορειοανατολική Πελοπόννησος (Ναύπλιο, Άργος)· **Λακωνία**: νοτιοανατολική Πελοπόννησος (Σπάρτη)· **Αιτωλοακαρνανία**: Δυτική Ελλάδα, βόρεια του Πατραϊκού κόλπου (Μεσολόγγι, Αγρίνιο)· **Άρτα**: νότια Ήπειρος, βόρεια του Αμβρακικού κόλπου.",
+       "tr": "Haritada (turunçgiller): **Argolida**: kuzeydoğu Mora (Nafplio, Argos); **Lakonya**: güneydoğu Mora (Sparta); **Etolya-Akarnanya**: Batı Yunanistan, Patra Körfezi'nin kuzeyi (Mesolongi, Agrinio); **Arta**: güney Epir, Amvrakikos Körfezi'nin kuzeyi.",
+       "en": "On the map (citrus): **Argolis**: north-eastern Peloponnese (Nafplio, Argos); **Laconia**: south-eastern Peloponnese (Sparta); **Aetolia-Acarnania**: Western Greece, north of the Gulf of Patras (Mesolongi, Agrinio); **Arta**: southern Epirus, north of the Ambracian Gulf.",
+       "q": [
+        "geo-68"
+       ]
       }
      ]
     }
@@ -12422,6 +14050,20 @@
     "tr": "Haritada sorulan büyük köprüler ve limanlı şehirler.",
     "en": "The major bridges and port cities asked on the map."
    },
+   "cover": {
+    "file": "images/lessons/geo-transport-1.jpg",
+    "w": 800,
+    "h": 532,
+    "caption": {
+     "el": "Γέφυρα Ρίου-Αντιρρίου — ενώνει την Πελοπόννησο με τη Δυτική Ελλάδα",
+     "tr": "Rio-Antirio Köprüsü — Mora'yı Batı Yunanistan'a bağlar",
+     "en": "Rio-Antirrio Bridge — links the Peloponnese with Western Greece"
+    },
+    "author": "Bekuletz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rio%E2%80%93Antirrio_Bridge_seen_from_the_road_below_Klokova_mountain_-_DSC09548.jpg"
+   },
    "blocks": [
     {
      "type": "list",
@@ -12445,6 +14087,25 @@
        "el": "**Γέφυρα Ευρίπου Χαλκίδας** — ενώνει το νησί της Εύβοιας με την ηπειρωτική χώρα· **ο πορθμός του Ευρίπου βρίσκεται στη Χαλκίδα**.",
        "tr": "**Evripos Köprüsü (Halkida)** — Eğriboz adasını anakaraya bağlar; **Evripos Boğazı Halkida'dadır**.",
        "en": "**Euripus Bridge (Chalkida)** — links the island of Euboea to the mainland; **the Euripus Strait is at Chalkida**."
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-transport-2.jpg",
+       "w": 800,
+       "h": 762,
+       "caption": {
+        "el": "Ο πορθμός του Ευρίπου στη Χαλκίδα (γκραβούρα 1882) — η γέφυρα ενώνει την Εύβοια με τη στεριά",
+        "tr": "Halkida'daki Evripos Boğazı (1882 gravürü) — köprü Eğriboz'u anakaraya bağlar",
+        "en": "The Euripus Strait at Chalkida (1882 engraving) — the bridge links Euboea to the mainland"
+       },
+       "author": "Christopher Wordsworth",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Bridge_of_the_Euripus,_from_the_North_-_Wordsworth_Christopher_-_1882.jpg"
       }
      ]
     },
@@ -12511,6 +14172,67 @@
        "el": "**Ηράκλειο** — η μεγαλύτερη πόλη και το μεγαλύτερο λιμάνι της Κρήτης.",
        "tr": "**Iraklio** — Girit'in en büyük şehri ve limanı.",
        "en": "**Heraklion** — Crete's largest city and port."
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/geo-transport-3.jpg",
+       "w": 800,
+       "h": 532,
+       "caption": {
+        "el": "Λιμάνι της Πάτρας — το κύριο λιμάνι της Πελοποννήσου",
+        "tr": "Patra limanı — Mora'nın büyük limanı",
+        "en": "Port of Patras — the Peloponnese's main port"
+       },
+       "author": "Michael Paraskevas",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Port_of_Patras_-_panoramio.jpg"
+      },
+      {
+       "file": "images/lessons/geo-transport-4.jpg",
+       "w": 800,
+       "h": 532,
+       "caption": {
+        "el": "Λιμάνι της Ηγουμενίτσας — το λιμάνι της Ηπείρου (Κέρκυρα, Ιταλία)",
+        "tr": "Igumenitsa limanı — Epir'in limanı (Korfu, İtalya)",
+        "en": "Port of Igoumenitsa — the port of Epirus (Corfu, Italy)"
+       },
+       "author": "Michael Paraskevas",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Port_of_Igoumenitsa_-_panoramio.jpg"
+      },
+      {
+       "file": "images/lessons/geo-transport-5.jpg",
+       "w": 800,
+       "h": 518,
+       "caption": {
+        "el": "Λιμάνι της Ραφήνας — ανατολική Αττική (Κυκλάδες, Εύβοια)",
+        "tr": "Rafina limanı — Doğu Atika (Kiklad Adaları, Eğriboz)",
+        "en": "Port of Rafina — eastern Attica (Cyclades, Euboea)"
+       },
+       "author": "Hansueli Krapf",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Rafina_Harbour_20.02.2009_12-20-04.JPG"
+      },
+      {
+       "file": "images/lessons/geo-transport-6.jpg",
+       "w": 800,
+       "h": 400,
+       "caption": {
+        "el": "Λιμάνι του Ηρακλείου (Κούλες) — η μεγαλύτερη πόλη και λιμάνι της Κρήτης",
+        "tr": "Iraklio limanı (Kules) — Girit'in en büyük şehri ve limanı",
+        "en": "Port of Heraklion (Koules) — Crete's largest city and port"
+       },
+       "author": "JopkeB",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Koules_Fortress_and_port_of_Heraklion_2009.jpg"
       }
      ]
     },
@@ -12620,6 +14342,35 @@
        "el": "Ηράκλειο",
        "tr": "Iraklio",
        "en": "Heraklion"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Η Περιφερειακή Ενότητα **Ροδόπης** έχει πρωτεύουσα την **Κομοτηνή**.",
+       "tr": "**Rodopi** Bölgesel Biriminin başkenti **Gümülcine**'dir.",
+       "en": "The capital of the Regional Unit of **Rhodope** is **Komotini**.",
+       "q": [
+        "geo-29"
+       ]
+      },
+      {
+       "el": "Η Περιφερειακή Ενότητα **Βοιωτίας** έχει πρωτεύουσα τη **Λιβαδειά** — **όχι** τη Θήβα.",
+       "tr": "**Beotya** Bölgesel Biriminin başkenti **Livadia**'dır — Thiva **değil**.",
+       "en": "The capital of the Regional Unit of **Boeotia** is **Livadeia** — **not** Thebes.",
+       "q": [
+        "geo-29"
+       ]
+      },
+      {
+       "el": "Το κλίμα της Ελλάδας είναι **εύκρατο μεσογειακό**.",
+       "tr": "Yunanistan'ın iklimi **ılıman Akdeniz iklimidir**.",
+       "en": "Greece's climate is **temperate Mediterranean**.",
+       "q": [
+        "geo-29"
+       ]
       }
      ]
     }

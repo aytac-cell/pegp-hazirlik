@@ -98,7 +98,7 @@ p { margin: 0 0 .75rem; }
 .icon-btn:hover { background: var(--surface-2); }
 
 .tabbar { display: none; }
-@media (max-width: 720px) {
+@media (max-width: 960px) {
   .nav { display: none; }
   .top-actions { margin-left: auto; }
   .tabbar {
@@ -371,7 +371,7 @@ input[type="number"] { min-height: 42px; width: 110px; padding: .4rem .6rem; bor
   background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: 0 8px 30px rgba(0,0,0,.18);
   padding: .45rem .6rem; max-width: calc(100% - 24px);
 }
-@media (max-width: 720px) { .reader-bar { bottom: calc(68px + env(safe-area-inset-bottom)); } }
+@media (max-width: 960px) { .reader-bar { bottom: calc(68px + env(safe-area-inset-bottom)); } }
 .reader-bar button { min-width: 42px; height: 42px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); cursor: pointer; font-size: 1.05rem; }
 .reader-bar button.main { background: var(--primary); color: var(--primary-ink); border-color: transparent; min-width: 52px; }
 .reader-bar select { height: 42px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); color: var(--text); padding: 0 .4rem; }
@@ -424,6 +424,44 @@ input[type="number"] { min-height: 42px; width: 110px; padding: .4rem .6rem; bor
 .road-item.next .road-n { background: var(--warn); color: #fff; }
 .road-t { flex: 1; }
 .road-extra { margin-top: .6rem; font-size: .88rem; display: flex; gap: .35rem; flex-wrap: wrap; align-items: center; }
+
+/* ---------- lesson pictures ---------- */
+.l-fig { margin: 0; }
+.l-zoom { display: block; width: 100%; padding: 0; border: 0; background: var(--surface-2); border-radius: 12px; overflow: hidden; cursor: zoom-in; }
+.l-zoom img { display: block; width: 100%; height: 100%; object-fit: cover; transition: transform .25s; }
+.l-zoom:hover img { transform: scale(1.03); }
+.l-fig figcaption { margin-top: .35rem; line-height: 1.35; }
+.l-cap { display: block; font-weight: 600; font-size: .9rem; }
+.l-fig .img-credit { display: block; font-size: .68rem; color: var(--muted); margin-top: .1rem; }
+.l-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: .9rem .7rem; }
+.l-gallery .l-zoom { aspect-ratio: 4 / 5; }
+.l-gallery.two { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.l-gallery.two .l-zoom { aspect-ratio: 4 / 3; }
+.l-gallery.one { grid-template-columns: minmax(0, 560px); }
+.l-gallery.one .l-zoom { aspect-ratio: auto; }
+.l-gallery.one .l-zoom img { height: auto; max-height: 420px; object-fit: contain; }
+.l-cover { margin: .9rem -1.2rem 0; }
+.l-cover .l-zoom { border-radius: 0; aspect-ratio: 16 / 7; }
+.l-cover figcaption { padding: 0 1.2rem; }
+.toc-thumb { width: 52px; height: 52px; border-radius: 10px; object-fit: cover; }
+.toc a { grid-template-columns: 52px 1fr auto; }
+.road-thumb { width: 44px; height: 44px; border-radius: 8px; object-fit: cover; flex: none; }
+.road-cover { display: block; width: calc(100% + 2.4rem); margin: -1.1rem -1.2rem .9rem; height: 160px; object-fit: cover; border-radius: var(--radius) var(--radius) 0 0; }
+.lightbox { position: fixed; inset: 0; z-index: 100; background: rgba(0,0,0,.88); display: grid; place-items: center; padding: 1rem; }
+.lightbox figure { margin: 0; max-width: min(1000px, 100%); text-align: center; color: #fff; }
+.lightbox img { max-width: 100%; max-height: 80vh; border-radius: 8px; }
+.lightbox figcaption { margin-top: .6rem; font-size: .95rem; }
+.lightbox button { position: absolute; background: rgba(255,255,255,.15); color: #fff; border: 0; border-radius: 999px; width: 48px; height: 48px; font-size: 1.6rem; cursor: pointer; }
+.lb-x { top: 1rem; right: 1rem; font-size: 1.2rem !important; }
+.lb-prev { left: 1rem; top: 50%; } .lb-next { right: 1rem; top: 50%; }
+@media (max-width: 560px) { .l-gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); } .l-cover .l-zoom { aspect-ratio: 16 / 9; } }
+
+/* ---------- exam facts ---------- */
+.exam-facts { border: 2px solid var(--warn); background: var(--warn-soft); border-radius: 12px; padding: .75rem .95rem; }
+.exam-facts h3 { color: var(--warn); margin-bottom: .2rem; }
+.exam-facts ul { margin: .4rem 0 0; padding-left: 1.2rem; }
+.exam-facts li + li { margin-top: .45rem; }
+.exam-ref { text-decoration: none; font-size: .7rem; vertical-align: middle; margin-left: .2rem; }
 
 /* ---------- lessons ---------- */
 .lesson { max-width: 760px; margin: 0 auto; }

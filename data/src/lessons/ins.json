@@ -19,6 +19,20 @@
     "tr": "Anayasanın ilkeleri, kuvvetler ayrılığı, hukuk normları hiyerarşisi ve devletin organları.",
     "en": "The Constitution's principles, the separation of powers, the hierarchy of legal norms and the organs of the State."
    },
+   "cover": {
+    "file": "images/lessons/ins-constitution-1.jpg",
+    "w": 800,
+    "h": 533,
+    "caption": {
+     "el": "Η σημαία της Ελλάδας — Προεδρευόμενη Κοινοβουλευτική Δημοκρατία",
+     "tr": "Yunanistan bayrağı — Parlamenter Cumhuriyet",
+     "en": "The flag of Greece — a parliamentary republic"
+    },
+    "author": "Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Greece.svg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -27,6 +41,25 @@
       "tr": "Yunanistan bir **parlamenter cumhuriyettir** (Προεδρευόμενη Κοινοβουλευτική Δημοκρατία). Devletin temel kuralları **Anayasa**'da (Σύνταγμα) yazılıdır. Anayasa, ülkedeki **tüm ulusal hukuk işlemlerinden üstündür**.",
       "en": "Greece is a **parliamentary republic** (Προεδρευόμενη Κοινοβουλευτική Δημοκρατία). The State's basic rules are written in the **Constitution** (Σύνταγμα), which **prevails over all national legal acts**."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-constitution-2.jpg",
+       "w": 800,
+       "h": 813,
+       "caption": {
+        "el": "Το εθνόσημο της Ελληνικής Δημοκρατίας (από το 1975)",
+        "tr": "Yunan Cumhuriyeti'nin devlet arması (1975'ten beri)",
+        "en": "The coat of arms of the Hellenic Republic (since 1975)"
+       },
+       "author": "Tonyjeff; derivative work: Philly boy92",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Greece.svg"
+      }
+     ]
     },
     {
      "type": "table",
@@ -147,6 +180,53 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-constitution-3.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Βουλή — νομοθετική εξουσία (μαζί με τον Πρόεδρο της Δημοκρατίας)",
+        "tr": "Parlamento (Vouli) — yasama yetkisi (Cumhurbaşkanı ile birlikte)",
+        "en": "Parliament — legislative power (together with the President)"
+       },
+       "author": "Юкатан",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Vouli_building.jpg"
+      },
+      {
+       "file": "images/lessons/ins-constitution-4.jpg",
+       "w": 800,
+       "h": 450,
+       "caption": {
+        "el": "Μέγαρο Μαξίμου — εκτελεστική εξουσία: η Κυβέρνηση (μαζί με τον Πρόεδρο)",
+        "tr": "Maximos Konağı — yürütme yetkisi: Hükümet (Cumhurbaşkanı ile birlikte)",
+        "en": "Maximos Mansion — executive power: the Government (with the President)"
+       },
+       "author": "Rakoon",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:20170808_124856_%CE%9C%CE%AD%CE%B3%CE%B1%CF%81%CE%BF_%CE%9C%CE%B1%CE%BE%CE%AF%CE%BC%CE%BF%CF%85_Athens.jpg"
+      },
+      {
+       "file": "images/lessons/ins-constitution-5.jpg",
+       "w": 800,
+       "h": 612,
+       "caption": {
+        "el": "Δικαστικό Μέγαρο Βόλου — δικαστική εξουσία: τα δικαστήρια",
+        "tr": "Volos Adliyesi — yargı yetkisi: mahkemeler",
+        "en": "Volos courthouse — judicial power: the courts"
+       },
+       "author": "C messier",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:%CE%94%CE%B9%CE%BA%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8C_%CE%9C%CE%AD%CE%B3%CE%B1%CF%81%CE%BF_%CE%92%CF%8C%CE%BB%CE%BF%CF%85_3678.jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "**Ιεραρχία των κανόνων δικαίου** (από πάνω προς τα κάτω): 1) το **Σύνταγμα** — στο ίδιο τυπικό επίπεδο κατατάσσονται και **οι ιδρυτικές συνθήκες της Ευρωπαϊκής Ένωσης**· 2) οι διεθνείς νομικές πράξεις που έχουν αναγνωριστεί από το ελληνικό κράτος· 3) ο **νόμος**· 4) το **Προεδρικό Διάταγμα**· 5) οι διοικητικές πράξεις.",
@@ -169,6 +249,25 @@
       "tr": "Vatandaşların demokratik süreçlere **doğrudan katılımının** biçimi **seçimlerdir**. Parlamento denetimi milletvekillerinin işidir; kamuoyu yoklaması ve kamuoyu danışması (διαβούλευση) doğrudan katılım değildir. Anayasa'ya göre Yunanistan'da **hâkim din**, **Doğu Ortodoks Mesih Kilisesi'nin dinidir** (madde 3).",
       "en": "The form of **direct participation** of citizens in democratic processes is **elections**. Parliamentary scrutiny is the job of MPs; opinion polls and public consultation (διαβούλευση) are not direct participation. According to the Constitution (Art. 3), the **prevailing religion** in Greece is that of the **Eastern Orthodox Church of Christ**."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-constitution-6.jpg",
+       "w": 800,
+       "h": 689,
+       "caption": {
+        "el": "Κάλπη εκλογών 2023 — οι εκλογές είναι η άμεση συμμετοχή των πολιτών",
+        "tr": "2023 seçim sandığı — seçimler vatandaşların doğrudan katılımıdır",
+        "en": "Ballot box, 2023 elections — elections are citizens' direct participation"
+       },
+       "author": "FocalPoint",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Greek_elections_21_May_2023_ballot_box_c.jpg"
+      }
+     ]
     },
     {
      "type": "tip",
@@ -958,6 +1057,20 @@
     "tr": "Cumhurbaşkanının seçilme şartları, görevleri ve kimlerin halk tarafından doğrudan seçilmediği.",
     "en": "Who can become President, the President's role, and which office-holders are not directly elected."
    },
+   "cover": {
+    "file": "images/lessons/ins-president-1.jpg",
+    "w": 800,
+    "h": 600,
+    "caption": {
+     "el": "Προεδρικό Μέγαρο, Αθήνα — έδρα του Προέδρου της Δημοκρατίας",
+     "tr": "Cumhurbaşkanlığı Konağı, Atina — Cumhurbaşkanının makamı",
+     "en": "Presidential Mansion, Athens — seat of the President of the Republic"
+    },
+    "author": "Άργος",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Presidential_Mansion_in_Athens.jpg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -966,6 +1079,39 @@
       "tr": "**Cumhurbaşkanı** (Πρόεδρος της Δημοκρατίας) devletin başıdır ve ülkeyi temsil eder. Halk tarafından değil, **Parlamento (Vouli) tarafından seçilir**; görev süresi 5 yıldır. Yasama işlevini Parlamento ile, yürütme işlevini Hükümet ile birlikte kullanır.",
       "en": "The **President of the Republic** (Πρόεδρος της Δημοκρατίας) is the head of State and represents the country. He or she is elected **by Parliament, not by the people**; the term is 5 years. The President shares the legislative function with Parliament and the executive function with the Government."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-president-2.jpg",
+       "w": 800,
+       "h": 1232,
+       "caption": {
+        "el": "Εύζωνας της Προεδρικής Φρουράς στο Προεδρικό Μέγαρο",
+        "tr": "Cumhurbaşkanlığı Muhafızı (Evzon) Cumhurbaşkanlığı Konağı'nda",
+        "en": "An Evzone of the Presidential Guard at the Presidential Mansion"
+       },
+       "author": "Sharon Mollerus",
+       "license": "CC BY 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Guard_at_the_Presidential_Palace_(3354695949).jpg"
+      },
+      {
+       "file": "images/lessons/ins-president-3.jpg",
+       "w": 800,
+       "h": 532,
+       "caption": {
+        "el": "Αίθουσα Ολομέλειας — ο Πρόεδρος εκλέγεται από τη Βουλή, για 5 χρόνια",
+        "tr": "Genel Kurul salonu — Cumhurbaşkanı 5 yıllığına Parlamento tarafından seçilir",
+        "en": "Plenary hall — the President is elected by Parliament, for 5 years"
+       },
+       "author": "Jebulon",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Vouli,_inside_hellenic_Parliament,_Athens,_Greece.jpg"
+      }
+     ]
     },
     {
      "type": "list",
@@ -1777,6 +1923,20 @@
     "tr": "Milletvekillerinin rolü, Parlamento Başkanı, seçme hakkı, seçim sistemi ve %3 barajı.",
     "en": "The role of MPs, the Speaker, the right to vote, the electoral system and the 3% threshold."
    },
+   "cover": {
+    "file": "images/lessons/ins-parliament-elections-1.jpg",
+    "w": 800,
+    "h": 532,
+    "caption": {
+     "el": "Βουλή των Ελλήνων, πλατεία Συντάγματος — 300 βουλευτές",
+     "tr": "Yunan Parlamentosu (Vouli), Sintagma Meydanı — 300 milletvekili",
+     "en": "Hellenic Parliament, Syntagma Square — 300 MPs"
+    },
+    "author": "Jorge Láscar from Australia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lascar_Hellenic_Parliament_Building_and_Tomb_of_the_Unknown_Soldier_(4517147363).jpg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -1785,6 +1945,39 @@
       "tr": "**Yunan Parlamentosu (Vouli)** 300 milletvekilinden oluşur. Milletvekillerinin temel rolü kendilerine oy verenleri değil, **halkın bütününü temsil etmektir**. **Genel Kurul**'a (Ολομέλεια) katılma hakkı **milletvekillerine** aittir.",
       "en": "The **Hellenic Parliament (Vouli)** has 300 MPs. Their main role is to **represent the people as a whole**, not just those who voted for them. The right to take part in the **Plenary** (Ολομέλεια) belongs to the **Members of Parliament**."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-parliament-elections-2.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Η Ολομέλεια της Βουλής — συμμετέχουν οι βουλευτές",
+        "tr": "Parlamento Genel Kurulu — milletvekilleri katılır",
+        "en": "The Plenary of Parliament — the MPs take part"
+       },
+       "author": "Office of the Prime Minister of Greece (Lucas Papademos)",
+       "license": "CC BY-SA 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Greek_Parliament_-_Plenary_Hall_-_16_November_2011.jpg"
+      },
+      {
+       "file": "images/lessons/ins-parliament-elections-3.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Ορκωμοσία βουλευτών (2009) — εκπροσωπούν όλο τον λαό",
+        "tr": "Milletvekillerinin yemin töreni (2009) — tüm halkı temsil ederler",
+        "en": "MPs' swearing-in (2009) — they represent the people as a whole"
+       },
+       "author": "ΠΑΣΟΚ",
+       "license": "CC BY-SA 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Greek_Parliament_swearing-in_ceremony_2009Oct14.jpg"
+      }
+     ]
     },
     {
      "type": "list",
@@ -1821,6 +2014,39 @@
       "tr": "**Genel (ulusal) seçimler en geç dört yılda bir** yapılır (erken seçim olabilir; tam dört yıl sonra olmak zorunda değildir). **Seçme hakkı**: Yunan vatandaşlığına sahip, **17 yaşını doldurmuş**, fiil ehliyetine sahip ve kesinleşmiş ceza mahkûmiyeti olmayanlar. Yunanistan'da yaşayan yabancılar veya AB vatandaşları milletvekili seçiminde oy kullanamaz.",
       "en": "**National elections are held every four years at the latest** (early elections are possible; it is not exactly four years). **Right to vote**: those with Greek citizenship, who have **completed their 17th year**, have legal capacity and have no irrevocable criminal conviction. Foreign residents or EU citizens living in Greece cannot vote in parliamentary elections."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-parliament-elections-4.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Εκλογικό τμήμα (2019) — ψηφίζουν όσοι έχουν συμπληρώσει το 17ο έτος",
+        "tr": "Oy verme yeri (2019) — 17 yaşını tamamlamış olanlar oy kullanır",
+        "en": "Polling station (2019) — those who have completed their 17th year vote"
+       },
+       "author": "FocalPoint",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Greek_legislative_elections_20190707.jpg"
+      },
+      {
+       "file": "images/lessons/ins-parliament-elections-5.jpg",
+       "w": 800,
+       "h": 450,
+       "caption": {
+        "el": "Ψηφοδέλτια, εκλογές 2023 — εθνικές εκλογές το αργότερο κάθε 4 χρόνια",
+        "tr": "Oy pusulaları, 2023 seçimleri — genel seçimler en geç 4 yılda bir",
+        "en": "Ballot papers, 2023 elections — national elections every 4 years at the latest"
+       },
+       "author": "NikosLikomitros",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:June_2023_Greek_election_-_ballots.jpg"
+      }
+     ]
     },
     {
      "type": "p",
@@ -2600,6 +2826,20 @@
     "tr": "Güvenoyu (dedilomeni), Başbakan Saati, soru ve gensorular, kabine değişikliği ve geçici hükümet.",
     "en": "Confidence (dedilomeni), Prime Minister's Hour, questions and interpellations, reshuffles and caretaker governments."
    },
+   "cover": {
+    "file": "images/lessons/ins-government-1.jpg",
+    "w": 800,
+    "h": 628,
+    "caption": {
+     "el": "Μέγαρο Μαξίμου — το γραφείο του Πρωθυπουργού",
+     "tr": "Maximos Konağı — Başbakanlık ofisi",
+     "en": "Maximos Mansion — the Prime Minister's office"
+    },
+    "author": "PicturePrince",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maximos_Mansion_2024_01.jpg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -2610,6 +2850,25 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-government-2.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Υπουργικό Συμβούλιο (2009) — Πρωθυπουργός, υπουργοί και υφυπουργοί",
+        "tr": "Bakanlar Kurulu (2009) — Başbakan, bakanlar ve bakan yardımcıları",
+        "en": "Cabinet meeting (2009) — the PM, ministers and deputy ministers"
+       },
+       "author": "ΠΑΣΟΚ",
+       "license": "CC BY-SA 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Papandreou_Cabinet_1st_meeting_2009October7.jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "**Αρχή της δεδηλωμένης** (Σύνταγμα, **άρθρο 84**): η Κυβέρνηση **οφείλει να λάβει ψήφο εμπιστοσύνης** από τη Βουλή, και η Βουλή μπορεί να άρει την εμπιστοσύνη της **ανά πάσα στιγμή με ψήφο δυσπιστίας**. Σωστές λεπτομέρειες: η ψήφος εμπιστοσύνης ζητείται μέσα σε **15 ημέρες** από την ορκωμοσία του Πρωθυπουργού (όχι 20)· η Βουλή μπορεί να αποσύρει την εμπιστοσύνη της **και από μεμονωμένο μέλος** της Κυβέρνησης· οι Υπουργοί που είναι βουλευτές ψηφίζουν κανονικά.",
@@ -2618,12 +2877,50 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-government-3.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Ο Πρωθυπουργός στη Βουλή (2011) — ψήφος εμπιστοσύνης, άρθρο 84",
+        "tr": "Başbakan Parlamentoda (2011) — güven oylaması, Madde 84",
+        "en": "The PM in Parliament (2011) — vote of confidence, Article 84"
+       },
+       "author": "Office of the Prime Minister of Greece (Lucas Papademos)",
+       "license": "CC BY-SA 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Lucas_Papademos_-_Plenary_Hall,_Parliament_16_November_2011_(1).jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "Ο **κοινοβουλευτικός έλεγχος** ασκείται κυρίως με **ερωτήσεις**, **επίκαιρες επερωτήσεις** και **επερωτήσεις**. Η Βουλή μπορεί να αποσύρει την εμπιστοσύνη της από την Κυβέρνηση ή από μέλος της ύστερα από **πρόταση δυσπιστίας**. Παράδειγμα: **η κατάθεση ερώτησης από βουλευτή ή βουλευτές προς την κυβέρνηση**. Η έκδοση ΚΥΑ (Κοινής Υπουργικής Απόφασης), η ψήφιση τροπολογίας σε νόμο ή η αποχώρηση από τη Βουλή δεν είναι κοινοβουλευτικός έλεγχος.",
       "tr": "**Parlamento denetimi** (κοινοβουλευτικός έλεγχος) esas olarak **sorular** (ερωτήσεις), **güncel gensorular** (επίκαιρες επερωτήσεις) ve **gensorular** (επερωτήσεις) ile yapılır. Parlamento, bir **güvensizlik önergesi** (πρόταση δυσπιστίας) sonrası Hükümetten veya bir üyesinden güvenini çekebilir. Örnek: **milletvekillerinin hükümete soru önergesi vermesi**. Ortak Bakanlar Kararı (ΚΥΑ) çıkarmak, kanuna değişiklik önergesi kabul etmek veya salonu terk etmek parlamento denetimi değildir.",
       "en": "**Parliamentary scrutiny** (κοινοβουλευτικός έλεγχος) is exercised mainly through **questions** (ερωτήσεις), **topical interpellations** (επίκαιρες επερωτήσεις) and **interpellations** (επερωτήσεις). Parliament may withdraw its confidence from the Government or a member after a **motion of censure** (πρόταση δυσπιστίας). Example: **MPs tabling a question to the government**. Issuing a Joint Ministerial Decision (ΚΥΑ), passing an amendment or walking out is not scrutiny."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-government-4.jpg",
+       "w": 800,
+       "h": 562,
+       "caption": {
+        "el": "Υπουργός απαντά σε επίκαιρη ερώτηση — κοινοβουλευτικός έλεγχος",
+        "tr": "Bakan güncel bir soruyu yanıtlıyor — parlamento denetimi",
+        "en": "A minister answers a topical question — parliamentary scrutiny"
+       },
+       "author": "Υπουργείο Εξωτερικών (P. Stolis)",
+       "license": "CC BY-SA 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:%CE%91%CF%80%CE%AC%CE%BD%CF%84%CE%B7%CF%83%CE%B7_%CE%A5%CE%A0%CE%95%CE%9E_%CE%94._%CE%91%CE%B2%CF%81%CE%B1%CE%BC%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%85_%CF%83%CE%B5_%CE%B5%CF%80%CE%AF%CE%BA%CE%B1%CE%B9%CF%81%CE%B7_%CE%B5%CF%81%CF%8E%CF%84%CE%B7%CF%83%CE%B7_%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CE%AE_%CF%84%CE%BF%CF%85_%CE%A0%CE%91%CE%A3%CE%9F%CE%9A_%CE%91._%CE%9B%CE%BF%CE%B2%CE%AD%CF%81%CE%B4%CE%BF%CF%85_(7698133738).jpg"
+      }
+     ]
     },
     {
      "type": "p",
@@ -3461,6 +3758,20 @@
     "tr": "Üç yüksek mahkeme, mahkeme türleri ve Sayıştay'ın görevi.",
     "en": "The three supreme courts, the types of courts and the role of the Court of Audit."
    },
+   "cover": {
+    "file": "images/lessons/ins-justice-1.jpg",
+    "w": 800,
+    "h": 600,
+    "caption": {
+     "el": "Συμβούλιο της Επικρατείας (Μέγαρο Αρσακείου) — διοικητικές υποθέσεις",
+     "tr": "Danıştay (Arsakeio binası) — idari davalar",
+     "en": "Council of State (Arsakeio building) — administrative cases"
+    },
+    "author": "Yannismarou",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Council_of_State_(Greece).JPG"
+   },
    "blocks": [
     {
      "type": "p",
@@ -3521,6 +3832,25 @@
         "en": "**Audits public contracts and expenditure**"
        }
       ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-justice-2.jpg",
+       "w": 800,
+       "h": 520,
+       "caption": {
+        "el": "Άρειος Πάγος — ανώτατο δικαστήριο για αστικές και ποινικές υποθέσεις",
+        "tr": "Areios Pagos — hukuk ve ceza davaları için yüksek mahkeme",
+        "en": "Areios Pagos — supreme court for civil and criminal cases"
+       },
+       "author": "TakisA1",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Logo_of_the_Supreme_Civil_and_Criminal_Court_of_Greece.svg"
+      }
      ]
     },
     {
@@ -3586,6 +3916,25 @@
         "en": "Air Force Court (Αεροδικείο)"
        }
       ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-justice-3.jpg",
+       "w": 800,
+       "h": 450,
+       "caption": {
+        "el": "Ειρηνοδικείο Άργους — πολιτικό δικαστήριο για μικρές διαφορές",
+        "tr": "Argos Sulh Mahkemesi — küçük uyuşmazlıklar için hukuk mahkemesi",
+        "en": "Magistrate's Court of Argos — civil court for small disputes"
+       },
+       "author": "NikosLikomitros",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Argos_magistrates_court.jpg"
+      }
      ]
     },
     {
@@ -4271,6 +4620,20 @@
     "el": "Ο Συνήγορος του Πολίτη, ο Συνήγορος του Καταναλωτή, η Επιτροπή Ανταγωνισμού, η Ρυθμιστική Αρχή Ενέργειας και άλλοι φορείς.",
     "tr": "Yurttaş Ombudsmanı, Tüketici Ombudsmanı, Rekabet Kurulu, Enerji Düzenleme Kurumu ve benzerleri.",
     "en": "The Greek Ombudsman, the Consumer Ombudsman, the Competition Commission, the Energy Regulator and others."
+   },
+   "cover": {
+    "file": "images/lessons/ins-independent-authorities-1.jpg",
+    "w": 800,
+    "h": 532,
+    "caption": {
+     "el": "Καλλιόπη Σπανού, Συνήγορος του Πολίτη (2010–2016) — διαμεσολαβητής πολιτών και διοίκησης",
+     "tr": "Kalliopi Spanou, Yurttaş Ombudsmanı (2010–2016) — vatandaş ile idare arasında arabulucu",
+     "en": "Calliope Spanou, Greek Ombudsman (2010–2016) — mediator between citizens and the administration"
+    },
+    "author": "Stephan Röhl / Heinrich-Böll-Stiftung",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kalliopi_Spanou_(6796111183).jpg"
    },
    "blocks": [
     {
@@ -5018,6 +5381,20 @@
     "tr": "Anayasa madde 102, belediyeler ve bölgeler, kamu yararına hizmet işletmeleri ve Aynaroz'un özel statüsü.",
     "en": "Article 102, municipalities and regions, public utility enterprises and the special status of Mount Athos."
    },
+   "cover": {
+    "file": "images/lessons/ins-local-government-1.jpg",
+    "w": 800,
+    "h": 598,
+    "caption": {
+     "el": "Μονή Σίμωνος Πέτρας, Άγιο Όρος — αυτοδιοίκητο τμήμα του ελληνικού κράτους",
+     "tr": "Simonopetra Manastırı, Aynaroz — Yunan devletinin özerk bir parçası",
+     "en": "Simonopetra Monastery, Mount Athos — a self-governing part of the Greek State"
+    },
+    "author": "Thodoris Lakiotis (uploaded by Michalis Famelis)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Simonopetra_Aug2006.jpg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -5084,6 +5461,25 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-local-government-2.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Δημαρχείο Αθηνών — Δήμος (1ος βαθμός), επικεφαλής ο Δήμαρχος",
+        "tr": "Atina Belediye Binası — Belediye (1. kademe), başında Belediye Başkanı",
+        "en": "Athens City Hall — Municipality (first tier), headed by the Mayor"
+       },
+       "author": "athenswalk",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Athen_city_hall..jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "Οι **Επιχειρήσεις Κοινής Ωφέλειας** παρέχουν βασικές υπηρεσίες στο κοινό: π.χ. η **Εταιρεία Ύδρευσης Αποχέτευσης Θεσσαλονίκης (Ε.Υ.Α.Θ.)**, η **Δημοτική Επιχείρηση Ανάπτυξης Δήμου Ζωγράφου**, τα **Ελληνικά Ταχυδρομεία (ΕΛΤΑ)**. Η **Ελληνική Βιομηχανία Αλουμινίου** όμως **δεν ανήκει** σε αυτές (είναι ιδιωτική βιομηχανική εταιρεία).",
@@ -5098,6 +5494,25 @@
       "tr": "**Aynaroz** (Άγιο Όρος), Yunan devletinin **özerk (kendi kendini yöneten) bir parçasıdır**. Orada manastır hayatı yaşayan herkes **rahip adayı (δόκιμος) veya keşiş olarak kabul edildiği anda Yunan vatandaşlığını kazanır**. **Kamu düzeni ve güvenliği Yunan devletine** aittir. Aynaroz ülkenin **kuzeyinde**, Halkidiki'dedir (güneyde değil).",
       "en": "**Mount Athos** (Άγιο Όρος) is a **self-governing part of the Greek State**. Everyone living there as a monk **acquires Greek citizenship as soon as admitted as a novice (δόκιμος) or monk**. **Public order and security rest with the Greek State**. Athos lies in the **north** of the country, in Chalkidiki (not in the south)."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-local-government-3.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Μονή Κουτλουμουσίου, Άγιο Όρος (Χαλκιδική, βόρεια Ελλάδα) — οι μοναχοί αποκτούν ελληνική ιθαγένεια",
+        "tr": "Kutlumuş Manastırı, Aynaroz (Halkidiki, kuzey Yunanistan) — keşişler Yunan vatandaşlığı kazanır",
+        "en": "Koutloumousiou Monastery, Mount Athos (Chalkidiki, northern Greece) — monks acquire Greek citizenship"
+       },
+       "author": "adriatikus",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Koutloumousiou_Monastery,_Mount_Athos,_2007.jpg"
+      }
+     ]
     },
     {
      "type": "map",
@@ -5775,6 +6190,20 @@
     "tr": "Vatandaşlığın kazanılması ve kaybı, vatandaşlığa alınma şartları ve askerlik yükümlülüğü.",
     "en": "Acquiring and losing citizenship, naturalisation requirements and military service."
    },
+   "cover": {
+    "file": "images/lessons/ins-citizenship-1.jpg",
+    "w": 800,
+    "h": 533,
+    "caption": {
+     "el": "Ελληνικές σημαίες — η ιθαγένεια συνδέει τον πολίτη με το κράτος",
+     "tr": "Yunan bayrakları — vatandaşlık kişiyi devlete bağlar",
+     "en": "Greek flags — citizenship links the citizen to the State"
+    },
+    "author": "Andreas Liasis",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Greek_flags.jpg"
+   },
    "blocks": [
     {
      "type": "table",
@@ -5883,6 +6312,25 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-citizenship-2.jpg",
+       "w": 800,
+       "h": 1086,
+       "caption": {
+        "el": "Ελληνικό διαβατήριο — έγγραφο του Έλληνα πολίτη (και πολίτη της ΕΕ)",
+        "tr": "Yunan pasaportu — Yunan (ve AB) vatandaşının belgesi",
+        "en": "Greek passport — document of a Greek (and EU) citizen"
+       },
+       "author": "Friday divine",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Greek_Passport.svg"
+      }
+     ]
+    },
+    {
      "type": "list",
      "items": [
       {
@@ -5917,6 +6365,25 @@
       "tr": "**Askerlik**: Anayasaya göre **silah taşıyabilecek her Yunan, kanunlara uygun olarak Vatanın savunmasına katkıda bulunmakla yükümlüdür**. Askerlik **erkekler için** zorunludur (kadınlar için değil). Süre **24 ay değildir** (bugün çok daha kısadır). Dileyen, askerliğin **kalan kısmını bedelle satın alabilir** (εξαγορά).",
       "en": "**Military service**: under the Constitution, **every Greek capable of bearing arms is obliged to contribute to the defence of the Homeland, as provided by law**. Service is compulsory **for men** (not for women). It is **not 24 months** (today it is much shorter). Anyone who wishes may **buy out the remainder** of service (εξαγορά)."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-citizenship-3.jpg",
+       "w": 800,
+       "h": 400,
+       "caption": {
+        "el": "Εύζωνες στο Μνημείο του Άγνωστου Στρατιώτη — η στρατιωτική θητεία είναι υποχρεωτική για τους άνδρες",
+        "tr": "Meçhul Asker Anıtı'nda Evzonlar — askerlik erkekler için zorunludur",
+        "en": "Evzones at the Tomb of the Unknown Soldier — military service is compulsory for men"
+       },
+       "author": "Jebulon",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Two_Evzones_Tomb_Unknown_Soldier_Athens_Greece.jpg"
+      }
+     ]
     },
     {
      "type": "terms",
@@ -6591,6 +7058,20 @@
     "tr": "Basın ve sanat özgürlüğü, din, konut, evlilik eşitliği, aile içi şiddet, idari cezalar ve devletin ücretsiz hizmetleri.",
     "en": "Freedom of the press and art, religion, the home, marriage equality, domestic violence, administrative fines and free State services."
    },
+   "cover": {
+    "file": "images/lessons/ins-rights-1.jpg",
+    "w": 800,
+    "h": 537,
+    "caption": {
+     "el": "Εφημερίδα στο καφενείο (Αθήνα, 1979) — ελευθερία του Τύπου, απαγορεύεται η κατάσχεση",
+     "tr": "Kahvede gazete (Atina, 1979) — basın özgürlüğü, toplatma yasaktır",
+     "en": "Newspaper at a café (Athens, 1979) — freedom of the press, seizure is forbidden"
+    },
+    "author": "Jean-Louis Debaize / European Communities",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Man_reading_a_newspaper_at_a_caf%C3%A9_terrace_in_Athens,_Greece_-_1979.jpg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -6779,6 +7260,25 @@
         "en": "**No**"
        }
       ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-rights-2.jpg",
+       "w": 800,
+       "h": 598,
+       "caption": {
+        "el": "Νοσοκομείο «Ευαγγελισμός», Αθήνα — νοσοκομειακή περίθαλψη για ευπαθείς ομάδες",
+        "tr": "Evangelismos Hastanesi, Atina — hassas gruplar için hastane bakımı",
+        "en": "Evangelismos Hospital, Athens — hospital care for vulnerable groups"
+       },
+       "author": "C messier",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:%CE%9D%CE%BF%CF%83%CE%BF%CE%BA%CE%BF%CE%BC%CE%B5%CE%AF%CE%BF_%CE%95%CF%85%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%B9%CF%83%CE%BC%CF%8C%CF%82_6708.jpg"
+      }
      ]
     },
     {
@@ -7598,6 +8098,20 @@
     "tr": "Eğitim kademeleri, iş sözleşmeleri, vergi, KEP ve gov.gr gibi elektronik hizmetler.",
     "en": "Levels of education, employment contracts, tax, KEP and electronic services such as gov.gr."
    },
+   "cover": {
+    "file": "images/lessons/ins-services-1.jpg",
+    "w": 800,
+    "h": 533,
+    "caption": {
+     "el": "Δημοτικό Σχολείο Λαυρίου — Νηπιαγωγείο, Δημοτικό και Γυμνάσιο είναι υποχρεωτικά",
+     "tr": "Lavrio İlkokulu — Anaokulu, İlkokul ve Ortaokul zorunludur",
+     "en": "Lavrio primary school — Kindergarten, Primary and Lower secondary are compulsory"
+    },
+    "author": "C messier",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%CE%94%CE%B7%CE%BC%CE%BF%CF%84%CE%B9%CE%BA%CF%8C_%CE%A3%CF%87%CE%BF%CE%BB%CE%B5%CE%AF%CE%BF_%CE%9B%CE%B1%CF%85%CF%81%CE%AF%CE%BF%CF%85_1159.jpg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -7670,6 +8184,25 @@
         "en": "Higher/Tertiary (Ανώτατη/Τριτοβάθμια)"
        }
       ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-services-2.jpg",
+       "w": 800,
+       "h": 542,
+       "caption": {
+        "el": "Πανεπιστήμιο Αθηνών — Ανώτατη (Τριτοβάθμια) εκπαίδευση",
+        "tr": "Atina Üniversitesi — Yükseköğretim (üçüncü kademe)",
+        "en": "University of Athens — Higher (tertiary) education"
+       },
+       "author": "Tomisti",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:University_of_Athens_-_Propylaea.jpg"
+      }
      ]
     },
     {
@@ -7868,6 +8401,25 @@
         "en": "**Certifies applicants as Persons with Disabilities**"
        }
       ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-services-3.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "ΚΕΠ (Πεζά, Κρήτη) — διευκολύνει τις συναλλαγές των πολιτών με το Δημόσιο",
+        "tr": "KEP (Peza, Girit) — vatandaşların kamuyla işlemlerini kolaylaştırır",
+        "en": "KEP (Peza, Crete) — makes citizens' dealings with the public sector easier"
+       },
+       "author": "Lemur12",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Peza_Kep.JPG"
+      }
      ]
     },
     {
@@ -8766,6 +9318,20 @@
     "tr": "Partilerin genel merkezleri, Ana Muhalefet ve Metapolitefsi döneminin önemli liderleri.",
     "en": "Party headquarters, the Official Opposition and the key leaders of the post-1974 era."
    },
+   "cover": {
+    "file": "images/lessons/ins-parties-history-1.jpg",
+    "w": 800,
+    "h": 601,
+    "caption": {
+     "el": "1974: ο Κωνσταντίνος Καραμανλής επιστρέφει — αποκατάσταση της δημοκρατίας (Μεταπολίτευση)",
+     "tr": "1974: Konstantinos Karamanlis dönüyor — demokrasinin yeniden tesisi (Metapolitefsi)",
+     "en": "1974: Konstantinos Karamanlis returns — restoration of democracy (Metapolitefsi)"
+    },
+    "author": "Unknown photographer / Anefo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Constantin_Karamanlis_(nieuwe_premier_van_Griekenland)_uit_Parijs_in_Athene_Kar,_Bestanddeelnr_927-3511.jpg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -8841,12 +9407,50 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-parties-history-2.jpg",
+       "w": 800,
+       "h": 444,
+       "caption": {
+        "el": "«Το Μέγαρο Μαξίμου» = ο Πρωθυπουργός",
+        "tr": "«Maximos Konağı» = Başbakan",
+        "en": "'Maximos Mansion' = the Prime Minister"
+       },
+       "author": "PicturePrince",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Maximos_Mansion_2024_03.jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "Παραδείγματα σημερινών κομμάτων: **Νέα Δημοκρατία**, **ΠΑ.ΣΟ.Κ – ΚΙΝ.ΑΛ**, **ΣΥΡΙΖΑ**, **Νέα Αριστερά**. Η **Ομόνοια** όμως **δεν είναι** πολιτικό κόμμα — είναι π.χ. το όνομα μιας γνωστής πλατείας στο κέντρο της Αθήνας. **Αξιωματική Αντιπολίτευση** = το **μεγαλύτερο κόμμα της αντιπολίτευσης** στη Βουλή.",
       "tr": "Bugünkü partilere örnekler: **Νέα Δημοκρατία**, **ΠΑ.ΣΟ.Κ – ΚΙΝ.ΑΛ**, **ΣΥΡΙΖΑ**, **Νέα Αριστερά** (Yeni Sol). **Ομόνοια** (Omonia) bir siyasi parti **değildir** — ör. Atina'nın merkezindeki ünlü bir meydanın adıdır. **Ana Muhalefet** (Αξιωματική Αντιπολίτευση) = Parlamentodaki **en büyük muhalefet partisi**.",
       "en": "Examples of current parties: **Νέα Δημοκρατία**, **ΠΑ.ΣΟ.Κ – ΚΙΝ.ΑΛ**, **ΣΥΡΙΖΑ**, **Νέα Αριστερά** (New Left). **Ομόνοια** (Omonoia) is **not** a political party — e.g. it is the name of a famous central square in Athens. **Official Opposition** (Αξιωματική Αντιπολίτευση) = the **largest opposition party** in Parliament."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-parties-history-3.jpg",
+       "w": 800,
+       "h": 530,
+       "caption": {
+        "el": "Πλατεία Ομονοίας, Αθήνα — η «Ομόνοια» δεν είναι πολιτικό κόμμα",
+        "tr": "Omonia Meydanı, Atina — «Omonia» bir siyasi parti değildir",
+        "en": "Omonoia Square, Athens — 'Omonoia' is not a political party"
+       },
+       "author": "Apaleutos25",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Omonoia_Square_in_the_afternoon,_(2011)..JPG"
+      }
+     ]
     },
     {
      "type": "timeline",
@@ -8882,6 +9486,53 @@
         "tr": "**Kostas Simitis**: Yunanistan'ın **Ekonomik ve Parasal Birliğe (ΟΝΕ)** katılımı (euro).",
         "en": "**Costas Simitis**: Greece's entry into the **Economic and Monetary Union (ΟΝΕ)** (the euro)."
        }
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-parties-history-4.jpg",
+       "w": 498,
+       "h": 710,
+       "caption": {
+        "el": "Γεώργιος Ράλλης (1981) — κύρωση της ένταξης στην ΕΟΚ",
+        "tr": "Georgios Rallis (1981) — AET üyeliğinin onaylanması",
+        "en": "Georgios Rallis (1981) — ratification of EEC accession"
+       },
+       "author": "European Communities",
+       "license": "CC BY 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%BE%D1%81_%D0%A0%D0%B0%D0%BB%D0%BB%D0%B8%D1%81_%D0%B2_%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3%D0%B5_(29-06-1981).jpg"
+      },
+      {
+       "file": "images/lessons/ins-parties-history-5.jpg",
+       "w": 800,
+       "h": 966,
+       "caption": {
+        "el": "Ανδρέας Παπανδρέου (1981) — μεταρρυθμίσεις και ίδρυση του ΕΣΥ",
+        "tr": "Andreas Papandreou (1981) — reformlar ve ESY'nin kuruluşu",
+        "en": "Andreas Papandreou (1981) — reforms and the founding of ΕΣΥ"
+       },
+       "author": "R. Norman Matheny",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:1981_Press_Photo_Andreas_Papandreou.png"
+      },
+      {
+       "file": "images/lessons/ins-parties-history-6.jpg",
+       "w": 537,
+       "h": 743,
+       "caption": {
+        "el": "Κώστας Σημίτης (2003) — ένταξη στην ΟΝΕ (ευρώ)",
+        "tr": "Kostas Simitis (2003) — ONE'ye (avro) giriş",
+        "en": "Costas Simitis (2003) — entry into the EMU (euro)"
+       },
+       "author": "Pantelis Saitas",
+       "license": "CC BY 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Costas_Simitis_2003.jpg"
       }
      ]
     },
@@ -9646,6 +10297,20 @@
     "tr": "AB'nin kurumları ve yetkileri, AB vatandaşlığı hakları, adaylar, euro, BM, NATO ve Avrupa Konseyi.",
     "en": "EU institutions and competences, EU citizenship rights, candidates, the euro, the UN, NATO and the Council of Europe."
    },
+   "cover": {
+    "file": "images/lessons/ins-eu-international-1.jpg",
+    "w": 800,
+    "h": 533,
+    "caption": {
+     "el": "Η σημαία της Ευρωπαϊκής Ένωσης (12 αστέρια) — η ΕΕ έχει 27 κράτη μέλη",
+     "tr": "Avrupa Birliği bayrağı (12 yıldız) — AB'nin 27 üye devleti var",
+     "en": "The flag of the European Union (12 stars) — the EU has 27 member states"
+    },
+    "author": "Verdy p, -xfi-, Paddu, Nightstallion, Funakoshi, Jeltz, Dbenbenn, Zscout370 (Wikimedia users)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Europe.svg"
+   },
    "blocks": [
     {
      "type": "timeline",
@@ -9705,6 +10370,39 @@
         "tr": "**AB Temel Haklar Ajansı** kuruldu.",
         "en": "The **EU Agency for Fundamental Rights** was founded."
        }
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-eu-international-2.jpg",
+       "w": 800,
+       "h": 559,
+       "caption": {
+        "el": "Ζάππειο, 28/5/1979: υπογραφή της ένταξης — μέλος της ΕΟΚ από το 1981",
+        "tr": "Zappeion, 28/5/1979: katılım imzası — 1981'den beri AET üyesi",
+        "en": "Zappeion, 28/5/1979: signing of accession — EEC member since 1981"
+       },
+       "author": "Jean-Louis Debaize",
+       "license": "CC BY 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Accession_of_Greece_to_the_European_Union.png"
+      },
+      {
+       "file": "images/lessons/ins-eu-international-3.jpg",
+       "w": 800,
+       "h": 622,
+       "caption": {
+        "el": "Συμφωνία Σένγκεν (1985) — Ευρώπη χωρίς εσωτερικά σύνορα",
+        "tr": "Schengen Anlaşması (1985) — iç sınırları olmayan Avrupa",
+        "en": "Schengen Agreement (1985) — a Europe without internal borders"
+       },
+       "author": "Zinneke",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Schengen_Agreement_(1985)_signatures.jpg"
       }
      ]
     },
@@ -9782,12 +10480,92 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-eu-international-4.jpg",
+       "w": 800,
+       "h": 530,
+       "caption": {
+        "el": "Ευρωπαϊκό Κοινοβούλιο, Βρυξέλλες — εκπροσωπεί τους πολίτες της ΕΕ",
+        "tr": "Avrupa Parlamentosu, Brüksel — AB vatandaşlarını temsil eder",
+        "en": "European Parliament, Brussels — represents EU citizens"
+       },
+       "author": "Steven Lek",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:European_Parliament_building_Brussels_1.jpg"
+      },
+      {
+       "file": "images/lessons/ins-eu-international-5.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Κτίριο Berlaymont — Ευρωπαϊκή Επιτροπή: εκπροσωπεί τα συμφέροντα της ΕΕ",
+        "tr": "Berlaymont binası — Avrupa Komisyonu: AB'nin çıkarlarını temsil eder",
+        "en": "Berlaymont building — European Commission: represents the interests of the EU"
+       },
+       "author": "Andersen Pecorone",
+       "license": "CC BY 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_2015.jpg"
+      },
+      {
+       "file": "images/lessons/ins-eu-international-6.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Κτίριο Europa — Συμβούλιο της ΕΕ: εκ περιτροπής προεδρία 6 μηνών",
+        "tr": "Europa binası — AB Konseyi: 6 aylık dönem başkanlığı",
+        "en": "Europa building — Council of the EU: rotating 6-month presidency"
+       },
+       "author": "Cbliu",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Europa_building_2024.jpg"
+      },
+      {
+       "file": "images/lessons/ins-eu-international-7.jpg",
+       "w": 800,
+       "h": 1028,
+       "caption": {
+        "el": "Νικηφόρος Διαμαντούρος, Ευρωπαίος Διαμεσολαβητής — ερευνά την κακοδιοίκηση στα όργανα της ΕΕ",
+        "tr": "Nikiforos Diamandouros, Avrupa Ombudsmanı — AB kurumlarındaki kötü yönetimi soruşturur",
+        "en": "Nikiforos Diamandouros, European Ombudsman — investigates maladministration in EU institutions"
+       },
+       "author": "Janwikifoto",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Nikiforos_Diamandouros_b9dn603_4987.jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "Στους τομείς **συντρέχουσας αρμοδιότητας** οι αποφάσεις λαμβάνονται με τη **συνήθη νομοθετική διαδικασία**: **από κοινού απόφαση της Ευρωπαϊκής Επιτροπής, του Συμβουλίου της ΕΕ και του Ευρωπαϊκού Κοινοβουλίου**. Η **κοινωνική πολιτική** είναι συντρέχουσα αρμοδιότητα: μπορούν να νομοθετούν τόσο η ΕΕ όσο και η ελληνική κυβέρνηση.",
       "tr": "**Paylaşılan (ortak) yetki** alanlarında kararlar **olağan yasama usulüyle** alınır: **Avrupa Komisyonu, AB Konseyi ve Avrupa Parlamentosu'nun ortak kararı**. **Sosyal politika** paylaşılan yetkidir: hem AB hem de Yunan hükümeti düzenleme yapabilir.",
       "en": "In areas of **shared competence**, decisions follow the **ordinary legislative procedure**: a **joint decision of the European Commission, the Council of the EU and the European Parliament**. **Social policy** is a shared competence: both the EU and the Greek government can legislate."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/ins-eu-international-8.jpg",
+       "w": 721,
+       "h": 438,
+       "caption": {
+        "el": "Τα όργανα της ΕΕ — Κοινοβούλιο, Επιτροπή και Συμβούλιο αποφασίζουν μαζί",
+        "tr": "AB kurumları — Parlamento, Komisyon ve Konsey birlikte karar verir",
+        "en": "EU institutions — Parliament, Commission and Council decide together"
+       },
+       "author": "111Alleskönner",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Political_System_of_the_European_Union_-_Greek_Version.png"
+      }
+     ]
     },
     {
      "type": "list",

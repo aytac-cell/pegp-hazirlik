@@ -19,6 +19,20 @@
     "tr": "On iki Olimpos tanrısı, görev alanları, simgeleri ve Atina'nın koruyuculuğu mitosu.",
     "en": "The twelve Olympian gods, their domains, their symbols and the myth of the patronage of Athens."
    },
+   "cover": {
+    "file": "images/lessons/cul-olympian-gods-1.jpg",
+    "w": 800,
+    "h": 600,
+    "caption": {
+     "el": "Ο Όλυμπος (κορυφή Μύτικας) — κατά τη μυθολογία η κατοικία των θεών",
+     "tr": "Olimpos Dağı (Mitikas zirvesi) — mitolojiye göre tanrıların yurdu",
+     "en": "Mount Olympus (Mytikas peak) — home of the gods in Greek mythology"
+    },
+    "author": "Melkov; derivative work: Hike395",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Olympus_Mytikas_from_Skala.jpg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -255,6 +269,179 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-olympian-gods-2.jpg",
+       "w": 480,
+       "h": 1000,
+       "caption": {
+        "el": "Δίας — πατέρας των θεών· κεραυνός, αετός",
+        "tr": "Zeus (Δίας) — tanrıların babası; yıldırım, kartal",
+        "en": "Zeus (Δίας) — father of the gods; thunderbolt, eagle"
+       },
+       "author": "Marie-Lan Nguyen",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Jupiter_Smyrna_Louvre_Ma13.jpg"
+      },
+      {
+       "file": "images/lessons/cul-olympian-gods-3.jpg",
+       "w": 662,
+       "h": 1000,
+       "caption": {
+        "el": "Ήρα — σύζυγος του Δία, γάμος· στέμμα",
+        "tr": "Hera (Ήρα) — Zeus'un eşi, evlilik; taç",
+        "en": "Hera (Ήρα) — wife of Zeus, marriage; crown"
+       },
+       "author": "Marie-Lan Nguyen",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Hera_Barberini_Chiaramonti_Inv1210.jpg"
+      },
+      {
+       "file": "images/lessons/cul-olympian-gods-4.jpg",
+       "w": 667,
+       "h": 1000,
+       "caption": {
+        "el": "Ποσειδώνας — θεός της θάλασσας· τρίαινα",
+        "tr": "Poseidon (Ποσειδώνας) — denizin tanrısı; üç dişli mızrak",
+        "en": "Poseidon (Ποσειδώνας) — god of the sea; trident"
+       },
+       "author": "George E. Koronaios",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Marble_statue_of_Poseidon_from_Melos._125-100_B.C.jpg"
+      },
+      {
+       "file": "images/lessons/cul-olympian-gods-5.jpg",
+       "w": 674,
+       "h": 1000,
+       "caption": {
+        "el": "Αθηνά — θεά της σοφίας· ελιά, κουκουβάγια",
+        "tr": "Athena (Αθηνά) — bilgelik tanrıçası; zeytin ağacı, baykuş",
+        "en": "Athena (Αθηνά) — goddess of wisdom; olive tree, owl"
+       },
+       "author": "Attributed to the Brygos Painter",
+       "license": "CC BY 2.5",
+       "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+       "source": "https://commons.wikimedia.org/wiki/File:Athena_owl_Met_09.221.43.jpg"
+      },
+      {
+       "file": "images/lessons/cul-olympian-gods-6.jpg",
+       "w": 800,
+       "h": 800,
+       "caption": {
+        "el": "Απόλλωνας — φως, μουσική, μαντική· λύρα",
+        "tr": "Apollon (Απόλλωνας) — ışık, müzik, kehanet; lir",
+        "en": "Apollo (Απόλλωνας) — light, music, prophecy; lyre"
+       },
+       "author": "Zde",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Kylix_with_Apollo,_AM_of_Delphi_8140,_201391x.jpg"
+      },
+      {
+       "file": "images/lessons/cul-olympian-gods-7.jpg",
+       "w": 675,
+       "h": 900,
+       "caption": {
+        "el": "Άρτεμις — κυνήγι και φύση· τόξο και βέλος",
+        "tr": "Artemis (Άρτεμις) — av ve doğa; yay ve ok",
+        "en": "Artemis (Άρτεμις) — hunting and nature; bow and arrow"
+       },
+       "author": "Shonagon",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Diane_de_Versailles_-_Mus%C3%A9e_du_Louvre_AGER_Ma_589.jpg"
+      },
+      {
+       "file": "images/lessons/cul-olympian-gods-8.jpg",
+       "w": 693,
+       "h": 1000,
+       "caption": {
+        "el": "Αφροδίτη — έρωτας και ομορφιά· περιστέρι",
+        "tr": "Afrodit (Αφροδίτη) — aşk ve güzellik; güvercin",
+        "en": "Aphrodite (Αφροδίτη) — love and beauty; dove"
+       },
+       "author": "Daderot",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Aphrodite_Holding_a_Dove,_Greek,_c._460-450_BC,_bronze_-_Arthur_M._Sackler_Museum,_Harvard_University_-_DSC01523.jpg"
+      },
+      {
+       "file": "images/lessons/cul-olympian-gods-9.jpg",
+       "w": 704,
+       "h": 1000,
+       "caption": {
+        "el": "Άρης — πόλεμος· δόρυ",
+        "tr": "Ares (Άρης) — savaş; mızrak",
+        "en": "Ares (Άρης) — war; spear"
+       },
+       "author": "Shonagon",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Ar%C3%A8s_Borgh%C3%A8se_-_Mus%C3%A9e_du_Louvre_AGER_Ma_866_;_MR_65_;_N_819.jpg"
+      },
+      {
+       "file": "images/lessons/cul-olympian-gods-10.jpg",
+       "w": 345,
+       "h": 1000,
+       "caption": {
+        "el": "Ερμής — αγγελιοφόρος των θεών, εμπόριο· φτερωτά σανδάλια",
+        "tr": "Hermes (Ερμής) — tanrıların habercisi, ticaret; kanatlı sandaletler",
+        "en": "Hermes (Ερμής) — messenger of the gods, trade; winged sandals"
+       },
+       "author": "One dead president, David Liam Moran",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Lekythos_of_Hermes.jpg"
+      },
+      {
+       "file": "images/lessons/cul-olympian-gods-11.jpg",
+       "w": 800,
+       "h": 798,
+       "caption": {
+        "el": "Ήφαιστος — φωτιά και σιδηρουργία· σφυρί, αμόνι",
+        "tr": "Hefaistos (Ήφαιστος) — ateş ve demircilik; çekiç, örs",
+        "en": "Hephaestus (Ήφαιστος) — fire and metalworking; hammer, anvil"
+       },
+       "author": "Foundry Painter (name vase)",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Hephaistos_Thetis_at_Kylix_by_the_Foundry_Painter_Antikensammlung_Berlin_F2294.jpg"
+      },
+      {
+       "file": "images/lessons/cul-olympian-gods-12.jpg",
+       "w": 680,
+       "h": 1000,
+       "caption": {
+        "el": "Δήμητρα — γεωργία και σοδειά· στάχυ",
+        "tr": "Demeter (Δήμητρα) — tarım ve bereket; başak",
+        "en": "Demeter (Δήμητρα) — agriculture and harvest; ear of wheat"
+       },
+       "author": "Yair-haklai",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Great_Eleusinian_relief_(NAMA_126).jpg"
+      },
+      {
+       "file": "images/lessons/cul-olympian-gods-13.jpg",
+       "w": 562,
+       "h": 1000,
+       "caption": {
+        "el": "Εστία — η εστία του σπιτιού· η φωτιά της εστίας",
+        "tr": "Hestia (Εστία) — ev ocağı; ocak ateşi",
+        "en": "Hestia (Εστία) — the hearth; hearth fire"
+       },
+       "author": "Marie-Lan Taÿ Pamart",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Hestia_Giustiniani_Torlonia_Collection_MT490.jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "Ο **Διόνυσος** είναι ο θεός του κρασιού· σύμβολό του είναι το **αμπέλι**. Αντιστοίχιση της εξέτασης: Ποσειδώνας → τρίαινα, Ερμής → φτερωτά σανδάλια, Άρης → δόρυ, Διόνυσος → αμπέλι.",
@@ -263,12 +450,50 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-olympian-gods-14.jpg",
+       "w": 800,
+       "h": 532,
+       "caption": {
+        "el": "Διόνυσος — θεός του κρασιού· αμπέλι (κύλικα του Εξηκία)",
+        "tr": "Dionysos (Διόνυσος) — şarap tanrısı; asma (Eksekias'ın kylix'i)",
+        "en": "Dionysus (Διόνυσος) — god of wine; vine (cup by Exekias)"
+       },
+       "author": "Zde",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Kylix_Dionysus_on_a_ship_between_dolphins_530_BC,_Staatliche_Antikensammlungen_Munich_120637.jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "**Η προστασία της Αθήνας:** Σύμφωνα με τον μύθο, η **Αθηνά και ο Ποσειδώνας** διεκδίκησαν την προστασία της πόλης. Ο Ποσειδώνας έκανε να αναβλύσει θαλασσινό νερό από την Ακρόπολη, ενώ η Αθηνά χάρισε μια **ελιά**. Οι Αθηναίοι διάλεξαν την Αθηνά και η πόλη πήρε το όνομά της.",
       "tr": "**Atina'nın koruyuculuğu:** Mitosa göre **Athena ve Poseidon** Atina'nın koruyuculuğu için yarıştı. Poseidon Akropolis'ten tuzlu su fışkırttı, Athena ise bir **zeytin ağacı** hediye etti. Atinalılar Athena'yı seçti ve şehir onun adını aldı.",
       "en": "**The patronage of Athens:** According to myth, **Athena and Poseidon** contended for the patronage of Athens. Poseidon made salt water spring from the Acropolis, Athena offered an **olive tree**. The Athenians chose Athena and the city took her name."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-olympian-gods-15.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Η ελιά δίπλα στο Ερέχθειο, στην Ακρόπολη — το δώρο της Αθηνάς στην πόλη",
+        "tr": "Akropolis'te Erekhtheion'un yanındaki zeytin ağacı — Athena'nın kente armağanı",
+        "en": "The olive tree by the Erechtheion on the Acropolis — Athena's gift to the city"
+       },
+       "author": "George E. Koronaios",
+       "license": "CC BY-SA 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:The_olive_tree_on_the_Acropolis_of_Athens,_28_April_2021.jpg"
+      }
+     ]
     },
     {
      "type": "tip",
@@ -330,6 +555,27 @@
        "el": "αμπέλι",
        "tr": "asma (bağ)",
        "en": "vine"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Το **Θέατρο Ηρώδου Αττικού** βρίσκεται στην **Αθήνα**, στη νότια πλαγιά της Ακρόπολης.",
+       "tr": "**Herodes Atticus Tiyatrosu** **Atina**'dadır, Akropolis'in güney yamacında.",
+       "en": "The **Odeon of Herodes Atticus** is in **Athens**, on the south slope of the Acropolis.",
+       "q": [
+        "cul-11"
+       ]
+      },
+      {
+       "el": "Το **Ανάκτορο της Κνωσού** βρίσκεται στην **Κρήτη** (κοντά στο Ηράκλειο).",
+       "tr": "**Knossos Sarayı** **Girit**'tedir (Kandiye yakınında).",
+       "en": "The **Palace of Knossos** is in **Crete** (near Heraklion).",
+       "q": [
+        "cul-11"
+       ]
       }
      ]
     }
@@ -1057,6 +1303,20 @@
     "tr": "Tufan, Europa, Argonotlar, Truva Atı ve Nymphalar, Kharisler, Erinyesler, Musalar.",
     "en": "The flood, Europa, the Argonauts, the Trojan Horse and the Nymphs, Graces, Erinyes and Muses."
    },
+   "cover": {
+    "file": "images/lessons/cul-myths-1.jpg",
+    "w": 800,
+    "h": 600,
+    "caption": {
+     "el": "Ο Δούρειος Ίππος με κρυμμένους πολεμιστές — πιθάρι της Μυκόνου (7ος αι. π.Χ.)",
+     "tr": "İçinde askerler saklı Truva Atı (Δούρειος Ίππος) — Mikonos küpü (MÖ 7. yy)",
+     "en": "The Trojan Horse with hidden warriors — the Mykonos pithos (7th c. BC)"
+    },
+    "author": "Travelling Runes",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mykonos_vase.jpg"
+   },
    "blocks": [
     {
      "type": "list",
@@ -1080,6 +1340,53 @@
        "el": "**Ο Τρωικός Πόλεμος:** Οι Έλληνες κατέλαβαν την Τροία με ένα ξύλινο άλογο, μέσα στο οποίο ήταν κρυμμένοι στρατιώτες: τον **Δούρειο Ίππο**.",
        "tr": "**Truva Savaşı:** Yunanlar Truva'yı içine askerlerin saklandığı tahta bir atla, **Truva Atı (Δούρειος Ίππος)** ile ele geçirdi.",
        "en": "**The Trojan War:** The Greeks captured Troy with a wooden horse with soldiers hidden inside, the **Trojan Horse (Δούρειος Ίππος)**."
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-myths-2.jpg",
+       "w": 800,
+       "h": 512,
+       "caption": {
+        "el": "Δευκαλίων και Πύρρα — οι μόνοι που σώθηκαν από τον κατακλυσμό (Ρούμπενς)",
+        "tr": "Deukalion ve Pyrrha — tufandan kurtulan tek insanlar (Rubens)",
+        "en": "Deucalion and Pyrrha — the only survivors of the flood (Rubens)"
+       },
+       "author": "Peter Paul Rubens",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Deucalion_and_Pyrrha,_1636.jpg"
+      },
+      {
+       "file": "images/lessons/cul-myths-3.jpg",
+       "w": 800,
+       "h": 800,
+       "caption": {
+        "el": "Η Ευρώπη πάνω στον ταύρο-Δία (αγγείο του Αστέα)",
+        "tr": "Boğa kılığındaki Zeus'un sırtında Europa (Asteas vazosu)",
+        "en": "Europa riding Zeus disguised as a bull (vase by Asteas)"
+       },
+       "author": "ArchaiOptix",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Asteas_-_RFVP_2-129_-_Europa_on_the_bull_-_Dionysos_with_satyrs_and_maenads_and_Pan_-_Montesarchio_MANdSC_-_07.jpg"
+      },
+      {
+       "file": "images/lessons/cul-myths-4.jpg",
+       "w": 800,
+       "h": 562,
+       "caption": {
+        "el": "Η ναυπήγηση της Αργώς, του πλοίου του Ιάσονα· η Αθηνά βοηθά",
+        "tr": "Iason'un gemisi Argo'nun yapımı; Athena yardım ediyor",
+        "en": "Building the Argo, Jason's ship; Athena helps"
+       },
+       "author": "Marie-Lan Nguyen (Jastrow)",
+       "license": "CC BY 2.5",
+       "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+       "source": "https://commons.wikimedia.org/wiki/File:Building_Argo_BM_TerrD603.jpg"
       }
      ]
     },
@@ -1146,6 +1453,39 @@
         "en": "deities of the arts and letters"
        }
       ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-myths-5.jpg",
+       "w": 648,
+       "h": 758,
+       "caption": {
+        "el": "Οι τρεις Χάριτες — θεότητες της χάρης (τοιχογραφία από την Πομπηία)",
+        "tr": "Üç Kharit (Χάριτες) — zarafet tanrıçaları (Pompeii freski)",
+        "en": "The three Graces — goddesses of charm (fresco from Pompeii)"
+       },
+       "author": "Unknown Roman painter (1st c.)",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Roman_-_The_three_graces_(fresco).jpg"
+      },
+      {
+       "file": "images/lessons/cul-myths-6.jpg",
+       "w": 800,
+       "h": 342,
+       "caption": {
+        "el": "Οι εννέα Μούσες — θεότητες των τεχνών και των γραμμάτων",
+        "tr": "Dokuz Musa (Μούσες) — sanat ve edebiyat tanrıçaları",
+        "en": "The nine Muses — deities of the arts and letters"
+       },
+       "author": "Marie-Lan Nguyen (Jastrow)",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Muses_sarcophagus_Louvre_MR880.jpg"
+      }
      ]
     },
     {
@@ -1873,6 +2213,20 @@
     "tr": "Ege'nin tarih öncesi uygarlıkları ve onları tanımaya yarayan eserler.",
     "en": "The prehistoric civilisations of the Aegean and the artworks that identify them."
    },
+   "cover": {
+    "file": "images/lessons/cul-prehistoric-1.jpg",
+    "w": 800,
+    "h": 532,
+    "caption": {
+     "el": "Το ανάκτορο της Κνωσού στην Κρήτη — η βόρεια είσοδος με την τοιχογραφία του ταύρου",
+     "tr": "Girit'teki Knossos Sarayı — boğa freskli kuzey girişi",
+     "en": "The Palace of Knossos, Crete — the north entrance with the bull fresco"
+    },
+    "author": "Jebulon",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Knossos_North_entrance_bull_fresco.jpg"
+   },
    "blocks": [
     {
      "type": "table",
@@ -1948,6 +2302,81 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-prehistoric-2.jpg",
+       "w": 667,
+       "h": 1000,
+       "caption": {
+        "el": "Κυκλαδικό μαρμάρινο ειδώλιο με σταυρωμένα χέρια",
+        "tr": "Kolları kavuşturulmuş mermer Kiklad figürini",
+        "en": "Cycladic marble figurine with folded arms"
+       },
+       "author": "Zde",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Cycladic_figurine_female,_2800%E2%80%932300_BC,_AshmoleanM,_AE_178,_142428.jpg"
+      },
+      {
+       "file": "images/lessons/cul-prehistoric-3.jpg",
+       "w": 744,
+       "h": 1000,
+       "caption": {
+        "el": "Κυκλαδικό ειδώλιο: ο καθιστός αρπιστής",
+        "tr": "Kiklad figürini: oturan arp çalgıcısı",
+        "en": "Cycladic figurine: the seated harpist"
+       },
+       "author": "J. Paul Getty Museum",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Male_harp_player_of_the_early_Spedos_type_-_Getty_Museum_(85.AA.103).jpg"
+      },
+      {
+       "file": "images/lessons/cul-prehistoric-4.jpg",
+       "w": 800,
+       "h": 419,
+       "caption": {
+        "el": "Μινωική τοιχογραφία των ταυροκαθαψίων από την Κνωσό",
+        "tr": "Knossos'tan Minos freski: boğa üzerinden atlama",
+        "en": "Minoan fresco of bull-leaping from Knossos"
+       },
+       "author": "Jebulon",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Bull_leaping_minoan_fresco_archmus_Heraklion_(cropped).jpg"
+      },
+      {
+       "file": "images/lessons/cul-prehistoric-5.jpg",
+       "w": 630,
+       "h": 1000,
+       "caption": {
+        "el": "Η μινωική «Θεά των Όφεων» (Αρχαιολογικό Μουσείο Ηρακλείου)",
+        "tr": "Minos uygarlığının «Yılanlı Tanrıçası» (Kandiye Arkeoloji Müzesi)",
+        "en": "The Minoan \"Snake Goddess\" (Heraklion Archaeological Museum)"
+       },
+       "author": "Jebulon",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Snake_goddess_archmus_Heraklion.jpg"
+      },
+      {
+       "file": "images/lessons/cul-prehistoric-6.jpg",
+       "w": 800,
+       "h": 532,
+       "caption": {
+        "el": "Η Πύλη των Λεόντων στις Μυκήνες — μυκηναϊκή, όχι μινωική",
+        "tr": "Miken'deki Aslanlı Kapı — Miken, Minos değil",
+        "en": "The Lion Gate at Mycenae — Mycenaean, not Minoan"
+       },
+       "author": "Zde",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Lion_Gate,_Mycenae,_201510.jpg"
+      }
+     ]
+    },
+    {
      "type": "tip",
      "text": {
       "el": "Πώς τους ξεχωρίζουμε στις ερωτήσεις με εικόνες: **μαρμάρινη** μορφή με σταυρωμένα χέρια ή καθιστή → Κυκλαδικός. Τοιχογραφία και Θεά των Όφεων → Μινωικός. Πύλη των Λεόντων → Μυκηναϊκός (όχι Μινωικός!). Τα πήλινα ειδώλια τύπου **Ταναγραίας** και τα αρχαϊκά αγάλματα **κορών** δεν είναι ούτε κυκλαδικά ούτε μινωικά.",
@@ -1964,12 +2393,50 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-prehistoric-7.jpg",
+       "w": 747,
+       "h": 1000,
+       "caption": {
+        "el": "Η Αίθουσα του Θρόνου στο ανάκτορο της Κνωσού",
+        "tr": "Knossos Sarayı'ndaki Taht Salonu",
+        "en": "The Throne Room of the Palace of Knossos"
+       },
+       "author": "Jebulon",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Throne_of_Minos_at_Knossos_Palace.jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "**Η προσωπίδα του Αγαμέμνονα:** Η χρυσή προσωπίδα που βρέθηκε στις ανασκαφές των **Μυκηνών** (Ερρίκος Σλήμαν) πιστεύεται ότι απεικονίζει τον **Αγαμέμνονα**, αρχηγό των Ελλήνων στον Τρωικό Πόλεμο. Βρέθηκε μέσα σε **τάφο** και βρίσκεται σήμερα στο Εθνικό Αρχαιολογικό Μουσείο των **Αθηνών**.",
       "tr": "**Agamemnon'un maskesi:** **Miken** kazılarında (Heinrich Schliemann) bulunan altın maskenin, Truva Savaşı'nda Yunanların lideri **Agamemnon**'u tasvir ettiğine inanılır. Bir **mezarın** içinde bulunmuştur ve bugün **Atina** Ulusal Arkeoloji Müzesi'ndedir.",
       "en": "**The Mask of Agamemnon:** the gold mask found in the excavations at **Mycenae** (Heinrich Schliemann) is believed to depict **Agamemnon**, leader of the Greeks in the Trojan War. It was found inside a **tomb** and is today in the National Archaeological Museum of **Athens**."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-prehistoric-8.jpg",
+       "w": 800,
+       "h": 800,
+       "caption": {
+        "el": "Η χρυσή «Μάσκα του Αγαμέμνονα» από τάφο των Μυκηνών (Εθνικό Αρχαιολογικό Μουσείο, Αθήνα)",
+        "tr": "Miken'deki bir mezardan altın «Agamemnon Maskesi» (Ulusal Arkeoloji Müzesi, Atina)",
+        "en": "The gold \"Mask of Agamemnon\" from a tomb at Mycenae (National Archaeological Museum, Athens)"
+       },
+       "author": "Jebulon",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Agamemnon_mask_NAMA_Athens_Greece.jpg"
+      }
+     ]
     },
     {
      "type": "map",
@@ -2045,6 +2512,35 @@
        "el": "Αρχαιολογικό Μουσείο Ηρακλείου",
        "tr": "Kandiye Arkeoloji Müzesi",
        "en": "Heraklion Archaeological Museum"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Ο **Ποσειδώνας** ήταν ο **θεός της θάλασσας** (σύμβολό του η τρίαινα).",
+       "tr": "**Poseidon** **denizin tanrısıydı** (simgesi üç dişli mızrak, trident).",
+       "en": "**Poseidon** was the **god of the sea** (his symbol: the trident).",
+       "q": [
+        "cul-11"
+       ]
+      },
+      {
+       "el": "Το **Θέατρο Ηρώδου Αττικού** βρίσκεται στην **Αθήνα**, στη νότια πλαγιά της Ακρόπολης.",
+       "tr": "**Herodes Atticus Tiyatrosu** **Atina**'dadır, Akropolis'in güney yamacında.",
+       "en": "The **Odeon of Herodes Atticus** is in **Athens**, on the south slope of the Acropolis.",
+       "q": [
+        "cul-11"
+       ]
+      },
+      {
+       "el": "Θεός της **μουσικής και της αρμονίας** ήταν ο **Απόλλωνας**· ο **Ήφαιστος** ήταν θεός της **φωτιάς και της σιδηρουργίας** (η πρόταση «ο Ήφαιστος ήταν θεός της μουσικής και της αρμονίας» είναι Λάθος).",
+       "tr": "**Müziğin ve uyumun** tanrısı **Apollon**'du; **Hefaistos** **ateşin ve demirciliğin** tanrısıydı («Hefaistos müziğin ve uyumun tanrısıydı» ifadesi Yanlış'tır).",
+       "en": "The god of **music and harmony** was **Apollo**; **Hephaestus** was the god of **fire and metalworking** (\"Hephaestus was the god of music and harmony\" is False).",
+       "q": [
+        "cul-11"
+       ]
       }
      ]
     }
@@ -2666,6 +3162,20 @@
     "tr": "Delfi, Dodona ve diğer kehanet merkezleri; büyük arkeolojik alanların bölgeleri; antik müzik yarışmaları.",
     "en": "Delphi, Dodona and the other oracles; the regions of the major archaeological sites; ancient musical contests."
    },
+   "cover": {
+    "file": "images/lessons/cul-sites-oracles-1.jpg",
+    "w": 800,
+    "h": 522,
+    "caption": {
+     "el": "Ο ναός του Απόλλωνα στους Δελφούς — το πιο φημισμένο μαντείο της αρχαιότητας",
+     "tr": "Delfi'deki Apollon Tapınağı — antik çağın en ünlü kehanet merkezi",
+     "en": "The Temple of Apollo at Delphi — the most famous oracle of antiquity"
+    },
+    "author": "Berthold Werner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Delphi_BW_2017-10-08_11-38-38.jpg"
+   },
    "blocks": [
     {
      "type": "table",
@@ -2758,6 +3268,39 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-sites-oracles-2.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Δωδώνη (Ήπειρος) — το αρχαιότερο μαντείο, του Δία· το αρχαίο θέατρο",
+        "tr": "Dodona (Epir) — en eski kehanet merkezi, Zeus'un; antik tiyatro",
+        "en": "Dodona (Epirus) — the oldest oracle, of Zeus; the ancient theatre"
+       },
+       "author": "Cosal",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Dodona,_Amphitheater_2015.JPG"
+      },
+      {
+       "file": "images/lessons/cul-sites-oracles-3.jpg",
+       "w": 800,
+       "h": 532,
+       "caption": {
+        "el": "Το Νεκρομαντείο του Αχέροντα (Μεσοπόταμος Πρέβεζας)",
+        "tr": "Akheron Nekromanteionu — Ölüler Kehanet Merkezi (Mesopotamos, Preveze)",
+        "en": "The Necromanteion of Acheron (Mesopotamos, Preveza)"
+       },
+       "author": "Michael Nicht",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Nekromanteion_of_Acheron.jpg"
+      }
+     ]
+    },
+    {
      "type": "table",
      "head": [
       {
@@ -2820,6 +3363,39 @@
         "en": "Crete"
        }
       ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-sites-oracles-4.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Ολυμπία (Πελοπόννησος): η είσοδος του αρχαίου σταδίου — γενέτειρα των Ολυμπιακών Αγώνων",
+        "tr": "Olimpia (Mora): antik stadyumun girişi — Olimpiyat Oyunları'nın doğduğu yer",
+        "en": "Olympia (Peloponnese): entrance to the ancient stadium — birthplace of the Olympic Games"
+       },
+       "author": "Wknight94",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Olympia_stadium_entrance_2010.jpg"
+      },
+      {
+       "file": "images/lessons/cul-sites-oracles-5.jpg",
+       "w": 767,
+       "h": 1000,
+       "caption": {
+        "el": "Βεργίνα (Μακεδονία): η χρυσή λάρνακα από τους βασιλικούς τάφους",
+        "tr": "Vergina (Makedonya): kraliyet mezarlarından altın sanduka",
+        "en": "Vergina (Macedonia): the gold larnax from the royal tombs"
+       },
+       "author": "Sarah Murray",
+       "license": "CC BY-SA 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Philip_II_larnax_vergina_greece.jpg"
+      }
      ]
     },
     {
@@ -2888,6 +3464,39 @@
       "tr": "**Müzik yarışmaları:** Antik Yunan'daki müzik yarışmalarında **şarkı, aulos (nefesli çalgı) ve kithara (telli çalgı)** yer alırdı. Keman, lavta, santur veya üçgen antik yarışmaların çalgıları değildir.",
       "en": "**Musical contests:** The musical contests of ancient Greece included **song, the aulos (a wind instrument) and the kithara (a string instrument)**. Violin, lute, santouri or triangle were not instruments of the ancient contests."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-sites-oracles-6.jpg",
+       "w": 667,
+       "h": 1000,
+       "caption": {
+        "el": "Κιθαρωδός: τραγούδι με κιθάρα (έγχορδο) — αγώνας μουσικής",
+        "tr": "Kitharodos: kithara (telli çalgı) eşliğinde şarkı — müzik yarışması",
+        "en": "Kitharode: singing with the kithara (string instrument) — a musical contest"
+       },
+       "author": "ArchaiOptix",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Berlin_Painter_-_ARV_196_extra_-_kitharoidos_and_listener_-_Roma_MNEVG_MET_3_-_01.jpg"
+      },
+      {
+       "file": "images/lessons/cul-sites-oracles-7.jpg",
+       "w": 800,
+       "h": 802,
+       "caption": {
+        "el": "Αυλητής: ο αυλός ήταν πνευστό όργανο των αγώνων",
+        "tr": "Aulos çalan: aulos, yarışmaların nefesli çalgısıydı",
+        "en": "Aulos player: the aulos was the wind instrument of the contests"
+       },
+       "author": "Brygos (potter, signed), Brygos Painter",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Aulos_player_Louvre_G313.jpg"
+      }
+     ]
     },
     {
      "type": "tip",
@@ -3565,6 +4174,20 @@
     "tr": "Parthenon ve heykelleri, ünlü heykellerin bugün bulunduğu müzeler, Büyük İskender, antik yazarlar.",
     "en": "The Parthenon and its sculptures, the museums that hold famous statues today, Alexander the Great, ancient authors."
    },
+   "cover": {
+    "file": "images/lessons/cul-classical-1.jpg",
+    "w": 800,
+    "h": 533,
+    "caption": {
+     "el": "Ο Παρθενώνας στην Ακρόπολη — ναός της Αθηνάς, σύμβολο της αρχαίας Αθήνας",
+     "tr": "Akropolis'teki Parthenon — Athena tapınağı, antik Atina'nın simgesi",
+     "en": "The Parthenon on the Acropolis — temple of Athena, symbol of ancient Athens"
+    },
+    "author": "Gary Todd from Xinzheng, China",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Athens_Acropolis_Parthenon_(27828101733).jpg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -3573,6 +4196,25 @@
       "tr": "Antik Atina ile özdeşleşen anıt Akropolis'teki **Parthenon**'dur (Athena tapınağı). Akropolis'in güney yamacında **Herodes Atticus Tiyatrosu (Odeonu)** bulunur — o da **Atina**'dadır.",
       "en": "The monument identified with ancient Athens is the **Parthenon** on the Acropolis (temple of Athena). On the south slope of the Acropolis stands the **Odeon of Herodes Atticus** — it too is in **Athens**."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-classical-2.jpg",
+       "w": 800,
+       "h": 531,
+       "caption": {
+        "el": "Το Ωδείο Ηρώδου του Αττικού, στη νότια πλαγιά της Ακρόπολης (Αθήνα)",
+        "tr": "Akropolis'in güney yamacında Herodes Atticus Odeonu (Atina)",
+        "en": "The Odeon of Herodes Atticus on the south slope of the Acropolis (Athens)"
+       },
+       "author": "Laurens R. Krol",
+       "license": "CC BY 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:2016-08-03_Greece,_Athens,_Odeon_of_Herodes_Atticus_DSC_9747_DxO_2.jpg"
+      }
+     ]
     },
     {
      "type": "list",
@@ -3596,6 +4238,25 @@
        "el": "Σε μεταγενέστερη περίοδο κτίστηκε μέσα στον Παρθενώνα **ναός της Παναγίας** (σωστή πρόταση).",
        "tr": "Daha sonraki dönemde Parthenon'un içinde bir **Meryem Ana kilisesi** yapılmıştır (doğru ifade).",
        "en": "In a later period a **church of the Virgin Mary** was built inside the Parthenon (a true statement)."
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-classical-3.jpg",
+       "w": 800,
+       "h": 696,
+       "caption": {
+        "el": "Γλυπτά της ζωφόρου του Παρθενώνα στο Βρετανικό Μουσείο (Λονδίνο)",
+        "tr": "Parthenon frizinden heykeller, British Museum (Londra)",
+        "en": "Parthenon frieze sculptures in the British Museum (London)"
+       },
+       "author": "Marie-Lan Nguyen (Jastrow)",
+       "license": "CC BY 2.5",
+       "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+       "source": "https://commons.wikimedia.org/wiki/File:South_frieze_130-131_Parthenon_BM.jpg"
       }
      ]
     },
@@ -3689,6 +4350,81 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-classical-4.jpg",
+       "w": 800,
+       "h": 877,
+       "caption": {
+        "el": "Η Νίκη της Σαμοθράκης — Μουσείο του Λούβρου, Παρίσι",
+        "tr": "Semadirek Nike'si — Louvre Müzesi, Paris",
+        "en": "Winged Victory of Samothrace — Louvre Museum, Paris"
+       },
+       "author": "Wilfredor",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Nike_of_Samothrace,_Paris,_Louvre.jpg"
+      },
+      {
+       "file": "images/lessons/cul-classical-5.jpg",
+       "w": 596,
+       "h": 1000,
+       "caption": {
+        "el": "Η Αφροδίτη της Μήλου (ελληνιστική) — Μουσείο του Λούβρου, Παρίσι",
+        "tr": "Milo Afroditi (Helenistik) — Louvre Müzesi, Paris",
+        "en": "Venus de Milo (Hellenistic) — Louvre Museum, Paris"
+       },
+       "author": "Marie-Lan Nguyen (Jastrow)",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Venus_de_Milo_Louvre_Ma399_n4.jpg"
+      },
+      {
+       "file": "images/lessons/cul-classical-6.jpg",
+       "w": 750,
+       "h": 1000,
+       "caption": {
+        "el": "Ο Δισκοβόλος του Μύρωνα (ρωμαϊκό αντίγραφο) — Βρετανικό Μουσείο, Λονδίνο",
+        "tr": "Myron'un Disk Atan'ı (Roma kopyası) — British Museum, Londra",
+        "en": "Discobolus of Myron (Roman copy) — British Museum, London"
+       },
+       "author": "RickyBennison",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Discobolus_front.jpg"
+      },
+      {
+       "file": "images/lessons/cul-classical-7.jpg",
+       "w": 564,
+       "h": 1000,
+       "caption": {
+        "el": "Ο Ερμής του Πραξιτέλη — Αρχαιολογικό Μουσείο Ολυμπίας",
+        "tr": "Praksiteles'in Hermes'i — Olimpia Arkeoloji Müzesi",
+        "en": "Hermes of Praxiteles — Archaeological Museum of Olympia"
+       },
+       "author": "Dwaisman",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Hermes_and_the_infant_Dionysus_by_Praxiteles.jpg"
+      },
+      {
+       "file": "images/lessons/cul-classical-8.jpg",
+       "w": 692,
+       "h": 1000,
+       "caption": {
+        "el": "Ο Ηνίοχος — Αρχαιολογικό Μουσείο Δελφών",
+        "tr": "Arabacı (Ηνίοχος) — Delfi Arkeoloji Müzesi",
+        "en": "The Charioteer — Archaeological Museum of Delphi"
+       },
+       "author": "Jebulon",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Aurige._Mus%C3%A9e_Delphes._Gr%C3%A8ce.png"
+      }
+     ]
+    },
+    {
      "type": "tip",
      "text": {
       "el": "Βοήθημα μνήμης: ο Ηνίοχος βρέθηκε στους **Δελφούς** και έμεινε εκεί· ο Ερμής βρέθηκε στην **Ολυμπία** και έμεινε εκεί. Στο εξωτερικό: τα δύο γυναικεία αγάλματα (Νίκη, Αφροδίτη) είναι στο Παρίσι, ο Δισκοβόλος και τα γλυπτά του Παρθενώνα στο Λονδίνο.",
@@ -3703,6 +4439,25 @@
       "tr": "**Büyük İskender** (Makedonya kralı) heykellerde genellikle **genç, sakalsız ve kıvırcık saçlı** olarak tasvir edilir; sakallı yaşlı figürler ise genellikle Homeros veya filozoflardır. İskender'in öğretmeni **Aristoteles**'ti — **Platon değil**.",
       "en": "**Alexander the Great** (king of Macedon) is usually depicted in sculpture as **young, beardless and with curly hair**; bearded elderly figures are usually Homer or philosophers. Alexander's teacher was **Aristotle** — **not Plato**."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-classical-9.jpg",
+       "w": 742,
+       "h": 1000,
+       "caption": {
+        "el": "Ο Μέγας Αλέξανδρος: νέος, αγένειος, με σγουρά μαλλιά (Μουσείο Ακρόπολης)",
+        "tr": "Büyük İskender: genç, sakalsız, kıvırcık saçlı (Akropolis Müzesi)",
+        "en": "Alexander the Great: young, beardless, curly-haired (Acropolis Museum)"
+       },
+       "author": "Marsyas",
+       "license": "CC BY-SA 2.5",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+       "source": "https://commons.wikimedia.org/wiki/File:ACMA_1331_Alexander_1.JPG"
+      }
+     ]
     },
     {
      "type": "list",
@@ -3721,6 +4476,25 @@
        "el": "Ο **Τυρταίος** (Σπάρτη) ήταν **ελεγειακός ποιητής**.",
        "tr": "**Tyrtaios** (Sparta) bir **elegeia şairiydi**.",
        "en": "**Tyrtaeus** (Sparta) was an **elegiac poet**."
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-classical-10.jpg",
+       "w": 665,
+       "h": 1000,
+       "caption": {
+        "el": "Ο Όμηρος, ποιητής της «Ιλιάδας» και της «Οδύσσειας» (ρωμαϊκό αντίγραφο)",
+        "tr": "Homeros, «İlyada» ve «Odysseia»nın şairi (Roma kopyası)",
+        "en": "Homer, poet of the \"Iliad\" and the \"Odyssey\" (Roman copy)"
+       },
+       "author": "Marie-Lan Nguyen",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Bust_Homer_BM_1825.jpg"
       }
      ]
     },
@@ -3794,6 +4568,51 @@
        "el": "Όμηρος, Σοφοκλής, Τυρταίος",
        "tr": "Homeros, Sofokles, Tyrtaios",
        "en": "Homer, Sophocles, Tyrtaeus"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Ο **Ποσειδώνας** ήταν ο **θεός της θάλασσας** (σύμβολό του η τρίαινα).",
+       "tr": "**Poseidon** **denizin tanrısıydı** (simgesi üç dişli mızrak, trident).",
+       "en": "**Poseidon** was the **god of the sea** (his symbol: the trident).",
+       "q": [
+        "cul-11"
+       ]
+      },
+      {
+       "el": "Το **Ανάκτορο της Κνωσού** βρίσκεται στην **Κρήτη** (κοντά στο Ηράκλειο).",
+       "tr": "**Knossos Sarayı** **Girit**'tedir (Kandiye yakınında).",
+       "en": "The **Palace of Knossos** is in **Crete** (near Heraklion).",
+       "q": [
+        "cul-11"
+       ]
+      },
+      {
+       "el": "Θεός της **μουσικής και της αρμονίας** ήταν ο **Απόλλωνας**· ο **Ήφαιστος** ήταν θεός της **φωτιάς και της σιδηρουργίας** (η πρόταση «ο Ήφαιστος ήταν θεός της μουσικής και της αρμονίας» είναι Λάθος).",
+       "tr": "**Müziğin ve uyumun** tanrısı **Apollon**'du; **Hefaistos** **ateşin ve demirciliğin** tanrısıydı («Hefaistos müziğin ve uyumun tanrısıydı» ifadesi Yanlış'tır).",
+       "en": "The god of **music and harmony** was **Apollo**; **Hephaestus** was the god of **fire and metalworking** (\"Hephaestus was the god of music and harmony\" is False).",
+       "q": [
+        "cul-11"
+       ]
+      },
+      {
+       "el": "Ο **Ιππόδρομος** ήταν ένα από τα **χαρακτηριστικά οικοδομήματα** της **Κωνσταντινούπολης** (αρματοδρομίες, λαϊκές συγκεντρώσεις).",
+       "tr": "**Hipodrom**, **Konstantinopolis**'in **karakteristik yapılarından** biriydi (araba yarışları, halk toplantıları).",
+       "en": "The **Hippodrome** was one of the **characteristic buildings** of **Constantinople** (chariot races, public gatherings).",
+       "q": [
+        "cul-24"
+       ]
+      },
+      {
+       "el": "Η **Μονή της Παναγίας Σουμελά** βρισκόταν στον **Πόντο**, κοντά στην Τραπεζούντα — **όχι στην Πελοπόννησο**.",
+       "tr": "**Sümela Manastırı** **Pontus**'ta, Trabzon yakınındaydı — **Mora Yarımadası'nda değil**.",
+       "en": "The **Monastery of Panagia Soumela** was in **Pontus**, near Trabzon — **not in the Peloponnese**.",
+       "q": [
+        "cul-24"
+       ]
       }
      ]
     }
@@ -4594,6 +5413,20 @@
     "tr": "Konstantinopolis'in yapıları, Mistra, Bizans kiliseleri, ikonalar ve çan kulesi.",
     "en": "The buildings of Constantinople, Mystras, Byzantine churches, icons and the bell tower."
    },
+   "cover": {
+    "file": "images/lessons/cul-byzantium-1.jpg",
+    "w": 800,
+    "h": 534,
+    "caption": {
+     "el": "Η Αγία Σοφία στην Κωνσταντινούπολη — ανεγέρθηκε επί Ιουστινιανού (537)",
+     "tr": "İstanbul'daki Ayasofya — Iustinianus döneminde inşa edildi (537)",
+     "en": "Hagia Sophia in Constantinople — erected under Justinian (537)"
+    },
+    "author": "Arild Vågen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg"
+   },
    "blocks": [
     {
      "type": "table",
@@ -4703,12 +5536,78 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-byzantium-2.jpg",
+       "w": 800,
+       "h": 560,
+       "caption": {
+        "el": "Η Αγία Ειρήνη στην Κωνσταντινούπολη — έργο του Μεγάλου Κωνσταντίνου",
+        "tr": "İstanbul'daki Aya İrini — Büyük Konstantin'in eseri",
+        "en": "Hagia Irene in Constantinople — built by Constantine the Great"
+       },
+       "author": "Ninara",
+       "license": "CC BY 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Hagia_Irene,_Istanbul_(52112279404)_(cropped).jpg"
+      },
+      {
+       "file": "images/lessons/cul-byzantium-3.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Ο Ιππόδρομος της Κωνσταντινούπολης σήμερα (οβελίσκος του Θεοδοσίου)",
+        "tr": "Bugün Konstantinopolis Hipodromu (Theodosius Dikilitaşı)",
+        "en": "The Hippodrome of Constantinople today (Obelisk of Theodosius)"
+       },
+       "author": "Ank Kumar",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Obelisk_of_Theodosius,_Hippodrome_of_Constantinople,_Istanbul,_Turkey_(Ank_Kumar)_02.jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "Ο **Μυστράς**, κοντά στη Σπάρτη, είναι μεσαιωνική (βυζαντινή) καστροπολιτεία στην Πελοπόννησο — **όχι προϊστορικό κάστρο**. Ήταν **η πρωτεύουσα του Δεσποτάτου του Μωρέως**. Στην Ελλάδα **βυζαντινά παλάτια** (το Παλάτι των Δεσποτών) σώζονται **στον Μυστρά**· εκεί δεν υπάρχει παλάτι του Ιουστινιανού. Στις **6 Ιανουαρίου 1449** ο τελευταίος βυζαντινός αυτοκράτορας, ο **Κωνσταντίνος ΙΑ΄ Παλαιολόγος**, στέφτηκε στον **μητροπολιτικό ναό του Αγίου Δημητρίου** στον Μυστρά.",
       "tr": "**Mistra (Μυστράς)**, Sparta yakınında, Mora'daki ortaçağ (Bizans) kale-şehridir — **tarih öncesi bir kale değildir**. **Mora Despotluğu'nun başkentiydi**. Yunanistan'da **Bizans sarayları** (Despotlar Sarayı) **Mistra'da** günümüze ulaşmıştır; orada Justinianus'un sarayı yoktur. **6 Ocak 1449**'da son Bizans imparatoru **XI. Konstantinos Palaiologos**, Mistra'daki **Aziz Dimitrios metropolit kilisesinde** taç giydi.",
       "en": "**Mystras (Μυστράς)**, near Sparta, is a medieval (Byzantine) castle-town in the Peloponnese — **not a prehistoric castle**. It was **the capital of the Despotate of the Morea**. In Greece **Byzantine palaces** (the Palace of the Despots) survive **at Mystras**; there is no palace of Justinian there. On **6 January 1449** the last Byzantine emperor, **Constantine XI Palaiologos**, was crowned in the **metropolitan church of Agios Dimitrios** at Mystras."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-byzantium-4.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Το Παλάτι των Δεσποτών στον Μυστρά, πρωτεύουσα του Δεσποτάτου του Μορέως",
+        "tr": "Mora Despotluğu'nun başkenti Mistra'daki Despotlar Sarayı",
+        "en": "The Palace of the Despots at Mystras, capital of the Despotate of the Morea"
+       },
+       "author": "Julien Seguinot from Lille, France",
+       "license": "CC BY-SA 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Mystras_despot%27s_palace_(50841912787).jpg"
+      },
+      {
+       "file": "images/lessons/cul-byzantium-5.jpg",
+       "w": 667,
+       "h": 1000,
+       "caption": {
+        "el": "Ο Άγιος Δημήτριος (Μητρόπολη) του Μυστρά — εδώ στέφθηκε ο Κωνσταντίνος ΙΑ΄ (1449)",
+        "tr": "Mistra'daki Aios Dimitrios metropolit kilisesi — XI. Konstantin burada taç giydi (1449)",
+        "en": "The metropolitan church of Agios Dimitrios at Mystras — Constantine XI was crowned here (1449)"
+       },
+       "author": "Andy Hay",
+       "license": "CC BY 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Cathedral_of_Agios_Demetrios,_Mystras_-_28051747904.jpg"
+      }
+     ]
     },
     {
      "type": "list",
@@ -4737,6 +5636,53 @@
        "el": "Το ψηλό κτίσμα μπροστά από έναν ορθόδοξο ναό είναι το **κωδωνοστάσιο (καμπαναριό)**.",
        "tr": "Ortodoks kilisesinin önündeki yüksek yapı **çan kulesidir (κωδωνοστάσιο / καμπαναριό)**.",
        "en": "The tall structure in front of an Orthodox church is the **bell tower (κωδωνοστάσιο / καμπαναριό)**."
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-byzantium-6.jpg",
+       "w": 800,
+       "h": 534,
+       "caption": {
+        "el": "Η Παναγία Καπνικαρέα, βυζαντινή εκκλησία στην οδό Ερμού (Αθήνα)",
+        "tr": "Ermou Caddesi'ndeki Bizans kilisesi Panagia Kapnikarea (Atina)",
+        "en": "Panagia Kapnikarea, a Byzantine church on Ermou Street (Athens)"
+       },
+       "author": "Jakub Hałun",
+       "license": "CC BY 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Church_of_Panagia_Kapnikarea,_Athens,_20240531_0949_9467.jpg"
+      },
+      {
+       "file": "images/lessons/cul-byzantium-7.jpg",
+       "w": 584,
+       "h": 900,
+       "caption": {
+        "el": "Εικόνα του 14ου αιώνα (Αγία Αικατερίνη) — Βυζαντινό και Χριστιανικό Μουσείο",
+        "tr": "14. yüzyıl ikonası (Azize Katerina) — Bizans ve Hristiyan Müzesi",
+        "en": "14th-century icon (Saint Catherine) — Byzantine and Christian Museum"
+       },
+       "author": "Yair-haklai",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Double_sided_icon_with_Saint_Catherine_in_front._From_Berroia._14th_cent._Byzantine_and_Christian_Museum_of_Athens.jpg"
+      },
+      {
+       "file": "images/lessons/cul-byzantium-8.jpg",
+       "w": 750,
+       "h": 1000,
+       "caption": {
+        "el": "Κωδωνοστάσιο (καμπαναριό) — Μονή Παντάνασσας, Μυστράς",
+        "tr": "Çan kulesi (καμπαναριό) — Pantanassa Manastırı, Mistra",
+        "en": "Bell tower (καμπαναριό) — Pantanassa Monastery, Mystras"
+       },
+       "author": "Lunar sea n",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:%CE%9A%CE%B1%CE%BC%CF%80%CE%B1%CE%BD%CE%B1%CF%81%CE%B9%CF%8C_-_%CE%A0%CE%B1%CE%BD%CF%84%CE%AC%CE%BD%CE%B1%CF%83%CF%83%CE%B1_%CE%9C%CF%85%CF%83%CF%84%CF%81%CE%AC.jpg"
       }
      ]
     },
@@ -4825,6 +5771,75 @@
        "el": "Κωδωνοστάσιο (Καμπαναριό)",
        "tr": "çan kulesi",
        "en": "bell tower"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Τα **τείχη των Θηβών** **δεν** συγκαταλέγονται στα **7 θαύματα** της αρχαιότητας (θαύματα είναι π.χ. ο Κολοσσός της Ρόδου και το άγαλμα του Δία στην Ολυμπία).",
+       "tr": "**Thebai surları** antik dünyanın **7 harikası** arasında **sayılmaz** (harikalar örn. Rodos Heykeli ve Olympia'daki Zeus heykeli).",
+       "en": "The **walls of Thebes** are **not** among the **7 wonders** of antiquity (the wonders include e.g. the Colossus of Rhodes and the statue of Zeus at Olympia).",
+       "q": [
+        "cul-24"
+       ]
+      },
+      {
+       "el": "Σε μεταγενέστερη περίοδο κτίστηκε **μέσα στον Παρθενώνα** **ναός της Παναγίας**.",
+       "tr": "Daha sonraki bir dönemde **Parthenon'un içinde** bir **Meryem Ana kilisesi** inşa edildi.",
+       "en": "In a later period a **church of the Virgin Mary** was built **inside the Parthenon**.",
+       "q": [
+        "cul-24"
+       ]
+      },
+      {
+       "el": "Το **Εθνικό Ιστορικό Μουσείο** στεγάζεται στο κτίριο της **Παλαιάς Βουλής** στην Αθήνα.",
+       "tr": "**Ulusal Tarih Müzesi**, Atina'daki **Eski Parlamento** binasında bulunur.",
+       "en": "The **National Historical Museum** is housed in the **Old Parliament** building in Athens.",
+       "q": [
+        "cul-41"
+       ]
+      },
+      {
+       "el": "Στο **Αρχαιολογικό Μουσείο Ηρακλείου** Κρήτης εκτίθενται κυρίως τα αριστουργήματα του **Μινωικού πολιτισμού**.",
+       "tr": "Girit'teki **Kandiye (Heraklion) Arkeoloji Müzesi**'nde başta **Minos uygarlığının** şaheserleri sergilenir.",
+       "en": "The **Heraklion Archaeological Museum** in Crete mainly displays masterpieces of the **Minoan civilisation**.",
+       "q": [
+        "cul-41"
+       ]
+      },
+      {
+       "el": "Από το **2018** η **Εθνική Βιβλιοθήκη της Ελλάδος** στεγάζεται στο **Κέντρο Πολιτισμού Ίδρυμα Σταύρος Νιάρχος** στην Αθήνα.",
+       "tr": "**2018**'den beri **Yunanistan Ulusal Kütüphanesi**, Atina'daki **Stavros Niarchos Vakfı Kültür Merkezi**'ndedir.",
+       "en": "Since **2018** the **National Library of Greece** has been housed in the **Stavros Niarchos Foundation Cultural Center** in Athens.",
+       "q": [
+        "cul-41"
+       ]
+      },
+      {
+       "el": "Ο **Ιάκωβος Καμπανέλλης** είναι από τους **σημαντικότερους νεοέλληνες θεατρικούς συγγραφείς**.",
+       "tr": "**İakovos Kambanellis** en önemli **modern Yunan tiyatro yazarlarından** biridir.",
+       "en": "**Iakovos Kambanellis** is one of the most important **modern Greek playwrights**.",
+       "q": [
+        "cul-58"
+       ]
+      },
+      {
+       "el": "Το τραγούδι **«Τα παιδιά του Πειραιά»** (μουσική Μάνου Χατζηδάκι) το ερμήνευσε η **Μελίνα Μερκούρη** — **όχι** η Αλίκη Βουγιουκλάκη.",
+       "tr": "**«Pire'nin Çocukları»** şarkısını (müzik: Manos Hadjidakis) **Melina Merkuri** seslendirdi — Aliki Vuyuklaki **değil**.",
+       "en": "The song **«The Children of Piraeus»** (music by Manos Hadjidakis) was sung by **Melina Mercouri** — **not** Aliki Vougiouklaki.",
+       "q": [
+        "cul-58"
+       ]
+      },
+      {
+       "el": "Η **Μελίνα Μερκούρη** πρωταγωνίστησε στη **«Στέλλα»** του **Μιχάλη Κακογιάννη**.",
+       "tr": "**Melina Merkuri**, **Mihalis Kakoyannis**'in **«Stella»** filminde başrol oynadı.",
+       "en": "**Melina Mercouri** starred in **Michael Cacoyannis**'s **«Stella»**.",
+       "q": [
+        "cul-58"
+       ]
       }
      ]
     }
@@ -5520,6 +6535,20 @@
     "tr": "Beyaz Kule, Neoklasik Atina, Evzonlar, müzeler ile modern heykeltıraşlar ve ressamlar.",
     "en": "The White Tower, Neoclassical Athens, the Evzones, museums, and modern sculptors and painters."
    },
+   "cover": {
+    "file": "images/lessons/cul-modern-heritage-1.jpg",
+    "w": 800,
+    "h": 534,
+    "caption": {
+     "el": "Ο Λευκός Πύργος, σύμβολο της Θεσσαλονίκης — χτίστηκε στην οθωμανική περίοδο",
+     "tr": "Selanik'in simgesi Beyaz Kule — Osmanlı döneminde inşa edildi",
+     "en": "The White Tower, symbol of Thessaloniki — built in the Ottoman period"
+    },
+    "author": "Annatsach",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_White_Tower_of_Thessaloniki_-_2.jpg"
+   },
    "blocks": [
     {
      "type": "list",
@@ -5545,6 +6574,25 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-modern-heritage-2.jpg",
+       "w": 800,
+       "h": 800,
+       "caption": {
+        "el": "Η Ακαδημία Αθηνών — νεοκλασικό κτήριο με ιωνικούς κίονες και αέτωμα",
+        "tr": "Atina Akademisi — İyon sütunlu ve alınlıklı neoklasik bina",
+        "en": "The Academy of Athens — neoclassical, with Ionic columns and a pediment"
+       },
+       "author": "A.Savin",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_28_Academy_of_Athens.jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "**Ιλίου Μέλαθρον**: Ο αρχιτέκτονας **Ερνέστος Τσίλλερ** έκτισε αυτό το μέγαρο το 1878-1879 ως κατοικία του **Ερρίκου Σλήμαν**, του ανασκαφέα της Τροίας. Σήμερα στεγάζει το **Νομισματικό Μουσείο** (μουσείο νομισμάτων).",
@@ -5553,12 +6601,50 @@
      }
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-modern-heritage-3.jpg",
+       "w": 800,
+       "h": 597,
+       "caption": {
+        "el": "Ιλίου Μέλαθρον (Τσίλλερ) — σπίτι του Σλήμαν, σήμερα Νομισματικό Μουσείο",
+        "tr": "Iliou Melathron (Ziller) — Schliemann'ın evi, bugün Nümismatik Müze",
+        "en": "Iliou Melathron (Ziller) — Schliemann's house, today the Numismatic Museum"
+       },
+       "author": "C messier",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:%CE%99%CE%BB%CE%AF%CE%BF%CF%85_%CE%9C%CE%AD%CE%BB%CE%B1%CE%B8%CF%81%CE%BF%CE%BD_6649.jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "Η **Προεδρική Φρουρά** — οι **Εύζωνες**: με την παραδοσιακή φουστανέλα και τα τσαρούχια με τις φούντες φρουρούν το Μνημείο του Άγνωστου Στρατιώτη και το Προεδρικό Μέγαρο στην Αθήνα.",
       "tr": "**Cumhurbaşkanlığı Muhafızları (Προεδρική Φρουρά)** — **Evzonlar**: geleneksel fustanella eteği ve ponponlu çarıklarla Atina'da Meçhul Asker Anıtı'nı ve Cumhurbaşkanlığı Konağı'nı korurlar.",
       "en": "**The Presidential Guard (Προεδρική Φρουρά)** — the **Evzones**: in the traditional foustanella kilt and pom-pom shoes they guard the Tomb of the Unknown Soldier and the Presidential Mansion in Athens."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-modern-heritage-4.jpg",
+       "w": 750,
+       "h": 1000,
+       "caption": {
+        "el": "Εύζωνες της Προεδρικής Φρουράς με φουστανέλα και τσαρούχια",
+        "tr": "Fustanella ve ponponlu çarıklarıyla Cumhurbaşkanlığı Muhafızı Evzonlar",
+        "en": "Evzones of the Presidential Guard in foustanella and pom-pom shoes"
+       },
+       "author": "Luc.T from Buggenhout, België",
+       "license": "CC BY 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Evzones,_Presidential_Guard_(41263349224).jpg"
+      }
+     ]
     },
     {
      "type": "list",
@@ -5577,6 +6663,25 @@
        "el": "Στη Θεσσαλονίκη υπάρχει **Μουσείο Βυζαντινού Πολιτισμού**· στο Αρχαιολογικό Μουσείο Ηρακλείου εκτίθενται κυρίως τα αριστουργήματα του Μινωικού πολιτισμού.",
        "tr": "Selanik'te **Bizans Kültürü Müzesi** vardır; Kandiye Arkeoloji Müzesi'nde başta Minos şaheserleri sergilenir.",
        "en": "Thessaloniki has a **Museum of Byzantine Culture**; the Heraklion Archaeological Museum mainly displays Minoan masterpieces."
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-modern-heritage-5.jpg",
+       "w": 800,
+       "h": 625,
+       "caption": {
+        "el": "Η Παλαιά Βουλή στην Αθήνα — στεγάζει το Εθνικό Ιστορικό Μουσείο",
+        "tr": "Atina'daki Eski Parlamento — Ulusal Tarih Müzesi'ne ev sahipliği yapar",
+        "en": "The Old Parliament in Athens — home of the National Historical Museum"
+       },
+       "author": "Julian Lupyan",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Old_Parliament_House,_Athens.jpg"
       }
      ]
     },
@@ -5694,6 +6799,25 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-modern-heritage-6.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "«Η Κοιμωμένη» του Γιαννούλη Χαλεπά (Α΄ Νεκροταφείο Αθηνών)",
+        "tr": "Yannulis Halepas'ın «Uyuyan Kız»ı (Atina Birinci Mezarlığı)",
+        "en": "\"The Sleeping Girl\" by Yannoulis Chalepas (First Cemetery of Athens)"
+       },
+       "author": "George E. Koronaios",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Funerary_statue_of_Sofia_Afentaki_at_the_1st_Cemetery_of_Athens_on_December_20,_2022.jpg"
+      }
+     ]
+    },
+    {
      "type": "tip",
      "text": {
       "el": "Παγίδα: η «Κοιμωμένη» είναι του **Χαλεπά**, όχι του Ζογγολόπουλου (Ζογγολόπουλος = Ομπρέλες). Για τους ζωγράφους: Φασιανός – Ποδηλάτης, Τσαρούχης – Ναύτης, Εγγονόπουλος – Αϊ Γιώργης, Μώραλης – Ερωτικό.",
@@ -5763,6 +6887,27 @@
        "el": "Φασιανός, Μώραλης, Τσαρούχης, Εγγονόπουλος",
        "tr": "Fasianos, Moralis, Tsaruhis, Engonopulos",
        "en": "Fassianos, Moralis, Tsarouchis, Engonopoulos"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Η **Ευανθία Ρεμπούτσικα** συνέθεσε τη μουσική για την ταινία **«Πολίτικη Κουζίνα»**.",
+       "tr": "**Evanthia Reboutsika**, **«Politiki Kouzina» (Bir Tutam Baharat)** filminin müziğini besteledi.",
+       "en": "**Evanthia Reboutsika** composed the music for the film **«Politiki Kouzina» (A Touch of Spice)**.",
+       "q": [
+        "cul-65"
+       ]
+      },
+      {
+       "el": "Η **Σωτηρία Μπέλλου** είναι μία από τις πιο γνωστές εκπροσώπους του **ρεμπέτικου τραγουδιού**.",
+       "tr": "**Sotiria Bellou**, **rebetiko şarkısının** en tanınmış temsilcilerinden biridir.",
+       "en": "**Sotiria Bellou** is one of the best-known exponents of **rebetiko song**.",
+       "q": [
+        "cul-65"
+       ]
       }
      ]
     }
@@ -6633,6 +7778,20 @@
     "tr": "Besteciler, söz yazarları, şarkıcılar, rebetiko ve milli marş.",
     "en": "Composers, lyricists, singers, rebetiko and the national anthem."
    },
+   "cover": {
+    "file": "images/lessons/cul-music-1.jpg",
+    "w": 800,
+    "h": 548,
+    "caption": {
+     "el": "Ο Μάνος Χατζιδάκις στο πιάνο, στο ωδείο της αρχαίας Νικόπολης (1987)",
+     "tr": "Manos Hacidakis piyanoda, antik Nikopolis odeonunda (1987)",
+     "en": "Manos Hadjidakis at the piano in the odeon of ancient Nicopolis (1987)"
+    },
+    "author": "Nikos D. Karabelas",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hatzidakis_Nicopolis_1987.jpg"
+   },
    "blocks": [
     {
      "type": "table",
@@ -6776,6 +7935,53 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-music-2.jpg",
+       "w": 703,
+       "h": 1000,
+       "caption": {
+        "el": "Μίκης Θεοδωράκης — Ρίτσος, «Άξιον Εστί», «Ζ»",
+        "tr": "Mikis Theodorakis — Ritsos, «Axion Esti», «Z»",
+        "en": "Mikis Theodorakis — Ritsos, \"Axion Esti\", \"Z\""
+       },
+       "author": "Heinrich Klaffs",
+       "license": "CC BY-SA 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Mikis_Theodorakis_Fabrik_070004.jpg"
+      },
+      {
+       "file": "images/lessons/cul-music-3.jpg",
+       "w": 800,
+       "h": 971,
+       "caption": {
+        "el": "Νικόλαος Μάντζαρος — μελοποίησε τον «Ύμνο εις την Ελευθερίαν» (εθνικός ύμνος)",
+        "tr": "Nikolaos Mancaros — «Özgürlük Marşı»nı besteledi (milli marş)",
+        "en": "Nikolaos Mantzaros — set the \"Hymn to Liberty\" to music (national anthem)"
+       },
+       "author": "GualdimG",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Nikolaos_Mantzaros,_Ioannis_Kalosgouros,_Municipal_Gallery_of_Corfu_03.jpg"
+      },
+      {
+       "file": "images/lessons/cul-music-4.jpg",
+       "w": 467,
+       "h": 600,
+       "caption": {
+        "el": "Μάρκος Βαμβακάρης — διέπρεψε στο ρεμπέτικο",
+        "tr": "Markos Vamvakaris — rebetikoda öne çıktı",
+        "en": "Markos Vamvakaris — excelled in rebetiko"
+       },
+       "author": "Unknown photographer",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Markos_Vamvakaris_rebetiko_musician_as_a_young_man.jpg"
+      }
+     ]
+    },
+    {
      "type": "table",
      "head": [
       {
@@ -6889,12 +8095,50 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-music-5.jpg",
+       "w": 626,
+       "h": 822,
+       "caption": {
+        "el": "Μαρία Κάλλας — σοπράνο διεθνούς φήμης (1959)",
+        "tr": "Maria Callas — uluslararası üne sahip soprano (1959)",
+        "en": "Maria Callas — internationally renowned soprano (1959)"
+       },
+       "author": "Joop van Bilsen / Anefo",
+       "license": "CC BY-SA 2.5",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+       "source": "https://commons.wikimedia.org/wiki/File:Maria_Callas_1959_Amsterdam.jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "Η **Ελληνική Εθνική Σχολή Μουσικής** ιδρύθηκε στις αρχές του 20ού αιώνα στα πρότυπα της Δυτικής Ευρώπης και στόχευε στη δημιουργία εθνικής μουσικής. Στα πρώτα της βήματα βασίστηκε **στην παραδοσιακή ελληνική μουσική, στα δημοτικά τραγούδια και στη βυζαντινή υμνωδία** — **όχι στην οθωμανική μουσική**. (Κορυφαίος εκπρόσωπός της είναι ο Μανώλης Καλομοίρης.)",
       "tr": "**Yunan Ulusal Müzik Ekolü** 20. yüzyıl başında Batı Avrupa örneğinde kuruldu ve ulusal bir müzik yaratmayı amaçladı. İlk adımlarında **geleneksel Yunan müziğine, halk türkülerine (δημοτικά) ve Bizans ilahilerine** dayandı — **Osmanlı müziğine değil**. (Önde gelen temsilcisi Manolis Kalomiris'tir.)",
       "en": "The **Greek National School of Music** was founded at the beginning of the 20th century on the Western European model and aimed at creating a national music. In its first steps it was based on **traditional Greek music, folk (demotic) songs and Byzantine hymnody** — **not on Ottoman music**. (Its leading figure is Manolis Kalomiris.)"
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-music-6.jpg",
+       "w": 244,
+       "h": 450,
+       "caption": {
+        "el": "Μανόλης Καλομοίρης — ηγετική μορφή της Εθνικής Μουσικής Σχολής",
+        "tr": "Manolis Kalomiris — Ulusal Müzik Okulu'nun öncü ismi",
+        "en": "Manolis Kalomiris — leading figure of the National School of Music"
+       },
+       "author": "Unknown author (Ethnikon Imerologion)",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Manolis_Kalomoiris_(sketch).jpg"
+      }
+     ]
     },
     {
      "type": "tip",
@@ -6961,6 +8205,51 @@
        "el": "βυζαντινή υμνωδία",
        "tr": "Bizans ilahileri",
        "en": "Byzantine hymnody"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Ο βυζαντινός ναός της **Παναγίας Καπνικαρέας** βρίσκεται στην **Αθήνα** (οδός Ερμού).",
+       "tr": "Bizans anıtı **Panagia Kapnikarea** kilisesi **Atina**'dadır (Ermou Caddesi).",
+       "en": "The Byzantine church of **Panagia Kapnikarea** is in **Athens** (Ermou Street).",
+       "q": [
+        "cul-58"
+       ]
+      },
+      {
+       "el": "Ο **Ιάκωβος Καμπανέλλης** είναι από τους **σημαντικότερους νεοέλληνες θεατρικούς συγγραφείς**.",
+       "tr": "**İakovos Kambanellis** en önemli **modern Yunan tiyatro yazarlarından** biridir.",
+       "en": "**Iakovos Kambanellis** is one of the most important **modern Greek playwrights**.",
+       "q": [
+        "cul-58"
+       ]
+      },
+      {
+       "el": "Η **Μελίνα Μερκούρη** πρωταγωνίστησε στη **«Στέλλα»** του **Μιχάλη Κακογιάννη**.",
+       "tr": "**Melina Merkuri**, **Mihalis Kakoyannis**'in **«Stella»** filminde başrol oynadı.",
+       "en": "**Melina Mercouri** starred in **Michael Cacoyannis**'s **«Stella»**.",
+       "q": [
+        "cul-58"
+       ]
+      },
+      {
+       "el": "Ο **Λευκός Πύργος** της Θεσσαλονίκης **δεν είναι έργο βυζαντινών αυτοκρατόρων**· κτίστηκε κατά την **οθωμανική περίοδο**.",
+       "tr": "Selanik'teki **Beyaz Kule** **Bizans imparatorlarının eseri değildir**; **Osmanlı döneminde** inşa edildi.",
+       "en": "The **White Tower** of Thessaloniki is **not the work of Byzantine emperors**; it was built in the **Ottoman period**.",
+       "q": [
+        "cul-65"
+       ]
+      },
+      {
+       "el": "Η **«Κοιμωμένη»** είναι γλυπτό του **Γιαννούλη Χαλεπά** — **όχι** του Γιώργου Ζογγολόπουλου (του Ζογγολόπουλου είναι οι «Ομπρέλες»).",
+       "tr": "**«Uyuyan Kız»** **Yannulis Halepas**'ın heykelidir — Yorgos Zongolopulos'un **değil** (Zongolopulos'un eseri «Şemsiyeler»dir).",
+       "en": "**«The Sleeping Girl»** is a sculpture by **Yannoulis Chalepas** — **not** Giorgos Zongolopoulos (Zongolopoulos made the «Umbrellas»).",
+       "q": [
+        "cul-65"
+       ]
       }
      ]
     }
@@ -7764,6 +9053,20 @@
     "tr": "Yönetmenler, ünlü oyuncular ve klasik filmler.",
     "en": "Directors, famous actors and classic films."
    },
+   "cover": {
+    "file": "images/lessons/cul-cinema-1.jpg",
+    "w": 800,
+    "h": 531,
+    "caption": {
+     "el": "Η Μελίνα Μερκούρη (1968) — πρωταγωνίστρια της «Στέλλας» του Κακογιάννη",
+     "tr": "Melina Merkuri (1968) — Kakoyannis'in «Stella» filminin yıldızı",
+     "en": "Melina Mercouri (1968) — star of Cacoyannis's \"Stella\""
+    },
+    "author": "Jack de Nijs for Anefo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Aankomst_Melina_Mercouri_._Melina_Mercouri,_Bestanddeelnr_921-3505.jpg"
+   },
    "blocks": [
     {
      "type": "table",
@@ -7828,6 +9131,53 @@
         "en": "«Megalexandros» – the title refers to the ancient hero Alexander the Great; also «The Beekeeper», «The Suspended Step of the Stork»"
        }
       ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-cinema-2.jpg",
+       "w": 722,
+       "h": 1000,
+       "caption": {
+        "el": "Γιώργος Λάνθιμος — «Κυνόδοντας», υποψήφιο για Όσκαρ το 2011",
+        "tr": "Yorgos Lanthimos — «Köpek Dişi» (Kynodontas), 2011 Oscar adayı",
+        "en": "Yorgos Lanthimos — \"Dogtooth\", Oscar nominee in 2011"
+       },
+       "author": "Anna Hanks from Austin, Texas, USA",
+       "license": "CC BY 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Yorgos_Lanthimos,_THE_LOBSTER,_Fantastic_Fest_2015_-9674_(27161878820)_(cropped).jpg"
+      },
+      {
+       "file": "images/lessons/cul-cinema-3.jpg",
+       "w": 567,
+       "h": 800,
+       "caption": {
+        "el": "Κώστας Γαβράς — «Ζ» (μουσική: Μίκης Θεοδωράκης)",
+        "tr": "Kostas Gavras — «Z» (müzik: Mikis Theodorakis)",
+        "en": "Costa-Gavras — \"Z\" (music: Mikis Theodorakis)"
+       },
+       "author": "Georges Biard",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Costa-Gavras_Cannes_2015.jpg"
+      },
+      {
+       "file": "images/lessons/cul-cinema-4.jpg",
+       "w": 428,
+       "h": 640,
+       "caption": {
+        "el": "Θόδωρος Αγγελόπουλος — «Μεγαλέξανδρος», «Ο Μελισσοκόμος»",
+        "tr": "Theo Angelopoulos — «Megaleksandros», «Arıcı»",
+        "en": "Theo Angelopoulos — \"Megalexandros\", \"The Beekeeper\""
+       },
+       "author": "George Laoutaris",
+       "license": "CC BY-SA 2.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Theodoros_Angelopoulos_Athens_26-4-2009-2.jpg"
+      }
      ]
     },
     {
@@ -7944,6 +9294,53 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-cinema-5.jpg",
+       "w": 764,
+       "h": 1000,
+       "caption": {
+        "el": "Ειρήνη Παππά — «Τα κανόνια του Ναβαρόνε»",
+        "tr": "İrini Papa — «Navarone Topları»",
+        "en": "Irene Papas — \"The Guns of Navarone\""
+       },
+       "author": "MGM",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Irene_Papas_1956.jpg"
+      },
+      {
+       "file": "images/lessons/cul-cinema-6.jpg",
+       "w": 305,
+       "h": 300,
+       "caption": {
+        "el": "Έλλη Λαμπέτη — «Κυριακάτικο ξύπνημα», «Κάλπικη λίρα»",
+        "tr": "Elli Lambeti — «Pazar Uyanışı», «Sahte Altın»",
+        "en": "Elli Lambeti — \"Sunday Awakening\", \"The Counterfeit Coin\""
+       },
+       "author": "Yani papadimos",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:%CE%88%CE%BB%CE%BB%CE%B7_%CE%9B%CE%B1%CE%BC%CF%80%CE%AD%CF%84%CE%B7.jpg"
+      },
+      {
+       "file": "images/lessons/cul-cinema-7.jpg",
+       "w": 742,
+       "h": 498,
+       "caption": {
+        "el": "Αλίκη Βουγιουκλάκη — «Η Αλίκη στο Ναυτικό»",
+        "tr": "Aliki Vuyuklaki — «Aliki Donanmada»",
+        "en": "Aliki Vougiouklaki — \"Aliki in the Navy\""
+       },
+       "author": "דני מורבקין חדרה (Danny Morbakin)",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:AlikiAutograf.jpg"
+      }
+     ]
+    },
+    {
      "type": "tip",
      "text": {
       "el": "Το όνομα κρύβεται στον τίτλο: «Η **Αλίκη** στο Ναυτικό» → **Αλίκη** Βουγιουκλάκη· «**Τζένη**, Τζένη» → **Τζένη** Καρέζη. Τα άλλα δύο: Κυριακάτικο ξύπνημα → Λαμπέτη, Τα κόκκινα φανάρια → Διαμαντίδου.",
@@ -8021,6 +9418,35 @@
        "el": "Κάλπικη Λίρα",
        "tr": "Kalp Lira",
        "en": "The Counterfeit Coin"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Ο βυζαντινός ναός της **Παναγίας Καπνικαρέας** βρίσκεται στην **Αθήνα** (οδός Ερμού).",
+       "tr": "Bizans anıtı **Panagia Kapnikarea** kilisesi **Atina**'dadır (Ermou Caddesi).",
+       "en": "The Byzantine church of **Panagia Kapnikarea** is in **Athens** (Ermou Street).",
+       "q": [
+        "cul-58"
+       ]
+      },
+      {
+       "el": "Ο **Ιάκωβος Καμπανέλλης** είναι από τους **σημαντικότερους νεοέλληνες θεατρικούς συγγραφείς**.",
+       "tr": "**İakovos Kambanellis** en önemli **modern Yunan tiyatro yazarlarından** biridir.",
+       "en": "**Iakovos Kambanellis** is one of the most important **modern Greek playwrights**.",
+       "q": [
+        "cul-58"
+       ]
+      },
+      {
+       "el": "Το τραγούδι **«Τα παιδιά του Πειραιά»** (μουσική Μάνου Χατζηδάκι) το ερμήνευσε η **Μελίνα Μερκούρη** — **όχι** η Αλίκη Βουγιουκλάκη.",
+       "tr": "**«Pire'nin Çocukları»** şarkısını (müzik: Manos Hadjidakis) **Melina Merkuri** seslendirdi — Aliki Vuyuklaki **değil**.",
+       "en": "The song **«The Children of Piraeus»** (music by Manos Hadjidakis) was sung by **Melina Mercouri** — **not** Aliki Vougiouklaki.",
+       "q": [
+        "cul-58"
+       ]
       }
      ]
     }
@@ -8717,6 +10143,20 @@
     "tr": "Nobel ödüllü şairler, yazarlar ve eserleri, tiyatro ve çocuk edebiyatı.",
     "en": "Nobel-winning poets, writers and their works, theatre and children's literature."
    },
+   "cover": {
+    "file": "images/lessons/cul-literature-1.jpg",
+    "w": 800,
+    "h": 619,
+    "caption": {
+     "el": "Αλέξανδρος Παπαδιαμάντης (1908) — «Η Φόνισσα», «Οι Έμποροι των Εθνών»",
+     "tr": "Aleksandros Papadiamandis (1908) — «Katil Kadın», «Ulusların Tüccarları»",
+     "en": "Alexandros Papadiamantis (1908) — \"The Murderess\", \"The Merchants of Nations\""
+    },
+    "author": "Georgios Chatzopoulos (1859-1935)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Alexandros_Papadiamantis_by_G_Chatzopoulos_1908.jpg"
+   },
    "blocks": [
     {
      "type": "p",
@@ -8725,6 +10165,39 @@
       "tr": "**Nobel Edebiyat Ödülü** alan iki Yunan şair: **Yorgos Seferis** (1963) ve **Odisseas Elitis** (1979). Palamas, Ritsos, Kalvos, Varnalis, Kariotakis ve Kavafis büyük şairlerdir ama Nobel almamışlardır.",
       "en": "The two Greek poets who won the **Nobel Prize in Literature**: **Giorgos Seferis** (1963) and **Odysseas Elytis** (1979). Palamas, Ritsos, Kalvos, Varnalis, Karyotakis and Cavafy are great poets but did not win the Nobel."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-literature-2.jpg",
+       "w": 280,
+       "h": 396,
+       "caption": {
+        "el": "Γιώργος Σεφέρης — Νόμπελ Λογοτεχνίας 1963",
+        "tr": "Yorgos Seferis — 1963 Nobel Edebiyat Ödülü",
+        "en": "Giorgos Seferis — Nobel Prize in Literature 1963"
+       },
+       "author": "Nobel Foundation",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Giorgos_Seferis_1963.jpg"
+      },
+      {
+       "file": "images/lessons/cul-literature-3.jpg",
+       "w": 436,
+       "h": 687,
+       "caption": {
+        "el": "Οδυσσέας Ελύτης — Νόμπελ Λογοτεχνίας 1979",
+        "tr": "Odisseas Elitis — 1979 Nobel Edebiyat Ödülü",
+        "en": "Odysseas Elytis — Nobel Prize in Literature 1979"
+       },
+       "author": "Unknown (Mondadori Publishers)",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Odysseas_Elytis_1974_(cropped).jpg"
+      }
+     ]
     },
     {
      "type": "table",
@@ -8828,6 +10301,53 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-literature-4.jpg",
+       "w": 599,
+       "h": 808,
+       "caption": {
+        "el": "Πηνελόπη Δέλτα — «Στα μυστικά του βάλτου» (πρώτη έκδοση)",
+        "tr": "Penelope Delta — «Bataklığın Sırları» (ilk baskı)",
+        "en": "Penelope Delta — \"The Secrets of the Swamp\" (first edition)"
+       },
+       "author": "Δημήτριος Α. Μπισκίνης",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Sta_Mystika_tou_Valtou_firstcover.jpg"
+      },
+      {
+       "file": "images/lessons/cul-literature-5.jpg",
+       "w": 396,
+       "h": 600,
+       "caption": {
+        "el": "Νίκος Καζαντζάκης — «Βίος και Πολιτεία του Αλέξη Ζορμπά»",
+        "tr": "Nikos Kazancakis — «Zorba'nın Hayatı ve Maceraları» (Zorba)",
+        "en": "Nikos Kazantzakis — \"Life and Times of Alexis Zorba\""
+       },
+       "author": "Henri Chaillet",
+       "license": "CC BY 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Nikos_Kazantzakis_(1956).jpg"
+      },
+      {
+       "file": "images/lessons/cul-literature-6.jpg",
+       "w": 614,
+       "h": 1000,
+       "caption": {
+        "el": "Παπαδιαμάντης — «Η Φόνισσα» (πρώτη έκδοση, 1912)",
+        "tr": "Papadiamandis — «Katil Kadın» (ilk baskı, 1912)",
+        "en": "Papadiamantis — \"The Murderess\" (first edition, 1912)"
+       },
+       "author": "Alexandros Papadiamantis (1851-1911), 1st edition",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Alexandros_Papadiamantis_Phonissa_1st_edition_1912.png"
+      }
+     ]
+    },
+    {
      "type": "list",
      "items": [
       {
@@ -8844,6 +10364,25 @@
        "el": "Ο **Διονύσιος Σολωμός** έγραψε τον «Ύμνον εις την Ελευθερίαν» (οι στίχοι του εθνικού ύμνου).",
        "tr": "**Dionisios Solomos** «Özgürlüğe Övgü»yü yazdı (milli marşın sözleri).",
        "en": "**Dionysios Solomos** wrote the «Hymn to Liberty» (the words of the national anthem)."
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-literature-7.jpg",
+       "w": 720,
+       "h": 829,
+       "caption": {
+        "el": "Διονύσιος Σολωμός — έγραψε τον «Ύμνο εις την Ελευθερίαν»",
+        "tr": "Dionisios Solomos — «Özgürlük Marşı»nı yazdı",
+        "en": "Dionysios Solomos — wrote the \"Hymn to Liberty\""
+       },
+       "author": "Unknown artist",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Dionysios_Solomos_-_Google_Art_Project.jpg"
       }
      ]
     },
@@ -8912,6 +10451,35 @@
        "el": "Ιάκωβος Καμπανέλλης",
        "tr": "İakovos Kambanellis",
        "en": "Iakovos Kambanellis"
+      }
+     ]
+    },
+    {
+     "type": "exam",
+     "items": [
+      {
+       "el": "Ο βυζαντινός ναός της **Παναγίας Καπνικαρέας** βρίσκεται στην **Αθήνα** (οδός Ερμού).",
+       "tr": "Bizans anıtı **Panagia Kapnikarea** kilisesi **Atina**'dadır (Ermou Caddesi).",
+       "en": "The Byzantine church of **Panagia Kapnikarea** is in **Athens** (Ermou Street).",
+       "q": [
+        "cul-58"
+       ]
+      },
+      {
+       "el": "Το τραγούδι **«Τα παιδιά του Πειραιά»** (μουσική Μάνου Χατζηδάκι) το ερμήνευσε η **Μελίνα Μερκούρη** — **όχι** η Αλίκη Βουγιουκλάκη.",
+       "tr": "**«Pire'nin Çocukları»** şarkısını (müzik: Manos Hadjidakis) **Melina Merkuri** seslendirdi — Aliki Vuyuklaki **değil**.",
+       "en": "The song **«The Children of Piraeus»** (music by Manos Hadjidakis) was sung by **Melina Mercouri** — **not** Aliki Vougiouklaki.",
+       "q": [
+        "cul-58"
+       ]
+      },
+      {
+       "el": "Η **Μελίνα Μερκούρη** πρωταγωνίστησε στη **«Στέλλα»** του **Μιχάλη Κακογιάννη**.",
+       "tr": "**Melina Merkuri**, **Mihalis Kakoyannis**'in **«Stella»** filminde başrol oynadı.",
+       "en": "**Melina Mercouri** starred in **Michael Cacoyannis**'s **«Stella»**.",
+       "q": [
+        "cul-58"
+       ]
       }
      ]
     }
@@ -9534,6 +11102,20 @@
     "tr": "Olimpiyatlar, ünlü sporcular, spor tarihindeki tarihler ve kulüpler.",
     "en": "The Olympics, famous athletes, key dates in sport and the clubs."
    },
+   "cover": {
+    "file": "images/lessons/cul-sport-1.jpg",
+    "w": 800,
+    "h": 532,
+    "caption": {
+     "el": "Το Παναθηναϊκό Στάδιο (Καλλιμάρμαρο) — εδώ αναβίωσαν οι Ολυμπιακοί Αγώνες το 1896",
+     "tr": "Panathinaiko Stadı (Kallimarmaro) — Olimpiyat Oyunları 1896'da burada yeniden doğdu",
+     "en": "The Panathenaic Stadium (Kallimarmaro) — where the Olympic Games were revived in 1896"
+    },
+    "author": "Jebulon",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Panathenaic_stadium_Athens_Greece.jpg"
+   },
    "blocks": [
     {
      "type": "timeline",
@@ -9573,12 +11155,78 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-sport-2.jpg",
+       "w": 699,
+       "h": 999,
+       "caption": {
+        "el": "Σπύρος Λούης — νικητής του μαραθωνίου δρόμου (1896)",
+        "tr": "Spiros Luis — maraton koşusunun galibi (1896)",
+        "en": "Spyros Louis — winner of the marathon race (1896)"
+       },
+       "author": "Unknown author",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Spyridon_Louis_1896.jpg"
+      },
+      {
+       "file": "images/lessons/cul-sport-3.jpg",
+       "w": 800,
+       "h": 288,
+       "caption": {
+        "el": "Η πρώτη μέρα των πρώτων σύγχρονων Ολυμπιακών Αγώνων, Αθήνα 1896",
+        "tr": "İlk modern Olimpiyat Oyunları'nın ilk günü, Atina 1896",
+        "en": "The first day of the first modern Olympic Games, Athens 1896"
+       },
+       "author": "Unknown author",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Panathenaic_Stadium_1896_oppening.jpg"
+      },
+      {
+       "file": "images/lessons/cul-sport-4.jpg",
+       "w": 800,
+       "h": 450,
+       "caption": {
+        "el": "Ράλι Ακρόπολις — διεθνής αγώνας αυτοκινήτου (από το 1953)",
+        "tr": "Akropolis Rallisi — uluslararası otomobil yarışı (1953'ten beri)",
+        "en": "Acropolis Rally — international motor race (since 1953)"
+       },
+       "author": "Nickgleris",
+       "license": "CC0",
+       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+       "source": "https://commons.wikimedia.org/wiki/File:Rally_Acropolis_2011-SS3.jpg"
+      }
+     ]
+    },
+    {
      "type": "p",
      "text": {
       "el": "Ο **Παναγής Κουταλιανός** (1847-1916) γεννήθηκε στην Κούταλη της Προποντίδας (Θάλασσα του Μαρμαρά) και έγινε πολύ διάσημος **στην πάλη**.",
       "tr": "**Panagis Kutalianos** (1847-1916), Marmara Denizi'ndeki Ekinlik Adası'nda (Κούταλη) doğdu ve **güreşte** büyük ün kazandı.",
       "en": "**Panagis Koutalianos** (1847-1916) was born on Koutali in the Sea of Marmara (Propontis) and became famous in **wrestling**."
      }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-sport-5.jpg",
+       "w": 750,
+       "h": 1000,
+       "caption": {
+        "el": "Παναγής Κουταλιανός — αφίσα παράστασής του στη Λίμα (1878)· διάσημος στην πάλη",
+        "tr": "Panagis Kutalianos — Lima'daki gösterisinin afişi (1878); güreşte ünlü",
+        "en": "Panagis Koutalianos — poster of his show in Lima (1878); famous in wrestling"
+       },
+       "author": "Catlemur",
+       "license": "CC BY-SA 4.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Panagis_Koutalianos_Peru_Poster.jpg"
+      }
+     ]
     },
     {
      "type": "table",
@@ -10411,6 +12059,20 @@
     "tr": "Paskalya, Yılbaşı, Epifani, Temiz Pazartesi ve günlük hayattaki dini gelenekler.",
     "en": "Easter, New Year, Epiphany, Clean Monday and religious customs of everyday life."
    },
+   "cover": {
+    "file": "images/lessons/cul-customs-1.jpg",
+    "w": 800,
+    "h": 600,
+    "caption": {
+     "el": "Καθαρά Δευτέρα: χαρταετοί στον λόφο του Φιλοπάππου (Αθήνα)",
+     "tr": "Kathara Deftera (Temiz Pazartesi): Filopappu Tepesi'nde uçurtmalar (Atina)",
+     "en": "Clean Monday: kites on Philopappos Hill (Athens)"
+    },
+    "author": "Catlemur",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Philopappos_Hill_Clean_Monday_Kite_Flying_2023.jpg"
+   },
    "blocks": [
     {
      "type": "timeline",
@@ -10454,6 +12116,81 @@
         "tr": "Paskalya Pazarı: kuzu çevirme, yumurta tokuşturma; Paskalya çörekleri (tsureki).",
         "en": "Easter Sunday: spit-roast lamb, cracking eggs; Easter sweet breads (tsourekia)."
        }
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-customs-2.jpg",
+       "w": 800,
+       "h": 716,
+       "caption": {
+        "el": "Κόκκινα αυγά και τσουρέκι του Πάσχα",
+        "tr": "Paskalya'nın kırmızı yumurtaları ve çöreği (tsureki)",
+        "en": "Red Easter eggs and tsoureki (Easter bread)"
+       },
+       "author": "ΙΣΧΣΝΙΚΑ-888",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Traditional_Greek_Orthodox_Paschal_(Easter)_foods.jpg"
+      },
+      {
+       "file": "images/lessons/cul-customs-3.jpg",
+       "w": 800,
+       "h": 536,
+       "caption": {
+        "el": "Μεγάλη Παρασκευή: ο στολισμένος Επιτάφιος περιφέρεται στους δρόμους (Κέρκυρα)",
+        "tr": "Kutsal Cuma: çiçeklerle süslü Epitafios sokaklarda dolaştırılır (Korfu)",
+        "en": "Good Friday: the flower-decked Epitaphios is carried through the streets (Corfu)"
+       },
+       "author": "Jean Housen",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:20140418_corfu271.JPG"
+      },
+      {
+       "file": "images/lessons/cul-customs-4.jpg",
+       "w": 800,
+       "h": 533,
+       "caption": {
+        "el": "Μεγάλο Σάββατο: οι πιστοί παίρνουν το Άγιο Φως στις λαμπάδες",
+        "tr": "Kutsal Cumartesi: inananlar Kutsal Işığı mumlarına alır",
+        "en": "Holy Saturday: the faithful receive the Holy Light on candles"
+       },
+       "author": "Maggas (English Wikipedia)",
+       "license": "CC BY 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Receiving_the_Holy_Light_at_Easter.jpg"
+      },
+      {
+       "file": "images/lessons/cul-customs-5.jpg",
+       "w": 800,
+       "h": 743,
+       "caption": {
+        "el": "Μαγειρίτσα — η σούπα μετά την Ανάσταση",
+        "tr": "Mayiritsa — Diriliş ayininden sonra içilen çorba",
+        "en": "Magiritsa — the soup eaten after the Resurrection service"
+       },
+       "author": "Lemur12",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Mageiritsa_soup.jpg"
+      },
+      {
+       "file": "images/lessons/cul-customs-6.jpg",
+       "w": 577,
+       "h": 444,
+       "caption": {
+        "el": "Κυριακή του Πάσχα: αρνί στη σούβλα (1958)",
+        "tr": "Paskalya Pazarı: şişte kuzu (1958)",
+        "en": "Easter Sunday: lamb on the spit (1958)"
+       },
+       "author": "ΙΣΧΣΝΙΚΑ-888",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:1958_-_Greek_soldiers_roasting_Easter_lambs_on_open_spits.jpg"
       }
      ]
     },
@@ -10547,6 +12284,39 @@
      ]
     },
     {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-customs-7.jpg",
+       "w": 800,
+       "h": 450,
+       "caption": {
+        "el": "Βασιλόπιτα — κόβεται την Πρωτοχρονιά, με κρυμμένο φλουρί",
+        "tr": "Vasilopita — Yılbaşında kesilir, içinde saklı bir para vardır",
+        "en": "Vasilopita — cut at New Year, with a hidden coin"
+       },
+       "author": "Μυρμηγκάκι",
+       "license": "Public domain",
+       "licenseUrl": null,
+       "source": "https://commons.wikimedia.org/wiki/File:Greek_vasilopita.JPG"
+      },
+      {
+       "file": "images/lessons/cul-customs-8.jpg",
+       "w": 800,
+       "h": 649,
+       "caption": {
+        "el": "Θεοφάνεια (6 Ιανουαρίου): ρίψη του σταυρού στο νερό",
+        "tr": "Epifani (6 Ocak): haçın suya atılması",
+        "en": "Epiphany (6 January): throwing the cross into the water"
+       },
+       "author": "Jim Maggas",
+       "license": "CC BY 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Cross_being_thrown_at_Theophany.jpg"
+      }
+     ]
+    },
+    {
      "type": "list",
      "items": [
       {
@@ -10568,6 +12338,25 @@
        "el": "Τη **Φανουρόπιτα** δεν τη φτιάχνουμε για αρρώστια, αλλά προς τιμήν του Αγίου Φανουρίου, **για να βρεθεί κάτι χαμένο**. — Η πρόταση «για να γίνει καλά ο άρρωστος» είναι Λάθος",
        "tr": "**Fanuropita** hastalık için değil, Aziz Fanurios adına, **kaybolan bir şeyin bulunması** için yapılır. — «hasta iyileşsin diye» ifadesi Yanlış",
        "en": "**Fanouropita** is made not for illness but in honour of Saint Fanourios, **to find something lost**. — «so that a sick person gets well» is False"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "file": "images/lessons/cul-customs-9.jpg",
+       "w": 800,
+       "h": 600,
+       "caption": {
+        "el": "Κόλλυβα (βραστό σιτάρι) για το μνημόσυνο",
+        "tr": "Anma ayini (mnimosino) için kolliva (haşlanmış buğday)",
+        "en": "Kollyva (boiled wheat) for a memorial service"
+       },
+       "author": "ΙΣΧΣΝΙΚΑ-888",
+       "license": "CC BY-SA 3.0",
+       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "source": "https://commons.wikimedia.org/wiki/File:Soul_Saturday_Kollyva_offerings.jpg"
       }
      ]
     },

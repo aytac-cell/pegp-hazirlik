@@ -46,7 +46,7 @@
     const n = numberOf(id), done = isDone(id), next = id === nextOpen();
     const q = Store.data.quiz[id];
     return `<a class="road-item ${done ? "done" : ""} ${next ? "next" : ""}" href="${lessonHref(id)}">
-      <span class="road-n">${done ? "✓" : n}</span>
+      <span class="road-n">${done ? "✓" : n}</span>${sec.cover ? `<img class="road-thumb" src="${esc(sec.cover.file)}" alt="" loading="lazy">` : ""}
       <span class="road-t"><b>${esc(t("roadLesson", { n }))} · ${esc(c(sec.title))}</b><small>${sec.icon || ""} ${esc(t("subj_" + subjectOf(id)))}${q && !done && q.needReread ? ` · 🔁 ${esc(t("quizRereadShort"))}` : ""}${done && q ? ` · ${q.best}/10` : ""}</small></span>
       ${next ? `<span class="pill warn">${esc(t("roadNext"))}</span>` : ""}
     </a>`;
@@ -58,6 +58,7 @@
     if (!id) return `<div class="card road-next"><h2>🎓 ${esc(t("roadAllDone"))}</h2><a class="btn btn-primary" href="#/exam">${esc(t("examStart"))}</a></div>`;
     const sec = sectionOf(id), n = numberOf(id), w = Math.floor((n - 1) / 6);
     return `<div class="card road-next">
+      ${sec.cover ? `<img class="road-cover" src="${esc(sec.cover.file)}" alt="" loading="lazy">` : ""}
       <div class="row"><span class="road-n big">${n}</span>
         <div><div class="small muted">${esc(t("roadNextLesson"))} · ${esc(t("progMonth", { n: Math.floor(w / 4) + 1 }))} · ${esc(t("progWeek"))} ${w + 1}</div>
         <h2 style="margin:.1rem 0 0">${esc(c(sec.title))}</h2><div class="small muted">${sec.icon || ""} ${esc(t("subj_" + subjectOf(id)))}</div></div>

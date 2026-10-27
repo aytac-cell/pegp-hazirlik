@@ -6,6 +6,17 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.9.0 (2026-10-27)
+
+- **Derslerde görseller:** 48 konu bölümüne toplam 317 görsel eklendi.
+  - Her bölümün başında bir kapak resmi var.
+  - Altyazılı galerilerde On İki Tanrı sembolleriyle birlikte, anıtlar, kişiler, adalar ve eserler gösteriliyor.
+  - Görsele tıklayınca büyüyor.
+  - Tüm görseller Wikimedia Commons'tan, serbest lisanslı ve kaynak bilgisiyle.
+- **«📌 Sınavda sorulanlar»:** Her dersin sonunda bu kutu var. Derse bağlı her resmî sınav sorusunun cevabı artık o derste anlatılıyor; doğru/yanlış sorularının bütün ifadeleri de dahil.
+- Yol haritasında ve içindekilerde küçük kapak resimleri gösteriliyor.
+- Orta boy ekranlarda menü taşması düzeltildi.
+
 ## 1.8.0 (2026-10-27)
 
 - **Yeni: Yol haritası.** 66 ders tek sırada (Ders 1–66), kolaydan zora. 3 ay = 3 seviye, toplam 12 hafta.

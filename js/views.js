@@ -806,7 +806,7 @@
       </div>
       <h2>${esc(t("toc"))}</h2>
       <div class="toc">${les.sections.map((x, i) => `<a class="card" href="#/learn?s=${subj}&sec=${x.id}">
-          <span class="ic" aria-hidden="true">${x.icon || "•"}</span>
+          ${x.cover ? `<img class="toc-thumb" src="${esc(x.cover.file)}" alt="" loading="lazy">` : `<span class="ic" aria-hidden="true">${x.icon || "•"}</span>`}
           <span><b${titleHtml(x.title).mainLang || ""}>${i + 1}. ${titleHtml(x.title).main}</b><span class="s">${rich(x.summary)}</span></span>
           ${Store.data.read[x.id] ? `<span class="pill ok">✓ ${Store.data.quiz[x.id] ? Store.data.quiz[x.id].best + "/" + SectionQuiz.N : esc(t("readDone"))}</span>` : Store.data.quiz[x.id] && Store.data.quiz[x.id].needReread ? `<span class="pill bad">🔁 ${esc(t("quizRereadShort"))}</span>` : `${x.questions.length ? `<span class="small muted">${x.questions.length} ${esc(t("questions"))}</span>` : ""}`}
         </a>`).join("")}</div>
@@ -814,6 +814,41 @@
     </div>`);
     bindLessonLang(() => learnToc(subj, les));
   }
+
+  // pictures: caption teaches (name + key fact), credit line satisfies the CC licences; tap to enlarge
+  function capOf(im) { const L = lessonLang(); return im.caption ? (L === "el" || L === "el+" ? im.caption.el : (im.caption[L] || c(im.caption))) : ""; }
+  function figureHtml(im, cls = "") {
+    return `<figure class="l-fig ${cls}"><button type="button" class="l-zoom" data-zoom="${esc(im.file)}" aria-label="${esc(t("zoomImage"))}">
+        <img src="${esc(im.file)}" alt="${esc(capOf(im))}" width="${im.w || ""}" height="${im.h || ""}" loading="lazy" decoding="async"></button>
+      <figcaption><span class="l-cap">${esc(capOf(im))}</span><span class="img-credit">📷 ${esc(im.author)} · <a href="${esc(im.source)}" target="_blank" rel="noopener">${esc(im.license)}</a></span></figcaption></figure>`;
+  }
+  function galleryHtml(items) {
+    const n = items.length;
+    return `<div class="l-gallery ${n === 1 ? "one" : n === 2 ? "two" : ""}">${items.map(im => figureHtml(im)).join("")}</div>`;
+  }
+  // full-screen viewer for lesson pictures (arrow keys / swipe-free buttons to move through the page's pictures)
+  function openZoom(src) {
+    const imgs = [...app().querySelectorAll(".l-zoom img")];
+    let i = Math.max(0, imgs.findIndex(x => x.getAttribute("src") === src));
+    const box = document.createElement("div");
+    box.className = "lightbox"; box.setAttribute("role", "dialog"); box.setAttribute("aria-modal", "true");
+    const draw = () => {
+      const im = imgs[i], cap = im.closest("figure").querySelector(".l-cap");
+      box.innerHTML = `<button class="lb-x" type="button" aria-label="${esc(t("readerClose"))}">✕</button>
+        ${imgs.length > 1 ? `<button class="lb-prev" type="button" aria-label="←">‹</button><button class="lb-next" type="button" aria-label="→">›</button>` : ""}
+        <figure><img src="${esc(im.getAttribute("src"))}" alt=""><figcaption>${cap ? esc(cap.textContent) : ""}<span class="small"> · ${i + 1}/${imgs.length}</span></figcaption></figure>`;
+    };
+    const close = () => { box.remove(); document.removeEventListener("keydown", onKey); };
+    const go = d => { i = (i + d + imgs.length) % imgs.length; draw(); };
+    const onKey = e => { if (e.key === "Escape") close(); else if (e.key === "ArrowRight") go(1); else if (e.key === "ArrowLeft") go(-1); };
+    box.addEventListener("click", e => {
+      if (e.target.closest(".lb-prev")) go(-1); else if (e.target.closest(".lb-next")) go(1);
+      else if (e.target.closest(".lb-x") || e.target === box) close();
+    });
+    document.addEventListener("keydown", onKey);
+    draw(); document.body.appendChild(box);
+  }
+  document.addEventListener("click", e => { const z = e.target.closest("[data-zoom]"); if (z) openZoom(z.dataset.zoom); });
 
   // example sentences: always Greek, with the translation (lesson language, or interface language when reading in Greek)
   function examplesHtml(b) {
@@ -839,6 +874,9 @@
       case "table": return `<div style="overflow-x:auto"><table class="table"><thead><tr>${b.head.map(h => `<th>${rich(h)}</th>`).join("")}</tr></thead><tbody>${b.rows.map(r => `<tr>${r.map(x => `<td>${rich(x)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
       case "map": return `<div data-map="${i}"></div>`;
       case "examples": return examplesHtml(b);
+      case "gallery": return galleryHtml(b.items);
+      case "exam": return `<div class="exam-facts"><h3>📌 ${esc(t("examFactsH"))}</h3><p class="small muted">${esc(t("examFactsText"))}</p><ul>${b.items.map(x =>
+        `<li>${rich(x, true)}${(x.q || []).map(id => { const q = QS().find(z => z.id === id); return q ? ` <a class="pill exam-ref" href="#/browse?id=${id}">${esc(t("subj_" + q.subject))} ${q.n}</a>` : ""; }).join("")}</li>`).join("")}</ul></div>`;
       case "decl": return `<div><div class="infl-title">${inflTitle(b.word)}</div>${b.note ? `<p class="small">${rich(b.note)}</p>` : ""}${Grammar.decl(b.sg, b.pl)}</div>`;
       case "conj": return `<div><div class="infl-title">${inflTitle(b.verb)}</div>${b.note ? `<p class="small">${rich(b.note)}</p>` : ""}${Grammar.conj(b.tenses)}</div>`;
       default: return "";
@@ -865,6 +903,7 @@
         : `<a href="#/learn">${esc(t("learnTitle"))}</a> › <a href="#/learn?s=${subj}">${esc(t("subj_" + subj))}</a> › <span class="muted">${idx + 1}/${les.sections.length}</span>`}</div>
       <div class="card">
         <div class="lesson-head"><h1${titleHtml(sec.title).mainLang || ""}>${sec.icon || ""} ${titleHtml(sec.title).main}</h1><div class="el-title"${titleHtml(sec.title).subLang || ""}>${titleHtml(sec.title).sub}</div></div>
+        ${sec.cover ? figureHtml(sec.cover, "l-cover") : ""}
         <div class="row" style="margin-top:.8rem;justify-content:space-between">${lessonLangSeg()}${LessonReader.supported() ? `<button class="btn btn-sm" type="button" id="listenBtn">🎧 ${esc(t("listenLesson"))}</button>` : ""}</div>
         ${quizRec && quizRec.needReread ? `<div class="note" style="margin-top:.8rem">🔁 ${esc(t("quizRereadBanner", { s: quizRec.last, n: SectionQuiz.N, p: SectionQuiz.PASS }))}</div>` : ""}
         <div class="lesson-body" style="margin-top:1rem">${sec.blocks.map(blockHtml).join("")}</div>
@@ -928,10 +967,22 @@
     return () => { io.disconnect(); stopReader(); };
   }
 
+  function lessonImageCredits() {
+    const rows = [];
+    Object.values(LES()).forEach(les => les.sections.forEach(sec => {
+      if (sec.cover) rows.push({ sec, im: sec.cover });
+      sec.blocks.forEach(b => { if (b.type === "gallery") b.items.forEach(im => rows.push({ sec, im })); });
+    }));
+    if (!rows.length) return "";
+    return `<details><summary><b>${esc(t("lessonImageCredits"))}</b> (${rows.length})</summary><ul class="small" style="padding-left:1.1rem">${rows.map(({ sec, im }) =>
+      `<li><a href="#/learn?s=${sec.id.split("-")[0]}&sec=${sec.id}">${esc(c(sec.title))}</a> — ${esc(c(im.caption))} · ${esc(im.author)} · <a href="${esc(im.source)}" target="_blank" rel="noopener">${esc(im.license)}</a></li>`).join("")}</ul></details>`;
+  }
+
   function imageCreditsHtml() {
     const rows = QS().filter(q => q.images && q.images.length).flatMap(q => q.images.map(im => ({ q, im })));
-    if (!rows.length) return "";
+    if (!rows.length) return lessonImageCredits();
     return `<h2>${esc(t("imageCredits"))}</h2><p class="small muted">${esc(t("imageCreditsText"))}</p>
+      ${lessonImageCredits()}
       <ul class="small" style="padding-left:1.1rem">${rows.map(({ q, im }) => `<li><a href="#/browse?id=${q.id}">${esc(t("subj_" + q.subject))} ${q.n}${im.slot ? " · Εικ. " + esc(im.slot) : ""}</a> — ${esc(c(im.subject))} · ${esc(im.author)} · <a href="${esc(im.source)}" target="_blank" rel="noopener">${esc(im.license)}</a>${im.licenseUrl ? ` (<a href="${esc(im.licenseUrl)}" target="_blank" rel="noopener">${esc(t("licenseText"))}</a>)` : ""}</li>`).join("")}</ul>`;
   }
 
