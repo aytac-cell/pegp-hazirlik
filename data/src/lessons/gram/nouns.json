@@ -771,6 +771,11 @@
       "el": "Ο γιατρός είναι αρσενικό και υποκείμενο → ονομαστική «ο».",
       "tr": "γιατρός eril ve öznedir → yalın hâl «ο».",
       "en": "γιατρός is masculine and the subject → nominative «ο»."
+     },
+     "sentence": {
+      "el": "**ο** γιατρός έρχεται σε λίγο.",
+      "tr": "**Doktor** birazdan geliyor.",
+      "en": "**The** doctor is coming shortly."
      }
     },
     {
@@ -806,6 +811,11 @@
       "el": "Το λεωφορείο είναι ουδέτερο· η αιτιατική ενικού είναι «το».",
       "tr": "λεωφορείο nötrdür; tekil -i hâli «το».",
       "en": "λεωφορείο is neuter; accusative singular is «το»."
+     },
+     "sentence": {
+      "el": "Περιμένω **το** λεωφορείο.",
+      "tr": "**Otobüsü** bekliyorum.",
+      "en": "I'm waiting for **the** bus."
      }
     },
     {
@@ -841,6 +851,11 @@
       "el": "Θηλυκό αντικείμενο → αιτιατική· πριν από φωνήεν γράφουμε «την».",
       "tr": "Dişil nesne → -i hâli; ünlüden önce «την» yazılır.",
       "en": "Feminine object → accusative; before a vowel we write «την»."
+     },
+     "sentence": {
+      "el": "Ξέρεις **την** απάντηση;",
+      "tr": "**Cevabı** biliyor musun?",
+      "en": "Do you know **the** answer?"
      }
     },
     {
@@ -876,6 +891,11 @@
       "el": "Θηλυκό αντικείμενο → «τη(ν)»· πριν από θ χωρίς -ν.",
       "tr": "Dişil nesne → «τη(ν)»; θ'den önce -ν'siz.",
       "en": "Feminine object → «τη(ν)»; no -ν before θ."
+     },
+     "sentence": {
+      "el": "Από το παράθυρο βλέπω **τη** θάλασσα.",
+      "tr": "Pencereden **denizi** görüyorum.",
+      "en": "I can see **the** sea from the window."
      }
     },
     {
@@ -911,6 +931,11 @@
       "el": "Κτήση (ποιανού το γραφείο;) → γενική αρσενικού «του».",
       "tr": "Sahiplik (kimin ofisi?) → eril -in hâli «του».",
       "en": "Possession (whose office?) → masculine genitive «του»."
+     },
+     "sentence": {
+      "el": "Το γραφείο **του** διευθυντή είναι στον πρώτο όροφο.",
+      "tr": "**Müdürün** odası birinci katta.",
+      "en": "**The director's** office is on the first floor."
      }
     },
     {
@@ -946,6 +971,11 @@
       "el": "Τα κλειδιά: ουδέτερο πληθυντικού → «τα».",
       "tr": "κλειδιά nötr çoğuldur → «τα».",
       "en": "κλειδιά is neuter plural → «τα»."
+     },
+     "sentence": {
+      "el": "Πού είναι **τα** κλειδιά μου;",
+      "tr": "**Anahtarlarım** nerede?",
+      "en": "Where are **my keys**?"
      }
     },
     {
@@ -981,6 +1011,11 @@
       "el": "Θηλυκό υποκείμενο στον πληθυντικό → ονομαστική «οι».",
       "tr": "Dişil çoğul özne → yalın hâl «οι».",
       "en": "Feminine plural subject → nominative «οι»."
+     },
+     "sentence": {
+      "el": "**Οι** μαθήτριες γράφουν τεστ.",
+      "tr": "**Kız öğrenciler** sınav oluyor.",
+      "en": "**The** students are taking a test."
      }
     },
     {
@@ -1016,6 +1051,11 @@
       "el": "Θηλυκό αντικείμενο στον πληθυντικό → «τις».",
       "tr": "Dişil çoğul nesne → «τις».",
       "en": "Feminine plural object → «τις»."
+     },
+     "sentence": {
+      "el": "Πάρε **τις** βαλίτσες σου.",
+      "tr": "**Bavullarını** al.",
+      "en": "Take **your suitcases**."
      }
     },
     {
@@ -1051,6 +1091,11 @@
       "el": "Ο καφές είναι αρσενικό αντικείμενο → αιτιατική «έναν».",
       "tr": "καφές eril nesnedir → -i hâli «έναν».",
       "en": "καφές is a masculine object → accusative «έναν»."
+     },
+     "sentence": {
+      "el": "Θέλω **έναν** καφέ, παρακαλώ.",
+      "tr": "**Bir** kahve istiyorum, lütfen.",
+      "en": "I'd like **a** coffee, please."
      }
     },
     {
@@ -1086,6 +1131,11 @@
       "el": "Η ερώτηση είναι θηλυκό → «μια».",
       "tr": "ερώτηση dişildir → «μια».",
       "en": "ερώτηση is feminine → «μια»."
+     },
+     "sentence": {
+      "el": "Έχω **μια** ερώτηση.",
+      "tr": "**Bir** sorum var.",
+      "en": "I have **a** question."
      }
     },
     {
@@ -1121,6 +1171,11 @@
       "el": "Κτήση με αόριστο άρθρο αρσενικού → γενική «ενός».",
       "tr": "Eril belirsiz artikelle sahiplik → -in hâli «ενός».",
       "en": "Possession with a masculine indefinite → genitive «ενός»."
+     },
+     "sentence": {
+      "el": "Είναι το σπίτι **ενός** φίλου μου.",
+      "tr": "Bu, **bir arkadaşımın** evi.",
+      "en": "It's the house of **a** friend of mine."
      }
     },
     {
@@ -1156,6 +1211,11 @@
       "el": "Το αόριστο άρθρο έχει μόνο ενικό· στον πληθυντικό δεν βάζουμε άρθρο.",
       "tr": "Belirsiz artikelin yalnızca tekili vardır; çoğulda artikel kullanılmaz.",
       "en": "The indefinite article is singular only; in the plural there is no article."
+     },
+     "sentence": {
+      "el": "Στο περίπτερο αγόρασα **νερά**.",
+      "tr": "Büfeden **şişe su** aldım.",
+      "en": "I bought **bottles of water** at the kiosk."
      }
     },
     {
@@ -1191,6 +1251,11 @@
       "el": "Τα κύρια ονόματα παίρνουν άρθρο· εδώ ο Νίκος είναι υποκείμενο → «ο».",
       "tr": "Özel isimler artikel alır; burada Νίκος öznedir → «ο».",
       "en": "Names take the article; here Νίκος is the subject → «ο»."
+     },
+     "sentence": {
+      "el": "Πού είναι **ο** Νίκος;",
+      "tr": "**Nikos** nerede?",
+      "en": "Where is **Nikos**?"
      }
     },
     {
@@ -1226,6 +1291,11 @@
       "el": "σε + τον = στον· το «σε τον» δεν υπάρχει.",
       "tr": "σε + τον = στον; «σε τον» diye bir biçim yoktur.",
       "en": "σε + τον = στον; «σε τον» does not exist."
+     },
+     "sentence": {
+      "el": "Αύριο πάω **στον** γιατρό.",
+      "tr": "Yarın **doktora** gidiyorum.",
+      "en": "Tomorrow I'm going **to the** doctor."
      }
     },
     {
@@ -1261,6 +1331,11 @@
       "el": "σε + την = στην· πριν από φωνήεν κρατάμε το -ν, και οι πόλεις θέλουν άρθρο.",
       "tr": "σε + την = στην; ünlüden önce -ν kalır ve şehirler artikel ister.",
       "en": "σε + την = στην; the -ν stays before a vowel, and cities need the article."
+     },
+     "sentence": {
+      "el": "Μένω **στην** Αθήνα.",
+      "tr": "**Atina'da** oturuyorum.",
+      "en": "I live **in** Athens."
      }
     },
     {
@@ -1296,6 +1371,11 @@
       "el": "σε + το = στο· ποτέ «σε το».",
       "tr": "σε + το = στο; asla «σε το».",
       "en": "σε + το = στο; never «σε το»."
+     },
+     "sentence": {
+      "el": "Απόψε είμαι **στο** σπίτι.",
+      "tr": "Bu akşam **evdeyim**.",
+      "en": "Tonight I'm **at** home."
      }
     },
     {
@@ -1331,6 +1411,11 @@
       "el": "Με τις ώρες λέμε «στις» (οι ώρες, θηλυκό πληθυντικού).",
       "tr": "Saatlerle «στις» denir (οι ώρες, dişil çoğul).",
       "en": "With clock times we say «στις» (οι ώρες, feminine plural)."
+     },
+     "sentence": {
+      "el": "Το μάθημα αρχίζει **στις** δέκα.",
+      "tr": "Ders **saat onda** başlıyor.",
+      "en": "The lesson starts **at** ten."
      }
     },
     {
@@ -1366,6 +1451,11 @@
       "el": "Το «σε» δεν ενώνεται με το αόριστο άρθρο: σε ένα.",
       "tr": "«σε» belirsiz artikelle birleşmez: σε ένα.",
       "en": "«σε» does not merge with the indefinite article: σε ένα."
+     },
+     "sentence": {
+      "el": "Δουλεύω **σε** ένα εστιατόριο στο κέντρο.",
+      "tr": "Merkezde **bir restoranda** çalışıyorum.",
+      "en": "I work **in** a restaurant in the centre."
      }
     },
     {
@@ -1401,6 +1491,11 @@
       "el": "Οι υπάλληλοι: αρσενικό πληθυντικού → σε + τους = στους.",
       "tr": "υπάλληλοι eril çoğuldur → σε + τους = στους.",
       "en": "υπάλληλοι is masculine plural → σε + τους = στους."
+     },
+     "sentence": {
+      "el": "Δίνω τα χαρτιά **στους** υπαλλήλους.",
+      "tr": "Kâğıtları **memurlara** veriyorum.",
+      "en": "I give the papers **to the** clerks."
      }
     },
     {
@@ -1436,6 +1531,11 @@
       "el": "Η πρόθεση «σε» ενώνεται με το άρθρο: στο σούπερ μάρκετ.",
       "tr": "«σε» edatı artikelle birleşir: στο σούπερ μάρκετ.",
       "en": "The preposition «σε» merges with the article: στο σούπερ μάρκετ."
+     },
+     "sentence": {
+      "el": "Πάμε **στο** σούπερ μάρκετ.",
+      "tr": "**Süpermarkete** gidelim.",
+      "en": "Let's go **to the** supermarket."
      }
     },
     {
@@ -1471,6 +1571,11 @@
       "el": "Οι μέρες μπαίνουν σε αιτιατική με άρθρο· πριν από κ γράφουμε «την».",
       "tr": "Günler artikelli -i hâlinde kullanılır; κ'den önce «την» yazılır.",
       "en": "Days go in the accusative with the article; before κ we write «την»."
+     },
+     "sentence": {
+      "el": "**Την** Κυριακή πάμε για μπάνιο.",
+      "tr": "**Pazar günü** denize gidiyoruz.",
+      "en": "**On** Sunday we're going swimming."
      }
     },
     {
@@ -1506,6 +1611,11 @@
       "el": "Οι χώρες θέλουν άρθρο: σε + την = στην, με -ν πριν από φωνήεν.",
       "tr": "Ülke adları artikel ister: σε + την = στην, ünlüden önce -ν ile.",
       "en": "Countries need the article: σε + την = στην, with -ν before a vowel."
+     },
+     "sentence": {
+      "el": "Ζω **στην** Ελλάδα με την οικογένειά μου.",
+      "tr": "Ailemle birlikte **Yunanistan'da** yaşıyorum.",
+      "en": "I live **in** Greece with my family."
      }
     },
     {
@@ -1541,6 +1651,11 @@
       "el": "Με το «μου αρέσει» αυτό που αρέσει είναι υποκείμενο → ονομαστική· και οι γενικές έννοιες παίρνουν άρθρο.",
       "tr": "«μου αρέσει» ile sevilen şey öznedir → yalın hâl; genel kavramlar da artikel alır.",
       "en": "With «μου αρέσει» the thing liked is the subject → nominative; general ideas take the article."
+     },
+     "sentence": {
+      "el": "Μου αρέσει **η** μουσική.",
+      "tr": "**Müziği** severim.",
+      "en": "I like **music**."
      }
     }
    ]
@@ -2012,6 +2127,11 @@
       "el": "Υποκείμενο του «είναι» → ονομαστική.",
       "tr": "«είναι» fiilinin öznesi → yalın hâl.",
       "en": "Subject of «είναι» → nominative."
+     },
+     "sentence": {
+      "el": "**Ο σταθμός** είναι κοντά στο ξενοδοχείο.",
+      "tr": "**İstasyon** otele yakın.",
+      "en": "**The station** is near the hotel."
      }
     },
     {
@@ -2047,6 +2167,11 @@
       "el": "Αντικείμενο του ρήματος → αιτιατική με άρθρο.",
       "tr": "Fiilin nesnesi → artikelli -i hâli.",
       "en": "Object of the verb → accusative with the article."
+     },
+     "sentence": {
+      "el": "Περιμένω **τον Νίκο** στην πλατεία.",
+      "tr": "**Nikos'u** meydanda bekliyorum.",
+      "en": "I'm waiting for **Nikos** in the square."
      }
     },
     {
@@ -2082,6 +2207,11 @@
       "el": "Κτήση (ποιανού;) → γενική.",
       "tr": "Sahiplik (kimin?) → -in hâli.",
       "en": "Possession (whose?) → genitive."
+     },
+     "sentence": {
+      "el": "Αυτό είναι το κινητό **του Νίκου**.",
+      "tr": "Bu, **Nikos'un** cep telefonu.",
+      "en": "This is **Nikos's** mobile phone."
      }
     },
     {
@@ -2117,6 +2247,11 @@
       "el": "Όταν φωνάζουμε κάποιον → κλητική, χωρίς άρθρο.",
       "tr": "Birine seslenirken → seslenme hâli, artikelsiz.",
       "en": "Calling someone → vocative, without the article."
+     },
+     "sentence": {
+      "el": "**Νίκο**, έλα εδώ!",
+      "tr": "**Nikos**, buraya gel!",
+      "en": "**Nikos**, come here!"
      }
     },
     {
@@ -2152,6 +2287,11 @@
       "el": "σε + αιτιατική με άρθρο: σε + τον Νίκο = στον Νίκο.",
       "tr": "σε + artikelli -i hâli: σε + τον Νίκο = στον Νίκο.",
       "en": "σε + accusative with article: σε + τον Νίκο = στον Νίκο."
+     },
+     "sentence": {
+      "el": "Αύριο πάω **στον Νίκο** για τη δουλειά.",
+      "tr": "Yarın iş için **Nikos'a** gidiyorum.",
+      "en": "Tomorrow I'm going **to see Nikos** about the job."
      }
     },
     {
@@ -2187,6 +2327,11 @@
       "el": "Το «από» παίρνει αιτιατική· το σπίτι είναι ουδέτερο ενικού → από το.",
       "tr": "«από» -i hâli alır; σπίτι nötr tekildir → από το.",
       "en": "«από» takes the accusative; σπίτι is neuter singular → από το."
+     },
+     "sentence": {
+      "el": "Μόλις ήρθα **από το** σπίτι.",
+      "tr": "**Evden** yeni geldim.",
+      "en": "I've just come **from** home."
      }
     },
     {
@@ -2222,6 +2367,11 @@
       "el": "Το «με» παίρνει αιτιατική· οι φίλοι (πληθ.) → με τους φίλους.",
       "tr": "«με» -i hâli alır; φίλοι çoğul → με τους φίλους.",
       "en": "«με» takes the accusative; plural φίλους → με τους."
+     },
+     "sentence": {
+      "el": "Πάμε εκδρομή **με τους** φίλους μας.",
+      "tr": "**Arkadaşlarımızla** geziye gidiyoruz.",
+      "en": "We're going on a trip **with** our friends."
      }
     },
     {
@@ -2257,6 +2407,11 @@
       "el": "Το «για» παίρνει αιτιατική: για τη μητέρα.",
       "tr": "«για» -i hâli alır: για τη μητέρα.",
       "en": "«για» takes the accusative: για τη μητέρα."
+     },
+     "sentence": {
+      "el": "Αυτό το δώρο είναι **για τη** μητέρα σου.",
+      "tr": "Bu hediye **annen için**.",
+      "en": "This present is **for** your mother."
      }
     },
     {
@@ -2292,6 +2447,11 @@
       "el": "Σε ποιον; → σε + αιτιατική ενικού: στον υπάλληλο.",
       "tr": "Kime? → σε + tekil -i hâli: στον υπάλληλο.",
       "en": "To whom? → σε + accusative singular: στον υπάλληλο."
+     },
+     "sentence": {
+      "el": "Δίνω το έντυπο **στον** υπάλληλο.",
+      "tr": "Formu **memura** veriyorum.",
+      "en": "I give the form **to the** clerk."
      }
     },
     {
@@ -2327,6 +2487,11 @@
       "el": "Ο αποδέκτης (σε ποιον;) εκφράζεται με σε + αιτιατική ή με γενική.",
       "tr": "Dolaylı tümleç (kime?) σε + -i hâli ya da -in hâli ile verilir.",
       "en": "The recipient (to whom?) is σε + accusative or the genitive."
+     },
+     "sentence": {
+      "el": "Λέω **της Ελένης** την αλήθεια.",
+      "tr": "**Eleni'ye** gerçeği söylüyorum.",
+      "en": "I tell **Eleni** the truth."
      }
     },
     {
@@ -2362,6 +2527,11 @@
       "el": "Οι εκφράσεις χρόνου μπαίνουν σε αιτιατική χωρίς πρόθεση.",
       "tr": "Zaman ifadeleri edatsız -i hâlinde kullanılır.",
       "en": "Time expressions go in the accusative without a preposition."
+     },
+     "sentence": {
+      "el": "**Την Κυριακή** πάμε στη λαϊκή αγορά.",
+      "tr": "**Pazar günü** semt pazarına gidiyoruz.",
+      "en": "**On Sunday** we go to the street market."
      }
     },
     {
@@ -2397,6 +2567,11 @@
       "el": "Χρόνος χωρίς πρόθεση: «το πρωί» (αιτιατική).",
       "tr": "Edatsız zaman: «το πρωί» (-i hâli).",
       "en": "Time without a preposition: «το πρωί» (accusative)."
+     },
+     "sentence": {
+      "el": "Ξυπνάω νωρίς **το** πρωί.",
+      "tr": "**Sabah** erken uyanırım.",
+      "en": "I wake up early **in the** morning."
      }
     },
     {
@@ -2432,6 +2607,11 @@
       "el": "Πρώτα το κτήμα, μετά ο κάτοχος σε γενική: το σπίτι του Νίκου.",
       "tr": "Önce sahip olunan şey, sonra -in hâlinde sahibi: το σπίτι του Νίκου.",
       "en": "First the thing owned, then the owner in the genitive: το σπίτι του Νίκου."
+     },
+     "sentence": {
+      "el": "**το σπίτι του Νίκου**",
+      "tr": "**Nikos'un evi**",
+      "en": "**Nikos's house**"
      }
     },
     {
@@ -2467,6 +2647,11 @@
       "el": "Ποιανού το γραφείο; → γενική.",
       "tr": "Kimin ofisi? → -in hâli.",
       "en": "Whose office? → genitive."
+     },
+     "sentence": {
+      "el": "Το γραφείο **του δικηγόρου** είναι στον δεύτερο όροφο.",
+      "tr": "**Avukatın** bürosu ikinci katta.",
+      "en": "**The lawyer's** office is on the second floor."
      }
     },
     {
@@ -2502,6 +2687,11 @@
       "el": "Τι περνάμε; → αντικείμενο → αιτιατική.",
       "tr": "Neyi geçiyoruz? → nesne → -i hâli.",
       "en": "What do we cross? → object → accusative."
+     },
+     "sentence": {
+      "el": "Περνάμε **τον δρόμο** στη διάβαση.",
+      "tr": "**Yolu** yaya geçidinden geçiyoruz.",
+      "en": "We cross **the road** at the pedestrian crossing."
      }
     },
     {
@@ -2537,6 +2727,11 @@
       "el": "Υποκείμενο στον πληθυντικό (είναι στενοί) → ονομαστική πληθυντικού.",
       "tr": "Çoğul özne (είναι στενοί) → çoğul yalın hâl.",
       "en": "Plural subject (είναι στενοί) → nominative plural."
+     },
+     "sentence": {
+      "el": "**Οι δρόμοι** της παλιάς πόλης είναι πολύ στενοί.",
+      "tr": "Eski şehrin **sokakları** çok dar.",
+      "en": "**The streets** of the old town are very narrow."
      }
     },
     {
@@ -2572,6 +2767,11 @@
       "el": "Τι φτιάχνει; → αντικείμενο πληθυντικού → αιτιατική «τους δρόμους».",
       "tr": "Neyi onarıyor? → çoğul nesne → -i hâli «τους δρόμους».",
       "en": "Repairs what? → plural object → accusative «τους δρόμους»."
+     },
+     "sentence": {
+      "el": "Ο δήμος φτιάχνει **τους δρόμους** της γειτονιάς.",
+      "tr": "Belediye mahallenin **yollarını** yapıyor.",
+      "en": "The municipality is fixing the neighbourhood's **roads**."
      }
     },
     {
@@ -2607,6 +2807,11 @@
       "el": "Μετά το «σε» θέλουμε αιτιατική: στον γιατρό.",
       "tr": "«σε»den sonra -i hâli gerekir: στον γιατρό.",
       "en": "After «σε» we need the accusative: στον γιατρό."
+     },
+     "sentence": {
+      "el": "Πηγαίνω **στον γιατρό** αύριο.",
+      "tr": "Yarın **doktora** gidiyorum.",
+      "en": "I'm going **to the doctor** tomorrow."
      }
     },
     {
@@ -2642,6 +2847,11 @@
       "el": "Το «με» παίρνει αιτιατική: με τον αδελφό της.",
       "tr": "«με» -i hâli alır: με τον αδελφό της.",
       "en": "«με» takes the accusative: με τον αδελφό της."
+     },
+     "sentence": {
+      "el": "Η Μαρία δουλεύει **με τον αδελφό** της.",
+      "tr": "Maria **erkek kardeşiyle** çalışıyor.",
+      "en": "Maria works **with her brother**."
      }
     },
     {
@@ -2677,6 +2887,11 @@
       "el": "Κτήση → γενική (του γείτονα)· μετά το «σε» αιτιατική αρσενικού: στον κήπο.",
       "tr": "Sahiplik → -in hâli (του γείτονα); «σε»den sonra eril -i hâli: στον κήπο.",
       "en": "Possession → genitive (του γείτονα); after «σε» masculine accusative: στον κήπο."
+     },
+     "sentence": {
+      "el": "Το παιδί **του γείτονα** παίζει στον κήπο.",
+      "tr": "**Komşunun** çocuğu bahçede oynuyor.",
+      "en": "**The neighbour's** child is playing in the garden."
      }
     },
     {
@@ -2712,6 +2927,11 @@
       "el": "Σε ποιον; → σε + αιτιατική: στη γιαγιά μου.",
       "tr": "Kime? → σε + -i hâli: στη γιαγιά μου.",
       "en": "To whom? → σε + accusative: στη γιαγιά μου."
+     },
+     "sentence": {
+      "el": "Στέλνω ένα γράμμα **στη γιαγιά μου**.",
+      "tr": "**Büyükanneme** bir mektup gönderiyorum.",
+      "en": "I'm sending a letter **to my grandmother**."
      }
     },
     {
@@ -2747,6 +2967,11 @@
       "el": "Αντικείμενο → αιτιατική· στα θηλυκά η κατάληξη μένει ίδια, αλλάζει μόνο το άρθρο (η → την).",
       "tr": "Nesne → -i hâli; dişillerde ek aynı kalır, yalnızca artikel değişir (η → την).",
       "en": "Object → accusative; feminine endings stay the same, only the article changes (η → την)."
+     },
+     "sentence": {
+      "el": "Χάσαμε **την ώρα** του τρένου.",
+      "tr": "Trenin kalkış **saatini** kaçırdık.",
+      "en": "We missed the train's departure **time**."
      }
     }
    ]
@@ -3267,6 +3492,11 @@
       "el": "Κτήση → γενική: ο φίλος → του φίλου.",
       "tr": "Sahiplik → -in hâli: ο φίλος → του φίλου.",
       "en": "Possession → genitive: ο φίλος → του φίλου."
+     },
+     "sentence": {
+      "el": "Το σπίτι **του φίλου** μου είναι κοντά στη θάλασσα.",
+      "tr": "**Arkadaşımın** evi denize yakın.",
+      "en": "My **friend's** house is near the sea."
      }
     },
     {
@@ -3302,6 +3532,11 @@
       "el": "Αντικείμενο → αιτιατική: -ος → -ο.",
       "tr": "Nesne → -i hâli: -ος → -ο.",
       "en": "Object → accusative: -ος → -ο."
+     },
+     "sentence": {
+      "el": "Χθες πήρα τηλέφωνο **τον γιατρό**.",
+      "tr": "Dün **doktoru** aradım.",
+      "en": "Yesterday I called **the doctor**."
      }
     },
     {
@@ -3337,6 +3572,11 @@
       "el": "Υποκείμενο πληθυντικού → -οι· ο τόνος μετακινείται μόνο σε -ου, -ων, -ους.",
       "tr": "Çoğul özne → -οι; vurgu yalnızca -ου, -ων, -ους'ta kayar.",
       "en": "Plural subject → -οι; the stress moves only with -ου, -ων, -ους."
+     },
+     "sentence": {
+      "el": "Στη συναυλία ήρθαν πολλοί **άνθρωποι**.",
+      "tr": "Konsere çok **insan** geldi.",
+      "en": "Lots of **people** came to the concert."
      }
     },
     {
@@ -3372,6 +3612,11 @@
       "el": "Γενική -ου: ο τόνος πάει μία συλλαβή δεξιά (δασκάλου).",
       "tr": "-ου ile -in hâli: vurgu bir hece sağa kayar (δασκάλου).",
       "en": "Genitive -ου: the stress moves one syllable right (δασκάλου)."
+     },
+     "sentence": {
+      "el": "Η τσάντα **του δασκάλου** είναι στην καρέκλα.",
+      "tr": "**Öğretmenin** çantası sandalyenin üstünde.",
+      "en": "**The teacher's** bag is on the chair."
      }
     },
     {
@@ -3407,6 +3652,11 @@
       "el": "Αντικείμενο πληθυντικού → -ους, με μετακίνηση τόνου: ανθρώπους.",
       "tr": "Çoğul nesne → -ους, vurgu kayar: ανθρώπους.",
       "en": "Plural object → -ους, with stress shift: ανθρώπους."
+     },
+     "sentence": {
+      "el": "Βοηθάμε **τους ανθρώπους** που έχουν ανάγκη.",
+      "tr": "İhtiyacı olan **insanlara** yardım ediyoruz.",
+      "en": "We help **people** in need."
      }
     },
     {
@@ -3442,6 +3692,11 @@
       "el": "Τα περισσότερα μικρά ονόματα σε -ος έχουν κλητική σε -ο.",
       "tr": "-ος ile biten çoğu kısa adın seslenme hâli -ο'dur.",
       "en": "Most short names in -ος have a vocative in -ο."
+     },
+     "sentence": {
+      "el": "**Νίκο**, έλα να δεις!",
+      "tr": "**Nikos**, gel de bak!",
+      "en": "**Nikos**, come and see!"
      }
     },
     {
@@ -3477,6 +3732,11 @@
       "el": "Τα κοινά ουσιαστικά σε -ος έχουν κλητική σε -ε.",
       "tr": "-ος ile biten cins isimlerin seslenme hâli -ε'dir.",
       "en": "Common nouns in -ος have a vocative in -ε."
+     },
+     "sentence": {
+      "el": "Ευχαριστώ πολύ, **γιατρέ**!",
+      "tr": "Çok teşekkür ederim, **doktor bey**!",
+      "en": "Thank you very much, **doctor**!"
      }
     },
     {
@@ -3512,6 +3772,11 @@
       "el": "Υποκείμενο → ονομαστική με -ς: ο άντρας.",
       "tr": "Özne → -ς ile yalın hâl: ο άντρας.",
       "en": "Subject → nominative with -ς: ο άντρας."
+     },
+     "sentence": {
+      "el": "Πού δουλεύει **ο άντρας** σου;",
+      "tr": "**Kocan** nerede çalışıyor?",
+      "en": "Where does your **husband** work?"
      }
     },
     {
@@ -3547,6 +3812,11 @@
       "el": "Μετά το «με» → αιτιατική· τα σε -ας χάνουν το -ς.",
       "tr": "«με»den sonra → -i hâli; -ας ile bitenler -ς'yi kaybeder.",
       "en": "After «με» → accusative; -ας nouns drop the -ς."
+     },
+     "sentence": {
+      "el": "Μίλησα με **τον άντρα** της Ελένης.",
+      "tr": "Eleni'nin **kocasıyla** konuştum.",
+      "en": "I spoke with Eleni's **husband**."
      }
     },
     {
@@ -3582,6 +3852,11 @@
       "el": "Αιτιατική των σε -ης: χωρίς -ς (τον μαθητή).",
       "tr": "-ης ile bitenlerin -i hâli: -ς'siz (τον μαθητή).",
       "en": "Accusative of -ης nouns: no -ς (τον μαθητή)."
+     },
+     "sentence": {
+      "el": "Η δασκάλα ρωτάει **τον μαθητή**.",
+      "tr": "Öğretmen **öğrenciye** soru soruyor.",
+      "en": "The teacher asks **the pupil** a question."
      }
     },
     {
@@ -3617,6 +3892,11 @@
       "el": "Γενική πληθυντικού των σε -ης: πάντα -ών με τόνο στο τέλος.",
       "tr": "-ης ile bitenlerin çoğul -in hâli: her zaman vurgulu -ών.",
       "en": "Genitive plural of -ης nouns: always -ών, stressed at the end."
+     },
+     "sentence": {
+      "el": "Τα βιβλία **των μαθητών** είναι στην τάξη.",
+      "tr": "**Öğrencilerin** kitapları sınıfta.",
+      "en": "**The pupils'** books are in the classroom."
      }
     },
     {
@@ -3652,6 +3932,11 @@
       "el": "Γενική πληθυντικού σε -ών: ο εργάτης → των εργατών.",
       "tr": "Çoğul -in hâli -ών: ο εργάτης → των εργατών.",
       "en": "Genitive plural in -ών: ο εργάτης → των εργατών."
+     },
+     "sentence": {
+      "el": "Ο νόμος προστατεύει τα δικαιώματα **των εργατών**.",
+      "tr": "Yasa **işçilerin** haklarını korur.",
+      "en": "The law protects the rights of **the workers**."
      }
     },
     {
@@ -3687,6 +3972,11 @@
       "el": "κάθε + αιτιατική· τα σε -ας χάνουν το -ς: κάθε μήνα.",
       "tr": "κάθε + -i hâli; -ας ile bitenler -ς'yi kaybeder: κάθε μήνα.",
       "en": "κάθε + accusative; -ας nouns drop the -ς: κάθε μήνα."
+     },
+     "sentence": {
+      "el": "Πληρώνω το ενοίκιο κάθε **μήνα**.",
+      "tr": "Kirayı her **ay** ödüyorum.",
+      "en": "I pay the rent every **month**."
      }
     },
     {
@@ -3722,6 +4012,11 @@
       "el": "Γενική ενικού των σε -ας: χωρίς -ς (του πατέρα).",
       "tr": "-ας ile bitenlerin tekil -in hâli: -ς'siz (του πατέρα).",
       "en": "Genitive singular of -ας nouns: no -ς (του πατέρα)."
+     },
+     "sentence": {
+      "el": "Η γιορτή **του πατέρα** μου είναι τον Μάιο.",
+      "tr": "**Babamın** isim günü mayısta.",
+      "en": "My **father's** name day is in May."
      }
     },
     {
@@ -3757,6 +4052,11 @@
       "el": "Αντικείμενο → αιτιατική: σβήνει το -ς (τον/έναν καφέ).",
       "tr": "Nesne → -i hâli: -ς düşer (τον/έναν καφέ).",
       "en": "Object → accusative: the -ς drops (τον/έναν καφέ)."
+     },
+     "sentence": {
+      "el": "Θέλετε **έναν καφέ**;",
+      "tr": "**Bir kahve** ister misiniz?",
+      "en": "Would you like **a coffee**?"
      }
     },
     {
@@ -3792,6 +4092,11 @@
       "el": "Πληθυντικός των σε -ές: -έδες.",
       "tr": "-ές ile bitenlerin çoğulu: -έδες.",
       "en": "Plural of -ές nouns: -έδες."
+     },
+     "sentence": {
+      "el": "Φέρτε μας τρεις **καφέδες**, παρακαλώ.",
+      "tr": "Bize üç **kahve** getirin, lütfen.",
+      "en": "Bring us three **coffees**, please."
      }
     },
     {
@@ -3827,6 +4132,11 @@
       "el": "από + αιτιατική· στον ενικό σβήνει μόνο το -ς: τον ψαρά.",
       "tr": "από + -i hâli; tekilde yalnızca -ς düşer: τον ψαρά.",
       "en": "από + accusative; in the singular only -ς drops: τον ψαρά."
+     },
+     "sentence": {
+      "el": "Αγοράσαμε φρέσκα ψάρια από **τον ψαρά**.",
+      "tr": "**Balıkçıdan** taze balık aldık.",
+      "en": "We bought fresh fish from **the fisherman**."
      }
     },
     {
@@ -3862,6 +4172,11 @@
       "el": "Γενική πληθυντικού: -δων με τον τόνο στην ίδια συλλαβή (ψαράδων).",
       "tr": "Çoğul -in hâli: vurgu aynı hecede, -δων (ψαράδων).",
       "en": "Genitive plural: -δων, stress on the same syllable (ψαράδων)."
+     },
+     "sentence": {
+      "el": "Οι βάρκες **των ψαράδων** είναι στο λιμάνι.",
+      "tr": "**Balıkçıların** kayıkları limanda.",
+      "en": "**The fishermen's** boats are in the harbour."
      }
     },
     {
@@ -3897,6 +4212,11 @@
       "el": "Κλητική του «ο παππούς»: σβήνει το -ς → παππού (ένα πρόσωπο: θέλεις).",
       "tr": "«ο παππούς» seslenme hâli: -ς düşer → παππού (tek kişi: θέλεις).",
       "en": "Vocative of «ο παππούς»: drop the -ς → παππού (one person: θέλεις)."
+     },
+     "sentence": {
+      "el": "**Παππού**, θέλεις λίγο νερό;",
+      "tr": "**Dede**, biraz su ister misin?",
+      "en": "**Grandpa**, would you like some water?"
      }
     },
     {
@@ -3932,6 +4252,11 @@
       "el": "Στην αιτιατική τα σε -ης χάνουν το -ς: τον μαθητή.",
       "tr": "-i hâlinde -ης ile bitenler -ς'yi kaybeder: τον μαθητή.",
       "en": "In the accusative -ης nouns drop the -ς: τον μαθητή."
+     },
+     "sentence": {
+      "el": "Περιμένω **τον μαθητή** στην είσοδο.",
+      "tr": "**Öğrenciyi** girişte bekliyorum.",
+      "en": "I'm waiting for **the pupil** at the entrance."
      }
     },
     {
@@ -3967,6 +4292,11 @@
       "el": "Ο παππούς → οι παππούδες (-ούδες)· το καφενείο είναι ουδέτερο → στο καφενείο.",
       "tr": "ο παππούς → οι παππούδες (-ούδες); καφενείο nötr → στο καφενείο.",
       "en": "ο παππούς → οι παππούδες (-ούδες); καφενείο is neuter → στο καφενείο."
+     },
+     "sentence": {
+      "el": "**Οι παππούδες** κάθονται στο καφενείο.",
+      "tr": "**Dedeler** kahvehanede oturuyor.",
+      "en": "**The grandfathers** are sitting in the coffee shop."
      }
     },
     {
@@ -4002,6 +4332,11 @@
       "el": "Γενική ενικού: σβήνει μόνο το -ς → του παππού.",
       "tr": "Tekil -in hâli: yalnızca -ς düşer → του παππού.",
       "en": "Genitive singular: only the -ς drops → του παππού."
+     },
+     "sentence": {
+      "el": "Η τηλεόραση **του παππού** είναι πάντα ανοιχτή.",
+      "tr": "**Dedenin** televizyonu hep açık.",
+      "en": "**Grandpa's** TV is always on."
      }
     },
     {
@@ -4037,6 +4372,11 @@
       "el": "Υποκείμενο πληθυντικού → -άδες: οι ψαράδες.",
       "tr": "Çoğul özne → -άδες: οι ψαράδες.",
       "en": "Plural subject → -άδες: οι ψαράδες."
+     },
+     "sentence": {
+      "el": "Οι **ψαράδες** του νησιού βγαίνουν στη θάλασσα από το πρωί.",
+      "tr": "Adanın **balıkçıları** sabahın erken saatinden denize açılır.",
+      "en": "The island's **fishermen** go out to sea early in the morning."
      }
     }
    ]
@@ -4459,6 +4799,11 @@
       "el": "Γενική ενικού των θηλυκών: προσθέτουμε -ς (της θάλασσας).",
       "tr": "Dişillerin tekil -in hâli: -ς eklenir (της θάλασσας).",
       "en": "Feminine genitive singular: add -ς (της θάλασσας)."
+     },
+     "sentence": {
+      "el": "Το χρώμα **της θάλασσας** είναι γαλάζιο.",
+      "tr": "**Denizin** rengi mavi.",
+      "en": "The colour of **the sea** is blue."
      }
     },
     {
@@ -4494,6 +4839,11 @@
       "el": "Μετά το «πόσες» → πληθυντικός σε -ες.",
       "tr": "«πόσες»ten sonra → çoğul -ες.",
       "en": "After «πόσες» → plural in -ες."
+     },
+     "sentence": {
+      "el": "Πόσες **ώρες** κρατάει το ταξίδι;",
+      "tr": "Yolculuk kaç **saat** sürüyor?",
+      "en": "How many **hours** does the journey take?"
      }
     },
     {
@@ -4529,6 +4879,11 @@
       "el": "Γενική πληθυντικού των σε -α: τόνος στο τέλος (-ών).",
       "tr": "-α ile bitenlerin çoğul -in hâli: vurgu sonda (-ών).",
       "en": "Genitive plural of -α nouns: stress at the end (-ών)."
+     },
+     "sentence": {
+      "el": "Η ζωή **των γυναικών** ήταν δύσκολη τότε.",
+      "tr": "O zamanlar **kadınların** hayatı zordu.",
+      "en": "**Women's** lives were hard back then."
      }
     },
     {
@@ -4564,6 +4919,11 @@
       "el": "Εξαίρεση: η μητέρα κρατά τον τόνο στη θέση του → των μητέρων.",
       "tr": "İstisna: μητέρα vurguyu yerinde tutar → των μητέρων.",
       "en": "Exception: μητέρα keeps its stress → των μητέρων."
+     },
+     "sentence": {
+      "el": "Οι συναντήσεις **των μητέρων** γίνονται κάθε Τρίτη.",
+      "tr": "**Annelerin** toplantıları her salı yapılıyor.",
+      "en": "**The mothers'** meetings take place every Tuesday."
      }
     },
     {
@@ -4599,6 +4959,11 @@
       "el": "σε + αιτιατική· το θηλυκό κρατά την ίδια κατάληξη: στη μητέρα.",
       "tr": "σε + -i hâli; dişil aynı eki korur: στη μητέρα.",
       "en": "σε + accusative; the feminine keeps the same ending: στη μητέρα."
+     },
+     "sentence": {
+      "el": "Τηλεφωνώ **στη μητέρα** μου κάθε βράδυ.",
+      "tr": "Her akşam **annemi** ararım.",
+      "en": "I phone **my mother** every evening."
      }
     },
     {
@@ -4634,6 +4999,11 @@
       "el": "Γενική ενικού: -ής (προσθέτουμε -ς).",
       "tr": "Tekil -in hâli: -ής (-ς eklenir).",
       "en": "Genitive singular: -ής (add -ς)."
+     },
+     "sentence": {
+      "el": "Το σπίτι **της αδελφής** μου είναι μεγάλο.",
+      "tr": "**Kız kardeşimin** evi büyük.",
+      "en": "My **sister's** house is big."
      }
     },
     {
@@ -4669,6 +5039,11 @@
       "el": "Η αδελφή → οι αδελφές (πληθυντικός σε -ες).",
       "tr": "η αδελφή → οι αδελφές (çoğul -ες).",
       "en": "η αδελφή → οι αδελφές (plural in -ες)."
+     },
+     "sentence": {
+      "el": "Έχω τρεις **αδελφές**.",
+      "tr": "Üç **kız kardeşim** var.",
+      "en": "I have three **sisters**."
      }
     },
     {
@@ -4704,6 +5079,11 @@
       "el": "Πληθυντικός των σε -ξη: -εις (οι/τις λέξεις).",
       "tr": "-ξη ile bitenlerin çoğulu: -εις (οι/τις λέξεις).",
       "en": "Plural of -ξη nouns: -εις (οι/τις λέξεις)."
+     },
+     "sentence": {
+      "el": "Γράψτε τις καινούργιες **λέξεις** στο τετράδιο.",
+      "tr": "Yeni **kelimeleri** deftere yazın.",
+      "en": "Write the new **words** in your notebook."
      }
     },
     {
@@ -4739,6 +5119,11 @@
       "el": "Υποκείμενο ενικού → ονομαστική: η λέξη.",
       "tr": "Tekil özne → yalın hâl: η λέξη.",
       "en": "Singular subject → nominative: η λέξη."
+     },
+     "sentence": {
+      "el": "Τι σημαίνει αυτή η **λέξη**;",
+      "tr": "Bu **kelime** ne anlama geliyor?",
+      "en": "What does this **word** mean?"
      }
     },
     {
@@ -4774,6 +5159,11 @@
       "el": "Γενική ενικού: -ης· το -εις είναι μόνο για τον πληθυντικό.",
       "tr": "Tekil -in hâli: -ης; -εις yalnızca çoğul içindir.",
       "en": "Genitive singular: -ης; -εις is only for the plural."
+     },
+     "sentence": {
+      "el": "Ποιο είναι το νόημα **της λέξης**;",
+      "tr": "**Kelimenin** anlamı ne?",
+      "en": "What is the meaning of **the word**?"
      }
     },
     {
@@ -4809,6 +5199,11 @@
       "el": "Γενική πληθυντικού των σε -η/-εις: -εων.",
       "tr": "-η/-εις türünün çoğul -in hâli: -εων.",
       "en": "Genitive plural of the -η/-εις type: -εων."
+     },
+     "sentence": {
+      "el": "Ο πληθυσμός **των πόλεων** αυξάνεται.",
+      "tr": "**Şehirlerin** nüfusu artıyor.",
+      "en": "The population of **the cities** is growing."
      }
     },
     {
@@ -4844,6 +5239,11 @@
       "el": "Ποιανού το κέντρο; → γενική ενικού: της πόλης.",
       "tr": "Neyin merkezi? → tekil -in hâli: της πόλης.",
       "en": "Centre of what? → genitive singular: της πόλης."
+     },
+     "sentence": {
+      "el": "Μένουμε στο κέντρο **της πόλης**.",
+      "tr": "**Şehir** merkezinde oturuyoruz.",
+      "en": "We live in the centre of **the town**."
      }
     },
     {
@@ -4879,6 +5279,11 @@
       "el": "Αντικείμενο πληθυντικού: τις αιτήσεις (-εις).",
       "tr": "Çoğul nesne: τις αιτήσεις (-εις).",
       "en": "Plural object: τις αιτήσεις (-εις)."
+     },
+     "sentence": {
+      "el": "Συμπλήρωσα όλες τις **αιτήσεις**.",
+      "tr": "Bütün **başvuru formlarını** doldurdum.",
+      "en": "I filled in all the **application forms**."
      }
     },
     {
@@ -4914,6 +5319,11 @@
       "el": "σε + αιτιατική: η οδός → στην οδό.",
       "tr": "σε + -i hâli: η οδός → στην οδό.",
       "en": "σε + accusative: η οδός → στην οδό."
+     },
+     "sentence": {
+      "el": "Το γραφείο είναι στην **οδό** Σταδίου.",
+      "tr": "Ofis Stadiou **Caddesi'nde**.",
+      "en": "The office is on Stadiou **Street**."
      }
     },
     {
@@ -4949,6 +5359,11 @@
       "el": "Η έξοδος είναι θηλυκό παρά το -ος· υποκείμενο → η.",
       "tr": "έξοδος -ος'a rağmen dişildir; özne → η.",
       "en": "έξοδος is feminine despite the -ος; subject → η."
+     },
+     "sentence": {
+      "el": "Πού είναι **η** έξοδος;",
+      "tr": "**Çıkış** nerede?",
+      "en": "Where is **the** exit?"
      }
     },
     {
@@ -4984,6 +5399,11 @@
       "el": "Θηλυκό σε -ος: γενική -ου με άρθρο «της».",
       "tr": "-ος ile biten dişil: «της» artikelli -ου.",
       "en": "Feminine in -ος: genitive -ου with the article «της»."
+     },
+     "sentence": {
+      "el": "Στο τέλος **της περιόδου** έχουμε εξετάσεις.",
+      "tr": "**Dönem** sonunda sınavlarımız var.",
+      "en": "At the end of **the term** we have exams."
      }
     },
     {
@@ -5019,6 +5439,11 @@
       "el": "Αντικείμενο → αιτιατική: την είσοδο (θηλυκό άρθρο, -ο).",
       "tr": "Nesne → -i hâli: την είσοδο (dişil artikel, -ο).",
       "en": "Object → accusative: την είσοδο (feminine article, -ο)."
+     },
+     "sentence": {
+      "el": "Παρακαλώ, χρησιμοποιήστε **την είσοδο** στα δεξιά.",
+      "tr": "Lütfen sağdaki **girişi** kullanın.",
+      "en": "Please use **the entrance** on the right."
      }
     },
     {
@@ -5054,6 +5479,11 @@
       "el": "Πληθυντικός: τις λέξεις· το -ης είναι μόνο γενική ενικού.",
       "tr": "Çoğul: τις λέξεις; -ης yalnızca tekil -in hâlidir.",
       "en": "Plural: τις λέξεις; -ης is only the genitive singular."
+     },
+     "sentence": {
+      "el": "Διάβασα όλες τις **λέξεις**.",
+      "tr": "Bütün **kelimeleri** okudum.",
+      "en": "I read all the **words**."
      }
     },
     {
@@ -5089,6 +5519,11 @@
       "el": "Η έξοδος είναι θηλυκό: «η έξοδος», όχι «ο έξοδος».",
       "tr": "έξοδος dişildir: «η έξοδος», «ο έξοδος» değil.",
       "en": "έξοδος is feminine: «η έξοδος», not «ο έξοδος»."
+     },
+     "sentence": {
+      "el": "**Η** έξοδος είναι δεξιά.",
+      "tr": "**Çıkış** sağda.",
+      "en": "**The** exit is on the right."
      }
     },
     {
@@ -5124,6 +5559,11 @@
       "el": "Η πόλη είναι θηλυκό· αιτιατική: την πόλη → στην πόλη.",
       "tr": "πόλη dişildir; -i hâli: την πόλη → στην πόλη.",
       "en": "πόλη is feminine; accusative: την πόλη → στην πόλη."
+     },
+     "sentence": {
+      "el": "Η γυναίκα μου δουλεύει **στην πόλη**.",
+      "tr": "Eşim **şehirde** çalışıyor.",
+      "en": "My wife works **in the city**."
      }
     },
     {
@@ -5159,6 +5599,11 @@
       "el": "Αντικείμενο → αιτιατική: ίδια κατάληξη, άρθρο τη(ν).",
       "tr": "Nesne → -i hâli: ek aynı, artikel τη(ν).",
       "en": "Object → accusative: same ending, article τη(ν)."
+     },
+     "sentence": {
+      "el": "Από εδώ δεν βλέπω **τη θάλασσα**.",
+      "tr": "Buradan **denizi** göremiyorum.",
+      "en": "I can't see **the sea** from here."
      }
     },
     {
@@ -5194,6 +5639,11 @@
       "el": "Γενική πληθυντικού των σε -α: -ών με τόνο στο τέλος (ωρών).",
       "tr": "-α ile bitenlerin çoğul -in hâli: vurgulu -ών (ωρών).",
       "en": "Genitive plural of -α nouns: -ών stressed at the end (ωρών)."
+     },
+     "sentence": {
+      "el": "Το πρόγραμμα **των ωρών** λειτουργίας είναι στην πόρτα.",
+      "tr": "Çalışma **saatleri** çizelgesi kapıda asılı.",
+      "en": "The schedule of opening **hours** is on the door."
      }
     }
    ]
@@ -5652,6 +6102,11 @@
       "el": "Στα ουδέτερα η αιτιατική είναι ίδια με την ονομαστική: το βιβλίο.",
       "tr": "Nötrlerde -i hâli yalın hâlle aynıdır: το βιβλίο.",
       "en": "In neuters the accusative equals the nominative: το βιβλίο."
+     },
+     "sentence": {
+      "el": "Διάβασα **το βιβλίο** σε δύο μέρες.",
+      "tr": "**Kitabı** iki günde okudum.",
+      "en": "I read **the book** in two days."
      }
     },
     {
@@ -5687,6 +6142,11 @@
       "el": "Αλλάζει μόνο η γενική: του βιβλίου.",
       "tr": "Yalnızca -in hâli değişir: του βιβλίου.",
       "en": "Only the genitive changes: του βιβλίου."
+     },
+     "sentence": {
+      "el": "Ο τίτλος **του βιβλίου** είναι πολύ μεγάλος.",
+      "tr": "**Kitabın** adı çok uzun.",
+      "en": "**The book's** title is very long."
      }
     },
     {
@@ -5722,6 +6182,11 @@
       "el": "Τόνος στην τρίτη από το τέλος → στη γενική κατεβαίνει μία συλλαβή: προσώπου.",
       "tr": "Vurgu sondan üçüncü hecede → -in hâlinde bir hece kayar: προσώπου.",
       "en": "Stress on the third-last syllable → it moves one syllable in the genitive: προσώπου."
+     },
+     "sentence": {
+      "el": "Η φωτογραφία **του προσώπου** πρέπει να είναι καθαρή.",
+      "tr": "**Yüzün** fotoğrafı net olmalı.",
+      "en": "The photo of **the face** must be clear."
      }
     },
     {
@@ -5757,6 +6222,11 @@
       "el": "Σε -ι: γενική -ιού.",
       "tr": "-ι türü: -in hâli -ιού.",
       "en": "-ι type: genitive -ιού."
+     },
+     "sentence": {
+      "el": "Το δωμάτιο **του παιδιού** είναι δίπλα στην κουζίνα.",
+      "tr": "**Çocuğun** odası mutfağın yanında.",
+      "en": "**The child's** room is next to the kitchen."
      }
     },
     {
@@ -5792,6 +6262,11 @@
       "el": "Σε -ι: πάντα -ιού με τόνο στο τέλος (σπιτιού).",
       "tr": "-ι türü: her zaman sonda vurgulu -ιού (σπιτιού).",
       "en": "-ι type: always -ιού stressed at the end (σπιτιού)."
+     },
+     "sentence": {
+      "el": "Η πόρτα **του σπιτιού** είναι ανοιχτή.",
+      "tr": "**Evin** kapısı açık.",
+      "en": "The door of **the house** is open."
      }
     },
     {
@@ -5827,6 +6302,11 @@
       "el": "Γενική πληθυντικού των σε -ι: -ιών.",
       "tr": "-ι türünün çoğul -in hâli: -ιών.",
       "en": "Genitive plural of -ι nouns: -ιών."
+     },
+     "sentence": {
+      "el": "Οι τιμές **των σπιτιών** ανέβηκαν πολύ.",
+      "tr": "**Ev** fiyatları çok arttı.",
+      "en": "**House** prices have gone up a lot."
      }
     },
     {
@@ -5862,6 +6342,11 @@
       "el": "Ουδέτερο πληθυντικού: τα, και -ι → -ιά.",
       "tr": "Nötr çoğul: τα, ve -ι → -ιά.",
       "en": "Neuter plural: τα, and -ι → -ιά."
+     },
+     "sentence": {
+      "el": "**Τα παιδιά** παίζουν στην αυλή.",
+      "tr": "**Çocuklar** avluda oynuyor.",
+      "en": "**The children** are playing in the yard."
      }
     },
     {
@@ -5897,6 +6382,11 @@
       "el": "Αντικείμενο → αιτιατική = ονομαστική: το όνομα.",
       "tr": "Nesne → -i hâli = yalın hâl: το όνομα.",
       "en": "Object → accusative = nominative: το όνομα."
+     },
+     "sentence": {
+      "el": "Γράψτε **το όνομα** και το επώνυμο.",
+      "tr": "**Adınızı** ve soyadınızı yazın.",
+      "en": "Write your **first name** and surname."
      }
     },
     {
@@ -5932,6 +6422,11 @@
       "el": "Σε -μα: γενική -ματος, ο τόνος κατεβαίνει (ονόματος).",
       "tr": "-μα türü: -in hâli -ματος, vurgu kayar (ονόματος).",
       "en": "-μα type: genitive -ματος, stress moves (ονόματος)."
+     },
+     "sentence": {
+      "el": "Η ορθογραφία **του ονόματος** είναι λάθος.",
+      "tr": "**İsmin** yazılışı yanlış.",
+      "en": "The spelling of **the name** is wrong."
      }
     },
     {
@@ -5967,6 +6462,11 @@
       "el": "Σε -μα: πληθυντικός -ματα.",
       "tr": "-μα türü: çoğul -ματα.",
       "en": "-μα type: plural -ματα."
+     },
+     "sentence": {
+      "el": "Τα **μαθήματα** αρχίζουν τον Σεπτέμβριο.",
+      "tr": "**Dersler** eylülde başlıyor.",
+      "en": "**Classes** start in September."
      }
     },
     {
@@ -6002,6 +6502,11 @@
       "el": "Γενική πληθυντικού σε -μάτων (τόνος στην παραλήγουσα).",
       "tr": "Çoğul -in hâli -μάτων (vurgu sondan ikinci hecede).",
       "en": "Genitive plural -μάτων (stress on the second-last syllable)."
+     },
+     "sentence": {
+      "el": "Η λύση **των προβλημάτων** θέλει χρόνο.",
+      "tr": "**Sorunların** çözümü zaman ister.",
+      "en": "Solving **the problems** takes time."
      }
     },
     {
@@ -6037,6 +6542,11 @@
       "el": "Ουδέτερο: αιτιατική = ονομαστική (στο δάσος).",
       "tr": "Nötr: -i hâli = yalın hâl (στο δάσος).",
       "en": "Neuter: accusative = nominative (στο δάσος)."
+     },
+     "sentence": {
+      "el": "Περπατάμε μέσα στο **δάσος**.",
+      "tr": "**Ormanın** içinde yürüyoruz.",
+      "en": "We're walking in **the forest**."
      }
     },
     {
@@ -6072,6 +6582,11 @@
       "el": "Ουδέτερα σε -ος: γενική -ους (του δάσους).",
       "tr": "-ος ile biten nötrler: -in hâli -ους (του δάσους).",
       "en": "Neuters in -ος: genitive -ους (του δάσους)."
+     },
+     "sentence": {
+      "el": "Η προστασία **του δάσους** είναι υποχρέωση όλων.",
+      "tr": "**Ormanı** korumak herkesin görevidir.",
+      "en": "Protecting **the forest** is everyone's duty."
      }
     },
     {
@@ -6107,6 +6622,11 @@
       "el": "Ουδέτερα σε -ος: πληθυντικός -η (τα δάση).",
       "tr": "-ος ile biten nötrler: çoğul -η (τα δάση).",
       "en": "Neuters in -ος: plural -η (τα δάση)."
+     },
+     "sentence": {
+      "el": "Τα **δάση** της Ελλάδας κινδυνεύουν από τις φωτιές.",
+      "tr": "Yunanistan'ın **ormanları** yangın tehlikesiyle karşı karşıya.",
+      "en": "Greece's **forests** are threatened by fires."
      }
     },
     {
@@ -6142,6 +6662,11 @@
       "el": "Το λάθος κλίνεται όπως το δάσος: τα λάθη.",
       "tr": "λάθος, δάσος gibi çekilir: τα λάθη.",
       "en": "λάθος declines like δάσος: τα λάθη."
+     },
+     "sentence": {
+      "el": "Έκανα τρία **λάθη** στο τεστ.",
+      "tr": "Testte üç **hata** yaptım.",
+      "en": "I made three **mistakes** in the test."
      }
     },
     {
@@ -6177,6 +6702,11 @@
       "el": "Σε -ος: γενική πληθυντικού πάντα -ών στο τέλος (λαθών).",
       "tr": "-ος türü: çoğul -in hâli her zaman sonda -ών (λαθών).",
       "en": "-ος type: genitive plural always -ών at the end (λαθών)."
+     },
+     "sentence": {
+      "el": "Η διόρθωση **των λαθών** είναι εύκολη.",
+      "tr": "**Hataların** düzeltilmesi kolay.",
+      "en": "Correcting **the mistakes** is easy."
      }
     },
     {
@@ -6212,6 +6742,11 @@
       "el": "Τα ουσιαστικά σε -ιμο είναι ουδέτερα· υποκείμενο → το τρέξιμο.",
       "tr": "-ιμο ile biten isimler nötrdür; özne → το τρέξιμο.",
       "en": "Nouns in -ιμο are neuter; subject → το τρέξιμο."
+     },
+     "sentence": {
+      "el": "**Το τρέξιμο** κάνει καλό στην υγεία.",
+      "tr": "**Koşu** sağlığa iyi gelir.",
+      "en": "**Running** is good for your health."
      }
     },
     {
@@ -6247,6 +6782,11 @@
       "el": "Σε -μα: γενική -ματος (του διαβάσματος).",
       "tr": "-μα türü: -in hâli -ματος (του διαβάσματος).",
       "en": "-μα type: genitive -ματος (του διαβάσματος)."
+     },
+     "sentence": {
+      "el": "Η ώρα **του διαβάσματος** είναι μετά το φαγητό.",
+      "tr": "**Ders çalışma** saati yemekten sonra.",
+      "en": "**Study** time is after the meal."
      }
     },
     {
@@ -6282,6 +6822,11 @@
       "el": "Τα υποκοριστικά σε -άκι είναι πάντα ουδέτερα, ακόμη και για κορίτσι.",
       "tr": "-άκι ile biten küçültmeler kız için bile her zaman nötrdür.",
       "en": "Diminutives in -άκι are always neuter, even for a girl."
+     },
+     "sentence": {
+      "el": "**Το** κοριτσάκι κρατάει ένα σκυλάκι.",
+      "tr": "**Küçük kız** küçük bir köpek tutuyor.",
+      "en": "**The** little girl is holding a little dog."
      }
     },
     {
@@ -6317,6 +6862,11 @@
       "el": "Το λάθος είναι ουδέτερο σε -ος: πληθυντικός τα λάθη.",
       "tr": "λάθος -ος ile biten nötrdür: çoğul τα λάθη.",
       "en": "λάθος is a neuter in -ος: plural τα λάθη."
+     },
+     "sentence": {
+      "el": "Στο τεστ έκανα πολλά **λάθη**.",
+      "tr": "Testte çok **hata** yaptım.",
+      "en": "I made a lot of **mistakes** in the test."
      }
     },
     {
@@ -6352,6 +6902,11 @@
       "el": "Στη γενική το ουδέτερο αλλάζει: του σπιτιού.",
       "tr": "-in hâlinde nötr isim değişir: του σπιτιού.",
       "en": "In the genitive the neuter changes: του σπιτιού."
+     },
+     "sentence": {
+      "el": "Η πόρτα **του σπιτιού** είναι κλειστή.",
+      "tr": "**Evin** kapısı kapalı.",
+      "en": "The door of **the house** is closed."
      }
     },
     {
@@ -6387,6 +6942,11 @@
       "el": "τα ονόματα (-ματα) και γενική πληθυντικού των παιδιών (-ιών).",
       "tr": "τα ονόματα (-ματα) ve çoğul -in hâli των παιδιών (-ιών).",
       "en": "τα ονόματα (-ματα) and genitive plural των παιδιών (-ιών)."
+     },
+     "sentence": {
+      "el": "Τα **ονόματα των παιδιών** είναι στη λίστα.",
+      "tr": "**Çocukların isimleri** listede.",
+      "en": "**The children's names** are on the list."
      }
     }
    ]
@@ -7104,6 +7664,11 @@
       "el": "Η δασκάλα είναι θηλυκό → καλή.",
       "tr": "δασκάλα dişildir → καλή.",
       "en": "δασκάλα is feminine → καλή."
+     },
+     "sentence": {
+      "el": "Η Ελένη είναι πολύ **καλή** δασκάλα.",
+      "tr": "Eleni çok **iyi** bir öğretmen.",
+      "en": "Eleni is a very **good** teacher."
      }
     },
     {
@@ -7139,6 +7704,11 @@
       "el": "Το σπίτι είναι ουδέτερο → μεγάλο.",
       "tr": "σπίτι nötrdür → μεγάλο.",
       "en": "σπίτι is neuter → μεγάλο."
+     },
+     "sentence": {
+      "el": "Μένουμε σε ένα **μεγάλο** σπίτι.",
+      "tr": "**Büyük** bir evde oturuyoruz.",
+      "en": "We live in a **big** house."
      }
     },
     {
@@ -7174,6 +7744,11 @@
       "el": "Αρσενικό αντικείμενο → αιτιατική: έναν καλό δικηγόρο.",
       "tr": "Eril nesne → -i hâli: έναν καλό δικηγόρο.",
       "en": "Masculine object → accusative: έναν καλό δικηγόρο."
+     },
+     "sentence": {
+      "el": "Ψάχνω έναν **καλό** δικηγόρο.",
+      "tr": "**İyi** bir avukat arıyorum.",
+      "en": "I'm looking for a **good** lawyer."
      }
     },
     {
@@ -7209,6 +7784,11 @@
       "el": "Αρσενικό υποκείμενο πληθυντικού → καλοί.",
       "tr": "Eril çoğul özne → καλοί.",
       "en": "Masculine plural subject → καλοί."
+     },
+     "sentence": {
+      "el": "Οι **καλοί** μαθητές παίρνουν υποτροφία.",
+      "tr": "**İyi** öğrenciler burs alır.",
+      "en": "**Good** students get a scholarship."
      }
     },
     {
@@ -7244,6 +7824,11 @@
       "el": "Γενική πληθυντικού: -ων σε όλα τα γένη.",
       "tr": "Çoğul -in hâli: her cinste -ων.",
       "en": "Genitive plural: -ων in every gender."
+     },
+     "sentence": {
+      "el": "Τα δωμάτια των **μεγάλων** ξενοδοχείων είναι ακριβά.",
+      "tr": "**Büyük** otellerin odaları pahalı.",
+      "en": "Rooms in **big** hotels are expensive."
      }
     },
     {
@@ -7279,6 +7864,11 @@
       "el": "Τύπος -ος/-α/-ο: η μέρα → ωραία.",
       "tr": "-ος/-α/-ο türü: η μέρα → ωραία.",
       "en": "-ος/-α/-ο type: η μέρα → ωραία."
+     },
+     "sentence": {
+      "el": "Τι **ωραία** μέρα σήμερα!",
+      "tr": "Bugün ne **güzel** bir gün!",
+      "en": "What a **lovely** day today!"
      }
     },
     {
@@ -7314,6 +7904,11 @@
       "el": "Θηλυκό πληθυντικού αιτιατική → ωραίες.",
       "tr": "Dişil çoğul -i hâli → ωραίες.",
       "en": "Feminine plural accusative → ωραίες."
+     },
+     "sentence": {
+      "el": "Η πόλη έχει **ωραίες** παραλίες.",
+      "tr": "Şehrin **güzel** plajları var.",
+      "en": "The town has **beautiful** beaches."
      }
     },
     {
@@ -7349,6 +7944,11 @@
       "el": "Το νερό είναι ουδέτερο ενικού → κρύο.",
       "tr": "νερό nötr tekildir → κρύο.",
       "en": "νερό is neuter singular → κρύο."
+     },
+     "sentence": {
+      "el": "Θέλω ένα ποτήρι **κρύο** νερό.",
+      "tr": "Bir bardak **soğuk** su istiyorum.",
+      "en": "I'd like a glass of **cold** water."
      }
     },
     {
@@ -7384,6 +7984,11 @@
       "el": "Φωνήεν πριν από την κατάληξη → θηλυκό σε -α: νέα.",
       "tr": "Ekten önce ünlü → dişil -α: νέα.",
       "en": "Vowel before the ending → feminine in -α: νέα."
+     },
+     "sentence": {
+      "el": "Η **νέα** μας γειτόνισσα είναι από την Κρήτη.",
+      "tr": "**Yeni** komşumuz Giritli.",
+      "en": "Our **new** neighbour is from Crete."
      }
     },
     {
@@ -7419,6 +8024,11 @@
       "el": "Η λίμνη είναι θηλυκό → βαθιά, και μετά το «είναι».",
       "tr": "λίμνη dişildir → βαθιά, «είναι»dan sonra da.",
       "en": "λίμνη is feminine → βαθιά, after «είναι» too."
+     },
+     "sentence": {
+      "el": "Η λίμνη είναι πολύ **βαθιά**.",
+      "tr": "Göl çok **derin**.",
+      "en": "The lake is very **deep**."
      }
     },
     {
@@ -7454,6 +8064,11 @@
       "el": "Ουδέτερο ενικού → βαθύ.",
       "tr": "Nötr tekil → βαθύ.",
       "en": "Neuter singular → βαθύ."
+     },
+     "sentence": {
+      "el": "Πρόσεχε, εδώ το νερό είναι **βαθύ**.",
+      "tr": "Dikkat et, burada su **derin**.",
+      "en": "Careful, the water is **deep** here."
      }
     },
     {
@@ -7489,6 +8104,11 @@
       "el": "Θηλυκό ενικού → -ιά: βαριά.",
       "tr": "Dişil tekil → -ιά: βαριά.",
       "en": "Feminine singular → -ιά: βαριά."
+     },
+     "sentence": {
+      "el": "Η βαλίτσα μου είναι πολύ **βαριά**.",
+      "tr": "Bavulum çok **ağır**.",
+      "en": "My suitcase is very **heavy**."
      }
     },
     {
@@ -7524,6 +8144,11 @@
       "el": "Αρσενικό αιτιατική ενικού → μακρύ.",
       "tr": "Eril tekil -i hâli → μακρύ.",
       "en": "Masculine accusative singular → μακρύ."
+     },
+     "sentence": {
+      "el": "Περπατήσαμε σε έναν **μακρύ** δρόμο.",
+      "tr": "**Uzun** bir yolda yürüdük.",
+      "en": "We walked along a **long** road."
      }
     },
     {
@@ -7559,6 +8184,11 @@
       "el": "Ουδέτερο πληθυντικού → -ιά: φαρδιά.",
       "tr": "Nötr çoğul → -ιά: φαρδιά.",
       "en": "Neuter plural → -ιά: φαρδιά."
+     },
+     "sentence": {
+      "el": "Αυτά τα παντελόνια είναι **φαρδιά**.",
+      "tr": "Bu pantolonlar **bol**.",
+      "en": "These trousers are **loose**."
      }
     },
     {
@@ -7594,6 +8224,11 @@
       "el": "Θηλυκό πληθυντικού → συνεχείς.",
       "tr": "Dişil çoğul → συνεχείς.",
       "en": "Feminine plural → συνεχείς."
+     },
+     "sentence": {
+      "el": "Οι **συνεχείς** βροχές έκλεισαν τον δρόμο.",
+      "tr": "**Sürekli** yağan yağmurlar yolu kapattı.",
+      "en": "The **constant** rain closed the road."
      }
     },
     {
@@ -7629,6 +8264,11 @@
       "el": "Ουδέτερο πληθυντικού → τα συνεχή (όχι «συνεχείς»).",
       "tr": "Nötr çoğul → τα συνεχή («συνεχείς» değil).",
       "en": "Neuter plural → τα συνεχή (not «συνεχείς»)."
+     },
+     "sentence": {
+      "el": "Έχουμε **συνεχή** προβλήματα με το ίντερνετ.",
+      "tr": "İnternetle ilgili **sürekli** sorun yaşıyoruz.",
+      "en": "We have **constant** problems with the internet."
      }
     },
     {
@@ -7664,6 +8304,11 @@
       "el": "Ουδέτερο ενικού των σε -ής → -ές: υγιές.",
       "tr": "-ής türünün nötr tekili → -ές: υγιές.",
       "en": "Neuter singular of -ής adjectives → -ές: υγιές."
+     },
+     "sentence": {
+      "el": "Ο γιατρός είπε ότι το παιδί είναι **υγιές**.",
+      "tr": "Doktor çocuğun **sağlıklı** olduğunu söyledi.",
+      "en": "The doctor said the child is **healthy**."
      }
     },
     {
@@ -7699,6 +8344,11 @@
       "el": "Στα επίθετα σε -ής το θηλυκό έχει ίδια κατάληξη με το αρσενικό: σαφής.",
       "tr": "-ής sıfatlarında dişil eril ile aynı eki alır: σαφής.",
       "en": "In -ής adjectives the feminine has the masculine ending: σαφής."
+     },
+     "sentence": {
+      "el": "Η οδηγία είναι **σαφής**.",
+      "tr": "Talimat **açık**.",
+      "en": "The instruction is **clear**."
      }
     },
     {
@@ -7734,6 +8384,11 @@
       "el": "Το επίθετο συμφωνεί με το θηλυκό «η θάλασσα»: βαθιά.",
       "tr": "Sıfat dişil «η θάλασσα» ile uyuşur: βαθιά.",
       "en": "The adjective agrees with feminine «η θάλασσα»: βαθιά."
+     },
+     "sentence": {
+      "el": "Η θάλασσα σήμερα είναι **βαθιά**.",
+      "tr": "Deniz bugün **derin**.",
+      "en": "The sea is **deep** today."
      }
     },
     {
@@ -7769,6 +8424,11 @@
       "el": "Πληθυντικός αρσενικού: οι καλοί δάσκαλοι.",
       "tr": "Eril çoğul: οι καλοί δάσκαλοι.",
       "en": "Masculine plural: οι καλοί δάσκαλοι."
+     },
+     "sentence": {
+      "el": "Οι **καλοί** δάσκαλοι εξηγούν με υπομονή.",
+      "tr": "**İyi** öğretmenler sabırla anlatır.",
+      "en": "**Good** teachers explain patiently."
      }
     },
     {
@@ -7804,6 +8464,11 @@
       "el": "η πόλη → ωραία: οι καταλήξεις δεν «ριμάρουν» πάντα, αλλά το γένος συμφωνεί.",
       "tr": "η πόλη → ωραία: ekler her zaman «kafiyeli» değildir ama cins uyuşur.",
       "en": "η πόλη → ωραία: endings don't always rhyme, but the gender agrees."
+     },
+     "sentence": {
+      "el": "Η Θεσσαλονίκη είναι μια **ωραία** πόλη.",
+      "tr": "Selanik **güzel** bir şehir.",
+      "en": "Thessaloniki is a **beautiful** city."
      }
     },
     {
@@ -7839,6 +8504,11 @@
       "el": "Η σούπα είναι θηλυκό ενικού → ζεστή.",
       "tr": "σούπα dişil tekildir → ζεστή.",
       "en": "σούπα is feminine singular → ζεστή."
+     },
+     "sentence": {
+      "el": "Τον χειμώνα τρώμε **ζεστή** σούπα.",
+      "tr": "Kışın **sıcak** çorba içeriz.",
+      "en": "In winter we have **hot** soup."
      }
     },
     {
@@ -7874,6 +8544,11 @@
       "el": "Μετά το «είναι» το επίθετο συμφωνεί: τα σπίτια → μικρά.",
       "tr": "«είναι»dan sonra sıfat uyuşur: τα σπίτια → μικρά.",
       "en": "After «είναι» the adjective agrees: τα σπίτια → μικρά."
+     },
+     "sentence": {
+      "el": "Τα σπίτια στο χωριό είναι **μικρά** και άσπρα.",
+      "tr": "Köydeki evler **küçük** ve beyaz.",
+      "en": "The houses in the village are **small** and white."
      }
     },
     {
@@ -7909,6 +8584,11 @@
       "el": "Κλητική αρσενικού (φίλε) → καλέ.",
       "tr": "Eril seslenme hâli (φίλε) → καλέ.",
       "en": "Masculine vocative (φίλε) → καλέ."
+     },
+     "sentence": {
+      "el": "**Καλέ** μου φίλε, σε ευχαριστώ!",
+      "tr": "**Sevgili** dostum, teşekkür ederim!",
+      "en": "My **dear** friend, thank you!"
      }
     }
    ]

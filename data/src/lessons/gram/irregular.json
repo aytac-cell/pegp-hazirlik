@@ -412,6 +412,11 @@
       "el": "Το «είμαι» δεν έχει αόριστο· για το παρελθόν (χθες) λέμε «ήμουν».",
       "tr": "«είμαι» fiilinin aoristi yoktur; geçmiş (dün) için «ήμουν» denir.",
       "en": "«είμαι» has no aorist; for the past (yesterday) we say «ήμουν»."
+     },
+     "sentence": {
+      "el": "Χθες εγώ **ήμουν** στο σπίτι όλη μέρα.",
+      "tr": "Dün bütün gün **evdeydim**.",
+      "en": "Yesterday I **was** at home all day."
      }
     },
     {
@@ -447,6 +452,11 @@
       "el": "Το παρελθόν του «έχω» είναι μόνο ο παρατατικός: εμείς είχαμε.",
       "tr": "«έχω» fiilinin geçmişi yalnızca παρατατικός'tur: εμείς είχαμε.",
       "en": "The past of «έχω» is only the imperfect: εμείς είχαμε."
+     },
+     "sentence": {
+      "el": "Πέρσι εμείς **είχαμε** ένα μικρό αυτοκίνητο.",
+      "tr": "Geçen yıl küçük bir arabamız **vardı**.",
+      "en": "Last year we **had** a small car."
      }
     },
     {
@@ -482,6 +492,11 @@
       "el": "Για το μέλλον του «είμαι» υπάρχει μόνο ένας τύπος: θα είμαι.",
       "tr": "«είμαι» fiilinin geleceği için tek bir biçim vardır: θα είμαι.",
       "en": "For the future of «είμαι» there is only one form: θα είμαι."
+     },
+     "sentence": {
+      "el": "Αύριο εγώ **θα είμαι** στη δουλειά μέχρι τις πέντε.",
+      "tr": "Yarın saat beşe kadar **işte olacağım**.",
+      "en": "Tomorrow I **will be** at work until five."
      }
     },
     {
@@ -517,6 +532,11 @@
       "el": "Το «είμαι» δεν έχει αόριστο (δεν υπάρχει *είμησα)· για το παρελθόν λέμε «ήμουν».",
       "tr": "«είμαι» fiilinin aoristi yoktur (*είμησα diye bir biçim yok); geçmiş için «ήμουν» denir.",
       "en": "«είμαι» has no aorist (there is no *είμησα); for the past we say «ήμουν»."
+     },
+     "sentence": {
+      "el": "Χθες **ήμουν** στην τράπεζα.",
+      "tr": "Dün **bankadaydım**.",
+      "en": "Yesterday I **was** at the bank."
      }
     },
     {
@@ -552,6 +572,11 @@
       "el": "Το «έχω» δεν έχει αόριστο (όχι *έχησα)· για το παρελθόν λέμε «είχα».",
       "tr": "«έχω» fiilinin aoristi yoktur (*έχησα değil); geçmiş için «είχα» denir.",
       "en": "«έχω» has no aorist (not *έχησα); for the past we say «είχα»."
+     },
+     "sentence": {
+      "el": "Πέρσι **είχα** πολλή δουλειά.",
+      "tr": "Geçen yıl çok işim **vardı**.",
+      "en": "Last year I **had** a lot of work."
      }
     },
     {
@@ -587,6 +612,11 @@
       "el": "Μιλάμε στον Νίκο (εσύ) για το παρελθόν: εσύ ήσουν.",
       "tr": "Nikos'a (εσύ) geçmişi soruyoruz: εσύ ήσουν (idin).",
       "en": "We ask Nikos (you, singular) about the past: εσύ ήσουν."
+     },
+     "sentence": {
+      "el": "Πού **ήσουν** χθες το βράδυ, Νίκο;",
+      "tr": "Dün akşam **neredeydin**, Niko?",
+      "en": "Where **were** you last night, Nikos?"
      }
     },
     {
@@ -622,6 +652,11 @@
       "el": "Για «αυτοί/αυτά» στο παρελθόν λέμε «ήταν».",
       "tr": "Geçmişte «αυτοί/αυτά» (onlar) için «ήταν» denir.",
       "en": "For 'they' in the past we say «ήταν»."
+     },
+     "sentence": {
+      "el": "Τα παιδιά **ήταν** πολύ χαρούμενα στο πάρτι.",
+      "tr": "Çocuklar partide çok **mutluydu**.",
+      "en": "The children **were** very happy at the party."
      }
     },
     {
@@ -657,6 +692,11 @@
       "el": "Μετά το «πρέπει» βάζουμε υποτακτική: να είμαστε (εμείς).",
       "tr": "«πρέπει»den sonra υποτακτική gelir: να είμαστε (biz).",
       "en": "After «πρέπει» we use the subjunctive: να είμαστε (we)."
+     },
+     "sentence": {
+      "el": "Πρέπει **να είμαστε** στο αεροδρόμιο στις έξι.",
+      "tr": "Saat altıda havalimanında **olmalıyız**.",
+      "en": "We **have to be** at the airport at six."
      }
     },
     {
@@ -692,6 +732,11 @@
       "el": "Για προστακτική του «είμαι» λέμε «να είσαι»· «Να είσαι καλά!» είναι συχνή ευχή.",
       "tr": "«είμαι» fiilinin emri için «να είσαι» denir; «Να είσαι καλά!» sık kullanılan bir dilektir.",
       "en": "As the imperative of «είμαι» we say «να είσαι»; «Να είσαι καλά!» is a common wish."
+     },
+     "sentence": {
+      "el": "**Να είσαι** καλά!",
+      "tr": "Sağlıklı **ol**! (Sağ ol!)",
+      "en": "**Be** well! (Take care!)"
      }
     },
     {
@@ -727,6 +772,11 @@
       "el": "Παρακείμενος = έχω + απαρέμφατο: έχω γράψει (όχι *έχω γράφει).",
       "tr": "Παρακείμενος = έχω + mastar: έχω γράψει (*έχω γράφει değil).",
       "en": "Perfect = έχω + infinitive form: έχω γράψει (not *έχω γράφει)."
+     },
+     "sentence": {
+      "el": "Η αίτηση είναι έτοιμη· την **έχω γράψει** ήδη.",
+      "tr": "Başvuru hazır; onu çoktan **yazdım**.",
+      "en": "The application is ready; I **have** already **written** it."
      }
     },
     {
@@ -762,6 +812,11 @@
       "el": "Κάτι είχε τελειώσει πριν από άλλη πράξη του παρελθόντος: Υπερσυντέλικος, είχα γράψει.",
       "tr": "Geçmişteki başka bir olaydan önce bitmiş bir iş: Υπερσυντέλικος, είχα γράψει.",
       "en": "Something finished before another past event: pluperfect, είχα γράψει."
+     },
+     "sentence": {
+      "el": "Όταν μου τηλεφώνησες, **είχα γράψει** ήδη το γράμμα.",
+      "tr": "Sen beni aradığında mektubu çoktan **yazmıştım**.",
+      "en": "When you phoned me, I **had** already **written** the letter."
      }
     },
     {
@@ -797,6 +852,11 @@
       "el": "Κάτι θα έχει τελειώσει ως ένα σημείο στο μέλλον: θα έχω γράψει (Συντελεσμένος Μέλλοντας).",
       "tr": "Gelecekteki bir ana kadar bitmiş olacak iş: θα έχω γράψει (Συντελεσμένος Μέλλοντας).",
       "en": "Something finished by a point in the future: θα έχω γράψει (future perfect)."
+     },
+     "sentence": {
+      "el": "Μέχρι αύριο το βράδυ **θα έχω γράψει** την εργασία.",
+      "tr": "Yarın akşama kadar ödevi **yazmış olacağım**.",
+      "en": "By tomorrow evening I **will have written** the assignment."
      }
     },
     {
@@ -832,6 +892,11 @@
       "el": "Κατάσταση = είμαι + μετοχή σε -μένος: είμαι κουρασμένη.",
       "tr": "Durum = είμαι + -μένος ortacı: είμαι κουρασμένη (yorgunum).",
       "en": "A state = είμαι + participle in -μένος: είμαι κουρασμένη."
+     },
+     "sentence": {
+      "el": "Δούλεψα δέκα ώρες και τώρα **είμαι** πολύ κουρασμένη.",
+      "tr": "On saat çalıştım ve şimdi çok **yorgunum**.",
+      "en": "I worked ten hours and now I **am** very tired."
      }
     },
     {
@@ -867,6 +932,11 @@
       "el": "Με το «είμαι» + μετοχή/επίθετο περιγράφουμε μια κατάσταση.",
       "tr": "«είμαι» + ortaç/sıfat ile bir durum anlatılır.",
       "en": "With «είμαι» + participle/adjective we describe a state."
+     },
+     "sentence": {
+      "el": "Η πόρτα **είναι κλειστή**.",
+      "tr": "Kapı **kapalı**.",
+      "en": "The door **is closed**."
      }
     },
     {
@@ -902,6 +972,11 @@
       "el": "είχα + απαρέμφατο = Υπερσυντέλικος.",
       "tr": "είχα + mastar = Υπερσυντέλικος.",
       "en": "είχα + infinitive form = pluperfect."
+     },
+     "sentence": {
+      "el": "Όταν ήρθες, **είχα γράψει** το γράμμα.",
+      "tr": "Sen geldiğinde mektubu **yazmıştım**.",
+      "en": "When you came, I **had written** the letter."
      }
     },
     {
@@ -937,6 +1012,11 @@
       "el": "Για το παρελθόν του «είμαι» υπάρχει μόνο το «ήμουν».",
       "tr": "«είμαι» fiilinin geçmişi için yalnızca «ήμουν» vardır.",
       "en": "For the past of «είμαι» there is only «ήμουν»."
+     },
+     "sentence": {
+      "el": "Χθες **ήμουν** στην τράπεζα.",
+      "tr": "Dün **bankadaydım**.",
+      "en": "Yesterday I **was** at the bank."
      }
     },
     {
@@ -972,6 +1052,11 @@
       "el": "Για το παρελθόν του «έχω» λέμε «είχα, είχαμε…».",
       "tr": "«έχω» fiilinin geçmişi için «είχα, είχαμε…» denir.",
       "en": "For the past of «έχω» we say «είχα, είχαμε…»."
+     },
+     "sentence": {
+      "el": "Πέρσι **είχαμε** έναν σκύλο.",
+      "tr": "Geçen yıl bir köpeğimiz **vardı**.",
+      "en": "Last year we **had** a dog."
      }
     },
     {
@@ -1077,6 +1162,11 @@
       "el": "Μέλλοντας του «έχω»: μόνο «θα έχω» (δεν υπάρχει *θα έχησω).",
       "tr": "«έχω» fiilinin geleceği yalnızca «θα έχω»dur (*θα έχησω yoktur).",
       "en": "Future of «έχω»: only «θα έχω» (there is no *θα έχησω)."
+     },
+     "sentence": {
+      "el": "Αν όλα πάνε καλά, του χρόνου **θα έχω** ελληνική ιθαγένεια.",
+      "tr": "Her şey yolunda giderse, seneye Yunan vatandaşlığım **olacak**.",
+      "en": "If all goes well, next year I **will have** Greek citizenship."
      }
     },
     {
@@ -1112,6 +1202,11 @@
       "el": "Πέρσι = παρελθόν, «εσείς» → ήσασταν.",
       "tr": "Πέρσι (geçen yıl) = geçmiş, «εσείς» → ήσασταν.",
       "en": "Πέρσι (last year) = past, «εσείς» → ήσασταν."
+     },
+     "sentence": {
+      "el": "Εσείς **ήσασταν** πρώτη φορά στην Ελλάδα πέρσι;",
+      "tr": "Geçen yıl Yunanistan'da ilk kez mi **bulundunuz**?",
+      "en": "**Were** you in Greece for the first time last year?"
      }
     },
     {
@@ -1147,6 +1242,11 @@
       "el": "Χθες + αυτή → είχε (παρατατικός του «έχω»).",
       "tr": "Dün + o (kadın) → είχε (έχω'nun geçmişi).",
       "en": "Yesterday + she → είχε (past of «έχω»)."
+     },
+     "sentence": {
+      "el": "Η Ελένη **είχε** πυρετό χθες, γι' αυτό έμεινε σπίτι.",
+      "tr": "Eleni'nin dün ateşi **vardı**, bu yüzden evde kaldı.",
+      "en": "Eleni **had** a fever yesterday, so she stayed at home."
      }
     },
     {
@@ -1182,6 +1282,11 @@
       "el": "Το «αύριο» θέλει μέλλοντα: θα είμαι.",
       "tr": "«αύριο» (yarın) gelecek zaman ister: θα είμαι.",
       "en": "«αύριο» (tomorrow) needs the future: θα είμαι."
+     },
+     "sentence": {
+      "el": "Αύριο **θα είμαι** στο σπίτι.",
+      "tr": "Yarın **evde olacağım**.",
+      "en": "Tomorrow I **will be** at home."
      }
     }
    ]
@@ -2856,6 +2961,11 @@
       "el": "Χθες = μία ολοκληρωμένη πράξη → αόριστος· του «πάω» ο αόριστος είναι «πήγα».",
       "tr": "Dün = tek seferlik bitmiş eylem → aorist; «πάω» fiilinin aoristi «πήγα»dır.",
       "en": "Yesterday = one completed action → aorist; the aorist of «πάω» is «πήγα»."
+     },
+     "sentence": {
+      "el": "Χθες **πήγα** στη θάλασσα με τους φίλους μου.",
+      "tr": "Dün arkadaşlarımla denize **gittim**.",
+      "en": "Yesterday I **went** to the sea with my friends."
      }
     },
     {
@@ -2891,6 +3001,11 @@
       "el": "Στιγμιαίος μέλλοντας του «πάω»: θα πάω.",
       "tr": "«πάω» fiilinin anlık geleceği: θα πάω.",
       "en": "Simple future of «πάω»: θα πάω."
+     },
+     "sentence": {
+      "el": "Αύριο **θα πάω** στην εφορία.",
+      "tr": "Yarın vergi dairesine **gideceğim**.",
+      "en": "Tomorrow I **will go** to the tax office."
      }
     },
     {
@@ -2926,6 +3041,11 @@
       "el": "Ο αόριστος του «λέω» είναι «είπα» (αυτός: είπε).",
       "tr": "«λέω» fiilinin aoristi «είπα»dır (o: είπε).",
       "en": "The aorist of «λέω» is «είπα» (he: είπε)."
+     },
+     "sentence": {
+      "el": "Χθες ο Γιώργος μου **είπε** την αλήθεια.",
+      "tr": "Dün Yorgos bana gerçeği **söyledi**.",
+      "en": "Yesterday Giorgos **told** me the truth."
      }
     },
     {
@@ -2961,6 +3081,11 @@
       "el": "Μέλλοντας του «λέω» με μικρό θέμα: θα πω, θα πεις.",
       "tr": "«λέω» fiilinin geleceği kısa kökle: θα πω, θα πεις.",
       "en": "Future of «λέω» with the short stem: θα πω, θα πεις."
+     },
+     "sentence": {
+      "el": "Τι **θα πεις** αύριο στον διευθυντή;",
+      "tr": "Yarın müdüre ne **söyleyeceksin**?",
+      "en": "What **will you say** to the director tomorrow?"
      }
     },
     {
@@ -2996,6 +3121,11 @@
       "el": "Το «τρώω» είναι ανώμαλο: αόριστος «έφαγα» (όχι *τρώησα).",
       "tr": "«τρώω» düzensizdir: aoristi «έφαγα»dır (*τρώησα değil).",
       "en": "«τρώω» is irregular: the aorist is «έφαγα» (not *τρώησα)."
+     },
+     "sentence": {
+      "el": "Χθες **έφαγα** σουβλάκι στην πλατεία.",
+      "tr": "Dün meydanda souvlaki **yedim**.",
+      "en": "Yesterday I **ate** souvlaki in the square."
      }
     },
     {
@@ -3031,6 +3161,11 @@
       "el": "Μέλλοντας του «τρώω»: θα φάω, (εμείς) θα φάμε.",
       "tr": "«τρώω» fiilinin geleceği: θα φάω, (biz) θα φάμε.",
       "en": "Future of «τρώω»: θα φάω, (we) θα φάμε."
+     },
+     "sentence": {
+      "el": "Τι **θα φάμε** απόψε; Πίτσα;",
+      "tr": "Bu akşam ne **yiyeceğiz**? Pizza mı?",
+      "en": "What **will we eat** tonight? Pizza?"
      }
     },
     {
@@ -3066,6 +3201,11 @@
       "el": "Αόριστος του «ακούω»: άκουσα.",
       "tr": "«ακούω» fiilinin aoristi: άκουσα.",
       "en": "Aorist of «ακούω»: άκουσα."
+     },
+     "sentence": {
+      "el": "Χθες **άκουσα** τα νέα στο ραδιόφωνο.",
+      "tr": "Dün haberleri radyoda **dinledim**.",
+      "en": "Yesterday I **heard** the news on the radio."
      }
     },
     {
@@ -3101,6 +3241,11 @@
       "el": "Το «έκανα» είναι ίδιο σε παρατατικό και αόριστο· το νόημα το δείχνει η πρόταση (πέρσι, μία αίτηση).",
       "tr": "«έκανα» παρατατικός ve aoristte aynıdır; anlamı cümle gösterir (geçen yıl, tek bir başvuru).",
       "en": "«έκανα» is the same in imperfect and aorist; the sentence shows the meaning (last year, one application)."
+     },
+     "sentence": {
+      "el": "Πέρσι **έκανα** αίτηση για ιθαγένεια.",
+      "tr": "Geçen yıl vatandaşlık için başvuru **yaptım**.",
+      "en": "Last year I **made** an application for citizenship."
      }
     },
     {
@@ -3136,6 +3281,11 @@
       "el": "Ο μέλλοντας του «κάνω» είναι «θα κάνω».",
       "tr": "«κάνω» fiilinin geleceği «θα κάνω»dır.",
       "en": "The future of «κάνω» is «θα κάνω»."
+     },
+     "sentence": {
+      "el": "Αύριο **θα κάνω** τα ψώνια.",
+      "tr": "Yarın alışverişi **yapacağım**.",
+      "en": "Tomorrow I **will do** the shopping."
      }
     },
     {
@@ -3171,6 +3321,11 @@
       "el": "Αόριστος του «βλέπω»: είδα, (εμείς) είδαμε.",
       "tr": "«βλέπω» fiilinin aoristi: είδα, (biz) είδαμε.",
       "en": "Aorist of «βλέπω»: είδα, (we) είδαμε."
+     },
+     "sentence": {
+      "el": "Χθες **είδαμε** μια ωραία ταινία.",
+      "tr": "Dün güzel bir film **izledik**.",
+      "en": "Yesterday we **saw** a nice film."
      }
     },
     {
@@ -3206,6 +3361,11 @@
       "el": "Μέλλοντας του «βλέπω»: θα δω (όχι *θα βλέψω).",
       "tr": "«βλέπω» fiilinin geleceği: θα δω (*θα βλέψω değil).",
       "en": "Future of «βλέπω»: θα δω (not *θα βλέψω)."
+     },
+     "sentence": {
+      "el": "Αύριο **θα δω** τον γιατρό.",
+      "tr": "Yarın doktoru **göreceğim**.",
+      "en": "Tomorrow I **will see** the doctor."
      }
     },
     {
@@ -3241,6 +3401,11 @@
       "el": "Το «αύριο» θέλει μέλλοντα: θα σε δω.",
       "tr": "«αύριο» (yarın) gelecek zaman ister: θα σε δω.",
       "en": "«αύριο» (tomorrow) needs the future: θα σε δω."
+     },
+     "sentence": {
+      "el": "**Θα** σε **δω** αύριο στη στάση.",
+      "tr": "Yarın seni durakta **göreceğim**.",
+      "en": "I **will see** you tomorrow at the stop."
      }
     },
     {
@@ -3276,6 +3441,11 @@
       "el": "Αόριστος του «βρίσκω»: βρήκα (σε -ηκα).",
       "tr": "«βρίσκω» fiilinin aoristi: βρήκα (-ηκα ile).",
       "en": "Aorist of «βρίσκω»: βρήκα (in -ηκα)."
+     },
+     "sentence": {
+      "el": "Χθες **βρήκα** τα κλειδιά μου κάτω από τον καναπέ.",
+      "tr": "Dün anahtarlarımı kanepenin altında **buldum**.",
+      "en": "Yesterday I **found** my keys under the sofa."
      }
     },
     {
@@ -3311,6 +3481,11 @@
       "el": "Αόριστος του «παίρνω»: πήρα.",
       "tr": "«παίρνω» fiilinin aoristi: πήρα.",
       "en": "Aorist of «παίρνω»: πήρα."
+     },
+     "sentence": {
+      "el": "Πέρσι **πήρα** την άδεια διαμονής.",
+      "tr": "Geçen yıl oturma iznimi **aldım**.",
+      "en": "Last year I **got** my residence permit."
      }
     },
     {
@@ -3346,6 +3521,11 @@
       "el": "Μέλλοντας του «παίρνω»: θα πάρω, (εμείς) θα πάρουμε.",
       "tr": "«παίρνω» fiilinin geleceği: θα πάρω, (biz) θα πάρουμε.",
       "en": "Future of «παίρνω»: θα πάρω, (we) θα πάρουμε."
+     },
+     "sentence": {
+      "el": "Την άλλη εβδομάδα **θα πάρουμε** τα πιστοποιητικά.",
+      "tr": "Haftaya belgeleri **alacağız**.",
+      "en": "Next week we **will get** the certificates."
      }
     },
     {
@@ -3381,6 +3561,11 @@
       "el": "Αόριστος του «δίνω»: έδωσα (θέμα δωσ-).",
       "tr": "«δίνω» fiilinin aoristi: έδωσα (kök δωσ-).",
       "en": "Aorist of «δίνω»: έδωσα (stem δωσ-)."
+     },
+     "sentence": {
+      "el": "Χθες **έδωσα** τα έγγραφα στον υπάλληλο.",
+      "tr": "Dün belgeleri memura **verdim**.",
+      "en": "Yesterday I **gave** the documents to the clerk."
      }
     },
     {
@@ -3416,6 +3601,11 @@
       "el": "Αόριστος του «φέρνω»: έφερα (χωρίς -ν-)· αυτή: έφερε.",
       "tr": "«φέρνω» fiilinin aoristi: έφερα (-ν- yok); o: έφερε.",
       "en": "Aorist of «φέρνω»: έφερα (no -ν-); she: έφερε."
+     },
+     "sentence": {
+      "el": "Χθες η Μαρία **έφερε** μια τούρτα στο πάρτι.",
+      "tr": "Dün Maria partiye bir pasta **getirdi**.",
+      "en": "Yesterday Maria **brought** a cake to the party."
      }
     },
     {
@@ -3451,6 +3641,11 @@
       "el": "Αόριστος του «πίνω»: ήπια, (εμείς) ήπιαμε.",
       "tr": "«πίνω» fiilinin aoristi: ήπια, (biz) ήπιαμε.",
       "en": "Aorist of «πίνω»: ήπια, (we) ήπιαμε."
+     },
+     "sentence": {
+      "el": "Χθες βράδυ **ήπιαμε** πολύ κρασί.",
+      "tr": "Dün akşam çok şarap **içtik**.",
+      "en": "Last night we **drank** a lot of wine."
      }
     },
     {
@@ -3486,6 +3681,11 @@
       "el": "Μέλλοντας του «πίνω»: θα πιω, (εσείς) θα πιείτε.",
       "tr": "«πίνω» fiilinin geleceği: θα πιω, (siz) θα πιείτε.",
       "en": "Future of «πίνω»: θα πιω, (you pl.) θα πιείτε."
+     },
+     "sentence": {
+      "el": "Τι **θα πιείτε**; Καφέ ή τσάι;",
+      "tr": "Ne **içeceksiniz**? Kahve mi, çay mı?",
+      "en": "What **will you drink**? Coffee or tea?"
      }
     },
     {
@@ -3521,6 +3721,11 @@
       "el": "Αόριστος του «βάζω»: έβαλα (θέμα βαλ-)· εσύ: έβαλες.",
       "tr": "«βάζω» fiilinin aoristi: έβαλα (kök βαλ-); sen: έβαλες.",
       "en": "Aorist of «βάζω»: έβαλα (stem βαλ-); you: έβαλες."
+     },
+     "sentence": {
+      "el": "Πού **έβαλες** χθες το διαβατήριό μου;",
+      "tr": "Dün pasaportumu nereye **koydun**?",
+      "en": "Where **did you put** my passport yesterday?"
      }
     },
     {
@@ -3556,6 +3761,11 @@
       "el": "Αόριστος του «μένω»: έμεινα, (εμείς) μείναμε.",
       "tr": "«μένω» fiilinin aoristi: έμεινα, (biz) μείναμε.",
       "en": "Aorist of «μένω»: έμεινα, (we) μείναμε."
+     },
+     "sentence": {
+      "el": "Πέρσι **μείναμε** δύο εβδομάδες στην Κρήτη.",
+      "tr": "Geçen yıl Girit'te iki hafta **kaldık**.",
+      "en": "Last year we **stayed** in Crete for two weeks."
      }
     },
     {
@@ -3591,6 +3801,11 @@
       "el": "Το «ξέρω» δεν έχει αόριστο· για το παρελθόν λέμε «ήξερα».",
       "tr": "«ξέρω» fiilinin aoristi yoktur; geçmiş için «ήξερα» denir.",
       "en": "«ξέρω» has no aorist; for the past we say «ήξερα»."
+     },
+     "sentence": {
+      "el": "Όταν ήρθα στην Ελλάδα, δεν **ήξερα** καθόλου ελληνικά.",
+      "tr": "Yunanistan'a geldiğimde hiç Yunanca **bilmiyordum**.",
+      "en": "When I came to Greece, I **didn't know** any Greek at all."
      }
     },
     {
@@ -3626,6 +3841,11 @@
       "el": "Χθες → αόριστος· του «πίνω» ο αόριστος είναι «ήπια».",
       "tr": "Dün → aorist; «πίνω» fiilinin aoristi «ήπια»dır.",
       "en": "Yesterday → aorist; the aorist of «πίνω» is «ήπια»."
+     },
+     "sentence": {
+      "el": "Χθες **ήπια** έναν χυμό.",
+      "tr": "Dün bir meyve suyu **içtim**.",
+      "en": "Yesterday I **drank** a juice."
      }
     },
     {
@@ -3696,6 +3916,11 @@
       "el": "Υποτακτική από το θέμα του μέλλοντα: θα δω → να δω.",
       "tr": "υποτακτική gelecek kökünden yapılır: θα δω → να δω.",
       "en": "The subjunctive comes from the future stem: θα δω → να δω."
+     },
+     "sentence": {
+      "el": "Θέλω **να δω** την Ακρόπολη.",
+      "tr": "Akropolis'i **görmek** istiyorum.",
+      "en": "I want **to see** the Acropolis."
      }
     }
    ]
@@ -5372,6 +5597,11 @@
       "el": "Αόριστος του «φεύγω»: έφυγα (-ευ- → -υ-).",
       "tr": "«φεύγω» fiilinin aoristi: έφυγα (-ευ- → -υ-).",
       "en": "Aorist of «φεύγω»: έφυγα (-ευ- → -υ-)."
+     },
+     "sentence": {
+      "el": "Χθες **έφυγα** από το γραφείο στις πέντε.",
+      "tr": "Dün ofisten saat beşte **çıktım**.",
+      "en": "Yesterday I **left** the office at five."
      }
     },
     {
@@ -5407,6 +5637,11 @@
       "el": "Στο «εμείς» του αορίστου η αύξηση ε- χάνεται: έφυγα αλλά φύγαμε.",
       "tr": "Aoristin «εμείς» biçiminde ε- ön eki düşer: έφυγα ama φύγαμε.",
       "en": "In the 'we' form of the aorist the augment ε- drops: έφυγα but φύγαμε."
+     },
+     "sentence": {
+      "el": "Χθες εμείς **φύγαμε** νωρίς από το πάρτι.",
+      "tr": "Dün partiden erken **ayrıldık**.",
+      "en": "Yesterday we **left** the party early."
      }
     },
     {
@@ -5442,6 +5677,11 @@
       "el": "Τα ρήματα κίνησης σε -αίνω παίρνουν αόριστο σε -ηκα: βγαίνω → βγήκα.",
       "tr": "-αίνω ile biten hareket fiilleri -ηκα ile aorist yapar: βγαίνω → βγήκα.",
       "en": "Motion verbs in -αίνω take an aorist in -ηκα: βγαίνω → βγήκα."
+     },
+     "sentence": {
+      "el": "Χθες βράδυ **βγήκα** με τους συναδέλφους μου.",
+      "tr": "Dün akşam iş arkadaşlarımla **dışarı çıktım**.",
+      "en": "Last night I **went out** with my colleagues."
      }
     },
     {
@@ -5477,6 +5717,11 @@
       "el": "Μέλλοντας του «βγαίνω»: θα βγω, (αυτά) θα βγουν.",
       "tr": "«βγαίνω» fiilinin geleceği: θα βγω, (onlar) θα βγουν.",
       "en": "Future of «βγαίνω»: θα βγω, (they) θα βγουν."
+     },
+     "sentence": {
+      "el": "Τα αποτελέσματα **θα βγουν** την άλλη εβδομάδα.",
+      "tr": "Sonuçlar haftaya **çıkacak**.",
+      "en": "The results **will come out** next week."
      }
     },
     {
@@ -5512,6 +5757,11 @@
       "el": "Αόριστος του «μπαίνω»: μπήκα (αυτός: μπήκε).",
       "tr": "«μπαίνω» fiilinin aoristi: μπήκα (o: μπήκε).",
       "en": "Aorist of «μπαίνω»: μπήκα (he: μπήκε)."
+     },
+     "sentence": {
+      "el": "Χθες το βράδυ ο κλέφτης **μπήκε** από το παράθυρο.",
+      "tr": "Dün gece hırsız pencereden **girdi**.",
+      "en": "Last night the thief **got in** through the window."
      }
     },
     {
@@ -5547,6 +5797,11 @@
       "el": "Αόριστος του «ανεβαίνω»: ανέβηκα, (εμείς) ανεβήκαμε.",
       "tr": "«ανεβαίνω» fiilinin aoristi: ανέβηκα, (biz) ανεβήκαμε.",
       "en": "Aorist of «ανεβαίνω»: ανέβηκα, (we) ανεβήκαμε."
+     },
+     "sentence": {
+      "el": "Πέρσι **ανεβήκαμε** στην κορυφή του Ολύμπου.",
+      "tr": "Geçen yıl Olimpos'un zirvesine **çıktık**.",
+      "en": "Last year we **climbed** to the top of Olympus."
      }
     },
     {
@@ -5582,6 +5837,11 @@
       "el": "Μέλλοντας του «κατεβαίνω»: θα κατέβω.",
       "tr": "«κατεβαίνω» fiilinin geleceği: θα κατέβω.",
       "en": "Future of «κατεβαίνω»: θα κατέβω."
+     },
+     "sentence": {
+      "el": "Αύριο **θα κατέβω** στο Σύνταγμα και θα περπατήσω ως την Πλάκα.",
+      "tr": "Yarın Sintagma'da **ineceğim** ve Plaka'ya kadar yürüyeceğim.",
+      "en": "Tomorrow I **will get off** at Syntagma and walk to Plaka."
      }
     },
     {
@@ -5617,6 +5877,11 @@
       "el": "Το «πέφτω» έχει αόριστο «έπεσα» (θέμα πεσ-), όχι *πέφτησα.",
       "tr": "«πέφτω» fiilinin aoristi «έπεσα»dır (kök πεσ-), *πέφτησα değil.",
       "en": "«πέφτω» has the aorist «έπεσα» (stem πεσ-), not *πέφτησα."
+     },
+     "sentence": {
+      "el": "Ο μικρός **έπεσε** από το ποδήλατο.",
+      "tr": "Küçük çocuk bisikletten **düştü**.",
+      "en": "The little boy **fell** off his bike."
      }
     },
     {
@@ -5652,6 +5917,11 @@
       "el": "Αόριστος: έστειλα, αλλά στο «εμείς» χάνεται το ε-: στείλαμε.",
       "tr": "Aorist: έστειλα, ama «εμείς»te ε- düşer: στείλαμε.",
       "en": "Aorist: έστειλα, but in 'we' the ε- drops: στείλαμε."
+     },
+     "sentence": {
+      "el": "Χθες **στείλαμε** τα χαρτιά στο υπουργείο.",
+      "tr": "Dün evrakları bakanlığa **gönderdik**.",
+      "en": "Yesterday we **sent** the papers to the ministry."
      }
     },
     {
@@ -5687,6 +5957,11 @@
       "el": "Στιγμιαίος μέλλοντας του «στέλνω»: θα στείλω.",
       "tr": "«στέλνω» fiilinin anlık geleceği: θα στείλω.",
       "en": "Simple future of «στέλνω»: θα στείλω."
+     },
+     "sentence": {
+      "el": "Μόλις φτάσω, θα σου **στείλω** μήνυμα.",
+      "tr": "Varır varmaz sana mesaj **göndereceğim**.",
+      "en": "As soon as I arrive, I **will send** you a message."
      }
     },
     {
@@ -5722,6 +5997,11 @@
       "el": "Τα ρήματα σε -αίνω συχνά χάνουν το -αιν- στον αόριστο: καταλαβαίνω → κατάλαβα.",
       "tr": "-αίνω fiilleri aoristte çoğu zaman -αιν- kaybeder: καταλαβαίνω → κατάλαβα.",
       "en": "Verbs in -αίνω often lose -αιν- in the aorist: καταλαβαίνω → κατάλαβα."
+     },
+     "sentence": {
+      "el": "Χθες στο μάθημα δεν **κατάλαβα** τίποτα.",
+      "tr": "Dün derste hiçbir şey **anlamadım**.",
+      "en": "Yesterday in class I **didn't understand** anything."
      }
     },
     {
@@ -5757,6 +6037,11 @@
       "el": "Αόριστος του «μαθαίνω»: έμαθα (χωρίς -αιν-).",
       "tr": "«μαθαίνω» fiilinin aoristi: έμαθα (-αιν- yok).",
       "en": "Aorist of «μαθαίνω»: έμαθα (without -αιν-)."
+     },
+     "sentence": {
+      "el": "Πέρσι **έμαθα** να οδηγώ.",
+      "tr": "Geçen yıl araba sürmeyi **öğrendim**.",
+      "en": "Last year I **learned** to drive."
      }
     },
     {
@@ -5792,6 +6077,11 @@
       "el": "Αόριστος του «παθαίνω»: έπαθα· «Τι έπαθες;» = τι σου συνέβη;",
       "tr": "«παθαίνω» fiilinin aoristi: έπαθα; «Τι έπαθες;» = başına ne geldi?",
       "en": "Aorist of «παθαίνω»: έπαθα; «Τι έπαθες;» = what happened to you?"
+     },
+     "sentence": {
+      "el": "— Τι **έπαθες**; — Έκοψα το χέρι μου.",
+      "tr": "— Sana ne **oldu**? — Elimi kestim.",
+      "en": "— What **happened** to you? — I cut my hand."
      }
     },
     {
@@ -5827,6 +6117,11 @@
       "el": "Αόριστος του «αφήνω»: άφησα.",
       "tr": "«αφήνω» fiilinin aoristi: άφησα.",
       "en": "Aorist of «αφήνω»: άφησα."
+     },
+     "sentence": {
+      "el": "Χθες **άφησα** τα κλειδιά μου στο γραφείο.",
+      "tr": "Dün anahtarlarımı ofiste **bıraktım**.",
+      "en": "Yesterday I **left** my keys at the office."
      }
     },
     {
@@ -5862,6 +6157,11 @@
       "el": "Αόριστος του «τρέχω»: έτρεξα (χ + σ = ξ).",
       "tr": "«τρέχω» fiilinin aoristi: έτρεξα (χ + σ = ξ).",
       "en": "Aorist of «τρέχω»: έτρεξα (χ + σ = ξ)."
+     },
+     "sentence": {
+      "el": "Χθες **έτρεξα** για να προλάβω το λεωφορείο.",
+      "tr": "Dün otobüse yetişmek için **koştum**.",
+      "en": "Yesterday I **ran** to catch the bus."
      }
     },
     {
@@ -5897,6 +6197,11 @@
       "el": "Ο αόριστος του «μπορώ» είναι «μπόρεσα» (όχι *μπόρησα).",
       "tr": "«μπορώ» fiilinin aoristi «μπόρεσα»dır (*μπόρησα değil).",
       "en": "The aorist of «μπορώ» is «μπόρεσα» (not *μπόρησα)."
+     },
+     "sentence": {
+      "el": "Χθες δεν **μπόρεσα** να έρθω στο μάθημα.",
+      "tr": "Dün derse **gelemedim**.",
+      "en": "Yesterday I **couldn't** come to class."
      }
     },
     {
@@ -5932,6 +6237,11 @@
       "el": "Για ικανότητα/συνήθεια στο παρελθόν λέμε τον παρατατικό «μπορούσα».",
       "tr": "Geçmişteki yetenek/alışkanlık için παρατατικός «μπορούσα» kullanılır.",
       "en": "For a past ability/habit we use the imperfect «μπορούσα»."
+     },
+     "sentence": {
+      "el": "Όταν ήμουν παιδί, **μπορούσα** να κολυμπάω πολλές ώρες.",
+      "tr": "Çocukken saatlerce **yüzebiliyordum**.",
+      "en": "When I was a child, I **could** swim for hours."
      }
     },
     {
@@ -5967,6 +6277,11 @@
       "el": "Για το παρελθόν του «θέλω» στην ομιλία προτιμάμε το «ήθελα».",
       "tr": "«θέλω» fiilinin geçmişi için konuşmada «ήθελα» tercih edilir.",
       "en": "For the past of «θέλω» speech prefers «ήθελα»."
+     },
+     "sentence": {
+      "el": "Χθες **ήθελα** να σου τηλεφωνήσω, αλλά ξέχασα.",
+      "tr": "Dün seni aramak **istiyordum** ama unuttum.",
+      "en": "Yesterday I **wanted** to call you, but I forgot."
      }
     },
     {
@@ -6002,6 +6317,11 @@
       "el": "Αόριστος του «μπαίνω»: μπήκα, μπήκαμε (χωρίς ε- μπροστά).",
       "tr": "«μπαίνω» fiilinin aoristi: μπήκα, μπήκαμε (başta ε- yok).",
       "en": "Aorist of «μπαίνω»: μπήκα, μπήκαμε (no ε- in front)."
+     },
+     "sentence": {
+      "el": "**Μπήκαμε** στο μουσείο στις δέκα.",
+      "tr": "Müzeye saat onda **girdik**.",
+      "en": "We **went into** the museum at ten."
      }
     },
     {
@@ -6037,6 +6357,11 @@
       "el": "Προστακτική του «βγαίνω»: βγες / έβγα.",
       "tr": "«βγαίνω» fiilinin emir kipi: βγες / έβγα.",
       "en": "Imperative of «βγαίνω»: βγες / έβγα."
+     },
+     "sentence": {
+      "el": "**Βγες** από το αυτοκίνητο, φτάσαμε!",
+      "tr": "Arabadan **in**, geldik!",
+      "en": "**Get out** of the car, we're here!"
      }
     },
     {
@@ -6072,6 +6397,11 @@
       "el": "Προστακτική του «στέλνω»: στείλε (θέμα στειλ-).",
       "tr": "«στέλνω» fiilinin emir kipi: στείλε (kök στειλ-).",
       "en": "Imperative of «στέλνω»: στείλε (stem στειλ-)."
+     },
+     "sentence": {
+      "el": "**Στείλε** μου τη φωτογραφία, σε παρακαλώ!",
+      "tr": "Lütfen bana fotoğrafı **gönder**!",
+      "en": "**Send** me the photo, please!"
      }
     },
     {
@@ -6107,6 +6437,11 @@
       "el": "Στιγμιαίος μέλλοντας του «παθαίνω»: θα πάθω, (εσύ) θα πάθεις.",
       "tr": "«παθαίνω» fiilinin anlık geleceği: θα πάθω, (sen) θα πάθεις.",
       "en": "Simple future of «παθαίνω»: θα πάθω, (you) θα πάθεις."
+     },
+     "sentence": {
+      "el": "Αν δεν προσέχεις, **θα πάθεις** ζημιά.",
+      "tr": "Dikkat etmezsen **zarar göreceksin**.",
+      "en": "If you're not careful, you **will get hurt**."
      }
     },
     {
@@ -6142,6 +6477,11 @@
       "el": "Ο αόριστος του «μπορώ» είναι «μπόρεσα» με -ε-.",
       "tr": "«μπορώ» fiilinin aoristi -ε- ile «μπόρεσα»dır.",
       "en": "The aorist of «μπορώ» is «μπόρεσα» with -ε-."
+     },
+     "sentence": {
+      "el": "Χθες **μπόρεσα** να τελειώσω νωρίς.",
+      "tr": "Dün erken **bitirebildim**.",
+      "en": "Yesterday I **was able** to finish early."
      }
     },
     {
@@ -7170,6 +7510,11 @@
       "el": "Αόριστος του «έρχομαι»: ήρθα (αυτός: ήρθε), με ενεργητικές καταλήξεις.",
       "tr": "«έρχομαι» fiilinin aoristi: ήρθα (o: ήρθε), etken eklerle.",
       "en": "Aorist of «έρχομαι»: ήρθα (he: ήρθε), with active endings."
+     },
+     "sentence": {
+      "el": "Χθες ο φίλος μου **ήρθε** από τη Λάρισα.",
+      "tr": "Dün arkadaşım Larisa'dan **geldi**.",
+      "en": "Yesterday my friend **came** from Larissa."
      }
     },
     {
@@ -7205,6 +7550,11 @@
       "el": "Πριν από πέντε χρόνια = παρελθόν· εσύ → ήρθες.",
       "tr": "Beş yıl önce = geçmiş; sen → ήρθες.",
       "en": "Five years ago = past; you → ήρθες."
+     },
+     "sentence": {
+      "el": "— Πότε **ήρθες** στην Ελλάδα; — Πριν από πέντε χρόνια.",
+      "tr": "— Yunanistan'a ne zaman **geldin**? — Beş yıl önce.",
+      "en": "— When **did you come** to Greece? — Five years ago."
      }
     },
     {
@@ -7240,6 +7590,11 @@
       "el": "Μέλλοντας του «έρχομαι»: θα έρθω.",
       "tr": "«έρχομαι» fiilinin geleceği: θα έρθω.",
       "en": "Future of «έρχομαι»: θα έρθω."
+     },
+     "sentence": {
+      "el": "Αύριο **θα έρθω** να σε δω.",
+      "tr": "Yarın seni görmeye **geleceğim**.",
+      "en": "Tomorrow I **will come** to see you."
      }
     },
     {
@@ -7275,6 +7630,11 @@
       "el": "Η προστακτική του «έρχομαι» είναι άλλη λέξη: έλα (ένας), ελάτε (πολλοί).",
       "tr": "«έρχομαι» fiilinin emri başka bir sözcüktür: έλα (tek kişi), ελάτε (çok kişi).",
       "en": "The imperative of «έρχομαι» is a different word: έλα (one person), ελάτε (several)."
+     },
+     "sentence": {
+      "el": "**Ελάτε** εδώ, παιδιά!",
+      "tr": "Çocuklar, buraya **gelin**!",
+      "en": "**Come** here, children!"
      }
     },
     {
@@ -7310,6 +7670,11 @@
       "el": "Αόριστος του «γίνομαι»: έγινα.",
       "tr": "«γίνομαι» fiilinin aoristi: έγινα.",
       "en": "Aorist of «γίνομαι»: έγινα."
+     },
+     "sentence": {
+      "el": "Πέρσι **έγινα** Έλληνας πολίτης.",
+      "tr": "Geçen yıl Yunan vatandaşı **oldum**.",
+      "en": "Last year I **became** a Greek citizen."
      }
     },
     {
@@ -7345,6 +7710,11 @@
       "el": "Μέλλοντας του «γίνομαι»: θα γίνω, (αυτή) θα γίνει.",
       "tr": "«γίνομαι» fiilinin geleceği: θα γίνω, (o) θα γίνει.",
       "en": "Future of «γίνομαι»: θα γίνω, (she) θα γίνει."
+     },
+     "sentence": {
+      "el": "Η κόρη μου **θα γίνει** δασκάλα σε δύο χρόνια.",
+      "tr": "Kızım iki yıl sonra öğretmen **olacak**.",
+      "en": "My daughter **will become** a teacher in two years."
      }
     },
     {
@@ -7380,6 +7750,11 @@
       "el": "«Έγινε» είναι ο αόριστος του «γίνομαι» (olmak): «Τι έγινε;» = Τι συνέβη;",
       "tr": "«Έγινε», «γίνομαι» (olmak) fiilinin aoristidir: «Τι έγινε;» = Ne oldu?",
       "en": "«Έγινε» is the aorist of «γίνομαι»: «Τι έγινε;» = What happened?"
+     },
+     "sentence": {
+      "el": "Τι **έγινε**; Γιατί φωνάζετε;",
+      "tr": "Ne **oldu**? Neden bağırıyorsunuz?",
+      "en": "What **happened**? Why are you shouting?"
      }
     },
     {
@@ -7415,6 +7790,11 @@
       "el": "Αόριστος του «κάθομαι»: κάθισα / έκατσα, (εμείς) καθίσαμε / κάτσαμε.",
       "tr": "«κάθομαι» fiilinin aoristi: κάθισα / έκατσα, (biz) καθίσαμε / κάτσαμε.",
       "en": "Aorist of «κάθομαι»: κάθισα / έκατσα, (we) καθίσαμε / κάτσαμε."
+     },
+     "sentence": {
+      "el": "Χθες **καθίσαμε** σε ένα καφενείο στην πλατεία.",
+      "tr": "Dün meydandaki bir kahvehanede **oturduk**.",
+      "en": "Yesterday we **sat** in a café in the square."
      }
     },
     {
@@ -7450,6 +7830,11 @@
       "el": "Μέλλοντας του «κάθομαι»: θα καθίσω / θα κάτσω, (εμείς) θα κάτσουμε.",
       "tr": "«κάθομαι» fiilinin geleceği: θα καθίσω / θα κάτσω, (biz) θα κάτσουμε.",
       "en": "Future of «κάθομαι»: θα καθίσω / θα κάτσω, (we) θα κάτσουμε."
+     },
+     "sentence": {
+      "el": "Πού **θα κάτσουμε**; Μέσα ή έξω;",
+      "tr": "Nerede **oturacağız**? İçeride mi, dışarıda mı?",
+      "en": "Where **will we sit**? Inside or outside?"
      }
     },
     {
@@ -7485,6 +7870,11 @@
       "el": "Το «κάθομαι» παίρνει αόριστο με ενεργητικές καταλήξεις: κάθισα / έκατσα.",
       "tr": "«κάθομαι» etken eklerle aorist yapar: κάθισα / έκατσα.",
       "en": "«κάθομαι» takes an aorist with active endings: κάθισα / έκατσα."
+     },
+     "sentence": {
+      "el": "Χθες **κάθισα** στο σπίτι όλη μέρα.",
+      "tr": "Dün bütün gün evde **oturdum**.",
+      "en": "Yesterday I **stayed** at home all day."
      }
     },
     {
@@ -7520,6 +7910,11 @@
       "el": "Το «σηκώνομαι» παίρνει παθητικό αόριστο σε -ηκα: σηκώθηκα.",
       "tr": "«σηκώνομαι» -ηκα ile edilgen aorist alır: σηκώθηκα.",
       "en": "«σηκώνομαι» takes a passive aorist in -ηκα: σηκώθηκα."
+     },
+     "sentence": {
+      "el": "Σήμερα **σηκώθηκα** στις έξι το πρωί.",
+      "tr": "Bugün sabah altıda **kalktım**.",
+      "en": "Today I **got up** at six in the morning."
      }
     },
     {
@@ -7555,6 +7950,11 @@
       "el": "Μέλλοντας σε -ώ: θα σηκωθώ, (εμείς) θα σηκωθούμε.",
       "tr": "-ώ ile gelecek: θα σηκωθώ, (biz) θα σηκωθούμε.",
       "en": "Future in -ώ: θα σηκωθώ, (we) θα σηκωθούμε."
+     },
+     "sentence": {
+      "el": "Αύριο **θα σηκωθούμε** νωρίς.",
+      "tr": "Yarın erken **kalkacağız**.",
+      "en": "Tomorrow we **will get up** early."
      }
     },
     {
@@ -7590,6 +7990,11 @@
       "el": "Αόριστος του «χαίρομαι»: χάρηκα· το λέμε όταν γνωρίζουμε κάποιον.",
       "tr": "«χαίρομαι» fiilinin aoristi: χάρηκα; biriyle tanışınca söylenir.",
       "en": "Aorist of «χαίρομαι»: χάρηκα; we say it when we meet someone."
+     },
+     "sentence": {
+      "el": "— Είμαι ο Πέτρος. — **Χάρηκα**!",
+      "tr": "— Ben Petros. — **Memnun oldum**!",
+      "en": "— I'm Petros. — **Nice to meet you**!"
      }
     },
     {
@@ -7625,6 +8030,11 @@
       "el": "Μέλλοντας του «χαίρομαι»: θα χαρώ, (εμείς) θα χαρούμε.",
       "tr": "«χαίρομαι» fiilinin geleceği: θα χαρώ, (biz) θα χαρούμε.",
       "en": "Future of «χαίρομαι»: θα χαρώ, (we) θα χαρούμε."
+     },
+     "sentence": {
+      "el": "**Θα χαρούμε** πολύ αν έρθεις στο πάρτι μας.",
+      "tr": "Partimize gelirsen çok **sevineceğiz**.",
+      "en": "We **will be** very **glad** if you come to our party."
      }
     },
     {
@@ -7660,6 +8070,11 @@
       "el": "Αόριστος του «φαίνομαι»: φάνηκα (αυτή: φάνηκε).",
       "tr": "«φαίνομαι» fiilinin aoristi: φάνηκα (o: φάνηκε).",
       "en": "Aorist of «φαίνομαι»: φάνηκα (it: φάνηκε)."
+     },
+     "sentence": {
+      "el": "Στην αρχή η γλώσσα μού **φάνηκε** δύσκολη.",
+      "tr": "Başta bu dil bana zor **geldi**.",
+      "en": "At first the language **seemed** difficult to me."
      }
     },
     {
@@ -7695,6 +8110,11 @@
       "el": "Το «φαίνεται ότι…» χρησιμοποιείται απρόσωπα και σημαίνει «görünüşe göre».",
       "tr": "«φαίνεται ότι…» kişisiz kullanılır ve «görünüşe göre» demektir.",
       "en": "«φαίνεται ότι…» is used impersonally and means 'it seems that'."
+     },
+     "sentence": {
+      "el": "**Φαίνεται ότι** θα βρέξει.",
+      "tr": "**Görünüşe göre** yağmur yağacak.",
+      "en": "**It seems that** it will rain."
      }
     },
     {
@@ -7730,6 +8150,11 @@
       "el": "Το «βρίσκομαι» σημαίνει «είμαι κάπου»· η Αθήνα (αυτή) → βρίσκεται.",
       "tr": "«βρίσκομαι» «bir yerde bulunmak» demektir; Atina (o) → βρίσκεται.",
       "en": "«βρίσκομαι» means 'to be somewhere'; Athens (it) → βρίσκεται."
+     },
+     "sentence": {
+      "el": "Η Αθήνα **βρίσκεται** στην Αττική.",
+      "tr": "Atina Attika'da **bulunuyor**.",
+      "en": "Athens **is located** in Attica."
      }
     },
     {
@@ -7765,6 +8190,11 @@
       "el": "Αόριστος του «βρίσκομαι»: βρέθηκα (το «βρήκα» είναι του «βρίσκω»).",
       "tr": "«βρίσκομαι» fiilinin aoristi: βρέθηκα («βρήκα», «βρίσκω» fiilinindir).",
       "en": "Aorist of «βρίσκομαι»: βρέθηκα («βρήκα» belongs to «βρίσκω»)."
+     },
+     "sentence": {
+      "el": "Πέρσι **βρέθηκα** για δουλειά στη Ρόδο.",
+      "tr": "Geçen yıl iş için Rodos'ta **bulundum**.",
+      "en": "Last year I **was** in Rhodes for work."
      }
     },
     {
@@ -7800,6 +8230,11 @@
       "el": "Μέλλοντας του «βρίσκομαι»: θα βρεθώ, (εμείς) θα βρεθούμε = θα συναντηθούμε.",
       "tr": "«βρίσκομαι» fiilinin geleceği: θα βρεθώ, (biz) θα βρεθούμε = buluşacağız.",
       "en": "Future of «βρίσκομαι»: θα βρεθώ, (we) θα βρεθούμε = we will meet."
+     },
+     "sentence": {
+      "el": "**Θα βρεθούμε** στην πλατεία στις οκτώ, εντάξει;",
+      "tr": "Saat sekizde meydanda **buluşacağız**, tamam mı?",
+      "en": "**We'll meet** in the square at eight, OK?"
      }
     },
     {
@@ -7835,6 +8270,11 @@
       "el": "Αόριστος του «έρχομαι»: ήρθα, ήρθαμε (το «έρθ-» είναι θέμα του μέλλοντα).",
       "tr": "«έρχομαι» fiilinin aoristi: ήρθα, ήρθαμε («έρθ-» gelecek köküdür).",
       "en": "Aorist of «έρχομαι»: ήρθα, ήρθαμε («έρθ-» is the future stem)."
+     },
+     "sentence": {
+      "el": "Χθες **ήρθαμε** αργά στο σπίτι.",
+      "tr": "Dün eve geç **geldik**.",
+      "en": "Yesterday we **came** home late."
      }
     },
     {
@@ -7940,6 +8380,11 @@
       "el": "Ο αόριστος του «γίνομαι» είναι «έγινα» (αυτός: έγινε).",
       "tr": "«γίνομαι» fiilinin aoristi «έγινα»dır (o: έγινε).",
       "en": "The aorist of «γίνομαι» is «έγινα» (he: έγινε)."
+     },
+     "sentence": {
+      "el": "Χθες ο Νίκος **έγινε** πατέρας.",
+      "tr": "Dün Nikos baba **oldu**.",
+      "en": "Yesterday Nikos **became** a father."
      }
     },
     {
@@ -7975,6 +8420,11 @@
       "el": "Αόριστος του «έρχομαι»: ήρθα, (εσείς) ήρθατε.",
       "tr": "«έρχομαι» fiilinin aoristi: ήρθα, (siz) ήρθατε.",
       "en": "Aorist of «έρχομαι»: ήρθα, (you pl.) ήρθατε."
+     },
+     "sentence": {
+      "el": "Γιατί δεν **ήρθατε** στο μάθημα χθες;",
+      "tr": "Dün neden derse **gelmediniz**?",
+      "en": "Why **didn't you come** to class yesterday?"
      }
     }
    ]
@@ -9070,6 +9520,11 @@
       "el": "Κάθε μέρα = συνήθεια τώρα → ενεστώτας: πάω.",
       "tr": "Her gün = şimdiki alışkanlık → ενεστώτας: πάω.",
       "en": "Every day = present habit → present: πάω."
+     },
+     "sentence": {
+      "el": "Κάθε μέρα **πάω** στη δουλειά με το μετρό.",
+      "tr": "Her gün işe metroyla **gidiyorum**.",
+      "en": "Every day I **go** to work by metro."
      }
     },
     {
@@ -9105,6 +9560,11 @@
       "el": "τρώω – έφαγα – θα φάω: ο αόριστος είναι «έφαγα».",
       "tr": "τρώω – έφαγα – θα φάω: aorist «έφαγα»dır.",
       "en": "τρώω – έφαγα – θα φάω: the aorist is «έφαγα»."
+     },
+     "sentence": {
+      "el": "Χθες **έφαγα** σουβλάκια στην πλατεία.",
+      "tr": "Dün meydanda souvlaki **yedim**.",
+      "en": "Yesterday I **ate** souvlaki in the square."
      }
     },
     {
@@ -9140,6 +9600,11 @@
       "el": "βλέπω – είδα – θα δω: ο μέλλοντας είναι «θα δω».",
       "tr": "βλέπω – είδα – θα δω: gelecek «θα δω»dır.",
       "en": "βλέπω – είδα – θα δω: the future is «θα δω»."
+     },
+     "sentence": {
+      "el": "Του χρόνου **θα δω** τους γονείς μου στην Τουρκία.",
+      "tr": "Seneye Türkiye'de annemle babamı **göreceğim**.",
+      "en": "Next year I **will see** my parents in Turkey."
      }
     },
     {
@@ -9175,6 +9640,11 @@
       "el": "έρχομαι – ήρθα – θα έρθω· αυτός → ήρθε.",
       "tr": "έρχομαι – ήρθα – θα έρθω; o → ήρθε.",
       "en": "έρχομαι – ήρθα – θα έρθω; he → ήρθε."
+     },
+     "sentence": {
+      "el": "Ο Αλί δεν **ήρθε** στο μάθημα την περασμένη Τρίτη.",
+      "tr": "Ali geçen salı derse **gelmedi**.",
+      "en": "Ali **didn't come** to class last Tuesday."
      }
     },
     {
@@ -9210,6 +9680,11 @@
       "el": "κάθομαι – κάθισα / έκατσα – θα καθίσω / θα κάτσω.",
       "tr": "κάθομαι – κάθισα / έκατσα – θα καθίσω / θα κάτσω.",
       "en": "κάθομαι – κάθισα / έκατσα – θα καθίσω / θα κάτσω."
+     },
+     "sentence": {
+      "el": "Χθες **έκατσα** στο σπίτι και διάβασα.",
+      "tr": "Dün evde **oturdum** ve ders çalıştım.",
+      "en": "Yesterday I **stayed** at home and studied."
      }
     },
     {
@@ -9245,6 +9720,11 @@
       "el": "Το «ξέρω» δεν έχει αόριστο· για το παρελθόν λέμε «ήξερα».",
       "tr": "«ξέρω» fiilinin aoristi yoktur; geçmiş için «ήξερα» denir.",
       "en": "«ξέρω» has no aorist; for the past we say «ήξερα»."
+     },
+     "sentence": {
+      "el": "Δεν **ήξερα** ότι το μουσείο ήταν κλειστό.",
+      "tr": "Müzenin kapalı olduğunu **bilmiyordum**.",
+      "en": "I **didn't know** that the museum was closed."
      }
     },
     {
@@ -9280,6 +9760,11 @@
       "el": "Ομάδα -αίνω: χάνεται το -αιν- (μαθαίνω → έμαθα).",
       "tr": "-αίνω grubu: -αιν- düşer (μαθαίνω → έμαθα).",
       "en": "The -αίνω group: -αιν- drops (μαθαίνω → έμαθα)."
+     },
+     "sentence": {
+      "el": "Χθες **έμαθα** τα νέα από την τηλεόραση.",
+      "tr": "Dün haberleri televizyondan **öğrendim**.",
+      "en": "Yesterday I **learned** the news from the TV."
      }
     },
     {
@@ -9315,6 +9800,11 @@
       "el": "πάω – πήγα – θα πάω: δεν υπάρχει *πήγησα.",
       "tr": "πάω – πήγα – θα πάω: *πήγησα diye bir biçim yoktur.",
       "en": "πάω – πήγα – θα πάω: there is no *πήγησα."
+     },
+     "sentence": {
+      "el": "Χθες **πήγα** στην τράπεζα και πήρα λεφτά.",
+      "tr": "Dün bankaya **gittim** ve para çektim.",
+      "en": "Yesterday I **went** to the bank and took out money."
      }
     },
     {
@@ -9350,6 +9840,11 @@
       "el": "Ο μέλλοντας του «βλέπω» είναι «θα δω».",
       "tr": "«βλέπω» fiilinin geleceği «θα δω»dır.",
       "en": "The future of «βλέπω» is «θα δω»."
+     },
+     "sentence": {
+      "el": "Αύριο **θα δω** τον γιατρό.",
+      "tr": "Yarın doktoru **göreceğim**.",
+      "en": "Tomorrow I **will see** the doctor."
      }
     },
     {
@@ -9385,6 +9880,11 @@
       "el": "Αόριστος: ήρθα, ήρθαμε· το «έρθ-» είναι θέμα του μέλλοντα (θα έρθω).",
       "tr": "Aorist: ήρθα, ήρθαμε; «έρθ-» gelecek köküdür (θα έρθω).",
       "en": "Aorist: ήρθα, ήρθαμε; «έρθ-» is the future stem (θα έρθω)."
+     },
+     "sentence": {
+      "el": "Χθες **ήρθαμε** αργά.",
+      "tr": "Dün geç **geldik**.",
+      "en": "Yesterday we **came** late."
      }
     },
     {
@@ -9420,6 +9920,11 @@
       "el": "φεύγω – έφυγα – θα φύγω.",
       "tr": "φεύγω – έφυγα – θα φύγω.",
       "en": "φεύγω – έφυγα – θα φύγω."
+     },
+     "sentence": {
+      "el": "Αύριο **θα φύγω** για τη Θεσσαλονίκη.",
+      "tr": "Yarın Selanik'e **gideceğim**.",
+      "en": "Tomorrow I **will leave** for Thessaloniki."
      }
     },
     {
@@ -9455,6 +9960,11 @@
       "el": "Το «θα πω» είναι στιγμιαίος μέλλοντας του «λέω» (λέω – είπα – θα πω).",
       "tr": "«θα πω», «λέω» fiilinin anlık geleceğidir (λέω – είπα – θα πω).",
       "en": "«θα πω» is the simple future of «λέω» (λέω – είπα – θα πω)."
+     },
+     "sentence": {
+      "el": "**Θα** σου **πω** αύριο.",
+      "tr": "Sana yarın **söyleyeceğim**.",
+      "en": "I **will tell** you tomorrow."
      }
     },
     {
@@ -9490,6 +10000,11 @@
       "el": "Η υποτακτική βγαίνει από το θέμα του μέλλοντα: θα πιω → να πιω.",
       "tr": "υποτακτική gelecek kökünden gelir: θα πιω → να πιω.",
       "en": "The subjunctive comes from the future stem: θα πιω → να πιω."
+     },
+     "sentence": {
+      "el": "Θέλω να **πιω** έναν καφέ.",
+      "tr": "Bir kahve **içmek** istiyorum.",
+      "en": "I want **to drink** a coffee."
      }
     },
     {
@@ -9525,6 +10040,11 @@
       "el": "καταλαβαίνω – κατάλαβα – θα καταλάβω.",
       "tr": "καταλαβαίνω – κατάλαβα – θα καταλάβω.",
       "en": "καταλαβαίνω – κατάλαβα – θα καταλάβω."
+     },
+     "sentence": {
+      "el": "Δεν **κατάλαβα** τι είπε ο δάσκαλος.",
+      "tr": "Öğretmenin ne dediğini **anlamadım**.",
+      "en": "I **didn't understand** what the teacher said."
      }
     },
     {
@@ -9560,6 +10080,11 @@
       "el": "Ομάδα -ηκα: μπαίνω → μπήκα· αυτοί → μπήκαν.",
       "tr": "-ηκα grubu: μπαίνω → μπήκα; onlar → μπήκαν.",
       "en": "The -ηκα group: μπαίνω → μπήκα; they → μπήκαν."
+     },
+     "sentence": {
+      "el": "Χθες τα παιδιά **μπήκαν** στο λεωφορείο από την μπροστινή πόρτα.",
+      "tr": "Dün çocuklar otobüse ön kapıdan **bindi**.",
+      "en": "Yesterday the children **got on** the bus by the front door."
      }
     },
     {
@@ -9595,6 +10120,11 @@
       "el": "παίρνω – πήρα – θα πάρω.",
       "tr": "παίρνω – πήρα – θα πάρω.",
       "en": "παίρνω – πήρα – θα πάρω."
+     },
+     "sentence": {
+      "el": "Μόλις φτάσω στο αεροδρόμιο, **θα πάρω** ένα ταξί.",
+      "tr": "Havalimanına varır varmaz bir taksiye **bineceğim**.",
+      "en": "As soon as I get to the airport, I **will take** a taxi."
      }
     },
     {
@@ -9630,6 +10160,11 @@
       "el": "βρίσκω – βρήκα – θα βρω· εμείς → βρήκαμε.",
       "tr": "βρίσκω – βρήκα – θα βρω; biz → βρήκαμε.",
       "en": "βρίσκω – βρήκα – θα βρω; we → βρήκαμε."
+     },
+     "sentence": {
+      "el": "Τελικά δεν **βρήκαμε** εισιτήρια για τη συναυλία.",
+      "tr": "Sonunda konser için bilet **bulamadık**.",
+      "en": "In the end we **didn't find** tickets for the concert."
      }
     },
     {
@@ -9665,6 +10200,11 @@
       "el": "Ομάδα -ηκα: ανεβαίνω → ανέβηκα.",
       "tr": "-ηκα grubu: ανεβαίνω → ανέβηκα.",
       "en": "The -ηκα group: ανεβαίνω → ανέβηκα."
+     },
+     "sentence": {
+      "el": "Χθες **ανέβηκα** στον Λυκαβηττό με τα πόδια.",
+      "tr": "Dün Likavitos'a yürüyerek **çıktım**.",
+      "en": "Yesterday I **went up** Lycabettus on foot."
      }
     },
     {
@@ -9700,6 +10240,11 @@
       "el": "μένω – έμεινα – θα μείνω· πέρσι → αόριστος «έμεινα».",
       "tr": "μένω – έμεινα – θα μείνω; geçen yıl → aorist «έμεινα».",
       "en": "μένω – έμεινα – θα μείνω; last year → aorist «έμεινα»."
+     },
+     "sentence": {
+      "el": "Πέρσι **έμεινα** στη Χαλκιδική δύο εβδομάδες.",
+      "tr": "Geçen yıl Halkidiki'de iki hafta **kaldım**.",
+      "en": "Last year I **stayed** in Halkidiki for two weeks."
      }
     },
     {
@@ -9840,6 +10385,11 @@
       "el": "λέω – είπα – θα πω: ο αόριστος είναι «είπα».",
       "tr": "λέω – είπα – θα πω: aorist «είπα»dır.",
       "en": "λέω – είπα – θα πω: the aorist is «είπα»."
+     },
+     "sentence": {
+      "el": "Χθες **είπα** σε έναν φίλο να με βοηθήσει.",
+      "tr": "Dün bir arkadaşıma bana yardım etmesini **söyledim**.",
+      "en": "Yesterday I **told** a friend to help me."
      }
     },
     {
@@ -9875,6 +10425,11 @@
       "el": "αφήνω – άφησα – θα αφήσω· αυτή → άφησε.",
       "tr": "αφήνω – άφησα – θα αφήσω; o → άφησε.",
       "en": "αφήνω – άφησα – θα αφήσω; she → άφησε."
+     },
+     "sentence": {
+      "el": "Χθες η Μαρία **άφησε** το πορτοφόλι της στο ταξί.",
+      "tr": "Dün Maria cüzdanını takside **bıraktı**.",
+      "en": "Yesterday Maria **left** her wallet in the taxi."
      }
     }
    ]

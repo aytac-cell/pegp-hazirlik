@@ -83,3 +83,22 @@ The Greek sentence must be visible in every language version: q.tr / q.en contai
 q.tr = "«Χθες ___ ένα γράμμα.» (γράφω) — Boşluğa hangi biçim gelir?"
 Options that are Greek forms/sentences carry the same Greek string in el/tr/en.
 `explain` states the rule that decides the answer (1–2 sentences), in el/tr/en.
+
+# Sentence meaning on grammar quiz questions: `sentence`
+
+Every grammar quiz question that contains a Greek sentence gets a `sentence` object, shown AFTER answering
+behind a "Türkçesi / Translation" button so the learner also learns what the sentence means:
+
+```
+"sentence": {
+  "el": "Ο δήμος φτιάχνει **τους δρόμους** της γειτονιάς.",   // the Greek sentence COMPLETED with the correct answer
+  "tr": "Belediye mahallenin **yollarını** yapıyor.",            // natural Turkish translation
+  "en": "The municipality is fixing the neighbourhood's **roads**."
+}
+```
+- gap-fill: fill the gap with the correct option (remove the hint in brackets);
+- "which sentence is correct": the correct sentence; error-spotting: the corrected sentence;
+- "what does this sentence express": the sentence itself;
+- several Greek sentences in one question: put each on its own line ("\n") in el and in tr/en.
+**Bold** the part that the question was about, in all three languages. Questions without any Greek sentence
+(pure rule questions) get no `sentence`.

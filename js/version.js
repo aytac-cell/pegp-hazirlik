@@ -1,7 +1,12 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.7.0";
+window.APP_VERSION = "1.7.1";
 window.APP_CHANGES = [
+  {
+    v: "1.7.1", date: "2026-10-27",
+    tr: ["Dilbilgisi bölüm sınavlarında cevaptan sonra «🇹🇷 Türkçesi» butonu: cümlenin doğru cevapla tamamlanmış Yunancası (🔊 ile dinlenebilir) ve Türkçe anlamı; yanlış cevap listesinde de görünür"],
+    en: ["Grammar section quizzes: a «🇬🇧 Translation» button after answering shows the completed Greek sentence (with 🔊) and its meaning; also in the list of wrong answers"]
+  },
   {
     v: "1.7.0", date: "2026-10-27",
     tr: [

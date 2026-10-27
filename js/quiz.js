@@ -34,10 +34,19 @@
     return esc(plain(T[L] || c(T)));
   }
 
+  // the completed Greek sentence with its translation, shown after answering ("Türkçesi" button)
+  function meaningHtml(S) {
+    if (!S || !S.el) return "";
+    const rich = s => esc(s).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>").replace(/\n/g, "<br>");
+    const voice = Store.setting("voice") && "speechSynthesis" in window;
+    return `<div class="mean-el" lang="el">${rich(S.el)}${voice ? ` <button class="speak" type="button" data-say="${esc(plain(S.el))}" aria-label="${esc(t("listen"))}">🔊</button>` : ""}</div>
+      <div class="mean-tr">${rich(S[I18N.lang] || S.tr || S.en)}</div>`;
+  }
+
   function fromAuthored(sec) {
     return (sec.quiz || []).map(x => {
       const order = shuffle(x.options.map((_, i) => i));     // new option order every time
-      return { kind: "text", prompt: lt(x.q), opts: order.map(i => lt(x.options[i])), ans: order.indexOf(x.answer), explain: lt(x.explain) };
+      return { kind: "text", prompt: lt(x.q), opts: order.map(i => lt(x.options[i])), ans: order.indexOf(x.answer), explain: lt(x.explain), meaning: meaningHtml(x.sentence) };
     });
   }
 
@@ -100,14 +109,21 @@
       if (i >= qs.length) return finish();
       const q = qs[i];
       root.innerHTML = `<div class="study-head"><div class="bar"><span style="width:${100 * i / qs.length}%;background:var(--primary)"></span></div><span class="small muted">${i + 1}/${qs.length} · ✓ ${score}</span></div>
-        <article class="card qcard fade-in show-tr"><div class="quiz-prompt">${q.prompt}</div>
+        <article class="card qcard fade-in show-tr quiz-card">${q.meaning ? `<button class="mean-btn" type="button" hidden aria-expanded="false">${esc(t("meaningBtn"))}</button>` : ""}<div class="quiz-prompt">${q.prompt}</div>
+        ${q.meaning ? `<div class="mean-box" hidden>${q.meaning}</div>` : ""}
         <div class="options">${q.opts.map((o, k) => `<button class="opt" type="button"><span class="letter">${L4[k]}</span><span>${o}</span></button>`).join("")}</div>
         <div class="actions"></div></article>`;
       const btns = root.querySelectorAll(".opt"), actions = root.querySelector(".actions");
+      const meanBtn = root.querySelector(".mean-btn"), meanBox = root.querySelector(".mean-box");
+      if (meanBtn) meanBtn.addEventListener("click", () => {
+        meanBox.hidden = !meanBox.hidden;
+        meanBtn.setAttribute("aria-expanded", String(!meanBox.hidden));
+      });
       btns.forEach((b, k) => b.addEventListener("click", () => {
         if (b.disabled) return;
         btns.forEach((x, j) => { x.disabled = true; if (j === q.ans) x.classList.add("correct"); else if (j === k) x.classList.add("wrong"); });
         if (k === q.ans) score++; else wrong.push(q);
+        if (meanBtn) meanBtn.hidden = false;      // only after answering, so it can't give the answer away
         actions.innerHTML = `<div class="row">${k === q.ans ? `<span class="pill ok">✓ ${esc(t("correct"))}</span>` : `<span class="pill bad">✗ ${esc(t("wrong"))}</span>`}</div>
           ${q.explain ? `<div class="note" style="background:var(--primary-soft)">💡 ${q.explain}</div>` : ""}
           <button class="btn btn-primary" type="button">${esc(i + 1 < qs.length ? t("next") + " →" : t("quizSeeResult"))}</button>`;
@@ -130,7 +146,7 @@
         <div class="row" style="justify-content:center">${pass
           ? `<button class="btn btn-primary" data-act="next">${esc(t("quizNext"))}</button>`
           : `<button class="btn btn-primary" data-act="reread">📖 ${esc(t("quizReread"))}</button>`}</div>
-        ${wrong.length ? `<div style="text-align:left;margin-top:1.2rem"><h3>${esc(t("quizReview"))}</h3>${wrong.map(q => `<div class="card" style="box-shadow:none;margin-top:.5rem;padding:.7rem .9rem"><div class="quiz-prompt small">${q.prompt}</div><div class="fix ok" style="margin-top:.3rem">✓ ${q.opts[q.ans]}</div>${q.explain ? `<div class="small muted" style="margin-top:.3rem">💡 ${q.explain}</div>` : ""}</div>`).join("")}</div>` : ""}
+        ${wrong.length ? `<div style="text-align:left;margin-top:1.2rem"><h3>${esc(t("quizReview"))}</h3>${wrong.map(q => `<div class="card" style="box-shadow:none;margin-top:.5rem;padding:.7rem .9rem"><div class="quiz-prompt small">${q.prompt}</div><div class="fix ok" style="margin-top:.3rem">✓ ${q.opts[q.ans]}</div>${q.explain ? `<div class="small muted" style="margin-top:.3rem">💡 ${q.explain}</div>` : ""}${q.meaning ? `<div class="mean-box" style="margin-top:.5rem">${q.meaning}</div>` : ""}</div>`).join("")}</div>` : ""}
       </div>`;
       root.querySelector("[data-act]").addEventListener("click", e => (e.target.closest("[data-act]").dataset.act === "next" ? opts.onPass : opts.onFail)(score));
       root.scrollIntoView({ block: "start" });

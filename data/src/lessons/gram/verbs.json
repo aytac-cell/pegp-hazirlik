@@ -586,6 +586,11 @@
       "el": "Για κάτι που γίνεται τώρα χρησιμοποιούμε ενεστώτα: γράφω.",
       "tr": "Şu an olan bir şey için Ενεστώτας kullanılır: γράφω.",
       "en": "For something happening now we use the present: γράφω."
+     },
+     "sentence": {
+      "el": "Τώρα **γράφω** ένα email στη δασκάλα.",
+      "tr": "Şimdi öğretmene bir e-posta **yazıyorum**.",
+      "en": "I **am writing** an email to the teacher now."
      }
     },
     {
@@ -621,6 +626,11 @@
       "el": "Πράξη που έγινε και τελείωσε στο παρελθόν → αόριστος: έγραψα.",
       "tr": "Geçmişte olup biten eylem → Αόριστος: έγραψα.",
       "en": "An action done and finished in the past → aorist: έγραψα."
+     },
+     "sentence": {
+      "el": "Χθες **έγραψα** ένα γράμμα και το έστειλα.",
+      "tr": "Dün bir mektup **yazdım** ve onu gönderdim.",
+      "en": "Yesterday I **wrote** a letter and sent it."
      }
     },
     {
@@ -656,6 +666,11 @@
       "el": "Μία πράξη στο μέλλον → θα + θέμα αορίστου: θα γράψω.",
       "tr": "Gelecekte tek bir eylem → θα + aorist gövdesi: θα γράψω.",
       "en": "One action in the future → θα + aorist stem: θα γράψω."
+     },
+     "sentence": {
+      "el": "Αύριο **θα γράψω** ένα μήνυμα στον γιατρό.",
+      "tr": "Yarın doktora bir mesaj **yazacağım**.",
+      "en": "Tomorrow I **will write** a message to the doctor."
      }
     },
     {
@@ -691,6 +706,11 @@
       "el": "«Κάθε μέρα» στο μέλλον = επανάληψη → θα + θέμα ενεστώτα: θα γράφω.",
       "tr": "Gelecekte «her gün» = tekrar → θα + şimdiki zaman gövdesi: θα γράφω.",
       "en": "'Every day' in the future = repetition → θα + present stem: θα γράφω."
+     },
+     "sentence": {
+      "el": "Από τη Δευτέρα **θα γράφω** κάθε μέρα στο ημερολόγιό μου.",
+      "tr": "Pazartesiden itibaren her gün günlüğüme **yazıyor olacağım**.",
+      "en": "From Monday I **will be writing** in my diary every day."
      }
     },
     {
@@ -726,6 +746,11 @@
       "el": "Συνήθεια στο παρελθόν → συνεχής όψη, παρατατικός: έγραφα.",
       "tr": "Geçmişteki alışkanlık → sürekli görünüş, Παρατατικός: έγραφα.",
       "en": "A past habit → continuous aspect, imperfect: έγραφα."
+     },
+     "sentence": {
+      "el": "Όταν ήμουν παιδί, **έγραφα** γράμματα στη γιαγιά μου κάθε μήνα.",
+      "tr": "Çocukken her ay büyükanneme mektup **yazardım**.",
+      "en": "When I was a child, I **used to write** letters to my grandmother every month."
      }
     },
     {
@@ -761,6 +786,11 @@
       "el": "Το διαβάζαμε είναι παρατατικός: κάτι που γινόταν συχνά στο παρελθόν.",
       "tr": "διαβάζαμε bir Παρατατικός: geçmişte sık sık olan bir şey.",
       "en": "διαβάζαμε is imperfect: something that happened often in the past."
+     },
+     "sentence": {
+      "el": "Κάθε καλοκαίρι **διαβάζαμε** βιβλία στην παραλία.",
+      "tr": "Her yaz plajda kitap **okurduk**.",
+      "en": "Every summer we **used to read** books on the beach."
      }
     },
     {
@@ -796,6 +826,11 @@
       "el": "θα + θέμα αορίστου (θα γράψω) = μία πράξη στο μέλλον.",
       "tr": "θα + aorist gövdesi (θα γράψω) = gelecekte tek bir eylem.",
       "en": "θα + aorist stem (θα γράψω) = one action in the future."
+     },
+     "sentence": {
+      "el": "**Θα γράψω** την αίτηση αύριο.",
+      "tr": "Dilekçeyi yarın **yazacağım**.",
+      "en": "I **will write** the application tomorrow."
      }
     },
     {
@@ -831,6 +866,11 @@
       "el": "Μετά το θέλω βάζουμε να + ρήμα (υποτακτική): θέλω να γράψω.",
       "tr": "θέλω'den sonra να + fiil (υποτακτική) gelir: θέλω να γράψω.",
       "en": "After θέλω we use να + verb (subjunctive): θέλω να γράψω."
+     },
+     "sentence": {
+      "el": "Θέλω **να γράψω** ένα γράμμα.",
+      "tr": "Bir mektup **yazmak** istiyorum.",
+      "en": "I want **to write** a letter."
      }
     },
     {
@@ -866,6 +906,11 @@
       "el": "Στο γράψαμε υπάρχουν ήδη τρεις συλλαβές, άρα δεν χρειάζεται αύξηση ε-.",
       "tr": "γράψαμε zaten üç heceli, bu yüzden ε- artışı gerekmez.",
       "en": "γράψαμε already has three syllables, so no augment ε- is needed."
+     },
+     "sentence": {
+      "el": "Εμείς **γράψαμε** την άσκηση χθες.",
+      "tr": "Biz alıştırmayı dün **yazdık**.",
+      "en": "We **wrote** the exercise yesterday."
      }
     },
     {
@@ -901,6 +946,11 @@
       "el": "Πέρσι → αόριστος· αυτοί → έγραψαν (με αύξηση ε- και τόνο στην τρίτη από το τέλος).",
       "tr": "Πέρσι → Αόριστος; αυτοί → έγραψαν (ε- artışı, vurgu sondan üçüncü hecede).",
       "en": "Last year → aorist; they → έγραψαν (augment ε-, stress on the third syllable from the end)."
+     },
+     "sentence": {
+      "el": "Πέρσι οι φίλοι μου **έγραψαν** ένα βιβλίο μαζί.",
+      "tr": "Geçen yıl arkadaşlarım birlikte bir kitap **yazdılar**.",
+      "en": "Last year my friends **wrote** a book together."
      }
     },
     {
@@ -936,6 +986,11 @@
       "el": "Πράξη που τελείωσε και το αποτέλεσμα ισχύει τώρα → παρακείμενος: έχω γράψει.",
       "tr": "Bitmiş ve sonucu şimdi geçerli olan eylem → Παρακείμενος: έχω γράψει.",
       "en": "A finished action whose result holds now → perfect: έχω γράψει."
+     },
+     "sentence": {
+      "el": "**Έχω γράψει** ήδη την αίτηση· τώρα περιμένω απάντηση.",
+      "tr": "Dilekçeyi zaten **yazdım**; şimdi cevap bekliyorum.",
+      "en": "I **have already written** the application; now I am waiting for an answer."
      }
     },
     {
@@ -971,6 +1026,11 @@
       "el": "Πράξη πριν από άλλη πράξη του παρελθόντος → υπερσυντέλικος: είχε γράψει.",
       "tr": "Geçmişteki başka bir eylemden önce olan eylem → Υπερσυντέλικος: είχε γράψει.",
       "en": "An action before another past action → pluperfect: είχε γράψει."
+     },
+     "sentence": {
+      "el": "Όταν έφτασα στο γραφείο, ο υπάλληλος **είχε γράψει** ήδη το όνομά μου.",
+      "tr": "Ofise vardığımda memur adımı çoktan **yazmıştı**.",
+      "en": "When I arrived at the office, the clerk **had already written** my name."
      }
     },
     {
@@ -1006,6 +1066,11 @@
       "el": "Κάτι που θα έχει τελειώσει ως μια στιγμή του μέλλοντος → συντελεσμένος μέλλοντας: θα έχω γράψει.",
       "tr": "Gelecekte bir ana kadar bitmiş olacak şey → Συντελεσμένος Μέλλοντας: θα έχω γράψει.",
       "en": "Something finished by a future point → future perfect: θα έχω γράψει."
+     },
+     "sentence": {
+      "el": "Μέχρι τις πέντε **θα έχω γράψει** το γράμμα.",
+      "tr": "Saat beşe kadar mektubu **yazmış olacağım**.",
+      "en": "By five o'clock I **will have written** the letter."
      }
     },
     {
@@ -1041,6 +1106,11 @@
       "el": "Προστακτική για εσύ από το θέμα του αορίστου: γράψε.",
       "tr": "εσύ için emir kipi aorist gövdesinden: γράψε.",
       "en": "Imperative for εσύ from the aorist stem: γράψε."
+     },
+     "sentence": {
+      "el": "**Γράψε** το όνομά σου εδώ, παρακαλώ.",
+      "tr": "Lütfen adını buraya **yaz**.",
+      "en": "**Write** your name here, please."
      }
     },
     {
@@ -1076,6 +1146,11 @@
       "el": "Ο παρατατικός (έγραφα) δείχνει συνεχή όψη: η πράξη διαρκούσε.",
       "tr": "Παρατατικός (έγραφα) sürekli görünüşü gösterir: eylem sürüyordu.",
       "en": "The imperfect (έγραφα) shows continuous aspect: the action was ongoing."
+     },
+     "sentence": {
+      "el": "**Έγραφα** όλο το πρωί.",
+      "tr": "Bütün sabah **yazıyordum**.",
+      "en": "I **was writing** all morning."
      }
     },
     {
@@ -1111,6 +1186,11 @@
       "el": "Το τουρκικό «yazıyordum» αντιστοιχεί στον παρατατικό: έγραφα.",
       "tr": "Türkçe «yazıyordum» Παρατατικός'a karşılık gelir: έγραφα.",
       "en": "Turkish 'yazıyordum' ('I was writing') corresponds to the imperfect: έγραφα."
+     },
+     "sentence": {
+      "el": "Όταν χτύπησε το τηλέφωνο, **έγραφα**.",
+      "tr": "Telefon çaldığında **yazıyordum**.",
+      "en": "When the phone rang, I **was writing**."
      }
     },
     {
@@ -1146,6 +1226,11 @@
       "el": "Το χθες θέλει παρελθοντικό χρόνο· για μία πράξη: αόριστος (έγραψα).",
       "tr": "χθες geçmiş zaman ister; tek eylem için Αόριστος (έγραψα).",
       "en": "χθες needs a past tense; for one action, the aorist (έγραψα)."
+     },
+     "sentence": {
+      "el": "Χθες **έγραψα** ένα γράμμα.",
+      "tr": "Dün bir mektup **yazdım**.",
+      "en": "Yesterday I **wrote** a letter."
      }
     },
     {
@@ -1181,6 +1266,11 @@
       "el": "Το θα δεν αλλάζει· αλλάζει μόνο η κατάληξη του ρήματος: θα γράψεις.",
       "tr": "θα değişmez; yalnızca fiilin eki değişir: θα γράψεις.",
       "en": "θα never changes; only the verb ending changes: θα γράψεις."
+     },
+     "sentence": {
+      "el": "Αύριο εσύ **θα γράψεις** στη δασκάλα.",
+      "tr": "Yarın sen öğretmene **yazacaksın**.",
+      "en": "Tomorrow you **will write** to the teacher."
      }
     },
     {
@@ -1216,6 +1306,11 @@
       "el": "Μετά το πρέπει: να + θέμα αορίστου + κατάληξη ενεστώτα (να γράψουμε).",
       "tr": "πρέπει'den sonra: να + aorist gövdesi + şimdiki zaman eki (να γράψουμε).",
       "en": "After πρέπει: να + aorist stem + present ending (να γράψουμε)."
+     },
+     "sentence": {
+      "el": "Πρέπει **να γράψουμε** την αίτηση σήμερα.",
+      "tr": "Dilekçeyi bugün **yazmalıyız**.",
+      "en": "We **must write** the application today."
      }
     },
     {
@@ -1251,6 +1346,11 @@
       "el": "Μετά το θα για μία πράξη: θέμα αορίστου χωρίς αύξηση (θα διαβάσω).",
       "tr": "Tek eylem için θα'dan sonra: artışsız aorist gövdesi (θα διαβάσω).",
       "en": "After θα for one action: aorist stem without augment (θα διαβάσω)."
+     },
+     "sentence": {
+      "el": "Αύριο **θα διαβάσω** το βιβλίο.",
+      "tr": "Yarın kitabı **okuyacağım**.",
+      "en": "Tomorrow I **will read** the book."
      }
     },
     {
@@ -1286,6 +1386,11 @@
       "el": "θα + θέμα ενεστώτα (θα γράφω) = κάτι που θα διαρκεί ή θα επαναλαμβάνεται.",
       "tr": "θα + şimdiki zaman gövdesi (θα γράφω) = sürecek ya da tekrarlanacak bir şey.",
       "en": "θα + present stem (θα γράφω) = something that will last or repeat."
+     },
+     "sentence": {
+      "el": "Από τον Σεπτέμβριο **θα γράφω** σε μια εφημερίδα.",
+      "tr": "Eylülden itibaren bir gazetede düzenli olarak **yazıyor olacağım**.",
+      "en": "From September I **will be writing** for a newspaper."
      }
     },
     {
@@ -1321,6 +1426,11 @@
       "el": "Ο παρακείμενος (έχω + απαρέμφατο) δείχνει μια πράξη που έχει τελειώσει μέχρι τώρα.",
       "tr": "Παρακείμενος (έχω + απαρέμφατο) şimdiye kadar tamamlanmış bir eylemi gösterir.",
       "en": "The perfect (έχω + infinitive form) shows an action completed up to now."
+     },
+     "sentence": {
+      "el": "**Έχω διαβάσει** αυτό το βιβλίο.",
+      "tr": "Bu kitabı daha önce **okudum**.",
+      "en": "I **have read** this book."
      }
     }
    ]
@@ -1863,6 +1973,11 @@
       "el": "«Κάθε βράδυ» = συνήθεια στο παρόν → ενεστώτας: διαβάζω.",
       "tr": "«Her akşam» = şimdiki alışkanlık → Ενεστώτας: διαβάζω.",
       "en": "'Every evening' = a present habit → present: διαβάζω."
+     },
+     "sentence": {
+      "el": "Κάθε βράδυ **διαβάζω** ένα κεφάλαιο από το βιβλίο.",
+      "tr": "Her akşam kitaptan bir bölüm **okuyorum**.",
+      "en": "Every evening I **read** a chapter of the book."
      }
     },
     {
@@ -1898,6 +2013,11 @@
       "el": "Ολοκληρωμένη πράξη χθες → αόριστος: διάβασα (-ζω → -σα, χωρίς ε- γιατί έχει τρεις συλλαβές).",
       "tr": "Dün tamamlanmış eylem → Αόριστος: διάβασα (-ζω → -σα; üç heceli olduğu için ε- yok).",
       "en": "Completed action yesterday → aorist: διάβασα (-ζω → -σα; three syllables, so no ε-)."
+     },
+     "sentence": {
+      "el": "Χθες **διάβασα** όλο το κεφάλαιο μέχρι το τέλος.",
+      "tr": "Dün bütün bölümü sonuna kadar **okudum**.",
+      "en": "Yesterday I **read** the whole chapter to the end."
      }
     },
     {
@@ -1933,6 +2053,11 @@
       "el": "Μέλλοντας για μία πράξη: θα + θέμα αορίστου δουλεψ- (θα δουλέψω).",
       "tr": "Tek eylem için gelecek: θα + aorist gövdesi δουλεψ- (θα δουλέψω).",
       "en": "Future for one action: θα + aorist stem δουλεψ- (θα δουλέψω)."
+     },
+     "sentence": {
+      "el": "Αύριο **θα δουλέψω** οκτώ ώρες.",
+      "tr": "Yarın sekiz saat **çalışacağım**.",
+      "en": "Tomorrow I **will work** eight hours."
      }
     },
     {
@@ -1968,6 +2093,11 @@
       "el": "Πέρσι → αόριστος· στο εμείς ο τόνος πάει στο δουλέψαμε (τρίτη συλλαβή από το τέλος).",
       "tr": "Πέρσι → Αόριστος; εμείς'de vurgu δουλέψαμε'deki gibi sondan üçüncü hecededir.",
       "en": "Last year → aorist; for εμείς the stress is δουλέψαμε (third syllable from the end)."
+     },
+     "sentence": {
+      "el": "Πέρσι **δουλέψαμε** σε ένα εστιατόριο στη Θεσσαλονίκη.",
+      "tr": "Geçen yıl Selanik'te bir restoranda **çalıştık**.",
+      "en": "Last year we **worked** in a restaurant in Thessaloniki."
      }
     },
     {
@@ -2003,6 +2133,11 @@
       "el": "-γω → -ξα: ανοίγω → άνοιξα, άρα αυτός → άνοιξε.",
       "tr": "-γω → -ξα: ανοίγω → άνοιξα, dolayısıyla αυτός → άνοιξε.",
       "en": "-γω → -ξα: ανοίγω → άνοιξα, so αυτός → άνοιξε."
+     },
+     "sentence": {
+      "el": "Χθες το βράδυ κάποιος **άνοιξε** την πόρτα του γραφείου.",
+      "tr": "Dün akşam biri ofisin kapısını **açtı**.",
+      "en": "Last night someone **opened** the office door."
      }
     },
     {
@@ -2038,6 +2173,11 @@
       "el": "Αύριο, μία φορά → θα + θέμα αορίστου χωρίς αύξηση: θα ανοίξω.",
       "tr": "Yarın, bir kez → θα + artışsız aorist gövdesi: θα ανοίξω.",
       "en": "Tomorrow, once → θα + aorist stem without augment: θα ανοίξω."
+     },
+     "sentence": {
+      "el": "Μην ανησυχείς, αύριο **θα ανοίξω** εγώ το μαγαζί.",
+      "tr": "Merak etme, yarın dükkânı ben **açacağım**.",
+      "en": "Don't worry, tomorrow I **will open** the shop."
      }
     },
     {
@@ -2073,6 +2213,11 @@
       "el": "Τον περασμένο μήνα → αόριστος: πληρώνω → πλήρωσα, εσύ πλήρωσες.",
       "tr": "Geçen ay → Αόριστος: πληρώνω → πλήρωσα, εσύ πλήρωσες.",
       "en": "Last month → aorist: πληρώνω → πλήρωσα, εσύ πλήρωσες."
+     },
+     "sentence": {
+      "el": "Πόσα **πλήρωσες** για το ενοίκιο τον περασμένο μήνα;",
+      "tr": "Geçen ay kira için ne kadar **ödedin**?",
+      "en": "How much **did you pay** for the rent last month?"
      }
     },
     {
@@ -2108,6 +2253,11 @@
       "el": "-ζω → -σα: αγοράζω → αγόρασα.",
       "tr": "-ζω → -σα: αγοράζω → αγόρασα.",
       "en": "-ζω → -σα: αγοράζω → αγόρασα."
+     },
+     "sentence": {
+      "el": "Το Σάββατο **αγόρασα** ψωμί και γάλα.",
+      "tr": "Cumartesi ekmek ve süt **aldım**.",
+      "en": "On Saturday I **bought** bread and milk."
      }
     },
     {
@@ -2143,6 +2293,11 @@
       "el": "-σκω/-κω → -ξα: διδάσκω → δίδαξα, αυτός δίδαξε.",
       "tr": "-σκω/-κω → -ξα: διδάσκω → δίδαξα, αυτός δίδαξε.",
       "en": "-σκω/-κω → -ξα: διδάσκω → δίδαξα, αυτός δίδαξε."
+     },
+     "sentence": {
+      "el": "Χθες ο κύριος Νίκος μας **δίδαξε** ένα ωραίο τραγούδι.",
+      "tr": "Dün Nikos Bey bize güzel bir şarkı **öğretti**.",
+      "en": "Yesterday Mr Nikos **taught** us a nice song."
      }
     },
     {
@@ -2178,6 +2333,11 @@
       "el": "Το πλένω έχει ιδιαίτερο αόριστο: έπλυνα, αυτή έπλυνε.",
       "tr": "πλένω'nun özel bir Αόριστος'u var: έπλυνα, αυτή έπλυνε.",
       "en": "πλένω has a special aorist: έπλυνα, αυτή έπλυνε."
+     },
+     "sentence": {
+      "el": "Μετά το φαγητό η Μαρία **έπλυνε** τα πιάτα.",
+      "tr": "Yemekten sonra Maria bulaşıkları **yıkadı**.",
+      "en": "After the meal Maria **washed** the dishes."
      }
     },
     {
@@ -2213,6 +2373,11 @@
       "el": "Ενεστώτας, εσείς → -ετε: δουλεύετε (το -εται είναι κατάληξη της παθητικής).",
       "tr": "Ενεστώτας, εσείς → -ετε: δουλεύετε (-εται edilgen çatı ekidir).",
       "en": "Present, εσείς → -ετε: δουλεύετε (-εται is a passive ending)."
+     },
+     "sentence": {
+      "el": "Εσείς **δουλεύετε** στο γραφείο κάθε μέρα;",
+      "tr": "Siz her gün ofiste mi **çalışıyorsunuz**?",
+      "en": "Do you **work** at the office every day?"
      }
     },
     {
@@ -2248,6 +2413,11 @@
       "el": "Αυτοί → -ουν(ε): τα παιδιά διαβάζουν.",
       "tr": "Αυτοί → -ουν(ε): τα παιδιά διαβάζουν.",
       "en": "Αυτοί → -ουν(ε): τα παιδιά διαβάζουν."
+     },
+     "sentence": {
+      "el": "Τα παιδιά **διαβάζουν** πολύ τα απογεύματα.",
+      "tr": "Çocuklar öğleden sonraları çok **ders çalışıyor**.",
+      "en": "The children **study** a lot in the afternoons."
      }
     },
     {
@@ -2283,6 +2453,11 @@
       "el": "Συνήθεια στο παρελθόν → παρατατικός με αύξηση: έγραφα.",
       "tr": "Geçmişteki alışkanlık → artışlı Παρατατικός: έγραφα.",
       "en": "A past habit → imperfect with augment: έγραφα."
+     },
+     "sentence": {
+      "el": "Όταν ήμουν μαθητής, **έγραφα** ποιήματα κάθε εβδομάδα.",
+      "tr": "Öğrenciyken her hafta şiir **yazardım**.",
+      "en": "When I was a pupil, I **used to write** poems every week."
      }
     },
     {
@@ -2318,6 +2493,11 @@
       "el": "Προστακτική για εσείς από το θέμα του αορίστου: γράψτε.",
       "tr": "εσείς için emir kipi aorist gövdesinden: γράψτε.",
       "en": "Imperative for εσείς from the aorist stem: γράψτε."
+     },
+     "sentence": {
+      "el": "Παιδιά, **γράψτε** το όνομά σας στο χαρτί!",
+      "tr": "Çocuklar, adınızı kâğıda **yazın**!",
+      "en": "Children, **write** your names on the paper!"
      }
     },
     {
@@ -2353,6 +2533,11 @@
       "el": "Παρακείμενος = έχω + απαρέμφατο από το θέμα του αορίστου: έχεις γράψει.",
       "tr": "Παρακείμενος = έχω + aorist gövdesinden απαρέμφατο: έχεις γράψει.",
       "en": "Perfect = έχω + infinitive form from the aorist stem: έχεις γράψει."
+     },
+     "sentence": {
+      "el": "**Έχεις γράψει** ποτέ γράμμα σε εφημερίδα;",
+      "tr": "Hiç bir gazeteye mektup **yazdın mı**?",
+      "en": "**Have you ever written** a letter to a newspaper?"
      }
     },
     {
@@ -2388,6 +2573,11 @@
       "el": "Μετά το να για μία πράξη χρησιμοποιούμε το θέμα του αορίστου: να διαβάσω.",
       "tr": "να'dan sonra tek eylem için aorist gövdesi kullanılır: να διαβάσω.",
       "en": "After να for one action we use the aorist stem: να διαβάσω."
+     },
+     "sentence": {
+      "el": "Θέλω **να διαβάσω** αυτό το βιβλίο μέχρι την Κυριακή.",
+      "tr": "Bu kitabı pazara kadar **okumak** istiyorum.",
+      "en": "I want **to read** this book by Sunday."
      }
     },
     {
@@ -2423,6 +2613,11 @@
       "el": "Μετά το θα δεν βάζουμε αόριστο με αύξηση· βάζουμε θέμα αορίστου + -ω: θα διαβάσω.",
       "tr": "θα'dan sonra artışlı Αόριστος gelmez; aorist gövdesi + -ω gelir: θα διαβάσω.",
       "en": "After θα we don't use the augmented aorist but aorist stem + -ω: θα διαβάσω."
+     },
+     "sentence": {
+      "el": "Αύριο **θα διαβάσω** το άρθρο.",
+      "tr": "Yarın makaleyi **okuyacağım**.",
+      "en": "Tomorrow I **will read** the article."
      }
     },
     {
@@ -2493,6 +2688,11 @@
       "el": "Αόριστος του ανοίγω για εμείς: ανοίξαμε (τόνος στην τρίτη συλλαβή από το τέλος).",
       "tr": "ανοίγω'nun εμείς için Αόριστος'u: ανοίξαμε (vurgu sondan üçüncü hecede).",
       "en": "Aorist of ανοίγω for εμείς: ανοίξαμε (stress on the third syllable from the end)."
+     },
+     "sentence": {
+      "el": "Χθες **ανοίξαμε** το μαγαζί στις οκτώ.",
+      "tr": "Dün dükkânı saat sekizde **açtık**.",
+      "en": "Yesterday we **opened** the shop at eight."
      }
     },
     {
@@ -2528,6 +2728,11 @@
       "el": "Χθες + εσύ → αόριστος β΄ προσώπου: πλήρωσες.",
       "tr": "Χθες + εσύ → Αόριστος, 2. tekil şahıs: πλήρωσες.",
       "en": "Yesterday + εσύ → aorist, 2nd person singular: πλήρωσες."
+     },
+     "sentence": {
+      "el": "Χθες **πλήρωσες** τον λογαριασμό του ρεύματος;",
+      "tr": "Dün elektrik faturasını **ödedin mi**?",
+      "en": "**Did you pay** the electricity bill yesterday?"
      }
     },
     {
@@ -2563,6 +2768,11 @@
       "el": "Μία πράξη στο παρελθόν, αυτοί → αόριστος: αγόρασαν.",
       "tr": "Geçmişte tek eylem, αυτοί → Αόριστος: αγόρασαν.",
       "en": "One past action, αυτοί → aorist: αγόρασαν."
+     },
+     "sentence": {
+      "el": "Οι γονείς μου **αγόρασαν** αυτό το σπίτι πριν από δέκα χρόνια.",
+      "tr": "Annemle babam bu evi on yıl önce **aldı**.",
+      "en": "My parents **bought** this house ten years ago."
      }
     },
     {
@@ -2598,6 +2808,11 @@
       "el": "Η προστακτική βγαίνει από το θέμα του αορίστου: ανοιξ- → άνοιξε (εσύ).",
       "tr": "Emir kipi aorist gövdesinden yapılır: ανοιξ- → άνοιξε (εσύ).",
       "en": "The imperative comes from the aorist stem: ανοιξ- → άνοιξε (εσύ)."
+     },
+     "sentence": {
+      "el": "**Άνοιξε** το βιβλίο σου στη σελίδα είκοσι!",
+      "tr": "Kitabını yirminci sayfada **aç**!",
+      "en": "**Open** your book at page twenty!"
      }
     }
    ]
@@ -3115,6 +3330,11 @@
       "el": "«Κάθε μέρα» στο παρόν → ενεστώτας, εγώ: μιλάω.",
       "tr": "Şimdiki zamanda «her gün» → Ενεστώτας, εγώ: μιλάω.",
       "en": "'Every day' in the present → present, εγώ: μιλάω."
+     },
+     "sentence": {
+      "el": "Κάθε μέρα **μιλάω** με τη μητέρα μου στο τηλέφωνο.",
+      "tr": "Her gün annemle telefonda **konuşuyorum**.",
+      "en": "Every day I **talk** to my mother on the phone."
      }
     },
     {
@@ -3150,6 +3370,11 @@
       "el": "Αόριστος σε -ησα με τον τόνο στην τρίτη συλλαβή από το τέλος: μίλησα.",
       "tr": "Vurgu sondan üçüncü hecede olan -ησα ile Αόριστος: μίλησα.",
       "en": "Aorist in -ησα with stress on the third syllable from the end: μίλησα."
+     },
+     "sentence": {
+      "el": "Χθες **μίλησα** με τον γιατρό για τα αποτελέσματα.",
+      "tr": "Dün doktorla sonuçlar hakkında **konuştum**.",
+      "en": "Yesterday I **talked** to the doctor about the results."
      }
     },
     {
@@ -3185,6 +3410,11 @@
       "el": "«Συχνά» στο παρελθόν → παρατατικός σε -ούσα: μιλούσαμε.",
       "tr": "Geçmişte «sık sık» → -ούσα ile Παρατατικός: μιλούσαμε.",
       "en": "'Often' in the past → imperfect in -ούσα: μιλούσαμε."
+     },
+     "sentence": {
+      "el": "Όταν μέναμε στην Αθήνα, **μιλούσαμε** συχνά με τους γείτονες.",
+      "tr": "Atina'da otururken komşularla sık sık **konuşurduk**.",
+      "en": "When we lived in Athens, we **used to talk** with the neighbours often."
      }
     },
     {
@@ -3220,6 +3450,11 @@
       "el": "Μέλλοντας για μία πράξη: θα + ρωτησ- + -ω (θα ρωτήσω).",
       "tr": "Tek eylem için gelecek: θα + ρωτησ- + -ω (θα ρωτήσω).",
       "en": "Future for one action: θα + ρωτησ- + -ω (θα ρωτήσω)."
+     },
+     "sentence": {
+      "el": "Αύριο **θα ρωτήσω** τον δάσκαλο για την εξέταση.",
+      "tr": "Yarın öğretmene sınavı **soracağım**.",
+      "en": "Tomorrow I **will ask** the teacher about the exam."
      }
     },
     {
@@ -3255,6 +3490,11 @@
       "el": "Χθες → αόριστος, αυτός: ρώτησε.",
       "tr": "Χθες → Αόριστος, αυτός: ρώτησε.",
       "en": "Yesterday → aorist, αυτός: ρώτησε."
+     },
+     "sentence": {
+      "el": "Χθες ο υπάλληλος με **ρώτησε** πού μένω.",
+      "tr": "Dün memur bana nerede oturduğumu **sordu**.",
+      "en": "Yesterday the clerk **asked** me where I live."
      }
     },
     {
@@ -3290,6 +3530,11 @@
       "el": "Το γελάω έχει αόριστο σε -ασα: γέλασα, αυτοί γέλασαν.",
       "tr": "γελάω'nun Αόριστος'u -ασα ile: γέλασα, αυτοί γέλασαν.",
       "en": "γελάω has an aorist in -ασα: γέλασα, αυτοί γέλασαν."
+     },
+     "sentence": {
+      "el": "Χθες στο πάρτι όλοι **γέλασαν** πολύ με τα αστεία του.",
+      "tr": "Dün partide herkes onun şakalarına çok **güldü**.",
+      "en": "Yesterday at the party everyone **laughed** a lot at his jokes."
      }
     },
     {
@@ -3325,6 +3570,11 @@
       "el": "Το πεινάω έχει αόριστο σε -ασα: πείνασα.",
       "tr": "πεινάω'nun Αόριστος'u -ασα ile: πείνασα.",
       "en": "πεινάω has an aorist in -ασα: πείνασα."
+     },
+     "sentence": {
+      "el": "Δεν έφαγα πρωινό και στις δώδεκα **πείνασα** πολύ.",
+      "tr": "Kahvaltı yapmadım ve saat on ikide çok **acıktım**.",
+      "en": "I didn't have breakfast and at twelve I **got very hungry**."
      }
     },
     {
@@ -3360,6 +3610,11 @@
       "el": "Το φοράω έχει αόριστο σε -εσα: φόρεσα.",
       "tr": "φοράω'nun Αόριστος'u -εσα ile: φόρεσα.",
       "en": "φοράω has an aorist in -εσα: φόρεσα."
+     },
+     "sentence": {
+      "el": "Χθες **φόρεσα** το καινούργιο μου φόρεμα.",
+      "tr": "Dün yeni elbisemi **giydim**.",
+      "en": "Yesterday I **wore** my new dress."
      }
     },
     {
@@ -3395,6 +3650,11 @@
       "el": "Αυτή → αγαπά / αγαπάει.",
       "tr": "Αυτή → αγαπά / αγαπάει.",
       "en": "Αυτή → αγαπά / αγαπάει."
+     },
+     "sentence": {
+      "el": "Η Ελένη **αγαπάει** πολύ τη μουσική.",
+      "tr": "Eleni müziği çok **seviyor**.",
+      "en": "Eleni **loves** music very much."
      }
     },
     {
@@ -3430,6 +3690,11 @@
       "el": "Εσείς → -άτε: μιλάτε.",
       "tr": "Εσείς → -άτε: μιλάτε.",
       "en": "Εσείς → -άτε: μιλάτε."
+     },
+     "sentence": {
+      "el": "Εσείς **μιλάτε** ελληνικά;",
+      "tr": "Siz Yunanca **konuşuyor musunuz**?",
+      "en": "**Do you speak** Greek?"
      }
     },
     {
@@ -3465,6 +3730,11 @@
       "el": "Στο γ΄ πληθυντικό: μιλάνε (προφορικό) = μιλούν (γραπτό).",
       "tr": "3. çoğul şahısta: μιλάνε (konuşma dili) = μιλούν (yazı dili).",
       "en": "3rd person plural: μιλάνε (spoken) = μιλούν (written)."
+     },
+     "sentence": {
+      "el": "Οι γείτονες **μιλάνε** (= **μιλούν**) δυνατά.",
+      "tr": "Komşular yüksek sesle **konuşuyor**.",
+      "en": "The neighbours **are talking** loudly."
      }
     },
     {
@@ -3500,6 +3770,11 @@
       "el": "Προστακτική για εσύ: ρώτησε.",
       "tr": "εσύ için emir kipi: ρώτησε.",
       "en": "Imperative for εσύ: ρώτησε."
+     },
+     "sentence": {
+      "el": "**Ρώτησε** τον υπάλληλο, αυτός ξέρει!",
+      "tr": "Memura **sor**, o biliyor!",
+      "en": "**Ask** the clerk, he knows!"
      }
     },
     {
@@ -3535,6 +3810,11 @@
       "el": "Προστακτική για εσείς στη Β1: -ήστε (μιλήστε).",
       "tr": "B1 grubunda εσείς için emir kipi: -ήστε (μιλήστε).",
       "en": "Imperative for εσείς in group B1: -ήστε (μιλήστε)."
+     },
+     "sentence": {
+      "el": "Παιδιά, **μιλήστε** πιο σιγά, παρακαλώ!",
+      "tr": "Çocuklar, lütfen daha sessiz **konuşun**!",
+      "en": "Children, please **speak** more quietly!"
      }
     },
     {
@@ -3570,6 +3850,11 @@
       "el": "Παρατατικός Β1: θέμα + -ούσα, χωρίς αύξηση: αγαπούσα.",
       "tr": "B1 Παρατατικός: gövde + -ούσα, artış yok: αγαπούσα.",
       "en": "B1 imperfect: stem + -ούσα, no augment: αγαπούσα."
+     },
+     "sentence": {
+      "el": "Όταν ήμουν μικρή, **αγαπούσα** πολύ τα κινούμενα σχέδια.",
+      "tr": "Küçükken çizgi filmleri çok **severdim**.",
+      "en": "When I was little, I **loved** cartoons very much."
      }
     },
     {
@@ -3605,6 +3890,11 @@
       "el": "Το ρωτούσε είναι παρατατικός: πράξη που γινόταν ξανά και ξανά.",
       "tr": "ρωτούσε bir Παρατατικός: tekrar tekrar olan eylem.",
       "en": "ρωτούσε is imperfect: an action happening again and again."
+     },
+     "sentence": {
+      "el": "Ο γιος μου **ρωτούσε** συνέχεια το ίδιο πράγμα.",
+      "tr": "Oğlum sürekli aynı şeyi **soruyordu**.",
+      "en": "My son **kept asking** the same thing."
      }
     },
     {
@@ -3640,6 +3930,11 @@
       "el": "Το ρώτησα είναι αόριστος: μία πράξη που έγινε και τελείωσε.",
       "tr": "ρώτησα bir Αόριστος: bir kez olup biten eylem.",
       "en": "ρώτησα is aorist: one action done and finished."
+     },
+     "sentence": {
+      "el": "**Ρώτησα** τον υπάλληλο για την άδεια διαμονής.",
+      "tr": "Memura oturma izni hakkında **sordum**.",
+      "en": "I **asked** the clerk about the residence permit."
      }
     },
     {
@@ -3675,6 +3970,11 @@
       "el": "Αόριστος για εμείς: μιλήσαμε (τόνος στην τρίτη συλλαβή από το τέλος, κατάληξη -ησα).",
       "tr": "εμείς için Αόριστος: μιλήσαμε (vurgu sondan üçüncü hecede, -ησα eki).",
       "en": "Aorist for εμείς: μιλήσαμε (stress on third syllable from the end, -ησα ending)."
+     },
+     "sentence": {
+      "el": "Χθες **μιλήσαμε** με τον δικηγόρο.",
+      "tr": "Dün avukatla **konuştuk**.",
+      "en": "Yesterday we **talked** with the lawyer."
      }
     },
     {
@@ -3710,6 +4010,11 @@
       "el": "Στον μέλλοντα ο τόνος πάει στο -ή-: θα ρωτήσω.",
       "tr": "Gelecek zamanda vurgu -ή- üzerindedir: θα ρωτήσω.",
       "en": "In the future the stress falls on -ή-: θα ρωτήσω."
+     },
+     "sentence": {
+      "el": "Αύριο **θα σε ρωτήσω** κάτι.",
+      "tr": "Yarın sana bir şey **soracağım**.",
+      "en": "Tomorrow I **will ask** you something."
      }
     },
     {
@@ -3745,6 +4050,11 @@
       "el": "Κάτι που θα γίνεται συνέχεια από τώρα και πέρα → εξακολουθητικός μέλλοντας: θα μιλάμε.",
       "tr": "Bundan sonra sürekli olacak bir şey → Εξακολουθητικός Μέλλοντας: θα μιλάμε.",
       "en": "Something that will happen continually from now on → continuous future: θα μιλάμε."
+     },
+     "sentence": {
+      "el": "Από τώρα και πέρα **θα μιλάμε** μόνο ελληνικά στο σπίτι.",
+      "tr": "Bundan sonra evde hep sadece Yunanca **konuşacağız**.",
+      "en": "From now on we **will speak** only Greek at home."
      }
     },
     {
@@ -3780,6 +4090,11 @@
       "el": "φοράω → φόρεσα → θα φορέσω, εσύ θα φορέσεις.",
       "tr": "φοράω → φόρεσα → θα φορέσω, εσύ θα φορέσεις.",
       "en": "φοράω → φόρεσα → θα φορέσω, εσύ θα φορέσεις."
+     },
+     "sentence": {
+      "el": "Τι **θα φορέσεις** αύριο στη γιορτή;",
+      "tr": "Yarın kutlamada ne **giyeceksin**?",
+      "en": "What **will you wear** to the celebration tomorrow?"
      }
     },
     {
@@ -3850,6 +4165,11 @@
       "el": "Κάτι που γίνεται τώρα → ενεστώτας: γελάω.",
       "tr": "Şu an olan bir şey → Ενεστώτας: γελάω.",
       "en": "Something happening now → present: γελάω."
+     },
+     "sentence": {
+      "el": "Τώρα **γελάω** και δεν μπορώ να σταματήσω!",
+      "tr": "Şimdi **gülüyorum** ve duramıyorum!",
+      "en": "I **am laughing** now and I can't stop!"
      }
     }
    ]
@@ -4483,6 +4803,11 @@
       "el": "Στη Β2 το γ΄ ενικό τελειώνει σε -εί: οδηγεί (δεν υπάρχει μορφή σε -άει).",
       "tr": "B2'de 3. tekil şahıs -εί ile biter: οδηγεί (-άει biçimi yoktur).",
       "en": "In group B2 the 3rd person singular ends in -εί: οδηγεί (no -άει form)."
+     },
+     "sentence": {
+      "el": "Ο αδερφός μου **οδηγεί** ταξί στη Θεσσαλονίκη.",
+      "tr": "Erkek kardeşim Selanik'te taksi **kullanıyor**.",
+      "en": "My brother **drives** a taxi in Thessaloniki."
      }
     },
     {
@@ -4518,6 +4843,11 @@
       "el": "Εσείς στη Β2 → -είτε: οδηγείτε.",
       "tr": "B2'de εσείς → -είτε: οδηγείτε.",
       "en": "Εσείς in B2 → -είτε: οδηγείτε."
+     },
+     "sentence": {
+      "el": "Εσείς **οδηγείτε** κάθε μέρα;",
+      "tr": "Siz her gün araba **kullanıyor musunuz**?",
+      "en": "**Do you drive** every day?"
      }
     },
     {
@@ -4553,6 +4883,11 @@
       "el": "Εμείς στη Β2 → -ούμε: οδηγούμε.",
       "tr": "B2'de εμείς → -ούμε: οδηγούμε.",
       "en": "Εμείς in B2 → -ούμε: οδηγούμε."
+     },
+     "sentence": {
+      "el": "Εμείς δεν **οδηγούμε** στο κέντρο της πόλης.",
+      "tr": "Biz şehir merkezinde araba **kullanmıyoruz**.",
+      "en": "We don't **drive** in the city centre."
      }
     },
     {
@@ -4588,6 +4923,11 @@
       "el": "Χθες → αόριστος σε -ησα, τόνος στην τρίτη από το τέλος: οδήγησα.",
       "tr": "Χθες → -ησα ile Αόριστος, vurgu sondan üçüncü hecede: οδήγησα.",
       "en": "Yesterday → aorist in -ησα, stress on third syllable from the end: οδήγησα."
+     },
+     "sentence": {
+      "el": "Χθες **οδήγησα** τρεις ώρες μέχρι τα Ιωάννινα.",
+      "tr": "Dün Yanya'ya kadar üç saat araba **kullandım**.",
+      "en": "Yesterday I **drove** for three hours to Ioannina."
      }
     },
     {
@@ -4623,6 +4963,11 @@
       "el": "«Συχνά» στο παρελθόν → παρατατικός: οδηγούσα.",
       "tr": "Geçmişte «sık sık» → Παρατατικός: οδηγούσα.",
       "en": "'Often' in the past → imperfect: οδηγούσα."
+     },
+     "sentence": {
+      "el": "Όταν ζούσα στο χωριό, **οδηγούσα** συχνά το τρακτέρ του πατέρα μου.",
+      "tr": "Köyde yaşarken babamın traktörünü sık sık **kullanırdım**.",
+      "en": "When I lived in the village, I often **used to drive** my father's tractor."
      }
     },
     {
@@ -4658,6 +5003,11 @@
       "el": "Αύριο, εσύ → μέλλοντας: θα οδηγήσεις.",
       "tr": "Yarın, εσύ → gelecek zaman: θα οδηγήσεις.",
       "en": "Tomorrow, εσύ → future: θα οδηγήσεις."
+     },
+     "sentence": {
+      "el": "Αύριο **θα οδηγήσεις** εσύ, εντάξει; Εγώ είμαι κουρασμένος.",
+      "tr": "Yarın arabayı sen **kullanacaksın**, tamam mı? Ben yorgunum.",
+      "en": "Tomorrow you **will drive**, OK? I'm tired."
      }
     },
     {
@@ -4693,6 +5043,11 @@
       "el": "Το μπορώ είναι Β2: εσύ μπορείς.",
       "tr": "μπορώ B2 grubundandır: εσύ μπορείς.",
       "en": "μπορώ is group B2: εσύ μπορείς."
+     },
+     "sentence": {
+      "el": "**Μπορείς** να με βοηθήσεις με την αίτηση;",
+      "tr": "Dilekçe konusunda bana yardım **edebilir misin**?",
+      "en": "**Can you** help me with the application?"
      }
     },
     {
@@ -4728,6 +5083,11 @@
       "el": "Μετά το μπορώ: να + ρήμα (υποτακτική): να οδηγήσουμε.",
       "tr": "μπορώ'dan sonra: να + fiil (υποτακτική): να οδηγήσουμε.",
       "en": "After μπορώ: να + verb (subjunctive): να οδηγήσουμε."
+     },
+     "sentence": {
+      "el": "Δεν μπορούμε **να οδηγήσουμε** το αυτοκίνητο σήμερα.",
+      "tr": "Bugün arabayı **kullanamayız**.",
+      "en": "We can't **drive** the car today."
      }
     },
     {
@@ -4763,6 +5123,11 @@
       "el": "Ο στιγμιαίος μέλλοντας του μπορώ: θα μπορέσω (αόριστος μπόρεσα, σε -εσα).",
       "tr": "μπορώ'nun Στιγμιαίος Μέλλοντας'ı: θα μπορέσω (Αόριστος μπόρεσα, -εσα ile).",
       "en": "The simple future of μπορώ: θα μπορέσω (aorist μπόρεσα, in -εσα)."
+     },
+     "sentence": {
+      "el": "Ελπίζω ότι αύριο **θα μπορέσω** να έρθω στη γιορτή.",
+      "tr": "Umarım yarın kutlamaya **gelebileceğim**.",
+      "en": "I hope that tomorrow I **will be able** to come to the celebration."
      }
     },
     {
@@ -4798,6 +5163,11 @@
       "el": "ζω: ζω, ζεις, ζει, ζούμε, ζείτε, ζουν(ε).",
       "tr": "ζω: ζω, ζεις, ζει, ζούμε, ζείτε, ζουν(ε).",
       "en": "ζω: ζω, ζεις, ζει, ζούμε, ζείτε, ζουν(ε)."
+     },
+     "sentence": {
+      "el": "Εσείς **ζείτε** στην Ελλάδα πολλά χρόνια;",
+      "tr": "Siz uzun yıllardır Yunanistan'da mı **yaşıyorsunuz**?",
+      "en": "**Have you been living** in Greece for many years?"
      }
     },
     {
@@ -4833,6 +5203,11 @@
       "el": "Αυτοί → ζουν(ε).",
       "tr": "Αυτοί → ζουν(ε).",
       "en": "Αυτοί → ζουν(ε)."
+     },
+     "sentence": {
+      "el": "Οι γονείς μου **ζουν** στην Κωνσταντινούπολη.",
+      "tr": "Annemle babam İstanbul'da **yaşıyor**.",
+      "en": "My parents **live** in Istanbul."
      }
     },
     {
@@ -4868,6 +5243,11 @@
       "el": "Ολοκληρωμένη ζωή, κοιτάμε το σύνολο → αόριστος: έζησε (με αύξηση ε-).",
       "tr": "Tamamlanmış bir hayat, bütünüyle bakılır → Αόριστος: έζησε (ε- artışlı).",
       "en": "A completed life seen as a whole → aorist: έζησε (with augment ε-)."
+     },
+     "sentence": {
+      "el": "Ο παππούς μου πέθανε πέρσι· **έζησε** ενενήντα χρόνια.",
+      "tr": "Dedem geçen yıl öldü; doksan yıl **yaşadı**.",
+      "en": "My grandfather died last year; he **lived** ninety years."
      }
     },
     {
@@ -4903,6 +5283,11 @@
       "el": "«Τότε», κατάσταση που διαρκούσε → παρατατικός: ζούσαμε.",
       "tr": "«O zamanlar», süren durum → Παρατατικός: ζούσαμε.",
       "en": "'Back then', an ongoing situation → imperfect: ζούσαμε."
+     },
+     "sentence": {
+      "el": "Τότε **ζούσαμε** σε ένα μικρό χωριό κοντά στη θάλασσα.",
+      "tr": "O zamanlar denize yakın küçük bir köyde **yaşıyorduk**.",
+      "en": "Back then we **were living** in a small village near the sea."
      }
     },
     {
@@ -4938,6 +5323,11 @@
       "el": "Μέλλοντας για εμείς: θα ζήσουμε.",
       "tr": "εμείς için gelecek zaman: θα ζήσουμε.",
       "en": "Future for εμείς: θα ζήσουμε."
+     },
+     "sentence": {
+      "el": "Μετά τη σύνταξη **θα ζήσουμε** για πάντα στο νησί.",
+      "tr": "Emekli olduktan sonra sonsuza dek adada **yaşayacağız**.",
+      "en": "After retirement we **will live** on the island for good."
      }
     },
     {
@@ -4973,6 +5363,11 @@
       "el": "μπορώ + να + υποτακτική (θέμα αορίστου + κατάληξη ενεστώτα): να ανοίξετε.",
       "tr": "μπορώ + να + υποτακτική (aorist gövdesi + şimdiki zaman eki): να ανοίξετε.",
       "en": "μπορώ + να + subjunctive (aorist stem + present ending): να ανοίξετε."
+     },
+     "sentence": {
+      "el": "Μπορείτε **να ανοίξετε** την πόρτα;",
+      "tr": "Kapıyı **açabilir misiniz**?",
+      "en": "Can you **open** the door?"
      }
     },
     {
@@ -5043,6 +5438,11 @@
       "el": "Το οδηγώ είναι Β2: δεν έχει μορφές σε -άει· λέμε οδηγεί.",
       "tr": "οδηγώ B2'dir: -άει biçimi yoktur; οδηγεί deriz.",
       "en": "οδηγώ is B2: it has no -άει forms; we say οδηγεί."
+     },
+     "sentence": {
+      "el": "Ο Νίκος **οδηγεί** πολύ γρήγορα.",
+      "tr": "Nikos çok hızlı araba **kullanıyor**.",
+      "en": "Nikos **drives** very fast."
      }
     },
     {
@@ -5078,6 +5478,11 @@
       "el": "Το προσπαθώ είναι Β2: δεν λέμε «προσπαθάω»· εγώ → προσπαθώ.",
       "tr": "προσπαθώ B2'dir: «προσπαθάω» denmez; εγώ → προσπαθώ.",
       "en": "προσπαθώ is B2: no «προσπαθάω»; εγώ → προσπαθώ."
+     },
+     "sentence": {
+      "el": "**Προσπαθώ** να μαθαίνω δέκα λέξεις κάθε μέρα.",
+      "tr": "Her gün on kelime öğrenmeye **çalışıyorum**.",
+      "en": "I **try** to learn ten words every day."
      }
     },
     {
@@ -5113,6 +5518,11 @@
       "el": "Β2, εμείς → -ούμε: θεωρούμε.",
       "tr": "B2, εμείς → -ούμε: θεωρούμε.",
       "en": "B2, εμείς → -ούμε: θεωρούμε."
+     },
+     "sentence": {
+      "el": "Εμείς **θεωρούμε** ότι η εξέταση δεν είναι δύσκολη.",
+      "tr": "Biz sınavın zor olmadığını **düşünüyoruz**.",
+      "en": "We **consider** the exam not to be difficult."
      }
     },
     {
@@ -5148,6 +5558,11 @@
       "el": "Ο παρατατικός μπορούσα δείχνει κάτι που ίσχυε για μια περίοδο (συνεχής όψη).",
       "tr": "Παρατατικός μπορούσα bir dönem boyunca geçerli olan şeyi gösterir (sürekli görünüş).",
       "en": "The imperfect μπορούσα shows something true over a period (continuous aspect)."
+     },
+     "sentence": {
+      "el": "Όταν ήμουν νέος, **μπορούσα** να τρέξω δέκα χιλιόμετρα.",
+      "tr": "Gençken on kilometre **koşabilirdim**.",
+      "en": "When I was young, I **could** run ten kilometres."
      }
     },
     {
@@ -5183,6 +5598,11 @@
       "el": "Παρακείμενος: έχω + απαρέμφατο: έχεις οδηγήσει.",
       "tr": "Παρακείμενος: έχω + απαρέμφατο: έχεις οδηγήσει.",
       "en": "Perfect: έχω + infinitive form: έχεις οδηγήσει."
+     },
+     "sentence": {
+      "el": "**Έχεις οδηγήσει** ποτέ φορτηγό;",
+      "tr": "Hiç kamyon **kullandın mı**?",
+      "en": "**Have you ever driven** a truck?"
      }
     },
     {
@@ -5218,6 +5638,11 @@
       "el": "Πριν από άλλο γεγονός του παρελθόντος → υπερσυντέλικος: είχα οδηγήσει.",
       "tr": "Geçmişteki başka bir olaydan önce → Υπερσυντέλικος: είχα οδηγήσει.",
       "en": "Before another past event → pluperfect: είχα οδηγήσει."
+     },
+     "sentence": {
+      "el": "Πριν έρθω στην Ελλάδα, δεν **είχα οδηγήσει** ποτέ αυτοκίνητο.",
+      "tr": "Yunanistan'a gelmeden önce hiç araba **kullanmamıştım**.",
+      "en": "Before I came to Greece, I **had never driven** a car."
      }
     }
    ]
@@ -6084,6 +6509,11 @@
       "el": "Το μωρό = αυτό → -άται: κοιμάται. Το -τε είναι κατάληξη για εσείς στην ενεργητική.",
       "tr": "Το μωρό = αυτό → -άται: κοιμάται. -τε etken çatıda εσείς ekidir.",
       "en": "Το μωρό = it → -άται: κοιμάται. -τε is the active ending for εσείς."
+     },
+     "sentence": {
+      "el": "Μη φωνάζετε, **κοιμάται** το μωρό!",
+      "tr": "Bağırmayın, bebek **uyuyor**!",
+      "en": "Don't shout, the baby **is sleeping**!"
      }
     },
     {
@@ -6119,6 +6549,11 @@
       "el": "Εσείς στα ρήματα σε -άμαι → -άστε: κοιμάστε.",
       "tr": "-άμαι fiillerinde εσείς → -άστε: κοιμάστε.",
       "en": "Εσείς in -άμαι verbs → -άστε: κοιμάστε."
+     },
+     "sentence": {
+      "el": "Εσείς τι ώρα **κοιμάστε** συνήθως;",
+      "tr": "Siz genelde saat kaçta **uyuyorsunuz**?",
+      "en": "What time do you usually **go to sleep**?"
      }
     },
     {
@@ -6154,6 +6589,11 @@
       "el": "Εσύ → -εσαι: σκέφτεσαι.",
       "tr": "Εσύ → -εσαι: σκέφτεσαι.",
       "en": "Εσύ → -εσαι: σκέφτεσαι."
+     },
+     "sentence": {
+      "el": "Τι **σκέφτεσαι**; Μου φαίνεσαι στενοχωρημένη.",
+      "tr": "Ne **düşünüyorsun**? Bana üzgün görünüyorsun.",
+      "en": "What **are you thinking** about? You look upset to me."
      }
     },
     {
@@ -6189,6 +6629,11 @@
       "el": "Αυτός → -εται: σκέφτεται (με -αι, όχι -ε).",
       "tr": "Αυτός → -εται: σκέφτεται (-ε değil, -αι ile).",
       "en": "Αυτός → -εται: σκέφτεται (with -αι, not -ε)."
+     },
+     "sentence": {
+      "el": "Ο Κώστας **σκέφτεται** να αλλάξει δουλειά.",
+      "tr": "Kostas iş değiştirmeyi **düşünüyor**.",
+      "en": "Kostas **is thinking** of changing jobs."
      }
     },
     {
@@ -6224,6 +6669,11 @@
       "el": "Εμείς → -όμαστε και στα -άμαι: θυμόμαστε.",
       "tr": "-άμαι fiillerinde de εμείς → -όμαστε: θυμόμαστε.",
       "en": "Εμείς → -όμαστε also in -άμαι verbs: θυμόμαστε."
+     },
+     "sentence": {
+      "el": "Εμείς δεν **θυμόμαστε** το όνομά του.",
+      "tr": "Biz onun adını **hatırlamıyoruz**.",
+      "en": "We don't **remember** his name."
      }
     },
     {
@@ -6259,6 +6709,11 @@
       "el": "Χθες, μία πράξη → παθητικός αόριστος σε -θηκα: κοιμήθηκα.",
       "tr": "Χθες, tek eylem → -θηκα ile edilgen Αόριστος: κοιμήθηκα.",
       "en": "Yesterday, one action → passive aorist in -θηκα: κοιμήθηκα."
+     },
+     "sentence": {
+      "el": "Χθες **κοιμήθηκα** στις έντεκα και ξύπνησα στις επτά.",
+      "tr": "Dün saat on birde **uyudum** ve yedide uyandım.",
+      "en": "Yesterday I **went to sleep** at eleven and woke up at seven."
      }
     },
     {
@@ -6294,6 +6749,11 @@
       "el": "«Ξαφνικά» = μία στιγμή → αόριστος: θυμήθηκα.",
       "tr": "«Birden» = tek an → Αόριστος: θυμήθηκα.",
       "en": "'Suddenly' = one moment → aorist: θυμήθηκα."
+     },
+     "sentence": {
+      "el": "Ξαφνικά **θυμήθηκα** ότι είχα ξεχάσει τα κλειδιά.",
+      "tr": "Birden anahtarları unuttuğumu **hatırladım**.",
+      "en": "Suddenly I **remembered** that I had forgotten the keys."
      }
     },
     {
@@ -6329,6 +6789,11 @@
       "el": "«Πάντα» στο παρελθόν = συνήθεια → παρατατικός: κοιμόμουν.",
       "tr": "Geçmişte «hep» = alışkanlık → Παρατατικός: κοιμόμουν.",
       "en": "'Always' in the past = habit → imperfect: κοιμόμουν."
+     },
+     "sentence": {
+      "el": "Όταν ήμουν μικρός, **κοιμόμουν** πάντα νωρίς.",
+      "tr": "Küçükken hep erken **uyurdum**.",
+      "en": "When I was little, I always **used to go to sleep** early."
      }
     },
     {
@@ -6364,6 +6829,11 @@
       "el": "Στιγμιαίος μέλλοντας: το θέμα του αορίστου χωρίς -ηκα + -ώ: θα κοιμηθώ.",
       "tr": "Στιγμιαίος Μέλλοντας: -ηκα'sız aorist gövdesi + -ώ: θα κοιμηθώ.",
       "en": "Simple future: aorist stem without -ηκα + -ώ: θα κοιμηθώ."
+     },
+     "sentence": {
+      "el": "Απόψε **θα κοιμηθώ** νωρίς, γιατί αύριο ξυπνάω στις έξι.",
+      "tr": "Bu gece erken **yatacağım**, çünkü yarın altıda kalkıyorum.",
+      "en": "Tonight I **will go to sleep** early, because tomorrow I get up at six."
      }
     },
     {
@@ -6399,6 +6869,11 @@
       "el": "Πέρσι, μία πράξη → αόριστος: γράφτηκα.",
       "tr": "Πέρσι, tek eylem → Αόριστος: γράφτηκα.",
       "en": "Last year, one action → aorist: γράφτηκα."
+     },
+     "sentence": {
+      "el": "Πέρσι **γράφτηκα** σε μια σχολή οδηγών.",
+      "tr": "Geçen yıl bir sürücü kursuna **kaydoldum**.",
+      "en": "Last year I **enrolled** in a driving school."
      }
     },
     {
@@ -6434,6 +6909,11 @@
       "el": "να + γραφτ- + -είς (εσύ): να γραφτείς.",
       "tr": "να + γραφτ- + -είς (εσύ): να γραφτείς.",
       "en": "να + γραφτ- + -είς (εσύ): να γραφτείς."
+     },
+     "sentence": {
+      "el": "Πρέπει **να γραφτείς** στον δήμο μέχρι την Παρασκευή.",
+      "tr": "Cumaya kadar belediyeye **kaydolman** gerekiyor.",
+      "en": "You must **register** with the municipality by Friday."
      }
     },
     {
@@ -6469,6 +6949,11 @@
       "el": "Η προστακτική του σκέφτομαι για εσύ είναι σκέψου.",
       "tr": "σκέφτομαι'nın εσύ için emir kipi σκέψου'dur.",
       "en": "The imperative of σκέφτομαι for εσύ is σκέψου."
+     },
+     "sentence": {
+      "el": "**Σκέψου** καλά πριν υπογράψεις!",
+      "tr": "İmzalamadan önce iyi **düşün**!",
+      "en": "**Think** carefully before you sign!"
      }
     },
     {
@@ -6504,6 +6989,11 @@
       "el": "Προστακτική για εσείς: πλυθείτε (για εσύ: πλύσου).",
       "tr": "εσείς için emir kipi: πλυθείτε (εσύ için: πλύσου).",
       "en": "Imperative for εσείς: πλυθείτε (for εσύ: πλύσου)."
+     },
+     "sentence": {
+      "el": "Παιδιά, **πλυθείτε** γρήγορα, το φαγητό είναι έτοιμο!",
+      "tr": "Çocuklar, çabuk **yıkanın**, yemek hazır!",
+      "en": "Children, **wash up** quickly, the food is ready!"
      }
     },
     {
@@ -6539,6 +7029,11 @@
       "el": "Μία πράξη στο μέλλον → θα + σκεφτ- + -ώ: θα το σκεφτώ.",
       "tr": "Gelecekte tek eylem → θα + σκεφτ- + -ώ: θα το σκεφτώ.",
       "en": "One future action → θα + σκεφτ- + -ώ: θα το σκεφτώ."
+     },
+     "sentence": {
+      "el": "Μην ανησυχείς, **θα το σκεφτώ** και θα σου απαντήσω αύριο.",
+      "tr": "Merak etme, bunu **düşüneceğim** ve sana yarın cevap vereceğim.",
+      "en": "Don't worry, I **will think about it** and answer you tomorrow."
      }
     },
     {
@@ -6609,6 +7104,11 @@
       "el": "γράφομαι = εγγράφομαι (kaydolmak)· γράφτηκα είναι ο αόριστος.",
       "tr": "γράφομαι = εγγράφομαι (kaydolmak); γράφτηκα onun Αόριστος'udur.",
       "en": "γράφομαι = to enrol; γράφτηκα is its aorist."
+     },
+     "sentence": {
+      "el": "**Γράφτηκα** στο Πανεπιστήμιο Αθηνών.",
+      "tr": "Atina Üniversitesi'ne **kaydoldum**.",
+      "en": "I **enrolled** at the University of Athens."
      }
     },
     {
@@ -6644,6 +7144,11 @@
       "el": "Αυτή → -άται: κοιμάται· «κάθε μεσημέρι» θέλει ενεστώτα.",
       "tr": "Αυτή → -άται: κοιμάται; «her öğlen» Ενεστώτας ister.",
       "en": "Αυτή → -άται: κοιμάται; 'every noon' needs the present."
+     },
+     "sentence": {
+      "el": "Η γιαγιά μου **κοιμάται** κάθε μεσημέρι.",
+      "tr": "Büyükannem her öğlen **uyur**.",
+      "en": "My grandmother **sleeps** every day at noon."
      }
     },
     {
@@ -6679,6 +7184,11 @@
       "el": "«Όλο το απόγευμα» = διάρκεια στο παρελθόν → παρατατικός, εγώ: σκεφτόμουν.",
       "tr": "«Bütün öğleden sonra» = geçmişte süre → Παρατατικός, εγώ: σκεφτόμουν.",
       "en": "'All afternoon' = past duration → imperfect, εγώ: σκεφτόμουν."
+     },
+     "sentence": {
+      "el": "Χθες όλο το απόγευμα **σκεφτόμουν** τι να μαγειρέψω.",
+      "tr": "Dün bütün öğleden sonra ne pişireceğimi **düşünüyordum**.",
+      "en": "Yesterday I **was thinking** all afternoon about what to cook."
      }
     },
     {
@@ -6714,6 +7224,11 @@
       "el": "Αυτοί → -ονται: πλένονται· «κάθε βράδυ» → ενεστώτας.",
       "tr": "Αυτοί → -ονται: πλένονται; «her akşam» → Ενεστώτας.",
       "en": "Αυτοί → -ονται: πλένονται; 'every evening' → present."
+     },
+     "sentence": {
+      "el": "Τα παιδιά **πλένονται** κάθε βράδυ πριν από τον ύπνο.",
+      "tr": "Çocuklar her akşam yatmadan önce **yıkanır**.",
+      "en": "The children **wash** every evening before bed."
      }
     },
     {
@@ -6749,6 +7264,11 @@
       "el": "Εγώ → θυμάμαι.",
       "tr": "Εγώ → θυμάμαι.",
       "en": "Εγώ → θυμάμαι."
+     },
+     "sentence": {
+      "el": "Δεν **θυμάμαι** πού άφησα το κινητό μου.",
+      "tr": "Cep telefonumu nereye bıraktığımı **hatırlamıyorum**.",
+      "en": "I don't **remember** where I left my mobile phone."
      }
     },
     {
@@ -6784,6 +7304,11 @@
       "el": "Προστακτική του θυμάμαι για εσύ: θυμήσου.",
       "tr": "θυμάμαι'nın εσύ için emir kipi: θυμήσου.",
       "en": "Imperative of θυμάμαι for εσύ: θυμήσου."
+     },
+     "sentence": {
+      "el": "**Θυμήσου** να φέρεις το διαβατήριο!",
+      "tr": "Pasaportu getirmeyi **unutma**!",
+      "en": "**Remember** to bring the passport!"
      }
     },
     {
@@ -6819,6 +7344,11 @@
       "el": "Αύριο → θα + κοιμηθ- + -ούμε: θα κοιμηθούμε.",
       "tr": "Αύριο → θα + κοιμηθ- + -ούμε: θα κοιμηθούμε.",
       "en": "Tomorrow → θα + κοιμηθ- + -ούμε: θα κοιμηθούμε."
+     },
+     "sentence": {
+      "el": "Αύριο **θα κοιμηθούμε** στο ξενοδοχείο.",
+      "tr": "Yarın otelde **uyuyacağız**.",
+      "en": "Tomorrow we **will sleep** at the hotel."
      }
     }
    ]
@@ -7197,6 +7727,11 @@
       "el": "Συνήθεια στο παρελθόν («κάθε καλοκαίρι») → παρατατικός: πηγαίναμε.",
       "tr": "Geçmişteki alışkanlık («her yaz») → Παρατατικός: πηγαίναμε.",
       "en": "A past habit ('every summer') → imperfect: πηγαίναμε."
+     },
+     "sentence": {
+      "el": "Όταν ήμασταν παιδιά, κάθε καλοκαίρι **πηγαίναμε** στο χωριό του παππού.",
+      "tr": "Çocukken her yaz dedemin köyüne **giderdik**.",
+      "en": "When we were children, every summer we **used to go** to grandfather's village."
      }
     },
     {
@@ -7232,6 +7767,11 @@
       "el": "Ένα ταξίδι, μία φορά, που τελείωσε → αόριστος: πήγαμε.",
       "tr": "Bir kez yapılıp biten bir yolculuk → Αόριστος: πήγαμε.",
       "en": "One trip, once, finished → aorist: πήγαμε."
+     },
+     "sentence": {
+      "el": "Πέρσι το καλοκαίρι **πήγαμε** στην Κρήτη για μία εβδομάδα.",
+      "tr": "Geçen yaz bir haftalığına Girit'e **gittik**.",
+      "en": "Last summer we **went** to Crete for a week."
      }
     },
     {
@@ -7267,6 +7807,11 @@
       "el": "Φόντο που διαρκούσε όταν έγινε κάτι άλλο → παρατατικός: διάβαζα.",
       "tr": "Başka bir şey olduğunda süren arka plan → Παρατατικός: διάβαζα.",
       "en": "Background going on when something else happened → imperfect: διάβαζα."
+     },
+     "sentence": {
+      "el": "**Διάβαζα** εφημερίδα όταν χτύπησε το τηλέφωνο.",
+      "tr": "Telefon çaldığında gazete **okuyordum**.",
+      "en": "I **was reading** a newspaper when the phone rang."
      }
     },
     {
@@ -7302,6 +7847,11 @@
       "el": "«Ενώ» δείχνει συνεχή όψη → παρατατικός: περπατούσα.",
       "tr": "«Ενώ» sürekli görünüşü gösterir → Παρατατικός: περπατούσα.",
       "en": "'Ενώ' signals continuous aspect → imperfect: περπατούσα."
+     },
+     "sentence": {
+      "el": "Ενώ **περπατούσα** στον δρόμο, συνάντησα έναν παλιό φίλο.",
+      "tr": "Sokakta **yürürken** eski bir arkadaşa rastladım.",
+      "en": "While I **was walking** down the street, I met an old friend."
      }
     },
     {
@@ -7337,6 +7887,11 @@
       "el": "«Ξαφνικά» → στιγμιαία όψη → αόριστος: έσβησαν.",
       "tr": "«Ξαφνικά» → anlık görünüş → Αόριστος: έσβησαν.",
       "en": "'Suddenly' → simple aspect → aorist: έσβησαν."
+     },
+     "sentence": {
+      "el": "Ξαφνικά **έσβησαν** τα φώτα και δεν βλέπαμε τίποτα.",
+      "tr": "Birden ışıklar **söndü** ve hiçbir şey göremiyorduk.",
+      "en": "Suddenly the lights **went out** and we couldn't see anything."
      }
     },
     {
@@ -7372,6 +7927,11 @@
       "el": "Ένα μήνυμα, μία φορά, στο μέλλον → στιγμιαίος μέλλοντας: θα γράψω.",
       "tr": "Gelecekte bir kez, tek mesaj → Στιγμιαίος Μέλλοντας: θα γράψω.",
       "en": "One message, once, in the future → simple future: θα γράψω."
+     },
+     "sentence": {
+      "el": "Αύριο **θα γράψω** ένα μήνυμα στον δάσκαλο.",
+      "tr": "Yarın öğretmene bir mesaj **yazacağım**.",
+      "en": "Tomorrow I **will write** a message to the teacher."
      }
     },
     {
@@ -7407,6 +7967,11 @@
       "el": "Επανάληψη στο μέλλον («κάθε μέρα») → εξακολουθητικός μέλλοντας: θα δουλεύω.",
       "tr": "Gelecekte tekrar («her gün») → Εξακολουθητικός Μέλλοντας: θα δουλεύω.",
       "en": "Repetition in the future ('every day') → continuous future: θα δουλεύω."
+     },
+     "sentence": {
+      "el": "Από τη Δευτέρα **θα δουλεύω** κάθε μέρα στις οκτώ.",
+      "tr": "Pazartesiden itibaren her gün saat sekizde **çalışıyor olacağım**.",
+      "en": "From Monday I **will be working** every day at eight."
      }
     },
     {
@@ -7442,6 +8007,11 @@
       "el": "Μία ολοκληρωμένη πράξη χθες → αόριστος (όχι παρακείμενος με το «χθες»).",
       "tr": "Dün tamamlanmış tek eylem → Αόριστος («χθες» ile Παρακείμενος kullanılmaz).",
       "en": "One completed action yesterday → aorist (not the perfect with 'yesterday')."
+     },
+     "sentence": {
+      "el": "Χθες **έγραψα** ένα γράμμα και το έστειλα αμέσως.",
+      "tr": "Dün bir mektup **yazdım** ve hemen gönderdim.",
+      "en": "Yesterday I **wrote** a letter and sent it immediately."
      }
     },
     {
@@ -7477,6 +8047,11 @@
       "el": "Με το «χθες, πέρσι» κ.λπ. λέμε πάντα αόριστο: χθες έγραψα.",
       "tr": "«Dün, geçen yıl» gibi ifadelerle her zaman Αόριστος kullanılır: χθες έγραψα.",
       "en": "With 'yesterday, last year' etc. we always use the aorist: χθες έγραψα."
+     },
+     "sentence": {
+      "el": "Χθες **έγραψα** δύο email.",
+      "tr": "Dün iki e-posta **yazdım**.",
+      "en": "Yesterday I **wrote** two emails."
      }
     },
     {
@@ -7512,6 +8087,11 @@
       "el": "Πράξη πριν από άλλη πράξη του παρελθόντος → υπερσυντέλικος: είχα φάει.",
       "tr": "Geçmişteki başka eylemden önceki eylem → Υπερσυντέλικος: είχα φάει.",
       "en": "An action before another past action → pluperfect: είχα φάει."
+     },
+     "sentence": {
+      "el": "Όταν ήρθες, **είχα φάει** ήδη.",
+      "tr": "Sen geldiğinde ben çoktan **yemiştim**.",
+      "en": "When you came, I **had already eaten**."
      }
     },
     {
@@ -7547,6 +8127,11 @@
       "el": "«Μέχρι τώρα» = αποτέλεσμα ως το παρόν → παρακείμενος: έχω διαβάσει.",
       "tr": "«Şimdiye kadar» = bugüne kadarki sonuç → Παρακείμενος: έχω διαβάσει.",
       "en": "'So far' = result up to the present → perfect: έχω διαβάσει."
+     },
+     "sentence": {
+      "el": "Μέχρι τώρα **έχω διαβάσει** πέντε βιβλία στα ελληνικά.",
+      "tr": "Şimdiye kadar Yunanca beş kitap **okudum**.",
+      "en": "So far I **have read** five books in Greek."
      }
     },
     {
@@ -7582,6 +8167,11 @@
       "el": "Το έπινα (παρατατικός) με το «κάθε πρωί» δείχνει συνήθεια στο παρελθόν.",
       "tr": "«κάθε πρωί» ile έπινα (Παρατατικός) geçmişteki alışkanlığı gösterir.",
       "en": "έπινα (imperfect) with 'every morning' shows a past habit."
+     },
+     "sentence": {
+      "el": "Κάθε πρωί **έπινα** έναν καφέ στο μπαλκόνι.",
+      "tr": "Her sabah balkonda bir kahve **içerdim**.",
+      "en": "Every morning I **used to drink** a coffee on the balcony."
      }
     },
     {
@@ -7617,6 +8207,11 @@
       "el": "θα πίνω = εξακολουθητικός μέλλοντας: κάτι που θα γίνεται συνέχεια από αύριο.",
       "tr": "θα πίνω = Εξακολουθητικός Μέλλοντας: yarından itibaren sürekli olacak bir şey.",
       "en": "θα πίνω = continuous future: something that will happen regularly from tomorrow."
+     },
+     "sentence": {
+      "el": "Από αύριο **θα πίνω** λιγότερο καφέ.",
+      "tr": "Yarından itibaren her gün daha az kahve **içeceğim**.",
+      "en": "From tomorrow on I **will drink** less coffee."
      }
     },
     {
@@ -7652,6 +8247,11 @@
       "el": "Ο υπερσυντέλικος (είχε αρχίσει) δείχνει κάτι που έγινε πριν από άλλο γεγονός του παρελθόντος.",
       "tr": "Υπερσυντέλικος (είχε αρχίσει) geçmişteki başka bir olaydan önce olanı gösterir.",
       "en": "The pluperfect (είχε αρχίσει) shows something that happened before another past event."
+     },
+     "sentence": {
+      "el": "Όταν φτάσαμε, η ταινία **είχε αρχίσει**.",
+      "tr": "Vardığımızda film **başlamıştı**.",
+      "en": "When we arrived, the film **had started**."
      }
     },
     {
@@ -7687,6 +8287,11 @@
       "el": "Διάρκεια στο παρελθόν («όλο το πρωί») → παρατατικός: καθάριζα.",
       "tr": "Geçmişte süre («bütün sabah») → Παρατατικός: καθάριζα.",
       "en": "Duration in the past ('all morning') → imperfect: καθάριζα."
+     },
+     "sentence": {
+      "el": "Χθες **καθάριζα** όλο το πρωί στο σπίτι.",
+      "tr": "Dün bütün sabah evde temizlik **yapıyordum**.",
+      "en": "Yesterday I **was cleaning** at home all morning."
      }
     },
     {
@@ -7722,6 +8327,11 @@
       "el": "Το τουρκικό -irdi (συνήθεια) αντιστοιχεί στον παρατατικό: κολυμπούσα.",
       "tr": "Türkçe -irdi (alışkanlık) Παρατατικός'a karşılık gelir: κολυμπούσα.",
       "en": "Turkish -irdi (habit) corresponds to the imperfect: κολυμπούσα."
+     },
+     "sentence": {
+      "el": "Όταν ήμουν παιδί, **κολυμπούσα** κάθε μέρα στη θάλασσα.",
+      "tr": "Çocukken her gün denizde **yüzerdim**.",
+      "en": "When I was a child, I **used to swim** in the sea every day."
      }
     },
     {
@@ -7757,6 +8367,11 @@
       "el": "Το τουρκικό -dı για ένα γεγονός αντιστοιχεί στον αόριστο: κολύμπησα.",
       "tr": "Tek olay için Türkçe -dı Αόριστος'a karşılık gelir: κολύμπησα.",
       "en": "Turkish -dı for one event corresponds to the aorist: κολύμπησα."
+     },
+     "sentence": {
+      "el": "Χθες **κολύμπησα** στη θάλασσα για πρώτη φορά φέτος.",
+      "tr": "Dün bu yıl ilk kez denizde **yüzdüm**.",
+      "en": "Yesterday I **swam** in the sea for the first time this year."
      }
     },
     {
@@ -7792,6 +8407,11 @@
       "el": "Το «πέρσι» είναι παρελθόν· για ένα ταξίδι λέμε αόριστο: πήγαμε.",
       "tr": "«Πέρσι» geçmiştir; tek yolculuk için Αόριστος: πήγαμε.",
       "en": "'Last year' is past; for one trip we use the aorist: πήγαμε."
+     },
+     "sentence": {
+      "el": "Πέρσι **πήγαμε** στη Ρόδο.",
+      "tr": "Geçen yıl Rodos'a **gittik**.",
+      "en": "Last year we **went** to Rhodes."
      }
     },
     {
@@ -7827,6 +8447,11 @@
       "el": "«Κάθε μέρα» στο μέλλον = επανάληψη → θα + θέμα ενεστώτα: θα διαβάζω.",
       "tr": "Gelecekte «her gün» = tekrar → θα + şimdiki zaman gövdesi: θα διαβάζω.",
       "en": "'Every day' in the future = repetition → θα + present stem: θα διαβάζω."
+     },
+     "sentence": {
+      "el": "Κάθε μέρα **θα διαβάζω** μία ώρα.",
+      "tr": "Her gün bir saat **okuyacağım**.",
+      "en": "Every day I **will read** for an hour."
      }
     },
     {
@@ -7897,6 +8522,11 @@
       "el": "«Μέχρι τώρα» → παρακείμενος: έχεις πάει.",
       "tr": "«Şimdiye kadar» → Παρακείμενος: έχεις πάει.",
       "en": "'So far' → perfect: έχεις πάει."
+     },
+     "sentence": {
+      "el": "Πόσες φορές **έχεις πάει** στην Αθήνα μέχρι τώρα;",
+      "tr": "Şimdiye kadar Atina'ya kaç kez **gittin**?",
+      "en": "How many times **have you been** to Athens so far?"
      }
     },
     {
@@ -7932,6 +8562,11 @@
       "el": "Εμπειρία ζωής μέχρι τώρα («ποτέ») → παρακείμενος: έχεις φάει.",
       "tr": "Şimdiye kadarki hayat deneyimi («hiç») → Παρακείμενος: έχεις φάει.",
       "en": "Life experience up to now ('ever/never') → perfect: έχεις φάει."
+     },
+     "sentence": {
+      "el": "Δεν **έχεις φάει** ποτέ σουβλάκι; Πρέπει να δοκιμάσεις!",
+      "tr": "Hiç suvlaki **yemedin mi**? Denemelisin!",
+      "en": "**Have you never eaten** souvlaki? You must try it!"
      }
     },
     {
@@ -7967,6 +8602,11 @@
       "el": "Τι γινόταν σε μια στιγμή του παρελθόντος → παρατατικός: έβλεπα.",
       "tr": "Geçmişte belirli bir anda süren şey → Παρατατικός: έβλεπα.",
       "en": "What was going on at a past moment → imperfect: έβλεπα."
+     },
+     "sentence": {
+      "el": "— Τι έκανες χθες στις οκτώ;\n— **Έβλεπα** τηλεόραση.",
+      "tr": "— Dün saat sekizde ne yapıyordun?\n— Televizyon **izliyordum**.",
+      "en": "— What were you doing yesterday at eight?\n— I **was watching** TV."
      }
     },
     {
@@ -8002,6 +8642,11 @@
       "el": "Κάτι που θα έχει τελειώσει ως μια στιγμή του μέλλοντος → συντελεσμένος μέλλοντας: θα έχω πάρει.",
       "tr": "Gelecekteki bir ana kadar bitmiş olacak şey → Συντελεσμένος Μέλλοντας: θα έχω πάρει.",
       "en": "Something finished by a future point → future perfect: θα έχω πάρει."
+     },
+     "sentence": {
+      "el": "Μέχρι το 2030 **θα έχω πάρει** την ελληνική ιθαγένεια.",
+      "tr": "2030'a kadar Yunan vatandaşlığını **almış olacağım**.",
+      "en": "By 2030 I **will have obtained** Greek citizenship."
      }
     },
     {
@@ -8037,6 +8682,11 @@
       "el": "Συνήθεια («κάθε μέρα») → παρατατικός πήγαινε· μία φορά («χθες») → αόριστος πήγε.",
       "tr": "Alışkanlık («her gün») → Παρατατικός πήγαινε; bir kez («dün») → Αόριστος πήγε.",
       "en": "Habit ('every day') → imperfect πήγαινε; once ('yesterday') → aorist πήγε."
+     },
+     "sentence": {
+      "el": "Η Άννα **πήγαινε** στη δουλειά κάθε μέρα με το λεωφορείο, αλλά χθες **πήγε** με ταξί.",
+      "tr": "Anna her gün işe otobüsle **giderdi**, ama dün taksiyle **gitti**.",
+      "en": "Anna **used to go** to work by bus every day, but yesterday she **went** by taxi."
      }
     }
    ]
@@ -8518,6 +9168,11 @@
       "el": "Στιγμιαία προστακτική για εσύ από το θέμα του αορίστου: άνοιξε.",
       "tr": "εσύ için aorist gövdesinden anlık emir kipi: άνοιξε.",
       "en": "Simple imperative for εσύ from the aorist stem: άνοιξε."
+     },
+     "sentence": {
+      "el": "**Άνοιξε** το παράθυρο, κάνει ζέστη!",
+      "tr": "Pencereyi **aç**, hava sıcak!",
+      "en": "**Open** the window, it's hot!"
      }
     },
     {
@@ -8553,6 +9208,11 @@
       "el": "Το «σας» δείχνει εσείς → προστακτική γράψτε.",
       "tr": "«σας» εσείς'i gösterir → emir kipi γράψτε.",
       "en": "«σας» shows εσείς → imperative γράψτε."
+     },
+     "sentence": {
+      "el": "Κύριε Παπαδόπουλε, **γράψτε** εδώ το όνομά σας, παρακαλώ.",
+      "tr": "Papadopulos Bey, lütfen adınızı buraya **yazın**.",
+      "en": "Mr Papadopoulos, please **write** your name here."
      }
     },
     {
@@ -8588,6 +9248,11 @@
       "el": "Απαγόρευση = μη(ν) + υποτακτική· πριν από φωνήεν το -ν μένει: μην ανοίξεις.",
       "tr": "Yasak = μη(ν) + υποτακτική; ünlüden önce -ν kalır: μην ανοίξεις.",
       "en": "Prohibition = μη(ν) + subjunctive; before a vowel the -ν stays: μην ανοίξεις."
+     },
+     "sentence": {
+      "el": "**Μην ανοίξεις** την πόρτα!",
+      "tr": "Kapıyı **açma**!",
+      "en": "**Don't open** the door!"
      }
     },
     {
@@ -8623,6 +9288,11 @@
       "el": "Προστακτική για εσύ: ρώτησε (για εσείς: ρωτήστε).",
       "tr": "εσύ için emir kipi: ρώτησε (εσείς için: ρωτήστε).",
       "en": "Imperative for εσύ: ρώτησε (for εσείς: ρωτήστε)."
+     },
+     "sentence": {
+      "el": "**Ρώτησε** τον υπάλληλο για τα έγγραφα.",
+      "tr": "Belgeleri memura **sor**.",
+      "en": "**Ask** the clerk about the documents."
      }
     },
     {
@@ -8658,6 +9328,11 @@
       "el": "Μετά το θέλω → να + υποτακτική: θέλω να μάθω.",
       "tr": "θέλω'den sonra → να + υποτακτική: θέλω να μάθω.",
       "en": "After θέλω → να + subjunctive: θέλω να μάθω."
+     },
+     "sentence": {
+      "el": "Θέλω **να μάθω** ελληνικά για να πάρω την ιθαγένεια.",
+      "tr": "Vatandaşlık alabilmek için Yunanca **öğrenmek** istiyorum.",
+      "en": "I want **to learn** Greek so that I can get citizenship."
      }
     },
     {
@@ -8693,6 +9368,11 @@
       "el": "Μετά το πρέπει → να + υποτακτική, εσύ: να γράψεις.",
       "tr": "πρέπει'den sonra → να + υποτακτική, εσύ: να γράψεις.",
       "en": "After πρέπει → να + subjunctive, εσύ: να γράψεις."
+     },
+     "sentence": {
+      "el": "Πρέπει **να γράψεις** το όνομά σου εδώ.",
+      "tr": "Adını buraya **yazman** gerekiyor.",
+      "en": "You **must write** your name here."
      }
     },
     {
@@ -8728,6 +9408,11 @@
       "el": "Σκοπός → για να + υποτακτική: για να δουλέψω.",
       "tr": "Amaç → για να + υποτακτική: για να δουλέψω.",
       "en": "Purpose → για να + subjunctive: για να δουλέψω."
+     },
+     "sentence": {
+      "el": "Ήρθα στην Ελλάδα **για να δουλέψω**.",
+      "tr": "Yunanistan'a **çalışmak için** geldim.",
+      "en": "I came to Greece **to work**."
      }
     },
     {
@@ -8763,6 +9448,11 @@
       "el": "Για πρόταση ή παράκληση χρησιμοποιούμε να + υποτακτική: Να σε ρωτήσω κάτι;",
       "tr": "Öneri ya da rica için να + υποτακτική kullanılır: Να σε ρωτήσω κάτι;",
       "en": "For an offer or polite request we use να + subjunctive: Να σε ρωτήσω κάτι;"
+     },
+     "sentence": {
+      "el": "**Να** σε ρωτήσω κάτι;",
+      "tr": "Sana bir şey **sorabilir miyim**?",
+      "en": "**May I** ask you something?"
      }
     },
     {
@@ -8798,6 +9488,11 @@
       "el": "Σειρά λέξεων: δεν + θα + ρήμα.",
       "tr": "Kelime sırası: δεν + θα + fiil.",
       "en": "Word order: δεν + θα + verb."
+     },
+     "sentence": {
+      "el": "**Δεν θα** έρθω αύριο.",
+      "tr": "Yarın **gelmeyeceğim**.",
+      "en": "I **will not** come tomorrow."
      }
     },
     {
@@ -8833,6 +9528,11 @@
       "el": "Μετά το να η άρνηση είναι μη(ν): να μην αργήσεις.",
       "tr": "να'dan sonra olumsuzluk μη(ν)'dir: να μην αργήσεις.",
       "en": "After να the negation is μη(ν): να μην αργήσεις."
+     },
+     "sentence": {
+      "el": "Σου είπα **να μην** αργήσεις!",
+      "tr": "Sana geç **kalmamanı** söyledim!",
+      "en": "I told you **not to** be late!"
      }
     },
     {
@@ -8868,6 +9568,11 @@
       "el": "Στην οριστική (κανονικοί χρόνοι) η άρνηση είναι δεν: δεν έγραψε.",
       "tr": "Οριστική'de (normal zamanlar) olumsuzluk δεν'dir: δεν έγραψε.",
       "en": "In the indicative (ordinary tenses) the negation is δεν: δεν έγραψε."
+     },
+     "sentence": {
+      "el": "Ο Νίκος **δεν έγραψε** το γράμμα χθες.",
+      "tr": "Nikos mektubu dün **yazmadı**.",
+      "en": "Nikos **didn't write** the letter yesterday."
      }
     },
     {
@@ -8903,6 +9608,11 @@
       "el": "Απαγόρευση = μη(ν) + υποτακτική (μη γράψεις)· η προστακτική δεν παίρνει άρνηση.",
       "tr": "Yasak = μη(ν) + υποτακτική (μη γράψεις); emir kipi olumsuz yapılmaz.",
       "en": "Prohibition = μη(ν) + subjunctive (μη γράψεις); the imperative is never negated."
+     },
+     "sentence": {
+      "el": "**Μη γράψεις** στο βιβλίο!",
+      "tr": "Kitaba **yazma**!",
+      "en": "**Don't write** in the book!"
      }
     },
     {
@@ -8938,6 +9648,11 @@
       "el": "Η προστακτική δεν παίρνει άρνηση· λέμε μη(ν) + υποτακτική: μη ρωτήσεις.",
       "tr": "Emir kipi olumsuz yapılmaz; μη(ν) + υποτακτική deriz: μη ρωτήσεις.",
       "en": "The imperative is never negated; we say μη(ν) + subjunctive: μη ρωτήσεις."
+     },
+     "sentence": {
+      "el": "**Μη ρωτήσεις** τον υπάλληλο!",
+      "tr": "Memura **sorma**!",
+      "en": "**Don't ask** the clerk!"
      }
     },
     {
@@ -8973,6 +9688,11 @@
       "el": "Κάτι που επαναλαμβάνεται → να + συνεχής όψη, εσύ: να διαβάζεις.",
       "tr": "Tekrarlanan şey → να + sürekli görünüş, εσύ: να διαβάζεις.",
       "en": "Something repeated → να + continuous aspect, εσύ: να διαβάζεις."
+     },
+     "sentence": {
+      "el": "Πρέπει **να διαβάζεις** λίγο κάθε μέρα.",
+      "tr": "Her gün biraz **okuman** gerekiyor.",
+      "en": "You **should read** a little every day."
      }
     },
     {
@@ -9008,6 +9728,11 @@
       "el": "να + θέμα ενεστώτα (να γράφω) = συνεχής όψη: κάτι που διαρκεί ή επαναλαμβάνεται.",
       "tr": "να + şimdiki zaman gövdesi (να γράφω) = sürekli görünüş: süren ya da tekrarlanan şey.",
       "en": "να + present stem (να γράφω) = continuous aspect: something lasting or repeated."
+     },
+     "sentence": {
+      "el": "Θέλω **να γράφω** στα ελληνικά κάθε μέρα.",
+      "tr": "Her gün Yunanca **yazmak** istiyorum.",
+      "en": "I want **to write** in Greek every day."
      }
     },
     {
@@ -9043,6 +9768,11 @@
       "el": "μπορώ + να + υποτακτική: μπορείς να ανοίξεις.",
       "tr": "μπορώ + να + υποτακτική: μπορείς να ανοίξεις.",
       "en": "μπορώ + να + subjunctive: μπορείς να ανοίξεις."
+     },
+     "sentence": {
+      "el": "Μπορείς **να ανοίξεις** το παράθυρο;",
+      "tr": "Pencereyi **açabilir misin**?",
+      "en": "Can you **open** the window?"
      }
     },
     {
@@ -9078,6 +9808,11 @@
       "el": "Μη(ν) + υποτακτική, εσύ: μην ξεχάσεις.",
       "tr": "Μη(ν) + υποτακτική, εσύ: μην ξεχάσεις.",
       "en": "Μη(ν) + subjunctive, εσύ: μην ξεχάσεις."
+     },
+     "sentence": {
+      "el": "**Μην ξεχάσεις** το διαβατήριο!",
+      "tr": "Pasaportu **unutma**!",
+      "en": "**Don't forget** the passport!"
      }
     },
     {
@@ -9113,6 +9848,11 @@
       "el": "Με το θα (οριστική) η άρνηση είναι δεν: δεν θα έρθει.",
       "tr": "θα ile (οριστική) olumsuzluk δεν'dir: δεν θα έρθει.",
       "en": "With θα (indicative) the negation is δεν: δεν θα έρθει."
+     },
+     "sentence": {
+      "el": "Η Ελένη **δεν** θα έρθει απόψε.",
+      "tr": "Eleni bu akşam **gelmeyecek**.",
+      "en": "Eleni **will not** come tonight."
      }
     },
     {
@@ -9148,6 +9888,11 @@
       "el": "να + μη(ν) + ρήμα: να μην πεις (πριν από π το -ν μένει).",
       "tr": "να + μη(ν) + fiil: να μην πεις (π'den önce -ν kalır).",
       "en": "να + μη(ν) + verb: να μην πεις (before π the -ν stays)."
+     },
+     "sentence": {
+      "el": "Είναι καλύτερα **να μην** πεις τίποτα στον διευθυντή.",
+      "tr": "Müdüre hiçbir şey **söylememen** daha iyi.",
+      "en": "It's better **not to** say anything to the director."
      }
     },
     {
@@ -9183,6 +9928,11 @@
       "el": "Προστακτική του θυμάμαι για εσύ: θυμήσου.",
       "tr": "θυμάμαι'nın εσύ için emir kipi: θυμήσου.",
       "en": "Imperative of θυμάμαι for εσύ: θυμήσου."
+     },
+     "sentence": {
+      "el": "**Θυμήσου** να κλειδώσεις την πόρτα!",
+      "tr": "Kapıyı kilitlemeyi **unutma**!",
+      "en": "**Remember** to lock the door!"
      }
     },
     {
@@ -9218,6 +9968,11 @@
       "el": "Προστακτική για εσείς: διαβάστε.",
       "tr": "εσείς için emir kipi: διαβάστε.",
       "en": "Imperative for εσείς: διαβάστε."
+     },
+     "sentence": {
+      "el": "Παιδιά, **διαβάστε** τις οδηγίες προσεκτικά!",
+      "tr": "Çocuklar, talimatları dikkatlice **okuyun**!",
+      "en": "Children, **read** the instructions carefully!"
      }
     },
     {
@@ -9253,6 +10008,11 @@
       "el": "Η συνεχής προστακτική (μίλα, γράφε) δείχνει κάτι διαρκές· η στιγμιαία (μίλησε) μία πράξη.",
       "tr": "Sürekli emir kipi (μίλα, γράφε) süren bir şeyi; anlık olan (μίλησε) tek bir eylemi gösterir.",
       "en": "The continuous imperative (μίλα, γράφε) shows something lasting; the simple one (μίλησε) one action."
+     },
+     "sentence": {
+      "el": "**Μίλα** πιο σιγά!",
+      "tr": "Daha sessiz **konuş**!",
+      "en": "**Speak** more quietly!"
      }
     },
     {
@@ -9288,6 +10048,11 @@
       "el": "Αόριστος (οριστική) → άρνηση με δεν: δεν πήγα.",
       "tr": "Αόριστος (οριστική) → δεν ile olumsuz: δεν πήγα.",
       "en": "Aorist (indicative) → negated with δεν: δεν πήγα."
+     },
+     "sentence": {
+      "el": "Χθες **δεν πήγα** στη δουλειά, γιατί ήμουν άρρωστος.",
+      "tr": "Dün işe **gitmedim**, çünkü hastaydım.",
+      "en": "Yesterday I **didn't go** to work, because I was ill."
      }
     },
     {
@@ -9323,6 +10088,11 @@
       "el": "Η απαγόρευση γίνεται με μη(ν) + υποτακτική: Μην καπνίζετε.",
       "tr": "Yasak μη(ν) + υποτακτική ile yapılır: Μην καπνίζετε.",
       "en": "Prohibition is formed with μη(ν) + subjunctive: Μην καπνίζετε."
+     },
+     "sentence": {
+      "el": "**Μην καπνίζετε** εδώ.",
+      "tr": "Burada sigara **içmeyin**.",
+      "en": "**Do not smoke** here."
      }
     }
    ]

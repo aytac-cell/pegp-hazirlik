@@ -196,6 +196,8 @@ def build_lessons(qmap):
                         and isinstance(x.get("answer"), int) and 0 <= x["answer"] < 4
                         and len({o["tr"].strip() for o in opts}) == 4 and len({o["el"].strip() for o in opts}) == 4):
                     errors.append(f"{w}: quiz[{qi}] malformed")
+                if x.get("sentence") is not None and not is_L(x["sentence"]):
+                    errors.append(f"{w}: quiz[{qi}] sentence needs el/tr/en")
             for i, b in enumerate(sec.get("blocks", [])):
                 bt = b.get("type")
                 bw = f"{w} block {i}"
