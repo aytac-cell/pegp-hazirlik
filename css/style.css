@@ -409,6 +409,22 @@ input[type="number"] { min-height: 42px; width: 110px; padding: .4rem .6rem; bor
 .mean-tr { color: var(--muted); margin-top: .2rem; }
 @media (max-width: 560px) { .quiz-card .quiz-prompt { padding-right: 0; padding-top: 2.2rem; } }
 
+/* ---------- roadmap ---------- */
+.road-next { border-left: 5px solid var(--primary); margin-bottom: 1rem; }
+.road-n { flex: none; width: 34px; height: 34px; border-radius: 50%; display: grid; place-items: center; font-weight: 700; font-size: .9rem; background: var(--surface-2); color: var(--muted); }
+.road-n.big { width: 52px; height: 52px; font-size: 1.3rem; background: var(--primary); color: var(--primary-ink); }
+.road-week { margin-bottom: .6rem; }
+.road-week summary { display: flex; align-items: center; gap: .4rem; cursor: pointer; }
+.road-list { display: grid; gap: .35rem; margin-top: .6rem; }
+.road-item { display: flex; align-items: center; gap: .7rem; padding: .5rem .6rem; border-radius: 10px; text-decoration: none; color: var(--text); border: 1.5px solid transparent; }
+.road-item:hover { background: var(--surface-2); }
+.road-item small { display: block; color: var(--muted); }
+.road-item.done .road-n { background: var(--ok); color: #fff; }
+.road-item.next { border-color: var(--warn); background: var(--warn-soft); }
+.road-item.next .road-n { background: var(--warn); color: #fff; }
+.road-t { flex: 1; }
+.road-extra { margin-top: .6rem; font-size: .88rem; display: flex; gap: .35rem; flex-wrap: wrap; align-items: center; }
+
 /* ---------- lessons ---------- */
 .lesson { max-width: 760px; margin: 0 auto; }
 .lesson-head .el-title { font-family: var(--font-el); color: var(--muted); font-size: 1.05rem; margin-top: -.2rem; }

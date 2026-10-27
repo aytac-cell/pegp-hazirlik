@@ -4,6 +4,7 @@
     "": Views.home,
     "study": Views.study,
     "learn": Views.learn,
+    "roadmap": () => Roadmap.view(),
     "words": p => window.WordsView(p),
     "browse": Views.browse,
     "exam": Views.exam,

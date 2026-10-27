@@ -1,7 +1,22 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.7.2";
+window.APP_VERSION = "1.8.0";
 window.APP_CHANGES = [
+  {
+    v: "1.8.0", date: "2026-10-27",
+    tr: [
+      "Yeni: Yol haritası — 66 ders tek sırada (Ders 1–66), kolaydan zora; 3 ay = 3 seviye, 12 hafta",
+      "Ana sayfanın en üstünde «Sıradaki ders» kartı; ilerleme 0/66",
+      "Ders sayfalarında «Ders N / 66»; bölüm sınavı geçilince doğrudan sıradaki derse geçilir",
+      "Her haftanın kelime grupları, cumartesi tekrarı ve 2. aydan itibaren deneme sınavları yol haritasında"
+    ],
+    en: [
+      "New: Roadmap — all 66 lessons in one order (Lesson 1–66), easy to hard; 3 months = 3 levels, 12 weeks",
+      "«Next lesson» card at the top of the home page; progress 0/66",
+      "Lesson pages show «Lesson N / 66»; passing the quiz goes straight to the next lesson",
+      "Each week's word groups, Saturday review and (from month 2) mock exams are on the roadmap"
+    ]
+  },
   {
     v: "1.7.2", date: "2026-10-27",
     tr: [

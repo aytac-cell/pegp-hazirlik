@@ -43,6 +43,7 @@
       .sort((a, b) => (b.st.wrong - a.st.wrong) || (b.st.lapses - a.st.lapses)).slice(0, 5);
 
     html(`
+      ${Roadmap.nextCard()}
       <section class="hero">
         <div class="card hero-main">
           <h1>${esc(t("heroTitle"))}</h1>
@@ -849,12 +850,19 @@
 
   function learnSection(subj, les, sec) {
     stopReader();
-    const idx = les.sections.indexOf(sec), prev = les.sections[idx - 1], next = les.sections[idx + 1];
+    const idx = les.sections.indexOf(sec);
+    // previous / next follow the numbered roadmap (Ders 1 … 66); sections outside it follow their subject
+    const road = Roadmap.neighbours(sec.id), lessonNo = Roadmap.numberOf(sec.id);
+    const link = id => id ? { id, href: `#/learn?s=${id.split("-")[0]}&sec=${id}` } : null;
+    const prev = road ? link(road.prev) : link(les.sections[idx - 1] && les.sections[idx - 1].id);
+    const next = road ? link(road.next) : link(les.sections[idx + 1] && les.sections[idx + 1].id);
     const qs = sec.questions.map(id => QS().find(q => q.id === id)).filter(Boolean);
     const drillable = qs.filter(usable);
     const quizRec = Store.data.quiz[sec.id];
     html(`<article class="lesson">
-      <div class="row small" style="margin-bottom:.6rem"><a href="#/learn">${esc(t("learnTitle"))}</a> › <a href="#/learn?s=${subj}">${esc(t("subj_" + subj))}</a> › <span class="muted">${idx + 1}/${les.sections.length}</span></div>
+      <div class="row small" style="margin-bottom:.6rem">${lessonNo
+        ? `<a href="#/roadmap">🗺️ ${esc(t("roadTitle"))}</a> › <b>${esc(t("roadLesson", { n: lessonNo }))}</b> <span class="muted">/ ${Roadmap.total()} · ${esc(t("subj_" + subj))}</span>`
+        : `<a href="#/learn">${esc(t("learnTitle"))}</a> › <a href="#/learn?s=${subj}">${esc(t("subj_" + subj))}</a> › <span class="muted">${idx + 1}/${les.sections.length}</span>`}</div>
       <div class="card">
         <div class="lesson-head"><h1${titleHtml(sec.title).mainLang || ""}>${sec.icon || ""} ${titleHtml(sec.title).main}</h1><div class="el-title"${titleHtml(sec.title).subLang || ""}>${titleHtml(sec.title).sub}</div></div>
         <div class="row" style="margin-top:.8rem;justify-content:space-between">${lessonLangSeg()}${LessonReader.supported() ? `<button class="btn btn-sm" type="button" id="listenBtn">🎧 ${esc(t("listenLesson"))}</button>` : ""}</div>
@@ -870,8 +878,8 @@
         ${sec.sources && sec.sources.length ? `<div class="sources">${esc(t("sourcesH"))}: ${sec.sources.map(u => /^https?:\/\//.test(u) ? `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\//, ""))}</a>` : esc(u)).join(" · ")}</div>` : ""}
       </div>
       <div class="lesson-nav">
-        ${prev ? `<a class="btn" href="#/learn?s=${subj}&sec=${prev.id}">${esc(t("prevSection"))}</a>` : "<span></span>"}
-        <span class="row">${Store.data.read[sec.id] && next ? `<a class="btn" href="#/learn?s=${subj}&sec=${next.id}">${esc(t("nextSection"))}</a>` : ""}
+        ${prev ? `<a class="btn" href="${prev.href}">${esc(t(lessonNo ? "roadPrev" : "prevSection"))}</a>` : "<span></span>"}
+        <span class="row">${Store.data.read[sec.id] && next ? `<a class="btn" href="${next.href}">${esc(t(lessonNo ? "roadNextBtn" : "nextSection"))}</a>` : ""}
         <button class="btn btn-primary" id="quizBtn" disabled>🔒 ${esc(t("quizLocked"))}</button></span>
       </div>
       <p class="small muted" style="margin-top:1rem">${esc(t("learnNote"))}</p>
@@ -908,7 +916,7 @@
         les, sec,
         onPass() {
           Store.data.read[sec.id] = Date.now(); Store.save();
-          location.hash = next ? `#/learn?s=${subj}&sec=${next.id}` : `#/learn?s=${subj}`;
+          location.hash = next ? next.href : (lessonNo ? "#/roadmap" : `#/learn?s=${subj}`);
         },
         onFail() {
           // not passed: the section counts as unread until the quiz is passed after re-reading

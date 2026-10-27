@@ -6,6 +6,13 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.8.0 (2026-10-27)
+
+- **Yeni: Yol haritası.** 66 ders tek sırada (Ders 1–66), kolaydan zora. 3 ay = 3 seviye, toplam 12 hafta.
+- Ana sayfanın en üstünde «Sıradaki ders» kartı ve 0/66 ilerleme göstergesi var.
+- Ders sayfalarında «Ders N / 66» yazıyor. Bölüm sınavı geçilince doğrudan sıradaki derse geçiliyor.
+- Yol haritasında her haftanın kelime grupları, cumartesi tekrarı ve 2. aydan itibaren deneme sınavları da yer alıyor.
+
 ## 1.7.2 (2026-10-27)
 
 - Çekim tablolarında her hâlin altına Türkçe soru kalıbı ve kullanım notu eklendi. Örnekler: "kimin? neyin?", "«kime?» anlamında -e", "σε/από/για'dan sonra -e/-de/-den".
