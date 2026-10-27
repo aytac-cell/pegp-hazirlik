@@ -1,5 +1,5 @@
 // Offline support: app shell is cached on install; fonts are cached as they are used.
-const VERSION = "pegp-1.7.1";   // keep in step with js/version.js
+const VERSION = "pegp-1.7.2";   // keep in step with js/version.js
 const SHELL = [
   "./", "index.html", "css/style.css", "manifest.webmanifest",
   "js/version.js", "js/i18n.js", "js/store.js", "js/voices.js", "js/srs.js", "js/map.js", "js/cards.js", "js/grammar.js", "js/quiz.js", "js/reader.js", "js/views.js", "js/words.js", "js/app.js",
@@ -8,7 +8,8 @@ const SHELL = [
 ];
 
 self.addEventListener("install", e => {
-  e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  // cache: "reload" — take every file fresh from the server, never from the browser's HTTP cache
+  e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL.map(u => new Request(u, { cache: "reload" })))).then(() => self.skipWaiting()));
 });
 
 self.addEventListener("activate", e => {

@@ -350,6 +350,7 @@ input[type="number"] { min-height: 42px; width: 110px; padding: .4rem .6rem; bor
 .table.infl { max-width: 520px; }
 .table.infl td { font-family: var(--font-el); font-size: 1rem; }
 .table.infl th { text-transform: none; letter-spacing: 0; font-size: .82rem; }
+.case-note { display: block; font-weight: 400; color: var(--muted); font-size: .72rem; line-height: 1.35; margin-top: .2rem; max-width: 230px; }
 .el-h { display: block; font-family: var(--font-el); font-weight: 400; color: var(--muted); font-size: .78rem; }
 .conj-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: .5rem; }
 .conj-card { background: var(--surface-2); border-radius: 10px; padding: .55rem .7rem; }

@@ -16,7 +16,7 @@
   function decl(sg, pl) {
     return `<div class="infl-wrap"><table class="table infl">
       <thead><tr><th></th><th>${esc(t("sg"))} <span class="el-h" lang="el">ενικός</span></th><th>${esc(t("pl"))} <span class="el-h" lang="el">πληθυντικός</span></th></tr></thead>
-      <tbody>${CASES.map((k, i) => `<tr><th>${esc(t(k))}<span class="el-h" lang="el">${CASE_EL[i]}</span></th><td lang="el">${esc(sg[i])}</td><td lang="el">${esc(pl[i])}</td></tr>`).join("")}</tbody>
+      <tbody>${CASES.map((k, i) => `<tr><th>${esc(t(k))}<span class="el-h" lang="el">${CASE_EL[i]}</span><span class="case-note">${esc(t(k + "_note"))}</span></th><td lang="el">${esc(sg[i])}</td><td lang="el">${esc(pl[i])}</td></tr>`).join("")}</tbody>
     </table></div>`;
   }
 

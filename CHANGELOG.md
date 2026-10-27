@@ -6,6 +6,11 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.7.2 (2026-10-27)
+
+- Çekim tablolarında her hâlin altına Türkçe soru kalıbı ve kullanım notu eklendi. Örnekler: "kimin? neyin?", "«kime?» anlamında -e", "σε/από/για'dan sonra -e/-de/-den".
+- Yeni sürüm yüklendiğinde sayfa kendiliğinden bir kez yenilenir, eski dosyalar ekranda kalmaz.
+
 ## 1.7.1 (2026-10-27)
 
 - Dilbilgisi bölüm sınavlarında cevaptan sonra «🇹🇷 Türkçesi» butonu çıkıyor. Butona basınca cümlenin doğru cevapla tamamlanmış Yunancası (🔊 ile dinlenebilir) ve Türkçe anlamı açılıyor. Aynı bilgi yanlış cevaplar listesinde de görünüyor.

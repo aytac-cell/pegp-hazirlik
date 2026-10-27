@@ -1,7 +1,18 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.7.1";
+window.APP_VERSION = "1.7.2";
 window.APP_CHANGES = [
+  {
+    v: "1.7.2", date: "2026-10-27",
+    tr: [
+      "Çekim tablolarında her hâlin altına Türkçe soru kalıbı ve kullanım notu eklendi (kimin? neyin? · «kime?» anlamında -e; σε/από/για'dan sonra -e/-de/-den …)",
+      "Yeni sürüm yüklendiğinde sayfa kendiliğinden bir kez yenilenir; eski dosyalar ekranda kalmaz"
+    ],
+    en: [
+      "Declension tables: each case now shows its question words and a usage note (whose? · 'to whom'; after σε/από/για …)",
+      "When a new version is installed the page reloads once, so no outdated files stay on screen"
+    ]
+  },
   {
     v: "1.7.1", date: "2026-10-27",
     tr: ["Dilbilgisi bölüm sınavlarında cevaptan sonra «🇹🇷 Türkçesi» butonu: cümlenin doğru cevapla tamamlanmış Yunancası (🔊 ile dinlenebilir) ve Türkçe anlamı; yanlış cevap listesinde de görünür"],

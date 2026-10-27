@@ -61,6 +61,12 @@
   route();
 
   if ("serviceWorker" in navigator && location.protocol.startsWith("http")) {
-    window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+    window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").then(r => r.update()).catch(() => {}));
+    // when a new version's service worker takes over, reload once so no stale files stay on screen
+    let reloaded = false;
+    const hadController = !!navigator.serviceWorker.controller;
+    navigator.serviceWorker.addEventListener("controllerchange", () => {
+      if (hadController && !reloaded) { reloaded = true; location.reload(); }
+    });
   }
 })();
