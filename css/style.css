@@ -456,6 +456,21 @@ input[type="number"] { min-height: 42px; width: 110px; padding: .4rem .6rem; bor
 .lb-prev { left: 1rem; top: 50%; } .lb-next { right: 1rem; top: 50%; }
 @media (max-width: 560px) { .l-gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); } .l-cover .l-zoom { aspect-ratio: 16 / 9; } }
 
+/* ---------- bank questions in lessons ---------- */
+.bank-qs { border: 2px solid var(--primary); background: var(--primary-soft); border-radius: 12px; padding: .75rem .95rem; }
+.bank-qs h3 { color: var(--primary); margin-bottom: .2rem; }
+.bq-item { background: var(--surface); border-radius: 10px; padding: .6rem .8rem; margin-top: .6rem; }
+.bq-head { margin-bottom: .3rem; }
+.bq-head .pill { text-decoration: none; }
+.bq-q { margin-bottom: .3rem; }
+.bq-list { margin: .2rem 0 0; padding-left: 1.3rem; }
+.bq-list li + li { margin-top: .35rem; }
+.bq-ans { color: var(--ok); }
+.bq-el { display: block; font-family: var(--font-el); color: var(--muted); font-size: .9em; }
+.bq-tf { display: inline-block; font-weight: 700; font-size: .78rem; padding: 0 .4rem; border-radius: 6px; }
+.bq-tf.ok { background: var(--ok-soft); color: var(--ok); } .bq-tf.bad { background: var(--bad-soft); color: var(--bad); }
+.bq-a { margin-top: .2rem; }
+
 /* ---------- exam facts ---------- */
 .exam-facts { border: 2px solid var(--warn); background: var(--warn-soft); border-radius: 12px; padding: .75rem .95rem; }
 .exam-facts h3 { color: var(--warn); margin-bottom: .2rem; }

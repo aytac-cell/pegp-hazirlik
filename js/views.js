@@ -859,6 +859,56 @@
         <span class="tr-sub" lang="${tl}">${fmt(x[tl] || c(x))}</span>${x.note ? `<span class="ex-note">💡 ${fmt(x.note[tl] || c(x.note))}</span>` : ""}</li>`).join("")}</ul></div>`;
   }
 
+  // The section's official bank questions, taught with their answers (generated from the bank itself):
+  // fill-ins as completed sentences, true/false statements with ✓/✗, matching pairs, mc question → answer.
+  function bankQuestionsHtml(sec) {
+    const L = lessonLang(), greekFirst = L === "el" || L === "el+", tl = L === "tr" || L === "en" ? L : I18N.lang;
+    const B = s => `<b class="bq-ans">${esc(s)}</b>`;
+    // Greek line + translation line (translation hidden when reading in Greek only)
+    const pair = (elHtml, trHtml) => greekFirst
+      ? `<span lang="el">${elHtml}</span>${L === "el+" && trHtml ? `<span class="tr-sub">${trHtml}</span>` : ""}`
+      : `<span>${trHtml}</span>${elHtml ? `<span class="bq-el" lang="el">${elHtml}</span>` : ""}`;
+    const T = Lx => pair(esc(Lx.el), esc(Lx[tl] || c(Lx)));
+    // put each answer into its gap; if the text already has the answer's leading article ("ο ___" + "Ο Όθωνας"), don't repeat it
+    const fillLines = (text, answers, lang) => esc(text).replace(/(\S+)?(\s*)\((\d+)\)\s*_{2,}/g, (m, prev, sp, n) => {
+      const a = answers[+n - 1]; if (!a) return m;
+      let ans = a[lang] || a.el;
+      const words = ans.split(/\s+/);
+      if (prev && words.length > 1 && prev.toLocaleLowerCase("el") === words[0].toLocaleLowerCase("el")) ans = words.slice(1).join(" ");
+      return (prev || "") + sp + B(ans);
+    }).split("\n");
+    const qs = sec.questions.map(id => QS().find(q => q.id === id)).filter(Boolean);
+    if (!qs.length) return "";
+    const items = qs.map(q => {
+      let body = "";
+      if (q.type === "fill") {
+        const el = fillLines(q.text.el, q.answers, "el"), tr = fillLines(q.text[tl] || c(q.text), q.answers, tl);
+        body = `<ol class="bq-list">${el.map((line, i) => `<li>${pair(line, tr[i] || "")}</li>`).join("")}</ol>`;
+      } else if (q.type === "tf") {
+        body = `<ul class="bq-list">${q.items.map(it => `<li><span class="bq-tf ${it.answer ? "ok" : "bad"}">${it.answer ? "✓ " + esc(t("true")) : "✗ " + esc(t("false"))}</span> ${T(it.text)}</li>`).join("")}</ul>`;
+      } else if (q.type === "mc") {
+        const a = q.options[q.answer];
+        const gap = /_{3,}/;
+        body = gap.test(q.prompt.el)
+          // a question with a gap in its sentence: show the completed sentence
+          ? `<div class="bq-a">${pair(esc(q.prompt.el).replace(/_{3,}/, B(a.el)), esc(q.prompt[tl] || c(q.prompt)).replace(/_{3,}/, B(a[tl] || c(a))))}</div>`
+          : `<div class="bq-q">${T(q.prompt)}</div><div class="bq-a">→ ${pair(B(a.el), B(a[tl] || c(a)))}</div>`;
+      } else if (q.type === "match") {
+        body = `<div class="bq-q">${T(q.prompt)}</div><ul class="bq-list">${q.pairs.map(([l, r]) =>
+          `<li>${pair(`${esc(q.left[l].el)} → ${B(q.right[r].el)}`, `${esc(q.left[l][tl] || c(q.left[l]))} → ${B(q.right[r][tl] || c(q.right[r]))}`)}</li>`).join("")}</ul>`;
+      } else if (q.type === "open") {
+        body = `<div class="bq-q">${T(q.prompt)}</div>` + (q.items && q.items.length
+          ? `<ul class="bq-list">${q.items.map(x => `<li>${pair(B(x.el), B(x[tl] || c(x)))}</li>`).join("")}</ul>`
+          : `<div class="bq-a">→ ${T(q.answer)}</div>`);
+      } else if (q.type === "map") {
+        body = `<div class="bq-q">${T(q.prompt)}</div><ul class="bq-list">${q.places.map(p => `<li>📍 ${pair(B(p.name.el), B(p.name[tl] || c(p.name)))}</li>`).join("")}</ul>`;
+      }
+      return `<div class="bq-item"><div class="bq-head"><a class="pill" href="#/browse?id=${q.id}">${esc(t("subj_" + q.subject))} ${q.n}</a> <span class="small muted">${esc(t("type_" + q.type))}</span></div>
+        ${q.type === "fill" || q.type === "tf" ? `<div class="bq-q small muted">${T(q.prompt)}</div>` : ""}${body}</div>`;
+    }).join("");
+    return `<div class="bank-qs"><h3>📝 ${esc(t("bankQsH"))}</h3><p class="small muted">${esc(t("bankQsText"))}</p>${items}</div>`;
+  }
+
   function inflTitle(G) {
     const tr = lessonLang() === "el" ? "" : c(G);
     return `<span lang="el">${esc(G.el)}</span>${tr ? ` <span class="small muted" style="font-family:var(--font)">— ${esc(tr)}</span>` : ""}`;
@@ -906,7 +956,8 @@
         ${sec.cover ? figureHtml(sec.cover, "l-cover") : ""}
         <div class="row" style="margin-top:.8rem;justify-content:space-between">${lessonLangSeg()}${LessonReader.supported() ? `<button class="btn btn-sm" type="button" id="listenBtn">🎧 ${esc(t("listenLesson"))}</button>` : ""}</div>
         ${quizRec && quizRec.needReread ? `<div class="note" style="margin-top:.8rem">🔁 ${esc(t("quizRereadBanner", { s: quizRec.last, n: SectionQuiz.N, p: SectionQuiz.PASS }))}</div>` : ""}
-        <div class="lesson-body" style="margin-top:1rem">${sec.blocks.map(blockHtml).join("")}</div>
+        <div class="lesson-body" style="margin-top:1rem">${sec.blocks.filter(b => b.type !== "exam").map(blockHtml).join("")}
+          ${bankQuestionsHtml(sec)}${sec.blocks.filter(b => b.type === "exam").map(blockHtml).join("")}</div>
         <div id="readEnd" aria-hidden="true"></div>
         <div class="actions" style="margin-top:1.4rem">
           ${drillable.length ? `<a class="btn btn-primary" href="#/study?ids=${drillable.map(q => q.id).join(",")}&back=${encodeURIComponent(`#/learn?s=${subj}&sec=${sec.id}`)}">✎ ${esc(t("practiceSection", { n: drillable.length }))}</a>` : ""}

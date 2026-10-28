@@ -1,7 +1,20 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.9.0";
+window.APP_VERSION = "1.10.0";
 window.APP_CHANGES = [
+  {
+    v: "1.10.0", date: "2026-10-28",
+    tr: [
+      "Yeni: Her derste «📝 Bu dersin sınav soruları ve cevapları» — derse bağlı resmî soruların hepsi cevaplarıyla öğretiliyor",
+      "Boşluk doldurma soruları cevaplar yerine yerleştirilmiş tam cümleler olarak (Yunanca ve Türkçe), doğru/yanlış ifadeleri ✓/✗ ile, eşleştirmeler çiftler hâlinde",
+      "Cevabın Yunancası her zaman görünür"
+    ],
+    en: [
+      "New: «📝 This lesson's exam questions and answers» in every lesson — all official questions linked to the lesson, taught with their answers",
+      "Fill-ins shown as completed sentences (Greek and translation), true/false statements with ✓/✗, matchings as pairs",
+      "The Greek answer is always shown"
+    ]
+  },
   {
     v: "1.9.0", date: "2026-10-27",
     tr: [

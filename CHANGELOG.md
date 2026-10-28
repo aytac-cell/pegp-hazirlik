@@ -6,6 +6,15 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.10.0 (2026-10-28)
+
+- **Yeni:** Her derste «📝 Bu dersin sınav soruları ve cevapları» bölümü var. Derse bağlı resmî soruların hepsi cevaplarıyla öğretiliyor.
+- Gösterim, soru türüne göre:
+  - Boşluk doldurma soruları, cevaplar yerine yerleştirilmiş tam cümleler olarak (Yunanca ve Türkçe).
+  - Doğru/yanlış ifadeleri ✓/✗ ile.
+  - Eşleştirmeler çiftler hâlinde.
+- Cevabın Yunancası her zaman görünüyor.
+
 ## 1.9.0 (2026-10-27)
 
 - **Derslerde görseller:** 48 konu bölümüne toplam 317 görsel eklendi.
