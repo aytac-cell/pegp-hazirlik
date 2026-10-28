@@ -106,6 +106,7 @@
     let i = 0, score = 0;
     const wrong = [];
     const trLabel = trLang() === "en" ? "EN" : "TR";
+    const trKey = Store.setting("lessonLang") === "el" ? "elShowTr" : "quizShowTr";
     const setTr = show => {
       root.classList.toggle("hide-qtr", !show);
       root.querySelectorAll("[data-qtr]").forEach(b => b.setAttribute("aria-pressed", String(show)));
@@ -114,7 +115,8 @@
     root.addEventListener("click", e => {
       const b = e.target.closest("[data-qtr]"); if (!b) return;
       const show = b.getAttribute("aria-pressed") !== "true";
-      Store.setting("quizShowTr", show); setTr(show);
+      Store.setting(trKey, show); setTr(show);
+      if (window.App) App.syncElTr();
     });
     function show() {
       if (i >= qs.length) return finish();
@@ -124,7 +126,7 @@
         ${q.meaning ? `<div class="mean-box" hidden>${q.meaning}</div>` : ""}
         <div class="options">${q.opts.map((o, k) => `<button class="opt" type="button"><span class="letter">${L4[k]}</span><span>${o}</span></button>`).join("")}</div>
         <div class="actions"></div></article>`;
-      setTr(Store.setting("quizShowTr") === true);
+      setTr(Store.setting(trKey) === true);
       const btns = root.querySelectorAll(".opt"), actions = root.querySelector(".actions");
       const meanBtn = root.querySelector(".mean-btn"), meanBox = root.querySelector(".mean-box");
       if (meanBtn) meanBtn.addEventListener("click", () => {
@@ -160,7 +162,7 @@
           : `<button class="btn btn-primary" data-act="reread">📖 ${esc(t("quizReread"))}</button>`}</div>
         ${wrong.length ? `<div style="text-align:left;margin-top:1.2rem"><div class="row" style="justify-content:space-between"><h3 style="margin:0">${esc(t("quizReview"))}</h3>${trBtn()}</div>${wrong.map(q => `<div class="card" style="box-shadow:none;margin-top:.5rem;padding:.7rem .9rem"><div class="quiz-prompt small">${q.prompt}</div><div class="fix ok" style="margin-top:.3rem">✓ ${q.opts[q.ans]}</div>${q.explain ? `<div class="small muted" style="margin-top:.3rem">💡 ${q.explain}</div>` : ""}${q.meaning ? `<div class="mean-box" style="margin-top:.5rem">${q.meaning}</div>` : ""}</div>`).join("")}</div>` : ""}
       </div>`;
-      setTr(Store.setting("quizShowTr") === true);
+      setTr(Store.setting(trKey) === true);
       root.querySelector("[data-act]").addEventListener("click", e => (e.target.closest("[data-act]").dataset.act === "next" ? opts.onPass : opts.onFail)(score));
       root.scrollIntoView({ block: "start" });
     }

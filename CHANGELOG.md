@@ -6,6 +6,12 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.13.1 (2026-10-28)
+
+- Ders dili «Ελληνικά» seçiliyken her sayfanın sağ alt köşesinde sabit bir «TR» butonu var.
+  - Basınca bütün Yunanca metinlerin altında Türkçe çeviri açılır, tekrar basınca kapanır. Tercih hatırlanır.
+  - Bölüm sınavı sırasında basınca sınav baştan başlamaz; sadece çeviriler açılıp kapanır.
+
 ## 1.13.0 (2026-10-28)
 
 - **Bölüm sınavları Yunanca:** Soru, şıklar ve cevap sonrası açıklama, sınavdaki gibi Yunanca gösteriliyor.

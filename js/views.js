@@ -718,7 +718,8 @@
   // ======================= LESSONS =======================
   const LES = () => window.LESSONS || {};
   // lesson language: "tr" | "en" | "el" | "el+" (Greek with the interface-language translation under it)
-  const lessonLang = () => Store.setting("lessonLang") || I18N.lang;
+  // "el" with the page-wide translation button switched on reads like "el+" (Greek, translation under it)
+  const lessonLang = () => { const L = Store.setting("lessonLang") || I18N.lang; return L === "el" && Store.setting("elShowTr") === true ? "el+" : L; };
   const fmt = s => esc(s).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>");
   const plain = s => String(s || "").replace(/\*\*/g, "");
   // say = put a 🔊 right after the Greek sentence (before its translation line)
@@ -736,7 +737,7 @@
       ? ` <button class="speak" type="button" data-say="${esc(plain(T.el))}" aria-label="${esc(t("listen"))}">🔊</button>` : "";
   }
   function lessonLangSeg() {
-    const cur = lessonLang();
+    const cur = Store.setting("lessonLang") || I18N.lang;
     const opts = [["tr", "Türkçe"], ["en", "English"], ["el", "Ελληνικά"], ["el+", "Ελληνικά + " + (I18N.lang === "en" ? "EN" : "TR")]];
     return `<div class="row lesson-lang"><span class="small muted">${esc(t("lessonLang"))}</span>
       <div class="seg" id="lessonLang">${opts.map(([v, l]) => `<button type="button" data-v="${v}" aria-pressed="${v === cur}">${esc(l)}</button>`).join("")}</div></div>`;
@@ -747,6 +748,7 @@
       const b = e.target.closest("button"); if (!b) return;
       Store.setting("lessonLang", b.dataset.v);
       const y = window.scrollY; rerender(); window.scrollTo(0, y);
+      if (window.App) App.syncElTr();
     });
   }
   // one delegated listener for every lesson 🔊 button (views re-render, so don't bind per render)
@@ -893,7 +895,7 @@
     const qs = sec.questions.map(id => QS().find(q => q.id === id)).filter(Boolean);
     if (!qs.length) return "";
     // the translation can be hidden (read Greek only) and opened per question when needed
-    const showToggle = L !== "el", hideTr = showToggle && Store.setting("bqShowTr") !== true;
+    const showToggle = L !== "el", hideTr = showToggle && Store.setting("lessonLang") !== "el" && Store.setting("bqShowTr") !== true;
     const trLabel = (tl === "en" ? "EN" : "TR");
     const items = qs.map(q => {
       let body = "";

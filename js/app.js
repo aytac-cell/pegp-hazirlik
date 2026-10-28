@@ -30,6 +30,7 @@
     document.querySelectorAll("[data-nav]").forEach(a => a.classList.toggle("active", a.dataset.nav === navKey || (navKey === "browse" && a.dataset.nav === "home")));
     document.getElementById("app").focus({ preventScroll: true });
     if (name !== "browse") window.scrollTo(0, 0);
+    syncElTr();
   }
 
   function applySettings() {
@@ -56,8 +57,23 @@
     applySettings();
   });
 
+  // Greek-only lessons: one button on every page opens/closes the translation
+  const elTrBtn = document.getElementById("elTrBtn");
+  function syncElTr() {
+    elTrBtn.hidden = Store.setting("lessonLang") !== "el";
+    elTrBtn.setAttribute("aria-pressed", String(Store.setting("elShowTr") === true));
+    elTrBtn.textContent = (I18N.lang === "en" ? "EN" : "TR");
+    elTrBtn.title = I18N.t("trToggle");
+  }
+  elTrBtn.addEventListener("click", () => {
+    const quizBtn = document.querySelector("#app [data-qtr]");
+    if (quizBtn) { quizBtn.click(); return; }       // a quiz in progress: don't restart it
+    Store.setting("elShowTr", Store.setting("elShowTr") !== true);
+    const y = window.scrollY; route(); window.scrollTo(0, y); syncElTr();
+  });
+
   window.addEventListener("hashchange", route);
-  window.App = { applySettings: () => { applySettings(); } };
+  window.App = { applySettings: () => { applySettings(); syncElTr(); }, syncElTr };
   applySettings();
   route();
 
