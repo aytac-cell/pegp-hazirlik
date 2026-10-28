@@ -921,7 +921,12 @@
      "tr": "B. Yunanistan'da askerlik hizmeti hem erkekler hem de kadınlar için zorunludur.",
      "en": "B. Military service in Greece is compulsory for both men and women."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η στρατιωτική θητεία στην Ελλάδα είναι υποχρεωτική **μόνο για τους άνδρες**· οι γυναίκες μπορούν να υπηρετήσουν **εθελοντικά**.",
+     "tr": "Yunanistan'da askerlik hizmeti **yalnızca erkekler** için zorunludur; kadınlar **gönüllü olarak** hizmet edebilir.",
+     "en": "Military service in Greece is compulsory **only for men**; women may serve **voluntarily**."
+    }
    },
    {
     "text": {
@@ -929,7 +934,12 @@
      "tr": "C. Yunanistan'da askerlik hizmetinin süresi zorunlu olarak 24 aydır.",
      "en": "C. The duration of military service in Greece is compulsorily 24 months."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η στρατιωτική θητεία στην Ελλάδα **δεν** διαρκεί 24 μήνες· σήμερα είναι **πολύ μικρότερη** (κατά κανόνα **12 μήνες** ή λιγότερο).",
+     "tr": "Yunanistan'da askerlik hizmeti 24 ay **sürmez**; bugün **çok daha kısadır** (kural olarak **12 ay** veya daha az).",
+     "en": "Military service in Greece does **not** last 24 months; today it is **much shorter** (as a rule **12 months** or less)."
+    }
    },
    {
     "text": {
@@ -1022,7 +1032,12 @@
      "tr": "Aynaroz coğrafi olarak ülkenin güney kesiminde yer alır.",
      "en": "Mount Athos is geographically located in the southern part of the country."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Το Άγιο Όρος βρίσκεται στη **βόρεια Ελλάδα**, στη **Χαλκιδική** (Μακεδονία) — **όχι** στο νότιο τμήμα της χώρας.",
+     "tr": "Aynaroz ülkenin güneyinde **değil**, **kuzey Yunanistan**'da, **Halkidiki**'dedir (Makedonya).",
+     "en": "Mount Athos is in **northern Greece**, in **Chalkidiki** (Macedonia) — **not** in the southern part of the country."
+    }
    }
   ]
  },
@@ -2098,7 +2113,12 @@
      "tr": "Bir kişinin dinî inançları, bireysel ve siyasi haklarının bir kısmını etkileyebilir",
      "en": "A person's religious beliefs may affect some of his or her individual and political rights"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Σύμφωνα με το Σύνταγμα, η απόλαυση των ατομικών και πολιτικών δικαιωμάτων **δεν εξαρτάται** από τις **θρησκευτικές πεποιθήσεις** του καθενός.",
+     "tr": "Anayasaya göre bireysel ve siyasi haklardan yararlanmak kişinin **dinî inançlarına bağlı değildir**.",
+     "en": "Under the Constitution, the enjoyment of individual and political rights **does not depend** on a person's **religious beliefs**."
+    }
    },
    {
     "text": {
@@ -2106,7 +2126,12 @@
      "tr": "Yetişkinler arasındaki bir evliliğin geçerli olması için ebeveynlerinin/vasilerinin rıza göstermiş olması gerekir.",
      "en": "For a marriage between adults to be valid, their parents/guardians must have consented."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Για τον γάμο μεταξύ ενηλίκων **δεν χρειάζεται** η συναίνεση των γονέων/κηδεμόνων· αρκεί η **συναίνεση των ίδιων των μελλονύμφων**.",
+     "tr": "Yetişkinler arasındaki evlilik için ebeveyn/vasi rızası **gerekmez**; **evlenecek kişilerin kendi rızası** yeterlidir.",
+     "en": "For a marriage between adults the consent of parents/guardians is **not needed**; the **consent of the spouses themselves** is enough."
+    }
    },
    {
     "text": {
@@ -2162,7 +2187,12 @@
      "tr": "Eyleminin hukuka aykırı olduğunu bilmiyorduysa.",
      "en": "If he did not know that his act was unlawful."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η **άγνοια** του παράνομου χαρακτήρα της πράξης **δεν** δίνει δικαίωμα άρνησης πληρωμής του προστίμου· άρνηση επιτρέπεται μόνο αν το πρόστιμο επιβλήθηκε **προφορικά** ή με **ανεπαρκή αιτιολογία**.",
+     "tr": "Eylemin hukuka aykırı olduğunu **bilmemek**, cezayı ödememe hakkı **vermez**; ödeme ancak ceza **sözlü** olarak veya **yetersiz gerekçeyle** verildiyse reddedilebilir.",
+     "en": "**Not knowing** that the act was unlawful does **not** give a right to refuse to pay the fine; one may refuse only if the fine was imposed **orally** or with **inadequate reasoning**."
+    }
    },
    {
     "text": {
@@ -2170,7 +2200,12 @@
      "tr": "Yetkili bir memurdan ödeme yapması gerekmediğine dair güvence almışsa.",
      "en": "If he had been assured by a competent official that he did not have to pay."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η **διαβεβαίωση** ενός υπαλλήλου ότι δεν απαιτείται πληρωμή **δεν** δίνει δικαίωμα άρνησης πληρωμής του προστίμου· άρνηση επιτρέπεται μόνο αν το πρόστιμο επιβλήθηκε **προφορικά** ή με **ανεπαρκή αιτιολογία**.",
+     "tr": "Bir memurun ödeme gerekmediğine dair **güvencesi**, cezayı ödememe hakkı **vermez**; ödeme ancak ceza **sözlü** olarak veya **yetersiz gerekçeyle** verildiyse reddedilebilir.",
+     "en": "An official's **assurance** that no payment is required does **not** give a right to refuse to pay the fine; one may refuse only if the fine was imposed **orally** or with **inadequate reasoning**."
+    }
    }
   ]
  },
@@ -2328,7 +2363,12 @@
      "tr": "Bir kısım vatandaş tarafından dinî duygularını incittiği düşünüldüğü için bir kurgu kitabının dağıtımının yasaklanması",
      "en": "Banning the circulation of a work of fiction because some citizens considered that it offends their religious feelings"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η κυκλοφορία ενός βιβλίου μυθοπλασίας **δεν** μπορεί να απαγορευτεί επειδή μερίδα πολιτών θεωρεί ότι προσβάλλει το θρησκευτικό τους αίσθημα· η τέχνη είναι **ελεύθερη** (άρθρο 16 του Συντάγματος).",
+     "tr": "Bir kurgu kitabının dağıtımı, bir kısım vatandaş dinî duygularını incittiğini düşündüğü için **yasaklanamaz**; sanat **özgürdür** (Anayasa madde 16).",
+     "en": "The circulation of a work of fiction **cannot** be banned because some citizens consider that it offends their religious feelings; art is **free** (Article 16 of the Constitution)."
+    }
    },
    {
     "text": {
@@ -2368,7 +2408,12 @@
      "tr": "Yükseköğretim hariç eğitim",
      "en": "Education, excluding higher education"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η παιδεία παρέχεται δωρεάν **σε όλες τις βαθμίδες**, **και στην ανώτατη εκπαίδευση**.",
+     "tr": "Eğitim **tüm kademelerde**, **yükseköğretim dahil** ücretsiz sağlanır.",
+     "en": "Education is provided free of charge **at all levels**, **including higher education**."
+    }
    },
    {
     "text": {
@@ -2392,7 +2437,12 @@
      "tr": "Tüm emekliler için ilaçlar",
      "en": "Medicines for all pensioners"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Τα φάρμακα **δεν** παρέχονται δωρεάν σε όλους τους συνταξιούχους· δωρεάν φαρμακευτική κάλυψη έχουν οι **ευάλωτες κοινωνικές ομάδες**.",
+     "tr": "İlaçlar tüm emeklilere **ücretsiz verilmez**; ücretsiz ilaç güvencesi **savunmasız sosyal gruplara** sağlanır.",
+     "en": "Medicines are **not** free for all pensioners; free pharmaceutical coverage is given to **vulnerable social groups**."
+    }
    }
   ]
  },
@@ -2424,7 +2474,12 @@
      "tr": "AB kurallarına göre, uyruğunda olduğu devletten farklı bir üye devlette çalışan bir Avrupa vatandaşı, o ülkenin vatandaşlarından farklı koşullarla vergilendirilir",
      "en": "Under EU rules, a European citizen working in a member state other than that of his or her nationality is taxed on different terms from the nationals of that country"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Σύμφωνα με τους κανόνες της ΕΕ, ένας Ευρωπαίος πολίτης που εργάζεται σε άλλο κράτος-μέλος φορολογείται **με τους ίδιους όρους** με τους υπηκόους της χώρας αυτής.",
+     "tr": "AB kurallarına göre başka bir üye devlette çalışan bir Avrupa vatandaşı, o ülkenin vatandaşlarıyla **aynı koşullarla** vergilendirilir.",
+     "en": "Under EU rules, a European citizen working in another member state is taxed **on the same terms** as the nationals of that country."
+    }
    },
    {
     "text": {
@@ -2432,7 +2487,12 @@
      "tr": "Yunanistan'da evlenmiş (dinî veya medeni nikâhla) ya da birlikte yaşama sözleşmesi yapmış çiftler ortak vergi beyannamesi vermek zorundadır",
      "en": "In Greece, couples who are married (religious or civil ceremony) or have a cohabitation agreement must file a joint tax return"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Στην Ελλάδα τα έγγαμα ζευγάρια ή όσοι έχουν σύμφωνο συμβίωσης **δεν οφείλουν** να καταθέτουν κοινή φορολογική δήλωση· μπορούν να υποβάλουν **χωριστές δηλώσεις**.",
+     "tr": "Yunanistan'da evli çiftler veya birlikte yaşama sözleşmesi yapmış olanlar ortak vergi beyannamesi vermek **zorunda değildir**; **ayrı beyanname** verebilirler.",
+     "en": "In Greece, married couples or those with a cohabitation agreement are **not obliged** to file a joint tax return; they may file **separate returns**."
+    }
    },
    {
     "text": {
@@ -2501,7 +2561,12 @@
      "tr": "Avrupa Birliği'ne üye devletlerin vatandaşları Birliğin başka bir devletinde sınırlama olmaksızın ikamet edemezler",
      "en": "Citizens of the states belonging to the European Union cannot reside without restriction in another state of the Union"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Οι πολίτες των κρατών της Ευρωπαϊκής Ένωσης έχουν δικαίωμα να **κυκλοφορούν** και να **διαμένουν ελεύθερα** σε άλλο κράτος της Ένωσης.",
+     "tr": "Avrupa Birliği'ne üye devletlerin vatandaşları Birliğin başka bir devletinde **serbestçe dolaşma** ve **ikamet etme** hakkına sahiptir.",
+     "en": "Citizens of the states of the European Union have the right to **move** and **reside freely** in another state of the Union."
+    }
    },
    {
     "text": {
@@ -2509,7 +2574,12 @@
      "tr": "Avrupa Birliği federal bir devlettir",
      "en": "The European Union is a federal state"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Ευρωπαϊκή Ένωση **δεν** είναι ομοσπονδιακό κράτος· είναι **ένωση κυρίαρχων κρατών-μελών**.",
+     "tr": "Avrupa Birliği federal bir devlet **değildir**; **egemen üye devletlerin birliğidir**.",
+     "en": "The European Union is **not** a federal state; it is a **union of sovereign member states**."
+    }
    },
    {
     "text": {
@@ -2549,7 +2619,12 @@
      "tr": "halk tarafından seçilir",
      "en": "is elected by the people"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Ο Πρόεδρος της Βουλής εκλέγεται **από τους βουλευτές** — **όχι** από τον λαό.",
+     "tr": "Parlamento Başkanı halk tarafından **değil**, **milletvekilleri tarafından** seçilir.",
+     "en": "The Speaker of Parliament is elected **by the MPs** — **not** by the people."
+    }
    },
    {
     "text": {
@@ -2565,7 +2640,12 @@
      "tr": "Cumhurbaşkanının 3 günden fazla yurt dışında bulunması hâlinde ona vekâlet eder",
      "en": "deputises for the President of the Republic during an absence abroad of more than 3 days"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Ο Πρόεδρος της Βουλής αναπληρώνει τον/την Πρόεδρο της Δημοκρατίας όταν απουσιάζει στο εξωτερικό **πάνω από 10 ημέρες** — **όχι** 3.",
+     "tr": "Parlamento Başkanı, Cumhurbaşkanı **10 günden fazla** yurt dışında bulunduğunda ona vekâlet eder — 3 gün **değil**.",
+     "en": "The Speaker of Parliament deputises for the President of the Republic during an absence abroad of **more than 10 days** — **not** 3."
+    }
    },
    {
     "text": {
@@ -2573,7 +2653,12 @@
      "tr": "Cumhurbaşkanından sonraki ikinci devlet makamıdır",
      "en": "is the second-highest office of state after the President of the Republic"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Κατά την τράπεζα θεμάτων, ο Πρόεδρος της Βουλής **δεν** είναι το δεύτερο πολιτειακό αξίωμα· είναι ο επικεφαλής της **Βουλής**, που **διευθύνει τις εργασίες της** και την **εκπροσωπεί**.",
+     "tr": "Soru bankasına göre Parlamento Başkanı ikinci devlet makamı **değildir**; **Parlamento**'nun başıdır, **çalışmalarını yönetir** ve onu **temsil eder**.",
+     "en": "According to the question bank, the Speaker of Parliament is **not** the second office of state; he or she heads **Parliament**, **directs its proceedings** and **represents** it."
+    }
    }
   ]
  },

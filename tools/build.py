@@ -49,6 +49,10 @@ def check(q):
             check_L(qid, it.get("text"), f"items[{i}].text")
             if not isinstance(it.get("answer"), bool):
                 err(qid, f"items[{i}].answer not bool")
+            elif it["answer"] is False and not is_L(it.get("fix")):
+                err(qid, f"items[{i}] is false but has no correct version (fix)")
+            elif it["answer"] is True and it.get("fix") is not None:
+                err(qid, f"items[{i}] is true but has a fix")
     elif t == "match":
         left, right, pairs = q.get("left") or [], q.get("right") or [], q.get("pairs") or []
         for i, o in enumerate(left):

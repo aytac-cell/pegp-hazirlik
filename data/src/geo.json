@@ -369,7 +369,12 @@
      "tr": "Alonisos deniz parkında caretta caretta deniz kaplumbağası ürer",
      "en": "The loggerhead sea turtle (Caretta caretta) breeds in the marine park of Alonissos"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η χελώνα καρέτα καρέτα αναπαράγεται κυρίως στη **Ζάκυνθο** (κόλπος του Λαγανά)· το θαλάσσιο πάρκο της **Αλοννήσου** είναι καταφύγιο της **μεσογειακής φώκιας (Monachus monachus)**.",
+     "tr": "Caretta caretta kaplumbağası esas olarak **Zakintos**'ta (Laganas Körfezi) ürer; **Alonisos** deniz parkı ise **Akdeniz foku (Monachus monachus)** için bir sığınaktır.",
+     "en": "The loggerhead turtle (Caretta caretta) breeds mainly on **Zakynthos** (Laganas Bay); the **Alonissos** marine park is a refuge of the **Mediterranean monk seal (Monachus monachus)**."
+    }
    }
   ]
  },
@@ -1667,7 +1672,12 @@
      "tr": "Yunanistan'da yıllık en çok yağış alan bölge Ege Adalarıdır",
      "en": "The area of Greece that receives the most rainfall each year is the Aegean Islands"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Τις περισσότερες βροχοπτώσεις ετησίως δέχεται η **δυτική Ελλάδα** (Ήπειρος, Ιόνια Νησιά και δυτικά ορεινά) — **όχι** τα Νησιά του Αιγαίου, που είναι από τις πιο ξηρές περιοχές.",
+     "tr": "Yunanistan'da yıllık en çok yağışı **batı Yunanistan** (Epir, İyon Adaları ve batıdaki dağlık kesim) alır — en kurak yerlerden olan Ege Adaları **değil**.",
+     "en": "The area of Greece that receives the most rainfall each year is **western Greece** (Epirus, the Ionian Islands and the western mountains) — **not** the Aegean Islands, which are among the driest areas."
+    }
    },
    {
     "text": {
@@ -1691,7 +1701,12 @@
      "tr": "Yazın Ege Denizi'nde Livas rüzgârı eser",
      "en": "In summer the Livas wind blows over the Aegean Sea"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Το καλοκαίρι στο Αιγαίο Πέλαγος φυσούν τα **μελτέμια**, βόρειοι άνεμοι — **όχι** ο Λίβας.",
+     "tr": "Yazın Ege Denizi'nde kuzeyli rüzgârlar olan **meltemler** eser — Livas **değil**.",
+     "en": "In summer the **meltemi**, northerly winds, blow over the Aegean Sea — **not** the Livas."
+    }
    }
   ]
  },
@@ -1797,7 +1812,12 @@
      "tr": "Pagasitikos Körfezi midye çiftlikleriyle ünlüdür",
      "en": "The Pagasetic Gulf is famous for its mussel farms"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Για τις **μυδοκαλλιέργειες** φημίζεται ο **Θερμαϊκός Κόλπος** (Θεσσαλονίκη)· ο Παγασητικός, κατά την τράπεζα θεμάτων, δεν φημίζεται γι' αυτές.",
+     "tr": "**Midye çiftlikleriyle** ünlü olan **Thermaikos Körfezi**'dir (Selanik); soru bankasına göre Pagasitikos Körfezi bununla ünlü değildir.",
+     "en": "The gulf famous for its **mussel farms** is the **Thermaic Gulf** (Thessaloniki); according to the question bank the Pagasetic Gulf is not famous for them."
+    }
    },
    {
     "text": {
@@ -1849,7 +1869,12 @@
      "tr": "Beotya Bölgesel Biriminin başkenti Thiva'dır",
      "en": "The capital of the Regional Unit of Boeotia is Thebes"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Περιφερειακή Ενότητα Βοιωτίας έχει πρωτεύουσα τη **Λιβαδειά** — **όχι** τη Θήβα.",
+     "tr": "Beotya Bölgesel Biriminin başkenti **Livadia**'dır — Thiva **değil**.",
+     "en": "The capital of the Regional Unit of Boeotia is **Livadeia** — **not** Thebes."
+    }
    },
    {
     "text": {
@@ -1893,7 +1918,12 @@
      "tr": "Gavdos, Yunanistan'ın en doğudaki adasıdır",
      "en": "Gavdos is the easternmost island of Greece"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Γαύδος είναι το **νοτιότερο** νησί της Ελλάδας· το ανατολικότερο σημείο είναι το **Καστελλόριζο (Μεγίστη)**.",
+     "tr": "Gavdos, Yunanistan'ın en **güneydeki** adasıdır; en doğudaki nokta **Meis (Megisti)**'tir.",
+     "en": "Gavdos is the **southernmost** island of Greece; the easternmost point is **Kastellorizo (Megisti)**."
+    }
    },
    {
     "text": {
@@ -1937,7 +1967,12 @@
      "tr": "Sporadlar Bölgesel Birimi, Orta Makedonya Bölgesine bağlıdır",
      "en": "The Regional Unit of the Sporades belongs to the Region of Central Macedonia"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Περιφερειακή Ενότητα Σποράδων ανήκει στην Περιφέρεια **Θεσσαλίας** — **όχι** στην Κεντρική Μακεδονία.",
+     "tr": "Sporadlar Bölgesel Birimi **Teselya** Bölgesine bağlıdır — Orta Makedonya'ya **değil**.",
+     "en": "The Regional Unit of the Sporades belongs to the Region of **Thessaly** — **not** Central Macedonia."
+    }
    },
    {
     "text": {
@@ -1997,7 +2032,12 @@
      "tr": "Yunanistan güneybatı Avrupa'da yer alır",
      "en": "Greece is located in south-western Europe"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Ελλάδα βρίσκεται στη **νοτιοανατολική** Ευρώπη.",
+     "tr": "Yunanistan **güneydoğu** Avrupa'da yer alır.",
+     "en": "Greece is located in **south-eastern** Europe."
+    }
    },
    {
     "text": {
@@ -2049,7 +2089,12 @@
      "tr": "Hidra İyon Denizi'ndedir",
      "en": "Hydra is in the Ionian Sea"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Ύδρα **δεν** βρίσκεται στο Ιόνιο· είναι νησί του **Αιγαίου** (Αργοσαρωνικός).",
+     "tr": "Hidra İyon Denizi'nde **değildir**; **Ege**'de (Argosaronik) bir adadır.",
+     "en": "Hydra is **not** in the Ionian Sea; it is an **Aegean** island (Argo-Saronic)."
+    }
    },
    {
     "text": {
@@ -2109,7 +2154,12 @@
      "tr": "Koronia Gölü Mora'dadır",
      "en": "Lake Koroneia is in the Peloponnese"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η λίμνη Κορώνεια βρίσκεται στη **Μακεδονία**, στην Περιφερειακή Ενότητα **Θεσσαλονίκης** — **όχι** στην Πελοπόννησο.",
+     "tr": "Koronia Gölü Mora'da **değil**, **Makedonya**'da, **Selanik** Bölgesel Birimindedir.",
+     "en": "Lake Koroneia is in **Macedonia**, in the Regional Unit of **Thessaloniki** — **not** in the Peloponnese."
+    }
    },
    {
     "text": {
@@ -2145,7 +2195,12 @@
      "tr": "Skopelos, Kiklad Adaları'na aittir",
      "en": "Skopelos belongs to the Cyclades"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Σκόπελος ανήκει στις **Βόρειες Σποράδες** — **όχι** στις Κυκλάδες.",
+     "tr": "Skopelos **Kuzey Sporadlar**'a aittir — Kiklad Adaları'na **değil**.",
+     "en": "Skopelos belongs to the **Northern Sporades** — **not** the Cyclades."
+    }
    },
    {
     "text": {
@@ -2153,7 +2208,12 @@
      "tr": "Amorgos, İyon Adaları'na aittir",
      "en": "Amorgos belongs to the Ionian Islands"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Αμοργός ανήκει στις **Κυκλάδες** — **όχι** στα Ιόνια νησιά.",
+     "tr": "Amorgos **Kiklad Adaları**'na aittir — İyon Adaları'na **değil**.",
+     "en": "Amorgos belongs to the **Cyclades** — **not** the Ionian Islands."
+    }
    },
    {
     "text": {
@@ -2221,7 +2281,12 @@
      "tr": "Vardar Nehri İyon Denizi'ne dökülür",
      "en": "The Axios River flows into the Ionian Sea"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Ο ποταμός Αξιός εκβάλλει στον **Θερμαϊκό Κόλπο** (Αιγαίο Πέλαγος) — **όχι** στο Ιόνιο.",
+     "tr": "Vardar Nehri **Thermaikos Körfezi**'ne (Ege Denizi) dökülür — İyon Denizi'ne **değil**.",
+     "en": "The Axios River flows into the **Thermaic Gulf** (Aegean Sea) — **not** the Ionian Sea."
+    }
    }
   ]
  },
@@ -2301,7 +2366,12 @@
      "tr": "Vardar Nehri Yunanistan'dan doğar",
      "en": "The Axios River has its source in Greece"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Ο ποταμός Αξιός **δεν** πηγάζει από την Ελλάδα· πηγάζει από τη **Βόρεια Μακεδονία**.",
+     "tr": "Vardar Nehri Yunanistan'dan **doğmaz**; **Kuzey Makedonya**'da doğar.",
+     "en": "The Axios River does **not** rise in Greece; it rises in **North Macedonia**."
+    }
    },
    {
     "text": {
@@ -2309,7 +2379,12 @@
      "tr": "Nestos Nehri, Doğu Makedonya-Trakya ile Orta Makedonya Bölgeleri arasındaki doğal sınırı oluşturur",
      "en": "The Nestos River forms the natural boundary between the Regions of Eastern Macedonia-Thrace and Central Macedonia"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Ο ποταμός Νέστος είναι το φυσικό όριο ανάμεσα στη **Μακεδονία** και τη **Θράκη** (Π.Ε. Καβάλας και Ξάνθης), μέσα στην ίδια Περιφέρεια **Ανατολικής Μακεδονίας-Θράκης**.",
+     "tr": "Nestos Nehri, aynı **Doğu Makedonya-Trakya** Bölgesi içinde, **Makedonya** ile **Trakya** (Kavala ve İskeçe Bölgesel Birimleri) arasındaki doğal sınırdır.",
+     "en": "The Nestos River is the natural boundary between **Macedonia** and **Thrace** (Regional Units of Kavala and Xanthi), within the same Region of **Eastern Macedonia-Thrace**."
+    }
    },
    {
     "text": {
@@ -2325,7 +2400,12 @@
      "tr": "Meriç Nehri, tüm uzunluğu boyunca Yunanistan ile Türkiye arasındaki doğal sınırı oluşturur",
      "en": "The Evros River forms the natural border between Greece and Turkey along its entire length"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Ο ποταμός Έβρος αποτελεί το σύνορο Ελλάδας-Τουρκίας **μόνο σε ένα τμήμα** του (στην κάτω ροή του)· πηγάζει και κυλά αρχικά στη **Βουλγαρία**.",
+     "tr": "Meriç Nehri Yunanistan-Türkiye sınırını **yalnızca bir bölümünde** (aşağı çığırında) oluşturur; **Bulgaristan**'da doğar ve önce orada akar.",
+     "en": "The Evros River forms the Greece-Turkey border **only along part** of its course (its lower course); it rises and first flows in **Bulgaria**."
+    }
    }
   ]
  },
@@ -2377,7 +2457,12 @@
      "tr": "Amfilohia, Arta Bölgesel Birimindedir",
      "en": "Amfilochia is in the Regional Unit of Arta"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Αμφιλοχία βρίσκεται στην Περιφερειακή Ενότητα **Αιτωλοακαρνανίας** — **όχι** της Άρτας.",
+     "tr": "Amfilohia **Etolya-Akarnanya** Bölgesel Birimindedir — Arta'da **değil**.",
+     "en": "Amfilochia is in the Regional Unit of **Aetolia-Acarnania** — **not** Arta."
+    }
    }
   ]
  },
@@ -2413,7 +2498,12 @@
      "tr": "Argos, Argolida Bölgesel Biriminin başkentidir",
      "en": "Argos is the capital of the Regional Unit of Argolis"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Πρωτεύουσα της Περιφερειακής Ενότητας Αργολίδας είναι το **Ναύπλιο** — **όχι** το Άργος.",
+     "tr": "Argolida Bölgesel Biriminin başkenti **Nafplio**'dur — Argos **değil**.",
+     "en": "The capital of the Regional Unit of Argolis is **Nafplio** — **not** Argos."
+    }
    },
    {
     "text": {
@@ -2421,7 +2511,12 @@
      "tr": "Gythio, Lakonya Bölgesel Biriminin başkentidir",
      "en": "Gytheio is the capital of the Regional Unit of Laconia"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Πρωτεύουσα της Περιφερειακής Ενότητας Λακωνίας είναι η **Σπάρτη** — **όχι** το Γύθειο.",
+     "tr": "Lakonya Bölgesel Biriminin başkenti **Sparta**'dır — Gythio **değil**.",
+     "en": "The capital of the Regional Unit of Laconia is **Sparti (Sparta)** — **not** Gytheio."
+    }
    },
    {
     "text": {
@@ -2457,7 +2552,12 @@
      "tr": "Taşoz, Kavala Bölgesel Birimindedir",
      "en": "Thasos is in the Regional Unit of Kavala"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Θάσος αποτελεί **δική της Περιφερειακή Ενότητα** (Π.Ε. **Θάσου**) — **δεν** ανήκει στην Π.Ε. Καβάλας.",
+     "tr": "Taşoz **kendi başına bir Bölgesel Birimdir** (**Taşoz** B.B.) — Kavala Bölgesel Birimine **bağlı değildir**.",
+     "en": "Thasos is **a Regional Unit of its own** (R.U. of **Thasos**) — it is **not** in the Regional Unit of Kavala."
+    }
    },
    {
     "text": {
@@ -2473,7 +2573,12 @@
      "tr": "Metsovo, Thesprotia Bölgesel Birimindedir",
      "en": "Metsovo is in the Regional Unit of Thesprotia"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Το Μέτσοβο βρίσκεται στην Περιφερειακή Ενότητα **Ιωαννίνων** — **όχι** της Θεσπρωτίας.",
+     "tr": "Metsovo **Ioannina** Bölgesel Birimindedir — Thesprotia'da **değil**.",
+     "en": "Metsovo is in the Regional Unit of **Ioannina** — **not** Thesprotia."
+    }
    },
    {
     "text": {
@@ -2481,7 +2586,12 @@
      "tr": "Arahova, Fokida Bölgesel Birimindedir",
      "en": "Arachova is in the Regional Unit of Phocis"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Αράχοβα βρίσκεται στην Περιφερειακή Ενότητα **Βοιωτίας** — **όχι** της Φωκίδας.",
+     "tr": "Arahova **Beotya** Bölgesel Birimindedir — Fokida'da **değil**.",
+     "en": "Arachova is in the Regional Unit of **Boeotia** — **not** Phocis."
+    }
    }
   ]
  },
@@ -2509,7 +2619,12 @@
      "tr": "Gythio, Mesenya Bölgesel Birimindedir",
      "en": "Gytheio is in the Regional Unit of Messinia"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Το Γύθειο βρίσκεται στην Περιφερειακή Ενότητα **Λακωνίας** — **όχι** της Μεσσηνίας.",
+     "tr": "Gythio **Lakonya** Bölgesel Birimindedir — Mesenya'da **değil**.",
+     "en": "Gytheio is in the Regional Unit of **Laconia** — **not** Messinia."
+    }
    },
    {
     "text": {
@@ -2517,7 +2632,12 @@
      "tr": "Vonitsa, Preveze Bölgesel Birimindedir",
      "en": "Vonitsa is in the Regional Unit of Preveza"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Βόνιτσα βρίσκεται στην Περιφερειακή Ενότητα **Αιτωλοακαρνανίας** (στον Αμβρακικό Κόλπο) — **όχι** της Πρέβεζας.",
+     "tr": "Vonitsa **Etolya-Akarnanya** Bölgesel Birimindedir (Amvrakikos Körfezi kıyısında) — Preveze'de **değil**.",
+     "en": "Vonitsa is in the Regional Unit of **Aetolia-Acarnania** (on the Ambracian Gulf) — **not** Preveza."
+    }
    },
    {
     "text": {
@@ -2525,7 +2645,12 @@
      "tr": "Nigrita, Drama Bölgesel Birimindedir",
      "en": "Nigrita is in the Regional Unit of Drama"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Νιγρίτα βρίσκεται στην Περιφερειακή Ενότητα **Σερρών** — **όχι** της Δράμας.",
+     "tr": "Nigrita **Serez** Bölgesel Birimindedir — Drama'da **değil**.",
+     "en": "Nigrita is in the Regional Unit of **Serres** — **not** Drama."
+    }
    },
    {
     "text": {
@@ -2577,7 +2702,12 @@
      "tr": "Tükettiğimiz elektriğin büyük kısmı linyit yataklarından üretilir.",
      "en": "Most of the electricity we consume is produced from lignite deposits."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Σήμερα το μεγαλύτερο μέρος της ηλεκτρικής ενέργειας **δεν** παράγεται από λιγνίτη, αλλά κυρίως από **φυσικό αέριο** και **ανανεώσιμες πηγές** (ήλιο, άνεμο, νερό).",
+     "tr": "Bugün elektriğin büyük kısmı linyitten **üretilmez**; esas olarak **doğal gaz** ve **yenilenebilir kaynaklardan** (güneş, rüzgâr, su) üretilir.",
+     "en": "Today most of the electricity is **not** produced from lignite but mainly from **natural gas** and **renewable sources** (sun, wind, water)."
+    }
    },
    {
     "text": {
@@ -2585,7 +2715,12 @@
      "tr": "Yunanistan'ın en büyük sanayi tesisleri Mora'dadır.",
      "en": "The largest industrial plants in Greece are in the Peloponnese."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Οι μεγαλύτερες βιομηχανικές μονάδες της Ελλάδας βρίσκονται κυρίως στην **Αττική** και στην περιοχή της **Θεσσαλονίκης** — **όχι** στην Πελοπόννησο.",
+     "tr": "Yunanistan'ın en büyük sanayi tesisleri Mora'da **değil**, esas olarak **Atika**'da ve **Selanik** çevresindedir.",
+     "en": "The largest industrial plants in Greece are mainly in **Attica** and the **Thessaloniki** area — **not** in the Peloponnese."
+    }
    }
   ]
  },

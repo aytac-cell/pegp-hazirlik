@@ -6,6 +6,11 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.12.0 (2026-10-28)
+
+- Doğru/Yanlış sorularında her yanlış ifadenin altında artık «✓ Doğrusu» yazıyor; toplam 86 ifade. Bu bilgi derslerde, soru kartlarında ve soru listesinde görünüyor.
+- Kelime sözlüğüne yeni ifadelerdeki kelimeler eklendi; sözlük artık 7.513 kelime biçimini kapsıyor.
+
 ## 1.11.0 (2026-10-28)
 
 - **Yeni: Kelimenin üzerine gelince çevirisi.** Yunanca bir kelimenin üzerine fareyle gelince (telefonda dokununca) Türkçe anlamı, sözlük hâli ve dilbilgisi bilgisi görünür. Örnek: κράτους → κράτος · devlet · tamlayan hâl.

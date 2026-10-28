@@ -478,7 +478,12 @@
      "tr": "Resim A",
      "en": "Picture A"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η εικόνα Α (πήλινα γυναικεία ειδώλια τύπου **Τανάγρας**) **δεν** ανήκει στον Κυκλαδικό πολιτισμό· κυκλαδικά είναι τα **μαρμάρινα ειδώλια** των εικόνων **Β** και **Γ**.",
+     "tr": "Resim A (pişmiş toprak **Tanagra** tipi kadın figürinleri) Kiklad uygarlığına **ait değildir**; Kiklad eserleri **B** ve **C (Γ)** resimlerindeki **mermer figürinlerdir**.",
+     "en": "Picture A (terracotta female figurines of the **Tanagra** type) does **not** belong to the Cycladic civilisation; the Cycladic works are the **marble figurines** in pictures **B** and **C (Γ)**."
+    }
    },
    {
     "text": {
@@ -502,7 +507,12 @@
      "tr": "Resim D (Δ)",
      "en": "Picture D (Δ)"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η εικόνα Δ (η «Θεά των Όφεων») ανήκει στον **Μινωικό** πολιτισμό της **Κρήτης** — **όχι** στον Κυκλαδικό.",
+     "tr": "Resim D (Δ) («Yılanlı Tanrıça») Kiklad uygarlığına **değil**, **Girit**'teki **Minos** uygarlığına aittir.",
+     "en": "Picture D (Δ) (the «Snake Goddess») belongs to the **Minoan** civilisation of **Crete** — **not** the Cycladic."
+    }
    }
   ]
  },
@@ -542,7 +552,12 @@
      "tr": "Resim B",
      "en": "Picture B"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η εικόνα Β (άγαλμα κόρης) είναι γλυπτό της **Αρχαϊκής εποχής** — **δεν** σχετίζεται με τον Μινωικό πολιτισμό.",
+     "tr": "Resim B (kore heykeli) **Arkaik Dönem**'e ait bir heykeldir — Minos uygarlığıyla **ilgili değildir**.",
+     "en": "Picture B (a kore statue) is a sculpture of the **Archaic period** — it is **not** related to the Minoan civilisation."
+    }
    },
    {
     "text": {
@@ -550,7 +565,12 @@
      "tr": "Resim C (Γ)",
      "en": "Picture C (Γ)"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η εικόνα Γ (η **Πύλη των Λεόντων**) ανήκει στον **Μυκηναϊκό** πολιτισμό — **όχι** στον Μινωικό.",
+     "tr": "Resim C (Γ) (**Aslanlı Kapı**) Minos uygarlığına **değil**, **Miken** uygarlığına aittir.",
+     "en": "Picture C (Γ) (the **Lion Gate**) belongs to the **Mycenaean** civilisation — **not** the Minoan."
+    }
    },
    {
     "text": {
@@ -610,7 +630,12 @@
      "tr": "Hefaistos müziğin ve uyumun tanrısıydı",
      "en": "Hephaestus was the god of music and harmony"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Θεός της μουσικής και της αρμονίας ήταν ο **Απόλλωνας**· ο Ήφαιστος ήταν θεός της **φωτιάς** και της **μεταλλουργίας**.",
+     "tr": "Müziğin ve uyumun tanrısı **Apollon**'du; Hefaistos **ateşin** ve **maden işçiliğinin** tanrısıydı.",
+     "en": "The god of music and harmony was **Apollo**; Hephaestus was the god of **fire** and **metalworking**."
+    }
    }
   ]
  },
@@ -683,7 +708,12 @@
      "tr": "İmparator Theodosius Konstantinopolis'in ilk surlarını inşa etti",
      "en": "Emperor Theodosius built the first walls of Constantinople"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Τα πρώτα τείχη της Κωνσταντινουπόλεως τα έκτισε ο **Μέγας Κωνσταντίνος**, ο ιδρυτής της πόλης· τα **Θεοδοσιανά τείχη** κτίστηκαν αργότερα.",
+     "tr": "Konstantinopolis'in ilk surlarını şehrin kurucusu **Büyük Konstantin** inşa etti; **Theodosius surları** daha sonra yapıldı.",
+     "en": "The first walls of Constantinople were built by **Constantine the Great**, the city's founder; the **Theodosian walls** were built later."
+    }
    },
    {
     "text": {
@@ -691,7 +721,12 @@
      "tr": "İmparator Justinianus Konstantinopolis Hipodromu'nu inşa etti.",
      "en": "Emperor Justinian erected the Hippodrome of Constantinople."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Ο Ιππόδρομος της Κωνσταντινουπόλεως υπήρχε **πολύ πριν από τον Ιουστινιανό**· τον επέκτεινε ο **Μέγας Κωνσταντίνος**.",
+     "tr": "Konstantinopolis Hipodromu **Justinianus'tan çok önce** vardı; onu **Büyük Konstantin** genişletti.",
+     "en": "The Hippodrome of Constantinople existed **long before Justinian**; it was enlarged by **Constantine the Great**."
+    }
    },
    {
     "text": {
@@ -1067,7 +1102,12 @@
      "tr": "Platon, Büyük İskender'in öğretmeniydi",
      "en": "Plato was the teacher of Alexander the Great"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Δάσκαλος του Μεγάλου Αλεξάνδρου ήταν ο **Αριστοτέλης** — **όχι** ο Πλάτωνας.",
+     "tr": "Büyük İskender'in öğretmeni **Aristoteles**'ti — Platon **değil**.",
+     "en": "The teacher of Alexander the Great was **Aristotle** — **not** Plato."
+    }
    },
    {
     "text": {
@@ -1201,7 +1241,12 @@
      "tr": "Olimpiya'daki Zeus Tapınağı'ndan gelmektedir",
      "en": "Come from the Temple of Zeus at Olympia"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Τα γλυπτά του Παρθενώνα προέρχονται από τον **Παρθενώνα**, τον ναό της **Αθηνάς** στην **Ακρόπολη της Αθήνας** — **όχι** από τον ναό του Δία στην Ολυμπία.",
+     "tr": "Parthenon heykelleri Olimpiya'daki Zeus Tapınağı'ndan **değil**, **Atina Akropolisi**'ndeki **Athena** tapınağı **Parthenon**'dan gelmektedir.",
+     "en": "The Parthenon sculptures come from the **Parthenon**, the temple of **Athena** on the **Acropolis of Athens** — **not** from the Temple of Zeus at Olympia."
+    }
    },
    {
     "text": {
@@ -1217,7 +1262,12 @@
      "tr": "Halkın ziyaretine açık değildir",
      "en": "Are not open to the public"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Τα γλυπτά του Παρθενώνα **είναι επισκέψιμα** από το κοινό: εκτίθενται στο **Βρετανικό Μουσείο** στο Λονδίνο και στο **Μουσείο της Ακρόπολης** στην Αθήνα.",
+     "tr": "Parthenon heykelleri **halkın ziyaretine açıktır**: Londra'daki **British Museum**'da ve Atina'daki **Akropolis Müzesi**'nde sergilenir.",
+     "en": "The Parthenon sculptures **are open to the public**: they are displayed in the **British Museum** in London and the **Acropolis Museum** in Athens."
+    }
    }
   ]
  },
@@ -1245,7 +1295,12 @@
      "tr": "Thebai surları antik dünyanın 7 harikası arasında sayılır",
      "en": "The walls of Thebes are counted among the 7 wonders of antiquity"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Τα τείχη των Θηβών **δεν** συγκαταλέγονται στα 7 θαύματα της αρχαιότητας (σε αυτά ανήκουν π.χ. ο **Κολοσσός της Ρόδου** και το **άγαλμα του Δία στην Ολυμπία**).",
+     "tr": "Thebai surları antik dünyanın 7 harikası arasında **sayılmaz** (harikalar arasında örneğin **Rodos Heykeli** ve **Olimpiya'daki Zeus heykeli** vardır).",
+     "en": "The walls of Thebes are **not** among the 7 wonders of antiquity (the wonders include e.g. the **Colossus of Rhodes** and the **statue of Zeus at Olympia**)."
+    }
    },
    {
     "text": {
@@ -1269,7 +1324,12 @@
      "tr": "Sümela Manastırı Mora Yarımadası'nda bulunuyordu",
      "en": "The Monastery of Panagia Soumela was located in the Peloponnese"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Μονή της Παναγίας Σουμελά βρισκόταν στον **Πόντο**, κοντά στην **Τραπεζούντα** — **όχι** στην Πελοπόννησο.",
+     "tr": "Sümela Manastırı Mora Yarımadası'nda **değil**, **Pontus**'ta, **Trabzon** yakınında bulunuyordu.",
+     "en": "The Monastery of Panagia Soumela was in **Pontus**, near **Trebizond (Trabzon)** — **not** in the Peloponnese."
+    }
    }
   ]
  },
@@ -1508,7 +1568,12 @@
      "tr": "Mistra kalesi Yunanistan'ın en önemli tarih öncesi kalelerinden biridir.",
      "en": "The castle of Mystras is one of the most important prehistoric castles of Greece."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Το κάστρο του Μυστρά είναι **μεσαιωνικό** (χτίστηκε τον **13ο αιώνα**, το 1249) — **όχι** προϊστορικό.",
+     "tr": "Mistra kalesi tarih öncesi **değil**, **Orta Çağ**'a aittir (**13. yüzyılda**, 1249'da inşa edildi).",
+     "en": "The castle of Mystras is **medieval** (built in the **13th century**, in 1249) — **not** prehistoric."
+    }
    },
    {
     "text": {
@@ -1516,7 +1581,12 @@
      "tr": "Mistra'nın en yüksek noktasında Justinianus'un sarayı ayakta kalmıştır",
      "en": "At the highest point of Mystras the palace of Justinian survives"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Στον Μυστρά σώζεται το **Παλάτι των Δεσποτών** (των **Παλαιολόγων**) — **όχι** παλάτι του Ιουστινιανού, που έζησε αιώνες νωρίτερα (6ος αι.).",
+     "tr": "Mistra'da ayakta kalan saray **Despotlar Sarayı**'dır (**Palaiologoslar**'ın) — yüzyıllar önce (6. yy) yaşamış Justinianus'un sarayı **değil**.",
+     "en": "What survives at Mystras is the **Palace of the Despots** (of the **Palaiologoi**) — **not** a palace of Justinian, who lived centuries earlier (6th c.)."
+    }
    },
    {
     "text": {
@@ -1605,7 +1675,12 @@
      "tr": "Resim 1",
      "en": "Picture 1"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Το κτήριο της εικόνας 1 (πέτρινο αρχοντικό με πυργίσκους) είναι σε **ρομαντικό/μεσαιωνικό** ύφος — **όχι** νεοκλασικό· νεοκλασικά είναι τα κτήρια **2** και **3**.",
+     "tr": "Resim 1'deki yapı (kuleli taş konak) **romantik/Orta Çağ** üslubundadır — neoklasik **değildir**; neoklasik olanlar **2** ve **3** numaralı yapılardır.",
+     "en": "The building in picture 1 (a stone mansion with turrets) is in a **romantic/medieval** style — **not** Neoclassical; the Neoclassical buildings are **2** and **3**."
+    }
    },
    {
     "text": {
@@ -1629,7 +1704,12 @@
      "tr": "Resim 4",
      "en": "Picture 4"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Το κτήριο της εικόνας 4 **δεν έχει κίονες** ούτε αέτωμα, τα βασικά στοιχεία του Νεοκλασικισμού· νεοκλασικά είναι τα κτήρια **2** και **3**.",
+     "tr": "Resim 4'teki yapının, Neoklasisizmin temel öğeleri olan **sütunları** ve alınlığı **yoktur**; neoklasik olanlar **2** ve **3** numaralı yapılardır.",
+     "en": "The building in picture 4 has **no columns** or pediment, the basic elements of Neoclassicism; the Neoclassical buildings are **2** and **3**."
+    }
    }
   ]
  },
@@ -1963,7 +2043,12 @@
      "tr": "Osmanlı müziğine",
      "en": "on Ottoman music"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Ελληνική Εθνική Σχολή Μουσικής **δεν** βασίστηκε στην οθωμανική μουσική, αλλά στην **παραδοσιακή ελληνική μουσική**, στα **δημοτικά τραγούδια** και στη **βυζαντινή υμνωδία**.",
+     "tr": "Yunan Ulusal Müzik Okulu Osmanlı müziğine **değil**; **geleneksel Yunan müziğine**, **halk türkülerine (dimotika)** ve **Bizans ilahilerine** dayandı.",
+     "en": "The Greek National School of Music was based **not** on Ottoman music but on **traditional Greek music**, **folk (demotic) songs** and **Byzantine hymnody**."
+    }
    }
   ]
  },
@@ -1995,7 +2080,12 @@
      "tr": "Glykeria tanınmış bir bestecidir.",
      "en": "Glykeria is a well-known composer."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Γλυκερία είναι γνωστή **τραγουδίστρια** — **όχι** μουσικοσυνθέτρια.",
+     "tr": "Glykeria tanınmış bir **şarkıcıdır** — besteci **değildir**.",
+     "en": "Glykeria is a well-known **singer** — **not** a composer."
+    }
    },
    {
     "text": {
@@ -2172,7 +2262,12 @@
      "tr": "Selanik şehrinde Bizans Kültürü Müzesi yoktur",
      "en": "There is no Museum of Byzantine Culture in the city of Thessaloniki"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Στην πόλη της Θεσσαλονίκης **υπάρχει** το **Μουσείο Βυζαντινού Πολιτισμού**.",
+     "tr": "Selanik şehrinde **Bizans Kültürü Müzesi** **vardır**.",
+     "en": "There **is** a **Museum of Byzantine Culture** in the city of Thessaloniki."
+    }
    },
    {
     "text": {
@@ -3004,7 +3099,12 @@
      "tr": "Aliki Vuyuklaki «Pire'nin Çocukları» şarkısını seslendirdi.",
      "en": "Aliki Vougiouklaki sang the song «The Children of Piraeus»."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Το τραγούδι «Τα παιδιά του Πειραιά» (μουσική **Μάνος Χατζιδάκις**) το ερμήνευσε η **Μελίνα Μερκούρη** — **όχι** η Αλίκη Βουγιουκλάκη.",
+     "tr": "«Pire'nin Çocukları» şarkısını (müzik: **Manos Hadjidakis**) Aliki Vuyuklaki **değil**, **Melina Merkuri** seslendirdi.",
+     "en": "The song «The Children of Piraeus» (music by **Manos Hadjidakis**) was sung by **Melina Mercouri** — **not** Aliki Vougiouklaki."
+    }
    },
    {
     "text": {
@@ -3399,7 +3499,12 @@
      "tr": "Selanik'teki Beyaz Kule, Bizans imparatorlarının eseridir",
      "en": "The White Tower in Thessaloniki is the work of Byzantine emperors"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Ο Λευκός Πύργος στη Θεσσαλονίκη **δεν** είναι έργο βυζαντινών αυτοκρατόρων· κτίστηκε την **οθωμανική περίοδο**.",
+     "tr": "Selanik'teki Beyaz Kule Bizans imparatorlarının eseri **değildir**; **Osmanlı döneminde** inşa edilmiştir.",
+     "en": "The White Tower in Thessaloniki is **not** the work of Byzantine emperors; it was built in the **Ottoman period**."
+    }
    },
    {
     "text": {
@@ -3407,7 +3512,12 @@
      "tr": "«Uyuyan Kız», ünlü Yunan Yorgos Zongolopulos'un heykelidir",
      "en": "«The Sleeping Girl» is a sculpture by the well-known Greek Giorgos Zongolopoulos"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η «Κοιμωμένη» είναι γλυπτό του **Γιαννούλη Χαλεπά** — **όχι** του Γιώργου Ζογγολόπουλου.",
+     "tr": "«Uyuyan Kız» **Yannulis Halepas**'ın heykelidir — Yorgos Zongolopulos'un **değil**.",
+     "en": "«The Sleeping Girl» is a sculpture by **Yannoulis Chalepas** — **not** Giorgos Zongolopoulos."
+    }
    },
    {
     "text": {
@@ -3652,7 +3762,12 @@
      "tr": "Geleneğe göre Kalikantzarlar, Noel'in iyi talih getiren iyi ruhlarıdır",
      "en": "According to tradition, the Kallikantzaroi are the good spirits of Christmas that bring good luck"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Οι Καλικάντζαροι, σύμφωνα με την παράδοση, είναι **κακά, πειραχτικά πνεύματα** που εμφανίζονται το **Δωδεκαήμερο** (από τα Χριστούγεννα ως τα Φώτα) — **όχι** καλά πνεύματα που φέρνουν καλοτυχία.",
+     "tr": "Geleneğe göre Kalikantzarlar iyi talih getiren iyi ruhlar **değil**, Noel ile Epifani (Fota) arasındaki **on iki günde** ortaya çıkan **kötü, yaramaz ruhlardır**.",
+     "en": "According to tradition, the Kallikantzaroi are **evil, mischievous spirits** that appear during the **Twelve Days** (from Christmas to Epiphany) — **not** good spirits that bring good luck."
+    }
    },
    {
     "text": {
@@ -3668,7 +3783,12 @@
      "tr": "Biri hastalandığında iyileşmesi için Fanuropita yaparız",
      "en": "When someone falls ill we make Fanouropita so that they get well"
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Τη Φανουρόπιτα **δεν** τη φτιάχνουμε για αρρώστια, αλλά για τον **Άγιο Φανούριο**, για να **βρεθεί κάτι χαμένο**.",
+     "tr": "Fanuropita hastalık için **değil**, **Aziz Fanurios** adına, **kaybolan bir şeyin bulunması** için yapılır.",
+     "en": "We do **not** make Fanouropita for illness, but for **Saint Fanourios**, so that **something lost is found**."
+    }
    }
   ]
  }

@@ -886,7 +886,8 @@
         const el = fillLines(q.text.el, q.answers, "el"), tr = fillLines(q.text[tl] || c(q.text), q.answers, tl);
         body = `<ol class="bq-list">${el.map((line, i) => `<li>${pair(line, tr[i] || "")}</li>`).join("")}</ol>`;
       } else if (q.type === "tf") {
-        body = `<ul class="bq-list">${q.items.map(it => `<li><span class="bq-tf ${it.answer ? "ok" : "bad"}">${it.answer ? "✓ " + esc(t("true")) : "✗ " + esc(t("false"))}</span> ${T(it.text)}</li>`).join("")}</ul>`;
+        body = `<ul class="bq-list">${q.items.map(it => `<li><span class="bq-tf ${it.answer ? "ok" : "bad"}">${it.answer ? "✓ " + esc(t("true")) : "✗ " + esc(t("false"))}</span> ${T(it.text)}${!it.answer && it.fix
+          ? `<div class="bq-fix"><span class="bq-fix-h">✓ ${esc(t("correctVersion"))}:</span> ${pair(fmt(it.fix.el), fmt(it.fix[tl] || c(it.fix)))}</div>` : ""}</li>`).join("")}</ul>`;
       } else if (q.type === "mc") {
         const a = q.options[q.answer];
         const gap = /_{3,}/;

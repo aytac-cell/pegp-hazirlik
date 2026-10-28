@@ -2982,7 +2982,12 @@
      "tr": "Selanik 1830'da Yunanistan'a katıldı.",
      "en": "Thessaloniki was incorporated into Greece in 1830."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Θεσσαλονίκη **δεν** ανήκε στο κράτος του 1830· απελευθερώθηκε τον **Οκτώβριο του 1912** (Α΄ Βαλκανικός Πόλεμος) και τότε ενσωματώθηκε στην Ελλάδα.",
+     "tr": "Selanik 1830 devletinin parçası **değildi**; **Ekim 1912**'de (Birinci Balkan Savaşı) kurtarıldı ve ardından Yunanistan'a katıldı.",
+     "en": "Thessaloniki was **not** part of the 1830 state; it was liberated in **October 1912** (First Balkan War) and then joined Greece."
+    }
    }
   ]
  },
@@ -3014,7 +3019,12 @@
      "tr": "Fenerliler, Güney İtalya'daki Fener'de yaşayan, yabancı diller öğrenen, Batı'da eğitim gören ve birçoğu Osmanlı yönetiminde kariyer yapan soylu ailelerden Yunanlardı.",
      "en": "The Phanariots were Greeks from noble families who lived in the Phanar of southern Italy, learned foreign languages, studied in the West, and many of whom made careers in the Ottoman administration."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Οι Φαναριώτες κατοικούσαν στο **Φανάρι της Κωνσταντινούπολης** — **όχι** στην Κάτω Ιταλία.",
+     "tr": "Fenerliler Güney İtalya'da **değil**, **Konstantinopolis'in Fener semtinde** yaşıyordu.",
+     "en": "The Phanariots lived in the **Phanar district of Constantinople** — **not** in southern Italy."
+    }
    },
    {
     "text": {
@@ -3030,7 +3040,12 @@
      "tr": "Kıbrıs'ın bağımsızlığı tanındığında garantör güçler olarak Yunanistan, Türkiye ve ABD belirlendi.",
      "en": "When the independence of Cyprus was recognised, Greece, Turkey and the USA were designated as guarantor powers."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Όταν αναγνωρίστηκε η ανεξαρτησία της Κύπρου (1960), εγγυήτριες δυνάμεις ορίστηκαν η Ελλάδα, η Τουρκία και το **Ηνωμένο Βασίλειο** — **όχι** οι ΗΠΑ.",
+     "tr": "Kıbrıs'ın bağımsızlığı tanındığında (1960) garantör güçler Yunanistan, Türkiye ve **Birleşik Krallık** olarak belirlendi — ABD **değil**.",
+     "en": "When the independence of Cyprus was recognised (1960), the guarantor powers were Greece, Turkey and the **United Kingdom** — **not** the USA."
+    }
    }
   ]
  },
@@ -3062,7 +3077,12 @@
      "tr": "Peloponez Savaşı'ndan sonra Atina'da 40 oligarktan oluşan ve 40 Tiran olarak bilinen bir yönetim kuruldu.",
      "en": "After the Peloponnesian War a government of 40 oligarchs, who became known as the 40 Tyrants, was imposed on Athens."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Μετά τον Πελοποννησιακό Πόλεμο (404 π.Χ.) στην Αθήνα επιβλήθηκε κυβέρνηση **30 ολιγαρχικών**, οι **Τριάκοντα Τύραννοι** — όχι 40.",
+     "tr": "Peloponez Savaşı'ndan sonra (MÖ 404) Atina'da **30 oligarktan** oluşan bir yönetim kuruldu: **Otuz Tiran** — 40 değil.",
+     "en": "After the Peloponnesian War (404 BC) a government of **30 oligarchs**, the **Thirty Tyrants**, was imposed on Athens — not 40."
+    }
    },
    {
     "text": {
@@ -3070,7 +3090,12 @@
      "tr": "Büyük İskender'in hiç çocuğu olmadı.",
      "en": "Alexander the Great never had children."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Ο Μέγας Αλέξανδρος **απέκτησε παιδιά**, π.χ. τον γιο του **Αλέξανδρο Δ΄** από τη Ρωξάνη.",
+     "tr": "Büyük İskender'in **çocukları oldu**; örneğin Roksana'dan olan oğlu **IV. İskender**.",
+     "en": "Alexander the Great **did have children**, e.g. his son **Alexander IV** by Roxana."
+    }
    },
    {
     "text": {
@@ -3102,7 +3127,12 @@
      "tr": "Armatoloslar, İkinci Dünya Savaşı döneminde silahlı birliklerdi.",
      "en": "The armatoloi were armed corps during the Second World War."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Οι αρματολοί ήταν ένοπλα ελληνικά σώματα της **περιόδου της Τουρκοκρατίας** — **όχι** του Β΄ Παγκοσμίου Πολέμου.",
+     "tr": "Armatoloslar İkinci Dünya Savaşı'nın **değil**, **Osmanlı döneminin** silahlı Yunan birlikleriydi.",
+     "en": "The armatoloi were armed Greek corps of the **Ottoman period** — **not** of the Second World War."
+    }
    },
    {
     "text": {
@@ -3110,7 +3140,12 @@
      "tr": "Birinci Yunan kolonizasyonu nedeniyle Küçük Asya'daki İyonya'ya Büyük Yunanistan (Magna Graecia) adı verildi.",
      "en": "Ionia in Asia Minor was called Magna Graecia (Greater Greece) because of the first Greek colonisation."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Μεγάλη Ελλάδα ονομάστηκαν η **Κάτω Ιταλία** και η **Σικελία**, λόγω του **Β΄ ελληνικού αποικισμού** — **όχι** η Ιωνία.",
+     "tr": "Büyük Yunanistan (Magna Graecia) adı, **İkinci Yunan kolonizasyonu** nedeniyle **Güney İtalya ve Sicilya**'ya verildi — İyonya'ya **değil**.",
+     "en": "Magna Graecia (Greater Greece) was the name given to **southern Italy** and **Sicily**, because of the **second Greek colonisation** — **not** to Ionia."
+    }
    },
    {
     "text": {
@@ -3174,7 +3209,12 @@
      "tr": "Sounion'daki Poseidon Tapınağı Spartalılar tarafından inşa edildi.",
      "en": "The Temple of Poseidon at Sounion was built by the Spartans."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Ο ναός του Ποσειδώνα στο Σούνιο κτίστηκε από τους **Αθηναίους** — **όχι** από τους Σπαρτιάτες.",
+     "tr": "Sounion'daki Poseidon Tapınağı Spartalılar tarafından **değil**, **Atinalılar** tarafından inşa edildi.",
+     "en": "The Temple of Poseidon at Sounion was built by the **Athenians** — **not** by the Spartans."
+    }
    }
   ]
  },
@@ -3246,7 +3286,12 @@
      "tr": "Epidavros Anayasası, Otto'nun 3 Eylül 1843 ayaklanmasından sonra verdiği anayasaya verilen addır.",
      "en": "The Constitution of Epidaurus is the name given to the Constitution granted by Otto after the revolution of 3 September 1843."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Το Σύνταγμα της Επιδαύρου ψηφίστηκε το **1822** από την Α΄ Εθνοσυνέλευση, στην Επανάσταση· το Σύνταγμα που παραχώρησε ο Όθωνας μετά την 3η Σεπτεμβρίου 1843 είναι το **Σύνταγμα του 1844**.",
+     "tr": "Epidavros Anayasası **1822**'de, Devrim sırasında Birinci Ulusal Meclis tarafından kabul edildi; Otto'nun 3 Eylül 1843'ten sonra verdiği anayasa **1844 Anayasası**'dır.",
+     "en": "The Constitution of Epidaurus was adopted in **1822** by the First National Assembly, during the Revolution; the constitution Otto granted after 3 September 1843 is the **Constitution of 1844**."
+    }
    },
    {
     "text": {
@@ -3254,7 +3299,12 @@
      "tr": "Seisakhtheia, Bizans'ta Justinianos'un borçları düzenleyen ve kimsenin borç yüzünden köle olmasını yasaklayan bir yasasıydı.",
      "en": "The Seisachtheia was a law of Justinian in Byzantium which regulated debts and prohibited anyone from becoming a slave because of debts."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Σεισάχθεια ήταν νόμος του **Σόλωνα** στην **αρχαία Αθήνα** (594 π.Χ.), με τον οποίο ρυθμίζονταν τα χρέη και απαγορευόταν να γίνεται κανείς δούλος από χρέη — όχι του Ιουστινιανού.",
+     "tr": "Seisakhtheia, **Solon**'un **antik Atina**'daki (MÖ 594) yasasıydı; borçları düzenliyor ve borç yüzünden köle olmayı yasaklıyordu — Justinianos'un değil.",
+     "en": "The Seisachtheia was a law of **Solon** in **ancient Athens** (594 BC), which regulated debts and prohibited anyone from becoming a slave because of debts — not of Justinian."
+    }
    },
    {
     "text": {
@@ -3262,7 +3312,12 @@
      "tr": "Trabzon İmparatorluğu, Büyük İskender'in ele geçirdiği devletlerden biriydi.",
      "en": "The Empire of Trebizond was one of the states conquered by Alexander the Great."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η Αυτοκρατορία της Τραπεζούντας **δεν** την κατέλαβε ο Μέγας Αλέξανδρος· ήταν **βυζαντινό ελληνικό κράτος** που ιδρύθηκε το **1204** και καταλύθηκε από τους **Οθωμανούς το 1461**.",
+     "tr": "Trabzon İmparatorluğu'nu Büyük İskender ele **geçirmedi**; **1204**'te kurulan ve **1461'de Osmanlılar** tarafından fethedilen bir **Bizans-Yunan devletiydi**.",
+     "en": "The Empire of Trebizond was **not** conquered by Alexander the Great; it was a **Byzantine Greek state** founded in **1204** that fell to the **Ottomans in 1461**."
+    }
    },
    {
     "text": {
@@ -3302,7 +3357,12 @@
      "tr": "Aleksandros Papanastasiou tanınmış bir muhafazakâr politikacıydı.",
      "en": "Alexandros Papanastasiou was a well-known conservative politician."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Ο Αλέξανδρος Παπαναστασίου ήταν **δημοκρατικός, προοδευτικός** πολιτικός (πρωθυπουργός όταν ανακηρύχθηκε η Δημοκρατία το 1924) — **όχι** συντηρητικός.",
+     "tr": "Aleksandros Papanastasiou muhafazakâr **değildi**; **demokrat, ilerici** bir politikacıydı (1924'te Cumhuriyet ilan edildiğinde başbakandı).",
+     "en": "Alexandros Papanastasiou was a **democratic, progressive** politician (prime minister when the Republic was proclaimed in 1924) — **not** a conservative."
+    }
    },
    {
     "text": {
@@ -3350,7 +3410,12 @@
      "tr": "Mareşal Aleksandros Papagos «Yunan Seferberliği» (Ellinikos Synagermos) sloganıyla diktatör oldu.",
      "en": "Field Marshal Alexandros Papagos became a dictator with the slogan \"Greek Rally\"."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Ο Στρατάρχης Αλέξανδρος Παπάγος **δεν** έγινε δικτάτορας: ίδρυσε το κόμμα «**Ελληνικός Συναγερμός**» και έγινε πρωθυπουργός **κερδίζοντας τις εκλογές** (1952).",
+     "tr": "Mareşal Aleksandros Papagos diktatör **olmadı**: «**Yunan Seferberliği**» (Ellinikos Synagermos) partisini kurdu ve **seçimleri kazanarak** (1952) başbakan oldu.",
+     "en": "Field Marshal Alexandros Papagos did **not** become a dictator: he founded the «**Greek Rally**» party and became prime minister **by winning the elections** (1952)."
+    }
    },
    {
     "text": {
@@ -3366,7 +3431,12 @@
      "tr": "Merkez Birliği kurulduğunda başında Andreas Papandreou vardı.",
      "en": "When the Centre Union was founded, its leader was Andreas Papandreou."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Επικεφαλής της Ένωσης Κέντρου, όταν ιδρύθηκε (1961), ήταν ο **Γεώργιος Παπανδρέου** — **όχι** ο Ανδρέας Παπανδρέου.",
+     "tr": "Merkez Birliği kurulduğunda (1961) başında **Georgios Papandreou** vardı — Andreas Papandreou **değil**.",
+     "en": "When the Centre Union was founded (1961), its leader was **Georgios Papandreou** — **not** Andreas Papandreou."
+    }
    }
   ]
  },
@@ -3398,7 +3468,12 @@
      "tr": "Peloponez Savaşı, Bizans döneminde yaşanmış büyük bir askerî çatışmaydı.",
      "en": "The Peloponnesian War was a major military conflict in the Byzantine era."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Ο Πελοποννησιακός Πόλεμος (431–404 π.Χ.) ήταν σύγκρουση της **αρχαιότητας** ανάμεσα στην **Αθήνα** και τη **Σπάρτη** — **όχι** της εποχής του Βυζαντίου.",
+     "tr": "Peloponez Savaşı (MÖ 431–404), **Atina** ile **Sparta** arasında **Antik Çağ**'da yaşanmış bir çatışmaydı — Bizans döneminde **değil**.",
+     "en": "The Peloponnesian War (431–404 BC) was a conflict of **antiquity** between **Athens** and **Sparta** — **not** of the Byzantine era."
+    }
    },
    {
     "text": {
@@ -3446,7 +3521,12 @@
      "tr": "Antik Siraküza şehri Peloponez'deydi.",
      "en": "The ancient city of Syracuse was in the Peloponnese."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Η αρχαία πόλη των Συρακουσών βρισκόταν στη **Σικελία** (Μεγάλη Ελλάδα) — **όχι** στην Πελοπόννησο.",
+     "tr": "Antik Siraküza şehri Peloponez'de **değil**, **Sicilya**'daydı (Magna Graecia).",
+     "en": "The ancient city of Syracuse was in **Sicily** (Magna Graecia) — **not** in the Peloponnese."
+    }
    },
    {
     "text": {
@@ -3454,7 +3534,12 @@
      "tr": "Antik Makedonya'nın başkenti Teb idi.",
      "en": "The capital of Ancient Macedonia was Thebes."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Πρωτεύουσα της Αρχαίας Μακεδονίας ήταν οι **Αιγές** (σημερινή Βεργίνα) και αργότερα η **Πέλλα** — **όχι** η Θήβα, που ήταν πόλη της Βοιωτίας.",
+     "tr": "Antik Makedonya'nın başkenti önce **Aigai** (bugünkü Vergina), sonra **Pella**'ydı — Beotya şehri olan Teb **değil**.",
+     "en": "The capital of Ancient Macedonia was **Aigai** (today's Vergina) and later **Pella** — **not** Thebes, which was a city of Boeotia."
+    }
    },
    {
     "text": {
@@ -3494,7 +3579,12 @@
      "tr": "Kral Otto Yunanistan'a 1821'de geldi.",
      "en": "King Otto came to Greece in 1821."
     },
-    "answer": false
+    "answer": false,
+    "fix": {
+     "el": "Ο Βασιλιάς Όθωνας ήρθε στην Ελλάδα το **1833** — **όχι** το 1821.",
+     "tr": "Kral Otto Yunanistan'a **1833**'te geldi — 1821'de **değil**.",
+     "en": "King Otto came to Greece in **1833** — **not** in 1821."
+    }
    },
    {
     "text": {

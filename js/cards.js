@@ -8,6 +8,8 @@
   const t = (k, v) => I18N.t(k, v);
   const c = L => I18N.c(L);
 
+  // escape, then allow **bold**
+  function rich(s) { return esc(s).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>"); }
   function esc(s) {
     return String(s ?? "").replace(/[&<>"']/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]));
   }
@@ -86,7 +88,8 @@
         break;
       }
       case "tf":
-        body = `<ol>${q.items.map(it => `<li><b>${it.answer ? "Σ" : "Λ"}</b> – <span lang="el">${esc(it.text.el)}</span><div class="a-tr">${esc(c(it.text))}</div></li>`).join("")}</ol>`;
+        body = `<ol>${q.items.map(it => `<li><b>${it.answer ? "Σ" : "Λ"}</b> – <span lang="el">${esc(it.text.el)}</span><div class="a-tr">${esc(c(it.text))}</div>${!it.answer && it.fix
+          ? `<div class="a-fix">✓ <span lang="el">${rich(it.fix.el)}</span><div class="a-tr">${rich(c(it.fix))}</div></div>` : ""}</li>`).join("")}</ol>`;
         break;
       case "match":
         body = `<ul>${q.pairs.map(([l, r]) => `<li><span lang="el"><b>${l + 1}</b> ${esc(q.left[l].el)} → <b>${LETTERS[r]}</b> ${esc(q.right[r].el)}</span><div class="a-tr">${esc(c(q.left[l]))} → ${esc(c(q.right[r]))}</div></li>`).join("")}</ul>`;
@@ -160,6 +163,10 @@
         const f = row.querySelector(".fix");
         f.className = "fix " + (good ? "ok" : "bad");
         f.textContent = good ? "✓" : `✗ ${t("correctIs")} ${it.answer ? "Σ – " + t("true") : "Λ – " + t("false")}`;
+        // false statements: show what is actually right
+        if (!it.answer && it.fix && !row.querySelector(".tf-fix")) {
+          f.insertAdjacentHTML("afterend", `<span class="tf-fix">✓ ${esc(t("correctVersion"))}: <span lang="el">${rich(it.fix.el)}</span><span class="item-tr">${rich(c(it.fix))}</span></span>`);
+        }
       });
     };
     ctl.restore = () => box.querySelectorAll(".tf-item").forEach((row, i) => {

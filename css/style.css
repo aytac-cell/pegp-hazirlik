@@ -471,6 +471,13 @@ input[type="number"] { min-height: 42px; width: 110px; padding: .4rem .6rem; bor
 .bq-tf.ok { background: var(--ok-soft); color: var(--ok); } .bq-tf.bad { background: var(--bad-soft); color: var(--bad); }
 .bq-a { margin-top: .2rem; }
 
+.bq-fix { margin-top: .3rem; padding: .35rem .55rem; border-left: 3px solid var(--ok); background: var(--ok-soft); border-radius: 6px; }
+.bq-fix-h { font-weight: 700; color: var(--ok); font-size: .82rem; }
+.bq-fix .bq-el, .bq-fix .tr-sub { color: var(--muted); }
+.tf-fix { display: block; margin-top: .35rem; padding: .35rem .55rem; border-left: 3px solid var(--ok); background: var(--surface); border-radius: 6px; font-size: .9rem; }
+.tf-fix [lang="el"] { font-family: var(--font-el); }
+.a-fix { margin-top: .25rem; color: var(--ok); }
+
 /* ---------- exam facts ---------- */
 .exam-facts { border: 2px solid var(--warn); background: var(--warn-soft); border-radius: 12px; padding: .75rem .95rem; }
 .exam-facts h3 { color: var(--warn); margin-bottom: .2rem; }

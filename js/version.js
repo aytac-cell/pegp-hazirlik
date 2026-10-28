@@ -1,7 +1,18 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.11.0";
+window.APP_VERSION = "1.12.0";
 window.APP_CHANGES = [
+  {
+    v: "1.12.0", date: "2026-10-28",
+    tr: [
+      "Doğru/Yanlış sorularında her yanlış ifadenin altında «✓ Doğrusu» yazıyor (86 ifade): derslerde, soru kartlarında ve soru listesinde",
+      "Kelime sözlüğüne yeni ifadelerin kelimeleri eklendi (7.513 biçim)"
+    ],
+    en: [
+      "True/false questions: every false statement now shows «✓ Correct version» underneath (86 statements) — in lessons, question cards and the question list",
+      "Hover dictionary extended to the new wording (7,513 forms)"
+    ]
+  },
   {
     v: "1.11.0", date: "2026-10-28",
     tr: [
