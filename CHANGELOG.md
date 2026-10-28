@@ -6,6 +6,13 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.12.1 (2026-10-28)
+
+- Derslerdeki «📝 Bu dersin sınav soruları ve cevapları» kutusunda Türkçe çeviri açılıp kapatılabiliyor.
+  - Her sorunun sağ üstündeki «TR» butonu o sorunun çevirisini açar/kapatır.
+  - Kutu başlığındaki «TR · hepsi» butonu bütün soruları birden açar/kapatır; bu tercih hatırlanır.
+  - Çeviri kapalıyken sorular yalnızca Yunanca görünür.
+
 ## 1.12.0 (2026-10-28)
 
 - Doğru/Yanlış sorularında her yanlış ifadenin altında artık «✓ Doğrusu» yazıyor; toplam 86 ifade. Bu bilgi derslerde, soru kartlarında ve soru listesinde görünüyor.

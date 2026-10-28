@@ -1,7 +1,16 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.12.0";
+window.APP_VERSION = "1.12.1";
 window.APP_CHANGES = [
+  {
+    v: "1.12.1", date: "2026-10-28",
+    tr: [
+      "Derslerdeki «Bu dersin sınav soruları ve cevapları» kutusunda Türkçe çeviri açılıp kapatılabiliyor: her sorunun sağ üstünde «TR» butonu, kutu başlığında hepsi için tek buton (tercih hatırlanır)"
+    ],
+    en: [
+      "Lesson exam-question box: the translation can be shown or hidden — an «EN» button on each question and one for all in the box header (remembered)"
+    ]
+  },
   {
     v: "1.12.0", date: "2026-10-28",
     tr: [

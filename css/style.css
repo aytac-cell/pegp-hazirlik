@@ -478,6 +478,12 @@ input[type="number"] { min-height: 42px; width: 110px; padding: .4rem .6rem; bor
 .tf-fix [lang="el"] { font-family: var(--font-el); }
 .a-fix { margin-top: .25rem; color: var(--ok); }
 
+.tr-toggle { float: right; border: 1.5px solid var(--primary); background: var(--primary); color: var(--primary-ink); border-radius: 999px; font-size: .75rem; font-weight: 700; padding: .15rem .6rem; cursor: pointer; }
+.tr-toggle[aria-pressed="false"] { background: var(--surface); color: var(--primary); text-decoration: line-through; }
+.tr-toggle.all { float: none; }
+.bq-item.hide-tr .bq-tr { display: none; }
+.bq-item.hide-tr .bq-el { display: inline; color: var(--text); font-size: 1em; }
+
 /* ---------- exam facts ---------- */
 .exam-facts { border: 2px solid var(--warn); background: var(--warn-soft); border-radius: 12px; padding: .75rem .95rem; }
 .exam-facts h3 { color: var(--warn); margin-bottom: .2rem; }

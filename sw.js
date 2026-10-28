@@ -1,5 +1,5 @@
 // Offline support: app shell is cached on install; fonts are cached as they are used.
-const VERSION = "pegp-1.12.0";   // keep in step with js/version.js
+const VERSION = "pegp-1.12.1";   // keep in step with js/version.js
 const SHELL = [
   "./", "index.html", "css/style.css", "manifest.webmanifest",
   "js/version.js", "js/i18n.js", "js/store.js", "js/voices.js", "js/srs.js", "js/map.js", "js/cards.js", "js/grammar.js", "js/quiz.js", "js/reader.js", "js/roadmap.js", "js/views.js", "js/words.js", "js/hover.js", "js/app.js",

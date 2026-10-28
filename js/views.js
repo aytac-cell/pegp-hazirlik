@@ -850,6 +850,20 @@
     draw(); document.body.appendChild(box);
   }
   document.addEventListener("click", e => { const z = e.target.closest("[data-zoom]"); if (z) openZoom(z.dataset.zoom); });
+  // translation on/off for the lesson's exam questions: one question, or all (remembered)
+  document.addEventListener("click", e => {
+    const b = e.target.closest("[data-trtoggle]"); if (!b) return;
+    if (b.dataset.trtoggle === "item") {
+      const item = b.closest(".bq-item"), hidden = item.classList.toggle("hide-tr");
+      b.setAttribute("aria-pressed", String(!hidden));
+    } else {
+      const hide = b.getAttribute("aria-pressed") === "true";
+      Store.setting("bqHideTr", hide);
+      const box = b.closest(".bank-qs");
+      box.querySelectorAll(".bq-item").forEach(i => i.classList.toggle("hide-tr", hide));
+      box.querySelectorAll("[data-trtoggle]").forEach(x => x.setAttribute("aria-pressed", String(!hide)));
+    }
+  });
 
   // example sentences: always Greek, with the translation (lesson language, or interface language when reading in Greek)
   function examplesHtml(b) {
@@ -867,8 +881,8 @@
     const B = s => `<b class="bq-ans">${esc(s)}</b>`;
     // Greek line + translation line (translation hidden when reading in Greek only)
     const pair = (elHtml, trHtml) => greekFirst
-      ? `<span lang="el">${elHtml}</span>${L === "el+" && trHtml ? `<span class="tr-sub">${trHtml}</span>` : ""}`
-      : `<span>${trHtml}</span>${elHtml ? `<span class="bq-el" lang="el">${elHtml}</span>` : ""}`;
+      ? `<span lang="el">${elHtml}</span>${L === "el+" && trHtml ? `<span class="tr-sub bq-tr">${trHtml}</span>` : ""}`
+      : `<span class="bq-tr">${trHtml}</span>${elHtml ? `<span class="bq-el" lang="el">${elHtml}</span>` : ""}`;
     const T = Lx => pair(esc(Lx.el), esc(Lx[tl] || c(Lx)));
     // put each answer into its gap; if the text already has the answer's leading article ("ο ___" + "Ο Όθωνας"), don't repeat it
     const fillLines = (text, answers, lang) => esc(text).replace(/(\S+)?(\s*)\((\d+)\)\s*_{2,}/g, (m, prev, sp, n) => {
@@ -880,6 +894,9 @@
     }).split("\n");
     const qs = sec.questions.map(id => QS().find(q => q.id === id)).filter(Boolean);
     if (!qs.length) return "";
+    // the translation can be hidden (read Greek only) and opened per question when needed
+    const showToggle = L !== "el", hideTr = showToggle && Store.setting("bqHideTr") === true;
+    const trLabel = (tl === "en" ? "EN" : "TR");
     const items = qs.map(q => {
       let body = "";
       if (q.type === "fill") {
@@ -905,10 +922,12 @@
       } else if (q.type === "map") {
         body = `<div class="bq-q">${T(q.prompt)}</div><ul class="bq-list">${q.places.map(p => `<li>📍 ${pair(B(p.name.el), B(p.name[tl] || c(p.name)))}</li>`).join("")}</ul>`;
       }
-      return `<div class="bq-item"><div class="bq-head"><a class="pill" href="#/browse?id=${q.id}">${esc(t("subj_" + q.subject))} ${q.n}</a> <span class="small muted">${esc(t("type_" + q.type))}</span></div>
+      return `<div class="bq-item ${hideTr ? "hide-tr" : ""}"><div class="bq-head"><a class="pill" href="#/browse?id=${q.id}">${esc(t("subj_" + q.subject))} ${q.n}</a> <span class="small muted">${esc(t("type_" + q.type))}</span>
+          ${showToggle ? `<button type="button" class="tr-toggle" data-trtoggle="item" aria-pressed="${!hideTr}" title="${esc(t("trToggle"))}">${esc(trLabel)}</button>` : ""}</div>
         ${q.type === "fill" || q.type === "tf" ? `<div class="bq-q small muted">${T(q.prompt)}</div>` : ""}${body}</div>`;
     }).join("");
-    return `<div class="bank-qs"><h3>📝 ${esc(t("bankQsH"))}</h3><p class="small muted">${esc(t("bankQsText"))}</p>${items}</div>`;
+    return `<div class="bank-qs"><div class="row" style="justify-content:space-between"><h3 style="margin:0">📝 ${esc(t("bankQsH"))}</h3>
+        ${showToggle ? `<button type="button" class="tr-toggle all" data-trtoggle="all" aria-pressed="${!hideTr}">${esc(trLabel)} · ${esc(t("trToggleAll"))}</button>` : ""}</div><p class="small muted">${esc(t("bankQsText"))}</p>${items}</div>`;
   }
 
   function inflTitle(G) {
