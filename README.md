@@ -4,6 +4,7 @@ Yunan vatandaşlık sınavının (Π.Ε.Γ.Π.) konu bölümü için çalışma 
 
 ## Özellikler
 
+- **Kelime üzerine gelince çeviri:** Yunanca her kelimenin üzerine gelince (telefonda dokununca) anlamı, sözlük hâli ve dilbilgisi bilgisi görünür (`data/src/dict/`).
 - **Yol haritası:** 66 ders tek sırada (Ders 1–66), 3 ayda kolaydan zora. Ana sayfada sıradaki ders gösterilir.
 - **Dersler:** Dört konunun anlatımı, toplam 48 bölüm. Her bölümde Yunanca terim sözlüğü, zaman çizelgeleri, tablolar ve haritalar var; sonunda o bölümün sorularını çalışma bağlantısı bulunur.
 - **Dilbilgisi dersi:** Artikeller, isim ve sıfatların dört hâlde çekimi, fiillerin bütün zamanları (etken/edilgen) ve düzensiz fiiller; çekim tabloları Vikisözlük gibi kaynaklarla doğrulandı.

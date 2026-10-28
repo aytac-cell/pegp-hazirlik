@@ -478,6 +478,15 @@ input[type="number"] { min-height: 42px; width: 110px; padding: .4rem .6rem; bor
 .exam-facts li + li { margin-top: .45rem; }
 .exam-ref { text-decoration: none; font-size: .7rem; vertical-align: middle; margin-left: .2rem; }
 
+/* ---------- hover dictionary ---------- */
+.wtip { position: fixed; z-index: 120; display: none; max-width: 300px; padding: .5rem .7rem; border-radius: 10px;
+  background: var(--text); color: var(--bg); font-size: .9rem; line-height: 1.35; box-shadow: 0 6px 24px rgba(0,0,0,.25); pointer-events: none; }
+.wtip b, .wt-l { font-family: var(--font-el); }
+.wt-l { opacity: .85; }
+.wt-m { font-weight: 600; margin-top: .1rem; }
+.wt-g { font-size: .78rem; opacity: .75; margin-top: .1rem; }
+::highlight(hover-word) { background-color: color-mix(in srgb, var(--warn) 35%, transparent); }
+
 /* ---------- lessons ---------- */
 .lesson { max-width: 760px; margin: 0 auto; }
 .lesson-head .el-title { font-family: var(--font-el); color: var(--muted); font-size: 1.05rem; margin-top: -.2rem; }

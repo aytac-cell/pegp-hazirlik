@@ -621,6 +621,7 @@
       <div class="field"><label for="np">${esc(t("setNew"))}</label><input type="number" id="np" min="5" max="100" value="${Store.setting("newPerDay")}"><span class="hint">${esc(t("setNewHint"))}</span></div>
       <div class="field"><label>${esc(t("setTheme"))}</label>${seg("theme", [["auto", t("themeAuto")], ["light", t("themeLight")], ["dark", t("themeDark")]])}</div>
       <div class="field"><label>${esc(t("setVoice"))}</label>${seg("voice", [["true", t("voiceOn")], ["false", t("voiceOff")]])}${hasGreekVoice ? "" : `<span class="hint">${esc(t("voiceMissing"))}</span>`}</div>
+      <div class="field"><label>${esc(t("setHoverDict"))}</label>${seg("hoverDict", [["true", t("voiceOn")], ["false", t("voiceOff")]])}<span class="hint">${esc(t("setHoverDictHint"))}</span></div>
       <div class="field"><label>${esc(t("setVoiceChoice"))}</label>${seg("voiceGender", [["", t("voiceAuto")], ["f", "♀ " + t("voiceFemale")], ["m", "♂ " + t("voiceMale")]])}
         <span class="hint">${esc(t("voiceChoiceHint"))}</span>
         <div id="voiceLists" class="stack" style="margin-top:.6rem"></div></div>

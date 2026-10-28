@@ -6,6 +6,13 @@ Sürüm numarası `js/version.js` dosyasında tutulur. Her yayında şu adımlar
 - Bu dosyaya ve `APP_CHANGES` listesine yeni sürümün notu eklenir.
 - Commit `v<sürüm>` etiketiyle işaretlenir.
 
+## 1.11.0 (2026-10-28)
+
+- **Yeni: Kelimenin üzerine gelince çevirisi.** Yunanca bir kelimenin üzerine fareyle gelince (telefonda dokununca) Türkçe anlamı, sözlük hâli ve dilbilgisi bilgisi görünür. Örnek: κράτους → κράτος · devlet · tamlayan hâl.
+- Sitedeki 7.476 Yunanca kelime biçiminin hepsi sözlükte var.
+- Kelime öğreticideki sorularda, cevabı ele vermemesi için kapalı.
+- Ayarlar'dan açılıp kapatılabilir.
+
 ## 1.10.0 (2026-10-28)
 
 - **Yeni:** Her derste «📝 Bu dersin sınav soruları ve cevapları» bölümü var. Derse bağlı resmî soruların hepsi cevaplarıyla öğretiliyor.

@@ -1,7 +1,20 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.10.0";
+window.APP_VERSION = "1.11.0";
 window.APP_CHANGES = [
+  {
+    v: "1.11.0", date: "2026-10-28",
+    tr: [
+      "Yeni: Yunanca bir kelimenin üzerine fareyle gelince (telefonda dokununca) Türkçe anlamı, sözlük hâli ve dilbilgisi bilgisi görünür (ör. κράτους → κράτος · devlet · tamlayan hâl)",
+      "Sitedeki 7.476 Yunanca kelime biçiminin hepsi sözlükte; kelime öğreticideki sorularda cevabı ele vermemek için kapalı",
+      "Ayarlar'dan açılıp kapatılabilir"
+    ],
+    en: [
+      "New: point at a Greek word (tap on phones) to see its meaning, dictionary form and grammar (e.g. κράτους → κράτος · state · genitive)",
+      "All 7,476 Greek word forms on the site are covered; switched off inside vocabulary drills so it can't give answers away",
+      "Can be turned off in Settings"
+    ]
+  },
   {
     v: "1.10.0", date: "2026-10-28",
     tr: [

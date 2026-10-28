@@ -7,7 +7,7 @@
     exams: [],          // { at, score, max, per: {geo:[ok,total],...}, secs, auto }
     read: {},           // lesson section id -> time its quiz was passed
     quiz: {},           // lesson section id -> { tries, last, best, passed, needReread, at }
-    settings: { lang: "tr", tr: "tap", newPerDay: 20, theme: "auto", voice: true, voiceGender: "" }
+    settings: { lang: "tr", tr: "tap", newPerDay: 20, theme: "auto", voice: true, voiceGender: "", hoverDict: true }
   };
 
   function clone(o) { return JSON.parse(JSON.stringify(o)); }
