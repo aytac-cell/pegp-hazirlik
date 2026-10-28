@@ -858,7 +858,7 @@
       b.setAttribute("aria-pressed", String(!hidden));
     } else {
       const hide = b.getAttribute("aria-pressed") === "true";
-      Store.setting("bqHideTr", hide);
+      Store.setting("bqShowTr", !hide);
       const box = b.closest(".bank-qs");
       box.querySelectorAll(".bq-item").forEach(i => i.classList.toggle("hide-tr", hide));
       box.querySelectorAll("[data-trtoggle]").forEach(x => x.setAttribute("aria-pressed", String(!hide)));
@@ -877,12 +877,10 @@
   // The section's official bank questions, taught with their answers (generated from the bank itself):
   // fill-ins as completed sentences, true/false statements with ✓/✗, matching pairs, mc question → answer.
   function bankQuestionsHtml(sec) {
-    const L = lessonLang(), greekFirst = L === "el" || L === "el+", tl = L === "tr" || L === "en" ? L : I18N.lang;
+    const L = lessonLang(), tl = L === "tr" || L === "en" ? L : I18N.lang;
     const B = s => `<b class="bq-ans">${esc(s)}</b>`;
-    // Greek line + translation line (translation hidden when reading in Greek only)
-    const pair = (elHtml, trHtml) => greekFirst
-      ? `<span lang="el">${elHtml}</span>${L === "el+" && trHtml ? `<span class="tr-sub bq-tr">${trHtml}</span>` : ""}`
-      : `<span class="bq-tr">${trHtml}</span>${elHtml ? `<span class="bq-el" lang="el">${elHtml}</span>` : ""}`;
+    // the questions are read in Greek, as in the exam; the translation sits under each line and opens with a button
+    const pair = (elHtml, trHtml) => `<span lang="el">${elHtml}</span>${L !== "el" && trHtml ? `<span class="tr-sub bq-tr">${trHtml}</span>` : ""}`;
     const T = Lx => pair(esc(Lx.el), esc(Lx[tl] || c(Lx)));
     // put each answer into its gap; if the text already has the answer's leading article ("ο ___" + "Ο Όθωνας"), don't repeat it
     const fillLines = (text, answers, lang) => esc(text).replace(/(\S+)?(\s*)\((\d+)\)\s*_{2,}/g, (m, prev, sp, n) => {
@@ -895,7 +893,7 @@
     const qs = sec.questions.map(id => QS().find(q => q.id === id)).filter(Boolean);
     if (!qs.length) return "";
     // the translation can be hidden (read Greek only) and opened per question when needed
-    const showToggle = L !== "el", hideTr = showToggle && Store.setting("bqHideTr") === true;
+    const showToggle = L !== "el", hideTr = showToggle && Store.setting("bqShowTr") !== true;
     const trLabel = (tl === "en" ? "EN" : "TR");
     const items = qs.map(q => {
       let body = "";
@@ -903,8 +901,8 @@
         const el = fillLines(q.text.el, q.answers, "el"), tr = fillLines(q.text[tl] || c(q.text), q.answers, tl);
         body = `<ol class="bq-list">${el.map((line, i) => `<li>${pair(line, tr[i] || "")}</li>`).join("")}</ol>`;
       } else if (q.type === "tf") {
-        body = `<ul class="bq-list">${q.items.map(it => `<li><span class="bq-tf ${it.answer ? "ok" : "bad"}">${it.answer ? "✓ " + esc(t("true")) : "✗ " + esc(t("false"))}</span> ${T(it.text)}${!it.answer && it.fix
-          ? `<div class="bq-fix"><span class="bq-fix-h">✓ ${esc(t("correctVersion"))}:</span> ${pair(fmt(it.fix.el), fmt(it.fix[tl] || c(it.fix)))}</div>` : ""}</li>`).join("")}</ul>`;
+        body = `<ul class="bq-list">${q.items.map(it => `<li><span class="bq-tf ${it.answer ? "ok" : "bad"}" lang="el">${it.answer ? "✓ Σωστό" : "✗ Λάθος"}${L !== "el" ? `<span class="bq-tr"> · ${esc(t(it.answer ? "true" : "false"))}</span>` : ""}</span> ${T(it.text)}${!it.answer && it.fix
+          ? `<div class="bq-fix"><span class="bq-fix-h" lang="el">✓ Σωστό είναι:</span> ${pair(fmt(it.fix.el), fmt(it.fix[tl] || c(it.fix)))}</div>` : ""}</li>`).join("")}</ul>`;
       } else if (q.type === "mc") {
         const a = q.options[q.answer];
         const gap = /_{3,}/;

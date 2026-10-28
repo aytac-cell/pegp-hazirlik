@@ -24,14 +24,14 @@
   }
 
   // ---------- generators ----------
-  // lesson text in the chosen lesson language ("tr" | "en" | "el" | "el+")
+  // translation language: the lesson language when it is tr/en, otherwise the interface language
+  function trLang() { const L = Store.setting("lessonLang"); return L === "tr" || L === "en" ? L : I18N.lang; }
+
+  // questions are asked in Greek, as in the exam; the translation (.q-tr) opens with the TR button
   function lt(T) {
-    const L = Store.setting("lessonLang") || I18N.lang;
-    if ((L === "el" || L === "el+") && T.el) {
-      const tr = c(T);
-      return `<span lang="el">${esc(plain(T.el))}</span>` + (L === "el+" && tr && tr !== T.el ? `<span class="tr-sub">${esc(plain(tr))}</span>` : "");
-    }
-    return esc(plain(T[L] || c(T)));
+    if (!T.el) return esc(plain(T[trLang()] || c(T)));
+    const tr = T[trLang()] || c(T);
+    return `<span lang="el">${esc(plain(T.el))}</span>` + (tr && tr !== T.el ? `<span class="tr-sub q-tr">${esc(plain(tr))}</span>` : "");
   }
 
   // the completed Greek sentence with its translation, shown after answering ("Türkçesi" button)
@@ -105,14 +105,26 @@
     root._quiz = qs;     // for debugging/tests; not rendered
     let i = 0, score = 0;
     const wrong = [];
+    const trLabel = trLang() === "en" ? "EN" : "TR";
+    const setTr = show => {
+      root.classList.toggle("hide-qtr", !show);
+      root.querySelectorAll("[data-qtr]").forEach(b => b.setAttribute("aria-pressed", String(show)));
+    };
+    const trBtn = () => `<button type="button" class="tr-toggle" data-qtr aria-pressed="false" title="${esc(t("trToggle"))}">${trLabel}</button>`;
+    root.addEventListener("click", e => {
+      const b = e.target.closest("[data-qtr]"); if (!b) return;
+      const show = b.getAttribute("aria-pressed") !== "true";
+      Store.setting("quizShowTr", show); setTr(show);
+    });
     function show() {
       if (i >= qs.length) return finish();
       const q = qs[i];
       root.innerHTML = `<div class="study-head"><div class="bar"><span style="width:${100 * i / qs.length}%;background:var(--primary)"></span></div><span class="small muted">${i + 1}/${qs.length} · ✓ ${score}</span></div>
-        <article class="card qcard fade-in show-tr quiz-card">${q.meaning ? `<button class="mean-btn" type="button" hidden aria-expanded="false">${esc(t("meaningBtn"))}</button>` : ""}<div class="quiz-prompt">${q.prompt}</div>
+        <article class="card qcard fade-in show-tr quiz-card"><div class="quiz-tools">${q.meaning ? `<button class="mean-btn" type="button" hidden aria-expanded="false">${esc(t("meaningBtn"))}</button>` : ""}${q.kind === "text" ? trBtn() : ""}</div><div class="quiz-prompt">${q.prompt}</div>
         ${q.meaning ? `<div class="mean-box" hidden>${q.meaning}</div>` : ""}
         <div class="options">${q.opts.map((o, k) => `<button class="opt" type="button"><span class="letter">${L4[k]}</span><span>${o}</span></button>`).join("")}</div>
         <div class="actions"></div></article>`;
+      setTr(Store.setting("quizShowTr") === true);
       const btns = root.querySelectorAll(".opt"), actions = root.querySelector(".actions");
       const meanBtn = root.querySelector(".mean-btn"), meanBox = root.querySelector(".mean-box");
       if (meanBtn) meanBtn.addEventListener("click", () => {
@@ -146,8 +158,9 @@
         <div class="row" style="justify-content:center">${pass
           ? `<button class="btn btn-primary" data-act="next">${esc(t("quizNext"))}</button>`
           : `<button class="btn btn-primary" data-act="reread">📖 ${esc(t("quizReread"))}</button>`}</div>
-        ${wrong.length ? `<div style="text-align:left;margin-top:1.2rem"><h3>${esc(t("quizReview"))}</h3>${wrong.map(q => `<div class="card" style="box-shadow:none;margin-top:.5rem;padding:.7rem .9rem"><div class="quiz-prompt small">${q.prompt}</div><div class="fix ok" style="margin-top:.3rem">✓ ${q.opts[q.ans]}</div>${q.explain ? `<div class="small muted" style="margin-top:.3rem">💡 ${q.explain}</div>` : ""}${q.meaning ? `<div class="mean-box" style="margin-top:.5rem">${q.meaning}</div>` : ""}</div>`).join("")}</div>` : ""}
+        ${wrong.length ? `<div style="text-align:left;margin-top:1.2rem"><div class="row" style="justify-content:space-between"><h3 style="margin:0">${esc(t("quizReview"))}</h3>${trBtn()}</div>${wrong.map(q => `<div class="card" style="box-shadow:none;margin-top:.5rem;padding:.7rem .9rem"><div class="quiz-prompt small">${q.prompt}</div><div class="fix ok" style="margin-top:.3rem">✓ ${q.opts[q.ans]}</div>${q.explain ? `<div class="small muted" style="margin-top:.3rem">💡 ${q.explain}</div>` : ""}${q.meaning ? `<div class="mean-box" style="margin-top:.5rem">${q.meaning}</div>` : ""}</div>`).join("")}</div>` : ""}
       </div>`;
+      setTr(Store.setting("quizShowTr") === true);
       root.querySelector("[data-act]").addEventListener("click", e => (e.target.closest("[data-act]").dataset.act === "next" ? opts.onPass : opts.onFail)(score));
       root.scrollIntoView({ block: "start" });
     }

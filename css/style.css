@@ -401,8 +401,11 @@ input[type="number"] { min-height: 42px; width: 110px; padding: .4rem .6rem; bor
 
 /* ---------- quiz sentence meaning ---------- */
 .quiz-card { position: relative; }
-.quiz-card .quiz-prompt { padding-right: 7.5rem; }
-.mean-btn { position: absolute; top: .9rem; right: .9rem; border: 1.5px solid var(--primary); color: var(--primary); background: var(--surface); border-radius: 999px; padding: .3rem .8rem; font-weight: 600; font-size: .85rem; cursor: pointer; }
+.quiz-card .quiz-prompt { padding-right: 10rem; }
+.quiz-tools { position: absolute; top: .9rem; right: .9rem; display: flex; gap: .4rem; align-items: center; }
+.quiz-tools .tr-toggle { float: none; font-size: .85rem; padding: .3rem .8rem; }
+.hide-qtr .q-tr { display: none; }
+.mean-btn { border: 1.5px solid var(--primary); color: var(--primary); background: var(--surface); border-radius: 999px; padding: .3rem .8rem; font-weight: 600; font-size: .85rem; cursor: pointer; }
 .mean-btn[aria-expanded="true"] { background: var(--primary); color: var(--primary-ink); }
 .mean-box { margin: .7rem 0 .2rem; padding: .65rem .85rem; border-radius: 10px; background: var(--primary-soft); }
 .mean-el { font-family: var(--font-el); font-size: 1.05rem; }
@@ -482,7 +485,7 @@ input[type="number"] { min-height: 42px; width: 110px; padding: .4rem .6rem; bor
 .tr-toggle[aria-pressed="false"] { background: var(--surface); color: var(--primary); text-decoration: line-through; }
 .tr-toggle.all { float: none; }
 .bq-item.hide-tr .bq-tr { display: none; }
-.bq-item.hide-tr .bq-el { display: inline; color: var(--text); font-size: 1em; }
+.bq-tf .bq-tr { font-weight: 400; }
 
 /* ---------- exam facts ---------- */
 .exam-facts { border: 2px solid var(--warn); background: var(--warn-soft); border-radius: 12px; padding: .75rem .95rem; }

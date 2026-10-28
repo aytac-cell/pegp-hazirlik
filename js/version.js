@@ -1,7 +1,18 @@
 // App version and release notes. Bump VERSION here (and VERSION in sw.js) for every release,
 // add an entry at the top of CHANGES, and tag the commit as v<version>.
-window.APP_VERSION = "1.12.1";
+window.APP_VERSION = "1.13.0";
 window.APP_CHANGES = [
+  {
+    v: "1.13.0", date: "2026-10-28",
+    tr: [
+      "Bölüm sınavları artık sınavdaki gibi Yunanca: soru, şıklar ve açıklama Yunanca; «TR» butonuna basınca altlarında Türkçesi açılır (tercih hatırlanır)",
+      "Derslerdeki sınav soruları kutusu da her ders dilinde Yunanca; Doğru/Yanlış etiketleri «✓ Σωστό / ✗ Λάθος», Türkçe çeviri «TR» butonuyla açılır"
+    ],
+    en: [
+      "Section quizzes are now in Greek, as in the exam: question, options and explanation; the «EN» button opens the translation underneath (remembered)",
+      "The lesson exam-question box is in Greek in every lesson language; true/false labels read «✓ Σωστό / ✗ Λάθος», translation behind the button"
+    ]
+  },
   {
     v: "1.12.1", date: "2026-10-28",
     tr: [
